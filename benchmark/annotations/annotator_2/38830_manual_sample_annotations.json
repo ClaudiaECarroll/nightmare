@@ -1,0 +1,531 @@
+{
+  "name": "38830_manual_sample",
+  "source_file": "38830_manual_sample.txt",
+  "created": "2026-07-20T10:00:35",
+  "modified": "2026-07-27T11:26:39",
+  "text_length": 17640,
+  "completed": false,
+  "spans": [
+    {
+      "start": 180,
+      "end": 215,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Morlene",
+      "text": "\"Stand back from that door, Harry,\""
+    },
+    {
+      "start": 2160,
+      "end": 2202,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"The poor soul must be suffering greatly,\""
+    },
+    {
+      "start": 2638,
+      "end": 2691,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Leddy, please, miss, is dis de Linktum horsepittul?\""
+    },
+    {
+      "start": 2693,
+      "end": 2736,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Yes, aunty, this is the Lincoln Hospital,\""
+    },
+    {
+      "start": 2832,
+      "end": 2950,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Thankee! Thankee Jesus! Thankee! Heah at las'! De ole' ship dun foun' er harbur. Got er place ter cross ober Jordun.\""
+    },
+    {
+      "start": 2983,
+      "end": 3074,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Chile, does yer know anyt'ing 'bout Jesus? Oh! he promis' me dis, an' he's kep' his word.\""
+    },
+    {
+      "start": 3250,
+      "end": 3265,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Come with me,\""
+    },
+    {
+      "start": 3634,
+      "end": 3699,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Leddy, ken you fin' a pair ub specks fitten' fur one ob my age?\""
+    },
+    {
+      "start": 3701,
+      "end": 3721,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"I will try, aunty,\""
+    },
+    {
+      "start": 3960,
+      "end": 3997,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Leddy, please sing dat chune ergin,\""
+    },
+    {
+      "start": 4107,
+      "end": 4142,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Laws 'a mussy! Ef it ain't Lenie!\""
+    },
+    {
+      "start": 4144,
+      "end": 4161,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Aunt Catherine!\""
+    },
+    {
+      "start": 4551,
+      "end": 4557,
+      "labels": [
+        "other"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "Lenie,"
+    },
+    {
+      "start": 4782,
+      "end": 4899,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Dear Aunt Catherine, do tell me all about yourself since the day I left you to wait on—on—Harry. I searched R—— from"
+    },
+    {
+      "start": 4907,
+      "end": 5020,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": " one end to the other, time and again, looking for you. And here you are in Chicago! Tell me how you have fared?\""
+    },
+    {
+      "start": 5022,
+      "end": 5030,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Chile,\""
+    },
+    {
+      "start": 5052,
+      "end": 5175,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"seein' you, Lenie, hez driv' erway all my trubbuls. 'Pears ter me, I dun got young ergin an' am down Souf at de ole home.\""
+    },
+    {
+      "start": 5352,
+      "end": 6306,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"W'en I retched de city arter leavin' de ole homestid, I 'gun ter hunt fur wuck. I got er place ter cook fur er white fambly. De leddy dat hi'ed me wuzunt rich. She wus jes a good liver. Her husban's bizness fell off an' she had ter hire jes' one 'oman ter cook, an' wash, an' i'ne, an' scrub de floors, an' keep house. I wuz de fus' ter try it, but I kudden' hole out, chile. I jes' kudden'. Er sprightly gal tuck my place. Den I hed er hard time, Lenie. Yer Aunt Catharine hed ter beg frum door ter door. I slep' on bar' floors in shackly houses, dat wuz empty kase folks wouldn't rent 'um. I went to de dumps an' scratched in de trash piles fur charcoals and scraps ter burn ter keep me warm. I begged money ernuf ter cum ter Churcargo, an' heah I is. Dey tole me dat Linktum wuz frum dis State an' I wuz in hopes ub doin' bettah up heah. But, Lenie, 'pears ter me dat de po darky aint got much ub er show enywhurs. I hez found it hard Norf an' Souf.\""
+    },
+    {
+      "start": 6306,
+      "end": 6314,
+      "labels": [
+        "other"
+      ],
+      "note": "ARTIFACT",
+      "speaker": "",
+      "text": "[Pg 138]"
+    },
+    {
+      "start": 6316,
+      "end": 6423,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Well, henceforth, I shall take charge of you, and walk through life by your side, my dear Aunt Catherine,\""
+    },
+    {
+      "start": 6550,
+      "end": 6582,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Ain't the doctah tole yer yit?\""
+    },
+    {
+      "start": 6627,
+      "end": 6651,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Told me what, my dear?\""
+    },
+    {
+      "start": 6671,
+      "end": 6850,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Why, chile, I aint heah fur long. De doctahs sez I kaint git well. De gospil train dun blowed. It is rollin' into de depot. Capting Jesus is de cunducter. I hez my ticket ready.\""
+    },
+    {
+      "start": 6961,
+      "end": 7183,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Aunt Catherine singing a song",
+      "text": "\"De Gospil train am comin',\nI heah it jes' at han',\nI heah de car wheels movin',\nEr rumblin' through de lan'\nGit on bo'd, little chillun,\nGit on bo'd, little chillun,\nGit on bo'd, little chillun,\nDare's room fur many mo'.\""
+    },
+    {
+      "start": 7184,
+      "end": 7219,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Yes, Lenie, I'll soon be on bo'd,\""
+    },
+    {
+      "start": 7244,
+      "end": 7620,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"De Yankees was mighty anxious to set us poor darkeys free, but it ain't done me no good. Fack ub de mattah, Lenie, freedum mebbe good fur you young uns who wuzunt use ter de ole times. Fur your sakes I is glad its come. But I'se hed a hard time. Enyhow, it is mos' ober now. Marse Maury is ded, an' Missus is ded, an' a upstart is on de ole place, an' hez been driftin' 'bout"
+    },
+    {
+      "start": 7628,
+      "end": 7653,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": " frum 'pillar ter pos'.'\""
+    },
+    {
+      "start": 7749,
+      "end": 7774,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Do yer see dis tin box?\""
+    },
+    {
+      "start": 7958,
+      "end": 7966,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Lenie,\""
+    },
+    {
+      "start": 8036,
+      "end": 8112,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"as yer value yer own soul, do wid dis tin box lack I'm gwine ter tell yer.\""
+    },
+    {
+      "start": 8170,
+      "end": 8390,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"W'en yer wuz er gal, Lenie, did yer ebber heah dat our fust juty on jedgment day would be to git up frum whar eber we wuz burrit and hunt fur de diff'runt pieces ub our finger nails dat we hed cut off all through life?\""
+    },
+    {
+      "start": 8392,
+      "end": 8414,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Yes, Aunt Catherine,\""
+    },
+    {
+      "start": 8435,
+      "end": 8998,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Wal, dis box hez got all my finger nails dat I cut off since I wuz er gal. Bury dis box at de foot ub Maury and Missus, Lenie. W'en jedgment day comes I want ter git up wid dem. Ef my nails is burrit by dem, I'll have ter go dare whar dey is. See? Yer know white folks ginilly ain't got heart-felt 'ligun like cullud folks. But Marse and Missus shuah got shuah 'nuf 'ligun. I wants ter git up wid 'um an' stan' by 'um in jedgment, ter speak up fur um, ef eny body wants ter go ergin' um jes' kase dey is white. See? Ef dey doan b'long in hebun, den nobody doan.\""
+    },
+    {
+      "start": 9074,
+      "end": 9096,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"But, Aunt Catherine,\""
+    },
+    {
+      "start": 9117,
+      "end": 9367,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"when you do pass away, which I hope will not be soon, let me bury your whole body where you tell me to put this tin box. Lemuel Dalton surely would not refuse to allow the fulfillment of the solemn promise made to you by Uncle Maurice and his wife.\""
+    },
+    {
+      "start": 9369,
+      "end": 9455,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Chile, I hed ter sell dis ole body ter de doctah ter git mony ter lib on while heah.\""
+    },
+    {
+      "start": 9457,
+      "end": 9478,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Oh, Aunt Catherine!\""
+    },
+    {
+      "start": 9531,
+      "end": 9544,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Ha, ha, ha!\""
+    },
+    {
+      "start": 9569,
+      "end": 9595,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"That aint so bad, Lenie,\""
+    },
+    {
+      "start": 9606,
+      "end": 9723,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"I sole my soul ter Jesus long ergo, an' w'en he takes it, dese doctahs kin do whut dey choose wid my pore ole body.\""
+    },
+    {
+      "start": 9825,
+      "end": 9930,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Bettah be laughin' fur joy, chile, fur er few more risin's an' settin's ub de sun an' I'll be in glory.\""
+    },
+    {
+      "start": 12149,
+      "end": 12169,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Warthell Movement.\""
+    },
+    {
+      "start": 12368,
+      "end": 12557,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Sure sign that I did right to attack that scoundrel Warthell, if it has made this old Democratic paper mad. Ha, ha, ha! Morlene thought I was doing wrong. I wasn't though, anybody can see,"
+    },
+    {
+      "start": 12565,
+      "end": 12657,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": " for what would this old Democratic paper be kicking about if what I did wasn't against it?\""
+    },
+    {
+      "start": 12717,
+      "end": 13139,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"We'll hear a different tune when the Northern Republican papers begin to discuss our attempt to get rid of these Negro traitors who are plotting to undo all that the North has done for us. I take my medicine from the North; let the South go where it please. See? Any Negro that will stand up for the South against the North is an infernal, ungrateful, good for nothing rascal, and ought to be killed. Tell him I said so.\""
+    },
+    {
+      "start": 13801,
+      "end": 13850,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Now we shall hear the thing talked about right.\""
+    },
+    {
+      "start": 13876,
+      "end": 13902,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"A Crime Against Freedom.\""
+    },
+    {
+      "start": 14138,
+      "end": 14164,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"A Crime Against Freedom.\""
+    },
+    {
+      "start": 14165,
+      "end": 14246,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Yes, yes; only it ought to be 'An Unpardonable Crime,' for that is what it was.\""
+    },
+    {
+      "start": 14360,
+      "end": 16519,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"The United States of America is a government ruled by the duly ascertained will of a majority of its citizens. Each qualified citizen has the right of casting one vote in support of whatever side of an issue that pleases him. Each citizen has the further right to use all legitimate means in his power to induce other citizens to cast their votes as he casts his.\n\n\"The right of advocacy is, if possible, more sacred than the right to vote, for the votes of fellow citizens go well nigh the whole length in shaping a man's environments. Since the votes of others are the majority influence in determining a man's environments, it is manifestly unjust to deny him the opportunity of influencing these votes. He who strikes at freedom of speech strikes at the corner-stone of our republic, and, to our view, commits the greatest crime that a citizen can commit against a government.\n\n\"It is well known that we are in full accord with the Republican party's policy with reference to the[Pg 145] Philippine Islands. While we are firmly of the opinion that the party is right, we nevertheless strenuously insist that those who hold contrary views be accorded the right to advocate those views.\n\n\"Dorlan Warthell, a Negro in the South, has seen fit to publicly disapprove of a portion of the party's policy, whereupon a Negro Republican zealot has sought to take his life. The Republican party repudiates such vile methods and the man who resorts to them.\n\n\"Mr. Warthell has as much right to express his views, whatever they may be, as the President of the nation. The fact that he is a member of a race that obtained its freedom through the instrumentality of the Republican party does not alter the matter in the least. The Republican party has no political slaves and desires none. It seeks to commend itself to the hearts and consciences of men, and spurns every semblance of coercion.\n\n\"The miscreant who sought to kill Mr. Warthell, because that individual dared to be a man, is unworthy of life. If the arms of justice are too short to reach him, it is hardly to be hoped that he will have the good sense to bring his own unprofitable existence to a close.\""
+    },
+    {
+      "start": 16832,
+      "end": 16998,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"I can surprise them yet. They say 'It is hardly to be hoped that he will have the good sense to bring his own unprofitable existence to a close.' Aha! we shall see!\""
+    },
+    {
+      "start": 16867,
+      "end": 16978,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "'It is hardly to be hoped that he will have the good sense to bring his own unprofitable existence to a close.'"
+    }
+  ]
+}

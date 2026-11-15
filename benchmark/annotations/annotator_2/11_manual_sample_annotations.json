@@ -1,0 +1,1099 @@
+{
+  "name": "11_manual_sample",
+  "source_file": "11_manual_sample.txt",
+  "created": "2026-07-20T09:59:24",
+  "modified": "2026-07-27T11:26:12",
+  "text_length": 17920,
+  "completed": false,
+  "spans": [
+    {
+      "start": 0,
+      "end": 26,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Alice",
+      "text": "“Curiouser and curiouser!”"
+    },
+    {
+      "start": 132,
+      "end": 211,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Alice",
+      "text": "“now I’m opening out like the largest telescope that ever was! Good-bye, feet!”"
+    },
+    {
+      "start": 321,
+      "end": 575,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Oh, my poor little feet, I wonder who will put on your shoes and stockings for you now, dears? I’m sure I shan’t be able! I shall be a great deal too far off to trouble myself about you: you must manage the best way you can;—but I must be kind to them,”"
+    },
+    {
+      "start": 591,
+      "end": 705,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“or perhaps they won’t walk the way I want to go! Let me see: I’ll give them a new pair of boots every Christmas.”"
+    },
+    {
+      "start": 768,
+      "end": 798,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“They must go by the carrier,”"
+    },
+    {
+      "start": 812,
+      "end": 1058,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“and how funny it’ll seem, sending presents to one’s own feet! And how odd the directions will look!\n\n     Alice’s Right Foot, Esq.,\n       Hearthrug,\n         near the Fender,\n           (with Alice’s love).\nOh dear, what nonsense I’m talking!”\n"
+    },
+    {
+      "start": 1444,
+      "end": 1482,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“You ought to be ashamed of yourself,”"
+    },
+    {
+      "start": 1495,
+      "end": 1519,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“a great girl like you,”"
+    },
+    {
+      "start": 1547,
+      "end": 1607,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“to go on crying in this way! Stop this moment, I tell you!”"
+    },
+    {
+      "start": 2091,
+      "end": 2172,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Rabbit",
+      "text": "“Oh! the Duchess, the Duchess! Oh! won’t she be savage if I’ve kept her waiting!”"
+    },
+    {
+      "start": 2309,
+      "end": 2330,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Alice",
+      "text": "“If you please, sir—”"
+    },
+    {
+      "start": 2588,
+      "end": 2935,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Dear, dear! How queer everything is to-day! And yesterday things went on just as usual. I wonder if I’ve been changed in the night? Let me think: was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I’m not the same, the next question is, Who in the world am I? Ah, that’s the great puzzle!”"
+    },
+    {
+      "start": 3084,
+      "end": 3107,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I’m sure I’m not Ada,”"
+    },
+    {
+      "start": 3118,
+      "end": 3828,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“for her hair goes in such long ringlets, and mine doesn’t go in ringlets at all; and I’m sure I can’t be Mabel, for I know all sorts of things, and she, oh! she knows such a very little! Besides, she’s she, and I’m I, and—oh dear, how puzzling it all is! I’ll try if I know all the things I used to know. Let me see: four times five is twelve, and four times six is thirteen, and four times seven is—oh dear! I shall never get to twenty at that rate! However, the Multiplication Table doesn’t signify: let’s try Geography. London is the capital of Paris, and Paris is the capital of Rome, and Rome—no, that’s all wrong, I’m certain! I must have been changed for Mabel! I’ll try and say ‘How doth the little—’”"
+    },
+    {
+      "start": 3805,
+      "end": 3827,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Mabel",
+      "text": "‘How doth the little—’"
+    },
+    {
+      "start": 4021,
+      "end": 4140,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“How doth the little crocodile\n    Improve his shining tail,\nAnd pour the waters of the Nile\n    On every golden scale!"
+    },
+    {
+      "start": 4142,
+      "end": 4268,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“How cheerfully he seems to grin,\n    How neatly spread his claws,\nAnd welcome little fishes in\n    With gently smiling jaws!”"
+    },
+    {
+      "start": 4270,
+      "end": 4311,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I’m sure those are not the right words,”"
+    },
+    {
+      "start": 4382,
+      "end": 4882,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I must be Mabel after all, and I shall have to go and live in that poky little house, and have next to no toys to play with, and oh! ever so many lessons to learn! No, I’ve made up my mind about it; if I’m Mabel, I’ll stay down here! It’ll be no use their putting their heads down and saying ‘Come up again, dear!’ I shall only look up and say ‘Who am I then? Tell me that first, and then, if I like being that person, I’ll come up: if not, I’ll stay down here till I’m somebody else’—but, oh dear!”"
+    },
+    {
+      "start": 4675,
+      "end": 4697,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "MABEL",
+      "text": "‘Come up again, dear!’"
+    },
+    {
+      "start": 4926,
+      "end": 5014,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I do wish they would put their heads down! I am so very tired of being all alone here!”"
+    },
+    {
+      "start": 5175,
+      "end": 5202,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“How can I have done that?”"
+    },
+    {
+      "start": 5216,
+      "end": 5248,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I must be growing small again.”"
+    },
+    {
+      "start": 5572,
+      "end": 5599,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“That was a narrow escape!”"
+    },
+    {
+      "start": 5707,
+      "end": 5732,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“and now for the garden!”"
+    },
+    {
+      "start": 5894,
+      "end": 5927,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“and things are worse than ever,”"
+    },
+    {
+      "start": 5952,
+      "end": 6041,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“for I never was so small as this before, never! And I declare it’s too bad, that it is!”"
+    },
+    {
+      "start": 6215,
+      "end": 6259,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“and in that case I can go back by railway,”"
+    },
+    {
+      "start": 6695,
+      "end": 6727,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I wish I hadn’t cried so much!”"
+    },
+    {
+      "start": 6787,
+      "end": 6942,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer to-day.”"
+    },
+    {
+      "start": 7252,
+      "end": 7282,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Would it be of any use, now,”"
+    },
+    {
+      "start": 7298,
+      "end": 7451,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“to speak to this mouse? Everything is so out-of-the-way down here, that I should think very likely it can talk: at any rate, there’s no harm in trying.”"
+    },
+    {
+      "start": 7466,
+      "end": 7563,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“O Mouse, do you know the way out of this pool? I am very tired of swimming about here, O Mouse!”"
+    },
+    {
+      "start": 7733,
+      "end": 7781,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“A mouse—of a mouse—to a mouse—a mouse—O mouse!”"
+    },
+    {
+      "start": 7906,
+      "end": 7946,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Perhaps it doesn’t understand English,”"
+    },
+    {
+      "start": 7962,
+      "end": 8032,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I daresay it’s a French mouse, come over with William the Conqueror.”"
+    },
+    {
+      "start": 8162,
+      "end": 8181,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "\"She began\" == talking",
+      "speaker": "",
+      "text": "“Où est ma chatte?”"
+    },
+    {
+      "start": 8328,
+      "end": 8352,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Oh, I beg your pardon!”"
+    },
+    {
+      "start": 8427,
+      "end": 8465,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I quite forgot you didn’t like cats.”"
+    },
+    {
+      "start": 8467,
+      "end": 8483,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Not like cats!”"
+    },
+    {
+      "start": 8532,
+      "end": 8569,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Would you like cats if you were me?”"
+    },
+    {
+      "start": 8571,
+      "end": 8591,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Well, perhaps not,”"
+    },
+    {
+      "start": 8623,
+      "end": 8790,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“don’t be angry about it. And yet I wish I could show you our cat Dinah: I think you’d take a fancy to cats if you could only see her. She is such a dear quiet thing,”"
+    },
+    {
+      "start": 8861,
+      "end": 9057,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“and she sits purring so nicely by the fire, licking her paws and washing her face—and she is such a nice soft thing to nurse—and she’s such a capital one for catching mice—oh, I beg your pardon!”"
+    },
+    {
+      "start": 9174,
+      "end": 9229,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“We won’t talk about her any more if you’d rather not.”"
+    },
+    {
+      "start": 9231,
+      "end": 9243,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“We indeed!”"
+    },
+    {
+      "start": 9308,
+      "end": 9438,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“As if I would talk on such a subject! Our family always hated cats: nasty, low, vulgar things! Don’t let me hear the name again!”"
+    },
+    {
+      "start": 9440,
+      "end": 9457,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I won’t indeed!”"
+    },
+    {
+      "start": 9526,
+      "end": 9560,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Are you—are you fond—of—of dogs?”"
+    },
+    {
+      "start": 9613,
+      "end": 10042,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“There is such a nice little dog near our house I should like to show you! A little bright-eyed terrier, you know, with oh, such long curly brown hair! And it’ll fetch things when you throw them, and it’ll sit up and beg for its dinner, and all sorts of things—I can’t remember half of them—and it belongs to a farmer, you know, and he says it’s so useful, it’s worth a hundred pounds! He says it kills all the rats and—oh dear!”"
+    },
+    {
+      "start": 10076,
+      "end": 10112,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I’m afraid I’ve offended it again!”"
+    },
+    {
+      "start": 10263,
+      "end": 10365,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Mouse dear! Do come back again, and we won’t talk about cats or dogs either, if you don’t like them!”"
+    },
+    {
+      "start": 10531,
+      "end": 10646,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Let us get to the shore, and then I’ll tell you my history, and you’ll understand why it is I hate cats and dogs.”"
+    },
+    {
+      "start": 11487,
+      "end": 11531,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I am older than you, and must know better;”"
+    },
+    {
+      "start": 11761,
+      "end": 11833,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Sit down, all of you, and listen to me! I’ll soon make you dry enough!”"
+    },
+    {
+      "start": 12031,
+      "end": 12038,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Ahem!”"
+    },
+    {
+      "start": 12077,
+      "end": 12405,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Mouse",
+      "text": "“are you all ready? This is the driest thing I know. Silence all round, if you please! ‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English, who wanted leaders, and had been of late much accustomed to usurpation and conquest. Edwin and Morcar, the earls of Mercia and Northumbria—’”"
+    },
+    {
+      "start": 12164,
+      "end": 12404,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "Reciting something",
+      "speaker": "",
+      "text": "‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English, who wanted leaders, and had been of late much accustomed to usurpation and conquest. Edwin and Morcar, the earls of Mercia and Northumbria—’"
+    },
+    {
+      "start": 12407,
+      "end": 12413,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Ugh!”"
+    },
+    {
+      "start": 12445,
+      "end": 12465,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I beg your pardon!”"
+    },
+    {
+      "start": 12511,
+      "end": 12527,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Did you speak?”"
+    },
+    {
+      "start": 12529,
+      "end": 12537,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Not I!”"
+    },
+    {
+      "start": 12562,
+      "end": 12582,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I thought you did,”"
+    },
+    {
+      "start": 12599,
+      "end": 12765,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“—I proceed. ‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—’”"
+    },
+    {
+      "start": 12612,
+      "end": 12764,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—’"
+    },
+    {
+      "start": 12767,
+      "end": 12780,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Found what?”"
+    },
+    {
+      "start": 12797,
+      "end": 12808,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Found it,”"
+    },
+    {
+      "start": 12843,
+      "end": 12880,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“of course you know what ‘it’ means.”"
+    },
+    {
+      "start": 12868,
+      "end": 12872,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "‘it’"
+    },
+    {
+      "start": 12882,
+      "end": 12940,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I know what ‘it’ means well enough, when I find a thing,”"
+    },
+    {
+      "start": 12896,
+      "end": 12898,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "it"
+    },
+    {
+      "start": 12956,
+      "end": 13037,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“it’s generally a frog or a worm. The question is, what did the archbishop find?”"
+    },
+    {
+      "start": 13102,
+      "end": 13304,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“‘—found it advisable to go with Edgar Atheling to meet William and offer him the crown. William’s conduct at first was moderate. But the insolence of his Normans—’ How are you getting on now, my dear?”"
+    },
+    {
+      "start": 13103,
+      "end": 13266,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "‘—found it advisable to go with Edgar Atheling to meet William and offer him the crown. William’s conduct at first was moderate. But the insolence of his Normans—’"
+    },
+    {
+      "start": 13350,
+      "end": 13367,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“As wet as ever,”"
+    },
+    {
+      "start": 13401,
+      "end": 13436,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“it doesn’t seem to dry me at all.”"
+    },
+    {
+      "start": 13438,
+      "end": 13453,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“In that case,”"
+    },
+    {
+      "start": 13498,
+      "end": 13587,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I move that the meeting adjourn, for the immediate adoption of more energetic remedies—”"
+    },
+    {
+      "start": 13589,
+      "end": 13605,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Speak English!”"
+    },
+    {
+      "start": 13623,
+      "end": 13724,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I don’t know the meaning of half those long words, and, what’s more, I don’t believe you do either!”"
+    },
+    {
+      "start": 13819,
+      "end": 13845,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“What I was going to say,”"
+    },
+    {
+      "start": 13881,
+      "end": 13945,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“was, that the best thing to get us dry would be a Caucus-race.”"
+    },
+    {
+      "start": 13947,
+      "end": 13971,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“What is a Caucus-race?”"
+    },
+    {
+      "start": 14139,
+      "end": 14145,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Why,”"
+    },
+    {
+      "start": 14161,
+      "end": 14202,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“the best way to explain it is to do it.”"
+    },
+    {
+      "start": 14371,
+      "end": 14404,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Dodo",
+      "text": "“the exact shape doesn’t matter,”"
+    },
+    {
+      "start": 14763,
+      "end": 14782,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“The race is over!”"
+    },
+    {
+      "start": 14835,
+      "end": 14853,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“But who has won?”"
+    },
+    {
+      "start": 15131,
+      "end": 15177,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Everybody has won, and all must have prizes.”"
+    },
+    {
+      "start": 15179,
+      "end": 15211,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“But who is to give the prizes?”"
+    },
+    {
+      "start": 15245,
+      "end": 15267,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Why, she, of course,”"
+    },
+    {
+      "start": 15396,
+      "end": 15413,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Prizes! Prizes!”"
+    },
+    {
+      "start": 15647,
+      "end": 15693,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“But she must have a prize herself, you know,”"
+    },
+    {
+      "start": 15711,
+      "end": 15723,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Of course,”"
+    },
+    {
+      "start": 15755,
+      "end": 15795,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“What else have you got in your pocket?”"
+    },
+    {
+      "start": 15827,
+      "end": 15844,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Only a thimble,”"
+    },
+    {
+      "start": 15864,
+      "end": 15884,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Hand it over here,”"
+    },
+    {
+      "start": 15998,
+      "end": 16047,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“We beg your acceptance of this elegant thimble;”"
+    },
+    {
+      "start": 16654,
+      "end": 16703,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“You promised to tell me your history, you know,”"
+    },
+    {
+      "start": 16716,
+      "end": 16749,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“and why it is you hate—C and D,”"
+    },
+    {
+      "start": 16820,
+      "end": 16852,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Mine is a long and a sad tale!”"
+    },
+    {
+      "start": 16901,
+      "end": 16932,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“It is a long tail, certainly,”"
+    },
+    {
+      "start": 16991,
+      "end": 17020,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“but why do you call it sad?”"
+    },
+    {
+      "start": 17150,
+      "end": 17919,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Fury said to a\n         mouse, That he\n        met in the\n       house,\n     ‘Let us\n      both go to\n       law: I will\n        prosecute\n         you.—Come,\n           I’ll take no\n           denial; We\n          must have a\n        trial: For\n      really this\n     morning I’ve\n    nothing\n    to do.’\n      Said the\n      mouse to the\n       cur, ‘Such\n        a trial,\n         dear sir,\n            With\n          no jury\n        or judge,\n       would be\n      wasting\n      our\n      breath.’\n        ‘I’ll be\n        judge, I’ll\n         be jury,’\n             Said\n         cunning\n          old Fury:\n          ‘I’ll\n          try the\n            whole\n            cause,\n              and\n           condemn\n           you\n          to\n           death.’”"
+    },
+    {
+      "start": 17228,
+      "end": 17456,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FURY",
+      "text": "‘Let us\n      both go to\n       law: I will\n        prosecute\n         you.—Come,\n           I’ll take no\n           denial; We\n          must have a\n        trial: For\n      really this\n     morning I’ve\n    nothing\n    to do.’"
+    },
+    {
+      "start": 17503,
+      "end": 17652,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "",
+      "speaker": "MOUSE",
+      "text": "‘Such\n        a trial,\n         dear sir,\n            With\n          no jury\n        or judge,\n       would be\n      wasting\n      our\n      breath.’"
+    },
+    {
+      "start": 17661,
+      "end": 17708,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FURY",
+      "text": "‘I’ll be\n        judge, I’ll\n         be jury,’"
+    },
+    {
+      "start": 17774,
+      "end": 17918,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FURY",
+      "text": "‘I’ll\n          try the\n            whole\n            cause,\n              and\n           condemn\n           you\n          to\n           death.’"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "name": "41646_manual_sample",
+  "source_file": "41646_manual_sample.txt",
+  "created": "2026-07-23T12:31:45",
+  "modified": "2026-07-23T12:44:02",
+  "text_length": 15975,
+  "completed": false,
+  "spans": [
+    {
+      "start": 0,
+      "end": 285,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "L1",
+      "text": "'I am sorry, Miss Mowbray, that the ill state of health of the\nMarchioness prevents my having the pleasure of your company here.\nHowever my daughter, Lady Westhaven, will of course be happy to have you\nremain with her till you have fixed on some plan of life, or till you\nare of age.'\n"
+    },
+    {
+      "start": 285,
+      "end": 418,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "L2",
+      "text": "\n'Not only till Miss Mowbray is of age, my Lord, but ever, both Lady\nWesthaven and myself should be gratified by having her with us,'"
+    },
+    {
+      "start": 544,
+      "end": 597,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Emmeline",
+      "text": "'I believe, my Lord, Lady\nWesthaven will expect us.'\n"
+    },
+    {
+      "start": 1090,
+      "end": 1109,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Lord Delamere",
+      "text": "'Almost two years!'"
+    },
+    {
+      "start": 1124,
+      "end": 1285,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Lord Delamere",
+      "text": "'almost two long years must I wait,\nwithout knowing whether, at the end of that time, you will hear and pity\nme! Ah! can you, Emmeline, persist in such cruelty?'"
+    },
+    {
+      "start": 1287,
+      "end": 1322,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Emmeline",
+      "text": "'A good morning to your Lordship,' "
+    },
+    {
+      "start": 1360,
+      "end": 1394,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Westhaven",
+      "text": "'Will you dine with us, Delamere?'"
+    },
+    {
+      "start": 1418,
+      "end": 1486,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Delamere",
+      "text": "'Yes; and will go home with you now, and dress in Grosvenor street.'"
+    },
+    {
+      "start": 1558,
+      "end": 1597,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Delamere",
+      "text": "'I never was less disposed in my life,'"
+    },
+    {
+      "start": 1607,
+      "end": 1833,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Delamere",
+      "text": "'to rejoin a party,\nthan I am to go back to those grave personages up stairs: it is with the\nutmost difficulty I command my temper to meet those Crofts' on the most\nnecessary business. My blood boils, my soul recoils at them!'"
+    },
+    {
+      "start": 1835,
+      "end": 1848,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Westhaven",
+      "text": "'Pooh, pooh!'"
+    },
+    {
+      "start": 1871,
+      "end": 2202,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Westhaven",
+      "text": "'you are always taking unreasonable\naversions. Your blood is always boiling at some body or other. I tell\nyou, the Crofts' are good necessary, plodding people. Not too refined,\nperhaps, in points of honour, nor too strict in those of honesty; but\nexcellent at the main chance, as you may see by what they have done for\nthemselves.'"
+    },
+    {
+      "start": 2791,
+      "end": 2858,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Delamere",
+      "text": "'Upon my word! Crofts' wife and your Swiss\nrelation, de Bellozane!'"
+    },
+    {
+      "start": 2860,
+      "end": 2875,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Westhaven",
+      "text": "'Crofts' wife?'"
+    },
+    {
+      "start": 2877,
+      "end": 2940,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Delamere",
+      "text": "'Aye. I mean the woman who was once Fanny Delamere, my sister.'"
+    },
+    {
+      "start": 2942,
+      "end": 3031,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Westhaven",
+      "text": "'Come, Delamere, forget these heartburnings, and remember that she is\nyour sister still.'"
+    },
+    {
+      "start": 3033,
+      "end": 3059,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Delamere",
+      "text": "'I should be glad to know "
+    },
+    {
+      "start": 3097,
+      "end": 3138,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Delamere",
+      "text": " what\nbusiness Bellozane has with _her_?'"
+    },
+    {
+      "start": 3373,
+      "end": 3409,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Delamere",
+      "text": "'your servant, Lady Frances Crofts!'"
+    },
+    {
+      "start": 3819,
+      "end": 4123,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Frances",
+      "text": "'Well child! how are you? I beg your pardon for not\ncoming to enquire after you sooner: but I have had such crowds of\ncompany at Belleville Lodge, that it was impossible to escape. And\nhere's this animal here, this relation of your Lord's, really haunts me;\nso I was forced at last to bring him with me.'"
+    },
+    {
+      "start": 5046,
+      "end": 5177,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Lady Westhaven",
+      "text": "'Mr. Crofts has been so obliging as to call here twice since\nwe came to London; but unluckily was not let in. Pray how does he do?'"
+    },
+    {
+      "start": 5179,
+      "end": 5630,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Delamere",
+      "text": "'Mr. Crofts? Oh! I know very little of him. At this time of the year we\nnever meet. _He_ lives, you know, in Burlington street, and _I_ live at\nBelleville; and if he comes thither, as he sometimes does of a Friday or\nSaturday, he finds me too much engaged to know whether he is there or\nnot. I believe, tho', he is very well; and I think the last time I saw\nhim he was nearly as lively and amusing as he usually is. Don't you\nthink he was, Bellozane?'"
+    },
+    {
+      "start": 5632,
+      "end": 5654,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Bellozane",
+      "text": "'_O! assurement oui_,'"
+    },
+    {
+      "start": 5690,
+      "end": 5791,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Bellozane",
+      "text": "'_Monsieur\nCroff a toujours beaucoup de vivacité_.--_C'est un homme fort amusant ce\nMonsieur Croff._'"
+    },
+    {
+      "start": 5923,
+      "end": 6258,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Frances",
+      "text": "'Well! but now I assure you, Augusta, I'm going to be most uncommonly\ngood; and am coming, tho' 'tis a terrible heavy undertaking, to pass a\nwhole week, without company, with _mon tres cher Mari_, in\nBurlington-street. Nay, I will go still farther, and make a family party\nwith you to the play, which I generally detest of all things.'"
+    },
+    {
+      "start": 6260,
+      "end": 6293,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Westhaven",
+      "text": "'That is being really very kind,'"
+    },
+    {
+      "start": 6315,
+      "end": 6522,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Westhaven",
+      "text": "'But since you\nare so tenderly disposed towards your own family, would it not be well\nif you were to enquire after my mother? You know, I suppose, how very\nill she is; how much worse 'tis feared she may be?'"
+    },
+    {
+      "start": 6524,
+      "end": 6554,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Frances",
+      "text": "'Yes, I shall certainly call,'"
+    },
+    {
+      "start": 6606,
+      "end": 6712,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Frances",
+      "text": "'before I go home. But as to her illness, you are\nfrightened at nothing: she has only her old complaints.'"
+    },
+    {
+      "start": 6714,
+      "end": 6923,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Westhaven",
+      "text": "'Her old complaints! And are not they enough? If _I_ were in a situation\nto be useful to her; or even as it is, if Lord Westhaven would permit\nme, I should certainly think it my duty constantly to attend her.'"
+    },
+    {
+      "start": 6925,
+      "end": 7163,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "'Probably you might. And it is equally probable that it would be of no\nuse if you did. She has Brackley, and all her own people about her; and\nno more _could_ be done for her, even tho' you were to hazard your\n_precious_ life, or if _I_, "
+    },
+    {
+      "start": 7228,
+      "end": 7288,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": " should sacrifice _my_ ease and _my_ friends to\nattend her.'"
+    },
+    {
+      "start": 7461,
+      "end": 7653,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Lord Westhaven",
+      "text": "'Augusta, my love, your sister\nis too brilliant for you. You have not acquired that last polish of high\nlife, which quite effaces all other feelings; nor will you, perhaps,\never arrive at it.'"
+    },
+    {
+      "start": 7655,
+      "end": 7687,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "LADY Westhaven",
+      "text": "'God forbid that I ever should!'"
+    },
+    {
+      "start": 7746,
+      "end": 7759,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Frances",
+      "text": "'Poor thing!'"
+    },
+    {
+      "start": 7815,
+      "end": 8238,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "'You have curious ideas of domestic felicity: and it's a\nthousand pities, that instead of being what you are, destiny had not\nmade you the snug, notable wife of a country parson, with three or four\nhundred a year--You would have been pure and happy, to drive about in a\none horse chaise, make custards, walk tame about the house, and bring\nthe good man a baby every year: but really, you are now quite out of\nyour element.'"
+    },
+    {
+      "start": 8444,
+      "end": 8553,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "'_S'il y'a une chose au monde que je deteste plus qu'un notre,\nc'est la tristesse d'une societé comme cela_.'"
+    },
+    {
+      "start": 10306,
+      "end": 10320,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Bellozane",
+      "text": "'But my Lord,'"
+    },
+    {
+      "start": 10331,
+      "end": 10528,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Bellozane",
+      "text": "'if your Lordship will allow me to visit here\nas Miss Mowbray's favoured lover, I will not only drop the acquaintance\nof Lady Frances, but will put myself entirely under your Lordship's\ndirection.'"
+    },
+    {
+      "start": 10577,
+      "end": 10815,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Lord Westhaven",
+      "text": "'that he had no power\nwhatever to direct Miss Mowbray; and if he had, should never advise her\nto receive him. Be assured, Monsieur le Chevalier, that you have no\nchance of ever being acceptable to her, and you must think no more of\nher.'\n"
+    },
+    {
+      "start": 11428,
+      "end": 11448,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Lady Adelina",
+      "text": "'The air of London,'"
+    },
+    {
+      "start": 11459,
+      "end": 12034,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Lady Adelina",
+      "text": "'is not good for my child: I\ncannot help fancying he droops already. And the noise of a house where\nthere are unavoidably so many visitors, and such a multitude of\nservants, is too much for my spirits. As Lord Westhaven is desirous of\nmy staying in London till my sister Clancarryl arrives, that we may meet\nall together after being so many years divided, I will not press my\nreturn to East Cliff; but I wish he would allow me to go to some village\nnear London, where I may occasionally enjoy solitude and silence; for I\nhave that upon my heart, Emmeline, that demands both.'"
+    },
+    {
+      "start": 12505,
+      "end": 14836,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "LETTER",
+      "speaker": "",
+      "text": "'_To the Honourable George Fitz-Edward._\n\n'I have thus long forborne to answer your letter, because I have\n  not 'till now been able to collect that strength of mind which is\n  necessary, when I am to obey the inexorable duty that tears me from\n  you for ever!\n\n'That you yet _love_ me well enough to solicit my hand, is I own\n  most soothing and consolatory: but where, Fitz-Edward, is the\n  Lethean cup, without which you cannot _esteem_ me?--without which, I\n  cannot esteem myself? No! I am not worthy the honour of being your\n  wife! It is fit my fault be punished--punished by the cruel\n  obligation it lays me under of renouncing the man I love!\n\n'Fitz-Edward, I will not dissemble! I cannot, if I would! My\n  affection for you is become a part of my existence, and can end\n  but in the grave. Under the dread of your infidelity or your\n  danger, my reason was too weak to support me: now that I have no\n  longer any apprehensions of either, my reason is returned--it is\n  returned to shew me all my wretchedness, and to afford me that\n  light by which I must plunge a dagger into my own bosom.\n\n'Had I, however, no objections on my own account, there is one\n  that on another appears insuperable. Were the marriage you solicit\n  to take place, and to be followed by a family, could I bear that my\n  William, the delight and support of my life, should be as an alien\n  in his father's house, and either appear as the son of Godolphin or\n  learn to blush for his mother!\n\n'We must part, Fitz-Edward! Indeed we must! Or if we are obliged\n  to meet, do you at least forget that we ever met before.\n\n'I know that the daughter of Lord Westhaven, in youth, beauty, and\n  innocence, would not have been, however portionless, unworthy of\n  you. But what would you receive in the widow of Trelawny? A mind\n  unsettled by guilt and sorrow; spirits which have lost all relish\n  for felicity; a blemished, if not a ruined reputation, a faded\n  person, and an exhausted heart--exhausted of almost every sentiment\n  but that so fatally predominant; which now forces me to blot my\n  paper with tears, as I write this last farewel!\n\n'Farewel! most beloved Fitz-Edward!--Ah! try if it be possible to\n  be happy! Be assured I wish it; even tho' it be necessary for that\n  end to drive from your memory, for ever, the lost\n\nADELINA TRELAWNY.'\n"
+    }
+  ]
+}

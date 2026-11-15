@@ -1,0 +1,470 @@
+{
+  "name": "2046_manual_sample",
+  "source_file": "2046_manual_sample.txt",
+  "created": "2026-07-20T09:59:49",
+  "modified": "2026-07-27T11:26:49",
+  "text_length": 16112,
+  "completed": false,
+  "spans": [
+    {
+      "start": 373,
+      "end": 380,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Well,\""
+    },
+    {
+      "start": 429,
+      "end": 551,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"I is de gentman dat is to get you ready, so dat you will bring marser a good price in de Orleans market. How old is you?\""
+    },
+    {
+      "start": 628,
+      "end": 733,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"If I live to see next corn-planting time I will either be forty-five or fifty-five, I don't know which.\""
+    },
+    {
+      "start": 735,
+      "end": 748,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Dat may be,\""
+    },
+    {
+      "start": 765,
+      "end": 842,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"But now you is only thirty years old; dat is what marser says you is to be.\""
+    },
+    {
+      "start": 844,
+      "end": 871,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"I know I is more den dat,\""
+    },
+    {
+      "start": 892,
+      "end": 920,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"I knows nothing about dat,\""
+    },
+    {
+      "start": 934,
+      "end": 1140,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"but when you get in de market, an anybody axe you how old you is, an you tell 'em forty-five, marser will tie you up an gib you de whip like smoke. But if you tell 'em dat you is only thirty, den he wont.\""
+    },
+    {
+      "start": 1142,
+      "end": 1200,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Well den, I guess I will only be thirty when dey axe me,\""
+    },
+    {
+      "start": 1223,
+      "end": 1240,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"What your name?\""
+    },
+    {
+      "start": 1259,
+      "end": 1268,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Geemes,\""
+    },
+    {
+      "start": 1288,
+      "end": 1311,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Oh, Uncle Jim, is it?\""
+    },
+    {
+      "start": 1313,
+      "end": 1319,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Yes.\""
+    },
+    {
+      "start": 1321,
+      "end": 1448,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Den you must have off dem dare whiskers of yours, an when you get to Orleans you must grease dat face an make it look shiney.\""
+    },
+    {
+      "start": 1543,
+      "end": 1560,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pompey",
+      "text": "\"How old is you?\""
+    },
+    {
+      "start": 1606,
+      "end": 1651,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Toby",
+      "text": "\"I was twenty-nine last potato-digging time,\""
+    },
+    {
+      "start": 1667,
+      "end": 1686,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pompey",
+      "text": "\"What's your name?\""
+    },
+    {
+      "start": 1688,
+      "end": 1731,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Toby",
+      "text": "\"My name is Tobias, but dey call me 'Toby.'"
+    },
+    {
+      "start": 1734,
+      "end": 1856,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pompey",
+      "text": "\"Well, Toby, or Mr. Tobias, if dat will suit you better, you is now twenty-three years old, an no more. Dus you hear dat?\""
+    },
+    {
+      "start": 1858,
+      "end": 1864,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Toby",
+      "text": "\"Yes,\""
+    },
+    {
+      "start": 2021,
+      "end": 2031,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"old boys\""
+    },
+    {
+      "start": 4369,
+      "end": 4395,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Mr. Smith",
+      "text": "\"Go call my boy, steward,\""
+    },
+    {
+      "start": 4605,
+      "end": 4655,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Smith",
+      "text": "\"I will see you, and five hundred dollars better,\""
+    },
+    {
+      "start": 4711,
+      "end": 4747,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Johnson",
+      "text": "\"What price do you set on that boy?\""
+    },
+    {
+      "start": 4807,
+      "end": 4878,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Smith",
+      "text": "\"He will bring a thousand dollars, any day, in the New Orleans market,\""
+    },
+    {
+      "start": 4894,
+      "end": 4938,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Then you bet the whole of the boy, do you?\""
+    },
+    {
+      "start": 4939,
+      "end": 4945,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Yes.\""
+    },
+    {
+      "start": 4946,
+      "end": 4965,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"I call you, then,\""
+    },
+    {
+      "start": 5037,
+      "end": 5056,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"You have beat me,\""
+    },
+    {
+      "start": 5241,
+      "end": 5285,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"You will not forget that you belong to me,\""
+    },
+    {
+      "start": 5359,
+      "end": 5369,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"No, sir,\""
+    },
+    {
+      "start": 5391,
+      "end": 5506,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Now go back to your bed, and be up in time to-morrow morning to brush my clothes and clean my boots, do you hear?\""
+    },
+    {
+      "start": 5507,
+      "end": 5518,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Yes, sir,\""
+    },
+    {
+      "start": 5668,
+      "end": 5805,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"I claim the right of redeeming that boy, Mr. Johnson. My father gave him to me when I came of age, and I promised not to part with him.\""
+    },
+    {
+      "start": 5806,
+      "end": 5895,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Most certainly, sir, the boy shall be yours, whenever you hand me over a cool thousand,\""
+    },
+    {
+      "start": 6176,
+      "end": 6199,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Who do you belong to?\""
+    },
+    {
+      "start": 6298,
+      "end": 6454,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"When I went to sleep last night, I belonged to Governor Lucas; but I understand dat he is bin gambling all night, so I don't know who owns me dis morning.\""
+    },
+    {
+      "start": 7166,
+      "end": 7214,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"I want a good, trusty woman for house service,\""
+    },
+    {
+      "start": 7293,
+      "end": 7323,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Here she is, and no mistake,\""
+    },
+    {
+      "start": 7344,
+      "end": 7430,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Stand up, Currer, my gal; here's a gentleman who wishes to see if you will suit him.\""
+    },
+    {
+      "start": 7501,
+      "end": 7574,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"She is a rare cook, a good washer, and will suit you to a T, I am sure.\""
+    },
+    {
+      "start": 7575,
+      "end": 7628,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"If you buy me, I hope you will buy my daughter too,\""
+    },
+    {
+      "start": 7674,
+      "end": 7735,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"I only want one for my own use, and would not need another,\""
+    },
+    {
+      "start": 9247,
+      "end": 10186,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Our eyes are yet on Afric's shores,   Her thousand wrongs we still deplore;    We see the grim slave trader there;   We hear his fettered victim's prayer;     And hasten to the sufferer's aid,    Forgetful of our own 'slave trade.'\n   \"The Ocean 'Pirate's' fiend-like form  Shall sink beneath the vengeance-storm;   His heart of steel shall quake before       The battle-din and havoc roar:  The knave shall die, the Law hath said,  While it protects our own 'slave trade.'\n    \"What earthly eye presumes to scan      The wily Proteus-heart of man?—     What potent hand will e'er unroll    The mantled treachery of his soul!—      O where is he who hath surveyed   The horrors of our own 'slave trade?'\n  \"There is an eye that wakes in light,     There is a hand of peerless might;   Which, soon or late, shall yet assail       And rend dissimulation's veil:      Which will unfold the masquerade  Which justifies our own 'slave trade.'\""
+    },
+    {
+      "start": 10677,
+      "end": 10704,
+      "labels": [
+        "other"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"all men are created free.\""
+    },
+    {
+      "start": 10705,
+      "end": 11678,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"NEGRO DOGS.—The undersigned, having bought the entire pack of Negro dogs (of the Hay and Allen stock), he now proposes to catch runaway Negroes. His charges will be three dollars a day for hunting, and fifteen dollars for catching a runaway. He resides three and one half miles north of Livingston, near the lower Jones' Bluff Road.\n\"Nov. 6, 1845.\"\n\"NOTICE.—The subscriber, Lying on Carroway Lake, on Hoe's Bayou, in Carroll parish, sixteen miles on the road leading from Bayou Mason to Lake Providence, is ready with a pack of dogs to hunt runaway Negroes at any time. These dogs are well trained, and are known throughout the parish. Letters addressed to me at Providence will secure immediate attention. My terms are five dollars per day for hunting the trails, whether the Negro is caught or not. Where a twelve hours' trail is shown, and the Negro not taken, no charge is made. For taking a Negro, twenty-five dollars, and no charge made for hunting.\n\"Nov. 26, 1847.\""
+    }
+  ]
+}

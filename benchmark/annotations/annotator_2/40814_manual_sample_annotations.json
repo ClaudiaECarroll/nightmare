@@ -1,0 +1,730 @@
+{
+  "name": "40814_manual_sample",
+  "source_file": "40814_manual_sample.txt",
+  "created": "2026-07-20T10:00:16",
+  "modified": "2026-07-27T11:25:01",
+  "text_length": 17572,
+  "completed": false,
+  "spans": [
+    {
+      "start": 10,
+      "end": 46,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“You will be happy here, dear Ruth,”"
+    },
+    {
+      "start": 59,
+      "end": 91,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“you will be your own mistress.”"
+    },
+    {
+      "start": 1053,
+      "end": 1079,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“All the better for that.”"
+    },
+    {
+      "start": 2058,
+      "end": 2066,
+      "labels": [
+        "other"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“silly;”"
+    },
+    {
+      "start": 2160,
+      "end": 2172,
+      "labels": [
+        "other"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“frivolous;”"
+    },
+    {
+      "start": 5163,
+      "end": 5222,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "POEM",
+      "speaker": "",
+      "text": "The rose that sweetest doth awake,\nWill soonest go to rest?"
+    },
+    {
+      "start": 5242,
+      "end": 5249,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Well,”"
+    },
+    {
+      "start": 5358,
+      "end": 5511,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I hope you’ll be easy, Mis. Hall, now that we’ve toted out here, bag and baggage, to please you, when I supposed I was settled for the rest of my life.”"
+    },
+    {
+      "start": 5513,
+      "end": 5616,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Fathers can’t be expected to have as much natural affection, or to be as self-sacrificing as mothers,”"
+    },
+    {
+      "start": 5636,
+      "end": 5862,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Of course, it was some trouble to move out here; but, for Harry’s sake, I was willing to do it. What does Ruth know about house-keeping, I’d like to know? A pretty muss she’ll make of it, if I’m not around to oversee things.”"
+    },
+    {
+      "start": 5864,
+      "end": 5880,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“It strikes me,”"
+    },
+    {
+      "start": 5902,
+      "end": 6100,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“that you won’t get any thanks for it—from one side of the house, at least. Ruth never says anything when you vex her, but there’s a look in her eye which—well, Mis. Hall, it tells the whole story.”"
+    },
+    {
+      "start": 6108,
+      "end": 6123,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I’ve seen it,”"
+    },
+    {
+      "start": 6198,
+      "end": 6823,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“and it has provoked me a thousand times more than if she had thrown a brick-bat at my head. That girl is no fool, doctor. She knows very well what she is about: but diamond cut diamond, I say. Doctor, doctor, there are the hens in the garden. I want that garden kept nice. I suppose Ruth thinks that nobody can have flowers but herself. Wait till my china-asters and sweet peas come up. I’m going over to-day to take a peep round her house; I wonder what it looks like? Stuck full of gimcracks, of all sorts, I’ll warrant. Well, I shan’t furnish my best parlor till I see what she has got. I’ve laid by a little money, and—”"
+    },
+    {
+      "start": 6825,
+      "end": 6873,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Better give it to the missionaries, Mis. Hall,”"
+    },
+    {
+      "start": 6894,
+      "end": 6958,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I tell you Ruth don’t care a pin what you have in your parlor.”"
+    },
+    {
+      "start": 6959,
+      "end": 6982,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Don’t you believe it,”"
+    },
+    {
+      "start": 7002,
+      "end": 7017,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Well, anyhow,”"
+    },
+    {
+      "start": 7039,
+      "end": 7318,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“you can’t get the upper hand of her in that line; i. e., if she has a mind that you shall not. Harry is doing a very good business; and you know very well, it is no use to try to blind your eyes to it, that if she wanted Queen Victoria’s sceptre, he’d manage to get it for her.”"
+    },
+    {
+      "start": 7319,
+      "end": 7355,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“That’s more than I can say of you,”"
+    },
+    {
+      "start": 7407,
+      "end": 7760,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“for all that I used to mend your old saddle-bags, and once made, with my[54] own hands, a pair of leather small-clothes to ride horseback in. Forty years, doctor, I’ve spent in your service. I don’t look much as I did when you married me. I was said then to have ‘woman’s seven beauties,’ including the ‘dimple in the chin,’ which I see still remains;”"
+    },
+    {
+      "start": 7832,
+      "end": 8012,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I might have had him that was Squire Smith, or Pete Packer, or Jim Jessup. There wasn’t one of ’em who had not rather do the chores on our farm, than on any other in the village.”"
+    },
+    {
+      "start": 8013,
+      "end": 8026,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Pooh, pooh,”"
+    },
+    {
+      "start": 8044,
+      "end": 8113,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“don’t be an old fool; that was because your father kept good cider.”"
+    },
+    {
+      "start": 8273,
+      "end": 8302,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“that tells the whole story!”"
+    },
+    {
+      "start": 8323,
+      "end": 8344,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Asummer house, hey!”"
+    },
+    {
+      "start": 8464,
+      "end": 8546,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“a summer house! that’s the way the money goes, is it? What have we here? a book;”"
+    },
+    {
+      "start": 8616,
+      "end": 8775,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“poetry, I declare! the most frivolous of all reading; all pencil marked;—and here’s something in Ruth’s own hand-writing—that’s poetry, too: worse and worse.”"
+    },
+    {
+      "start": 8776,
+      "end": 8968,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Well, we’ll see how the kitchen of this poetess looks. I will go into the house the back way, and take them by surprise; that’s the way to find people out. None of your company faces for me.”"
+    },
+    {
+      "start": 9140,
+      "end": 9219,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“six milkpans!—wonder if they buy their milk, or keep a cow. If they buy it, it"
+    },
+    {
+      "start": 9223,
+      "end": 9312,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": " must cost them something; if they keep a cow, I’ve no question the milk is half wasted.”"
+    },
+    {
+      "start": 9865,
+      "end": 9878,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Is Ruth in?”"
+    },
+    {
+      "start": 9898,
+      "end": 9912,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Who, Missis?”"
+    },
+    {
+      "start": 9925,
+      "end": 9932,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Ruth.”"
+    },
+    {
+      "start": 9933,
+      "end": 9958,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Missis Hall lives here,”"
+    },
+    {
+      "start": 9996,
+      "end": 10006,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Exactly,”"
+    },
+    {
+      "start": 10026,
+      "end": 10049,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“she is my son’s wife.”"
+    },
+    {
+      "start": 10050,
+      "end": 10082,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Oh! I beg your pardon, Missis,”"
+    },
+    {
+      "start": 10120,
+      "end": 10202,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I never heard her name called Ruth afore: massa calls her ‘bird,’ and ‘sunbeam.’”"
+    },
+    {
+      "start": 10225,
+      "end": 10242,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Is she at home?”"
+    },
+    {
+      "start": 10279,
+      "end": 10284,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“No,”"
+    },
+    {
+      "start": 10297,
+      "end": 10435,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Missis is gone rambling off in the woods with little Daisy. She’s powerful fond of flowers, and things. She climbs fences like a squir’l!"
+    },
+    {
+      "start": 10439,
+      "end": 10502,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": " it makes this chil’ laf’ to see the ol’ farmers stare at her.”"
+    },
+    {
+      "start": 10503,
+      "end": 10544,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“You must have a great deal to do, here;”"
+    },
+    {
+      "start": 10574,
+      "end": 10616,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Ruth isn’t much of a hand at house-work.”"
+    },
+    {
+      "start": 10617,
+      "end": 10818,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Plenty to do, Missis, and willin’ hands to do it. Dinah don’t care how hard she works, if she don’t work to the tune of a lash; and Missis Hall goes singing about the house so that it makes time fly.”"
+    },
+    {
+      "start": 10819,
+      "end": 10859,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“She don’t ever help you any, does she?”"
+    },
+    {
+      "start": 10891,
+      "end": 11136,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Lor’ bless you! yes, Missis. She comes right in and makes a pie for Massa Harry, or cooks a steak jess’ as easy as she pulls off a flower; and when Dinah’s cooking anything new, she asks more questions how it’s done than this chil’ kin answer.”"
+    },
+    {
+      "start": 11137,
+      "end": 11338,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“You have a great deal of company, I suppose; that must make you extra trouble, I should think; people riding out from the city to supper, when you are all through and cleared away: don’t it tire you?”"
+    },
+    {
+      "start": 11339,
+      "end": 11604,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“No; Missis Hall takes it easy. She laf’s merry, and says to the company, ‘you get tea enough in the city, so I shan’t give you any; we had tea long ago; but here’s some fresh milk, and some raspberries and cake; and if you can’t eat that, you ought to go hungry.’”"
+    },
+    {
+      "start": 11605,
+      "end": 11643,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“She irons Harry’s shirts, I suppose?”"
+    },
+    {
+      "start": 11668,
+      "end": 11750,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“She? s’pose dis chil’ let her? when she’s so careful, too, of ol’ Dinah’s bones?”"
+    },
+    {
+      "start": 11751,
+      "end": 11758,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Well,”"
+    },
+    {
+      "start": 11800,
+      "end": 11884,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I’ll walk over the house a bit, I guess; I won’t trouble you to wait on me, Dinah;”"
+    },
+    {
+      "start": 11946,
+      "end": 11972,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“This is the parlor, hey?”"
+    },
+    {
+      "start": 12036,
+      "end": 12075,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“A few dollars laid out here, I guess.”"
+    },
+    {
+      "start": 13144,
+      "end": 13193,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Must take a deal of time to gather and fix ’em,”"
+    },
+    {
+      "start": 13675,
+      "end": 13741,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Who but Ruth would ever have spied out that tiny little blossom?”"
+    },
+    {
+      "start": 14838,
+      "end": 14853,
+      "labels": [
+        "other"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“best chamber.”"
+    },
+    {
+      "start": 15966,
+      "end": 15974,
+      "labels": [
+        "other"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Venus,”"
+    },
+    {
+      "start": 16216,
+      "end": 16349,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Oh, Harry! is this the end of all my teachings? Well, it is all Ruth’s doings—all Ruth’s doings. Harry is to be pitied, not blamed;”"
+    },
+    {
+      "start": 16437,
+      "end": 16471,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Hallo! what are you doing there?”"
+    },
+    {
+      "start": 16565,
+      "end": 16700,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Ploughing this bit o’ ground, sir. Mr. Hall told me to be sure and get it finished before he came home from the city this afthernoon.”"
+    },
+    {
+      "start": 16701,
+      "end": 16712,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Nonsense!”"
+    },
+    {
+      "start": 16733,
+      "end": 16863,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I was born sometime before my son Harry; put up your plough, and lay that bit of stone wall yonder; that needs to be done first.”"
+    },
+    {
+      "start": 16864,
+      "end": 16931,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I’m thinking Masther Hall won’t be afther liking it if I do, sir,”"
+    },
+    {
+      "start": 16942,
+      "end": 17030,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“I had my orders for the day’s work before masther went to the city, sir, this morning.”"
+    },
+    {
+      "start": 17031,
+      "end": 17044,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Pooh, pooh,”"
+    },
+    {
+      "start": 17139,
+      "end": 17216,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“young folks think old folks are fools; old folks know young folks to be so.”"
+    },
+    {
+      "start": 17303,
+      "end": 17342,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“What’s that fellow doing over yonder?”"
+    },
+    {
+      "start": 17367,
+      "end": 17394,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Planting corn, yer honor.”"
+    },
+    {
+      "start": 17395,
+      "end": 17570,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Corn? ha! ha! city farming! Good. Corn? That’s just the spot for potatoes. H-a-l-l-o there! Don’t plant any more corn in that spot, John; it never’ll come to anything—never.”"
+    }
+  ]
+}

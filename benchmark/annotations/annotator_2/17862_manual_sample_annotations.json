@@ -1,0 +1,140 @@
+{
+  "name": "17862_manual_sample",
+  "source_file": "17862_manual_sample.txt",
+  "created": "2026-07-20T09:59:39",
+  "modified": "2026-07-27T11:26:28",
+  "text_length": 16359,
+  "completed": false,
+  "spans": [
+    {
+      "start": 39,
+      "end": 47,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Pshaw!\""
+    },
+    {
+      "start": 70,
+      "end": 104,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"have you not done with dreaming?\""
+    },
+    {
+      "start": 419,
+      "end": 431,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Ah, Isaac,\""
+    },
+    {
+      "start": 442,
+      "end": 588,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"all that is exhausted; you have rung so many changes on your hopes and your dreams, that you have nothing left but to make them real—if you can.\""
+    },
+    {
+      "start": 2372,
+      "end": 2405,
+      "labels": [
+        "other"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"shuffling off this mortal coil,\""
+    },
+    {
+      "start": 2828,
+      "end": 2859,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"What is this all to be about?\""
+    },
+    {
+      "start": 2902,
+      "end": 2947,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Isaac",
+      "text": "\"About love, and toil, and duty, and sorrow,\""
+    },
+    {
+      "start": 3065,
+      "end": 3111,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Tabitha",
+      "text": "\"How many times have you been in love, Isaac?\""
+    },
+    {
+      "start": 3149,
+      "end": 3157,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Isaac",
+      "text": "\"Pshaw!\""
+    },
+    {
+      "start": 3391,
+      "end": 3421,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Isaac, you are a sad fellow!\""
+    },
+    {
+      "start": 3530,
+      "end": 3543,
+      "labels": [
+        "other"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"bad fellow.\""
+    },
+    {
+      "start": 5752,
+      "end": 5757,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"Ah,\""
+    },
+    {
+      "start": 5833,
+      "end": 5945,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "\"there is, after all, but one youth-time; and if you put down its memories once, you can find no second growth.\""
+    }
+  ]
+}

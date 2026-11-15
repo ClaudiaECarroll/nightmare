@@ -1,0 +1,690 @@
+{
+  "name": "6124_manual_sample",
+  "source_file": "6124_manual_sample.txt",
+  "created": "2026-07-23T11:39:59",
+  "modified": "2026-07-27T11:23:32",
+  "text_length": 14739,
+  "completed": false,
+  "spans": [
+    {
+      "start": 1706,
+      "end": 1714,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "Pamela, "
+    },
+    {
+      "start": 1723,
+      "end": 1770,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "you are so neat and\nso nice in your own dress, "
+    },
+    {
+      "start": 1805,
+      "end": 1883,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": " that you\nmust be a judge of ours. How are these clothes made? Do they fit me?"
+    },
+    {
+      "start": 1884,
+      "end": 1899,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "I\nam no judge, "
+    },
+    {
+      "start": 1907,
+      "end": 1963,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "and please your honour; but I think they look very\nfine."
+    },
+    {
+      "start": 2130,
+      "end": 2216,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "He",
+      "text": "Why don’t you wear your usual clothes? Though I\nthink every thing looks well upon you "
+    },
+    {
+      "start": 2264,
+      "end": 2372,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "I have no clothes, sir, I ought to call my own, but\nthese: and it is no matter what such an one as I wears. "
+    },
+    {
+      "start": 2381,
+      "end": 2442,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "He",
+      "text": "Why\nyou look very serious, Pamela. I see you can bear malice."
+    },
+    {
+      "start": 2443,
+      "end": 2463,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "Yes, so I\ncan, sir, "
+    },
+    {
+      "start": 2471,
+      "end": 2497,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "according to the occasion!"
+    },
+    {
+      "start": 2498,
+      "end": 2503,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "He",
+      "text": "Why, "
+    },
+    {
+      "start": 2512,
+      "end": 2726,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "HE",
+      "text": "your eyes\nalways look red, I think. Are you not a fool to take my last freedom so\nmuch to heart? I am sure you, and that fool Mrs. Jervis, frightened me,\nby your hideous squalling, as much as I could frighten you. "
+    },
+    {
+      "start": 2726,
+      "end": 2753,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "That is all\nwe had for it, "
+    },
+    {
+      "start": 2761,
+      "end": 3133,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "and if you could be so afraid of your own\nservants knowing of your attempts upon a poor unworthy creature, that\nis under your protection while I stay, surely your honour ought to be\nmore afraid of God Almighty, in whose presence we all stand, in every\naction of our lives, and to whom the greatest, as well as the least,\nmust be accountable, let them think what they list."
+    },
+    {
+      "start": 3198,
+      "end": 3347,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "HE",
+      "text": "Well\nurged, my pretty preacher! When my Lincolnshire chaplain dies, I’ll put\nthee on a gown and cassock, and thou’lt make a good figure in his\nplace."
+    },
+    {
+      "start": 3348,
+      "end": 3356,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "I wish, "
+    },
+    {
+      "start": 3392,
+      "end": 3483,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "your honour’s\nconscience would be your preacher, and then you would need no other\nchaplain."
+    },
+    {
+      "start": 3484,
+      "end": 3700,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "He",
+      "text": "Well, well, Pamela, said he, no more of this unfashionable\njargon. I did not send for you so much for your opinion of my new suit,\nas to tell you, you are welcome to stay, since Mrs. Jervis desires it,\ntill she goes."
+    },
+    {
+      "start": 3701,
+      "end": 3711,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "I welcome!"
+    },
+    {
+      "start": 3720,
+      "end": 3773,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "I am sure I shall rejoice when I am\nout of the house!"
+    },
+    {
+      "start": 3775,
+      "end": 3781,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "HE",
+      "text": "Well, "
+    },
+    {
+      "start": 3790,
+      "end": 3907,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "HE",
+      "text": "you are an ungrateful baggage; but I am thinking it\nwould be pity, with these fair soft hands, and that lovely skin, "
+    },
+    {
+      "start": 3952,
+      "end": 4269,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "that you should return again to\nhard work, as you must if you go to your father’s; and so I would\nadvise her to take a house in London, and let lodgings to us members of\nparliament, when we come to town; and such a pretty daughter as you may\npass for, will always fill her house, and she’ll get a great deal of\nmoney."
+    },
+    {
+      "start": 4430,
+      "end": 4581,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "I can expect no better: Your behaviour, sir,\nto me, has been just of a piece with these words: Nay, I will say it,\nthough you were to be ever so angry."
+    },
+    {
+      "start": 4582,
+      "end": 4607,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "HE",
+      "text": "I angry, Pamela? No, no, "
+    },
+    {
+      "start": 4616,
+      "end": 5042,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "HE",
+      "text": "I have overcome all that; and as you are to go away, I look upon you\nnow as Mrs. Jervis’s guest while you both stay, and not as my servant;\nand so you may say what you will. But I’ll tell you, Pamela, why you\nneed not take this matter in such high disdain!—You have a very pretty\nromantic turn for virtue, and all that.—And I don’t suppose but you’ll\nhold it still: and nobody will be able to prevail upon you. But, my\nchild, "
+    },
+    {
+      "start": 5068,
+      "end": 5377,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "HE",
+      "text": "do but consider what a fine\nopportunity you will then have for a tale every day to good mother\nJervis, and what subjects for letter-writing to your father and mother,\nand what pretty preachments you may hold forth to the young gentlemen.\nAd’s my heart! I think it would be the best thing you and she could do."
+    },
+    {
+      "start": 5379,
+      "end": 5397,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "You do well, sir, "
+    },
+    {
+      "start": 5405,
+      "end": 5652,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "to even your wit to such a poor maiden as me:\nbut, permit me to say, that if you was not rich and great, and I poor\nand little, you would not insult me thus.—Let me ask you, sir, if you\nthink this becomes your fine clothes, and a master’s station:"
+    },
+    {
+      "start": 5653,
+      "end": 5687,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "HE",
+      "text": "Why so\nserious, my pretty Pamela? "
+    },
+    {
+      "start": 5696,
+      "end": 5709,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "Why so grave?"
+    },
+    {
+      "start": 5764,
+      "end": 6179,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "Let me alone; I will tell you, if\nyou was a king, and insulted me as you have done, that you have\nforgotten to act like a gentleman; and I won’t stay to be used thus: I\nwill go to the next farmer’s, and there wait for Mrs. Jervis, if she\nmust go: and I’d have you know, sir, that I can stoop to the\nordinariest work of your scullions, for all these nasty soft hands,\nsooner than bear such ungentlemanly imputations."
+    },
+    {
+      "start": 6181,
+      "end": 6197,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "HE",
+      "text": "I sent for you, "
+    },
+    {
+      "start": 6207,
+      "end": 6520,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "He",
+      "text": "n high good humour; but it is impossible to\nhold it with such an impertinent: however, I’ll keep my temper. But\nwhile I see you here, pray don’t put on those dismal grave looks: Why,\ngirl, you should forbear them, if it were but for your pride-sake; for\nthe family will think you are grieving to leave the house. "
+    },
+    {
+      "start": 6520,
+      "end": 6530,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "Then, sir,"
+    },
+    {
+      "start": 6539,
+      "end": 6685,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "I will try to convince them of the contrary, as well as your\nhonour; for I will endeavour to be more cheerful while I stay, for that\nvery reason.\n"
+    },
+    {
+      "start": 6686,
+      "end": 6692,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "Well, "
+    },
+    {
+      "start": 6702,
+      "end": 6915,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": ", I will set this down by itself, as the first time\nthat ever what I had advised had any weight with you. And I will add,\nsaid I, as the first advice you have given me of late, that was fit to\nbe followed.—I wish "
+    },
+    {
+      "start": 6987,
+      "end": 7057,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": " I wish I had thee as quick another way, as thou\nart in thy repartees—"
+    },
+    {
+      "start": 7145,
+      "end": 7149,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "Ah! "
+    },
+    {
+      "start": 7160,
+      "end": 7266,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "married? I am\nsure it is time you were married, or, at this rate, no honest maiden\nought to live with you."
+    },
+    {
+      "start": 10659,
+      "end": 10956,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Master",
+      "text": "Well, Mrs. Jervis, Longman says you have made up your\naccounts with him with your usual fidelity and exactness. I had a good\nmind to make you an offer of continuing with me, if you can be a little\nsorry for your hasty words, which, indeed, were not so respectful as I\nhave deserved at your hands. "
+    },
+    {
+      "start": 11096,
+      "end": 11104,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Mr. Longman",
+      "text": "Indeed, "
+    },
+    {
+      "start": 11122,
+      "end": 11336,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Mr. Longman",
+      "text": "I must needs say before your face, that since\nI have known my master’s family, I have never found such good\nmanagement in it, nor so much love and harmony neither. I wish the\nLincolnshire estate was as well served!"
+    },
+    {
+      "start": 11337,
+      "end": 11354,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "No more of that, "
+    },
+    {
+      "start": 11370,
+      "end": 11596,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "but Mrs. Jervis may stay, if she will: and here, Mrs. Jervis,\npray accept of this, which at the close of every year’s accounts I will\npresent you with, besides your salary, as long as I find your care so\nuseful and agreeable. "
+    },
+    {
+      "start": 11768,
+      "end": 11922,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Master",
+      "text": "Indeed I love to encourage\nmerit and obligingness, Longman; but I can never be equally kind to\nthose who don’t deserve it at my hands, as to those who do;"
+    },
+    {
+      "start": 11954,
+      "end": 11963,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "Longman, "
+    },
+    {
+      "start": 11977,
+      "end": 12162,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "I said that girl might come\nin with Mrs. Jervis, because they love to be always together. For Mrs.\nJervis is very good to her, and loves her as well as if she was her\ndaughter. But else"
+    },
+    {
+      "start": 12200,
+      "end": 12298,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "longman",
+      "text": "Good to Mrs.\nPamela! Ay, sir, and so she is, to be sure! But every body must be good\nto her; for——"
+    },
+    {
+      "start": 12337,
+      "end": 12523,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "No more, no more, Mr. Longman. I\nsee old men are taken with pretty young girls, as well as other folks;\nand fair looks hide many a fault, where a person has the art to behave\nobligingly."
+    },
+    {
+      "start": 12524,
+      "end": 12553,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "longman",
+      "text": "Why, and please your honour, "
+    },
+    {
+      "start": 12571,
+      "end": 12582,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "longman",
+      "text": "every\nbody—"
+    },
+    {
+      "start": 12681,
+      "end": 12847,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "longman",
+      "text": "Not a word more of this Pamela. I\ncan’t let her stay, I’ll assure you; not only for her own freedom of\nspeech, but her letter-writing of all the secrets of my family."
+    },
+    {
+      "start": 12848,
+      "end": 12926,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "Ay,\nsaid the good old man, I am sorry for that too! But, sir,—No more, I\nsay, "
+    },
+    {
+      "start": 12942,
+      "end": 12978,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "for my reputation is so well known, "
+    },
+    {
+      "start": 12979,
+      "end": 12991,
+      "labels": [
+        "thought"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "mighty fine,"
+    },
+    {
+      "start": 13004,
+      "end": 13083,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "that I care not what any body writes or says of me: But to\ntell you the truth, "
+    },
+    {
+      "start": 13114,
+      "end": 13300,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "I think of changing\nmy condition soon; and, you know, young ladies of birth and fortune\nwill choose their own servants, and that’s my chief reason why Pamela\ncan’t stay. As for the rest,"
+    },
+    {
+      "start": 13310,
+      "end": 13545,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "the girl is a good sort of body,\ntake her altogether; though I must needs say, a little pert, since my\nmother’s death, in her answers, and gives me two words for one; which I\ncan’t bear; nor is there reason I should, you know, Longman."
+    },
+    {
+      "start": 13546,
+      "end": 13567,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "longman",
+      "text": "No, to be\nsure, sir, "
+    },
+    {
+      "start": 13576,
+      "end": 13726,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "longman",
+      "text": "but ’tis strange, methinks, she should be so mild\nand meek to every one of us in the house, and forget herself so, where\nshe should shew most respect!"
+    },
+    {
+      "start": 13727,
+      "end": 13751,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "Very true, Mr. Longman, "
+    },
+    {
+      "start": 13760,
+      "end": 13907,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "but so\nit is, I’ll assure you; and it was from her pertness, that Mrs. Jervis\nand I had the words: And I should mind it the less, but that the girl"
+    },
+    {
+      "start": 13949,
+      "end": 14001,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "master",
+      "text": "has wit and sense above her\nyears, and knows better."
+    },
+    {
+      "start": 14186,
+      "end": 14276,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "It is for you, sir, to say\nwhat you please; and for me only to say, God bless your honour!"
+    },
+    {
+      "start": 14373,
+      "end": 14535,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Master",
+      "text": "Why, pr’ythee, Pamela, now, shew thyself as\nthou art, before Longman. Can’st not give him a specimen of that\npertness which thou hast exercised upon me sometimes?"
+    },
+    {
+      "start": 14651,
+      "end": 14739,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Pamela",
+      "text": "Well, your honour may\nplay upon a poor girl, that you know can answer you, but dare not."
+    }
+  ]
+}

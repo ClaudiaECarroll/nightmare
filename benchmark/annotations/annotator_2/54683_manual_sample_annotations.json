@@ -1,0 +1,461 @@
+{
+  "name": "54683_manual_sample",
+  "source_file": "54683_manual_sample.txt",
+  "created": "2026-07-23T12:09:05",
+  "modified": "2026-07-27T11:20:10",
+  "text_length": 17366,
+  "completed": false,
+  "spans": [
+    {
+      "start": 1042,
+      "end": 1149,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "WRITING",
+      "text": "    “La sainte recueihnent la paisible innocence\n\n               Sembler de ces lieus habiter le silence.”\n"
+    },
+    {
+      "start": 2051,
+      "end": 2088,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Father John",
+      "text": "“This happy specimen of your talent,”"
+    },
+    {
+      "start": 2115,
+      "end": 2448,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Father John",
+      "text": "“will\nbe very grateful to the Prince. In him, who has no others left, it is\na very innocent pride, to wish to perpetuate the fading honours of his\nfamily--for as such the good Prince considers these _ruins_. But, my\nyoung friend, there is another and a surer path to the Prince’s heart,\nto which I should be most happy to lead you.”\n"
+    },
+    {
+      "start": 2490,
+      "end": 2661,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“You will, I hope, pardon the liberty I am going to take; but as I boast\nthe merit of having first made your merit known to your worthy host, I\nhold myself in some degree "
+    },
+    {
+      "start": 2691,
+      "end": 2770,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": " accountable\nfor your confirming the partiality I have awakened in your favour."
+    },
+    {
+      "start": 2772,
+      "end": 3460,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“The daughter of the Prince, and my pupil, of whom you can have yet\nformed no opinion, is a creature of such rare endowments, that it should\nseem Nature, as if foreseeing her isolated destiny, had opposed her\nown liberality to the chariness of fortune; and lavished on her such\nintuitive talents, that she almost sets the necessity of education\nat defiance. To all that is most excellent in the circle of human\nintellect, or human science, her versatile genius is constantly\ndirected; and it is my real opinion, that nothing more is requisite to\nperfect her in any liberal or elegant pursuit, but that method or system\nwhich even the strangest native talent, unassisted, can seldom attain"
+    },
+    {
+      "start": 3508,
+      "end": 4006,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": " and which is unhappily\ndenied her; while her doating father incessantly mourns that poverty,\nwhich withholds from him the power of cultivating those shining\nabilities that would equally enrich the solitude of their possessor, or\nrender her an ornament to that society she may yet be destined to grace.\nYet the occasional visits of a strolling dancing-master, and a few\nmusical lessons received in her early childhood from the family bard,\nare all the advantages these native talents have received."
+    },
+    {
+      "start": 4008,
+      "end": 4203,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“But who that ever beheld her motions in the dance, or listened to\nthe exquisite sensibility of her song, but would exclaim--‘here is a\ncreature for whom Art can do nothing--Nature has done all!’"
+    },
+    {
+      "start": 4205,
+      "end": 4345,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“To these elegant acquirements, she unites a decided talent for drawing,\narising from powers naturally imitative, and a taste early imbibed "
+    },
+    {
+      "start": 4390,
+      "end": 5141,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": " for all that is most sublime and\nbeautiful in nature. But this, of all her talents, has been the least\nassisted, and yet is the most prized by her father, who, I believe,\nlaments his inability to detain you here as her preceptor; or rather, to\nmake it worth your while to forego your professional pursuits, for such\na period as would be necessary to invest her with such rudiments in the\nart, as would form a basis for her future improvement. In a word, can\nyou, consistently with your present plans, make the castle of Inismore\nyour headquarters for two or three months, from whence you can take\nfrequent excursions amidst the neighbouring scenery, which will afford\nto your pencil subjects rich and various as almost any other part of the\ncountry?”"
+    },
+    {
+      "start": 6406,
+      "end": 6430,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "MC",
+      "text": "“Add then, my dear Sir,”"
+    },
+    {
+      "start": 6439,
+      "end": 6808,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "MC",
+      "text": "“to all the obligations you have forced\non me, by presenting my respectful compliments to the Prince, with\nthe offer of my little services, and an earnest request that he will\ncondescend to accept of them; and if you think it will add to the\ndelicacy of the offer, let him suppose that it voluntarily comes from\nthe heart deeply impressed with a sense of his kindness.”"
+    },
+    {
+      "start": 6810,
+      "end": 6859,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“That is precisely what I was going to propose,” "
+    },
+    {
+      "start": 7062,
+      "end": 7086,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "MC",
+      "text": "“And God knows so I do,”"
+    },
+    {
+      "start": 7130,
+      "end": 7189,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "MC",
+      "text": "“do\nyou think your pupil has a decided talent for the art?”"
+    },
+    {
+      "start": 7191,
+      "end": 7214,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“It may be partiality,”"
+    },
+    {
+      "start": 7227,
+      "end": 9276,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“but I think she has a decided\ntalent for every elegant acquirement. If I recollect right, somebody has\ndefined _genius_ to be ‘the various powers of a strong mind directed to\none point:’ making it the _result_ of combined force, not the vital\nsource, whence all intellectual powers flow; in which light, the genius\nof Glorvina has ever appeared to me as a beam from heaven, an emanation\nof divine intelligence, whose nutritive warmth cherishes into existence\nthat richness and variety of talent which wants only a little care to\nrear it to perfection.\n\n“When I first offered to become the preceptor to this charming child,\nher father, I believe, never formed an idea that my tuition would have\nextended beyond a little reading and writing; but I soon found that\nmy interesting pupil possessed a genius that bore all before it--that\nalmost anticipated instruction by force of its tuitive powers, and\nprized each task assigned it, only in proportion to the difficulty by\nwhich it was to be accomplished.\n\n“Her young ambitious mind even emulated rivalry with mine, and that\nstudy in which she beheld me engaged seldom failed to become the object\nof her desires and her assiduity. Availing myself, therefore, of this\ninnate spirit of emulation--this boundless thirst of knowledge, I left\nher mind free in the election of its studies, while I only threw\nwithin its power of acquisition, that which could tend to render her\na rational, and consequently a benevolent being; for I have always\nconceived an informed, intelligent, and enlightened mind, to be the\nbest security for a good heart; although the many who mistake talent for\nintellect, and unfortunately too often find the former united to vice,\nand led to suppose that the heart loses in goodness what the mind\nacquires in strength, as if (as a certain paradoxical writer has\nasserted) there was something in the natural mechanism of the human\nframe necessary to constitute a fine genius that is not altogether\nfavourable to the heart.\n\n“But here comes the unconscious theme of our conversation.”"
+    },
+    {
+      "start": 9412,
+      "end": 9498,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "WRITING IN JOURNAL???",
+      "text": "   “As Hebe swift, as Venus fair,\n\n                   Youthful, lovely, light as air.”"
+    },
+    {
+      "start": 9691,
+      "end": 10204,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Glorvina",
+      "text": "“O! I have brought you something you will be glad to see--here is the\nspring’s first violet, which the unusual chilliness of the season has\nsuffered to steal into existence: this morning as I gathered herbs\nat the foot of the mountain, I inhaled its odour ere I discovered its\npurple head, as solitary and unassociated it was drooping beneath the\nheavy foliage of a neighbouring plant.\n\n“It is but just you should have the first violet as my father has\nalready had the first snowdrop. Receive, then, my offering,”"
+    },
+    {
+      "start": 10461,
+      "end": 10614,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "B. Tasso's",
+      "text": "    “Poiche d’altro honorate\n\n                   Non dosso, prendi lieta\n\n                   Queste negre viole\n\n                   Dall umor rugiadose.”"
+    },
+    {
+      "start": 10685,
+      "end": 10890,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“Your offering, my dear, is indeed the\n\n                   ‘Incense to the heart;’\n\nand more precious to the receiver, than the richest donation that ever\ndecked the shrine of Loretto. How fragrant it is!”"
+    },
+    {
+      "start": 10740,
+      "end": 10767,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Is this from the bible?",
+      "text": "    ‘Incense to the heart;’"
+    },
+    {
+      "start": 11417,
+      "end": 11442,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“_La Guirlande de Julie_”"
+    },
+    {
+      "start": 11485,
+      "end": 11601,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“Mais si sur votre front je peux briller un jour,\n\n                   La plus humble des fleurs sera la plus superbe"
+    },
+    {
+      "start": 11676,
+      "end": 11681,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Glorvina",
+      "text": "“Oh!”"
+    },
+    {
+      "start": 11712,
+      "end": 11817,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Glorvina",
+      "text": "“I perceive you too will expect\na tributary flower for these charming lines; and the summer’s first\nrose”"
+    },
+    {
+      "start": 11872,
+      "end": 11966,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Glorvina",
+      "text": "“should be\nthine, but that thou mayst be far from hence when the summer’s first\nrose appears.”"
+    },
+    {
+      "start": 12113,
+      "end": 12126,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“The _rose_,”"
+    },
+    {
+      "start": 12255,
+      "end": 12289,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“the rose is the flower of Love.”\n"
+    },
+    {
+      "start": 12578,
+      "end": 12591,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“I remember,”"
+    },
+    {
+      "start": 12614,
+      "end": 12840,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“being severely censured by a rigid\nold priest, at my college in St. Omer’s, who found me reading the\nIdylium of Ausonius, in which he so beautifully celebrates the rose,\nwhen the good father believed me deep in St. Augustin.”"
+    },
+    {
+      "start": 12842,
+      "end": 12853,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "MC",
+      "text": "“The rose,”"
+    },
+    {
+      "start": 12862,
+      "end": 13462,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“has always been the poet’s darling theme. The\nimpassioned lyre of Sappho has breathed upon its leaves. Anacreon has\nwooed it in the happiest effusions of his genius; and poesy seems\nto have exhausted her powers in celebrating the charms of the most\nbeautiful and transient of flowers.\n\n“Among its modern panegyrists, few have been more happily successful\nthan Monsieur de Barnard, in that charming little ode beginning:\n\n               “Tendre fruits des pleurs d’aurore,\n\n               Objets des baisers du zephyrs,\n\n               Reine de l’empire de Flore,\n\n               Hate toi d’epanoir.”"
+    },
+    {
+      "start": 13284,
+      "end": 13462,
+      "labels": [
+        "embedded_text"
+      ],
+      "note": "",
+      "speaker": "Monsiuer de Barnard",
+      "text": "               “Tendre fruits des pleurs d’aurore,\n\n               Objets des baisers du zephyrs,\n\n               Reine de l’empire de Flore,\n\n               Hate toi d’epanoir.”"
+    },
+    {
+      "start": 13464,
+      "end": 13489,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Glorvina",
+      "text": "“O! I beseech you go on,”"
+    },
+    {
+      "start": 13553,
+      "end": 13576,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Glorvina",
+      "text": "“Beautiful, beautiful!”"
+    },
+    {
+      "start": 13604,
+      "end": 14431,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "Glorvina",
+      "text": "“O! there is a\ncertain delicacy of genius in elegant trifles of this description, which\nI think the French possess almost exclusively: it is a language formed\nalmost by its very construction _a’eterniser la bagatelle_, and to\nclothe the fairy effusions of fancy in the most appropriate drapery.\n\n“I thank you for this beautiful ode; the rose was always my idol flower;\nin all its different stages of existence, it speaks a language my heart\nunderstands; from its young bud’s first crimson glow, to the last sickly\nblush of its faded blossom. It is the flower of sentiment in all\nits sweet transitions; it breathes a moral, and seems to preserve an\nundecaying soul in that fragrant essence which still survives the bloom\nand symmetry of the fragile form which every beam too ardent, every gale\ntoo chill, injures and destroys.”\n"
+    },
+    {
+      "start": 14432,
+      "end": 14447,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "MC",
+      "text": "“And is there,”"
+    },
+    {
+      "start": 14456,
+      "end": 14530,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "MC",
+      "text": "“no parallel in the moral world for this lovely\noffspring of the natural?”"
+    },
+    {
+      "start": 14608,
+      "end": 14616,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“I vow,”"
+    },
+    {
+      "start": 14661,
+      "end": 14825,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“I am half tempted\nto fling away my violet, since this _idol_ flower has been decreed to\nMr. Mortimer; and to revenge myself, I will show him your ode on the\nrose.”"
+    },
+    {
+      "start": 15165,
+      "end": 15181,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "MC",
+      "text": "“What a _Hebe!_”"
+    },
+    {
+      "start": 15240,
+      "end": 15247,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“Yes,” "
+    },
+    {
+      "start": 15256,
+      "end": 15447,
+      "labels": [
+        "speech"
+      ],
+      "note": "",
+      "speaker": "FJ",
+      "text": "“she at least illustrates the possibility of a woman\nuniting in her character the extremes of intelligence and simplicity:\nyou see, with all her information and talent, she is a mere child.”\n"
+    },
+    {
+      "start": 17084,
+      "end": 17112,
+      "labels": [
+        "other"
+      ],
+      "note": "",
+      "speaker": "",
+      "text": "“brings with it no satiety.”"
+    }
+  ]
+}
