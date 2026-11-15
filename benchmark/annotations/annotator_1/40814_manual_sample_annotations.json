@@ -1,0 +1,1897 @@
+{
+  "name": "40814_manual_sample",
+  "source_file": "40814_manual_sample.txt",
+  "created": "2026-07-20T08:33:08",
+  "modified": "2026-07-24T10:05:36",
+  "total_bytes": 18143,
+  "spans": [
+    {
+      "start_byte": 10,
+      "end_byte": 50,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You will be happy here, dear Ruth,”",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 63,
+      "end_byte": 99,
+      "labels": [
+        "speech"
+      ],
+      "text": "“you will be your own mistress.”",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 1063,
+      "end_byte": 1093,
+      "labels": [
+        "speech"
+      ],
+      "text": "“All the better for that.”",
+      "speaker": "Ruth"
+    },
+    {
+      "start_byte": 2076,
+      "end_byte": 2088,
+      "labels": [
+        "other"
+      ],
+      "text": "“silly;”",
+      "note": "platonic text"
+    },
+    {
+      "start_byte": 2182,
+      "end_byte": 2198,
+      "labels": [
+        "other"
+      ],
+      "text": "“frivolous;”",
+      "note": "platonic text"
+    },
+    {
+      "start_byte": 5290,
+      "end_byte": 5301,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Well,”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 5410,
+      "end_byte": 5571,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I hope you’ll be easy, Mis. Hall, now that we’ve toted out here, bag and baggage, to please you, when I supposed I was settled for the rest of my life.”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 5573,
+      "end_byte": 5682,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Fathers can’t be expected to have as much natural affection, or to be as self-sacrificing as mothers,”",
+      "speaker": "old lady"
+    },
+    {
+      "start_byte": 5702,
+      "end_byte": 5940,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Of course, it was some trouble to move out here; but, for Harry’s sake, I was willing to do it. What does Ruth know about house-keeping, I’d like to know? A pretty muss she’ll make of it, if I’m not around to oversee things.”",
+      "speaker": "old lady"
+    },
+    {
+      "start_byte": 5942,
+      "end_byte": 5962,
+      "labels": [
+        "speech"
+      ],
+      "text": "“It strikes me,”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 5984,
+      "end_byte": 6194,
+      "labels": [
+        "speech"
+      ],
+      "text": "“that you won’t get any thanks for it—from one side of the house, at least. Ruth never says anything when you vex her, but there’s a look in her eye which—well, Mis. Hall, it tells the whole story.”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 6202,
+      "end_byte": 6223,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’ve seen it,”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 6298,
+      "end_byte": 6937,
+      "labels": [
+        "speech"
+      ],
+      "text": "“and it has provoked me a thousand times more than if she had thrown a brick-bat at my head. That girl is no fool, doctor. She knows very well what she is about: but diamond cut diamond, I say. Doctor, doctor, there are the hens in the garden. I want that garden kept nice. I suppose Ruth thinks that nobody can have flowers but herself. Wait till my china-asters and sweet peas come up. I’m going over to-day to take a peep round her house; I wonder what it looks like? Stuck full of gimcracks, of all sorts, I’ll warrant. Well, I shan’t furnish my best parlor till I see what she has got. I’ve laid by a little money, and—”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 6939,
+      "end_byte": 6991,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Better give it to the missionaries, Mis. Hall,”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 7012,
+      "end_byte": 7082,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I tell you Ruth don’t care a pin what you have in your parlor.”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 7083,
+      "end_byte": 7112,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Don’t you believe it,”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 7132,
+      "end_byte": 7151,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Well, anyhow,”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 7173,
+      "end_byte": 7466,
+      "labels": [
+        "speech"
+      ],
+      "text": "“you can’t get the upper hand of her in that line; i. e., if she has a mind that you shall not. Harry is doing a very good business; and you know very well, it is no use to try to blind your eyes to it, that if she wanted Queen Victoria’s sceptre, he’d manage to get it for her.”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 7467,
+      "end_byte": 7510,
+      "labels": [
+        "speech"
+      ],
+      "text": "“That’s more than I can say of you,”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 7562,
+      "end_byte": 7934,
+      "labels": [
+        "speech"
+      ],
+      "text": "“for all that I used to mend your old saddle-bags, and once made, with my[54] own hands, a pair of leather small-clothes to ride horseback in. Forty years, doctor, I’ve spent in your service. I don’t look much as I did when you married me. I was said then to have ‘woman’s seven beauties,’ including the ‘dimple in the chin,’ which I see still remains;”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 7833,
+      "end_byte": 7864,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘woman’s seven beauties,’",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 7879,
+      "end_byte": 7904,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘dimple in the chin,’",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 8006,
+      "end_byte": 8196,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I might have had him that was Squire Smith, or Pete Packer, or Jim Jessup. There wasn’t one of ’em who had not rather do the chores on our farm, than on any other in the village.”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 8197,
+      "end_byte": 8214,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Pooh, pooh,”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 8232,
+      "end_byte": 8307,
+      "labels": [
+        "speech"
+      ],
+      "text": "“don’t be an old fool; that was because your father kept good cider.”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 8524,
+      "end_byte": 8550,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Asummer house, hey!”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 8672,
+      "end_byte": 8760,
+      "labels": [
+        "speech"
+      ],
+      "text": "“a summer house! that’s the way the money goes, is it? What have we here? a book;”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 8830,
+      "end_byte": 9004,
+      "labels": [
+        "speech"
+      ],
+      "text": "“poetry, I declare! the most frivolous of all reading; all pencil marked;—and here’s something in Ruth’s own hand-writing—that’s poetry, too: worse and worse.”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 9005,
+      "end_byte": 9207,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Well, we’ll see how the kitchen of this poetess looks. I will go into the house the back way, and take them by surprise; that’s the way to find people out. None of your company faces for me.”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 9379,
+      "end_byte": 9465,
+      "labels": [
+        "speech"
+      ],
+      "text": "“six milkpans!—wonder if they buy their milk, or keep a cow. If they buy it, it",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 9469,
+      "end_byte": 9563,
+      "labels": [
+        "speech"
+      ],
+      "text": " must cost them something; if they keep a cow, I’ve no question the milk is half wasted.”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 10118,
+      "end_byte": 10135,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Is Ruth in?”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 10155,
+      "end_byte": 10173,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Who, Missis?”",
+      "speaker": "Dinah"
+    },
+    {
+      "start_byte": 10186,
+      "end_byte": 10197,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Ruth.”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 10198,
+      "end_byte": 10228,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Missis Hall lives here,”",
+      "speaker": "Dinah"
+    },
+    {
+      "start_byte": 10266,
+      "end_byte": 10280,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Exactly,”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 10300,
+      "end_byte": 10329,
+      "labels": [
+        "speech"
+      ],
+      "text": "“she is my son’s wife.”",
+      "speaker": "Old lady"
+    },
+    {
+      "start_byte": 10330,
+      "end_byte": 10366,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Oh! I beg your pardon, Missis,”",
+      "speaker": "Dinah"
+    },
+    {
+      "start_byte": 10404,
+      "end_byte": 10498,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I never heard her name called Ruth afore: massa calls her ‘bird,’ and ‘sunbeam.’”",
+      "speaker": "Dinah"
+    },
+    {
+      "start_byte": 10465,
+      "end_byte": 10476,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘bird,’",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 10481,
+      "end_byte": 10495,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘sunbeam.’",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 10521,
+      "end_byte": 10542,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Is she at home?”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 10579,
+      "end_byte": 10588,
+      "labels": [
+        "speech"
+      ],
+      "text": "“No,”",
+      "speaker": "Dinah"
+    },
+    {
+      "start_byte": 10601,
+      "end_byte": 10745,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Missis is gone rambling off in the woods with little Daisy. She’s powerful fond of flowers, and things. She climbs fences like a squir’l!",
+      "speaker": "Dinah"
+    },
+    {
+      "start_byte": 10749,
+      "end_byte": 10821,
+      "labels": [
+        "speech"
+      ],
+      "text": " it makes this chil’ laf’ to see the ol’ farmers stare at her.”",
+      "speaker": "Dinah"
+    },
+    {
+      "start_byte": 10822,
+      "end_byte": 10867,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You must have a great deal to do, here;”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 10897,
+      "end_byte": 10945,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Ruth isn’t much of a hand at house-work.”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 10946,
+      "end_byte": 11157,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Plenty to do, Missis, and willin’ hands to do it. Dinah don’t care how hard she works, if she don’t work to the tune of a lash; and Missis Hall goes singing about the house so that it makes time fly.”",
+      "speaker": "Dinah"
+    },
+    {
+      "start_byte": 11158,
+      "end_byte": 11206,
+      "labels": [
+        "speech"
+      ],
+      "text": "“She don’t ever help you any, does she?”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 11238,
+      "end_byte": 11497,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Lor’ bless you! yes, Missis. She comes right in and makes a pie for Massa Harry, or cooks a steak jess’ as easy as she pulls off a flower; and when Dinah’s cooking anything new, she asks more questions how it’s done than this chil’ kin answer.”",
+      "speaker": "Dinah"
+    },
+    {
+      "start_byte": 11498,
+      "end_byte": 11705,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You have a great deal of company, I suppose; that must make you extra trouble, I should think; people riding out from the city to supper, when you are all through and cleared away: don’t it tire you?”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 11706,
+      "end_byte": 11990,
+      "labels": [
+        "speech"
+      ],
+      "text": "“No; Missis Hall takes it easy. She laf’s merry, and says to the company, ‘you get tea enough in the city, so I shan’t give you any; we had tea long ago; but here’s some fresh milk, and some raspberries and cake; and if you can’t eat that, you ought to go hungry.’”",
+      "speaker": "Dinah"
+    },
+    {
+      "start_byte": 11784,
+      "end_byte": 11987,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘you get tea enough in the city, so I shan’t give you any; we had tea long ago; but here’s some fresh milk, and some raspberries and cake; and if you can’t eat that, you ought to go hungry.’",
+      "speaker": "Ruth"
+    },
+    {
+      "start_byte": 11991,
+      "end_byte": 12035,
+      "labels": [
+        "speech"
+      ],
+      "text": "“She irons Harry’s shirts, I suppose?”",
+      "speaker": "Old lady"
+    },
+    {
+      "start_byte": 12060,
+      "end_byte": 12156,
+      "labels": [
+        "speech"
+      ],
+      "text": "“She? s’pose dis chil’ let her? when she’s so careful, too, of ol’ Dinah’s bones?”",
+      "speaker": "Donah"
+    },
+    {
+      "start_byte": 12157,
+      "end_byte": 12168,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Well,”",
+      "speaker": "Old lady"
+    },
+    {
+      "start_byte": 12210,
+      "end_byte": 12302,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’ll walk over the house a bit, I guess; I won’t trouble you to wait on me, Dinah;”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 12364,
+      "end_byte": 12395,
+      "labels": [
+        "speech"
+      ],
+      "text": "“This is the parlor, hey?”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 12459,
+      "end_byte": 12502,
+      "labels": [
+        "speech"
+      ],
+      "text": "“A few dollars laid out here, I guess.”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 13576,
+      "end_byte": 13631,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Must take a deal of time to gather and fix ’em,”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 14121,
+      "end_byte": 14193,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Who but Ruth would ever have spied out that tiny little blossom?”",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 15301,
+      "end_byte": 15320,
+      "labels": [
+        "other"
+      ],
+      "text": "“best chamber.”",
+      "note": "platonic text"
+    },
+    {
+      "start_byte": 16442,
+      "end_byte": 16454,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“Venus,”"
+    },
+    {
+      "start_byte": 16698,
+      "end_byte": 16844,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Oh, Harry! is this the end of all my teachings? Well, it is all Ruth’s doings—all Ruth’s doings. Harry is to be pitied, not blamed;”",
+      "speaker": "Old Lady"
+    },
+    {
+      "start_byte": 16934,
+      "end_byte": 16973,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Hallo! what are you doing there?”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 17069,
+      "end_byte": 17210,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Ploughing this bit o’ ground, sir. Mr. Hall told me to be sure and get it finished before he came home from the city this afthernoon.”",
+      "speaker": "Laborer"
+    },
+    {
+      "start_byte": 17211,
+      "end_byte": 17226,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Nonsense!”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 17247,
+      "end_byte": 17381,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I was born sometime before my son Harry; put up your plough, and lay that bit of stone wall yonder; that needs to be done first.”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 17382,
+      "end_byte": 17457,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’m thinking Masther Hall won’t be afther liking it if I do, sir,”",
+      "speaker": "Pat"
+    },
+    {
+      "start_byte": 17468,
+      "end_byte": 17562,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I had my orders for the day’s work before masther went to the city, sir, this morning.”",
+      "speaker": "Pat"
+    },
+    {
+      "start_byte": 17563,
+      "end_byte": 17580,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Pooh, pooh,”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 17675,
+      "end_byte": 17760,
+      "labels": [
+        "speech"
+      ],
+      "text": "“young folks think old folks are fools; old folks know young folks to be so.”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 17847,
+      "end_byte": 17894,
+      "labels": [
+        "speech"
+      ],
+      "text": "“What’s that fellow doing over yonder?”",
+      "speaker": "Doctor"
+    },
+    {
+      "start_byte": 17919,
+      "end_byte": 17950,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Planting corn, yer honor.”",
+      "speaker": "Pat"
+    },
+    {
+      "start_byte": 17951,
+      "end_byte": 18140,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Corn? ha! ha! city farming! Good. Corn? That’s just the spot for potatoes. H-a-l-l-o there! Don’t plant any more corn in that spot, John; it never’ll come to anything—never.”",
+      "speaker": "Doctor"
+    }
+  ],
+  "segments": [
+    {
+      "start_byte": 0,
+      "end_byte": 10,
+      "labels": [
+        "narration"
+      ],
+      "text": "CHAPTER X\n"
+    },
+    {
+      "start_byte": 10,
+      "end_byte": 50,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You will be happy here, dear Ruth,”"
+    },
+    {
+      "start_byte": 50,
+      "end_byte": 63,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Harry; "
+    },
+    {
+      "start_byte": 63,
+      "end_byte": 99,
+      "labels": [
+        "speech"
+      ],
+      "text": "“you will be your own mistress.”"
+    },
+    {
+      "start_byte": 99,
+      "end_byte": 1063,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nRuth danced about, from room to room, with the careless glee of a happy child, quite forgetful that she was a wife and a mother; quite unable to repress the flow of spirits consequent upon her new-found freedom.\n\nRuth’s new house was about five miles from the city. The approach to it was through a lovely winding lane, a little off the main road, skirted on either side by a thick grove of linden and elms, where the wild grape-vine leaped, clinging from branch to branch, festooning its ample clusters in prodigal profusion of fruitage, and forming a dense shade, impervious to the most garish noon-day heat; while beneath, the wild brier-rose unfolded its perfumed leaves in the hedges, till the bees and humming-birds went reeling away, with their honeyed treasures.\n\n[48]\n\nYou can scarce see the house, for the drooping elms, half a century old, whose long branches, at every wind-gust, swept across the velvet lawn. The house is very old, but Ruth says, "
+    },
+    {
+      "start_byte": 1063,
+      "end_byte": 1093,
+      "labels": [
+        "speech"
+      ],
+      "text": "“All the better for that.”"
+    },
+    {
+      "start_byte": 1093,
+      "end_byte": 2076,
+      "labels": [
+        "narration"
+      ],
+      "text": " Little patches of moss tuft the sloping roof, and swallows and martens twitter round the old chimney. It has nice old-fashioned beams, running across the ceiling, which threaten to bump Harry’s curly head. The doorways, too, are low, with honeysuckle, red and white, wreathed around the porches; and back of the house there is a high hill (which Ruth says must be terraced off for a garden), surmounted by a gray rock, crowned by a tumble-down old summer-house, where you have as fine a prospect of hill and valley, rock and river, as ever a sunset flooded with rainbow tints.\n\nIt was blessed to see the love-light in Ruth’s gentle eyes; to see the rose chase the lily from her cheek; to see the old spring come back to her step; to follow her from room to room, while she draped the pretty white curtains, and beautified, unconsciously, everything her fingers touched.\n\nShe could give an order without having it countermanded; she could kiss little Daisy, without being called "
+    },
+    {
+      "start_byte": 2076,
+      "end_byte": 2088,
+      "labels": [
+        "other"
+      ],
+      "text": "“silly;”"
+    },
+    {
+      "start_byte": 2088,
+      "end_byte": 2182,
+      "labels": [
+        "narration"
+      ],
+      "text": " she could pull out her comb, and let her curls flow about her face, without being considered "
+    },
+    {
+      "start_byte": 2182,
+      "end_byte": 2198,
+      "labels": [
+        "other"
+      ],
+      "text": "“frivolous;”"
+    },
+    {
+      "start_byte": 2198,
+      "end_byte": 5290,
+      "labels": [
+        "narration"
+      ],
+      "text": " and, better than all, she could fly into her husband’s arms, when he came home, and kiss him, without[49] feeling that she had broken any penal statute. Yes; she was free as the golden orioles, whose hanging nests swayed to and fro amid the glossy green leaves beneath her window.\n\nBut not as thoughtless.\n\nRuth had a strong, earnest nature; she could not look upon this wealth of sea, sky, leaf, bud, and blossom; she could not listen to the little birds, nor inhale the perfumed breath of morning, without a filling eye and brimming heart, to the bounteous Giver. Should she revel in all this loveliness,—should her heart be filled to its fullest capacity for earthly happiness, and no grateful incense go up from its altar to Heaven?\n\nAnd the babe? Its wondering eyes had already begun to seek its mother’s; its little lip to quiver at a harsh or discordant sound. An unpracticed hand must sweep that harp of a thousand strings; trembling fingers must inscribe, indelibly, on that blank page, characters to be read by the light of eternity: the maternal eye must never sleep at its post, lest the enemy rifle the casket of its gems. And so, by her child’s cradle, Ruth first learned to pray. The weight her slender shoulders could not bear, she rolled at the foot of the cross; and, with the baptism of holy tears, mother and child were consecrated.\n\n[50]\n\nCHAPTER XI.\nTime flew on; seasons came and went; and still peace brooded, like a dove, under the roof of Harry and Ruth. Each bright summer morning, Ruth and the little Daisy,(who already partook of her mother’s love for nature,) rambled, hand in hand, through the woods and fields, with a wholesome disregard of those city bug-bears, sun, dew, bogs, fences, briers, and cattle. Wherever a flower opened its blue eye in the rock cleft; wherever the little stream ran, babbling and sparkling, through the emerald meadow; where the golden moss piled up its velvet cushion in the cool woods; where the pretty clematis threw the graceful arms of youth ’round the gnarled trunk of decay; where the bearded grain, swaying to and fro, tempted to its death the reaper; where the red and white clover dotted the meadow grass; or where, in the damp marsh, the whip-poor-will moaned, and the crimson lobelia nodded its regal crown;[51] or where the valley smiled in its beauty ’neath the lofty hills, nestling ’mid its foliage the snow-white cottages; or where the cattle dozed under the broad, green branches, or bent to the glassy lake to drink; or where, on the breezy hill-tops, the voices of childhood came up, sweet and clear, as the far-off hymning of angels,—there, Ruth and her soul’s child loved to linger.\n\nIt was beautiful, yet fearful, to mark the kindling eye of the child; to see the delicate flush come and go on her marble cheek, and to feel the silent pressure of her little hand, when this alone could tell the rapture she had no words to express.\n\nAh, Ruth! gaze not so dotingly on those earnest eyes. Know’st thou not,\n\nThe rose that sweetest doth awake,\nWill soonest go to rest?\n[52]\n\nCHAPTER XII.\n"
+    },
+    {
+      "start_byte": 5290,
+      "end_byte": 5301,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Well,”"
+    },
+    {
+      "start_byte": 5301,
+      "end_byte": 5410,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the doctor, taking his spectacles from his nose, and folding them up carefully in their leathern case; "
+    },
+    {
+      "start_byte": 5410,
+      "end_byte": 5571,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I hope you’ll be easy, Mis. Hall, now that we’ve toted out here, bag and baggage, to please you, when I supposed I was settled for the rest of my life.”"
+    },
+    {
+      "start_byte": 5571,
+      "end_byte": 5573,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 5573,
+      "end_byte": 5682,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Fathers can’t be expected to have as much natural affection, or to be as self-sacrificing as mothers,”"
+    },
+    {
+      "start_byte": 5682,
+      "end_byte": 5702,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the old lady. "
+    },
+    {
+      "start_byte": 5702,
+      "end_byte": 5940,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Of course, it was some trouble to move out here; but, for Harry’s sake, I was willing to do it. What does Ruth know about house-keeping, I’d like to know? A pretty muss she’ll make of it, if I’m not around to oversee things.”"
+    },
+    {
+      "start_byte": 5940,
+      "end_byte": 5942,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 5942,
+      "end_byte": 5962,
+      "labels": [
+        "speech"
+      ],
+      "text": "“It strikes me,”"
+    },
+    {
+      "start_byte": 5962,
+      "end_byte": 5984,
+      "labels": [
+        "narration"
+      ],
+      "text": " retorted the doctor, "
+    },
+    {
+      "start_byte": 5984,
+      "end_byte": 6194,
+      "labels": [
+        "speech"
+      ],
+      "text": "“that you won’t get any thanks for it—from one side of the house, at least. Ruth never says anything when you vex her, but there’s a look in her eye which—well, Mis. Hall, it tells the whole story.”"
+    },
+    {
+      "start_byte": 6194,
+      "end_byte": 6202,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n[53]\n\n"
+    },
+    {
+      "start_byte": 6202,
+      "end_byte": 6223,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’ve seen it,”"
+    },
+    {
+      "start_byte": 6223,
+      "end_byte": 6298,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the old lady, while her very cap-strings fluttered with indignation, "
+    },
+    {
+      "start_byte": 6298,
+      "end_byte": 6937,
+      "labels": [
+        "speech"
+      ],
+      "text": "“and it has provoked me a thousand times more than if she had thrown a brick-bat at my head. That girl is no fool, doctor. She knows very well what she is about: but diamond cut diamond, I say. Doctor, doctor, there are the hens in the garden. I want that garden kept nice. I suppose Ruth thinks that nobody can have flowers but herself. Wait till my china-asters and sweet peas come up. I’m going over to-day to take a peep round her house; I wonder what it looks like? Stuck full of gimcracks, of all sorts, I’ll warrant. Well, I shan’t furnish my best parlor till I see what she has got. I’ve laid by a little money, and—”"
+    },
+    {
+      "start_byte": 6937,
+      "end_byte": 6939,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 6939,
+      "end_byte": 6991,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Better give it to the missionaries, Mis. Hall,”"
+    },
+    {
+      "start_byte": 6991,
+      "end_byte": 7012,
+      "labels": [
+        "narration"
+      ],
+      "text": " growled the doctor; "
+    },
+    {
+      "start_byte": 7012,
+      "end_byte": 7082,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I tell you Ruth don’t care a pin what you have in your parlor.”"
+    },
+    {
+      "start_byte": 7082,
+      "end_byte": 7083,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 7083,
+      "end_byte": 7112,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Don’t you believe it,”"
+    },
+    {
+      "start_byte": 7112,
+      "end_byte": 7132,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the old lady.\n"
+    },
+    {
+      "start_byte": 7132,
+      "end_byte": 7151,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Well, anyhow,”"
+    },
+    {
+      "start_byte": 7151,
+      "end_byte": 7173,
+      "labels": [
+        "narration"
+      ],
+      "text": " muttered the doctor, "
+    },
+    {
+      "start_byte": 7173,
+      "end_byte": 7466,
+      "labels": [
+        "speech"
+      ],
+      "text": "“you can’t get the upper hand of her in that line; i. e., if she has a mind that you shall not. Harry is doing a very good business; and you know very well, it is no use to try to blind your eyes to it, that if she wanted Queen Victoria’s sceptre, he’d manage to get it for her.”"
+    },
+    {
+      "start_byte": 7466,
+      "end_byte": 7467,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 7467,
+      "end_byte": 7510,
+      "labels": [
+        "speech"
+      ],
+      "text": "“That’s more than I can say of you,”"
+    },
+    {
+      "start_byte": 7510,
+      "end_byte": 7562,
+      "labels": [
+        "narration"
+      ],
+      "text": " exclaimed the old lady, fanning herself violently; "
+    },
+    {
+      "start_byte": 7562,
+      "end_byte": 7833,
+      "labels": [
+        "speech"
+      ],
+      "text": "“for all that I used to mend your old saddle-bags, and once made, with my[54] own hands, a pair of leather small-clothes to ride horseback in. Forty years, doctor, I’ve spent in your service. I don’t look much as I did when you married me. I was said then to have "
+    },
+    {
+      "start_byte": 7833,
+      "end_byte": 7864,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘woman’s seven beauties,’"
+    },
+    {
+      "start_byte": 7864,
+      "end_byte": 7879,
+      "labels": [
+        "speech"
+      ],
+      "text": " including the "
+    },
+    {
+      "start_byte": 7879,
+      "end_byte": 7904,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘dimple in the chin,’"
+    },
+    {
+      "start_byte": 7904,
+      "end_byte": 7934,
+      "labels": [
+        "speech"
+      ],
+      "text": " which I see still remains;”"
+    },
+    {
+      "start_byte": 7934,
+      "end_byte": 8006,
+      "labels": [
+        "narration"
+      ],
+      "text": " and the old lady pointed to a slight indentation in her wrinkled face. "
+    },
+    {
+      "start_byte": 8006,
+      "end_byte": 8196,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I might have had him that was Squire Smith, or Pete Packer, or Jim Jessup. There wasn’t one of ’em who had not rather do the chores on our farm, than on any other in the village.”"
+    },
+    {
+      "start_byte": 8196,
+      "end_byte": 8197,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 8197,
+      "end_byte": 8214,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Pooh, pooh,”"
+    },
+    {
+      "start_byte": 8214,
+      "end_byte": 8232,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the doctor, "
+    },
+    {
+      "start_byte": 8232,
+      "end_byte": 8307,
+      "labels": [
+        "speech"
+      ],
+      "text": "“don’t be an old fool; that was because your father kept good cider.”"
+    },
+    {
+      "start_byte": 8307,
+      "end_byte": 8524,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nMrs. Hall’s cap-strings were seen flying the next minute through the sitting-room door; and the doctor was heard to mutter, as she banged the door behind her, “that tells the whole story!”\n\n[55]\nCHAPTER XIII.\n"
+    },
+    {
+      "start_byte": 8524,
+      "end_byte": 8550,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Asummer house, hey!”"
+    },
+    {
+      "start_byte": 8550,
+      "end_byte": 8672,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the old lady, as with stealthy, cat-like steps, she crossed a small piece of woods, between her house and Ruth’s; "
+    },
+    {
+      "start_byte": 8672,
+      "end_byte": 8760,
+      "labels": [
+        "speech"
+      ],
+      "text": "“a summer house! that’s the way the money goes, is it? What have we here? a book;”"
+    },
+    {
+      "start_byte": 8760,
+      "end_byte": 8830,
+      "labels": [
+        "narration"
+      ],
+      "text": " (picking up a volume which lay half hidden in the moss at her feet;) "
+    },
+    {
+      "start_byte": 8830,
+      "end_byte": 9004,
+      "labels": [
+        "speech"
+      ],
+      "text": "“poetry, I declare! the most frivolous of all reading; all pencil marked;—and here’s something in Ruth’s own hand-writing—that’s poetry, too: worse and worse.”"
+    },
+    {
+      "start_byte": 9004,
+      "end_byte": 9005,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 9005,
+      "end_byte": 9207,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Well, we’ll see how the kitchen of this poetess looks. I will go into the house the back way, and take them by surprise; that’s the way to find people out. None of your company faces for me.”"
+    },
+    {
+      "start_byte": 9207,
+      "end_byte": 9379,
+      "labels": [
+        "narration"
+      ],
+      "text": " And the old lady peered curiously through her spectacles, on either side, as she passed along towards the kitchen door, and exclaimed, as her eye fell on the shining row, "
+    },
+    {
+      "start_byte": 9379,
+      "end_byte": 9465,
+      "labels": [
+        "speech"
+      ],
+      "text": "“six milkpans!—wonder if they buy their milk, or keep a cow. If they buy it, it"
+    },
+    {
+      "start_byte": 9465,
+      "end_byte": 9469,
+      "labels": [
+        "narration"
+      ],
+      "text": "[56]"
+    },
+    {
+      "start_byte": 9469,
+      "end_byte": 9563,
+      "labels": [
+        "speech"
+      ],
+      "text": " must cost them something; if they keep a cow, I’ve no question the milk is half wasted.”"
+    },
+    {
+      "start_byte": 9563,
+      "end_byte": 10118,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nThe old lady passed her skinny forefinger across one of the pans, examining her finger very minutely after the operation; and then applied the tip of her nose to the interior of it. There was no fault to be found with that milkpan, if it was Ruth’s; so, scrutinizing two or three dish towels, which were hanging on a line to dry, she stepped cautiously up to the kitchen door. A tidy, respectable-looking black woman met her on the threshold; her woolly locks bound with a gay-striped bandanna, and her ebony face shining with irresistible good humor.\n"
+    },
+    {
+      "start_byte": 10118,
+      "end_byte": 10135,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Is Ruth in?”"
+    },
+    {
+      "start_byte": 10135,
+      "end_byte": 10155,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the old lady.\n"
+    },
+    {
+      "start_byte": 10155,
+      "end_byte": 10173,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Who, Missis?”"
+    },
+    {
+      "start_byte": 10173,
+      "end_byte": 10186,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Dinah.\n"
+    },
+    {
+      "start_byte": 10186,
+      "end_byte": 10197,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Ruth.”"
+    },
+    {
+      "start_byte": 10197,
+      "end_byte": 10198,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 10198,
+      "end_byte": 10228,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Missis Hall lives here,”"
+    },
+    {
+      "start_byte": 10228,
+      "end_byte": 10266,
+      "labels": [
+        "narration"
+      ],
+      "text": " answered Dinah, with a puzzled look.\n"
+    },
+    {
+      "start_byte": 10266,
+      "end_byte": 10280,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Exactly,”"
+    },
+    {
+      "start_byte": 10280,
+      "end_byte": 10300,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the old lady; "
+    },
+    {
+      "start_byte": 10300,
+      "end_byte": 10329,
+      "labels": [
+        "speech"
+      ],
+      "text": "“she is my son’s wife.”"
+    },
+    {
+      "start_byte": 10329,
+      "end_byte": 10330,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 10330,
+      "end_byte": 10366,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Oh! I beg your pardon, Missis,”"
+    },
+    {
+      "start_byte": 10366,
+      "end_byte": 10404,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Dinah, curtseying respectfully. "
+    },
+    {
+      "start_byte": 10404,
+      "end_byte": 10465,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I never heard her name called Ruth afore: massa calls her "
+    },
+    {
+      "start_byte": 10465,
+      "end_byte": 10476,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘bird,’"
+    },
+    {
+      "start_byte": 10476,
+      "end_byte": 10481,
+      "labels": [
+        "speech"
+      ],
+      "text": " and "
+    },
+    {
+      "start_byte": 10481,
+      "end_byte": 10495,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘sunbeam.’"
+    },
+    {
+      "start_byte": 10495,
+      "end_byte": 10498,
+      "labels": [
+        "speech"
+      ],
+      "text": "”"
+    },
+    {
+      "start_byte": 10498,
+      "end_byte": 10521,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nThe old lady frowned.\n"
+    },
+    {
+      "start_byte": 10521,
+      "end_byte": 10542,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Is she at home?”"
+    },
+    {
+      "start_byte": 10542,
+      "end_byte": 10579,
+      "labels": [
+        "narration"
+      ],
+      "text": " she repeated, with stately dignity.\n"
+    },
+    {
+      "start_byte": 10579,
+      "end_byte": 10588,
+      "labels": [
+        "speech"
+      ],
+      "text": "“No,”"
+    },
+    {
+      "start_byte": 10588,
+      "end_byte": 10601,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Dinah, "
+    },
+    {
+      "start_byte": 10601,
+      "end_byte": 10745,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Missis is gone rambling off in the woods with little Daisy. She’s powerful fond of flowers, and things. She climbs fences like a squir’l!"
+    },
+    {
+      "start_byte": 10745,
+      "end_byte": 10749,
+      "labels": [
+        "narration"
+      ],
+      "text": "[57]"
+    },
+    {
+      "start_byte": 10749,
+      "end_byte": 10821,
+      "labels": [
+        "speech"
+      ],
+      "text": " it makes this chil’ laf’ to see the ol’ farmers stare at her.”"
+    },
+    {
+      "start_byte": 10821,
+      "end_byte": 10822,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 10822,
+      "end_byte": 10867,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You must have a great deal to do, here;”"
+    },
+    {
+      "start_byte": 10867,
+      "end_byte": 10897,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the old lady, frowning; "
+    },
+    {
+      "start_byte": 10897,
+      "end_byte": 10945,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Ruth isn’t much of a hand at house-work.”"
+    },
+    {
+      "start_byte": 10945,
+      "end_byte": 10946,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 10946,
+      "end_byte": 11157,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Plenty to do, Missis, and willin’ hands to do it. Dinah don’t care how hard she works, if she don’t work to the tune of a lash; and Missis Hall goes singing about the house so that it makes time fly.”"
+    },
+    {
+      "start_byte": 11157,
+      "end_byte": 11158,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 11158,
+      "end_byte": 11206,
+      "labels": [
+        "speech"
+      ],
+      "text": "“She don’t ever help you any, does she?”"
+    },
+    {
+      "start_byte": 11206,
+      "end_byte": 11238,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the persevering old lady.\n"
+    },
+    {
+      "start_byte": 11238,
+      "end_byte": 11497,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Lor’ bless you! yes, Missis. She comes right in and makes a pie for Massa Harry, or cooks a steak jess’ as easy as she pulls off a flower; and when Dinah’s cooking anything new, she asks more questions how it’s done than this chil’ kin answer.”"
+    },
+    {
+      "start_byte": 11497,
+      "end_byte": 11498,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 11498,
+      "end_byte": 11705,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You have a great deal of company, I suppose; that must make you extra trouble, I should think; people riding out from the city to supper, when you are all through and cleared away: don’t it tire you?”"
+    },
+    {
+      "start_byte": 11705,
+      "end_byte": 11706,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 11706,
+      "end_byte": 11784,
+      "labels": [
+        "speech"
+      ],
+      "text": "“No; Missis Hall takes it easy. She laf’s merry, and says to the company, "
+    },
+    {
+      "start_byte": 11784,
+      "end_byte": 11987,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘you get tea enough in the city, so I shan’t give you any; we had tea long ago; but here’s some fresh milk, and some raspberries and cake; and if you can’t eat that, you ought to go hungry.’"
+    },
+    {
+      "start_byte": 11987,
+      "end_byte": 11990,
+      "labels": [
+        "speech"
+      ],
+      "text": "”"
+    },
+    {
+      "start_byte": 11990,
+      "end_byte": 11991,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 11991,
+      "end_byte": 12035,
+      "labels": [
+        "speech"
+      ],
+      "text": "“She irons Harry’s shirts, I suppose?”"
+    },
+    {
+      "start_byte": 12035,
+      "end_byte": 12060,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the old lady.\n[58]\n"
+    },
+    {
+      "start_byte": 12060,
+      "end_byte": 12156,
+      "labels": [
+        "speech"
+      ],
+      "text": "“She? s’pose dis chil’ let her? when she’s so careful, too, of ol’ Dinah’s bones?”"
+    },
+    {
+      "start_byte": 12156,
+      "end_byte": 12157,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 12157,
+      "end_byte": 12168,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Well,”"
+    },
+    {
+      "start_byte": 12168,
+      "end_byte": 12210,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the old lady, foiled at all points, "
+    },
+    {
+      "start_byte": 12210,
+      "end_byte": 12302,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’ll walk over the house a bit, I guess; I won’t trouble you to wait on me, Dinah;”"
+    },
+    {
+      "start_byte": 12302,
+      "end_byte": 12364,
+      "labels": [
+        "narration"
+      ],
+      "text": " and the old lady started on her exploring tour.\nCHAPTER XIV.\n"
+    },
+    {
+      "start_byte": 12364,
+      "end_byte": 12395,
+      "labels": [
+        "speech"
+      ],
+      "text": "“This is the parlor, hey?”"
+    },
+    {
+      "start_byte": 12395,
+      "end_byte": 12459,
+      "labels": [
+        "narration"
+      ],
+      "text": " soliloquized old Mrs. Hall, as she seated herself on the sofa. "
+    },
+    {
+      "start_byte": 12459,
+      "end_byte": 12502,
+      "labels": [
+        "speech"
+      ],
+      "text": "“A few dollars laid out here, I guess.”"
+    },
+    {
+      "start_byte": 12502,
+      "end_byte": 13576,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nNot so fast, my dear madam. Examine closely. Those long, white curtains, looped up so prettily from the open windows, are plain, cheap muslin; but no artist could have disposed their folds more gracefully. The chairs and sofas, also, Ruth covered with her own nimble fingers: the room has the fragrance of a green-house, to be sure; but if you examine the flowers, which are scattered so profusedly round, you will find they are wild flowers, which Ruth, basket in hand, climbs many a stone fence every morning to gather; and not a country boy in the village knows their hiding-places as well as she. See how skilfully they are arranged! with what an eye to the blending of colors! How dainty is that little tulip-shaped vase, with those half opened wild-rose buds![60] see that little gilt saucer, containing only a few tiny green leaves; yet, mark their exquisite shape and finish. And there are some wood anemonies; some white, with a faint blush of pink at the petals; and others blue as little Daisy’s eyes; and see that velvet moss, with its gold-star blossoms!\n"
+    },
+    {
+      "start_byte": 13576,
+      "end_byte": 13631,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Must take a deal of time to gather and fix ’em,”"
+    },
+    {
+      "start_byte": 13631,
+      "end_byte": 14121,
+      "labels": [
+        "narration"
+      ],
+      "text": " muttered the old lady.\nYes, my dear madam; but, better pay the shoe-maker’s than the doctor’s bill; better seek health in hunting live flowers, than ruin it by manufacturing those German worsted abortions.\nYou should see your son Harry, as he ushers a visitor in through the low door-way, and stands back to mark the surprised delight with which he gazes upon Ruth’s little fairy room. You should see how Harry’s eyes glisten, as they pass from one flower vase to another, saying, "
+    },
+    {
+      "start_byte": 14121,
+      "end_byte": 14193,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Who but Ruth would ever have spied out that tiny little blossom?”"
+    },
+    {
+      "start_byte": 14193,
+      "end_byte": 15301,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nAnd little Daisy has caught the flower mania, too; and every day she must have her vase in the collection; now withdrawing a rose and replacing it with a violet, and then stepping a pace or two back and looking at it with her little head on one side, as knowingly as an artist looks at the finishing touches to a favorite picture.\nBut, my dear old lady, we beg pardon; we are keeping you too long from that china closet, which you are so[61] anxious to inspect; hoping to find a flaw, either in crockery or cake. Not a bit! You may draw those prying fingers across the shelves till you are tired, and not a particle of dust will adhere to them. Neither cups, saucers, tumblers, nor plates, stick to your hands; the sugar-bowl is covered; the cake, in that tin pail, is fresh and light; the preserves, in those glass jars, tied down with brandy papers, are clear as amber; and the silver might serve for a looking-glass, in which you could read your own vexation.\nNever mind! A great many people keep the first floor spick and span; mayhap you’ll find something wrong up stairs. Walk in; ’tis the "
+    },
+    {
+      "start_byte": 15301,
+      "end_byte": 15320,
+      "labels": [
+        "other"
+      ],
+      "text": "“best chamber.”"
+    },
+    {
+      "start_byte": 15320,
+      "end_byte": 16442,
+      "labels": [
+        "narration"
+      ],
+      "text": " A gilt arrow is fastened to the wall, and pretty white lace curtains are thrown (tent fashion) over it; there is a snow-white quilt and a pair of plump, tempting pillows; the furniture and carpet are of a light cream color; and there is a vase of honeysuckle on the little light-stand. Nothing could be more faultless, you see.\nNow, step into the nursery; the floor is strewed with play-things; thank God, there’s a child in the house! There is a broken doll; a torn picture-book; a little wreath of oak leaves; a dandelion chain; some willow tassels; a few acorns; a little red shoe, full of parti-colored pebbles; the wing of a little blue-bird; two little, speckled eggs, on a tuft of moss; and a little orphan chicken, nestling in a basket of cotton wool, in[62] the corner. Then, there is a work-basket of Ruth’s with a little dress of Daisy’s, partly finished, and a dicky of Harry’s, with the needle still sticking in it, which the little gypsey wife intends finishing when she comes back from her wood ramble.\nThe old lady begins to think she must give it up; when, luckily, her eye falls on a crouching "
+    },
+    {
+      "start_byte": 16442,
+      "end_byte": 16454,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“Venus,”"
+    },
+    {
+      "start_byte": 16454,
+      "end_byte": 16698,
+      "labels": [
+        "narration"
+      ],
+      "text": " in the corner. Saints and angels! why, she has never been to the dress-makers! There’s a text, now! What a pity there is no appreciative audience to see the glow of indignation with which those half averted eyes regard the undraped goddess!\n"
+    },
+    {
+      "start_byte": 16698,
+      "end_byte": 16844,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Oh, Harry! is this the end of all my teachings? Well, it is all Ruth’s doings—all Ruth’s doings. Harry is to be pitied, not blamed;”"
+    },
+    {
+      "start_byte": 16844,
+      "end_byte": 16934,
+      "labels": [
+        "narration"
+      ],
+      "text": " and the old lady takes up, at length, her triumphant march for home.\n\n[63]\nCHAPTER XV.\n"
+    },
+    {
+      "start_byte": 16934,
+      "end_byte": 16973,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Hallo! what are you doing there?”"
+    },
+    {
+      "start_byte": 16973,
+      "end_byte": 17069,
+      "labels": [
+        "narration"
+      ],
+      "text": " exclaimed the doctor, looking over the fence at a laborer, at work in one of Harry’s fields.\n"
+    },
+    {
+      "start_byte": 17069,
+      "end_byte": 17210,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Ploughing this bit o’ ground, sir. Mr. Hall told me to be sure and get it finished before he came home from the city this afthernoon.”"
+    },
+    {
+      "start_byte": 17210,
+      "end_byte": 17211,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 17211,
+      "end_byte": 17226,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Nonsense!”"
+    },
+    {
+      "start_byte": 17226,
+      "end_byte": 17247,
+      "labels": [
+        "narration"
+      ],
+      "text": " replied the doctor, "
+    },
+    {
+      "start_byte": 17247,
+      "end_byte": 17381,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I was born sometime before my son Harry; put up your plough, and lay that bit of stone wall yonder; that needs to be done first.”"
+    },
+    {
+      "start_byte": 17381,
+      "end_byte": 17382,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 17382,
+      "end_byte": 17457,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’m thinking Masther Hall won’t be afther liking it if I do, sir,”"
+    },
+    {
+      "start_byte": 17457,
+      "end_byte": 17468,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Pat; "
+    },
+    {
+      "start_byte": 17468,
+      "end_byte": 17562,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I had my orders for the day’s work before masther went to the city, sir, this morning.”"
+    },
+    {
+      "start_byte": 17562,
+      "end_byte": 17563,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 17563,
+      "end_byte": 17580,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Pooh, pooh,”"
+    },
+    {
+      "start_byte": 17580,
+      "end_byte": 17675,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the old man, unchaining the horse from the plough, and turning him loose in the pasture; "
+    },
+    {
+      "start_byte": 17675,
+      "end_byte": 17760,
+      "labels": [
+        "speech"
+      ],
+      "text": "“young folks think old folks are fools; old folks know young folks to be so.”"
+    },
+    {
+      "start_byte": 17760,
+      "end_byte": 17847,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n[64]\nPat eyed the doctor, scratched his head, and began slowly to lay the stone wall.\n"
+    },
+    {
+      "start_byte": 17847,
+      "end_byte": 17894,
+      "labels": [
+        "speech"
+      ],
+      "text": "“What’s that fellow doing over yonder?”"
+    },
+    {
+      "start_byte": 17894,
+      "end_byte": 17919,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the doctor to Pat.\n"
+    },
+    {
+      "start_byte": 17919,
+      "end_byte": 17950,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Planting corn, yer honor.”"
+    },
+    {
+      "start_byte": 17950,
+      "end_byte": 17951,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 17951,
+      "end_byte": 18140,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Corn? ha! ha! city farming! Good. Corn? That’s just the spot for potatoes. H-a-l-l-o there! Don’t plant any more corn in that spot, John; it never’ll come to anything—never.”"
+    },
+    {
+      "start_byte": 18140,
+      "end_byte": 18143,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n "
+    }
+  ]
+}

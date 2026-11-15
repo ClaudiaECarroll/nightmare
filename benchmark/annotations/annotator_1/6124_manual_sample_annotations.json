@@ -1,0 +1,1819 @@
+{
+  "name": "6124_manual_sample",
+  "source_file": "6124_manual_sample.txt",
+  "created": "2026-07-22T15:03:33",
+  "modified": "2026-07-24T14:17:43",
+  "total_bytes": 14875,
+  "spans": [
+    {
+      "start_byte": 1728,
+      "end_byte": 1735,
+      "labels": [
+        "speech"
+      ],
+      "text": "Pamela,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 1745,
+      "end_byte": 1791,
+      "labels": [
+        "speech"
+      ],
+      "text": "you are so neat and\nso nice in your own dress,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 1830,
+      "end_byte": 1907,
+      "labels": [
+        "speech"
+      ],
+      "text": "that you\nmust be a judge of ours. How are these clothes made? Do they fit me?",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 1910,
+      "end_byte": 1924,
+      "labels": [
+        "speech"
+      ],
+      "text": "I\nam no judge,",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 1933,
+      "end_byte": 1989,
+      "labels": [
+        "speech"
+      ],
+      "text": "and please your honour; but I think they look very\nfine.",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 2156,
+      "end_byte": 2243,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why don’t you wear your usual clothes? Though I\nthink every thing looks well upon you",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 2292,
+      "end_byte": 2399,
+      "labels": [
+        "speech"
+      ],
+      "text": "I have no clothes, sir, I ought to call my own, but\nthese: and it is no matter what such an one as I wears.",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 2409,
+      "end_byte": 2470,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why\nyou look very serious, Pamela. I see you can bear malice.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 2473,
+      "end_byte": 2492,
+      "labels": [
+        "speech"
+      ],
+      "text": "Yes, so I\ncan, sir,",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 2501,
+      "end_byte": 2527,
+      "labels": [
+        "speech"
+      ],
+      "text": "according to the occasion!",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 2528,
+      "end_byte": 2532,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 2542,
+      "end_byte": 2755,
+      "labels": [
+        "speech"
+      ],
+      "text": "your eyes\nalways look red, I think. Are you not a fool to take my last freedom so\nmuch to heart? I am sure you, and that fool Mrs. Jervis, frightened me,\nby your hideous squalling, as much as I could frighten you.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 2756,
+      "end_byte": 2782,
+      "labels": [
+        "speech"
+      ],
+      "text": "That is all\nwe had for it,",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 2791,
+      "end_byte": 3163,
+      "labels": [
+        "speech"
+      ],
+      "text": "and if you could be so afraid of your own\nservants knowing of your attempts upon a poor unworthy creature, that\nis under your protection while I stay, surely your honour ought to be\nmore afraid of God Almighty, in whose presence we all stand, in every\naction of our lives, and to whom the greatest, as well as the least,\nmust be accountable, let them think what they list.",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 3228,
+      "end_byte": 3381,
+      "labels": [
+        "speech"
+      ],
+      "text": "Well\nurged, my pretty preacher! When my Lincolnshire chaplain dies, I’ll put\nthee on a gown and cassock, and thou’lt make a good figure in his\nplace.",
+      "speaker": "lord Jonathan"
+    },
+    {
+      "start_byte": 3384,
+      "end_byte": 3391,
+      "labels": [
+        "speech"
+      ],
+      "text": "I wish,",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 3428,
+      "end_byte": 3521,
+      "labels": [
+        "speech"
+      ],
+      "text": "your honour’s\nconscience would be your preacher, and then you would need no other\nchaplain.",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 3522,
+      "end_byte": 3738,
+      "labels": [
+        "speech"
+      ],
+      "text": "Well, well, Pamela, said he, no more of this unfashionable\njargon. I did not send for you so much for your opinion of my new suit,\nas to tell you, you are welcome to stay, since Mrs. Jervis desires it,\ntill she goes.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 3739,
+      "end_byte": 3749,
+      "labels": [
+        "speech"
+      ],
+      "text": "I welcome!",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 3758,
+      "end_byte": 3811,
+      "labels": [
+        "speech"
+      ],
+      "text": "I am sure I shall rejoice when I am\nout of the house!",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 3813,
+      "end_byte": 3818,
+      "labels": [
+        "speech"
+      ],
+      "text": "Well,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 3828,
+      "end_byte": 3944,
+      "labels": [
+        "speech"
+      ],
+      "text": "you are an ungrateful baggage; but I am thinking it\nwould be pity, with these fair soft hands, and that lovely skin,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 3990,
+      "end_byte": 4311,
+      "labels": [
+        "speech"
+      ],
+      "text": "that you should return again to\nhard work, as you must if you go to your father’s; and so I would\nadvise her to take a house in London, and let lodgings to us members of\nparliament, when we come to town; and such a pretty daughter as you may\npass for, will always fill her house, and she’ll get a great deal of\nmoney.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 4472,
+      "end_byte": 4623,
+      "labels": [
+        "speech"
+      ],
+      "text": "I can expect no better: Your behaviour, sir,\nto me, has been just of a piece with these words: Nay, I will say it,\nthough you were to be ever so angry.",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 4626,
+      "end_byte": 4650,
+      "labels": [
+        "speech"
+      ],
+      "text": "I angry, Pamela? No, no,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 4660,
+      "end_byte": 5097,
+      "labels": [
+        "speech"
+      ],
+      "text": "I have overcome all that; and as you are to go away, I look upon you\nnow as Mrs. Jervis’s guest while you both stay, and not as my servant;\nand so you may say what you will. But I’ll tell you, Pamela, why you\nneed not take this matter in such high disdain!—You have a very pretty\nromantic turn for virtue, and all that.—And I don’t suppose but you’ll\nhold it still: and nobody will be able to prevail upon you. But, my\nchild,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 5124,
+      "end_byte": 5435,
+      "labels": [
+        "speech"
+      ],
+      "text": "do but consider what a fine\nopportunity you will then have for a tale every day to good mother\nJervis, and what subjects for letter-writing to your father and mother,\nand what pretty preachments you may hold forth to the young gentlemen.\nAd’s my heart! I think it would be the best thing you and she could do.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 5437,
+      "end_byte": 5454,
+      "labels": [
+        "speech"
+      ],
+      "text": "You do well, sir,",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 5463,
+      "end_byte": 5714,
+      "labels": [
+        "speech"
+      ],
+      "text": "to even your wit to such a poor maiden as me:\nbut, permit me to say, that if you was not rich and great, and I poor\nand little, you would not insult me thus.—Let me ask you, sir, if you\nthink this becomes your fine clothes, and a master’s station:",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 5715,
+      "end_byte": 5748,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why so\nserious, my pretty Pamela?",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 5758,
+      "end_byte": 5771,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why so grave?",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 5826,
+      "end_byte": 6247,
+      "labels": [
+        "speech"
+      ],
+      "text": "Let me alone; I will tell you, if\nyou was a king, and insulted me as you have done, that you have\nforgotten to act like a gentleman; and I won’t stay to be used thus: I\nwill go to the next farmer’s, and there wait for Mrs. Jervis, if she\nmust go: and I’d have you know, sir, that I can stoop to the\nordinariest work of your scullions, for all these nasty soft hands,\nsooner than bear such ungentlemanly imputations.",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 6249,
+      "end_byte": 6264,
+      "labels": [
+        "speech"
+      ],
+      "text": "I sent for you,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 6274,
+      "end_byte": 6591,
+      "labels": [
+        "speech"
+      ],
+      "text": "in high good humour; but it is impossible to\nhold it with such an impertinent: however, I’ll keep my temper. But\nwhile I see you here, pray don’t put on those dismal grave looks: Why,\ngirl, you should forbear them, if it were but for your pride-sake; for\nthe family will think you are grieving to leave the house.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 6592,
+      "end_byte": 6602,
+      "labels": [
+        "speech"
+      ],
+      "text": "Then, sir,",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 6611,
+      "end_byte": 6756,
+      "labels": [
+        "speech"
+      ],
+      "text": "I will try to convince them of the contrary, as well as your\nhonour; for I will endeavour to be more cheerful while I stay, for that\nvery reason.",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 6758,
+      "end_byte": 6763,
+      "labels": [
+        "speech"
+      ],
+      "text": "Well,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 6776,
+      "end_byte": 6879,
+      "labels": [
+        "speech"
+      ],
+      "text": "I will set this down by itself, as the first time\nthat ever what I had advised had any weight with you.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 6880,
+      "end_byte": 6895,
+      "labels": [
+        "speech"
+      ],
+      "text": "And I will add,",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 6904,
+      "end_byte": 6979,
+      "labels": [
+        "speech"
+      ],
+      "text": "as the first advice you have given me of late, that was fit to\nbe followed.",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 6982,
+      "end_byte": 6988,
+      "labels": [
+        "speech"
+      ],
+      "text": "I wish",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 7062,
+      "end_byte": 7130,
+      "labels": [
+        "speech"
+      ],
+      "text": "I wish I had thee as quick another way, as thou\nart in thy repartees",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 7221,
+      "end_byte": 7224,
+      "labels": [
+        "thought"
+      ],
+      "text": "Ah!",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 7236,
+      "end_byte": 7342,
+      "labels": [
+        "thought"
+      ],
+      "text": "married? I am\nsure it is time you were married, or, at this rate, no honest maiden\nought to live with you.",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 10753,
+      "end_byte": 11049,
+      "labels": [
+        "speech"
+      ],
+      "text": "Well, Mrs. Jervis, Longman says you have made up your\naccounts with him with your usual fidelity and exactness. I had a good\nmind to make you an offer of continuing with me, if you can be a little\nsorry for your hasty words, which, indeed, were not so respectful as I\nhave deserved at your hands.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 11190,
+      "end_byte": 11197,
+      "labels": [
+        "speech"
+      ],
+      "text": "Indeed,",
+      "speaker": "Mr. Longman"
+    },
+    {
+      "start_byte": 11216,
+      "end_byte": 11432,
+      "labels": [
+        "speech"
+      ],
+      "text": "I must needs say before your face, that since\nI have known my master’s family, I have never found such good\nmanagement in it, nor so much love and harmony neither. I wish the\nLincolnshire estate was as well served!",
+      "speaker": "Mr. Longman"
+    },
+    {
+      "start_byte": 11435,
+      "end_byte": 11451,
+      "labels": [
+        "speech"
+      ],
+      "text": "No more of that,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 11468,
+      "end_byte": 11695,
+      "labels": [
+        "speech"
+      ],
+      "text": "but Mrs. Jervis may stay, if she will: and here, Mrs. Jervis,\npray accept of this, which at the close of every year’s accounts I will\npresent you with, besides your salary, as long as I find your care so\nuseful and agreeable.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 11872,
+      "end_byte": 12028,
+      "labels": [
+        "speech"
+      ],
+      "text": "Indeed I love to encourage\nmerit and obligingness, Longman; but I can never be equally kind to\nthose who don’t deserve it at my hands, as to those who do;",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 12060,
+      "end_byte": 12068,
+      "labels": [
+        "speech"
+      ],
+      "text": "Longman,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 12083,
+      "end_byte": 12268,
+      "labels": [
+        "speech"
+      ],
+      "text": "I said that girl might come\nin with Mrs. Jervis, because they love to be always together. For Mrs.\nJervis is very good to her, and loves her as well as if she was her\ndaughter. But else",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 12308,
+      "end_byte": 12404,
+      "labels": [
+        "speech"
+      ],
+      "text": "Good to Mrs.\nPamela! Ay, sir, and so she is, to be sure! But every body must be good\nto her; for",
+      "speaker": "Mr. Longman"
+    },
+    {
+      "start_byte": 12449,
+      "end_byte": 12635,
+      "labels": [
+        "speech"
+      ],
+      "text": "No more, no more, Mr. Longman. I\nsee old men are taken with pretty young girls, as well as other folks;\nand fair looks hide many a fault, where a person has the art to behave\nobligingly.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 12636,
+      "end_byte": 12664,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why, and please your honour,",
+      "speaker": "Mr. Longman"
+    },
+    {
+      "start_byte": 12683,
+      "end_byte": 12693,
+      "labels": [
+        "speech"
+      ],
+      "text": "every\nbody",
+      "speaker": "Mr. Longman"
+    },
+    {
+      "start_byte": 12795,
+      "end_byte": 12965,
+      "labels": [
+        "speech"
+      ],
+      "text": "Not a word more of this Pamela. I\ncan’t let her stay, I’ll assure you; not only for her own freedom of\nspeech, but her letter-writing of all the secrets of my family.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 12966,
+      "end_byte": 12969,
+      "labels": [
+        "speech"
+      ],
+      "text": "Ay,",
+      "speaker": "Mr. Longman"
+    },
+    {
+      "start_byte": 12993,
+      "end_byte": 13027,
+      "labels": [
+        "speech"
+      ],
+      "text": "I am sorry for that too! But, sir,",
+      "speaker": "Mr. Longman"
+    },
+    {
+      "start_byte": 13030,
+      "end_byte": 13045,
+      "labels": [
+        "speech"
+      ],
+      "text": "No more, I\nsay,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 13062,
+      "end_byte": 13097,
+      "labels": [
+        "speech"
+      ],
+      "text": "for my reputation is so well known,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 13099,
+      "end_byte": 13111,
+      "labels": [
+        "thought"
+      ],
+      "text": "mighty fine,",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 13124,
+      "end_byte": 13202,
+      "labels": [
+        "speech"
+      ],
+      "text": "that I care not what any body writes or says of me: But to\ntell you the truth,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 13234,
+      "end_byte": 13424,
+      "labels": [
+        "speech"
+      ],
+      "text": "I think of changing\nmy condition soon; and, you know, young ladies of birth and fortune\nwill choose their own servants, and that’s my chief reason why Pamela\ncan’t stay. As for the rest,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 13434,
+      "end_byte": 13673,
+      "labels": [
+        "speech"
+      ],
+      "text": "the girl is a good sort of body,\ntake her altogether; though I must needs say, a little pert, since my\nmother’s death, in her answers, and gives me two words for one; which I\ncan’t bear; nor is there reason I should, you know, Longman.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 13674,
+      "end_byte": 13694,
+      "labels": [
+        "speech"
+      ],
+      "text": "No, to be\nsure, sir,",
+      "speaker": "Mr. Longman"
+    },
+    {
+      "start_byte": 13704,
+      "end_byte": 13856,
+      "labels": [
+        "speech"
+      ],
+      "text": "but ’tis strange, methinks, she should be so mild\nand meek to every one of us in the house, and forget herself so, where\nshe should shew most respect!",
+      "speaker": "Mr. Longman"
+    },
+    {
+      "start_byte": 13857,
+      "end_byte": 13880,
+      "labels": [
+        "speech"
+      ],
+      "text": "Very true, Mr. Longman,",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 13890,
+      "end_byte": 14039,
+      "labels": [
+        "speech"
+      ],
+      "text": "but so\nit is, I’ll assure you; and it was from her pertness, that Mrs. Jervis\nand I had the words: And I should mind it the less, but that the girl",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 14081,
+      "end_byte": 14133,
+      "labels": [
+        "speech"
+      ],
+      "text": "has wit and sense above her\nyears, and knows better.",
+      "speaker": "Lord Jonathan"
+    },
+    {
+      "start_byte": 14318,
+      "end_byte": 14408,
+      "labels": [
+        "speech"
+      ],
+      "text": "It is for you, sir, to say\nwhat you please; and for me only to say, God bless your honour!",
+      "speaker": "Pamela"
+    },
+    {
+      "start_byte": 14505,
+      "end_byte": 14671,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why, pr’ythee, Pamela, now, shew thyself as\nthou art, before Longman. Can’st not give him a specimen of that\npertness which thou hast exercised upon me sometimes?",
+      "speaker": "Lord Jonathan"
+    }
+  ],
+  "segments": [
+    {
+      "start_byte": 0,
+      "end_byte": 1728,
+      "labels": [
+        "narration"
+      ],
+      "text": "LETTER XXVII\n\nDEAR FATHER AND MOTHER,\n\nI am glad I desired you not to meet me, and John says you won’t; for he\ntold you he is sure I shall get a passage well enough, either behind\nsome one of my fellow-servants on horseback, or by farmer Nichols’s\nmeans: but as to the chariot he talked to you of, I can’t expect that\nfavour, to be sure; and I should not care for it, because it would look\nso much above me. But farmer Brady, they say, has a chaise with one\nhorse, and we hope to borrow that, or hire it, rather than fail; though\nmoney runs a little lowish, after what I have laid out; but I don’t\ncare to say so here; though I warrant I might have what I would of Mrs.\nJervis, or Mr. Jonathan, or Mr. Longman; but then how shall I pay it?\nyou’ll say: And, besides, I don’t love to be beholden.\n\nBut the chief reason I’m glad you don’t set out to meet me, is the\nuncertainty; for it seems I must stay another week still, and hope\ncertainly to go Thursday after. For poor Mrs. Jervis will go at the\nsame time, she says, and can’t be ready before.\n\nOh! that I was once well with you!—Though he is very civil too at\npresent, and not so cross as he was: and yet he is as vexatious another\nway, as you shall hear. For yesterday he had a rich suit of clothes\nbrought home, which they call a birth-day suit; for he intends to go to\nLondon against next birth-day, to see the court; and our folks will\nhave it he is to be made a lord.—I wish they may make him an honest\nman, as he was always thought; but I have not found it so, alas for me!\n\nAnd so, as I was saying, he had these clothes come home, and he tried\nthem on. And before he pulled them off, he sent for me, when nobody\nelse was in the parlour with him: "
+    },
+    {
+      "start_byte": 1728,
+      "end_byte": 1735,
+      "labels": [
+        "speech"
+      ],
+      "text": "Pamela,"
+    },
+    {
+      "start_byte": 1735,
+      "end_byte": 1745,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he, "
+    },
+    {
+      "start_byte": 1745,
+      "end_byte": 1791,
+      "labels": [
+        "speech"
+      ],
+      "text": "you are so neat and\nso nice in your own dress,"
+    },
+    {
+      "start_byte": 1791,
+      "end_byte": 1830,
+      "labels": [
+        "narration"
+      ],
+      "text": " (Alack-a-day, I didn’t know I was!) "
+    },
+    {
+      "start_byte": 1830,
+      "end_byte": 1907,
+      "labels": [
+        "speech"
+      ],
+      "text": "that you\nmust be a judge of ours. How are these clothes made? Do they fit me?"
+    },
+    {
+      "start_byte": 1907,
+      "end_byte": 1910,
+      "labels": [
+        "narration"
+      ],
+      "text": "—"
+    },
+    {
+      "start_byte": 1910,
+      "end_byte": 1924,
+      "labels": [
+        "speech"
+      ],
+      "text": "I\nam no judge,"
+    },
+    {
+      "start_byte": 1924,
+      "end_byte": 1933,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I, "
+    },
+    {
+      "start_byte": 1933,
+      "end_byte": 1989,
+      "labels": [
+        "speech"
+      ],
+      "text": "and please your honour; but I think they look very\nfine."
+    },
+    {
+      "start_byte": 1989,
+      "end_byte": 2156,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nHis waistcoat stood on end with silver lace, and he looked very grand.\nBut what he did last, has made me very serious, and I could make him no\ncompliments. Said he, "
+    },
+    {
+      "start_byte": 2156,
+      "end_byte": 2243,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why don’t you wear your usual clothes? Though I\nthink every thing looks well upon you"
+    },
+    {
+      "start_byte": 2243,
+      "end_byte": 2292,
+      "labels": [
+        "narration"
+      ],
+      "text": " (for I still continue in my new\ndress). I said, "
+    },
+    {
+      "start_byte": 2292,
+      "end_byte": 2399,
+      "labels": [
+        "speech"
+      ],
+      "text": "I have no clothes, sir, I ought to call my own, but\nthese: and it is no matter what such an one as I wears."
+    },
+    {
+      "start_byte": 2399,
+      "end_byte": 2409,
+      "labels": [
+        "narration"
+      ],
+      "text": " Said he, "
+    },
+    {
+      "start_byte": 2409,
+      "end_byte": 2470,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why\nyou look very serious, Pamela. I see you can bear malice."
+    },
+    {
+      "start_byte": 2470,
+      "end_byte": 2473,
+      "labels": [
+        "narration"
+      ],
+      "text": "—"
+    },
+    {
+      "start_byte": 2473,
+      "end_byte": 2492,
+      "labels": [
+        "speech"
+      ],
+      "text": "Yes, so I\ncan, sir,"
+    },
+    {
+      "start_byte": 2492,
+      "end_byte": 2501,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I, "
+    },
+    {
+      "start_byte": 2501,
+      "end_byte": 2527,
+      "labels": [
+        "speech"
+      ],
+      "text": "according to the occasion!"
+    },
+    {
+      "start_byte": 2527,
+      "end_byte": 2528,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 2528,
+      "end_byte": 2532,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why,"
+    },
+    {
+      "start_byte": 2532,
+      "end_byte": 2542,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he, "
+    },
+    {
+      "start_byte": 2542,
+      "end_byte": 2755,
+      "labels": [
+        "speech"
+      ],
+      "text": "your eyes\nalways look red, I think. Are you not a fool to take my last freedom so\nmuch to heart? I am sure you, and that fool Mrs. Jervis, frightened me,\nby your hideous squalling, as much as I could frighten you."
+    },
+    {
+      "start_byte": 2755,
+      "end_byte": 2756,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 2756,
+      "end_byte": 2782,
+      "labels": [
+        "speech"
+      ],
+      "text": "That is all\nwe had for it,"
+    },
+    {
+      "start_byte": 2782,
+      "end_byte": 2791,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I; "
+    },
+    {
+      "start_byte": 2791,
+      "end_byte": 3163,
+      "labels": [
+        "speech"
+      ],
+      "text": "and if you could be so afraid of your own\nservants knowing of your attempts upon a poor unworthy creature, that\nis under your protection while I stay, surely your honour ought to be\nmore afraid of God Almighty, in whose presence we all stand, in every\naction of our lives, and to whom the greatest, as well as the least,\nmust be accountable, let them think what they list."
+    },
+    {
+      "start_byte": 3163,
+      "end_byte": 3228,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nHe took my hand, in a kind of good-humoured mockery, and said, "
+    },
+    {
+      "start_byte": 3228,
+      "end_byte": 3381,
+      "labels": [
+        "speech"
+      ],
+      "text": "Well\nurged, my pretty preacher! When my Lincolnshire chaplain dies, I’ll put\nthee on a gown and cassock, and thou’lt make a good figure in his\nplace."
+    },
+    {
+      "start_byte": 3381,
+      "end_byte": 3384,
+      "labels": [
+        "narration"
+      ],
+      "text": "—"
+    },
+    {
+      "start_byte": 3384,
+      "end_byte": 3391,
+      "labels": [
+        "speech"
+      ],
+      "text": "I wish,"
+    },
+    {
+      "start_byte": 3391,
+      "end_byte": 3428,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I, a little vexed at his jeer, "
+    },
+    {
+      "start_byte": 3428,
+      "end_byte": 3521,
+      "labels": [
+        "speech"
+      ],
+      "text": "your honour’s\nconscience would be your preacher, and then you would need no other\nchaplain."
+    },
+    {
+      "start_byte": 3521,
+      "end_byte": 3522,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 3522,
+      "end_byte": 3738,
+      "labels": [
+        "speech"
+      ],
+      "text": "Well, well, Pamela, said he, no more of this unfashionable\njargon. I did not send for you so much for your opinion of my new suit,\nas to tell you, you are welcome to stay, since Mrs. Jervis desires it,\ntill she goes."
+    },
+    {
+      "start_byte": 3738,
+      "end_byte": 3739,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 3739,
+      "end_byte": 3749,
+      "labels": [
+        "speech"
+      ],
+      "text": "I welcome!"
+    },
+    {
+      "start_byte": 3749,
+      "end_byte": 3758,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I; "
+    },
+    {
+      "start_byte": 3758,
+      "end_byte": 3811,
+      "labels": [
+        "speech"
+      ],
+      "text": "I am sure I shall rejoice when I am\nout of the house!"
+    },
+    {
+      "start_byte": 3811,
+      "end_byte": 3813,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 3813,
+      "end_byte": 3818,
+      "labels": [
+        "speech"
+      ],
+      "text": "Well,"
+    },
+    {
+      "start_byte": 3818,
+      "end_byte": 3828,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he, "
+    },
+    {
+      "start_byte": 3828,
+      "end_byte": 3944,
+      "labels": [
+        "speech"
+      ],
+      "text": "you are an ungrateful baggage; but I am thinking it\nwould be pity, with these fair soft hands, and that lovely skin,"
+    },
+    {
+      "start_byte": 3944,
+      "end_byte": 3990,
+      "labels": [
+        "narration"
+      ],
+      "text": " (as he\ncalled it, and took hold of my hand,) "
+    },
+    {
+      "start_byte": 3990,
+      "end_byte": 4311,
+      "labels": [
+        "speech"
+      ],
+      "text": "that you should return again to\nhard work, as you must if you go to your father’s; and so I would\nadvise her to take a house in London, and let lodgings to us members of\nparliament, when we come to town; and such a pretty daughter as you may\npass for, will always fill her house, and she’ll get a great deal of\nmoney."
+    },
+    {
+      "start_byte": 4311,
+      "end_byte": 4472,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nI was sadly vexed at this barbarous joke; but being ready to cry\nbefore, the tears gushed out, and (endeavouring to get my hand from\nhim, but in vain) I said, "
+    },
+    {
+      "start_byte": 4472,
+      "end_byte": 4623,
+      "labels": [
+        "speech"
+      ],
+      "text": "I can expect no better: Your behaviour, sir,\nto me, has been just of a piece with these words: Nay, I will say it,\nthough you were to be ever so angry."
+    },
+    {
+      "start_byte": 4623,
+      "end_byte": 4626,
+      "labels": [
+        "narration"
+      ],
+      "text": "—"
+    },
+    {
+      "start_byte": 4626,
+      "end_byte": 4650,
+      "labels": [
+        "speech"
+      ],
+      "text": "I angry, Pamela? No, no,"
+    },
+    {
+      "start_byte": 4650,
+      "end_byte": 4660,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he,\n"
+    },
+    {
+      "start_byte": 4660,
+      "end_byte": 5097,
+      "labels": [
+        "speech"
+      ],
+      "text": "I have overcome all that; and as you are to go away, I look upon you\nnow as Mrs. Jervis’s guest while you both stay, and not as my servant;\nand so you may say what you will. But I’ll tell you, Pamela, why you\nneed not take this matter in such high disdain!—You have a very pretty\nromantic turn for virtue, and all that.—And I don’t suppose but you’ll\nhold it still: and nobody will be able to prevail upon you. But, my\nchild,"
+    },
+    {
+      "start_byte": 5097,
+      "end_byte": 5124,
+      "labels": [
+        "narration"
+      ],
+      "text": " (sneeringly he spoke it,) "
+    },
+    {
+      "start_byte": 5124,
+      "end_byte": 5435,
+      "labels": [
+        "speech"
+      ],
+      "text": "do but consider what a fine\nopportunity you will then have for a tale every day to good mother\nJervis, and what subjects for letter-writing to your father and mother,\nand what pretty preachments you may hold forth to the young gentlemen.\nAd’s my heart! I think it would be the best thing you and she could do."
+    },
+    {
+      "start_byte": 5435,
+      "end_byte": 5437,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 5437,
+      "end_byte": 5454,
+      "labels": [
+        "speech"
+      ],
+      "text": "You do well, sir,"
+    },
+    {
+      "start_byte": 5454,
+      "end_byte": 5463,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I, "
+    },
+    {
+      "start_byte": 5463,
+      "end_byte": 5714,
+      "labels": [
+        "speech"
+      ],
+      "text": "to even your wit to such a poor maiden as me:\nbut, permit me to say, that if you was not rich and great, and I poor\nand little, you would not insult me thus.—Let me ask you, sir, if you\nthink this becomes your fine clothes, and a master’s station:"
+    },
+    {
+      "start_byte": 5714,
+      "end_byte": 5715,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 5715,
+      "end_byte": 5748,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why so\nserious, my pretty Pamela?"
+    },
+    {
+      "start_byte": 5748,
+      "end_byte": 5758,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he: "
+    },
+    {
+      "start_byte": 5758,
+      "end_byte": 5771,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why so grave?"
+    },
+    {
+      "start_byte": 5771,
+      "end_byte": 5826,
+      "labels": [
+        "narration"
+      ],
+      "text": " And would kiss me;\nbut my heart was full, and I said, "
+    },
+    {
+      "start_byte": 5826,
+      "end_byte": 6247,
+      "labels": [
+        "speech"
+      ],
+      "text": "Let me alone; I will tell you, if\nyou was a king, and insulted me as you have done, that you have\nforgotten to act like a gentleman; and I won’t stay to be used thus: I\nwill go to the next farmer’s, and there wait for Mrs. Jervis, if she\nmust go: and I’d have you know, sir, that I can stoop to the\nordinariest work of your scullions, for all these nasty soft hands,\nsooner than bear such ungentlemanly imputations."
+    },
+    {
+      "start_byte": 6247,
+      "end_byte": 6249,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 6249,
+      "end_byte": 6264,
+      "labels": [
+        "speech"
+      ],
+      "text": "I sent for you,"
+    },
+    {
+      "start_byte": 6264,
+      "end_byte": 6274,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he, "
+    },
+    {
+      "start_byte": 6274,
+      "end_byte": 6591,
+      "labels": [
+        "speech"
+      ],
+      "text": "in high good humour; but it is impossible to\nhold it with such an impertinent: however, I’ll keep my temper. But\nwhile I see you here, pray don’t put on those dismal grave looks: Why,\ngirl, you should forbear them, if it were but for your pride-sake; for\nthe family will think you are grieving to leave the house."
+    },
+    {
+      "start_byte": 6591,
+      "end_byte": 6592,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 6592,
+      "end_byte": 6602,
+      "labels": [
+        "speech"
+      ],
+      "text": "Then, sir,"
+    },
+    {
+      "start_byte": 6602,
+      "end_byte": 6611,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nsaid I, "
+    },
+    {
+      "start_byte": 6611,
+      "end_byte": 6756,
+      "labels": [
+        "speech"
+      ],
+      "text": "I will try to convince them of the contrary, as well as your\nhonour; for I will endeavour to be more cheerful while I stay, for that\nvery reason."
+    },
+    {
+      "start_byte": 6756,
+      "end_byte": 6758,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 6758,
+      "end_byte": 6763,
+      "labels": [
+        "speech"
+      ],
+      "text": "Well,"
+    },
+    {
+      "start_byte": 6763,
+      "end_byte": 6776,
+      "labels": [
+        "narration"
+      ],
+      "text": " replied he, "
+    },
+    {
+      "start_byte": 6776,
+      "end_byte": 6879,
+      "labels": [
+        "speech"
+      ],
+      "text": "I will set this down by itself, as the first time\nthat ever what I had advised had any weight with you."
+    },
+    {
+      "start_byte": 6879,
+      "end_byte": 6880,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 6880,
+      "end_byte": 6895,
+      "labels": [
+        "speech"
+      ],
+      "text": "And I will add,"
+    },
+    {
+      "start_byte": 6895,
+      "end_byte": 6904,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nsaid I, "
+    },
+    {
+      "start_byte": 6904,
+      "end_byte": 6979,
+      "labels": [
+        "speech"
+      ],
+      "text": "as the first advice you have given me of late, that was fit to\nbe followed."
+    },
+    {
+      "start_byte": 6979,
+      "end_byte": 6982,
+      "labels": [
+        "narration"
+      ],
+      "text": "—"
+    },
+    {
+      "start_byte": 6982,
+      "end_byte": 6988,
+      "labels": [
+        "speech"
+      ],
+      "text": "I wish"
+    },
+    {
+      "start_byte": 6988,
+      "end_byte": 7062,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he, (I am almost ashamed to write it, impudent\ngentleman as he is!) "
+    },
+    {
+      "start_byte": 7062,
+      "end_byte": 7130,
+      "labels": [
+        "speech"
+      ],
+      "text": "I wish I had thee as quick another way, as thou\nart in thy repartees"
+    },
+    {
+      "start_byte": 7130,
+      "end_byte": 7221,
+      "labels": [
+        "narration"
+      ],
+      "text": "—And he laughed, and I snatched my hand from him,\nand I tripped away as fast as I could. "
+    },
+    {
+      "start_byte": 7221,
+      "end_byte": 7224,
+      "labels": [
+        "thought"
+      ],
+      "text": "Ah!"
+    },
+    {
+      "start_byte": 7224,
+      "end_byte": 7236,
+      "labels": [
+        "narration"
+      ],
+      "text": " thought I, "
+    },
+    {
+      "start_byte": 7236,
+      "end_byte": 7342,
+      "labels": [
+        "thought"
+      ],
+      "text": "married? I am\nsure it is time you were married, or, at this rate, no honest maiden\nought to live with you."
+    },
+    {
+      "start_byte": 7342,
+      "end_byte": 10753,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nWhy, dear father and mother, to be sure he grows quite a rake! How easy\nit is to go from bad to worse, when once people give way to vice!\n\nHow would my poor lady, had she lived, have grieved to see it! but may\nbe he would have been better then! Though it seems he told Mrs. Jervis,\nhe had an eye upon me in his mother’s life-time; and he intended to let\nme know as much, by the bye, he told her! Here is shamelessness for\nyou! Sure the world must be near at an end! for all the gentlemen about\nare as bad as he almost, as far as I can hear!—And see the fruits of\nsuch bad examples! There is ’Squire Martin in the grove, has had three\nlyings-in, it seems, in his house, in three months past; one by\nhimself; and one by his coachman; and one by his woodman; and yet he\nhas turned none of them away. Indeed, how can he, when they but follow\nhis own vile example? There is he, and two or three more such as he,\nwithin ten miles of us, who keep company, and hunt with our fine\nmaster, truly; and I suppose he is never the better for their examples.\nBut, Heaven bless me, say I, and send me out of this wicked house!\n\nBut, dear father and mother, what sort of creatures must the womenkind\nbe, do you think, to give way to such wickedness? Why, this it is that\nmakes every one be thought of alike: And, alack-a-day! what a world we\nlive in! for it is grown more a wonder that the men are resisted, than\nthat the women comply. This, I suppose, makes me such a sauce-box, and\nbold-face, and a creature, and all because I won’t be a sauce-box and\nbold-face indeed.\n\nBut I am sorry for these things; one don’t know what arts and\nstratagems men may devise to gain their vile ends; and so I will think\nas well as I can of these poor undone creatures, and pity them. For you\nsee, by my sad story, and narrow escapes, what hardships poor maidens\ngo through, whose lot it is to go out to service, especially to houses\nwhere there is not the fear of God, and good rule kept by the heads of\nthe family.\n\nYou see I am quite grown grave and serious; indeed it becomes the\npresent condition of Your dutiful DAUGHTER.\n\nLETTER XXVIII\n\nDEAR FATHER AND MOTHER,\n\nJohn says you wept when you read my last letter, that he carried. I am\nsorry you let him see that; for they all mistrust already how matters\nare, and as it is no credit that I have been attempted, though it is\nthat I have resisted; yet I am sorry they have cause to think so evil\nof my master from any of us.\n\nMrs. Jervis has made up her accounts with Mr. Longman, and will stay in\nher place. I am glad of it, for her own sake, and for my master’s; for\nshe has a good master of him; so indeed all have, but poor me—and he\nhas a good housekeeper in her.\n\nMr. Longman, it seems, took upon him to talk to my master, how faithful\nand careful of his interests she was, and how exact in her accounts;\nand he told him, there was no comparison between her accounts and Mrs.\nJewkes’s, at the Lincolnshire estate.\n\nHe said so many fine things, it seems, of Mrs. Jervis, that my master\nsent for her in Mr. Longman’s presence, and said Pamela might come\nalong with her; I suppose to mortify me, that I must go while she was\nto stay: But as, when I go away, I am not to go with her, nor was she\nto go with me; so I did not matter it much; only it would have been\ncreditable to such a poor girl, that the housekeeper would bear me\ncompany, if I went.\n\nSaid he to her, "
+    },
+    {
+      "start_byte": 10753,
+      "end_byte": 11049,
+      "labels": [
+        "speech"
+      ],
+      "text": "Well, Mrs. Jervis, Longman says you have made up your\naccounts with him with your usual fidelity and exactness. I had a good\nmind to make you an offer of continuing with me, if you can be a little\nsorry for your hasty words, which, indeed, were not so respectful as I\nhave deserved at your hands."
+    },
+    {
+      "start_byte": 11049,
+      "end_byte": 11190,
+      "labels": [
+        "narration"
+      ],
+      "text": " She seemed at a sad loss what to say,\nbecause Mr. Longman was there, and she could not speak of the occasion\nof those words, which was me.\n\n"
+    },
+    {
+      "start_byte": 11190,
+      "end_byte": 11197,
+      "labels": [
+        "speech"
+      ],
+      "text": "Indeed,"
+    },
+    {
+      "start_byte": 11197,
+      "end_byte": 11216,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Mr. Longman, "
+    },
+    {
+      "start_byte": 11216,
+      "end_byte": 11432,
+      "labels": [
+        "speech"
+      ],
+      "text": "I must needs say before your face, that since\nI have known my master’s family, I have never found such good\nmanagement in it, nor so much love and harmony neither. I wish the\nLincolnshire estate was as well served!"
+    },
+    {
+      "start_byte": 11432,
+      "end_byte": 11435,
+      "labels": [
+        "narration"
+      ],
+      "text": "—"
+    },
+    {
+      "start_byte": 11435,
+      "end_byte": 11451,
+      "labels": [
+        "speech"
+      ],
+      "text": "No more of that,"
+    },
+    {
+      "start_byte": 11451,
+      "end_byte": 11468,
+      "labels": [
+        "narration"
+      ],
+      "text": " said my\nmaster; "
+    },
+    {
+      "start_byte": 11468,
+      "end_byte": 11695,
+      "labels": [
+        "speech"
+      ],
+      "text": "but Mrs. Jervis may stay, if she will: and here, Mrs. Jervis,\npray accept of this, which at the close of every year’s accounts I will\npresent you with, besides your salary, as long as I find your care so\nuseful and agreeable."
+    },
+    {
+      "start_byte": 11695,
+      "end_byte": 11872,
+      "labels": [
+        "narration"
+      ],
+      "text": " And he gave her five guineas.—She made him a low\ncourtesy, and thanking him, looked to me, as if she would have spoken\nto me.\n\nHe took her meaning, I believe; for he said,—"
+    },
+    {
+      "start_byte": 11872,
+      "end_byte": 12028,
+      "labels": [
+        "speech"
+      ],
+      "text": "Indeed I love to encourage\nmerit and obligingness, Longman; but I can never be equally kind to\nthose who don’t deserve it at my hands, as to those who do;"
+    },
+    {
+      "start_byte": 12028,
+      "end_byte": 12060,
+      "labels": [
+        "narration"
+      ],
+      "text": " and then he\nlooked full on me. "
+    },
+    {
+      "start_byte": 12060,
+      "end_byte": 12068,
+      "labels": [
+        "speech"
+      ],
+      "text": "Longman,"
+    },
+    {
+      "start_byte": 12068,
+      "end_byte": 12083,
+      "labels": [
+        "narration"
+      ],
+      "text": " continued he, "
+    },
+    {
+      "start_byte": 12083,
+      "end_byte": 12268,
+      "labels": [
+        "speech"
+      ],
+      "text": "I said that girl might come\nin with Mrs. Jervis, because they love to be always together. For Mrs.\nJervis is very good to her, and loves her as well as if she was her\ndaughter. But else"
+    },
+    {
+      "start_byte": 12268,
+      "end_byte": 12308,
+      "labels": [
+        "narration"
+      ],
+      "text": "—Mr. Longman, interrupting him, said, "
+    },
+    {
+      "start_byte": 12308,
+      "end_byte": 12404,
+      "labels": [
+        "speech"
+      ],
+      "text": "Good to Mrs.\nPamela! Ay, sir, and so she is, to be sure! But every body must be good\nto her; for"
+    },
+    {
+      "start_byte": 12404,
+      "end_byte": 12449,
+      "labels": [
+        "narration"
+      ],
+      "text": "——\n\nHe was going on: but my master said, "
+    },
+    {
+      "start_byte": 12449,
+      "end_byte": 12635,
+      "labels": [
+        "speech"
+      ],
+      "text": "No more, no more, Mr. Longman. I\nsee old men are taken with pretty young girls, as well as other folks;\nand fair looks hide many a fault, where a person has the art to behave\nobligingly."
+    },
+    {
+      "start_byte": 12635,
+      "end_byte": 12636,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 12636,
+      "end_byte": 12664,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why, and please your honour,"
+    },
+    {
+      "start_byte": 12664,
+      "end_byte": 12683,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Mr. Longman, "
+    },
+    {
+      "start_byte": 12683,
+      "end_byte": 12693,
+      "labels": [
+        "speech"
+      ],
+      "text": "every\nbody"
+    },
+    {
+      "start_byte": 12693,
+      "end_byte": 12795,
+      "labels": [
+        "narration"
+      ],
+      "text": "—and was going on, I believe, to say something more in my praise,\nbut he interrupted him, and said, "
+    },
+    {
+      "start_byte": 12795,
+      "end_byte": 12965,
+      "labels": [
+        "speech"
+      ],
+      "text": "Not a word more of this Pamela. I\ncan’t let her stay, I’ll assure you; not only for her own freedom of\nspeech, but her letter-writing of all the secrets of my family."
+    },
+    {
+      "start_byte": 12965,
+      "end_byte": 12966,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 12966,
+      "end_byte": 12969,
+      "labels": [
+        "speech"
+      ],
+      "text": "Ay,"
+    },
+    {
+      "start_byte": 12969,
+      "end_byte": 12993,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nsaid the good old man, "
+    },
+    {
+      "start_byte": 12993,
+      "end_byte": 13027,
+      "labels": [
+        "speech"
+      ],
+      "text": "I am sorry for that too! But, sir,"
+    },
+    {
+      "start_byte": 13027,
+      "end_byte": 13030,
+      "labels": [
+        "narration"
+      ],
+      "text": "—"
+    },
+    {
+      "start_byte": 13030,
+      "end_byte": 13045,
+      "labels": [
+        "speech"
+      ],
+      "text": "No more, I\nsay,"
+    },
+    {
+      "start_byte": 13045,
+      "end_byte": 13062,
+      "labels": [
+        "narration"
+      ],
+      "text": " said my master; "
+    },
+    {
+      "start_byte": 13062,
+      "end_byte": 13097,
+      "labels": [
+        "speech"
+      ],
+      "text": "for my reputation is so well known,"
+    },
+    {
+      "start_byte": 13097,
+      "end_byte": 13099,
+      "labels": [
+        "narration"
+      ],
+      "text": " ("
+    },
+    {
+      "start_byte": 13099,
+      "end_byte": 13111,
+      "labels": [
+        "thought"
+      ],
+      "text": "mighty fine,"
+    },
+    {
+      "start_byte": 13111,
+      "end_byte": 13124,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nthought I!) "
+    },
+    {
+      "start_byte": 13124,
+      "end_byte": 13202,
+      "labels": [
+        "speech"
+      ],
+      "text": "that I care not what any body writes or says of me: But to\ntell you the truth,"
+    },
+    {
+      "start_byte": 13202,
+      "end_byte": 13234,
+      "labels": [
+        "narration"
+      ],
+      "text": " (not that it need go further,) "
+    },
+    {
+      "start_byte": 13234,
+      "end_byte": 13424,
+      "labels": [
+        "speech"
+      ],
+      "text": "I think of changing\nmy condition soon; and, you know, young ladies of birth and fortune\nwill choose their own servants, and that’s my chief reason why Pamela\ncan’t stay. As for the rest,"
+    },
+    {
+      "start_byte": 13424,
+      "end_byte": 13434,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he, "
+    },
+    {
+      "start_byte": 13434,
+      "end_byte": 13673,
+      "labels": [
+        "speech"
+      ],
+      "text": "the girl is a good sort of body,\ntake her altogether; though I must needs say, a little pert, since my\nmother’s death, in her answers, and gives me two words for one; which I\ncan’t bear; nor is there reason I should, you know, Longman."
+    },
+    {
+      "start_byte": 13673,
+      "end_byte": 13674,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 13674,
+      "end_byte": 13694,
+      "labels": [
+        "speech"
+      ],
+      "text": "No, to be\nsure, sir,"
+    },
+    {
+      "start_byte": 13694,
+      "end_byte": 13704,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he: "
+    },
+    {
+      "start_byte": 13704,
+      "end_byte": 13856,
+      "labels": [
+        "speech"
+      ],
+      "text": "but ’tis strange, methinks, she should be so mild\nand meek to every one of us in the house, and forget herself so, where\nshe should shew most respect!"
+    },
+    {
+      "start_byte": 13856,
+      "end_byte": 13857,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 13857,
+      "end_byte": 13880,
+      "labels": [
+        "speech"
+      ],
+      "text": "Very true, Mr. Longman,"
+    },
+    {
+      "start_byte": 13880,
+      "end_byte": 13890,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he, "
+    },
+    {
+      "start_byte": 13890,
+      "end_byte": 14039,
+      "labels": [
+        "speech"
+      ],
+      "text": "but so\nit is, I’ll assure you; and it was from her pertness, that Mrs. Jervis\nand I had the words: And I should mind it the less, but that the girl"
+    },
+    {
+      "start_byte": 14039,
+      "end_byte": 14081,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n(there she stands, I say it to her face) "
+    },
+    {
+      "start_byte": 14081,
+      "end_byte": 14133,
+      "labels": [
+        "speech"
+      ],
+      "text": "has wit and sense above her\nyears, and knows better."
+    },
+    {
+      "start_byte": 14133,
+      "end_byte": 14318,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nI was in great pain to say something, but yet I knew not what, before\nMr. Longman; and Mrs. Jervis looked at me, and walked to the window to\nhide her concern for me. At last, I said, "
+    },
+    {
+      "start_byte": 14318,
+      "end_byte": 14408,
+      "labels": [
+        "speech"
+      ],
+      "text": "It is for you, sir, to say\nwhat you please; and for me only to say, God bless your honour!"
+    },
+    {
+      "start_byte": 14408,
+      "end_byte": 14505,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nPoor Mr. Longman faltered in his speech, and was ready to cry. Said my\ninsulting master to me, "
+    },
+    {
+      "start_byte": 14505,
+      "end_byte": 14671,
+      "labels": [
+        "speech"
+      ],
+      "text": "Why, pr’ythee, Pamela, now, shew thyself as\nthou art, before Longman. Can’st not give him a specimen of that\npertness which thou hast exercised upon me sometimes?"
+    },
+    {
+      "start_byte": 14671,
+      "end_byte": 14875,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nDid he not, my dear father and mother, deserve all the truth to be\ntold? Yet I overcame myself so far, as to say, Well, your honour may\nplay upon a poor girl, that you know can answer you, but dare not."
+    }
+  ]
+}

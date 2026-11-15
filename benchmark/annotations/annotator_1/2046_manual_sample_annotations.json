@@ -1,0 +1,1303 @@
+{
+  "name": "2046_manual_sample",
+  "source_file": "2046_manual_sample.txt",
+  "created": "2026-07-20T08:33:00",
+  "modified": "2026-07-24T09:33:21",
+  "total_bytes": 16242,
+  "spans": [
+    {
+      "start_byte": 373,
+      "end_byte": 380,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Well,\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 429,
+      "end_byte": 551,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I is de gentman dat is to get you ready, so dat you will bring marser a good price in de Orleans market. How old is you?\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 628,
+      "end_byte": 733,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"If I live to see next corn-planting time I will either be forty-five or fifty-five, I don't know which.\"",
+      "speaker": "Geemes"
+    },
+    {
+      "start_byte": 735,
+      "end_byte": 748,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Dat may be,\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 765,
+      "end_byte": 842,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"But now you is only thirty years old; dat is what marser says you is to be.\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 844,
+      "end_byte": 871,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I know I is more den dat,\"",
+      "speaker": "Geemes"
+    },
+    {
+      "start_byte": 892,
+      "end_byte": 920,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I knows nothing about dat,\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 934,
+      "end_byte": 1140,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"but when you get in de market, an anybody axe you how old you is, an you tell 'em forty-five, marser will tie you up an gib you de whip like smoke. But if you tell 'em dat you is only thirty, den he wont.\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 1142,
+      "end_byte": 1200,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Well den, I guess I will only be thirty when dey axe me,\"",
+      "speaker": "Geemes"
+    },
+    {
+      "start_byte": 1223,
+      "end_byte": 1240,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"What your name?\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 1259,
+      "end_byte": 1268,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Geemes,\"",
+      "speaker": "Geemes"
+    },
+    {
+      "start_byte": 1288,
+      "end_byte": 1311,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Oh, Uncle Jim, is it?\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 1313,
+      "end_byte": 1319,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes.\"",
+      "speaker": "Geemes"
+    },
+    {
+      "start_byte": 1321,
+      "end_byte": 1448,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Den you must have off dem dare whiskers of yours, an when you get to Orleans you must grease dat face an make it look shiney.\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 1543,
+      "end_byte": 1560,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"How old is you?\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 1606,
+      "end_byte": 1651,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I was twenty-nine last potato-digging time,\"",
+      "speaker": "Tobias"
+    },
+    {
+      "start_byte": 1667,
+      "end_byte": 1686,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"What's your name?\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 1688,
+      "end_byte": 1732,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"My name is Tobias, but dey call me 'Toby.'\"",
+      "speaker": "Tobias"
+    },
+    {
+      "start_byte": 1724,
+      "end_byte": 1731,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "'Toby.'",
+      "speaker": "Tobias"
+    },
+    {
+      "start_byte": 1734,
+      "end_byte": 1856,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Well, Toby, or Mr. Tobias, if dat will suit you better, you is now twenty-three years old, an no more. Dus you hear dat?\"",
+      "speaker": "Pompey"
+    },
+    {
+      "start_byte": 1858,
+      "end_byte": 1864,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes,\"",
+      "speaker": "Tobias"
+    },
+    {
+      "start_byte": 2021,
+      "end_byte": 2031,
+      "labels": [
+        "other"
+      ],
+      "text": "\"old boys\""
+    },
+    {
+      "start_byte": 4369,
+      "end_byte": 4395,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Go call my boy, steward,\"",
+      "speaker": "Mr. Smith"
+    },
+    {
+      "start_byte": 4605,
+      "end_byte": 4655,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I will see you, and five hundred dollars better,\"",
+      "speaker": "Mr. Smith"
+    },
+    {
+      "start_byte": 4711,
+      "end_byte": 4747,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"What price do you set on that boy?\"",
+      "speaker": "Johnson"
+    },
+    {
+      "start_byte": 4807,
+      "end_byte": 4878,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"He will bring a thousand dollars, any day, in the New Orleans market,\"",
+      "speaker": "Mr. Smith"
+    },
+    {
+      "start_byte": 4894,
+      "end_byte": 4938,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Then you bet the whole of the boy, do you?\"",
+      "speaker": "Johnson"
+    },
+    {
+      "start_byte": 4939,
+      "end_byte": 4945,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes.\"",
+      "speaker": "Mr. Smith"
+    },
+    {
+      "start_byte": 4946,
+      "end_byte": 4965,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I call you, then,\"",
+      "speaker": "Johnson"
+    },
+    {
+      "start_byte": 5037,
+      "end_byte": 5056,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"You have beat me,\"",
+      "speaker": "Mr. Smith"
+    },
+    {
+      "start_byte": 5241,
+      "end_byte": 5285,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"You will not forget that you belong to me,\"",
+      "speaker": "Johnson"
+    },
+    {
+      "start_byte": 5359,
+      "end_byte": 5369,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"No, sir,\"",
+      "speaker": "Jerry"
+    },
+    {
+      "start_byte": 5391,
+      "end_byte": 5506,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Now go back to your bed, and be up in time to-morrow morning to brush my clothes and clean my boots, do you hear?\"",
+      "speaker": "Johnson"
+    },
+    {
+      "start_byte": 5507,
+      "end_byte": 5518,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes, sir,\"",
+      "speaker": "Jerry"
+    },
+    {
+      "start_byte": 5668,
+      "end_byte": 5805,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I claim the right of redeeming that boy, Mr. Johnson. My father gave him to me when I came of age, and I promised not to part with him.\"",
+      "speaker": "Mr. Smith"
+    },
+    {
+      "start_byte": 5806,
+      "end_byte": 5895,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Most certainly, sir, the boy shall be yours, whenever you hand me over a cool thousand,\"",
+      "speaker": "Johnson"
+    },
+    {
+      "start_byte": 6176,
+      "end_byte": 6199,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Who do you belong to?\"",
+      "speaker": "gentleman"
+    },
+    {
+      "start_byte": 6298,
+      "end_byte": 6454,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"When I went to sleep last night, I belonged to Governor Lucas; but I understand dat he is bin gambling all night, so I don't know who owns me dis morning.\"",
+      "speaker": "old black man"
+    },
+    {
+      "start_byte": 7166,
+      "end_byte": 7214,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I want a good, trusty woman for house service,\"",
+      "speaker": "the stranger"
+    },
+    {
+      "start_byte": 7293,
+      "end_byte": 7323,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Here she is, and no mistake,\"",
+      "speaker": "the trader"
+    },
+    {
+      "start_byte": 7344,
+      "end_byte": 7430,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Stand up, Currer, my gal; here's a gentleman who wishes to see if you will suit him.\"",
+      "speaker": "the trader"
+    },
+    {
+      "start_byte": 7501,
+      "end_byte": 7574,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"She is a rare cook, a good washer, and will suit you to a T, I am sure.\"",
+      "speaker": "the trader"
+    },
+    {
+      "start_byte": 7575,
+      "end_byte": 7628,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"If you buy me, I hope you will buy my daughter too,\"",
+      "speaker": "Currer"
+    },
+    {
+      "start_byte": 7674,
+      "end_byte": 7735,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I only want one for my own use, and would not need another,\"",
+      "speaker": "the man in black"
+    },
+    {
+      "start_byte": 9250,
+      "end_byte": 10304,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"Our eyes are yet on Afric's shores,   Her thousand wrongs we still deplore;    We see the grim slave trader there;   We hear his fettered victim's prayer;     And hasten to the sufferer's aid,    Forgetful of our own 'slave trade.'\n   \"The Ocean 'Pirate's' fiend-like form  Shall sink beneath the vengeance-storm;   His heart of steel shall quake before       The battle-din and havoc roar:  The knave shall die, the Law hath said,  While it protects our own 'slave trade.'\n    \"What earthly eye presumes to scan      The wily Proteus-heart of man?—     What potent hand will e'er unroll    The mantled treachery of his soul!—      O where is he who hath surveyed   The horrors of our own 'slave trade?'\n  \"There is an eye that wakes in light,     There is a hand of peerless might;   Which, soon or late, shall yet assail       And rend dissimulation's veil:      Which will unfold the masquerade  Which justifies our own 'slave trade.'\"",
+      "note": "\"Our Own Slave Trade\" by John Greenleaf Whittier"
+    },
+    {
+      "start_byte": 9492,
+      "end_byte": 9506,
+      "labels": [
+        "embedded_text",
+        "other"
+      ],
+      "text": "'slave trade.'",
+      "note": "\"Our Own Slave Trade\" by John Greenleaf Whittier // platonic text"
+    },
+    {
+      "start_byte": 9758,
+      "end_byte": 9772,
+      "labels": [
+        "embedded_text",
+        "other"
+      ],
+      "text": "'slave trade.'",
+      "note": "\"Our Own Slave Trade\" by John Greenleaf Whittier // platonic text"
+    },
+    {
+      "start_byte": 10025,
+      "end_byte": 10039,
+      "labels": [
+        "embedded_text",
+        "other"
+      ],
+      "text": "'slave trade?'",
+      "note": "\"Our Own Slave Trade\" by John Greenleaf Whittier // platonic text"
+    },
+    {
+      "start_byte": 10289,
+      "end_byte": 10303,
+      "labels": [
+        "embedded_text",
+        "other"
+      ],
+      "text": "'slave trade.'",
+      "note": "\"Our Own Slave Trade\" by John Greenleaf Whittier // platonic text"
+    },
+    {
+      "start_byte": 10795,
+      "end_byte": 10822,
+      "labels": [
+        "other"
+      ],
+      "text": "\"all men are created free.\"",
+      "note": "platonic text"
+    },
+    {
+      "start_byte": 10823,
+      "end_byte": 11800,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"NEGRO DOGS.—The undersigned, having bought the entire pack of Negro dogs (of the Hay and Allen stock), he now proposes to catch runaway Negroes. His charges will be three dollars a day for hunting, and fifteen dollars for catching a runaway. He resides three and one half miles north of Livingston, near the lower Jones' Bluff Road.\n\"Nov. 6, 1845.\"\n\"NOTICE.—The subscriber, Lying on Carroway Lake, on Hoe's Bayou, in Carroll parish, sixteen miles on the road leading from Bayou Mason to Lake Providence, is ready with a pack of dogs to hunt runaway Negroes at any time. These dogs are well trained, and are known throughout the parish. Letters addressed to me at Providence will secure immediate attention. My terms are five dollars per day for hunting the trails, whether the Negro is caught or not. Where a twelve hours' trail is shown, and the Negro not taken, no charge is made. For taking a Negro, twenty-five dollars, and no charge made for hunting.\n\"Nov. 26, 1847.\"",
+      "note": "advertisements"
+    }
+  ],
+  "segments": [
+    {
+      "start_byte": 0,
+      "end_byte": 373,
+      "labels": [
+        "narration"
+      ],
+      "text": "Pompey had been with Walker so long, and had seen so much of the buying and selling of slaves, that he appeared perfectly indifferent to the heartrending scenes which daily occurred in his presence. It was on the second day of the steamer's voyage that Pompey selected five of the old slaves, took them in a room by themselves, and commenced preparing them for the market. "
+    },
+    {
+      "start_byte": 373,
+      "end_byte": 380,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Well,\""
+    },
+    {
+      "start_byte": 380,
+      "end_byte": 429,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Pompey, addressing himself to the company, "
+    },
+    {
+      "start_byte": 429,
+      "end_byte": 551,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I is de gentman dat is to get you ready, so dat you will bring marser a good price in de Orleans market. How old is you?\""
+    },
+    {
+      "start_byte": 551,
+      "end_byte": 628,
+      "labels": [
+        "narration"
+      ],
+      "text": " addressing himself to a man who, from appearance, was not less than forty.\n\n"
+    },
+    {
+      "start_byte": 628,
+      "end_byte": 733,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"If I live to see next corn-planting time I will either be forty-five or fifty-five, I don't know which.\""
+    },
+    {
+      "start_byte": 733,
+      "end_byte": 735,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 735,
+      "end_byte": 748,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Dat may be,\""
+    },
+    {
+      "start_byte": 748,
+      "end_byte": 765,
+      "labels": [
+        "narration"
+      ],
+      "text": " replied Pompey; "
+    },
+    {
+      "start_byte": 765,
+      "end_byte": 842,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"But now you is only thirty years old; dat is what marser says you is to be.\""
+    },
+    {
+      "start_byte": 842,
+      "end_byte": 844,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 844,
+      "end_byte": 871,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I know I is more den dat,\""
+    },
+    {
+      "start_byte": 871,
+      "end_byte": 892,
+      "labels": [
+        "narration"
+      ],
+      "text": " responded the man.\n\n"
+    },
+    {
+      "start_byte": 892,
+      "end_byte": 920,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I knows nothing about dat,\""
+    },
+    {
+      "start_byte": 920,
+      "end_byte": 934,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Pompey; "
+    },
+    {
+      "start_byte": 934,
+      "end_byte": 1140,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"but when you get in de market, an anybody axe you how old you is, an you tell 'em forty-five, marser will tie you up an gib you de whip like smoke. But if you tell 'em dat you is only thirty, den he wont.\""
+    },
+    {
+      "start_byte": 1140,
+      "end_byte": 1142,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 1142,
+      "end_byte": 1200,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Well den, I guess I will only be thirty when dey axe me,\""
+    },
+    {
+      "start_byte": 1200,
+      "end_byte": 1223,
+      "labels": [
+        "narration"
+      ],
+      "text": " replied the chattel.\n\n"
+    },
+    {
+      "start_byte": 1223,
+      "end_byte": 1240,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"What your name?\""
+    },
+    {
+      "start_byte": 1240,
+      "end_byte": 1259,
+      "labels": [
+        "narration"
+      ],
+      "text": " inquired Pompey.\n\n"
+    },
+    {
+      "start_byte": 1259,
+      "end_byte": 1268,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Geemes,\""
+    },
+    {
+      "start_byte": 1268,
+      "end_byte": 1288,
+      "labels": [
+        "narration"
+      ],
+      "text": " answered the man.\n\n"
+    },
+    {
+      "start_byte": 1288,
+      "end_byte": 1311,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Oh, Uncle Jim, is it?\""
+    },
+    {
+      "start_byte": 1311,
+      "end_byte": 1313,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 1313,
+      "end_byte": 1319,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes.\""
+    },
+    {
+      "start_byte": 1319,
+      "end_byte": 1321,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 1321,
+      "end_byte": 1448,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Den you must have off dem dare whiskers of yours, an when you get to Orleans you must grease dat face an make it look shiney.\""
+    },
+    {
+      "start_byte": 1448,
+      "end_byte": 1543,
+      "labels": [
+        "narration"
+      ],
+      "text": " This was all said by Pompey in a manner which clearly showed that he knew what he was about.\n\n"
+    },
+    {
+      "start_byte": 1543,
+      "end_byte": 1560,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"How old is you?\""
+    },
+    {
+      "start_byte": 1560,
+      "end_byte": 1606,
+      "labels": [
+        "narration"
+      ],
+      "text": " asked Pompey of a tall, strong-looking man.\n\n"
+    },
+    {
+      "start_byte": 1606,
+      "end_byte": 1651,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I was twenty-nine last potato-digging time,\""
+    },
+    {
+      "start_byte": 1651,
+      "end_byte": 1667,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the man.\n\n"
+    },
+    {
+      "start_byte": 1667,
+      "end_byte": 1686,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"What's your name?\""
+    },
+    {
+      "start_byte": 1686,
+      "end_byte": 1688,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 1688,
+      "end_byte": 1724,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"My name is Tobias, but dey call me "
+    },
+    {
+      "start_byte": 1724,
+      "end_byte": 1731,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "'Toby.'"
+    },
+    {
+      "start_byte": 1731,
+      "end_byte": 1732,
+      "labels": [
+        "speech"
+      ],
+      "text": "\""
+    },
+    {
+      "start_byte": 1732,
+      "end_byte": 1734,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 1734,
+      "end_byte": 1856,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Well, Toby, or Mr. Tobias, if dat will suit you better, you is now twenty-three years old, an no more. Dus you hear dat?\""
+    },
+    {
+      "start_byte": 1856,
+      "end_byte": 1858,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 1858,
+      "end_byte": 1864,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes,\""
+    },
+    {
+      "start_byte": 1864,
+      "end_byte": 2021,
+      "labels": [
+        "narration"
+      ],
+      "text": " responded Toby.\n\nPompey gave each to understand how old he was to be when asked by persons who wished to purchase, and then reported to his master that the "
+    },
+    {
+      "start_byte": 2021,
+      "end_byte": 2031,
+      "labels": [
+        "other"
+      ],
+      "text": "\"old boys\""
+    },
+    {
+      "start_byte": 2031,
+      "end_byte": 4369,
+      "labels": [
+        "narration"
+      ],
+      "text": " were all right. At eight o'clock on the evening of the third day, the lights of another steamer were seen in the distance, and apparently coming up very fast. This was a signal for a general commotion on the Patriot, and everything indicated that a steamboat race was at hand. Nothing can exceed the excitement attendant upon a steamboat race on the Mississippi river. By the time the boats had reached Memphis, they were side by side, and each exerting itself to keep the ascendancy in point of speed. The night was clear, the moon shining brightly, and the boats so near to each other that the passengers were calling out from one boat to the other. On board the Patriot, the firemen were using oil, lard, butter, and even bacon, with the wood, for the purpose of raising the steam to its highest pitch. The blaze, mingled with the black smoke, showed plainly that the other boat was burning more than wood. The two boats soon locked, so that the hands of the boats were passing from vessel to vessel, and the wildest excitement prevailed throughout amongst both passengers and crew. At this moment the engineer of the Patriot was seen to fasten down the safety-valve, so that no steam should escape. This was, indeed, a dangerous resort. A few of the boat hands who saw what had taken place, left that end of the boat for more secure quarters.\nThe Patriot stopped to take in passengers, and still no steam was permitted to escape. At the starting of the boat cold water was forced into the boilers by the machinery, and, as might have been expected, one of the boilers immediately exploded. One dense fog of steam filled every part of the vessel, while shrieks, groans, and cries were heard on every hand. The saloons and cabins soon had the appearance of a hospital. By this time the boat had landed, and the Columbia, the other boat, had come alongside to render assistance to the disabled steamer. The killed and scalded (nineteen in number) were put on shore, and the Patriot, taken in tow by the Columbia, was soon again on its way.\nIt was now twelve o'clock at night, and instead of the passengers being asleep the majority were ambling in the saloons. Thousands of dollars change hands during a passage from Louisville or St. Louis to New Orleans on a Mississippi steamer, and many men, and even ladies, are completely ruined.\n"
+    },
+    {
+      "start_byte": 4369,
+      "end_byte": 4395,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Go call my boy, steward,\""
+    },
+    {
+      "start_byte": 4395,
+      "end_byte": 4605,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Mr. Smith, as he took his cards one by one from the table. In a few moments a fine looking, bright-eyed mulatto boy, apparently about fifteen years of age, was standing by his master's side at the table. "
+    },
+    {
+      "start_byte": 4605,
+      "end_byte": 4655,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I will see you, and five hundred dollars better,\""
+    },
+    {
+      "start_byte": 4655,
+      "end_byte": 4711,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Smith, as his servant Jerry approached the table.\n"
+    },
+    {
+      "start_byte": 4711,
+      "end_byte": 4747,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"What price do you set on that boy?\""
+    },
+    {
+      "start_byte": 4747,
+      "end_byte": 4807,
+      "labels": [
+        "narration"
+      ],
+      "text": " asked Johnson, as he took a roll of bills from his pocket.\n"
+    },
+    {
+      "start_byte": 4807,
+      "end_byte": 4878,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"He will bring a thousand dollars, any day, in the New Orleans market,\""
+    },
+    {
+      "start_byte": 4878,
+      "end_byte": 4894,
+      "labels": [
+        "narration"
+      ],
+      "text": " replied Smith.\n"
+    },
+    {
+      "start_byte": 4894,
+      "end_byte": 4938,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Then you bet the whole of the boy, do you?\""
+    },
+    {
+      "start_byte": 4938,
+      "end_byte": 4939,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 4939,
+      "end_byte": 4945,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes.\""
+    },
+    {
+      "start_byte": 4945,
+      "end_byte": 4946,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 4946,
+      "end_byte": 4965,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I call you, then,\""
+    },
+    {
+      "start_byte": 4965,
+      "end_byte": 5037,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Johnson, at the same time spreading his cards out upon the table.\n"
+    },
+    {
+      "start_byte": 5037,
+      "end_byte": 5056,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"You have beat me,\""
+    },
+    {
+      "start_byte": 5056,
+      "end_byte": 5241,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Smith, as soon as he saw the cards. Jerry, who was standing on top of the table, with the bank notes and silver dollars round his feet, was now ordered to descend from the table.\n"
+    },
+    {
+      "start_byte": 5241,
+      "end_byte": 5285,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"You will not forget that you belong to me,\""
+    },
+    {
+      "start_byte": 5285,
+      "end_byte": 5359,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Johnson, as the young slave was stepping from the table to a chair.\n"
+    },
+    {
+      "start_byte": 5359,
+      "end_byte": 5369,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"No, sir,\""
+    },
+    {
+      "start_byte": 5369,
+      "end_byte": 5391,
+      "labels": [
+        "narration"
+      ],
+      "text": " replied the chattel.\n"
+    },
+    {
+      "start_byte": 5391,
+      "end_byte": 5506,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Now go back to your bed, and be up in time to-morrow morning to brush my clothes and clean my boots, do you hear?\""
+    },
+    {
+      "start_byte": 5506,
+      "end_byte": 5507,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 5507,
+      "end_byte": 5518,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes, sir,\""
+    },
+    {
+      "start_byte": 5518,
+      "end_byte": 5668,
+      "labels": [
+        "narration"
+      ],
+      "text": " responded Jerry, as he wiped the tears from his eyes.\nSmith took from his pocket the bill of sale and handed it to Johnson; at the same time saying, "
+    },
+    {
+      "start_byte": 5668,
+      "end_byte": 5805,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I claim the right of redeeming that boy, Mr. Johnson. My father gave him to me when I came of age, and I promised not to part with him.\""
+    },
+    {
+      "start_byte": 5805,
+      "end_byte": 5806,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 5806,
+      "end_byte": 5895,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Most certainly, sir, the boy shall be yours, whenever you hand me over a cool thousand,\""
+    },
+    {
+      "start_byte": 5895,
+      "end_byte": 6176,
+      "labels": [
+        "narration"
+      ],
+      "text": " replied Johnson. The next morning, as the passengers were assembling in the breakfast saloons and upon the guards of the vessel, and the servants were seen running about waiting upon or looking for their masters, poor Jerry was entering his new master's stateroom with his boots.\n"
+    },
+    {
+      "start_byte": 6176,
+      "end_byte": 6199,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Who do you belong to?\""
+    },
+    {
+      "start_byte": 6199,
+      "end_byte": 6298,
+      "labels": [
+        "narration"
+      ],
+      "text": " said a gentleman to an old black man, who came along leading a fine dog that he had been feeding.\n"
+    },
+    {
+      "start_byte": 6298,
+      "end_byte": 6454,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"When I went to sleep last night, I belonged to Governor Lucas; but I understand dat he is bin gambling all night, so I don't know who owns me dis morning.\""
+    },
+    {
+      "start_byte": 6454,
+      "end_byte": 7166,
+      "labels": [
+        "narration"
+      ],
+      "text": " Such is the uncertainty of a slave's position. He goes to bed at night the property of the man with whom he has lived for years, and gets up in the morning the slave of some one whom he has never seen before! To behold five or six tables in a steamboat's cabin, with half-a-dozen men playing at cards, and money, pistols, bowie-knives, all in confusion on the tables, is what may be seen at almost any time on the Mississippi river.\nOn the fourth day, while at Natchez, taking in freight and passengers, Walker, who had been on shore to see some of his old customers, returned, accompanied by a tall, thin-faced man, dressed in black, with a white neckcloth, which immediately proclaimed him to be a clergyman. "
+    },
+    {
+      "start_byte": 7166,
+      "end_byte": 7214,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I want a good, trusty woman for house service,\""
+    },
+    {
+      "start_byte": 7214,
+      "end_byte": 7293,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the stranger, as they entered the cabin where Walker's slaves were kept.\n"
+    },
+    {
+      "start_byte": 7293,
+      "end_byte": 7323,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Here she is, and no mistake,\""
+    },
+    {
+      "start_byte": 7323,
+      "end_byte": 7344,
+      "labels": [
+        "narration"
+      ],
+      "text": " replied the trader.\n"
+    },
+    {
+      "start_byte": 7344,
+      "end_byte": 7430,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Stand up, Currer, my gal; here's a gentleman who wishes to see if you will suit him.\""
+    },
+    {
+      "start_byte": 7430,
+      "end_byte": 7501,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nAlthesa clung to her mother's side, as the latter rose from her seat.\n"
+    },
+    {
+      "start_byte": 7501,
+      "end_byte": 7574,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"She is a rare cook, a good washer, and will suit you to a T, I am sure.\""
+    },
+    {
+      "start_byte": 7574,
+      "end_byte": 7575,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 7575,
+      "end_byte": 7628,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"If you buy me, I hope you will buy my daughter too,\""
+    },
+    {
+      "start_byte": 7628,
+      "end_byte": 7674,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the woman, in rather an excited manner.\n"
+    },
+    {
+      "start_byte": 7674,
+      "end_byte": 7735,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I only want one for my own use, and would not need another,\""
+    },
+    {
+      "start_byte": 7735,
+      "end_byte": 9250,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the man in black, as he and the trader left the room. Walker and the parson went into the saloon, talked over the matter, the bill of sale was made out, the money paid over, and the clergyman left, with the understanding that the woman should be delivered to him at his house. It seemed as if poor Althesa would have wept herself to death, for the first two days after her mother had been torn from her side by the hand of the ruthless trafficker in human flesh. On the arrival of the boat at Baton Rouge, an additional number of passengers were taken on board; and, amongst them, several persons who had been attending the races. Gambling and drinking were now the order of the day. Just as the ladies and gentlemen were assembling at the supper-table, the report of a pistol was heard in the direction of the Social Hall, which caused great uneasiness to the ladies, and took the gentlemen to that part of the cabin. However, nothing serious had occurred. A man at one of the tables where they were gambling had been seen attempting to conceal a card in his sleeve, and one of the party seized his pistol and fired; but fortunately the barrel of the pistol was knocked up, just as it was about to be discharged, and the ball passed through the upper deck, instead of the man's head, as intended. Order was soon restored; all went on well the remainder of the night, and the next day, at ten o'clock, the boat arrived at New Orleans, and the passengers went to the hotels and the slaves to the market!\n   "
+    },
+    {
+      "start_byte": 9250,
+      "end_byte": 9492,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"Our eyes are yet on Afric's shores,   Her thousand wrongs we still deplore;    We see the grim slave trader there;   We hear his fettered victim's prayer;     And hasten to the sufferer's aid,    Forgetful of our own "
+    },
+    {
+      "start_byte": 9492,
+      "end_byte": 9506,
+      "labels": [
+        "embedded_text",
+        "other"
+      ],
+      "text": "'slave trade.'"
+    },
+    {
+      "start_byte": 9506,
+      "end_byte": 9758,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\n   \"The Ocean 'Pirate's' fiend-like form  Shall sink beneath the vengeance-storm;   His heart of steel shall quake before       The battle-din and havoc roar:  The knave shall die, the Law hath said,  While it protects our own "
+    },
+    {
+      "start_byte": 9758,
+      "end_byte": 9772,
+      "labels": [
+        "embedded_text",
+        "other"
+      ],
+      "text": "'slave trade.'"
+    },
+    {
+      "start_byte": 9772,
+      "end_byte": 10025,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\n    \"What earthly eye presumes to scan      The wily Proteus-heart of man?—     What potent hand will e'er unroll    The mantled treachery of his soul!—      O where is he who hath surveyed   The horrors of our own "
+    },
+    {
+      "start_byte": 10025,
+      "end_byte": 10039,
+      "labels": [
+        "embedded_text",
+        "other"
+      ],
+      "text": "'slave trade?'"
+    },
+    {
+      "start_byte": 10039,
+      "end_byte": 10289,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\n  \"There is an eye that wakes in light,     There is a hand of peerless might;   Which, soon or late, shall yet assail       And rend dissimulation's veil:      Which will unfold the masquerade  Which justifies our own "
+    },
+    {
+      "start_byte": 10289,
+      "end_byte": 10303,
+      "labels": [
+        "embedded_text",
+        "other"
+      ],
+      "text": "'slave trade.'"
+    },
+    {
+      "start_byte": 10303,
+      "end_byte": 10304,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\""
+    },
+    {
+      "start_byte": 10304,
+      "end_byte": 10795,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nCHAPTER III\nTHE NEGRO CHASE\nWE shall now return to Natchez, where we left Currer in the hands of the Methodist parson. For many years, Natchez has enjoyed a notoriety for the inhumanity and barbarity of its inhabitants, and the cruel deeds perpetrated there, which have not been equalled in any other city in the Southern States. The following advertisements, which we take from a newspaper published in the vicinity, will show how they catch their Negroes who believe in the doctrine that "
+    },
+    {
+      "start_byte": 10795,
+      "end_byte": 10822,
+      "labels": [
+        "other"
+      ],
+      "text": "\"all men are created free.\""
+    },
+    {
+      "start_byte": 10822,
+      "end_byte": 10823,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 10823,
+      "end_byte": 11800,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"NEGRO DOGS.—The undersigned, having bought the entire pack of Negro dogs (of the Hay and Allen stock), he now proposes to catch runaway Negroes. His charges will be three dollars a day for hunting, and fifteen dollars for catching a runaway. He resides three and one half miles north of Livingston, near the lower Jones' Bluff Road.\n\"Nov. 6, 1845.\"\n\"NOTICE.—The subscriber, Lying on Carroway Lake, on Hoe's Bayou, in Carroll parish, sixteen miles on the road leading from Bayou Mason to Lake Providence, is ready with a pack of dogs to hunt runaway Negroes at any time. These dogs are well trained, and are known throughout the parish. Letters addressed to me at Providence will secure immediate attention. My terms are five dollars per day for hunting the trails, whether the Negro is caught or not. Where a twelve hours' trail is shown, and the Negro not taken, no charge is made. For taking a Negro, twenty-five dollars, and no charge made for hunting.\n\"Nov. 26, 1847.\""
+    },
+    {
+      "start_byte": 11800,
+      "end_byte": 16242,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nThese dogs will attack a Negro at their master's bidding and cling to him as the bull-dog will cling to a beast. Many are the speculations, as to whether the Negro will be secured alive or dead, when these dogs once get on his track. A slave hunt took place near Natchez, a few days after Currer's arrival, which was calculated to give her no favourable opinion of the people. Two slaves had run off owing to severe punishment. The dogs were put upon their trail. The slaves went into the swamps, with the hope that the dogs when put on their scent would be unable to follow them through the water. The dogs soon took to the swamp, which lies between the highlands, which was now covered with water, waist deep: here these faithful animals, swimming nearly all the time, followed the zigzag course, the tortuous twistings and windings of these two fugitives, who, it was afterwards discovered, were lost; sometimes scenting the tree wherein they had found a temporary refuge from the mud and water; at other places where the deep mud had pulled off a shoe, and they had not taken time to put it on again. For two hours and a half, for four or five miles, did men and dogs wade through this bushy, dismal swamp, surrounded with grim-visaged alligators, who seemed to look on with jealous eye at this encroachment of their hereditary domain; now losing the trail—then slowly and dubiously taking it off again, until they triumphantly threaded it out, bringing them back to the river, where it was found that the Negroes had crossed their own trail, near the place of starting. In the meantime a heavy shower had taken place, putting out the trail. The Negroes were now at least four miles ahead.\n\nFeeling hungry now, after their morning walk, and perhaps thirsty, too, they went about half a mile off the road, and ate a good, hearty, substantial breakfast. Negroes must eat, as well as other people, but the dogs will tell on them. Here, for a moment, the dogs are at fault, but soon unravel the mystery, and bring them back to the road again; and now what before was wonderful, becomes almost a miracle. Here, in this common highway—the thoroughfare for the whole country around through mud and through mire, meeting waggons and teams, and different solitary wayfarers, and, what above all is most astonishing, actually running through a gang of Negroes, their favourite game, who were working on the road, they pursue the track of the two Negroes; they even ran for eight miles to the very edge of the plain—the slaves near them for the last mile. At first they would fain believe it some hunter chasing deer. Nearer and nearer the whimpering pack presses on; the delusion begins to dispel; all at once the truth flashes upon them like a glare of light; their hair stands on end; 'tis Tabor with his dogs. The scent becomes warmer and warmer. What was an irregular cry, now deepens into one ceaseless roar, as the relentless pack rolls on after its human prey. It puts one in mind of Actaeon and his dogs. They grow desperate and leave the road, in the vain hope of shaking them off. Vain hope, indeed! The momentary cessation only adds new zest to the chase. The cry grows louder and louder; the yelp grows short and quick, sure indication that the game is at hand. It is a perfect rush upon the part of the hunters, while the Negroes call upon their weary and jaded limbs to do their best, but they falter and stagger beneath them. The breath of the hounds is almost upon their very heels, and yet they have a vain hope of escaping these sagacious animals. They can run no longer; the dogs are upon them; they hastily attempt to climb a tree, and as the last one is nearly out of reach, the catch-dog seizes him by the leg, and brings him to the ground; he sings out lustily and the dogs are called off. After this man was secured, the one in the tree was ordered to come down; this, however, he refused to do, but a gun being pointed at him, soon caused him to change his mind. On reaching the ground, the fugitive made one more bound, and the chase again commenced. But it was of no use to run and he soon yielded. While being tied, he committed an unpardonable offence: he resisted, and for that he must be made an example on their arrival home. A mob was collected together, and a Lynch court was held, to determine what was best to be done with the Negro who had had the impudence to raise his hand against a white man. \n \n \n"
+    }
+  ]
+}

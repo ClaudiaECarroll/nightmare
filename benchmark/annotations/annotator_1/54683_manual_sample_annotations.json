@@ -1,0 +1,1076 @@
+{
+  "name": "54683_manual_sample",
+  "source_file": "54683_manual_sample.txt",
+  "created": "2026-07-22T15:03:46",
+  "modified": "2026-07-24T14:12:24",
+  "total_bytes": 17586,
+  "spans": [
+    {
+      "start_byte": 1046,
+      "end_byte": 1152,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“La sainte recueihnent la paisible innocence\n\n               Sembler de ces lieus habiter le silence.”",
+      "speaker": "Jacques Delille"
+    },
+    {
+      "start_byte": 2065,
+      "end_byte": 2106,
+      "labels": [
+        "speech"
+      ],
+      "text": "“This happy specimen of your talent,”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 2133,
+      "end_byte": 2471,
+      "labels": [
+        "speech"
+      ],
+      "text": "“will\nbe very grateful to the Prince. In him, who has no others left, it is\na very innocent pride, to wish to perpetuate the fading honours of his\nfamily--for as such the good Prince considers these _ruins_. But, my\nyoung friend, there is another and a surer path to the Prince’s heart,\nto which I should be most happy to lead you.”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 2514,
+      "end_byte": 5179,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You will, I hope, pardon the liberty I am going to take; but as I boast\nthe merit of having first made your merit known to your worthy host, I\nhold myself in some degree (smiling and pressing my hand) accountable\nfor your confirming the partiality I have awakened in your favour.\n\n“The daughter of the Prince, and my pupil, of whom you can have yet\nformed no opinion, is a creature of such rare endowments, that it should\nseem Nature, as if foreseeing her isolated destiny, had opposed her\nown liberality to the chariness of fortune; and lavished on her such\nintuitive talents, that she almost sets the necessity of education\nat defiance. To all that is most excellent in the circle of human\nintellect, or human science, her versatile genius is constantly\ndirected; and it is my real opinion, that nothing more is requisite to\nperfect her in any liberal or elegant pursuit, but that method or system\nwhich even the strangest native talent, unassisted, can seldom attain\n(without a long series of practical experience) and which is unhappily\ndenied her; while her doating father incessantly mourns that poverty,\nwhich withholds from him the power of cultivating those shining\nabilities that would equally enrich the solitude of their possessor, or\nrender her an ornament to that society she may yet be destined to grace.\nYet the occasional visits of a strolling dancing-master, and a few\nmusical lessons received in her early childhood from the family bard,\nare all the advantages these native talents have received.\n\n“But who that ever beheld her motions in the dance, or listened to\nthe exquisite sensibility of her song, but would exclaim--‘here is a\ncreature for whom Art can do nothing--Nature has done all!’\n\n“To these elegant acquirements, she unites a decided talent for drawing,\narising from powers naturally imitative, and a taste early imbibed (from\nthe contemplation of her native scenes) for all that is most sublime and\nbeautiful in nature. But this, of all her talents, has been the least\nassisted, and yet is the most prized by her father, who, I believe,\nlaments his inability to detain you here as her preceptor; or rather, to\nmake it worth your while to forego your professional pursuits, for such\na period as would be necessary to invest her with such rudiments in the\nart, as would form a basis for her future improvement. In a word, can\nyou, consistently with your present plans, make the castle of Inismore\nyour headquarters for two or three months, from whence you can take\nfrequent excursions amidst the neighbouring scenery, which will afford\nto your pencil subjects rich and various as almost any other part of the\ncountry?”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 4163,
+      "end_byte": 4237,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘here is a\ncreature for whom Art can do nothing--Nature has done all!’",
+      "speaker": "Father John",
+      "note": "platonic text"
+    },
+    {
+      "start_byte": 6446,
+      "end_byte": 6474,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Add then, my dear Sir,”",
+      "speaker": "Horatio"
+    },
+    {
+      "start_byte": 6483,
+      "end_byte": 6856,
+      "labels": [
+        "speech"
+      ],
+      "text": "“to all the obligations you have forced\non me, by presenting my respectful compliments to the Prince, with\nthe offer of my little services, and an earnest request that he will\ncondescend to accept of them; and if you think it will add to the\ndelicacy of the offer, let him suppose that it voluntarily comes from\nthe heart deeply impressed with a sense of his kindness.”",
+      "speaker": "Horatio"
+    },
+    {
+      "start_byte": 6858,
+      "end_byte": 6910,
+      "labels": [
+        "speech"
+      ],
+      "text": "“That is precisely what I was going to propose,”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 6959,
+      "end_byte": 7116,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I would even wish him to think you conceive the\nobligation all on your own side; for the pride of fallen greatness is of\nall others the most sensitive.”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 7118,
+      "end_byte": 7146,
+      "labels": [
+        "speech"
+      ],
+      "text": "“And God knows so I do,”",
+      "speaker": "Horatio"
+    },
+    {
+      "start_byte": 7190,
+      "end_byte": 7253,
+      "labels": [
+        "speech"
+      ],
+      "text": "“do\nyou think your pupil has a decided talent for the art?”",
+      "speaker": "Horatio"
+    },
+    {
+      "start_byte": 7255,
+      "end_byte": 7282,
+      "labels": [
+        "speech"
+      ],
+      "text": "“It may be partiality,”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 7295,
+      "end_byte": 9358,
+      "labels": [
+        "speech"
+      ],
+      "text": "“but I think she has a decided\ntalent for every elegant acquirement. If I recollect right, somebody has\ndefined _genius_ to be ‘the various powers of a strong mind directed to\none point:’ making it the _result_ of combined force, not the vital\nsource, whence all intellectual powers flow; in which light, the genius\nof Glorvina has ever appeared to me as a beam from heaven, an emanation\nof divine intelligence, whose nutritive warmth cherishes into existence\nthat richness and variety of talent which wants only a little care to\nrear it to perfection.\n\n“When I first offered to become the preceptor to this charming child,\nher father, I believe, never formed an idea that my tuition would have\nextended beyond a little reading and writing; but I soon found that\nmy interesting pupil possessed a genius that bore all before it--that\nalmost anticipated instruction by force of its tuitive powers, and\nprized each task assigned it, only in proportion to the difficulty by\nwhich it was to be accomplished.\n\n“Her young ambitious mind even emulated rivalry with mine, and that\nstudy in which she beheld me engaged seldom failed to become the object\nof her desires and her assiduity. Availing myself, therefore, of this\ninnate spirit of emulation--this boundless thirst of knowledge, I left\nher mind free in the election of its studies, while I only threw\nwithin its power of acquisition, that which could tend to render her\na rational, and consequently a benevolent being; for I have always\nconceived an informed, intelligent, and enlightened mind, to be the\nbest security for a good heart; although the many who mistake talent for\nintellect, and unfortunately too often find the former united to vice,\nand led to suppose that the heart loses in goodness what the mind\nacquires in strength, as if (as a certain paradoxical writer has\nasserted) there was something in the natural mechanism of the human\nframe necessary to constitute a fine genius that is not altogether\nfavourable to the heart.\n\n“But here comes the unconscious theme of our conversation.”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 7427,
+      "end_byte": 7484,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "the various powers of a strong mind directed to\none point",
+      "speaker": "Father John",
+      "note": "somebody's definition of genius"
+    },
+    {
+      "start_byte": 9498,
+      "end_byte": 9586,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": " “As Hebe swift, as Venus fair,\n\n                   Youthful, lovely, light as air.”",
+      "speaker": "Jean-Baptiste-Louis gresset"
+    },
+    {
+      "start_byte": 9779,
+      "end_byte": 10300,
+      "labels": [
+        "speech"
+      ],
+      "text": "“O! I have brought you something you will be glad to see--here is the\nspring’s first violet, which the unusual chilliness of the season has\nsuffered to steal into existence: this morning as I gathered herbs\nat the foot of the mountain, I inhaled its odour ere I discovered its\npurple head, as solitary and unassociated it was drooping beneath the\nheavy foliage of a neighbouring plant.\n\n“It is but just you should have the first violet as my father has\nalready had the first snowdrop. Receive, then, my offering,”",
+      "speaker": "Glorvina"
+    },
+    {
+      "start_byte": 10561,
+      "end_byte": 10716,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Poiche d’altro honorate\n\n                   Non dosso, prendi lieta\n\n                   Queste negre viole\n\n                   Dall umor rugiadose.”",
+      "speaker": "Glorvina, B. Tasso"
+    },
+    {
+      "start_byte": 10787,
+      "end_byte": 11000,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Your offering, my dear, is indeed the\n\n                   ‘Incense to the heart;’\n\nand more precious to the receiver, than the richest donation that ever\ndecked the shrine of Loretto. How fragrant it is!”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 10848,
+      "end_byte": 10875,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘Incense to the heart;’",
+      "speaker": "Father John",
+      "note": "platonic"
+    },
+    {
+      "start_byte": 11527,
+      "end_byte": 11556,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“_La Guirlande de Julie_”",
+      "note": "Title"
+    },
+    {
+      "start_byte": 11599,
+      "end_byte": 11717,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Mais si sur votre front je peux briller un jour,\n\n                   La plus humble des fleurs sera la plus superbe",
+      "speaker": "Horatio, Jean Desmarets de Saint-Sorlin"
+    },
+    {
+      "start_byte": 11792,
+      "end_byte": 11801,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Oh!”",
+      "speaker": "Glorvina"
+    },
+    {
+      "start_byte": 11832,
+      "end_byte": 11943,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I perceive you too will expect\na tributary flower for these charming lines; and the summer’s first\nrose”",
+      "speaker": "Glorvina"
+    },
+    {
+      "start_byte": 11998,
+      "end_byte": 12098,
+      "labels": [
+        "speech"
+      ],
+      "text": "“should be\nthine, but that thou mayst be far from hence when the summer’s first\nrose appears.”",
+      "speaker": "Glorvina"
+    },
+    {
+      "start_byte": 12245,
+      "end_byte": 12262,
+      "labels": [
+        "speech"
+      ],
+      "text": "“The _rose_,”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 12391,
+      "end_byte": 12428,
+      "labels": [
+        "speech"
+      ],
+      "text": "“the rose is the flower of Love.”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 12718,
+      "end_byte": 12735,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I remember,”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 12758,
+      "end_byte": 12990,
+      "labels": [
+        "speech"
+      ],
+      "text": "“being severely censured by a rigid\nold priest, at my college in St. Omer’s, who found me reading the\nIdylium of Ausonius, in which he so beautifully celebrates the rose,\nwhen the good father believed me deep in St. Augustin.”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 12992,
+      "end_byte": 13007,
+      "labels": [
+        "speech"
+      ],
+      "text": "“The rose,”",
+      "speaker": "Horatio"
+    },
+    {
+      "start_byte": 13016,
+      "end_byte": 13632,
+      "labels": [
+        "speech"
+      ],
+      "text": "“has always been the poet’s darling theme. The\nimpassioned lyre of Sappho has breathed upon its leaves. Anacreon has\nwooed it in the happiest effusions of his genius; and poesy seems\nto have exhausted her powers in celebrating the charms of the most\nbeautiful and transient of flowers.\n\n“Among its modern panegyrists, few have been more happily successful\nthan Monsieur de Barnard, in that charming little ode beginning:\n\n               “Tendre fruits des pleurs d’aurore,\n\n               Objets des baisers du zephyrs,\n\n               Reine de l’empire de Flore,\n\n               Hate toi d’epanoir.”",
+      "speaker": "Horatio"
+    },
+    {
+      "start_byte": 13459,
+      "end_byte": 13632,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Tendre fruits des pleurs d’aurore,\n\n               Objets des baisers du zephyrs,\n\n               Reine de l’empire de Flore,\n\n               Hate toi d’epanoir.”",
+      "speaker": "Monsieur de Barnard, Horatio"
+    },
+    {
+      "start_byte": 13634,
+      "end_byte": 13663,
+      "labels": [
+        "speech"
+      ],
+      "text": "“O! I beseech you go on,”",
+      "speaker": "Glorvina"
+    },
+    {
+      "start_byte": 13727,
+      "end_byte": 13754,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Beautiful, beautiful!”",
+      "speaker": "Glorvina"
+    },
+    {
+      "start_byte": 13782,
+      "end_byte": 14618,
+      "labels": [
+        "speech"
+      ],
+      "text": "“O! there is a\ncertain delicacy of genius in elegant trifles of this description, which\nI think the French possess almost exclusively: it is a language formed\nalmost by its very construction _a’eterniser la bagatelle_, and to\nclothe the fairy effusions of fancy in the most appropriate drapery.\n\n“I thank you for this beautiful ode; the rose was always my idol flower;\nin all its different stages of existence, it speaks a language my heart\nunderstands; from its young bud’s first crimson glow, to the last sickly\nblush of its faded blossom. It is the flower of sentiment in all\nits sweet transitions; it breathes a moral, and seems to preserve an\nundecaying soul in that fragrant essence which still survives the bloom\nand symmetry of the fragile form which every beam too ardent, every gale\ntoo chill, injures and destroys.”",
+      "speaker": "Glorvina"
+    },
+    {
+      "start_byte": 14620,
+      "end_byte": 14639,
+      "labels": [
+        "speech"
+      ],
+      "text": "“And is there,”",
+      "speaker": "Horatio"
+    },
+    {
+      "start_byte": 14648,
+      "end_byte": 14726,
+      "labels": [
+        "speech"
+      ],
+      "text": "“no parallel in the moral world for this lovely\noffspring of the natural?”",
+      "speaker": "Horatio"
+    },
+    {
+      "start_byte": 14804,
+      "end_byte": 14816,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I vow,”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 14861,
+      "end_byte": 15029,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I am half tempted\nto fling away my violet, since this _idol_ flower has been decreed to\nMr. Mortimer; and to revenge myself, I will show him your ode on the\nrose.”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 15369,
+      "end_byte": 15389,
+      "labels": [
+        "speech"
+      ],
+      "text": "“What a _Hebe!_”",
+      "speaker": "Horatio"
+    },
+    {
+      "start_byte": 15448,
+      "end_byte": 15458,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Yes,”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 15468,
+      "end_byte": 15662,
+      "labels": [
+        "speech"
+      ],
+      "text": "“she at least illustrates the possibility of a woman\nuniting in her character the extremes of intelligence and simplicity:\nyou see, with all her information and talent, she is a mere child.”",
+      "speaker": "Father John"
+    },
+    {
+      "start_byte": 17300,
+      "end_byte": 17332,
+      "labels": [
+        "other"
+      ],
+      "text": "“brings with it no satiety.”",
+      "note": "potentially a misquoted John Milton line"
+    }
+  ],
+  "segments": [
+    {
+      "start_byte": 0,
+      "end_byte": 1046,
+      "labels": [
+        "narration"
+      ],
+      "text": "LETTER VIII.\n\nTO J. D. ESQ., M. P.\n\nThe invitation I received from the hospitable Lord of these ruins, was\nso unequivocal, so cordial, that it would have been folly, not\ndelicacy to think of turning out of his house the moment my health was\nre-established. But then, I scarcely felt it warranted that length of\nresidence here, which, for a thousand reasons, I am now anxious to make.\n\nTo prolong my visit till the arrival of my father in this country was\nmy object; and how to effect the desired purpose, was the theme of my\ncogitation during the whole of the restless night which succeeded\nmy interview with Glorvina; and to confess the truth, I believe\nthis interview was not the least potent spell which fascinated me to\nInismore.\n\nWearied by my restlessness, rather than refreshed by my transient\nslumbers, I arose with the dawn, and carrying my _port-feuille_ and\npencils with me, descended from my tower, and continued to wander\nfor some time among the wild and romantic scenes which surround these\ninteresting ruins, while\n\n               "
+    },
+    {
+      "start_byte": 1046,
+      "end_byte": 1152,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“La sainte recueihnent la paisible innocence\n\n               Sembler de ces lieus habiter le silence.”"
+    },
+    {
+      "start_byte": 1152,
+      "end_byte": 2065,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nuntil almost wearied in the contemplation of the varying sublimities\nwhich the changes of the morning’s seasons shed over the ocean’s\nboundless expanse, from the first gray vapour that arose from its\nswelling wave, to that splendid refulgence with which the risen sun\ncrimsoned its bosom, I turned away my dazzled eye, and fixed it on the\nruins of Inismore. Never did it appear in an aspect so picturesquely\nfelicitous: it was a golden period for the poet’s fancy or the painter’s\nart; and in a moment of propitious genius, I made one of the most\ninteresting sketches my pencil ever produced. I had just finished my\nsuccessful _ebauche_, when Father John, returning from matins, observed,\nand instantly joined me. When he had looked over and commended the\nresult of my morning’s avocation, he gave my port-folio to a servant who\npassed us, and taking my arm, we walked down together to the seashore.\n\n"
+    },
+    {
+      "start_byte": 2065,
+      "end_byte": 2106,
+      "labels": [
+        "speech"
+      ],
+      "text": "“This happy specimen of your talent,”"
+    },
+    {
+      "start_byte": 2106,
+      "end_byte": 2133,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he, as we proceeded, "
+    },
+    {
+      "start_byte": 2133,
+      "end_byte": 2471,
+      "labels": [
+        "speech"
+      ],
+      "text": "“will\nbe very grateful to the Prince. In him, who has no others left, it is\na very innocent pride, to wish to perpetuate the fading honours of his\nfamily--for as such the good Prince considers these _ruins_. But, my\nyoung friend, there is another and a surer path to the Prince’s heart,\nto which I should be most happy to lead you.”"
+    },
+    {
+      "start_byte": 2471,
+      "end_byte": 2514,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nHe paused for a moment, and then added:\n\n"
+    },
+    {
+      "start_byte": 2514,
+      "end_byte": 4163,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You will, I hope, pardon the liberty I am going to take; but as I boast\nthe merit of having first made your merit known to your worthy host, I\nhold myself in some degree (smiling and pressing my hand) accountable\nfor your confirming the partiality I have awakened in your favour.\n\n“The daughter of the Prince, and my pupil, of whom you can have yet\nformed no opinion, is a creature of such rare endowments, that it should\nseem Nature, as if foreseeing her isolated destiny, had opposed her\nown liberality to the chariness of fortune; and lavished on her such\nintuitive talents, that she almost sets the necessity of education\nat defiance. To all that is most excellent in the circle of human\nintellect, or human science, her versatile genius is constantly\ndirected; and it is my real opinion, that nothing more is requisite to\nperfect her in any liberal or elegant pursuit, but that method or system\nwhich even the strangest native talent, unassisted, can seldom attain\n(without a long series of practical experience) and which is unhappily\ndenied her; while her doating father incessantly mourns that poverty,\nwhich withholds from him the power of cultivating those shining\nabilities that would equally enrich the solitude of their possessor, or\nrender her an ornament to that society she may yet be destined to grace.\nYet the occasional visits of a strolling dancing-master, and a few\nmusical lessons received in her early childhood from the family bard,\nare all the advantages these native talents have received.\n\n“But who that ever beheld her motions in the dance, or listened to\nthe exquisite sensibility of her song, but would exclaim--"
+    },
+    {
+      "start_byte": 4163,
+      "end_byte": 4237,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘here is a\ncreature for whom Art can do nothing--Nature has done all!’"
+    },
+    {
+      "start_byte": 4237,
+      "end_byte": 5179,
+      "labels": [
+        "speech"
+      ],
+      "text": "\n\n“To these elegant acquirements, she unites a decided talent for drawing,\narising from powers naturally imitative, and a taste early imbibed (from\nthe contemplation of her native scenes) for all that is most sublime and\nbeautiful in nature. But this, of all her talents, has been the least\nassisted, and yet is the most prized by her father, who, I believe,\nlaments his inability to detain you here as her preceptor; or rather, to\nmake it worth your while to forego your professional pursuits, for such\na period as would be necessary to invest her with such rudiments in the\nart, as would form a basis for her future improvement. In a word, can\nyou, consistently with your present plans, make the castle of Inismore\nyour headquarters for two or three months, from whence you can take\nfrequent excursions amidst the neighbouring scenery, which will afford\nto your pencil subjects rich and various as almost any other part of the\ncountry?”"
+    },
+    {
+      "start_byte": 5179,
+      "end_byte": 6446,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nNow, in the course of my life, I have had more than one occasion to\nremark certain desirable events brought about by means diametrically\nopposite to the supposition of all human probability;--but that this\nworthy man should (as if infected with the intriguing spirit of a French\nAbbe reared in the purlieus of the _Louvre_) thus forward my views, and\neffect the realization of my wishes, excited so strong an emotion of\npleasurable surprise, that I with difficulty repressed my smiles, or\nconcealed my triumph.\n\nAfter, however, a short pause, I replied with great gravity, that I\nalways conceived with Pliny, that the dignity we possess by the good\noffices of a friend, is a kind of sacred trust, wherein we have his\njudgment as well as our own character to maintain, and therefore to be\nguarded with peculiar attention; that consequently, on his account, I\nwas as anxious as on my own, to confirm the good opinion conceived in\nmy favour through the medium of his partiality; and with very great\nsincerity I assured him, that I knew of no one event so coincident to\nmy present views of happiness, as the power of making the Prince some\nreturn for his benevolent attentions, and of becoming his (the priest’s)\ncoadjutor in the tuition of his highly gifted pupil.\n\n"
+    },
+    {
+      "start_byte": 6446,
+      "end_byte": 6474,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Add then, my dear Sir,”"
+    },
+    {
+      "start_byte": 6474,
+      "end_byte": 6483,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I, "
+    },
+    {
+      "start_byte": 6483,
+      "end_byte": 6856,
+      "labels": [
+        "speech"
+      ],
+      "text": "“to all the obligations you have forced\non me, by presenting my respectful compliments to the Prince, with\nthe offer of my little services, and an earnest request that he will\ncondescend to accept of them; and if you think it will add to the\ndelicacy of the offer, let him suppose that it voluntarily comes from\nthe heart deeply impressed with a sense of his kindness.”"
+    },
+    {
+      "start_byte": 6856,
+      "end_byte": 6858,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 6858,
+      "end_byte": 6910,
+      "labels": [
+        "speech"
+      ],
+      "text": "“That is precisely what I was going to propose,”"
+    },
+    {
+      "start_byte": 6910,
+      "end_byte": 6959,
+      "labels": [
+        "narration"
+      ],
+      "text": " returned this excellent\nand unsuspecting being. "
+    },
+    {
+      "start_byte": 6959,
+      "end_byte": 7116,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I would even wish him to think you conceive the\nobligation all on your own side; for the pride of fallen greatness is of\nall others the most sensitive.”"
+    },
+    {
+      "start_byte": 7116,
+      "end_byte": 7118,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 7118,
+      "end_byte": 7146,
+      "labels": [
+        "speech"
+      ],
+      "text": "“And God knows so I do,”"
+    },
+    {
+      "start_byte": 7146,
+      "end_byte": 7190,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I, fervently,--then carelessly added, "
+    },
+    {
+      "start_byte": 7190,
+      "end_byte": 7253,
+      "labels": [
+        "speech"
+      ],
+      "text": "“do\nyou think your pupil has a decided talent for the art?”"
+    },
+    {
+      "start_byte": 7253,
+      "end_byte": 7255,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 7255,
+      "end_byte": 7282,
+      "labels": [
+        "speech"
+      ],
+      "text": "“It may be partiality,”"
+    },
+    {
+      "start_byte": 7282,
+      "end_byte": 7295,
+      "labels": [
+        "narration"
+      ],
+      "text": " he replied; "
+    },
+    {
+      "start_byte": 7295,
+      "end_byte": 7427,
+      "labels": [
+        "speech"
+      ],
+      "text": "“but I think she has a decided\ntalent for every elegant acquirement. If I recollect right, somebody has\ndefined _genius_ to be ‘"
+    },
+    {
+      "start_byte": 7427,
+      "end_byte": 7484,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "the various powers of a strong mind directed to\none point"
+    },
+    {
+      "start_byte": 7484,
+      "end_byte": 9358,
+      "labels": [
+        "speech"
+      ],
+      "text": ":’ making it the _result_ of combined force, not the vital\nsource, whence all intellectual powers flow; in which light, the genius\nof Glorvina has ever appeared to me as a beam from heaven, an emanation\nof divine intelligence, whose nutritive warmth cherishes into existence\nthat richness and variety of talent which wants only a little care to\nrear it to perfection.\n\n“When I first offered to become the preceptor to this charming child,\nher father, I believe, never formed an idea that my tuition would have\nextended beyond a little reading and writing; but I soon found that\nmy interesting pupil possessed a genius that bore all before it--that\nalmost anticipated instruction by force of its tuitive powers, and\nprized each task assigned it, only in proportion to the difficulty by\nwhich it was to be accomplished.\n\n“Her young ambitious mind even emulated rivalry with mine, and that\nstudy in which she beheld me engaged seldom failed to become the object\nof her desires and her assiduity. Availing myself, therefore, of this\ninnate spirit of emulation--this boundless thirst of knowledge, I left\nher mind free in the election of its studies, while I only threw\nwithin its power of acquisition, that which could tend to render her\na rational, and consequently a benevolent being; for I have always\nconceived an informed, intelligent, and enlightened mind, to be the\nbest security for a good heart; although the many who mistake talent for\nintellect, and unfortunately too often find the former united to vice,\nand led to suppose that the heart loses in goodness what the mind\nacquires in strength, as if (as a certain paradoxical writer has\nasserted) there was something in the natural mechanism of the human\nframe necessary to constitute a fine genius that is not altogether\nfavourable to the heart.\n\n“But here comes the unconscious theme of our conversation.”"
+    },
+    {
+      "start_byte": 9358,
+      "end_byte": 9498,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nAnd at that moment Glorvina appeared, springing lightly forward, like\nGresset’s beautiful personification of health:\n\n                  "
+    },
+    {
+      "start_byte": 9498,
+      "end_byte": 9586,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": " “As Hebe swift, as Venus fair,\n\n                   Youthful, lovely, light as air.”"
+    },
+    {
+      "start_byte": 9586,
+      "end_byte": 9779,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nAs soon as she perceived me she stopt abruptly, blushed, and returning\nmy salutation, advanced to the priest, and twining her arm familiarly in\nhis, said, with an air of playful tenderness,\n\n"
+    },
+    {
+      "start_byte": 9779,
+      "end_byte": 10300,
+      "labels": [
+        "speech"
+      ],
+      "text": "“O! I have brought you something you will be glad to see--here is the\nspring’s first violet, which the unusual chilliness of the season has\nsuffered to steal into existence: this morning as I gathered herbs\nat the foot of the mountain, I inhaled its odour ere I discovered its\npurple head, as solitary and unassociated it was drooping beneath the\nheavy foliage of a neighbouring plant.\n\n“It is but just you should have the first violet as my father has\nalready had the first snowdrop. Receive, then, my offering,”"
+    },
+    {
+      "start_byte": 10300,
+      "end_byte": 10561,
+      "labels": [
+        "narration"
+      ],
+      "text": " she added\nwith a smile; and while she fondly placed it in his breast with an air\nof exquisite _naivette_, to my astonishment she repeated from B. Tasso,\nthose lines so consonant to the tender simplicity of the act in which\nshe was engaged:\n\n                   "
+    },
+    {
+      "start_byte": 10561,
+      "end_byte": 10716,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Poiche d’altro honorate\n\n                   Non dosso, prendi lieta\n\n                   Queste negre viole\n\n                   Dall umor rugiadose.”"
+    },
+    {
+      "start_byte": 10716,
+      "end_byte": 10787,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nThe priest gazed at her with looks of parental affection, and said,\n\n"
+    },
+    {
+      "start_byte": 10787,
+      "end_byte": 10848,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Your offering, my dear, is indeed the\n\n                   "
+    },
+    {
+      "start_byte": 10848,
+      "end_byte": 10875,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘Incense to the heart;’"
+    },
+    {
+      "start_byte": 10875,
+      "end_byte": 11000,
+      "labels": [
+        "speech"
+      ],
+      "text": "\n\nand more precious to the receiver, than the richest donation that ever\ndecked the shrine of Loretto. How fragrant it is!”"
+    },
+    {
+      "start_byte": 11000,
+      "end_byte": 11527,
+      "labels": [
+        "narration"
+      ],
+      "text": " he added, presenting\nit to me.\n\nI took it in silence, but raised it no higher than my lip--the eye of\nGlorvina met mine, as my kiss breathed upon her flower: Good God! what\nan undefinable, what a delicious emotion thrilled through my heart at\nthat moment! and the next--yet I know not how it was, or whether\nthe motion was made by her, or by me, or by the priest--but somehow,\nGlorvina had got between us, and while I gazed at her beautiful flower,\nI personified the blossom, and addressed to her the happiest lines that\nform "
+    },
+    {
+      "start_byte": 11527,
+      "end_byte": 11556,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“_La Guirlande de Julie_”"
+    },
+    {
+      "start_byte": 11556,
+      "end_byte": 11599,
+      "labels": [
+        "narration"
+      ],
+      "text": " while, as I repeated.\n\n                   "
+    },
+    {
+      "start_byte": 11599,
+      "end_byte": 11717,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Mais si sur votre front je peux briller un jour,\n\n                   La plus humble des fleurs sera la plus superbe"
+    },
+    {
+      "start_byte": 11717,
+      "end_byte": 11792,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nI reposed it for a moment on her brow in passing it over to the priest.\n\n"
+    },
+    {
+      "start_byte": 11792,
+      "end_byte": 11801,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Oh!”"
+    },
+    {
+      "start_byte": 11801,
+      "end_byte": 11832,
+      "labels": [
+        "narration"
+      ],
+      "text": " said she, with an arch smile, "
+    },
+    {
+      "start_byte": 11832,
+      "end_byte": 11943,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I perceive you too will expect\na tributary flower for these charming lines; and the summer’s first\nrose”"
+    },
+    {
+      "start_byte": 11943,
+      "end_byte": 11998,
+      "labels": [
+        "narration"
+      ],
+      "text": "--she paused abruptly; but her eloquent eye continued, "
+    },
+    {
+      "start_byte": 11998,
+      "end_byte": 12098,
+      "labels": [
+        "speech"
+      ],
+      "text": "“should be\nthine, but that thou mayst be far from hence when the summer’s first\nrose appears.”"
+    },
+    {
+      "start_byte": 12098,
+      "end_byte": 12245,
+      "labels": [
+        "narration"
+      ],
+      "text": " I thought too--but it might be only the fancy of my\nwishes, that a sigh floated on the lip, when recollection checked the\neffusion of the heart.\n\n"
+    },
+    {
+      "start_byte": 12245,
+      "end_byte": 12262,
+      "labels": [
+        "speech"
+      ],
+      "text": "“The _rose_,”"
+    },
+    {
+      "start_byte": 12262,
+      "end_byte": 12391,
+      "labels": [
+        "narration"
+      ],
+      "text": " (said the priest, with simplicity, and more engaged with\nthe classicality of the idea, than the inference to be drawn from it,)\n"
+    },
+    {
+      "start_byte": 12391,
+      "end_byte": 12428,
+      "labels": [
+        "speech"
+      ],
+      "text": "“the rose is the flower of Love.”"
+    },
+    {
+      "start_byte": 12428,
+      "end_byte": 12718,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nI stole a look at Glorvina, whose cheek now emulated the tint of the\ntheme of our conversation; and plucking a thistle that sprung from a\nbroken pediment, she blew away its down with her balmy breath, merely to\nhide her confusion.\n\nSurely she is the most sentient of all created beings!\n\n"
+    },
+    {
+      "start_byte": 12718,
+      "end_byte": 12735,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I remember,”"
+    },
+    {
+      "start_byte": 12735,
+      "end_byte": 12758,
+      "labels": [
+        "narration"
+      ],
+      "text": " continued the priest, "
+    },
+    {
+      "start_byte": 12758,
+      "end_byte": 12990,
+      "labels": [
+        "speech"
+      ],
+      "text": "“being severely censured by a rigid\nold priest, at my college in St. Omer’s, who found me reading the\nIdylium of Ausonius, in which he so beautifully celebrates the rose,\nwhen the good father believed me deep in St. Augustin.”"
+    },
+    {
+      "start_byte": 12990,
+      "end_byte": 12992,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 12992,
+      "end_byte": 13007,
+      "labels": [
+        "speech"
+      ],
+      "text": "“The rose,”"
+    },
+    {
+      "start_byte": 13007,
+      "end_byte": 13016,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I, "
+    },
+    {
+      "start_byte": 13016,
+      "end_byte": 13459,
+      "labels": [
+        "speech"
+      ],
+      "text": "“has always been the poet’s darling theme. The\nimpassioned lyre of Sappho has breathed upon its leaves. Anacreon has\nwooed it in the happiest effusions of his genius; and poesy seems\nto have exhausted her powers in celebrating the charms of the most\nbeautiful and transient of flowers.\n\n“Among its modern panegyrists, few have been more happily successful\nthan Monsieur de Barnard, in that charming little ode beginning:\n\n               "
+    },
+    {
+      "start_byte": 13459,
+      "end_byte": 13632,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Tendre fruits des pleurs d’aurore,\n\n               Objets des baisers du zephyrs,\n\n               Reine de l’empire de Flore,\n\n               Hate toi d’epanoir.”"
+    },
+    {
+      "start_byte": 13632,
+      "end_byte": 13634,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 13634,
+      "end_byte": 13663,
+      "labels": [
+        "speech"
+      ],
+      "text": "“O! I beseech you go on,”"
+    },
+    {
+      "start_byte": 13663,
+      "end_byte": 13727,
+      "labels": [
+        "narration"
+      ],
+      "text": " exclaimed Glor-vina; and at her request, I\nfinished the poem.\n\n"
+    },
+    {
+      "start_byte": 13727,
+      "end_byte": 13754,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Beautiful, beautiful!”"
+    },
+    {
+      "start_byte": 13754,
+      "end_byte": 13782,
+      "labels": [
+        "narration"
+      ],
+      "text": " said she, with enthusiasm. "
+    },
+    {
+      "start_byte": 13782,
+      "end_byte": 14618,
+      "labels": [
+        "speech"
+      ],
+      "text": "“O! there is a\ncertain delicacy of genius in elegant trifles of this description, which\nI think the French possess almost exclusively: it is a language formed\nalmost by its very construction _a’eterniser la bagatelle_, and to\nclothe the fairy effusions of fancy in the most appropriate drapery.\n\n“I thank you for this beautiful ode; the rose was always my idol flower;\nin all its different stages of existence, it speaks a language my heart\nunderstands; from its young bud’s first crimson glow, to the last sickly\nblush of its faded blossom. It is the flower of sentiment in all\nits sweet transitions; it breathes a moral, and seems to preserve an\nundecaying soul in that fragrant essence which still survives the bloom\nand symmetry of the fragile form which every beam too ardent, every gale\ntoo chill, injures and destroys.”"
+    },
+    {
+      "start_byte": 14618,
+      "end_byte": 14620,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 14620,
+      "end_byte": 14639,
+      "labels": [
+        "speech"
+      ],
+      "text": "“And is there,”"
+    },
+    {
+      "start_byte": 14639,
+      "end_byte": 14648,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I, "
+    },
+    {
+      "start_byte": 14648,
+      "end_byte": 14726,
+      "labels": [
+        "speech"
+      ],
+      "text": "“no parallel in the moral world for this lovely\noffspring of the natural?”"
+    },
+    {
+      "start_byte": 14726,
+      "end_byte": 14804,
+      "labels": [
+        "narration"
+      ],
+      "text": "----\n\nGlorvina raised her humid eyes to mine, and I read the parallel there.\n\n"
+    },
+    {
+      "start_byte": 14804,
+      "end_byte": 14816,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I vow,”"
+    },
+    {
+      "start_byte": 14816,
+      "end_byte": 14861,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the priest, with affected pettishness, "
+    },
+    {
+      "start_byte": 14861,
+      "end_byte": 15029,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I am half tempted\nto fling away my violet, since this _idol_ flower has been decreed to\nMr. Mortimer; and to revenge myself, I will show him your ode on the\nrose.”"
+    },
+    {
+      "start_byte": 15029,
+      "end_byte": 15369,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nAt these words, he took out his pocket-book, laughing at his gratified\nvengeance, while Glorvina coaxed, blushed, and threatened; until\nsnatching the book out of his hand, as he was endeavouring to put\nit into mine, away she flew like lightning, laughing heartily at her\ntriumph, in all the exility and playfulness of a youthful spirit.\n\n"
+    },
+    {
+      "start_byte": 15369,
+      "end_byte": 15389,
+      "labels": [
+        "speech"
+      ],
+      "text": "“What a _Hebe!_”"
+    },
+    {
+      "start_byte": 15389,
+      "end_byte": 15448,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I, as she kissed her hand to us in her airy\nflight.\n\n"
+    },
+    {
+      "start_byte": 15448,
+      "end_byte": 15458,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Yes,”"
+    },
+    {
+      "start_byte": 15458,
+      "end_byte": 15468,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he, "
+    },
+    {
+      "start_byte": 15468,
+      "end_byte": 15662,
+      "labels": [
+        "speech"
+      ],
+      "text": "“she at least illustrates the possibility of a woman\nuniting in her character the extremes of intelligence and simplicity:\nyou see, with all her information and talent, she is a mere child.”"
+    },
+    {
+      "start_byte": 15662,
+      "end_byte": 17300,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nWhen we reached the castle, we found her waiting for us at the breakfast\ntable, flushed with her race--all animation, all spirits! her reserve\nseemed gradually to vanish, and nothing could be more interesting, yet\nmore _enjouee_, than her manner and conversation. While the fertility\nof her imagination supplied incessant topic of conversation, always new,\nalways original, I could not help reverting in idea to those languid\n_tete-a-tetes_, even in the hey-dey of our intercourse, when Lady\nC.------ and I have sat yawning at each other, or biting our fingers,\nmerely for want of something to say, in those intervals of passion,\nwhich every connexion even of the tenderest nature, must sustain--she in\nthe native dearth of her mind, and I in the habitual apathy of mine.\n\nBut here is a creature who talks of a violet or a rose with the artless\nair of infancy, and yet fascinates you in the simple discussion, as\nthough the whole force of intellect was roused to support it.\n\nBy Heaven! if I know my own heart, I would not love this being for a\nthousand worlds; at least as I have hitherto loved. As it is, I feel a\ncertain commerce of the soul--a mutual intelligence of mind and feeling\nwith her, which a look, a sigh, a word is sufficient to betray--a sacred\ncommunion of spirit, which raises me in the scale of existence almost\nabove mortality; and though we had been known to each other by\nlooks only, still would this amalgamation of soul (if I may use the\nexpression) have existed.\n\nWhat a nausea of every sense does the turbulent agitation of gross\ncommonplace passion bring with it. But the sentiment which this seraph\nawakens, "
+    },
+    {
+      "start_byte": 17300,
+      "end_byte": 17332,
+      "labels": [
+        "other"
+      ],
+      "text": "“brings with it no satiety.”"
+    },
+    {
+      "start_byte": 17332,
+      "end_byte": 17586,
+      "labels": [
+        "narration"
+      ],
+      "text": " There is something so pure, so\nrefreshing about her, that in the present state of my heart, feelings,\nand constitution, she produces the same effect on me as does the\nhealth-giving breeze of returning spring to the drooping spirit of slow\nconvalescence!"
+    }
+  ]
+}

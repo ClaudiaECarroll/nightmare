@@ -1,0 +1,2733 @@
+{
+  "name": "11_manual_sample",
+  "source_file": "11_manual_sample.txt",
+  "created": "2026-07-20T08:32:48",
+  "modified": "2026-07-24T09:10:32",
+  "total_bytes": 18575,
+  "spans": [
+    {
+      "start_byte": 0,
+      "end_byte": 30,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Curiouser and curiouser!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 136,
+      "end_byte": 221,
+      "labels": [
+        "speech"
+      ],
+      "text": "“now I’m opening out like the largest telescope that ever was! Good-bye, feet!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 331,
+      "end_byte": 596,
+      "labels": [
+        "thought"
+      ],
+      "text": "“Oh, my poor little feet, I wonder who will put on your shoes and stockings for you now, dears? I’m sure I shan’t be able! I shall be a great deal too far off to trouble myself about you: you must manage the best way you can;—but I must be kind to them,” ",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 611,
+      "end_byte": 733,
+      "labels": [
+        "thought"
+      ],
+      "text": "“or perhaps they won’t walk the way I want to go! Let me see: I’ll give them a new pair of boots every Christmas.”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 796,
+      "end_byte": 830,
+      "labels": [
+        "thought"
+      ],
+      "text": "“They must go by the carrier,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 844,
+      "end_byte": 1103,
+      "labels": [
+        "thought"
+      ],
+      "text": "“and how funny it’ll seem, sending presents to one’s own feet! And how odd the directions will look!\n\n     Alice’s Right Foot, Esq.,\n       Hearthrug,\n         near the Fender,\n           (with Alice’s love).\nOh dear, what nonsense I’m talking!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 1490,
+      "end_byte": 1532,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You ought to be ashamed of yourself,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 1545,
+      "end_byte": 1573,
+      "labels": [
+        "speech"
+      ],
+      "text": "“a great girl like you,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 1601,
+      "end_byte": 1665,
+      "labels": [
+        "speech"
+      ],
+      "text": "“to go on crying in this way! Stop this moment, I tell you!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 2149,
+      "end_byte": 2238,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Oh! the Duchess, the Duchess! Oh! won’t she be savage if I’ve kept her waiting!”",
+      "speaker": "White Rabbit"
+    },
+    {
+      "start_byte": 2375,
+      "end_byte": 2402,
+      "labels": [
+        "speech"
+      ],
+      "text": "“If you please, sir—”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 2660,
+      "end_byte": 3017,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Dear, dear! How queer everything is to-day! And yesterday things went on just as usual. I wonder if I’ve been changed in the night? Let me think: was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I’m not the same, the next question is, Who in the world am I? Ah, that’s the great puzzle!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 3166,
+      "end_byte": 3197,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’m sure I’m not Ada,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 3208,
+      "end_byte": 3956,
+      "labels": [
+        "speech"
+      ],
+      "text": "“for her hair goes in such long ringlets, and mine doesn’t go in ringlets at all; and I’m sure I can’t be Mabel, for I know all sorts of things, and she, oh! she knows such a very little! Besides, she’s she, and I’m I, and—oh dear, how puzzling it all is! I’ll try if I know all the things I used to know. Let me see: four times five is twelve, and four times six is thirteen, and four times seven is—oh dear! I shall never get to twenty at that rate! However, the Multiplication Table doesn’t signify: let’s try Geography. London is the capital of Paris, and Paris is the capital of Rome, and Rome—no, that’s all wrong, I’m certain! I must have been changed for Mabel! I’ll try and say ‘How doth the little—’”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 3925,
+      "end_byte": 3953,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘How doth the little—’",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 4151,
+      "end_byte": 4404,
+      "labels": [
+        "speech"
+      ],
+      "text": "“How doth the little crocodile\n    Improve his shining tail,\nAnd pour the waters of the Nile\n    On every golden scale!\n\n“How cheerfully he seems to grin,\n    How neatly spread his claws,\nAnd welcome little fishes in\n    With gently smiling jaws!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 4406,
+      "end_byte": 4453,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’m sure those are not the right words,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 4524,
+      "end_byte": 5052,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I must be Mabel after all, and I shall have to go and live in that poky little house, and have next to no toys to play with, and oh! ever so many lessons to learn! No, I’ve made up my mind about it; if I’m Mabel, I’ll stay down here! It’ll be no use their putting their heads down and saying ‘Come up again, dear!’ I shall only look up and say ‘Who am I then? Tell me that first, and then, if I like being that person, I’ll come up: if not, I’ll stay down here till I’m somebody else’—but, oh dear!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 4827,
+      "end_byte": 4853,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘Come up again, dear!’",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 4883,
+      "end_byte": 5033,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘Who am I then? Tell me that first, and then, if I like being that person, I’ll come up: if not, I’ll stay down here till I’m somebody else’",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 5096,
+      "end_byte": 5188,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I do wish they would put their heads down! I am so very tired of being all alone here!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 5351,
+      "end_byte": 5382,
+      "labels": [
+        "thought"
+      ],
+      "text": "“How can I have done that?”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 5396,
+      "end_byte": 5432,
+      "labels": [
+        "thought"
+      ],
+      "text": "“I must be growing small again.”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 5756,
+      "end_byte": 5787,
+      "labels": [
+        "speech"
+      ],
+      "text": "“That was a narrow escape!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 5895,
+      "end_byte": 5924,
+      "labels": [
+        "speech"
+      ],
+      "text": "“and now for the garden!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 6086,
+      "end_byte": 6123,
+      "labels": [
+        "thought"
+      ],
+      "text": "“and things are worse than ever,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 6148,
+      "end_byte": 6243,
+      "labels": [
+        "thought"
+      ],
+      "text": "“for I never was so small as this before, never! And I declare it’s too bad, that it is!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 6417,
+      "end_byte": 6465,
+      "labels": [
+        "speech"
+      ],
+      "text": "“and in that case I can go back by railway,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 6901,
+      "end_byte": 6939,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I wish I hadn’t cried so much!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 6999,
+      "end_byte": 7158,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer to-day.”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 7468,
+      "end_byte": 7502,
+      "labels": [
+        "thought"
+      ],
+      "text": "“Would it be of any use, now,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 7518,
+      "end_byte": 7677,
+      "labels": [
+        "thought"
+      ],
+      "text": "“to speak to this mouse? Everything is so out-of-the-way down here, that I should think very likely it can talk: at any rate, there’s no harm in trying.”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 7692,
+      "end_byte": 7793,
+      "labels": [
+        "speech"
+      ],
+      "text": "“O Mouse, do you know the way out of this pool? I am very tired of swimming about here, O Mouse!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 7965,
+      "end_byte": 8025,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“A mouse—of a mouse—to a mouse—a mouse—O mouse!”",
+      "note": "Her Brother's Latin Grammar"
+    },
+    {
+      "start_byte": 8150,
+      "end_byte": 8196,
+      "labels": [
+        "thought"
+      ],
+      "text": "“Perhaps it doesn’t understand English,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 8212,
+      "end_byte": 8288,
+      "labels": [
+        "thought"
+      ],
+      "text": "“I daresay it’s a French mouse, come over with William the Conqueror.”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 8418,
+      "end_byte": 8442,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Où est ma chatte?”",
+      "speaker": "Alice",
+      "note": "her French lesson-book"
+    },
+    {
+      "start_byte": 8589,
+      "end_byte": 8617,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Oh, I beg your pardon!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 8694,
+      "end_byte": 8738,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I quite forgot you didn’t like cats.”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 8740,
+      "end_byte": 8760,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Not like cats!”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 8809,
+      "end_byte": 8850,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Would you like cats if you were me?”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 8852,
+      "end_byte": 8876,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Well, perhaps not,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 8908,
+      "end_byte": 9083,
+      "labels": [
+        "speech"
+      ],
+      "text": "“don’t be angry about it. And yet I wish I could show you our cat Dinah: I think you’d take a fancy to cats if you could only see her. She is such a dear quiet thing,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 9154,
+      "end_byte": 9362,
+      "labels": [
+        "speech"
+      ],
+      "text": "“and she sits purring so nicely by the fire, licking her paws and washing her face—and she is such a nice soft thing to nurse—and she’s such a capital one for catching mice—oh, I beg your pardon!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 9479,
+      "end_byte": 9542,
+      "labels": [
+        "speech"
+      ],
+      "text": "“We won’t talk about her any more if you’d rather not.”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 9544,
+      "end_byte": 9560,
+      "labels": [
+        "speech"
+      ],
+      "text": "“We indeed!”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 9625,
+      "end_byte": 9761,
+      "labels": [
+        "speech"
+      ],
+      "text": "“As if I would talk on such a subject! Our family always hated cats: nasty, low, vulgar things! Don’t let me hear the name again!”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 9763,
+      "end_byte": 9786,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I won’t indeed!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 9855,
+      "end_byte": 9899,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Are you—are you fond—of—of dogs?”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 9952,
+      "end_byte": 10401,
+      "labels": [
+        "speech"
+      ],
+      "text": "“There is such a nice little dog near our house I should like to show you! A little bright-eyed terrier, you know, with oh, such long curly brown hair! And it’ll fetch things when you throw them, and it’ll sit up and beg for its dinner, and all sorts of things—I can’t remember half of them—and it belongs to a farmer, you know, and he says it’s so useful, it’s worth a hundred pounds! He says it kills all the rats and—oh dear!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 10435,
+      "end_byte": 10479,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’m afraid I’ve offended it again!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 10630,
+      "end_byte": 10740,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Mouse dear! Do come back again, and we won’t talk about cats or dogs either, if you don’t like them!”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 10906,
+      "end_byte": 11029,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Let us get to the shore, and then I’ll tell you my history, and you’ll understand why it is I hate cats and dogs.”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 11872,
+      "end_byte": 11920,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I am older than you, and must know better;”",
+      "speaker": "Lory"
+    },
+    {
+      "start_byte": 12426,
+      "end_byte": 12437,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Ahem!”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 12476,
+      "end_byte": 12814,
+      "labels": [
+        "speech"
+      ],
+      "text": "“are you all ready? This is the driest thing I know. Silence all round, if you please! ‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English, who wanted leaders, and had been of late much accustomed to usurpation and conquest. Edwin and Morcar, the earls of Mercia and Northumbria—’”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 12565,
+      "end_byte": 12811,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English, who wanted leaders, and had been of late much accustomed to usurpation and conquest. Edwin and Morcar, the earls of Mercia and Northumbria—’",
+      "speaker": "Mouse",
+      "note": "Havilland Chépmell's A Short Course of History"
+    },
+    {
+      "start_byte": 12816,
+      "end_byte": 12826,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Ugh!”",
+      "speaker": "Lory"
+    },
+    {
+      "start_byte": 12858,
+      "end_byte": 12882,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I beg your pardon!”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 12928,
+      "end_byte": 12948,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Did you speak?”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 12950,
+      "end_byte": 12962,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Not I!”",
+      "speaker": "Lory"
+    },
+    {
+      "start_byte": 12987,
+      "end_byte": 13011,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I thought you did,”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 13028,
+      "end_byte": 13206,
+      "labels": [
+        "speech"
+      ],
+      "text": "“—I proceed. ‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—’”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 13045,
+      "end_byte": 13203,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—’",
+      "speaker": "Mouse",
+      "note": "Havilland Chépmell's A Short Course of History"
+    },
+    {
+      "start_byte": 13208,
+      "end_byte": 13225,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Found what?”",
+      "speaker": "Duck"
+    },
+    {
+      "start_byte": 13242,
+      "end_byte": 13257,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Found it,”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 13292,
+      "end_byte": 13337,
+      "labels": [
+        "speech"
+      ],
+      "text": "“of course you know what ‘it’ means.”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 13319,
+      "end_byte": 13327,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "‘it’",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 13339,
+      "end_byte": 13405,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I know what ‘it’ means well enough, when I find a thing,”",
+      "speaker": "Duck"
+    },
+    {
+      "start_byte": 13354,
+      "end_byte": 13362,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "‘it’",
+      "speaker": "Duck"
+    },
+    {
+      "start_byte": 13421,
+      "end_byte": 13508,
+      "labels": [
+        "speech"
+      ],
+      "text": "“it’s generally a frog or a worm. The question is, what did the archbishop find?”",
+      "speaker": "Duck"
+    },
+    {
+      "start_byte": 13573,
+      "end_byte": 13789,
+      "labels": [
+        "speech"
+      ],
+      "text": "“‘—found it advisable to go with Edgar Atheling to meet William and offer him the crown. William’s conduct at first was moderate. But the insolence of his Normans—’ How are you getting on now, my dear?”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 13576,
+      "end_byte": 13749,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "‘—found it advisable to go with Edgar Atheling to meet William and offer him the crown. William’s conduct at first was moderate. But the insolence of his Normans—’",
+      "speaker": "Mouse",
+      "note": "Havilland Chépmell's A Short Course of History"
+    },
+    {
+      "start_byte": 13835,
+      "end_byte": 13856,
+      "labels": [
+        "speech"
+      ],
+      "text": "“As wet as ever,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 13890,
+      "end_byte": 13931,
+      "labels": [
+        "speech"
+      ],
+      "text": "“it doesn’t seem to dry me at all.”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 13933,
+      "end_byte": 13952,
+      "labels": [
+        "speech"
+      ],
+      "text": "“In that case,”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 13997,
+      "end_byte": 14092,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I move that the meeting adjourn, for the immediate adoption of more energetic remedies—”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 14094,
+      "end_byte": 14114,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Speak English!”",
+      "speaker": "Eaglet"
+    },
+    {
+      "start_byte": 14132,
+      "end_byte": 14243,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I don’t know the meaning of half those long words, and, what’s more, I don’t believe you do either!”",
+      "speaker": "Eaglet"
+    },
+    {
+      "start_byte": 14338,
+      "end_byte": 14368,
+      "labels": [
+        "speech"
+      ],
+      "text": "“What I was going to say,”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 14404,
+      "end_byte": 14472,
+      "labels": [
+        "speech"
+      ],
+      "text": "“was, that the best thing to get us dry would be a Caucus-race.”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 14474,
+      "end_byte": 14502,
+      "labels": [
+        "speech"
+      ],
+      "text": "“What is a Caucus-race?”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 14670,
+      "end_byte": 14680,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Why,”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 14696,
+      "end_byte": 14741,
+      "labels": [
+        "speech"
+      ],
+      "text": "“the best way to explain it is to do it.”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 14910,
+      "end_byte": 14949,
+      "labels": [
+        "speech"
+      ],
+      "text": "“the exact shape doesn’t matter,”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 15042,
+      "end_byte": 15074,
+      "labels": [
+        "other"
+      ],
+      "text": "“One, two, three, and away,”",
+      "note": "platonic text"
+    },
+    {
+      "start_byte": 15312,
+      "end_byte": 15335,
+      "labels": [
+        "speech"
+      ],
+      "text": "“The race is over!”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 15388,
+      "end_byte": 15410,
+      "labels": [
+        "speech"
+      ],
+      "text": "“But who has won?”",
+      "speaker": "they all"
+    },
+    {
+      "start_byte": 15688,
+      "end_byte": 15738,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Everybody has won, and all must have prizes.”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 15740,
+      "end_byte": 15776,
+      "labels": [
+        "speech"
+      ],
+      "text": "“But who is to give the prizes?”",
+      "speaker": "a chorus of voices"
+    },
+    {
+      "start_byte": 15810,
+      "end_byte": 15836,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Why, she, of course,”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 15965,
+      "end_byte": 15986,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Prizes! Prizes!”",
+      "speaker": "the whole party"
+    },
+    {
+      "start_byte": 16220,
+      "end_byte": 16270,
+      "labels": [
+        "speech"
+      ],
+      "text": "“But she must have a prize herself, you know,”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 16288,
+      "end_byte": 16304,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Of course,”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 16336,
+      "end_byte": 16380,
+      "labels": [
+        "speech"
+      ],
+      "text": "“What else have you got in your pocket?”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 16412,
+      "end_byte": 16433,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Only a thimble,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 16453,
+      "end_byte": 16477,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Hand it over here,”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 16591,
+      "end_byte": 16644,
+      "labels": [
+        "speech"
+      ],
+      "text": "“We beg your acceptance of this elegant thimble;”",
+      "speaker": "Dodo"
+    },
+    {
+      "start_byte": 17251,
+      "end_byte": 17304,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You promised to tell me your history, you know,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 17317,
+      "end_byte": 17356,
+      "labels": [
+        "speech"
+      ],
+      "text": "“and why it is you hate—C and D,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 17427,
+      "end_byte": 17463,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Mine is a long and a sad tale!”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 17512,
+      "end_byte": 17547,
+      "labels": [
+        "speech"
+      ],
+      "text": "“It is a long tail, certainly,”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 17608,
+      "end_byte": 17641,
+      "labels": [
+        "speech"
+      ],
+      "text": "“but why do you call it sad?”",
+      "speaker": "Alice"
+    },
+    {
+      "start_byte": 17773,
+      "end_byte": 18574,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Fury said to a\n         mouse, That he\n        met in the\n       house,\n     ‘Let us\n      both go to\n       law: I will\n        prosecute\n         you.—Come,\n           I’ll take no\n           denial; We\n          must have a\n        trial: For\n      really this\n     morning I’ve\n    nothing\n    to do.’\n      Said the\n      mouse to the\n       cur, ‘Such\n        a trial,\n         dear sir,\n            With\n          no jury\n        or judge,\n       would be\n      wasting\n      our\n      breath.’\n        ‘I’ll be\n        judge, I’ll\n         be jury,’\n             Said\n         cunning\n          old Fury:\n          ‘I’ll\n          try the\n            whole\n            cause,\n              and\n           condemn\n           you\n          to\n           death.’”",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 17853,
+      "end_byte": 18091,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘Let us\n      both go to\n       law: I will\n        prosecute\n         you.—Come,\n           I’ll take no\n           denial; We\n          must have a\n        trial: For\n      really this\n     morning I’ve\n    nothing\n    to do.’",
+      "speaker": "Fury"
+    },
+    {
+      "start_byte": 18138,
+      "end_byte": 18291,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘Such\n        a trial,\n         dear sir,\n            With\n          no jury\n        or judge,\n       would be\n      wasting\n      our\n      breath.’",
+      "speaker": "Mouse"
+    },
+    {
+      "start_byte": 18300,
+      "end_byte": 18355,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘I’ll be\n        judge, I’ll\n         be jury,’",
+      "speaker": "Fury"
+    },
+    {
+      "start_byte": 18421,
+      "end_byte": 18571,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘I’ll\n          try the\n            whole\n            cause,\n              and\n           condemn\n           you\n          to\n           death.’",
+      "speaker": "Fury"
+    }
+  ],
+  "segments": [
+    {
+      "start_byte": 0,
+      "end_byte": 30,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Curiouser and curiouser!”"
+    },
+    {
+      "start_byte": 30,
+      "end_byte": 136,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); "
+    },
+    {
+      "start_byte": 136,
+      "end_byte": 221,
+      "labels": [
+        "speech"
+      ],
+      "text": "“now I’m opening out like the largest telescope that ever was! Good-bye, feet!”"
+    },
+    {
+      "start_byte": 221,
+      "end_byte": 331,
+      "labels": [
+        "narration"
+      ],
+      "text": " (for when she looked down at her feet, they seemed to be almost out of sight, they were getting so far off). "
+    },
+    {
+      "start_byte": 331,
+      "end_byte": 596,
+      "labels": [
+        "thought"
+      ],
+      "text": "“Oh, my poor little feet, I wonder who will put on your shoes and stockings for you now, dears? I’m sure I shan’t be able! I shall be a great deal too far off to trouble myself about you: you must manage the best way you can;—but I must be kind to them,” "
+    },
+    {
+      "start_byte": 596,
+      "end_byte": 611,
+      "labels": [
+        "narration"
+      ],
+      "text": "thought Alice, "
+    },
+    {
+      "start_byte": 611,
+      "end_byte": 733,
+      "labels": [
+        "thought"
+      ],
+      "text": "“or perhaps they won’t walk the way I want to go! Let me see: I’ll give them a new pair of boots every Christmas.”"
+    },
+    {
+      "start_byte": 733,
+      "end_byte": 796,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nAnd she went on planning to herself how she would manage it. "
+    },
+    {
+      "start_byte": 796,
+      "end_byte": 830,
+      "labels": [
+        "thought"
+      ],
+      "text": "“They must go by the carrier,”"
+    },
+    {
+      "start_byte": 830,
+      "end_byte": 844,
+      "labels": [
+        "narration"
+      ],
+      "text": " she thought; "
+    },
+    {
+      "start_byte": 844,
+      "end_byte": 1103,
+      "labels": [
+        "thought"
+      ],
+      "text": "“and how funny it’ll seem, sending presents to one’s own feet! And how odd the directions will look!\n\n     Alice’s Right Foot, Esq.,\n       Hearthrug,\n         near the Fender,\n           (with Alice’s love).\nOh dear, what nonsense I’m talking!”"
+    },
+    {
+      "start_byte": 1103,
+      "end_byte": 1490,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nJust then her head struck against the roof of the hall: in fact she was now more than nine feet high, and she at once took up the little golden key and hurried off to the garden door.\n\nPoor Alice! It was as much as she could do, lying down on one side, to look through into the garden with one eye; but to get through was more hopeless than ever: she sat down and began to cry again.\n\n"
+    },
+    {
+      "start_byte": 1490,
+      "end_byte": 1532,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You ought to be ashamed of yourself,”"
+    },
+    {
+      "start_byte": 1532,
+      "end_byte": 1545,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Alice, "
+    },
+    {
+      "start_byte": 1545,
+      "end_byte": 1573,
+      "labels": [
+        "speech"
+      ],
+      "text": "“a great girl like you,”"
+    },
+    {
+      "start_byte": 1573,
+      "end_byte": 1601,
+      "labels": [
+        "narration"
+      ],
+      "text": " (she might well say this), "
+    },
+    {
+      "start_byte": 1601,
+      "end_byte": 1665,
+      "labels": [
+        "speech"
+      ],
+      "text": "“to go on crying in this way! Stop this moment, I tell you!”"
+    },
+    {
+      "start_byte": 1665,
+      "end_byte": 2149,
+      "labels": [
+        "narration"
+      ],
+      "text": " But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.\n\nAfter a time she heard a little pattering of feet in the distance, and she hastily dried her eyes to see what was coming. It was the White Rabbit returning, splendidly dressed, with a pair of white kid gloves in one hand and a large fan in the other: he came trotting along in a great hurry, muttering to himself as he came, "
+    },
+    {
+      "start_byte": 2149,
+      "end_byte": 2238,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Oh! the Duchess, the Duchess! Oh! won’t she be savage if I’ve kept her waiting!”"
+    },
+    {
+      "start_byte": 2238,
+      "end_byte": 2375,
+      "labels": [
+        "narration"
+      ],
+      "text": " Alice felt so desperate that she was ready to ask help of any one; so, when the Rabbit came near her, she began, in a low, timid voice, "
+    },
+    {
+      "start_byte": 2375,
+      "end_byte": 2402,
+      "labels": [
+        "speech"
+      ],
+      "text": "“If you please, sir—”"
+    },
+    {
+      "start_byte": 2402,
+      "end_byte": 2660,
+      "labels": [
+        "narration"
+      ],
+      "text": " The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go.\n\nAlice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking: "
+    },
+    {
+      "start_byte": 2660,
+      "end_byte": 3017,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Dear, dear! How queer everything is to-day! And yesterday things went on just as usual. I wonder if I’ve been changed in the night? Let me think: was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I’m not the same, the next question is, Who in the world am I? Ah, that’s the great puzzle!”"
+    },
+    {
+      "start_byte": 3017,
+      "end_byte": 3166,
+      "labels": [
+        "narration"
+      ],
+      "text": " And she began thinking over all the children she knew that were of the same age as herself, to see if she could have been changed for any of them.\n\n"
+    },
+    {
+      "start_byte": 3166,
+      "end_byte": 3197,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’m sure I’m not Ada,”"
+    },
+    {
+      "start_byte": 3197,
+      "end_byte": 3208,
+      "labels": [
+        "narration"
+      ],
+      "text": " she said, "
+    },
+    {
+      "start_byte": 3208,
+      "end_byte": 3925,
+      "labels": [
+        "speech"
+      ],
+      "text": "“for her hair goes in such long ringlets, and mine doesn’t go in ringlets at all; and I’m sure I can’t be Mabel, for I know all sorts of things, and she, oh! she knows such a very little! Besides, she’s she, and I’m I, and—oh dear, how puzzling it all is! I’ll try if I know all the things I used to know. Let me see: four times five is twelve, and four times six is thirteen, and four times seven is—oh dear! I shall never get to twenty at that rate! However, the Multiplication Table doesn’t signify: let’s try Geography. London is the capital of Paris, and Paris is the capital of Rome, and Rome—no, that’s all wrong, I’m certain! I must have been changed for Mabel! I’ll try and say "
+    },
+    {
+      "start_byte": 3925,
+      "end_byte": 3953,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘How doth the little—’"
+    },
+    {
+      "start_byte": 3953,
+      "end_byte": 3956,
+      "labels": [
+        "speech"
+      ],
+      "text": "”"
+    },
+    {
+      "start_byte": 3956,
+      "end_byte": 4151,
+      "labels": [
+        "narration"
+      ],
+      "text": " and she crossed her hands on her lap as if she were saying lessons, and began to repeat it, but her voice sounded hoarse and strange, and the words did not come the same as they used to do:—\n\n"
+    },
+    {
+      "start_byte": 4151,
+      "end_byte": 4404,
+      "labels": [
+        "speech"
+      ],
+      "text": "“How doth the little crocodile\n    Improve his shining tail,\nAnd pour the waters of the Nile\n    On every golden scale!\n\n“How cheerfully he seems to grin,\n    How neatly spread his claws,\nAnd welcome little fishes in\n    With gently smiling jaws!”"
+    },
+    {
+      "start_byte": 4404,
+      "end_byte": 4406,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 4406,
+      "end_byte": 4453,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’m sure those are not the right words,”"
+    },
+    {
+      "start_byte": 4453,
+      "end_byte": 4524,
+      "labels": [
+        "narration"
+      ],
+      "text": " said poor Alice, and her eyes filled with tears again as she went on, "
+    },
+    {
+      "start_byte": 4524,
+      "end_byte": 4827,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I must be Mabel after all, and I shall have to go and live in that poky little house, and have next to no toys to play with, and oh! ever so many lessons to learn! No, I’ve made up my mind about it; if I’m Mabel, I’ll stay down here! It’ll be no use their putting their heads down and saying "
+    },
+    {
+      "start_byte": 4827,
+      "end_byte": 4853,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘Come up again, dear!’"
+    },
+    {
+      "start_byte": 4853,
+      "end_byte": 4883,
+      "labels": [
+        "speech"
+      ],
+      "text": " I shall only look up and say "
+    },
+    {
+      "start_byte": 4883,
+      "end_byte": 5033,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘Who am I then? Tell me that first, and then, if I like being that person, I’ll come up: if not, I’ll stay down here till I’m somebody else’"
+    },
+    {
+      "start_byte": 5033,
+      "end_byte": 5052,
+      "labels": [
+        "speech"
+      ],
+      "text": "—but, oh dear!”"
+    },
+    {
+      "start_byte": 5052,
+      "end_byte": 5096,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried Alice, with a sudden burst of tears, "
+    },
+    {
+      "start_byte": 5096,
+      "end_byte": 5188,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I do wish they would put their heads down! I am so very tired of being all alone here!”"
+    },
+    {
+      "start_byte": 5188,
+      "end_byte": 5351,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nAs she said this she looked down at her hands, and was surprised to see that she had put on one of the Rabbit’s little white kid gloves while she was talking. "
+    },
+    {
+      "start_byte": 5351,
+      "end_byte": 5382,
+      "labels": [
+        "thought"
+      ],
+      "text": "“How can I have done that?”"
+    },
+    {
+      "start_byte": 5382,
+      "end_byte": 5396,
+      "labels": [
+        "narration"
+      ],
+      "text": " she thought. "
+    },
+    {
+      "start_byte": 5396,
+      "end_byte": 5432,
+      "labels": [
+        "thought"
+      ],
+      "text": "“I must be growing small again.”"
+    },
+    {
+      "start_byte": 5432,
+      "end_byte": 5756,
+      "labels": [
+        "narration"
+      ],
+      "text": " She got up and went to the table to measure herself by it, and found that, as nearly as she could guess, she was now about two feet high, and was going on shrinking rapidly: she soon found out that the cause of this was the fan she was holding, and she dropped it hastily, just in time to avoid shrinking away altogether.\n\n"
+    },
+    {
+      "start_byte": 5756,
+      "end_byte": 5787,
+      "labels": [
+        "speech"
+      ],
+      "text": "“That was a narrow escape!”"
+    },
+    {
+      "start_byte": 5787,
+      "end_byte": 5895,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Alice, a good deal frightened at the sudden change, but very glad to find herself still in existence; "
+    },
+    {
+      "start_byte": 5895,
+      "end_byte": 5924,
+      "labels": [
+        "speech"
+      ],
+      "text": "“and now for the garden!”"
+    },
+    {
+      "start_byte": 5924,
+      "end_byte": 6086,
+      "labels": [
+        "narration"
+      ],
+      "text": " and she ran with all speed back to the little door: but, alas! the little door was shut again, and the little golden key was lying on the glass table as before, "
+    },
+    {
+      "start_byte": 6086,
+      "end_byte": 6123,
+      "labels": [
+        "thought"
+      ],
+      "text": "“and things are worse than ever,”"
+    },
+    {
+      "start_byte": 6123,
+      "end_byte": 6148,
+      "labels": [
+        "narration"
+      ],
+      "text": " thought the poor child, "
+    },
+    {
+      "start_byte": 6148,
+      "end_byte": 6243,
+      "labels": [
+        "thought"
+      ],
+      "text": "“for I never was so small as this before, never! And I declare it’s too bad, that it is!”"
+    },
+    {
+      "start_byte": 6243,
+      "end_byte": 6417,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nAs she said these words her foot slipped, and in another moment, splash! she was up to her chin in salt water. Her first idea was that she had somehow fallen into the sea, "
+    },
+    {
+      "start_byte": 6417,
+      "end_byte": 6465,
+      "labels": [
+        "speech"
+      ],
+      "text": "“and in that case I can go back by railway,”"
+    },
+    {
+      "start_byte": 6465,
+      "end_byte": 6901,
+      "labels": [
+        "narration"
+      ],
+      "text": " she said to herself. (Alice had been to the seaside once in her life, and had come to the general conclusion, that wherever you go to on the English coast you find a number of bathing machines in the sea, some children digging in the sand with wooden spades, then a row of lodging houses, and behind them a railway station.) However, she soon made out that she was in the pool of tears which she had wept when she was nine feet high.\n\n"
+    },
+    {
+      "start_byte": 6901,
+      "end_byte": 6939,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I wish I hadn’t cried so much!”"
+    },
+    {
+      "start_byte": 6939,
+      "end_byte": 6999,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Alice, as she swam about, trying to find her way out. "
+    },
+    {
+      "start_byte": 6999,
+      "end_byte": 7158,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer to-day.”"
+    },
+    {
+      "start_byte": 7158,
+      "end_byte": 7468,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nJust then she heard something splashing about in the pool a little way off, and she swam nearer to make out what it was: at first she thought it must be a walrus or hippopotamus, but then she remembered how small she was now, and she soon made out that it was only a mouse that had slipped in like herself.\n\n"
+    },
+    {
+      "start_byte": 7468,
+      "end_byte": 7502,
+      "labels": [
+        "thought"
+      ],
+      "text": "“Would it be of any use, now,”"
+    },
+    {
+      "start_byte": 7502,
+      "end_byte": 7518,
+      "labels": [
+        "narration"
+      ],
+      "text": " thought Alice, "
+    },
+    {
+      "start_byte": 7518,
+      "end_byte": 7677,
+      "labels": [
+        "thought"
+      ],
+      "text": "“to speak to this mouse? Everything is so out-of-the-way down here, that I should think very likely it can talk: at any rate, there’s no harm in trying.”"
+    },
+    {
+      "start_byte": 7677,
+      "end_byte": 7692,
+      "labels": [
+        "narration"
+      ],
+      "text": " So she began: "
+    },
+    {
+      "start_byte": 7692,
+      "end_byte": 7793,
+      "labels": [
+        "speech"
+      ],
+      "text": "“O Mouse, do you know the way out of this pool? I am very tired of swimming about here, O Mouse!”"
+    },
+    {
+      "start_byte": 7793,
+      "end_byte": 7965,
+      "labels": [
+        "narration"
+      ],
+      "text": " (Alice thought this must be the right way of speaking to a mouse: she had never done such a thing before, but she remembered having seen in her brother’s Latin Grammar, "
+    },
+    {
+      "start_byte": 7965,
+      "end_byte": 8025,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“A mouse—of a mouse—to a mouse—a mouse—O mouse!”"
+    },
+    {
+      "start_byte": 8025,
+      "end_byte": 8150,
+      "labels": [
+        "narration"
+      ],
+      "text": ") The Mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing.\n\n"
+    },
+    {
+      "start_byte": 8150,
+      "end_byte": 8196,
+      "labels": [
+        "thought"
+      ],
+      "text": "“Perhaps it doesn’t understand English,”"
+    },
+    {
+      "start_byte": 8196,
+      "end_byte": 8212,
+      "labels": [
+        "narration"
+      ],
+      "text": " thought Alice; "
+    },
+    {
+      "start_byte": 8212,
+      "end_byte": 8288,
+      "labels": [
+        "thought"
+      ],
+      "text": "“I daresay it’s a French mouse, come over with William the Conqueror.”"
+    },
+    {
+      "start_byte": 8288,
+      "end_byte": 8418,
+      "labels": [
+        "narration"
+      ],
+      "text": " (For, with all her knowledge of history, Alice had no very clear notion how long ago anything had happened.) So she began again: "
+    },
+    {
+      "start_byte": 8418,
+      "end_byte": 8442,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Où est ma chatte?”"
+    },
+    {
+      "start_byte": 8442,
+      "end_byte": 8589,
+      "labels": [
+        "narration"
+      ],
+      "text": " which was the first sentence in her French lesson-book. The Mouse gave a sudden leap out of the water, and seemed to quiver all over with fright. "
+    },
+    {
+      "start_byte": 8589,
+      "end_byte": 8617,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Oh, I beg your pardon!”"
+    },
+    {
+      "start_byte": 8617,
+      "end_byte": 8694,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried Alice hastily, afraid that she had hurt the poor animal’s feelings. "
+    },
+    {
+      "start_byte": 8694,
+      "end_byte": 8738,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I quite forgot you didn’t like cats.”"
+    },
+    {
+      "start_byte": 8738,
+      "end_byte": 8740,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 8740,
+      "end_byte": 8760,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Not like cats!”"
+    },
+    {
+      "start_byte": 8760,
+      "end_byte": 8809,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried the Mouse, in a shrill, passionate voice. "
+    },
+    {
+      "start_byte": 8809,
+      "end_byte": 8850,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Would you like cats if you were me?”"
+    },
+    {
+      "start_byte": 8850,
+      "end_byte": 8852,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 8852,
+      "end_byte": 8876,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Well, perhaps not,”"
+    },
+    {
+      "start_byte": 8876,
+      "end_byte": 8908,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Alice in a soothing tone: "
+    },
+    {
+      "start_byte": 8908,
+      "end_byte": 9083,
+      "labels": [
+        "speech"
+      ],
+      "text": "“don’t be angry about it. And yet I wish I could show you our cat Dinah: I think you’d take a fancy to cats if you could only see her. She is such a dear quiet thing,”"
+    },
+    {
+      "start_byte": 9083,
+      "end_byte": 9154,
+      "labels": [
+        "narration"
+      ],
+      "text": " Alice went on, half to herself, as she swam lazily about in the pool, "
+    },
+    {
+      "start_byte": 9154,
+      "end_byte": 9362,
+      "labels": [
+        "speech"
+      ],
+      "text": "“and she sits purring so nicely by the fire, licking her paws and washing her face—and she is such a nice soft thing to nurse—and she’s such a capital one for catching mice—oh, I beg your pardon!”"
+    },
+    {
+      "start_byte": 9362,
+      "end_byte": 9479,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried Alice again, for this time the Mouse was bristling all over, and she felt certain it must be really offended. "
+    },
+    {
+      "start_byte": 9479,
+      "end_byte": 9542,
+      "labels": [
+        "speech"
+      ],
+      "text": "“We won’t talk about her any more if you’d rather not.”"
+    },
+    {
+      "start_byte": 9542,
+      "end_byte": 9544,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 9544,
+      "end_byte": 9560,
+      "labels": [
+        "speech"
+      ],
+      "text": "“We indeed!”"
+    },
+    {
+      "start_byte": 9560,
+      "end_byte": 9625,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried the Mouse, who was trembling down to the end of his tail. "
+    },
+    {
+      "start_byte": 9625,
+      "end_byte": 9761,
+      "labels": [
+        "speech"
+      ],
+      "text": "“As if I would talk on such a subject! Our family always hated cats: nasty, low, vulgar things! Don’t let me hear the name again!”"
+    },
+    {
+      "start_byte": 9761,
+      "end_byte": 9763,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 9763,
+      "end_byte": 9786,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I won’t indeed!”"
+    },
+    {
+      "start_byte": 9786,
+      "end_byte": 9855,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Alice, in a great hurry to change the subject of conversation. "
+    },
+    {
+      "start_byte": 9855,
+      "end_byte": 9899,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Are you—are you fond—of—of dogs?”"
+    },
+    {
+      "start_byte": 9899,
+      "end_byte": 9952,
+      "labels": [
+        "narration"
+      ],
+      "text": " The Mouse did not answer, so Alice went on eagerly: "
+    },
+    {
+      "start_byte": 9952,
+      "end_byte": 10401,
+      "labels": [
+        "speech"
+      ],
+      "text": "“There is such a nice little dog near our house I should like to show you! A little bright-eyed terrier, you know, with oh, such long curly brown hair! And it’ll fetch things when you throw them, and it’ll sit up and beg for its dinner, and all sorts of things—I can’t remember half of them—and it belongs to a farmer, you know, and he says it’s so useful, it’s worth a hundred pounds! He says it kills all the rats and—oh dear!”"
+    },
+    {
+      "start_byte": 10401,
+      "end_byte": 10435,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried Alice in a sorrowful tone, "
+    },
+    {
+      "start_byte": 10435,
+      "end_byte": 10479,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’m afraid I’ve offended it again!”"
+    },
+    {
+      "start_byte": 10479,
+      "end_byte": 10630,
+      "labels": [
+        "narration"
+      ],
+      "text": " For the Mouse was swimming away from her as hard as it could go, and making quite a commotion in the pool as it went.\n\nSo she called softly after it, "
+    },
+    {
+      "start_byte": 10630,
+      "end_byte": 10740,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Mouse dear! Do come back again, and we won’t talk about cats or dogs either, if you don’t like them!”"
+    },
+    {
+      "start_byte": 10740,
+      "end_byte": 10906,
+      "labels": [
+        "narration"
+      ],
+      "text": " When the Mouse heard this, it turned round and swam slowly back to her: its face was quite pale (with passion, Alice thought), and it said in a low trembling voice, "
+    },
+    {
+      "start_byte": 10906,
+      "end_byte": 11029,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Let us get to the shore, and then I’ll tell you my history, and you’ll understand why it is I hate cats and dogs.”"
+    },
+    {
+      "start_byte": 11029,
+      "end_byte": 11872,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nIt was high time to go, for the pool was getting quite crowded with the birds and animals that had fallen into it: there were a Duck and a Dodo, a Lory and an Eaglet, and several other curious creatures. Alice led the way, and the whole party swam to the shore.\n\nCHAPTER III.\nA Caucus-Race and a Long Tale\nThey were indeed a queer-looking party that assembled on the bank—the birds with draggled feathers, the animals with their fur clinging close to them, and all dripping wet, cross, and uncomfortable.\n\nThe first question of course was, how to get dry again: they had a consultation about this, and after a few minutes it seemed quite natural to Alice to find herself talking familiarly with them, as if she had known them all her life. Indeed, she had quite a long argument with the Lory, who at last turned sulky, and would only say, "
+    },
+    {
+      "start_byte": 11872,
+      "end_byte": 11920,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I am older than you, and must know better;”"
+    },
+    {
+      "start_byte": 11920,
+      "end_byte": 12426,
+      "labels": [
+        "narration"
+      ],
+      "text": " and this Alice would not allow without knowing how old it was, and, as the Lory positively refused to tell its age, there was no more to be said.\n\nAt last the Mouse, who seemed to be a person of authority among them, called out, “Sit down, all of you, and listen to me! I’ll soon make you dry enough!” They all sat down at once, in a large ring, with the Mouse in the middle. Alice kept her eyes anxiously fixed on it, for she felt sure she would catch a bad cold if she did not get dry very soon.\n\n"
+    },
+    {
+      "start_byte": 12426,
+      "end_byte": 12437,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Ahem!”"
+    },
+    {
+      "start_byte": 12437,
+      "end_byte": 12476,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Mouse with an important air, "
+    },
+    {
+      "start_byte": 12476,
+      "end_byte": 12565,
+      "labels": [
+        "speech"
+      ],
+      "text": "“are you all ready? This is the driest thing I know. Silence all round, if you please! "
+    },
+    {
+      "start_byte": 12565,
+      "end_byte": 12811,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English, who wanted leaders, and had been of late much accustomed to usurpation and conquest. Edwin and Morcar, the earls of Mercia and Northumbria—’"
+    },
+    {
+      "start_byte": 12811,
+      "end_byte": 12814,
+      "labels": [
+        "speech"
+      ],
+      "text": "”"
+    },
+    {
+      "start_byte": 12814,
+      "end_byte": 12816,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 12816,
+      "end_byte": 12826,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Ugh!”"
+    },
+    {
+      "start_byte": 12826,
+      "end_byte": 12858,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Lory, with a shiver.\n\n"
+    },
+    {
+      "start_byte": 12858,
+      "end_byte": 12882,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I beg your pardon!”"
+    },
+    {
+      "start_byte": 12882,
+      "end_byte": 12928,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Mouse, frowning, but very politely: "
+    },
+    {
+      "start_byte": 12928,
+      "end_byte": 12948,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Did you speak?”"
+    },
+    {
+      "start_byte": 12948,
+      "end_byte": 12950,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 12950,
+      "end_byte": 12962,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Not I!”"
+    },
+    {
+      "start_byte": 12962,
+      "end_byte": 12987,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Lory hastily.\n\n"
+    },
+    {
+      "start_byte": 12987,
+      "end_byte": 13011,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I thought you did,”"
+    },
+    {
+      "start_byte": 13011,
+      "end_byte": 13028,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Mouse. "
+    },
+    {
+      "start_byte": 13028,
+      "end_byte": 13045,
+      "labels": [
+        "speech"
+      ],
+      "text": "“—I proceed. "
+    },
+    {
+      "start_byte": 13045,
+      "end_byte": 13203,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—’"
+    },
+    {
+      "start_byte": 13203,
+      "end_byte": 13206,
+      "labels": [
+        "speech"
+      ],
+      "text": "”"
+    },
+    {
+      "start_byte": 13206,
+      "end_byte": 13208,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 13208,
+      "end_byte": 13225,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Found what?”"
+    },
+    {
+      "start_byte": 13225,
+      "end_byte": 13242,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Duck.\n\n"
+    },
+    {
+      "start_byte": 13242,
+      "end_byte": 13257,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Found it,”"
+    },
+    {
+      "start_byte": 13257,
+      "end_byte": 13292,
+      "labels": [
+        "narration"
+      ],
+      "text": " the Mouse replied rather crossly: "
+    },
+    {
+      "start_byte": 13292,
+      "end_byte": 13319,
+      "labels": [
+        "speech"
+      ],
+      "text": "“of course you know what "
+    },
+    {
+      "start_byte": 13319,
+      "end_byte": 13327,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "‘it’"
+    },
+    {
+      "start_byte": 13327,
+      "end_byte": 13337,
+      "labels": [
+        "speech"
+      ],
+      "text": " means.”"
+    },
+    {
+      "start_byte": 13337,
+      "end_byte": 13339,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 13339,
+      "end_byte": 13354,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I know what "
+    },
+    {
+      "start_byte": 13354,
+      "end_byte": 13362,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "‘it’"
+    },
+    {
+      "start_byte": 13362,
+      "end_byte": 13405,
+      "labels": [
+        "speech"
+      ],
+      "text": " means well enough, when I find a thing,”"
+    },
+    {
+      "start_byte": 13405,
+      "end_byte": 13421,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Duck: "
+    },
+    {
+      "start_byte": 13421,
+      "end_byte": 13508,
+      "labels": [
+        "speech"
+      ],
+      "text": "“it’s generally a frog or a worm. The question is, what did the archbishop find?”"
+    },
+    {
+      "start_byte": 13508,
+      "end_byte": 13573,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nThe Mouse did not notice this question, but hurriedly went on, "
+    },
+    {
+      "start_byte": 13573,
+      "end_byte": 13576,
+      "labels": [
+        "speech"
+      ],
+      "text": "“"
+    },
+    {
+      "start_byte": 13576,
+      "end_byte": 13749,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "‘—found it advisable to go with Edgar Atheling to meet William and offer him the crown. William’s conduct at first was moderate. But the insolence of his Normans—’"
+    },
+    {
+      "start_byte": 13749,
+      "end_byte": 13789,
+      "labels": [
+        "speech"
+      ],
+      "text": " How are you getting on now, my dear?”"
+    },
+    {
+      "start_byte": 13789,
+      "end_byte": 13835,
+      "labels": [
+        "narration"
+      ],
+      "text": " it continued, turning to Alice as it spoke.\n\n"
+    },
+    {
+      "start_byte": 13835,
+      "end_byte": 13856,
+      "labels": [
+        "speech"
+      ],
+      "text": "“As wet as ever,”"
+    },
+    {
+      "start_byte": 13856,
+      "end_byte": 13890,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Alice in a melancholy tone: "
+    },
+    {
+      "start_byte": 13890,
+      "end_byte": 13931,
+      "labels": [
+        "speech"
+      ],
+      "text": "“it doesn’t seem to dry me at all.”"
+    },
+    {
+      "start_byte": 13931,
+      "end_byte": 13933,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 13933,
+      "end_byte": 13952,
+      "labels": [
+        "speech"
+      ],
+      "text": "“In that case,”"
+    },
+    {
+      "start_byte": 13952,
+      "end_byte": 13997,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Dodo solemnly, rising to its feet, "
+    },
+    {
+      "start_byte": 13997,
+      "end_byte": 14092,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I move that the meeting adjourn, for the immediate adoption of more energetic remedies—”"
+    },
+    {
+      "start_byte": 14092,
+      "end_byte": 14094,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 14094,
+      "end_byte": 14114,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Speak English!”"
+    },
+    {
+      "start_byte": 14114,
+      "end_byte": 14132,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Eaglet. "
+    },
+    {
+      "start_byte": 14132,
+      "end_byte": 14243,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I don’t know the meaning of half those long words, and, what’s more, I don’t believe you do either!”"
+    },
+    {
+      "start_byte": 14243,
+      "end_byte": 14338,
+      "labels": [
+        "narration"
+      ],
+      "text": " And the Eaglet bent down its head to hide a smile: some of the other birds tittered audibly.\n\n"
+    },
+    {
+      "start_byte": 14338,
+      "end_byte": 14368,
+      "labels": [
+        "speech"
+      ],
+      "text": "“What I was going to say,”"
+    },
+    {
+      "start_byte": 14368,
+      "end_byte": 14404,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Dodo in an offended tone, "
+    },
+    {
+      "start_byte": 14404,
+      "end_byte": 14472,
+      "labels": [
+        "speech"
+      ],
+      "text": "“was, that the best thing to get us dry would be a Caucus-race.”"
+    },
+    {
+      "start_byte": 14472,
+      "end_byte": 14474,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 14474,
+      "end_byte": 14502,
+      "labels": [
+        "speech"
+      ],
+      "text": "“What is a Caucus-race?”"
+    },
+    {
+      "start_byte": 14502,
+      "end_byte": 14670,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Alice; not that she wanted much to know, but the Dodo had paused as if it thought that somebody ought to speak, and no one else seemed inclined to say anything.\n\n"
+    },
+    {
+      "start_byte": 14670,
+      "end_byte": 14680,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Why,”"
+    },
+    {
+      "start_byte": 14680,
+      "end_byte": 14696,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Dodo, "
+    },
+    {
+      "start_byte": 14696,
+      "end_byte": 14741,
+      "labels": [
+        "speech"
+      ],
+      "text": "“the best way to explain it is to do it.”"
+    },
+    {
+      "start_byte": 14741,
+      "end_byte": 14910,
+      "labels": [
+        "narration"
+      ],
+      "text": " (And, as you might like to try the thing yourself, some winter day, I will tell you how the Dodo managed it.)\n\nFirst it marked out a race-course, in a sort of circle, ("
+    },
+    {
+      "start_byte": 14910,
+      "end_byte": 14949,
+      "labels": [
+        "speech"
+      ],
+      "text": "“the exact shape doesn’t matter,”"
+    },
+    {
+      "start_byte": 14949,
+      "end_byte": 15042,
+      "labels": [
+        "narration"
+      ],
+      "text": " it said,) and then all the party were placed along the course, here and there. There was no "
+    },
+    {
+      "start_byte": 15042,
+      "end_byte": 15074,
+      "labels": [
+        "other"
+      ],
+      "text": "“One, two, three, and away,”"
+    },
+    {
+      "start_byte": 15074,
+      "end_byte": 15312,
+      "labels": [
+        "narration"
+      ],
+      "text": " but they began running when they liked, and left off when they liked, so that it was not easy to know when the race was over. However, when they had been running half an hour or so, and were quite dry again, the Dodo suddenly called out "
+    },
+    {
+      "start_byte": 15312,
+      "end_byte": 15335,
+      "labels": [
+        "speech"
+      ],
+      "text": "“The race is over!”"
+    },
+    {
+      "start_byte": 15335,
+      "end_byte": 15388,
+      "labels": [
+        "narration"
+      ],
+      "text": " and they all crowded round it, panting, and asking, "
+    },
+    {
+      "start_byte": 15388,
+      "end_byte": 15410,
+      "labels": [
+        "speech"
+      ],
+      "text": "“But who has won?”"
+    },
+    {
+      "start_byte": 15410,
+      "end_byte": 15688,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nThis question the Dodo could not answer without a great deal of thought, and it sat for a long time with one finger pressed upon its forehead (the position in which you usually see Shakespeare, in the pictures of him), while the rest waited in silence. At last the Dodo said, "
+    },
+    {
+      "start_byte": 15688,
+      "end_byte": 15738,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Everybody has won, and all must have prizes.”"
+    },
+    {
+      "start_byte": 15738,
+      "end_byte": 15740,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 15740,
+      "end_byte": 15776,
+      "labels": [
+        "speech"
+      ],
+      "text": "“But who is to give the prizes?”"
+    },
+    {
+      "start_byte": 15776,
+      "end_byte": 15810,
+      "labels": [
+        "narration"
+      ],
+      "text": " quite a chorus of voices asked.\n\n"
+    },
+    {
+      "start_byte": 15810,
+      "end_byte": 15836,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Why, she, of course,”"
+    },
+    {
+      "start_byte": 15836,
+      "end_byte": 15965,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Dodo, pointing to Alice with one finger; and the whole party at once crowded round her, calling out in a confused way, "
+    },
+    {
+      "start_byte": 15965,
+      "end_byte": 15986,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Prizes! Prizes!”"
+    },
+    {
+      "start_byte": 15986,
+      "end_byte": 16220,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nAlice had no idea what to do, and in despair she put her hand in her pocket, and pulled out a box of comfits, (luckily the salt water had not got into it), and handed them round as prizes. There was exactly one a-piece, all round.\n\n"
+    },
+    {
+      "start_byte": 16220,
+      "end_byte": 16270,
+      "labels": [
+        "speech"
+      ],
+      "text": "“But she must have a prize herself, you know,”"
+    },
+    {
+      "start_byte": 16270,
+      "end_byte": 16288,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Mouse.\n\n"
+    },
+    {
+      "start_byte": 16288,
+      "end_byte": 16304,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Of course,”"
+    },
+    {
+      "start_byte": 16304,
+      "end_byte": 16336,
+      "labels": [
+        "narration"
+      ],
+      "text": " the Dodo replied very gravely. "
+    },
+    {
+      "start_byte": 16336,
+      "end_byte": 16380,
+      "labels": [
+        "speech"
+      ],
+      "text": "“What else have you got in your pocket?”"
+    },
+    {
+      "start_byte": 16380,
+      "end_byte": 16412,
+      "labels": [
+        "narration"
+      ],
+      "text": " he went on, turning to Alice.\n\n"
+    },
+    {
+      "start_byte": 16412,
+      "end_byte": 16433,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Only a thimble,”"
+    },
+    {
+      "start_byte": 16433,
+      "end_byte": 16453,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Alice sadly.\n\n"
+    },
+    {
+      "start_byte": 16453,
+      "end_byte": 16477,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Hand it over here,”"
+    },
+    {
+      "start_byte": 16477,
+      "end_byte": 16591,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Dodo.\n\nThen they all crowded round her once more, while the Dodo solemnly presented the thimble, saying "
+    },
+    {
+      "start_byte": 16591,
+      "end_byte": 16644,
+      "labels": [
+        "speech"
+      ],
+      "text": "“We beg your acceptance of this elegant thimble;”"
+    },
+    {
+      "start_byte": 16644,
+      "end_byte": 17251,
+      "labels": [
+        "narration"
+      ],
+      "text": " and, when it had finished this short speech, they all cheered.\n\nAlice thought the whole thing very absurd, but they all looked so grave that she did not dare to laugh; and, as she could not think of anything to say, she simply bowed, and took the thimble, looking as solemn as she could.\n\nThe next thing was to eat the comfits: this caused some noise and confusion, as the large birds complained that they could not taste theirs, and the small ones choked and had to be patted on the back. However, it was over at last, and they sat down again in a ring, and begged the Mouse to tell them something more.\n\n"
+    },
+    {
+      "start_byte": 17251,
+      "end_byte": 17304,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You promised to tell me your history, you know,”"
+    },
+    {
+      "start_byte": 17304,
+      "end_byte": 17317,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Alice, "
+    },
+    {
+      "start_byte": 17317,
+      "end_byte": 17356,
+      "labels": [
+        "speech"
+      ],
+      "text": "“and why it is you hate—C and D,”"
+    },
+    {
+      "start_byte": 17356,
+      "end_byte": 17427,
+      "labels": [
+        "narration"
+      ],
+      "text": " she added in a whisper, half afraid that it would be offended again.\n\n"
+    },
+    {
+      "start_byte": 17427,
+      "end_byte": 17463,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Mine is a long and a sad tale!”"
+    },
+    {
+      "start_byte": 17463,
+      "end_byte": 17512,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the Mouse, turning to Alice, and sighing.\n\n"
+    },
+    {
+      "start_byte": 17512,
+      "end_byte": 17547,
+      "labels": [
+        "speech"
+      ],
+      "text": "“It is a long tail, certainly,”"
+    },
+    {
+      "start_byte": 17547,
+      "end_byte": 17608,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Alice, looking down with wonder at the Mouse’s tail; "
+    },
+    {
+      "start_byte": 17608,
+      "end_byte": 17641,
+      "labels": [
+        "speech"
+      ],
+      "text": "“but why do you call it sad?”"
+    },
+    {
+      "start_byte": 17641,
+      "end_byte": 17773,
+      "labels": [
+        "narration"
+      ],
+      "text": " And she kept on puzzling about it while the Mouse was speaking, so that her idea of the tale was something like this:—\n\n         "
+    },
+    {
+      "start_byte": 17773,
+      "end_byte": 17853,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Fury said to a\n         mouse, That he\n        met in the\n       house,\n     "
+    },
+    {
+      "start_byte": 17853,
+      "end_byte": 18091,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘Let us\n      both go to\n       law: I will\n        prosecute\n         you.—Come,\n           I’ll take no\n           denial; We\n          must have a\n        trial: For\n      really this\n     morning I’ve\n    nothing\n    to do.’"
+    },
+    {
+      "start_byte": 18091,
+      "end_byte": 18138,
+      "labels": [
+        "speech"
+      ],
+      "text": "\n      Said the\n      mouse to the\n       cur, "
+    },
+    {
+      "start_byte": 18138,
+      "end_byte": 18291,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘Such\n        a trial,\n         dear sir,\n            With\n          no jury\n        or judge,\n       would be\n      wasting\n      our\n      breath.’"
+    },
+    {
+      "start_byte": 18291,
+      "end_byte": 18300,
+      "labels": [
+        "speech"
+      ],
+      "text": "\n        "
+    },
+    {
+      "start_byte": 18300,
+      "end_byte": 18355,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘I’ll be\n        judge, I’ll\n         be jury,’"
+    },
+    {
+      "start_byte": 18355,
+      "end_byte": 18421,
+      "labels": [
+        "speech"
+      ],
+      "text": "\n             Said\n         cunning\n          old Fury:\n          "
+    },
+    {
+      "start_byte": 18421,
+      "end_byte": 18571,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘I’ll\n          try the\n            whole\n            cause,\n              and\n           condemn\n           you\n          to\n           death.’"
+    },
+    {
+      "start_byte": 18571,
+      "end_byte": 18574,
+      "labels": [
+        "speech"
+      ],
+      "text": "”"
+    },
+    {
+      "start_byte": 18574,
+      "end_byte": 18575,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    }
+  ]
+}

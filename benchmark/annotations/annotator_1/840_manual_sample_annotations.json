@@ -1,0 +1,1259 @@
+{
+  "name": "840_manual_sample",
+  "source_file": "840_manual_sample.txt",
+  "created": "2026-07-22T15:03:57",
+  "modified": "2026-07-24T10:22:36",
+  "total_bytes": 14459,
+  "spans": [
+    {
+      "start_byte": 561,
+      "end_byte": 903,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Latt the young ozebird aloun, zay I. Makk zuch ado about un, wi'\nhogs'-puddens, and hock-bits, and lambs'-mate, and whaten bradd indade,\nand brewers' ale avore dinner-time, and her not to zit wi' no winder\naupen--draive me mad 'e doo, the ov'ee, zuch a passel of voouls. Do 'un\ngood to starve a bit; and takk zome on's wackedness out ov un.'",
+      "speaker": "Betty Muxworthy",
+      "note": "i'm unsure here."
+    },
+    {
+      "start_byte": 1457,
+      "end_byte": 1497,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Business,\nyoung man, in business time.'",
+      "speaker": "Nicholas Snowe"
+    },
+    {
+      "start_byte": 2491,
+      "end_byte": 2556,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Oh\nfie, Mistress Fry! be good enough to mind your own business.'",
+      "speaker": "Mother"
+    },
+    {
+      "start_byte": 3090,
+      "end_byte": 3130,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Wi' all the plaisure in laife, my zon,'",
+      "speaker": "Farmer Nicholas"
+    },
+    {
+      "start_byte": 3225,
+      "end_byte": 3254,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Now, Farmer Nicholas Snowe,'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 3295,
+      "end_byte": 3373,
+      "labels": [
+        "speech"
+      ],
+      "text": "'you must promise not to be vexed with me, for what I am going to say to\nyou.'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 3375,
+      "end_byte": 3912,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Vaxed wi' thee! Noo, noo, my lad. I 'ave a knowed thee too long for\nthat. And thy veyther were my best friend, afore thee. Never wronged his\nneighbours, never spak an unkind word, never had no maneness in him.\nTuk a vancy to a nice young 'ooman, and never kep her in doubt about it,\nthough there wadn't mooch to zettle on her. Spak his maind laike a man,\nhe did, and right happy he were wi' her. Ah, well a day! Ah, God knoweth\nbest. I never shall zee his laike again. And he were the best judge of a\ndung-heap anywhere in this county.'",
+      "speaker": "Farmer Nicholas"
+    },
+    {
+      "start_byte": 3914,
+      "end_byte": 3935,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Well, Master Snowe,'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 3952,
+      "end_byte": 4061,
+      "labels": [
+        "speech"
+      ],
+      "text": "'it is very handsome of you to\nsay so. And now I am going to be like my father, I am going to speak my\nmind.'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 4063,
+      "end_byte": 4143,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Raight there, lad; raight enough, I reckon. Us has had enough of\npralimbinary.'",
+      "speaker": "Farmer Nicholas"
+    },
+    {
+      "start_byte": 4145,
+      "end_byte": 4220,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Then what I want to say is this--I won't have any one courting my\nmother.'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 4222,
+      "end_byte": 4252,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Coortin' of thy mother, lad?'",
+      "speaker": "Farmer Nicholas"
+    },
+    {
+      "start_byte": 4329,
+      "end_byte": 4368,
+      "labels": [
+        "speech"
+      ],
+      "text": "'why, who ever hath been\ndooin' of it?'",
+      "speaker": "Farmer Nicholas"
+    },
+    {
+      "start_byte": 4370,
+      "end_byte": 4442,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Yes, courting of my mother, sir. And you know best who comes doing it.'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 4444,
+      "end_byte": 4645,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Wull, wull! What will boys be up to next? Zhud a' thought herzelf wor\nthe proper judge. No thank 'ee, lad, no need of thy light. Know the wai\nto my own door, at laste; and have a raight to goo there.'",
+      "speaker": "Farmer Nicholas"
+    },
+    {
+      "start_byte": 5602,
+      "end_byte": 5624,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Service of the King!'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 5635,
+      "end_byte": 5731,
+      "labels": [
+        "speech"
+      ],
+      "text": "'service of our lord the King! Come\nhither, thou great yokel, at risk of fine and imprisonment.'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 5908,
+      "end_byte": 5930,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Plover Barrows farm!'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 5940,
+      "end_byte": 6239,
+      "labels": [
+        "speech"
+      ],
+      "text": "'God only knows how tired I be. Is there\nany where in this cursed county a cursed place called Plover Barrows\nfarm? For last twenty mile at least they told me 'twere only half a mile\nfarther, or only just round corner. Now tell me that, and I fain would\nthwack thee if thou wert not thrice my size.'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 6241,
+      "end_byte": 6247,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Sir,'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 6259,
+      "end_byte": 6484,
+      "labels": [
+        "speech"
+      ],
+      "text": "'you shall not have the trouble. This is Plover's\nBarrows farm, and you are kindly welcome. Sheep's kidneys is for supper,\nand the ale got bright from the tapping. But why do you think ill of us?\nWe like not to be cursed so.'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 6486,
+      "end_byte": 6508,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Nay, I think no ill,'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 6518,
+      "end_byte": 7153,
+      "labels": [
+        "speech"
+      ],
+      "text": "'sheep's kidneys is good, uncommon good,\nif they do them without burning. But I be so galled in the saddle ten\ndays, and never a comely meal of it. And when they hear “King's service”\n cried, they give me the worst of everything. All the way down from\nLondon, I had a rogue of a fellow in front of me, eating the fat of\nthe land before me, and every one bowing down to him. He could go three\nmiles to my one though he never changed his horse. He might have robbed\nme at any minute, if I had been worth the trouble. A red mare he rideth,\nstrong in the loins, and pointed quite small in the head. I shall live\nto see him hanged yet.'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 6685,
+      "end_byte": 6705,
+      "labels": [
+        "speech"
+      ],
+      "text": "“King's service”",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 7826,
+      "end_byte": 7857,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Annie, have down the cut ham,'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 7963,
+      "end_byte": 8128,
+      "labels": [
+        "speech"
+      ],
+      "text": "'and\ncut a few rashers of hung deer's meat. There is a gentleman come to sup,\nAnnie. And fetch the hops out of the tap with a skewer that it may run\nmore sparkling.'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 8130,
+      "end_byte": 8178,
+      "labels": [
+        "speech"
+      ],
+      "text": "'I wish I may go to a place never meant for me,'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 8262,
+      "end_byte": 8650,
+      "labels": [
+        "speech"
+      ],
+      "text": "'if ever I\nfell among such good folk. You are the right sort, and no error therein.\nAll this shall go in your favour greatly, when I make deposition. At\nleast, I mean, if it be as good in the eating as in the hearing. 'Tis\na supper quite fit for Tom Faggus himself, the man who hath stolen\nmy victuals so. And that hung deer's meat, now is it of the red deer\nrunning wild in these parts?'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 8652,
+      "end_byte": 8676,
+      "labels": [
+        "speech"
+      ],
+      "text": "'To be sure it is, sir,'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 8689,
+      "end_byte": 8721,
+      "labels": [
+        "speech"
+      ],
+      "text": "'where should we get any other?'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 8723,
+      "end_byte": 9005,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Right, right, you are right, my son. I have heard that the flavour\nis marvellous. Some of them came and scared me so, in the fog of the\nmorning, that I hungered for them ever since. Ha, ha, I saw their\nhaunches. But the young lady will not forget--art sure she will not\nforget it?'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 9007,
+      "end_byte": 9089,
+      "labels": [
+        "speech"
+      ],
+      "text": "'You may trust her to forget nothing, sir, that may tempt a guest to his\ncomfort.'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 9091,
+      "end_byte": 9586,
+      "labels": [
+        "speech"
+      ],
+      "text": "'In faith, then, I will leave my horse in your hands, and be off for\nit. Half the pleasure of the mouth is in the nose beforehand. But stay,\nalmost I forgot my business, in the hurry which thy tongue hath spread\nthrough my lately despairing belly. Hungry I am, and sore of body, from\nmy heels right upward, and sorest in front of my doublet, yet may I not\nrest nor bite barley-bread, until I have seen and touched John Ridd. God\ngrant that he be not far away; I must eat my saddle, if it be so.'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 9588,
+      "end_byte": 9613,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Have no fear, good sir,'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 9626,
+      "end_byte": 9716,
+      "labels": [
+        "speech"
+      ],
+      "text": "'you have seen and touched John\nRidd. I am he, and not one likely to go beneath a bushel.'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 9718,
+      "end_byte": 9847,
+      "labels": [
+        "speech"
+      ],
+      "text": "'It would take a large bushel to hold thee, John Ridd. In the name of\nthe King, His Majesty, Charles the Second, these presents!'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 10326,
+      "end_byte": 10391,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Read, my son; read, thou great fool, if indeed thou canst read,'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 10426,
+      "end_byte": 10575,
+      "labels": [
+        "speech"
+      ],
+      "text": "'there is nothing to kill thee, boy, and\nmy supper will be spoiling. Stare not at me so, thou fool; thou art big\nenough to eat me; read, read, read.'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 10577,
+      "end_byte": 10617,
+      "labels": [
+        "speech"
+      ],
+      "text": "'If you please, sir, what is your name?'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 10695,
+      "end_byte": 10884,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Jeremy Stickles is my name, lad, nothing more than a poor apparitor of\nthe worshipful Court of King's Bench. And at this moment a starving one,\nand no supper for me unless thou wilt read.'",
+      "speaker": "Jeremy Stickles"
+    },
+    {
+      "start_byte": 11018,
+      "end_byte": 11056,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "'To our good subject, John Ridd, etc.'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 11112,
+      "end_byte": 11624,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "'by these presents, greeting. These are to\nrequire thee, in the name of our lord the King, to appear in person\nbefore the Right Worshipful, the Justices of His Majesty's Bench at\nWestminster, laying aside all thine own business, and there to deliver\nsuch evidence as is within thy cognisance, touching certain matters\nwhereby the peace of our said lord the King, and the well-being of this\nrealm, is, are, or otherwise may be impeached, impugned, imperilled, or\notherwise detrimented. As witness these presents.'"
+    },
+    {
+      "start_byte": 11837,
+      "end_byte": 11888,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "'Charges will be\nborne. The matter is full urgent.'"
+    },
+    {
+      "start_byte": 12125,
+      "end_byte": 12200,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "'Ride, Ride, Ride! On His Gracious Majesty's\nbusiness; spur and spare not.'"
+    },
+    {
+      "start_byte": 12648,
+      "end_byte": 12672,
+      "labels": [
+        "speech"
+      ],
+      "text": "'My son, be not afraid,'",
+      "speaker": "officer"
+    },
+    {
+      "start_byte": 12682,
+      "end_byte": 12897,
+      "labels": [
+        "speech"
+      ],
+      "text": "'we are not going to skin thee. Only\nthou tell all the truth, and it shall be--but never mind, I will tell\nthee all about it, and how to come out harmless, if I find thy victuals\ngood, and no delay in serving them.'",
+      "speaker": "officer"
+    },
+    {
+      "start_byte": 12899,
+      "end_byte": 12938,
+      "labels": [
+        "speech"
+      ],
+      "text": "'We do our best, sir, without bargain,'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 12947,
+      "end_byte": 12972,
+      "labels": [
+        "speech"
+      ],
+      "text": "'to please our\nvisitors.'",
+      "speaker": "I"
+    },
+    {
+      "start_byte": 13244,
+      "end_byte": 13612,
+      "labels": [
+        "speech"
+      ],
+      "text": "'It was\nuseless to tell her; she knew what it was, and so should all the parish\nknow. The King had heard what her son was, how sober, and quiet, and\ndiligent, and the strongest young man in England; and being himself such\na reprobate--God forgive her for saying so--he could never rest till\nhe got poor Johnny, and made him as dissolute as himself. And if he did\nthat'",
+      "speaker": "mother"
+    },
+    {
+      "start_byte": 14286,
+      "end_byte": 14459,
+      "labels": [
+        "speech"
+      ],
+      "text": "'His Majesty shall have my John; His\nMajesty is very good: but only for a fortnight. I want no titles for\nhim. Johnny is enough for me; and Master John for the working men.'",
+      "speaker": "mother"
+    }
+  ],
+  "segments": [
+    {
+      "start_byte": 0,
+      "end_byte": 561,
+      "labels": [
+        "narration"
+      ],
+      "text": "A ROYAL INVITATION\n\nAlthough I had, for the most part, so very stout an appetite, that none\nbut mother saw any need of encouraging me to eat, I could only manage\none true good meal in a day, at the time I speak of. Mother was in\ndespair at this, and tempted me with the whole of the rack, and even\ntalked of sending to Porlock for a druggist who came there twice in\na week; and Annie spent all her time in cooking, and even Lizzie sang\nsongs to me; for she could sing very sweetly. But my conscience told me\nthat Betty Muxworthy had some reason upon her side.\n\n"
+    },
+    {
+      "start_byte": 561,
+      "end_byte": 903,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Latt the young ozebird aloun, zay I. Makk zuch ado about un, wi'\nhogs'-puddens, and hock-bits, and lambs'-mate, and whaten bradd indade,\nand brewers' ale avore dinner-time, and her not to zit wi' no winder\naupen--draive me mad 'e doo, the ov'ee, zuch a passel of voouls. Do 'un\ngood to starve a bit; and takk zome on's wackedness out ov un.'"
+    },
+    {
+      "start_byte": 903,
+      "end_byte": 1457,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nBut mother did not see it so; and she even sent for Nicholas Snowe\nto bring his three daughters with him, and have ale and cake in the\nparlour, and advise about what the bees were doing, and when a swarm\nmight be looked for. Being vexed about this and having to stop at home\nnearly half the evening, I lost good manners so much as to ask him (even\nin our own house!) what he meant by not mending the swing-hurdle where\nthe Lynn stream flows from our land into his, and which he is bound to\nmaintain. But he looked at me in a superior manner, and said, "
+    },
+    {
+      "start_byte": 1457,
+      "end_byte": 1497,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Business,\nyoung man, in business time.'"
+    },
+    {
+      "start_byte": 1497,
+      "end_byte": 2491,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nI had other reason for being vexed with Farmer Nicholas just now, viz.\nthat I had heard a rumour, after church one Sunday--when most of all we\nsorrow over the sins of one another--that Master Nicholas Snowe had\nbeen seen to gaze tenderly at my mother, during a passage of the sermon,\nwherein the parson spoke well and warmly about the duty of Christian\nlove. Now, putting one thing with another, about the bees, and about\nsome ducks, and a bullock with a broken knee-cap, I more than suspected\nthat Farmer Nicholas was casting sheep's eyes at my mother; not only to\nsave all further trouble in the matter of the hurdle, but to override me\naltogether upon the difficult question of damming. And I knew quite well\nthat John Fry's wife never came to help at the washing without declaring\nthat it was a sin for a well-looking woman like mother, with plenty\nto live on, and only three children, to keep all the farmers for miles\naround so unsettled in their minds about her. Mother used to answer "
+    },
+    {
+      "start_byte": 2491,
+      "end_byte": 2556,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Oh\nfie, Mistress Fry! be good enough to mind your own business.'"
+    },
+    {
+      "start_byte": 2556,
+      "end_byte": 3090,
+      "labels": [
+        "narration"
+      ],
+      "text": " But we\nalways saw that she smoothed her apron, and did her hair up afterwards,\nand that Mistress Fry went home at night with a cold pig's foot or a\nbowl of dripping.\n\nTherefore, on that very night, as I could not well speak to mother\nabout it, without seeming undutiful, after lighting the three young\nladies--for so in sooth they called themselves--all the way home with\nour stable-lanthorn, I begged good leave of Farmer Nicholas (who had\nhung some way behind us) to say a word in private to him, before he\nentered his own house.\n\n"
+    },
+    {
+      "start_byte": 3090,
+      "end_byte": 3130,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Wi' all the plaisure in laife, my zon,'"
+    },
+    {
+      "start_byte": 3130,
+      "end_byte": 3225,
+      "labels": [
+        "narration"
+      ],
+      "text": " he answered very graciously,\nthinking perhaps that I was prepared to speak concerning Sally.\n\n"
+    },
+    {
+      "start_byte": 3225,
+      "end_byte": 3254,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Now, Farmer Nicholas Snowe,'"
+    },
+    {
+      "start_byte": 3254,
+      "end_byte": 3295,
+      "labels": [
+        "narration"
+      ],
+      "text": " I said, scarce knowing how to begin it,\n"
+    },
+    {
+      "start_byte": 3295,
+      "end_byte": 3373,
+      "labels": [
+        "speech"
+      ],
+      "text": "'you must promise not to be vexed with me, for what I am going to say to\nyou.'"
+    },
+    {
+      "start_byte": 3373,
+      "end_byte": 3375,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 3375,
+      "end_byte": 3912,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Vaxed wi' thee! Noo, noo, my lad. I 'ave a knowed thee too long for\nthat. And thy veyther were my best friend, afore thee. Never wronged his\nneighbours, never spak an unkind word, never had no maneness in him.\nTuk a vancy to a nice young 'ooman, and never kep her in doubt about it,\nthough there wadn't mooch to zettle on her. Spak his maind laike a man,\nhe did, and right happy he were wi' her. Ah, well a day! Ah, God knoweth\nbest. I never shall zee his laike again. And he were the best judge of a\ndung-heap anywhere in this county.'"
+    },
+    {
+      "start_byte": 3912,
+      "end_byte": 3914,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 3914,
+      "end_byte": 3935,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Well, Master Snowe,'"
+    },
+    {
+      "start_byte": 3935,
+      "end_byte": 3952,
+      "labels": [
+        "narration"
+      ],
+      "text": " I answered him, "
+    },
+    {
+      "start_byte": 3952,
+      "end_byte": 4061,
+      "labels": [
+        "speech"
+      ],
+      "text": "'it is very handsome of you to\nsay so. And now I am going to be like my father, I am going to speak my\nmind.'"
+    },
+    {
+      "start_byte": 4061,
+      "end_byte": 4063,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 4063,
+      "end_byte": 4143,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Raight there, lad; raight enough, I reckon. Us has had enough of\npralimbinary.'"
+    },
+    {
+      "start_byte": 4143,
+      "end_byte": 4145,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 4145,
+      "end_byte": 4220,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Then what I want to say is this--I won't have any one courting my\nmother.'"
+    },
+    {
+      "start_byte": 4220,
+      "end_byte": 4222,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 4222,
+      "end_byte": 4252,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Coortin' of thy mother, lad?'"
+    },
+    {
+      "start_byte": 4252,
+      "end_byte": 4329,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried Farmer Snowe, with as much\namazement as if the thing were impossible; "
+    },
+    {
+      "start_byte": 4329,
+      "end_byte": 4368,
+      "labels": [
+        "speech"
+      ],
+      "text": "'why, who ever hath been\ndooin' of it?'"
+    },
+    {
+      "start_byte": 4368,
+      "end_byte": 4370,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 4370,
+      "end_byte": 4442,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Yes, courting of my mother, sir. And you know best who comes doing it.'"
+    },
+    {
+      "start_byte": 4442,
+      "end_byte": 4444,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 4444,
+      "end_byte": 4645,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Wull, wull! What will boys be up to next? Zhud a' thought herzelf wor\nthe proper judge. No thank 'ee, lad, no need of thy light. Know the wai\nto my own door, at laste; and have a raight to goo there.'"
+    },
+    {
+      "start_byte": 4645,
+      "end_byte": 5602,
+      "labels": [
+        "narration"
+      ],
+      "text": " And he shut\nme out without so much as offering me a drink of cider.\n\nThe next afternoon, when work was over, I had seen to the horses, for\nnow it was foolish to trust John Fry, because he had so many children,\nand his wife had taken to scolding; and just as I was saying to myself\nthat in five days more my month would be done, and myself free to seek\nLorna, a man came riding up from the ford where the road goes through\nthe Lynn stream. As soon as I saw that it was not Tom Faggus, I went no\nfarther to meet him, counting that it must be some traveller bound\nfor Brendon or Cheriton, and likely enough he would come and beg for a\ndraught of milk or cider; and then on again, after asking the way.\n\nBut instead of that, he stopped at our gate, and stood up from his\nsaddle, and halloed as if he were somebody; and all the time he was\nflourishing a white thing in the air, like the bands our parson weareth.\nSo I crossed the court-yard to speak with him.\n\n"
+    },
+    {
+      "start_byte": 5602,
+      "end_byte": 5624,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Service of the King!'"
+    },
+    {
+      "start_byte": 5624,
+      "end_byte": 5635,
+      "labels": [
+        "narration"
+      ],
+      "text": " he saith; "
+    },
+    {
+      "start_byte": 5635,
+      "end_byte": 5731,
+      "labels": [
+        "speech"
+      ],
+      "text": "'service of our lord the King! Come\nhither, thou great yokel, at risk of fine and imprisonment.'"
+    },
+    {
+      "start_byte": 5731,
+      "end_byte": 5908,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nAlthough not pleased with this, I went to him, as became a loyal man;\nquite at my leisure, however, for there is no man born who can hurry me,\nthough I hasten for any woman.\n\n"
+    },
+    {
+      "start_byte": 5908,
+      "end_byte": 5930,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Plover Barrows farm!'"
+    },
+    {
+      "start_byte": 5930,
+      "end_byte": 5940,
+      "labels": [
+        "narration"
+      ],
+      "text": " said he; "
+    },
+    {
+      "start_byte": 5940,
+      "end_byte": 6239,
+      "labels": [
+        "speech"
+      ],
+      "text": "'God only knows how tired I be. Is there\nany where in this cursed county a cursed place called Plover Barrows\nfarm? For last twenty mile at least they told me 'twere only half a mile\nfarther, or only just round corner. Now tell me that, and I fain would\nthwack thee if thou wert not thrice my size.'"
+    },
+    {
+      "start_byte": 6239,
+      "end_byte": 6241,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 6241,
+      "end_byte": 6247,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Sir,'"
+    },
+    {
+      "start_byte": 6247,
+      "end_byte": 6259,
+      "labels": [
+        "narration"
+      ],
+      "text": " I replied, "
+    },
+    {
+      "start_byte": 6259,
+      "end_byte": 6484,
+      "labels": [
+        "speech"
+      ],
+      "text": "'you shall not have the trouble. This is Plover's\nBarrows farm, and you are kindly welcome. Sheep's kidneys is for supper,\nand the ale got bright from the tapping. But why do you think ill of us?\nWe like not to be cursed so.'"
+    },
+    {
+      "start_byte": 6484,
+      "end_byte": 6486,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 6486,
+      "end_byte": 6508,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Nay, I think no ill,'"
+    },
+    {
+      "start_byte": 6508,
+      "end_byte": 6518,
+      "labels": [
+        "narration"
+      ],
+      "text": " he said; "
+    },
+    {
+      "start_byte": 6518,
+      "end_byte": 6685,
+      "labels": [
+        "speech"
+      ],
+      "text": "'sheep's kidneys is good, uncommon good,\nif they do them without burning. But I be so galled in the saddle ten\ndays, and never a comely meal of it. And when they hear "
+    },
+    {
+      "start_byte": 6685,
+      "end_byte": 6705,
+      "labels": [
+        "speech"
+      ],
+      "text": "“King's service”"
+    },
+    {
+      "start_byte": 6705,
+      "end_byte": 7153,
+      "labels": [
+        "speech"
+      ],
+      "text": "\n cried, they give me the worst of everything. All the way down from\nLondon, I had a rogue of a fellow in front of me, eating the fat of\nthe land before me, and every one bowing down to him. He could go three\nmiles to my one though he never changed his horse. He might have robbed\nme at any minute, if I had been worth the trouble. A red mare he rideth,\nstrong in the loins, and pointed quite small in the head. I shall live\nto see him hanged yet.'"
+    },
+    {
+      "start_byte": 7153,
+      "end_byte": 7826,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nAll this time he was riding across the straw of our courtyard, getting\nhis weary legs out of the leathers, and almost afraid to stand yet. A\ncoarse-grained, hard-faced man he was, some forty years of age or so,\nand of middle height and stature. He was dressed in a dark brown riding\nsuit, none the better for Exmoor mud, but fitting him very differently\nfrom the fashion of our tailors. Across the holsters lay his cloak,\nmade of some red skin, and shining from the sweating of the horse. As I\nlooked down on his stiff bright head-piece, small quick eyes and black\nneedly beard, he seemed to despise me (too much, as I thought) for a\nmere ignoramus and country bumpkin.\n\n"
+    },
+    {
+      "start_byte": 7826,
+      "end_byte": 7857,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Annie, have down the cut ham,'"
+    },
+    {
+      "start_byte": 7857,
+      "end_byte": 7963,
+      "labels": [
+        "narration"
+      ],
+      "text": " I shouted, for my sister was come to the\ndoor by chance, or because of the sound of a horse in the road, "
+    },
+    {
+      "start_byte": 7963,
+      "end_byte": 8128,
+      "labels": [
+        "speech"
+      ],
+      "text": "'and\ncut a few rashers of hung deer's meat. There is a gentleman come to sup,\nAnnie. And fetch the hops out of the tap with a skewer that it may run\nmore sparkling.'"
+    },
+    {
+      "start_byte": 8128,
+      "end_byte": 8130,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 8130,
+      "end_byte": 8178,
+      "labels": [
+        "speech"
+      ],
+      "text": "'I wish I may go to a place never meant for me,'"
+    },
+    {
+      "start_byte": 8178,
+      "end_byte": 8262,
+      "labels": [
+        "narration"
+      ],
+      "text": " said my new friend, now\nwiping his mouth with the sleeve of his brown riding coat, "
+    },
+    {
+      "start_byte": 8262,
+      "end_byte": 8650,
+      "labels": [
+        "speech"
+      ],
+      "text": "'if ever I\nfell among such good folk. You are the right sort, and no error therein.\nAll this shall go in your favour greatly, when I make deposition. At\nleast, I mean, if it be as good in the eating as in the hearing. 'Tis\na supper quite fit for Tom Faggus himself, the man who hath stolen\nmy victuals so. And that hung deer's meat, now is it of the red deer\nrunning wild in these parts?'"
+    },
+    {
+      "start_byte": 8650,
+      "end_byte": 8652,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 8652,
+      "end_byte": 8676,
+      "labels": [
+        "speech"
+      ],
+      "text": "'To be sure it is, sir,'"
+    },
+    {
+      "start_byte": 8676,
+      "end_byte": 8689,
+      "labels": [
+        "narration"
+      ],
+      "text": " I answered; "
+    },
+    {
+      "start_byte": 8689,
+      "end_byte": 8721,
+      "labels": [
+        "speech"
+      ],
+      "text": "'where should we get any other?'"
+    },
+    {
+      "start_byte": 8721,
+      "end_byte": 8723,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 8723,
+      "end_byte": 9005,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Right, right, you are right, my son. I have heard that the flavour\nis marvellous. Some of them came and scared me so, in the fog of the\nmorning, that I hungered for them ever since. Ha, ha, I saw their\nhaunches. But the young lady will not forget--art sure she will not\nforget it?'"
+    },
+    {
+      "start_byte": 9005,
+      "end_byte": 9007,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 9007,
+      "end_byte": 9089,
+      "labels": [
+        "speech"
+      ],
+      "text": "'You may trust her to forget nothing, sir, that may tempt a guest to his\ncomfort.'"
+    },
+    {
+      "start_byte": 9089,
+      "end_byte": 9091,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 9091,
+      "end_byte": 9586,
+      "labels": [
+        "speech"
+      ],
+      "text": "'In faith, then, I will leave my horse in your hands, and be off for\nit. Half the pleasure of the mouth is in the nose beforehand. But stay,\nalmost I forgot my business, in the hurry which thy tongue hath spread\nthrough my lately despairing belly. Hungry I am, and sore of body, from\nmy heels right upward, and sorest in front of my doublet, yet may I not\nrest nor bite barley-bread, until I have seen and touched John Ridd. God\ngrant that he be not far away; I must eat my saddle, if it be so.'"
+    },
+    {
+      "start_byte": 9586,
+      "end_byte": 9588,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 9588,
+      "end_byte": 9613,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Have no fear, good sir,'"
+    },
+    {
+      "start_byte": 9613,
+      "end_byte": 9626,
+      "labels": [
+        "narration"
+      ],
+      "text": " I answered; "
+    },
+    {
+      "start_byte": 9626,
+      "end_byte": 9716,
+      "labels": [
+        "speech"
+      ],
+      "text": "'you have seen and touched John\nRidd. I am he, and not one likely to go beneath a bushel.'"
+    },
+    {
+      "start_byte": 9716,
+      "end_byte": 9718,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 9718,
+      "end_byte": 9847,
+      "labels": [
+        "speech"
+      ],
+      "text": "'It would take a large bushel to hold thee, John Ridd. In the name of\nthe King, His Majesty, Charles the Second, these presents!'"
+    },
+    {
+      "start_byte": 9847,
+      "end_byte": 10326,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nHe touched me with the white thing which I had first seen him waving,\nand which I now beheld to be sheepskin, such as they call parchment.\nIt was tied across with cord, and fastened down in every corner\nwith unsightly dabs of wax. By order of the messenger (for I was\nover-frightened now to think of doing anything), I broke enough of seals\nto keep an Easter ghost from rising; and there I saw my name in large;\nGod grant such another shock may never befall me in my old age.\n\n"
+    },
+    {
+      "start_byte": 10326,
+      "end_byte": 10391,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Read, my son; read, thou great fool, if indeed thou canst read,'"
+    },
+    {
+      "start_byte": 10391,
+      "end_byte": 10426,
+      "labels": [
+        "narration"
+      ],
+      "text": " said\nthe officer to encourage me; "
+    },
+    {
+      "start_byte": 10426,
+      "end_byte": 10575,
+      "labels": [
+        "speech"
+      ],
+      "text": "'there is nothing to kill thee, boy, and\nmy supper will be spoiling. Stare not at me so, thou fool; thou art big\nenough to eat me; read, read, read.'"
+    },
+    {
+      "start_byte": 10575,
+      "end_byte": 10577,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 10577,
+      "end_byte": 10617,
+      "labels": [
+        "speech"
+      ],
+      "text": "'If you please, sir, what is your name?'"
+    },
+    {
+      "start_byte": 10617,
+      "end_byte": 10695,
+      "labels": [
+        "narration"
+      ],
+      "text": " I asked; though why I asked him\nI know not, except from fear of witchcraft.\n\n"
+    },
+    {
+      "start_byte": 10695,
+      "end_byte": 10884,
+      "labels": [
+        "speech"
+      ],
+      "text": "'Jeremy Stickles is my name, lad, nothing more than a poor apparitor of\nthe worshipful Court of King's Bench. And at this moment a starving one,\nand no supper for me unless thou wilt read.'"
+    },
+    {
+      "start_byte": 10884,
+      "end_byte": 11018,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nBeing compelled in this way, I read pretty nigh as follows; not that I\ngive the whole of it, but only the gist and the emphasis,--\n\n"
+    },
+    {
+      "start_byte": 11018,
+      "end_byte": 11056,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "'To our good subject, John Ridd, etc.'"
+    },
+    {
+      "start_byte": 11056,
+      "end_byte": 11112,
+      "labels": [
+        "narration"
+      ],
+      "text": "--describing me ever so much\nbetter than I knew myself--"
+    },
+    {
+      "start_byte": 11112,
+      "end_byte": 11624,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "'by these presents, greeting. These are to\nrequire thee, in the name of our lord the King, to appear in person\nbefore the Right Worshipful, the Justices of His Majesty's Bench at\nWestminster, laying aside all thine own business, and there to deliver\nsuch evidence as is within thy cognisance, touching certain matters\nwhereby the peace of our said lord the King, and the well-being of this\nrealm, is, are, or otherwise may be impeached, impugned, imperilled, or\notherwise detrimented. As witness these presents.'"
+    },
+    {
+      "start_byte": 11624,
+      "end_byte": 11837,
+      "labels": [
+        "narration"
+      ],
+      "text": " And then there were\nfour seals, and then a signature I could not make out, only that it\nbegan with a J, and ended with some other writing, done almost in a\ncircle. Underneath was added in a different handwriting "
+    },
+    {
+      "start_byte": 11837,
+      "end_byte": 11888,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "'Charges will be\nborne. The matter is full urgent.'"
+    },
+    {
+      "start_byte": 11888,
+      "end_byte": 12125,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nThe messenger watched me, while I read so much as I could read of it;\nand he seemed well pleased with my surprise, because he had expected it.\nThen, not knowing what else to do, I looked again at the cover, and\non the top of it I saw, "
+    },
+    {
+      "start_byte": 12125,
+      "end_byte": 12200,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "'Ride, Ride, Ride! On His Gracious Majesty's\nbusiness; spur and spare not.'"
+    },
+    {
+      "start_byte": 12200,
+      "end_byte": 12648,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nIt may be supposed by all who know me, that I was taken hereupon with\nsuch a giddiness in my head and noisiness in my ears, that I was forced\nto hold by the crook driven in below the thatch for holding of the\nhay-rakes. There was scarcely any sense left in me, only that the thing\nwas come by power of Mother Melldrum, because I despised her warning,\nand had again sought Lorna. But the officer was grieved for me, and the\ndanger to his supper.\n\n"
+    },
+    {
+      "start_byte": 12648,
+      "end_byte": 12672,
+      "labels": [
+        "speech"
+      ],
+      "text": "'My son, be not afraid,'"
+    },
+    {
+      "start_byte": 12672,
+      "end_byte": 12682,
+      "labels": [
+        "narration"
+      ],
+      "text": " he said; "
+    },
+    {
+      "start_byte": 12682,
+      "end_byte": 12897,
+      "labels": [
+        "speech"
+      ],
+      "text": "'we are not going to skin thee. Only\nthou tell all the truth, and it shall be--but never mind, I will tell\nthee all about it, and how to come out harmless, if I find thy victuals\ngood, and no delay in serving them.'"
+    },
+    {
+      "start_byte": 12897,
+      "end_byte": 12899,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 12899,
+      "end_byte": 12938,
+      "labels": [
+        "speech"
+      ],
+      "text": "'We do our best, sir, without bargain,'"
+    },
+    {
+      "start_byte": 12938,
+      "end_byte": 12947,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I, "
+    },
+    {
+      "start_byte": 12947,
+      "end_byte": 12972,
+      "labels": [
+        "speech"
+      ],
+      "text": "'to please our\nvisitors.'"
+    },
+    {
+      "start_byte": 12972,
+      "end_byte": 13244,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nBut when my mother saw that parchment (for we could not keep it from\nher) she fell away into her favourite bed of stock gilly-flowers, which\nshe had been tending; and when we brought her round again, did nothing\nbut exclaim against the wickedness of the age and people. "
+    },
+    {
+      "start_byte": 13244,
+      "end_byte": 13612,
+      "labels": [
+        "speech"
+      ],
+      "text": "'It was\nuseless to tell her; she knew what it was, and so should all the parish\nknow. The King had heard what her son was, how sober, and quiet, and\ndiligent, and the strongest young man in England; and being himself such\na reprobate--God forgive her for saying so--he could never rest till\nhe got poor Johnny, and made him as dissolute as himself. And if he did\nthat'"
+    },
+    {
+      "start_byte": 13612,
+      "end_byte": 14286,
+      "labels": [
+        "narration"
+      ],
+      "text": "--here mother went off into a fit of crying; and Annie minded her\nface, while Lizzie saw that her gown was in comely order.\n\nBut the character of the King improved, when Master Jeremy Stickles\n(being really moved by the look of it, and no bad man after all) laid it\nclearly before my mother that the King on his throne was unhappy, until\nhe had seen John Ridd. That the fame of John had gone so far, and his\nsize, and all his virtues--that verily by the God who made him, the King\nwas overcome with it.\n\nThen mother lay back in her garden chair, and smiled upon the whole of\nus, and most of all on Jeremy; looking only shyly on me, and speaking\nthrough some break of tears. "
+    },
+    {
+      "start_byte": 14286,
+      "end_byte": 14459,
+      "labels": [
+        "speech"
+      ],
+      "text": "'His Majesty shall have my John; His\nMajesty is very good: but only for a fortnight. I want no titles for\nhim. Johnny is enough for me; and Master John for the working men.'"
+    }
+  ]
+}

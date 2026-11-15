@@ -1,0 +1,1181 @@
+{
+  "name": "514_manual_sample (3)",
+  "source_file": "514_manual_sample (3).txt",
+  "created": "2026-07-09T09:28:54",
+  "modified": "2026-07-24T14:17:56",
+  "total_bytes": 17008,
+  "spans": [
+    {
+      "start_byte": 193,
+      "end_byte": 203,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "‘P.C.’"
+    },
+    {
+      "start_byte": 633,
+      "end_byte": 643,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "‘P.C.’"
+    },
+    {
+      "start_byte": 1639,
+      "end_byte": 6901,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“THE PICKWICK PORTFOLIO”\n\n\nMAY 20, 18—\n\n\nPOET’S CORNER\n\n\nANNIVERSARY ODE\n\n\nAgain we meet to celebrate\n    With badge and solemn rite,\nOur fifty-second anniversary,\n    In Pickwick Hall, tonight.\n\nWe all are here in perfect health,\n    None gone from our small band:\nAgain we see each well-known face,\n    And press each friendly hand.\n\nOur Pickwick, always at his post,\n    With reverence we greet,\nAs, spectacles on nose, he reads\n    Our well-filled weekly sheet.\n\nAlthough he suffers from a cold,\n    We joy to hear him speak,\nFor words of wisdom from him fall,\n    In spite of croak or squeak.\n\nOld six-foot Snodgrass looms on high,\n    With elephantine grace,\nAnd beams upon the company,\n    With brown and jovial face.\n\nPoetic fire lights up his eye,\n    He struggles ’gainst his lot.\nBehold ambition on his brow,\n    And on his nose, a blot.\n\nNext our peaceful Tupman comes,\n    So rosy, plump, and sweet,\nWho chokes with laughter at the puns,\n    And tumbles off his seat.\n\nPrim little Winkle too is here,\n    With every hair in place,\nA model of propriety,\n    Though he hates to wash his face.\n\nThe year is gone, we still unite\n    To joke and laugh and read,\nAnd tread the path of literature\n    That doth to glory lead.\n\nLong may our paper prosper well,\n    Our club unbroken be,\nAnd coming years their blessings pour\n    On the useful, gay ‘P. C.’.\n\n\nA. SNODGRASS\n\n\nTHE MASKED MARRIAGE\n(A Tale Of Venice)\n\n\nGondola after gondola swept up to the marble steps, and left its lovely\nload to swell the brilliant throng that filled the stately halls of\nCount Adelon. Knights and ladies, elves and pages, monks and flower\ngirls, all mingled gaily in the dance. Sweet voices and rich melody\nfilled the air, and so with mirth and music the masquerade went on.\n“Has your Highness seen the Lady Viola tonight?” asked a gallant\ntroubadour of the fairy queen who floated down the hall upon his arm.\n\n“Yes, is she not lovely, though so sad!  Her dress is well chosen, too,\nfor in a week she weds Count Antonio, whom she passionately hates.”\n\n“By my faith, I envy him. Yonder he comes, arrayed like a bridegroom,\nexcept the black mask. When that is off we shall see how he regards the\nfair maid whose heart he cannot win, though her stern father bestows\nher hand,” returned the troubadour.\n\n“Tis whispered that she loves the young English artist who haunts her\nsteps, and is spurned by the old Count,” said the lady, as they joined\nthe dance. The revel was at its height when a priest appeared, and\nwithdrawing the young pair to an alcove, hung with purple velvet, he\nmotioned them to kneel. Instant silence fell on the gay throng, and not\na sound, but the dash of fountains or the rustle of orange groves\nsleeping in the moonlight, broke the hush, as Count de Adelon spoke\nthus:\n\n“My lords and ladies, pardon the ruse by which I have gathered you here\nto witness the marriage of my daughter. Father, we wait your services.”\nAll eyes turned toward the bridal party, and a murmur of amazement went\nthrough the throng, for neither bride nor groom removed their masks.\nCuriosity and wonder possessed all hearts, but respect restrained all\ntongues till the holy rite was over. Then the eager spectators gathered\nround the count, demanding an explanation.\n\n“Gladly would I give it if I could, but I only know that it was the\nwhim of my timid Viola, and I yielded to it.  Now, my children, let the\nplay end. Unmask and receive my blessing.”\n\nBut neither bent the knee, for the young bridegroom replied in a tone\nthat startled all listeners as the mask fell, disclosing the noble face\nof Ferdinand Devereux, the artist lover, and leaning on the breast\nwhere now flashed the star of an English earl was the lovely Viola,\nradiant with joy and beauty.\n\n“My lord, you scornfully bade me claim your daughter when I could boast\nas high a name and vast a fortune as the Count Antonio. I can do more,\nfor even your ambitious soul cannot refuse the Earl of Devereux and De\nVere, when he gives his ancient name and boundless wealth in return for\nthe beloved hand of this fair lady, now my wife.”\n\nThe count stood like one changed to stone, and turning to the\nbewildered crowd, Ferdinand added, with a gay smile of triumph, “To\nyou, my gallant friends, I can only wish that your wooing may prosper\nas mine has done, and that you may all win as fair a bride as I have by\nthis masked marriage.”\n\nS. PICKWICK\n\n\nWhy is the P. C. like the Tower of Babel?\nIt is full of unruly members.\n\n\nTHE HISTORY OF A SQUASH\n\n\nOnce upon a time a farmer planted a little seed in his garden, and\nafter a while it sprouted and became a vine and bore many squashes. One\nday in October, when they were ripe, he picked one and took it to\nmarket. A grocerman bought and put it in his shop. That same morning, a\nlittle girl in a brown hat and blue dress, with a round face and snub\nnose, went and bought it for her mother. She lugged it home, cut it up,\nand boiled it in the big pot, mashed some of it with salt and butter,\nfor dinner. And to the rest she added a pint of milk, two eggs, four\nspoons of sugar, nutmeg, and some crackers, put it in a deep dish, and\nbaked it till it was brown and nice, and next day it was eaten by a\nfamily named March.\n\n\nT. TUPMAN",
+      "note": "newspaper"
+    },
+    {
+      "start_byte": 3002,
+      "end_byte": 3013,
+      "labels": [
+        "embedded_text",
+        "other"
+      ],
+      "text": "‘P. C.’"
+    },
+    {
+      "start_byte": 3417,
+      "end_byte": 3469,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Has your Highness seen the Lady Viola tonight?”",
+      "speaker": "a gallant troubadour"
+    },
+    {
+      "start_byte": 3557,
+      "end_byte": 3700,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Yes, is she not lovely, though so sad!  Her dress is well chosen, too,\nfor in a week she weds Count Antonio, whom she passionately hates.”",
+      "speaker": "fairy queens"
+    },
+    {
+      "start_byte": 3702,
+      "end_byte": 3927,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“By my faith, I envy him. Yonder he comes, arrayed like a bridegroom,\nexcept the black mask. When that is off we shall see how he regards the\nfair maid whose heart he cannot win, though her stern father bestows\nher hand,”",
+      "speaker": "troubadour"
+    },
+    {
+      "start_byte": 3954,
+      "end_byte": 4068,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Tis whispered that she loves the young English artist who haunts her\nsteps, and is spurned by the old Count,”",
+      "speaker": "fairy queen"
+    },
+    {
+      "start_byte": 4448,
+      "end_byte": 4595,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“My lords and ladies, pardon the ruse by which I have gathered you here\nto witness the marriage of my daughter. Father, we wait your services.”",
+      "speaker": "Count de Adelon"
+    },
+    {
+      "start_byte": 4923,
+      "end_byte": 5109,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Gladly would I give it if I could, but I only know that it was the\nwhim of my timid Viola, and I yielded to it.  Now, my children, let the\nplay end. Unmask and receive my blessing.”",
+      "speaker": "count de Adelon"
+    },
+    {
+      "start_byte": 5418,
+      "end_byte": 5757,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“My lord, you scornfully bade me claim your daughter when I could boast\nas high a name and vast a fortune as the Count Antonio. I can do more,\nfor even your ambitious soul cannot refuse the Earl of Devereux and De\nVere, when he gives his ancient name and boundless wealth in return for\nthe beloved hand of this fair lady, now my wife.”"
+    },
+    {
+      "start_byte": 5885,
+      "end_byte": 6057,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“To\nyou, my gallant friends, I can only wish that your wooing may prosper\nas mine has done, and that you may all win as fair a bride as I have by\nthis masked marriage.”",
+      "speaker": "Ferdinand"
+    },
+    {
+      "start_byte": 6904,
+      "end_byte": 7488,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "Mr. Pickwick, _Sir:_—\n    I address you upon the subject of sin the sinner I mean is a man\n    named Winkle who makes trouble in his club by laughing and\n    sometimes won’t write his piece in this fine paper I hope you will\n    pardon his badness and let him send a French fable because he can’t\n    write out of his head as he has so many lessons to do and no brains\n    in future I will try to take time by the fetlock and prepare some\n    work which will be all _commy la fo_ that means all right I am in\n    haste as it is nearly school time.\n\n\nYours respectably,\nN. WINKLE"
+    },
+    {
+      "start_byte": 7625,
+      "end_byte": 11211,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "A SAD ACCIDENT\n\n\nOn Friday last, we were startled by a violent shock in our basement,\nfollowed by cries of distress. On rushing in a body to the cellar, we\ndiscovered our beloved President prostrate upon the floor, having\ntripped and fallen while getting wood for domestic purposes. A perfect\nscene of ruin met our eyes, for in his fall Mr. Pickwick had plunged\nhis head and shoulders into a tub of water, upset a keg of soft soap\nupon his manly form, and torn his garments badly. On being removed from\nthis perilous situation, it was discovered that he had suffered no\ninjury but several bruises, and we are happy to add, is now doing well.\n\n\nED.\n\n\nTHE PUBLIC BEREAVEMENT\n\n\nIt is our painful duty to record the sudden and mysterious\ndisappearance of our cherished friend, Mrs. Snowball Pat Paw. This\nlovely and beloved cat was the pet of a large circle of warm and\nadmiring friends; for her beauty attracted all eyes, her graces and\nvirtues endeared her to all hearts, and her loss is deeply felt by the\nwhole community.\n    When last seen, she was sitting at the gate, watching the butcher’s\n    cart, and it is feared that some villain, tempted by her charms,\n    basely stole her. Weeks have passed, but no trace of her has been\n    discovered, and we relinquish all hope, tie a black ribbon to her\n    basket, set aside her dish, and weep for her as one lost to us\n    forever.\n\n\nA sympathizing friend sends the following gem:\n\nA LAMENT\nFOR S. B. PAT PAW\n\n\nWe mourn the loss of our little pet,\n    And sigh o’er her hapless fate,\nFor never more by the fire she’ll sit,\n    Nor play by the old green gate.\n\nThe little grave where her infant sleeps\n    Is ’neath the chestnut tree.\nBut o’er _her_ grave we may not weep,\n    We know not where it may be.\n\nHer empty bed, her idle ball,\n    Will never see her more;\nNo gentle tap, no loving purr\n    Is heard at the parlor door.\n\nAnother cat comes after her mice,\n    A cat with a dirty face,\nBut she does not hunt as our darling did,\n    Nor play with her airy grace.\n\nHer stealthy paws tread the very hall\n    Where Snowball used to play,\nBut she only spits at the dogs our pet\n    So gallantly drove away.\n\nShe is useful and mild, and does her best,\n    But she is not fair to see,\nAnd we cannot give her your place dear,\n    Nor worship her as we worship thee.\n\n\nA.S.\n\n\nADVERTISEMENTS\n\n\nMISS ORANTHY BLUGGAGE, the accomplished strong-minded lecturer, will\ndeliver her famous lecture on “WOMAN AND HER POSITION” at Pickwick\nHall, next Saturday Evening, after the usual performances.\n\n\nA WEEKLY MEETING will be held at Kitchen Place, to teach young ladies\nhow to cook. Hannah Brown will preside, and all are invited to attend.\n\n\nTHE DUSTPAN SOCIETY will meet on Wednesday next, and parade in the\nupper story of the Club House. All members to appear in uniform and\nshoulder their brooms at nine precisely.\n\n\nMRS. BETH BOUNCER will open her new assortment of Doll’s Millinery next\nweek. The latest Paris fashions have arrived, and orders are\nrespectfully solicited.\n\n\nA NEW PLAY will appear at the Barnville Theatre, in the course of a few\nweeks, which will surpass anything ever seen on the American stage.\n“THE GREEK SLAVE, or Constantine the Avenger,” is the name of this\nthrilling drama!!!\n\n\nHINTS\n\n\nIf S.P. didn’t use so much soap on his hands, he wouldn’t always be\nlate at breakfast. A.S. is requested not to whistle in the street. T.T.\nplease don’t forget Amy’s napkin. N.W. must not fret because his dress\nhas not nine tucks.\n\n\nWEEKLY REPORT\n\n\nMeg—Good.\nJo—Bad.\nBeth—Very Good.\nAmy—Middling.",
+      "note": "newspaper"
+    },
+    {
+      "start_byte": 10075,
+      "end_byte": 10103,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“WOMAN AND HER POSITION”"
+    },
+    {
+      "start_byte": 10799,
+      "end_byte": 10849,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“THE GREEK SLAVE, or Constantine the Avenger,”"
+    },
+    {
+      "start_byte": 11453,
+      "end_byte": 11487,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Mr. President and gentlemen,”",
+      "speaker": "Mr. Snodgrass"
+    },
+    {
+      "start_byte": 11542,
+      "end_byte": 11869,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I wish to propose the admission of a new member—one\nwho highly deserves the honor, would be deeply grateful for it, and\nwould add immensely to the spirit of the club, the literary value of\nthe paper, and be no end jolly and nice. I propose Mr. Theodore\nLaurence as an honorary member of the P. C. Come now, do have him.”",
+      "speaker": "Mr. Snodgrass"
+    },
+    {
+      "start_byte": 12005,
+      "end_byte": 12036,
+      "labels": [
+        "speech"
+      ],
+      "text": "“We’ll put it to a vote,”",
+      "speaker": "mr. president"
+    },
+    {
+      "start_byte": 12057,
+      "end_byte": 12134,
+      "labels": [
+        "speech"
+      ],
+      "text": "“All in favor of this\nmotion please to manifest it by saying, ‘Aye’.”",
+      "speaker": "Mr. President"
+    },
+    {
+      "start_byte": 12121,
+      "end_byte": 12130,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘Aye’"
+    },
+    {
+      "start_byte": 12232,
+      "end_byte": 12268,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Contrary-minded say, ‘No’.”",
+      "speaker": "Mr. President"
+    },
+    {
+      "start_byte": 12256,
+      "end_byte": 12264,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘No’"
+    },
+    {
+      "start_byte": 12352,
+      "end_byte": 12480,
+      "labels": [
+        "speech"
+      ],
+      "text": "“We don’t wish any boys, they only joke and bounce about.\nThis is a ladies’ club, and we wish to be private and proper.”",
+      "speaker": "Mr. Winkle"
+    },
+    {
+      "start_byte": 12482,
+      "end_byte": 12558,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’m afraid he’ll laugh at our paper, and make fun of us afterward,”",
+      "speaker": "Pickwick"
+    },
+    {
+      "start_byte": 12694,
+      "end_byte": 13045,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Sir, I give you my word as a\ngentleman, Laurie won’t do anything of the sort. He likes to write, and\nhe’ll give a tone to our contributions and keep us from being\nsentimental, don’t you see? We can do so little for him, and he does so\nmuch for us, I think the least we can do is to offer him a place here,\nand make him welcome if he comes.”",
+      "speaker": "Snodgrass"
+    },
+    {
+      "start_byte": 13164,
+      "end_byte": 13270,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Yes; we ought to do it, even if we are afraid. I say he may come, and\nhis grandpa, too, if he likes.”",
+      "speaker": "Tupman"
+    },
+    {
+      "start_byte": 13373,
+      "end_byte": 13458,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Now then, vote again. Everybody\nremember it’s our Laurie, and say, ‘Aye!’”",
+      "speaker": "Snodgrass"
+    },
+    {
+      "start_byte": 13445,
+      "end_byte": 13455,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘Aye!’"
+    },
+    {
+      "start_byte": 13487,
+      "end_byte": 13507,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Aye! Aye! Aye!”",
+      "speaker": "three voices"
+    },
+    {
+      "start_byte": 13539,
+      "end_byte": 13701,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Good! Bless you! Now, as there’s nothing like ‘taking time by the\nfetlock’, as Winkle characteristically observes, allow me to present\nthe new member.”",
+      "speaker": "Snodgrass"
+    },
+    {
+      "start_byte": 13590,
+      "end_byte": 13622,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘taking time by the\nfetlock’",
+      "speaker": "Winkle, Snodgrass"
+    },
+    {
+      "start_byte": 13876,
+      "end_byte": 13924,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You rogue! You traitor! Jo, how could you?”",
+      "speaker": "three girls"
+    },
+    {
+      "start_byte": 14063,
+      "end_byte": 14112,
+      "labels": [
+        "speech"
+      ],
+      "text": "“The coolness of you two rascals is amazing,”",
+      "speaker": "Mr. Pickwick"
+    },
+    {
+      "start_byte": 14349,
+      "end_byte": 14488,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Mr. President and ladies—I beg pardon,\ngentlemen—allow me to introduce myself as Sam Weller, the very humble\nservant of the club.”",
+      "speaker": "new member"
+    },
+    {
+      "start_byte": 14490,
+      "end_byte": 14507,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Good! Good!”",
+      "speaker": "Jo"
+    },
+    {
+      "start_byte": 14588,
+      "end_byte": 14630,
+      "labels": [
+        "speech"
+      ],
+      "text": "“My faithful friend and noble patron,”",
+      "speaker": "Laurie"
+    },
+    {
+      "start_byte": 14673,
+      "end_byte": 14829,
+      "labels": [
+        "speech"
+      ],
+      "text": "“who has so flatteringly presented me, is not to be blamed\nfor the base stratagem of tonight. I planned it, and she only gave in\nafter lots of teasing.”",
+      "speaker": "Laurie"
+    },
+    {
+      "start_byte": 14831,
+      "end_byte": 14912,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Come now, don’t lay it all on yourself. You know I proposed the\ncupboard,”",
+      "speaker": "Snodgrass"
+    },
+    {
+      "start_byte": 14971,
+      "end_byte": 15037,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Never mind what she says. I’m the wretch that did it, sir,”",
+      "speaker": "new member"
+    },
+    {
+      "start_byte": 15099,
+      "end_byte": 15215,
+      "labels": [
+        "speech"
+      ],
+      "text": "“But on my honor, I\nnever will do so again, and henceforth devote myself to the interest of\nthis immortal club.”",
+      "speaker": "new member"
+    },
+    {
+      "start_byte": 15217,
+      "end_byte": 15234,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Hear! Hear!”",
+      "speaker": "Jo"
+    },
+    {
+      "start_byte": 15297,
+      "end_byte": 15316,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Go on, go on!”",
+      "speaker": "Winkle and Tupman"
+    },
+    {
+      "start_byte": 15379,
+      "end_byte": 16128,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I merely wish to say, that as a slight token of my gratitude for the\nhonor done me, and as a means of promoting friendly relations between\nadjoining nations, I have set up a post office in the hedge in the\nlower corner of the garden, a fine, spacious building with padlocks on\nthe doors and every convenience for the mails, also the females, if I\nmay be allowed the expression. It’s the old martin house, but I’ve\nstopped up the door and made the roof open, so it will hold all sorts\nof things, and save our valuable time. Letters, manuscripts, books, and\nbundles can be passed in there, and as each nation has a key, it will\nbe uncommonly nice, I fancy. Allow me to present the club key, and with\nmany thanks for your favor, take my seat.”",
+      "speaker": "Mr. Weller"
+    },
+    {
+      "start_byte": 16678,
+      "end_byte": 16690,
+      "labels": [
+        "other"
+      ],
+      "text": "‘spirit’"
+    },
+    {
+      "start_byte": 16712,
+      "end_byte": 16724,
+      "labels": [
+        "other"
+      ],
+      "text": "‘a tone’"
+    }
+  ],
+  "segments": [
+    {
+      "start_byte": 0,
+      "end_byte": 193,
+      "labels": [
+        "narration"
+      ],
+      "text": "Gardening, walks, rows on the river, and flower hunts employed the fine\ndays, and for rainy ones, they had house diversions, some old, some\nnew, all more or less original. One of these was the "
+    },
+    {
+      "start_byte": 193,
+      "end_byte": 203,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "‘P.C.’"
+    },
+    {
+      "start_byte": 203,
+      "end_byte": 633,
+      "labels": [
+        "narration"
+      ],
+      "text": ", for as\nsecret societies were the fashion, it was thought proper to have one,\nand as all of the girls admired Dickens, they called themselves the\nPickwick Club. With a few interruptions, they had kept this up for a\nyear, and met every Saturday evening in the big garret, on which\noccasions the ceremonies were as follows: Three chairs were arranged in\na row before a table on which was a lamp, also four white badges, with\na big "
+    },
+    {
+      "start_byte": 633,
+      "end_byte": 643,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "‘P.C.’"
+    },
+    {
+      "start_byte": 643,
+      "end_byte": 1639,
+      "labels": [
+        "narration"
+      ],
+      "text": " in different colors on each, and the weekly newspaper\ncalled, The Pickwick Portfolio, to which all contributed something,\nwhile Jo, who reveled in pens and ink, was the editor. At seven\no’clock, the four members ascended to the clubroom, tied their badges\nround their heads, and took their seats with great solemnity. Meg, as\nthe eldest, was Samuel Pickwick, Jo, being of a literary turn, Augustus\nSnodgrass, Beth, because she was round and rosy, Tracy Tupman, and Amy,\nwho was always trying to do what she couldn’t, was Nathaniel Winkle.\nPickwick, the president, read the paper, which was filled with original\ntales, poetry, local news, funny advertisements, and hints, in which\nthey good-naturedly reminded each other of their faults and short\ncomings. On one occasion, Mr. Pickwick put on a pair of spectacles\nwithout any glass, rapped upon the table, hemmed, and having stared\nhard at Mr. Snodgrass, who was tilting back in his chair, till he\narranged himself properly, began to read:\n\n\n"
+    },
+    {
+      "start_byte": 1639,
+      "end_byte": 3002,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“THE PICKWICK PORTFOLIO”\n\n\nMAY 20, 18—\n\n\nPOET’S CORNER\n\n\nANNIVERSARY ODE\n\n\nAgain we meet to celebrate\n    With badge and solemn rite,\nOur fifty-second anniversary,\n    In Pickwick Hall, tonight.\n\nWe all are here in perfect health,\n    None gone from our small band:\nAgain we see each well-known face,\n    And press each friendly hand.\n\nOur Pickwick, always at his post,\n    With reverence we greet,\nAs, spectacles on nose, he reads\n    Our well-filled weekly sheet.\n\nAlthough he suffers from a cold,\n    We joy to hear him speak,\nFor words of wisdom from him fall,\n    In spite of croak or squeak.\n\nOld six-foot Snodgrass looms on high,\n    With elephantine grace,\nAnd beams upon the company,\n    With brown and jovial face.\n\nPoetic fire lights up his eye,\n    He struggles ’gainst his lot.\nBehold ambition on his brow,\n    And on his nose, a blot.\n\nNext our peaceful Tupman comes,\n    So rosy, plump, and sweet,\nWho chokes with laughter at the puns,\n    And tumbles off his seat.\n\nPrim little Winkle too is here,\n    With every hair in place,\nA model of propriety,\n    Though he hates to wash his face.\n\nThe year is gone, we still unite\n    To joke and laugh and read,\nAnd tread the path of literature\n    That doth to glory lead.\n\nLong may our paper prosper well,\n    Our club unbroken be,\nAnd coming years their blessings pour\n    On the useful, gay "
+    },
+    {
+      "start_byte": 3002,
+      "end_byte": 3013,
+      "labels": [
+        "embedded_text",
+        "other"
+      ],
+      "text": "‘P. C.’"
+    },
+    {
+      "start_byte": 3013,
+      "end_byte": 3417,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": ".\n\n\nA. SNODGRASS\n\n\nTHE MASKED MARRIAGE\n(A Tale Of Venice)\n\n\nGondola after gondola swept up to the marble steps, and left its lovely\nload to swell the brilliant throng that filled the stately halls of\nCount Adelon. Knights and ladies, elves and pages, monks and flower\ngirls, all mingled gaily in the dance. Sweet voices and rich melody\nfilled the air, and so with mirth and music the masquerade went on.\n"
+    },
+    {
+      "start_byte": 3417,
+      "end_byte": 3469,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Has your Highness seen the Lady Viola tonight?”"
+    },
+    {
+      "start_byte": 3469,
+      "end_byte": 3557,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": " asked a gallant\ntroubadour of the fairy queen who floated down the hall upon his arm.\n\n"
+    },
+    {
+      "start_byte": 3557,
+      "end_byte": 3700,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Yes, is she not lovely, though so sad!  Her dress is well chosen, too,\nfor in a week she weds Count Antonio, whom she passionately hates.”"
+    },
+    {
+      "start_byte": 3700,
+      "end_byte": 3702,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 3702,
+      "end_byte": 3927,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“By my faith, I envy him. Yonder he comes, arrayed like a bridegroom,\nexcept the black mask. When that is off we shall see how he regards the\nfair maid whose heart he cannot win, though her stern father bestows\nher hand,”"
+    },
+    {
+      "start_byte": 3927,
+      "end_byte": 3954,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": " returned the troubadour.\n\n"
+    },
+    {
+      "start_byte": 3954,
+      "end_byte": 4068,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Tis whispered that she loves the young English artist who haunts her\nsteps, and is spurned by the old Count,”"
+    },
+    {
+      "start_byte": 4068,
+      "end_byte": 4448,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": " said the lady, as they joined\nthe dance. The revel was at its height when a priest appeared, and\nwithdrawing the young pair to an alcove, hung with purple velvet, he\nmotioned them to kneel. Instant silence fell on the gay throng, and not\na sound, but the dash of fountains or the rustle of orange groves\nsleeping in the moonlight, broke the hush, as Count de Adelon spoke\nthus:\n\n"
+    },
+    {
+      "start_byte": 4448,
+      "end_byte": 4595,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“My lords and ladies, pardon the ruse by which I have gathered you here\nto witness the marriage of my daughter. Father, we wait your services.”"
+    },
+    {
+      "start_byte": 4595,
+      "end_byte": 4923,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\nAll eyes turned toward the bridal party, and a murmur of amazement went\nthrough the throng, for neither bride nor groom removed their masks.\nCuriosity and wonder possessed all hearts, but respect restrained all\ntongues till the holy rite was over. Then the eager spectators gathered\nround the count, demanding an explanation.\n\n"
+    },
+    {
+      "start_byte": 4923,
+      "end_byte": 5109,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“Gladly would I give it if I could, but I only know that it was the\nwhim of my timid Viola, and I yielded to it.  Now, my children, let the\nplay end. Unmask and receive my blessing.”"
+    },
+    {
+      "start_byte": 5109,
+      "end_byte": 5418,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\n\nBut neither bent the knee, for the young bridegroom replied in a tone\nthat startled all listeners as the mask fell, disclosing the noble face\nof Ferdinand Devereux, the artist lover, and leaning on the breast\nwhere now flashed the star of an English earl was the lovely Viola,\nradiant with joy and beauty.\n\n"
+    },
+    {
+      "start_byte": 5418,
+      "end_byte": 5757,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“My lord, you scornfully bade me claim your daughter when I could boast\nas high a name and vast a fortune as the Count Antonio. I can do more,\nfor even your ambitious soul cannot refuse the Earl of Devereux and De\nVere, when he gives his ancient name and boundless wealth in return for\nthe beloved hand of this fair lady, now my wife.”"
+    },
+    {
+      "start_byte": 5757,
+      "end_byte": 5885,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\n\nThe count stood like one changed to stone, and turning to the\nbewildered crowd, Ferdinand added, with a gay smile of triumph, "
+    },
+    {
+      "start_byte": 5885,
+      "end_byte": 6057,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "“To\nyou, my gallant friends, I can only wish that your wooing may prosper\nas mine has done, and that you may all win as fair a bride as I have by\nthis masked marriage.”"
+    },
+    {
+      "start_byte": 6057,
+      "end_byte": 6901,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\n\nS. PICKWICK\n\n\nWhy is the P. C. like the Tower of Babel?\nIt is full of unruly members.\n\n\nTHE HISTORY OF A SQUASH\n\n\nOnce upon a time a farmer planted a little seed in his garden, and\nafter a while it sprouted and became a vine and bore many squashes. One\nday in October, when they were ripe, he picked one and took it to\nmarket. A grocerman bought and put it in his shop. That same morning, a\nlittle girl in a brown hat and blue dress, with a round face and snub\nnose, went and bought it for her mother. She lugged it home, cut it up,\nand boiled it in the big pot, mashed some of it with salt and butter,\nfor dinner. And to the rest she added a pint of milk, two eggs, four\nspoons of sugar, nutmeg, and some crackers, put it in a deep dish, and\nbaked it till it was brown and nice, and next day it was eaten by a\nfamily named March.\n\n\nT. TUPMAN"
+    },
+    {
+      "start_byte": 6901,
+      "end_byte": 6904,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n\n"
+    },
+    {
+      "start_byte": 6904,
+      "end_byte": 7488,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "Mr. Pickwick, _Sir:_—\n    I address you upon the subject of sin the sinner I mean is a man\n    named Winkle who makes trouble in his club by laughing and\n    sometimes won’t write his piece in this fine paper I hope you will\n    pardon his badness and let him send a French fable because he can’t\n    write out of his head as he has so many lessons to do and no brains\n    in future I will try to take time by the fetlock and prepare some\n    work which will be all _commy la fo_ that means all right I am in\n    haste as it is nearly school time.\n\n\nYours respectably,\nN. WINKLE"
+    },
+    {
+      "start_byte": 7488,
+      "end_byte": 7625,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n\n[The above is a manly and handsome acknowledgment of past misdemeanors.\nIf our young friend studied punctuation, it would be well.]\n\n\n"
+    },
+    {
+      "start_byte": 7625,
+      "end_byte": 10075,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "A SAD ACCIDENT\n\n\nOn Friday last, we were startled by a violent shock in our basement,\nfollowed by cries of distress. On rushing in a body to the cellar, we\ndiscovered our beloved President prostrate upon the floor, having\ntripped and fallen while getting wood for domestic purposes. A perfect\nscene of ruin met our eyes, for in his fall Mr. Pickwick had plunged\nhis head and shoulders into a tub of water, upset a keg of soft soap\nupon his manly form, and torn his garments badly. On being removed from\nthis perilous situation, it was discovered that he had suffered no\ninjury but several bruises, and we are happy to add, is now doing well.\n\n\nED.\n\n\nTHE PUBLIC BEREAVEMENT\n\n\nIt is our painful duty to record the sudden and mysterious\ndisappearance of our cherished friend, Mrs. Snowball Pat Paw. This\nlovely and beloved cat was the pet of a large circle of warm and\nadmiring friends; for her beauty attracted all eyes, her graces and\nvirtues endeared her to all hearts, and her loss is deeply felt by the\nwhole community.\n    When last seen, she was sitting at the gate, watching the butcher’s\n    cart, and it is feared that some villain, tempted by her charms,\n    basely stole her. Weeks have passed, but no trace of her has been\n    discovered, and we relinquish all hope, tie a black ribbon to her\n    basket, set aside her dish, and weep for her as one lost to us\n    forever.\n\n\nA sympathizing friend sends the following gem:\n\nA LAMENT\nFOR S. B. PAT PAW\n\n\nWe mourn the loss of our little pet,\n    And sigh o’er her hapless fate,\nFor never more by the fire she’ll sit,\n    Nor play by the old green gate.\n\nThe little grave where her infant sleeps\n    Is ’neath the chestnut tree.\nBut o’er _her_ grave we may not weep,\n    We know not where it may be.\n\nHer empty bed, her idle ball,\n    Will never see her more;\nNo gentle tap, no loving purr\n    Is heard at the parlor door.\n\nAnother cat comes after her mice,\n    A cat with a dirty face,\nBut she does not hunt as our darling did,\n    Nor play with her airy grace.\n\nHer stealthy paws tread the very hall\n    Where Snowball used to play,\nBut she only spits at the dogs our pet\n    So gallantly drove away.\n\nShe is useful and mild, and does her best,\n    But she is not fair to see,\nAnd we cannot give her your place dear,\n    Nor worship her as we worship thee.\n\n\nA.S.\n\n\nADVERTISEMENTS\n\n\nMISS ORANTHY BLUGGAGE, the accomplished strong-minded lecturer, will\ndeliver her famous lecture on "
+    },
+    {
+      "start_byte": 10075,
+      "end_byte": 10103,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“WOMAN AND HER POSITION”"
+    },
+    {
+      "start_byte": 10103,
+      "end_byte": 10799,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": " at Pickwick\nHall, next Saturday Evening, after the usual performances.\n\n\nA WEEKLY MEETING will be held at Kitchen Place, to teach young ladies\nhow to cook. Hannah Brown will preside, and all are invited to attend.\n\n\nTHE DUSTPAN SOCIETY will meet on Wednesday next, and parade in the\nupper story of the Club House. All members to appear in uniform and\nshoulder their brooms at nine precisely.\n\n\nMRS. BETH BOUNCER will open her new assortment of Doll’s Millinery next\nweek. The latest Paris fashions have arrived, and orders are\nrespectfully solicited.\n\n\nA NEW PLAY will appear at the Barnville Theatre, in the course of a few\nweeks, which will surpass anything ever seen on the American stage.\n"
+    },
+    {
+      "start_byte": 10799,
+      "end_byte": 10849,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "“THE GREEK SLAVE, or Constantine the Avenger,”"
+    },
+    {
+      "start_byte": 10849,
+      "end_byte": 11211,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": " is the name of this\nthrilling drama!!!\n\n\nHINTS\n\n\nIf S.P. didn’t use so much soap on his hands, he wouldn’t always be\nlate at breakfast. A.S. is requested not to whistle in the street. T.T.\nplease don’t forget Amy’s napkin. N.W. must not fret because his dress\nhas not nine tucks.\n\n\nWEEKLY REPORT\n\n\nMeg—Good.\nJo—Bad.\nBeth—Very Good.\nAmy—Middling."
+    },
+    {
+      "start_byte": 11211,
+      "end_byte": 11453,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n\nAs the President finished reading the paper (which I beg leave to\nassure my readers is a bona fide copy of one written by bona fide girls\nonce upon a time), a round of applause followed, and then Mr. Snodgrass\nrose to make a proposition.\n\n"
+    },
+    {
+      "start_byte": 11453,
+      "end_byte": 11487,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Mr. President and gentlemen,”"
+    },
+    {
+      "start_byte": 11487,
+      "end_byte": 11542,
+      "labels": [
+        "narration"
+      ],
+      "text": " he began, assuming a parliamentary\nattitude and tone, "
+    },
+    {
+      "start_byte": 11542,
+      "end_byte": 11869,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I wish to propose the admission of a new member—one\nwho highly deserves the honor, would be deeply grateful for it, and\nwould add immensely to the spirit of the club, the literary value of\nthe paper, and be no end jolly and nice. I propose Mr. Theodore\nLaurence as an honorary member of the P. C. Come now, do have him.”"
+    },
+    {
+      "start_byte": 11869,
+      "end_byte": 12005,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nJo’s sudden change of tone made the girls laugh, but all looked rather\nanxious, and no one said a word as Snodgrass took his seat.\n\n"
+    },
+    {
+      "start_byte": 12005,
+      "end_byte": 12036,
+      "labels": [
+        "speech"
+      ],
+      "text": "“We’ll put it to a vote,”"
+    },
+    {
+      "start_byte": 12036,
+      "end_byte": 12057,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the President. "
+    },
+    {
+      "start_byte": 12057,
+      "end_byte": 12121,
+      "labels": [
+        "speech"
+      ],
+      "text": "“All in favor of this\nmotion please to manifest it by saying, "
+    },
+    {
+      "start_byte": 12121,
+      "end_byte": 12130,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘Aye’"
+    },
+    {
+      "start_byte": 12130,
+      "end_byte": 12134,
+      "labels": [
+        "speech"
+      ],
+      "text": ".”"
+    },
+    {
+      "start_byte": 12134,
+      "end_byte": 12232,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nA loud response from Snodgrass, followed, to everybody’s surprise, by a\ntimid one from Beth.\n\n"
+    },
+    {
+      "start_byte": 12232,
+      "end_byte": 12256,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Contrary-minded say, "
+    },
+    {
+      "start_byte": 12256,
+      "end_byte": 12264,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘No’"
+    },
+    {
+      "start_byte": 12264,
+      "end_byte": 12268,
+      "labels": [
+        "speech"
+      ],
+      "text": ".”"
+    },
+    {
+      "start_byte": 12268,
+      "end_byte": 12352,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nMeg and Amy were contrary-minded, and Mr. Winkle rose to say with great\nelegance, "
+    },
+    {
+      "start_byte": 12352,
+      "end_byte": 12480,
+      "labels": [
+        "speech"
+      ],
+      "text": "“We don’t wish any boys, they only joke and bounce about.\nThis is a ladies’ club, and we wish to be private and proper.”"
+    },
+    {
+      "start_byte": 12480,
+      "end_byte": 12482,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 12482,
+      "end_byte": 12558,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I’m afraid he’ll laugh at our paper, and make fun of us afterward,”"
+    },
+    {
+      "start_byte": 12558,
+      "end_byte": 12694,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nobserved Pickwick, pulling the little curl on her forehead, as she\nalways did when doubtful.\n\nUp rose Snodgrass, very much in earnest. "
+    },
+    {
+      "start_byte": 12694,
+      "end_byte": 13045,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Sir, I give you my word as a\ngentleman, Laurie won’t do anything of the sort. He likes to write, and\nhe’ll give a tone to our contributions and keep us from being\nsentimental, don’t you see? We can do so little for him, and he does so\nmuch for us, I think the least we can do is to offer him a place here,\nand make him welcome if he comes.”"
+    },
+    {
+      "start_byte": 13045,
+      "end_byte": 13164,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nThis artful allusion to benefits conferred brought Tupman to his feet,\nlooking as if he had quite made up his mind.\n\n"
+    },
+    {
+      "start_byte": 13164,
+      "end_byte": 13270,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Yes; we ought to do it, even if we are afraid. I say he may come, and\nhis grandpa, too, if he likes.”"
+    },
+    {
+      "start_byte": 13270,
+      "end_byte": 13373,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nThis spirited burst from Beth electrified the club, and Jo left her\nseat to shake hands approvingly. "
+    },
+    {
+      "start_byte": 13373,
+      "end_byte": 13445,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Now then, vote again. Everybody\nremember it’s our Laurie, and say, "
+    },
+    {
+      "start_byte": 13445,
+      "end_byte": 13455,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "‘Aye!’"
+    },
+    {
+      "start_byte": 13455,
+      "end_byte": 13458,
+      "labels": [
+        "speech"
+      ],
+      "text": "”"
+    },
+    {
+      "start_byte": 13458,
+      "end_byte": 13487,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried Snodgrass excitedly.\n\n"
+    },
+    {
+      "start_byte": 13487,
+      "end_byte": 13507,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Aye! Aye! Aye!”"
+    },
+    {
+      "start_byte": 13507,
+      "end_byte": 13539,
+      "labels": [
+        "narration"
+      ],
+      "text": " replied three voices at once.\n\n"
+    },
+    {
+      "start_byte": 13539,
+      "end_byte": 13590,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Good! Bless you! Now, as there’s nothing like "
+    },
+    {
+      "start_byte": 13590,
+      "end_byte": 13622,
+      "labels": [
+        "speech"
+      ],
+      "text": "‘taking time by the\nfetlock’"
+    },
+    {
+      "start_byte": 13622,
+      "end_byte": 13701,
+      "labels": [
+        "speech"
+      ],
+      "text": ", as Winkle characteristically observes, allow me to present\nthe new member.”"
+    },
+    {
+      "start_byte": 13701,
+      "end_byte": 13876,
+      "labels": [
+        "narration"
+      ],
+      "text": " And, to the dismay of the rest of the club, Jo threw\nopen the door of the closet, and displayed Laurie sitting on a rag bag,\nflushed and twinkling with suppressed laughter.\n\n"
+    },
+    {
+      "start_byte": 13876,
+      "end_byte": 13924,
+      "labels": [
+        "speech"
+      ],
+      "text": "“You rogue! You traitor! Jo, how could you?”"
+    },
+    {
+      "start_byte": 13924,
+      "end_byte": 14063,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried the three girls, as\nSnodgrass led her friend triumphantly forth, and producing both a chair\nand a badge, installed him in a jiffy.\n\n"
+    },
+    {
+      "start_byte": 14063,
+      "end_byte": 14112,
+      "labels": [
+        "speech"
+      ],
+      "text": "“The coolness of you two rascals is amazing,”"
+    },
+    {
+      "start_byte": 14112,
+      "end_byte": 14349,
+      "labels": [
+        "narration"
+      ],
+      "text": " began Mr. Pickwick,\ntrying to get up an awful frown and only succeeding in producing an\namiable smile. But the new member was equal to the occasion, and\nrising, with a grateful salutation to the Chair, said in the most\nengaging manner, "
+    },
+    {
+      "start_byte": 14349,
+      "end_byte": 14488,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Mr. President and ladies—I beg pardon,\ngentlemen—allow me to introduce myself as Sam Weller, the very humble\nservant of the club.”"
+    },
+    {
+      "start_byte": 14488,
+      "end_byte": 14490,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 14490,
+      "end_byte": 14507,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Good! Good!”"
+    },
+    {
+      "start_byte": 14507,
+      "end_byte": 14588,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried Jo, pounding with the handle of the old warming pan\non which she leaned.\n\n"
+    },
+    {
+      "start_byte": 14588,
+      "end_byte": 14630,
+      "labels": [
+        "speech"
+      ],
+      "text": "“My faithful friend and noble patron,”"
+    },
+    {
+      "start_byte": 14630,
+      "end_byte": 14673,
+      "labels": [
+        "narration"
+      ],
+      "text": " continued Laurie with a wave of\nthe hand, "
+    },
+    {
+      "start_byte": 14673,
+      "end_byte": 14829,
+      "labels": [
+        "speech"
+      ],
+      "text": "“who has so flatteringly presented me, is not to be blamed\nfor the base stratagem of tonight. I planned it, and she only gave in\nafter lots of teasing.”"
+    },
+    {
+      "start_byte": 14829,
+      "end_byte": 14831,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 14831,
+      "end_byte": 14912,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Come now, don’t lay it all on yourself. You know I proposed the\ncupboard,”"
+    },
+    {
+      "start_byte": 14912,
+      "end_byte": 14971,
+      "labels": [
+        "narration"
+      ],
+      "text": " broke in Snodgrass, who was enjoying the joke amazingly.\n\n"
+    },
+    {
+      "start_byte": 14971,
+      "end_byte": 15037,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Never mind what she says. I’m the wretch that did it, sir,”"
+    },
+    {
+      "start_byte": 15037,
+      "end_byte": 15099,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the\nnew member, with a Welleresque nod to Mr. Pickwick. "
+    },
+    {
+      "start_byte": 15099,
+      "end_byte": 15215,
+      "labels": [
+        "speech"
+      ],
+      "text": "“But on my honor, I\nnever will do so again, and henceforth devote myself to the interest of\nthis immortal club.”"
+    },
+    {
+      "start_byte": 15215,
+      "end_byte": 15217,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 15217,
+      "end_byte": 15234,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Hear! Hear!”"
+    },
+    {
+      "start_byte": 15234,
+      "end_byte": 15297,
+      "labels": [
+        "narration"
+      ],
+      "text": " cried Jo, clashing the lid of the warming pan like a\ncymbal.\n\n"
+    },
+    {
+      "start_byte": 15297,
+      "end_byte": 15316,
+      "labels": [
+        "speech"
+      ],
+      "text": "“Go on, go on!”"
+    },
+    {
+      "start_byte": 15316,
+      "end_byte": 15379,
+      "labels": [
+        "narration"
+      ],
+      "text": " added Winkle and Tupman, while the President bowed\nbenignly.\n\n"
+    },
+    {
+      "start_byte": 15379,
+      "end_byte": 16128,
+      "labels": [
+        "speech"
+      ],
+      "text": "“I merely wish to say, that as a slight token of my gratitude for the\nhonor done me, and as a means of promoting friendly relations between\nadjoining nations, I have set up a post office in the hedge in the\nlower corner of the garden, a fine, spacious building with padlocks on\nthe doors and every convenience for the mails, also the females, if I\nmay be allowed the expression. It’s the old martin house, but I’ve\nstopped up the door and made the roof open, so it will hold all sorts\nof things, and save our valuable time. Letters, manuscripts, books, and\nbundles can be passed in there, and as each nation has a key, it will\nbe uncommonly nice, I fancy. Allow me to present the club key, and with\nmany thanks for your favor, take my seat.”"
+    },
+    {
+      "start_byte": 16128,
+      "end_byte": 16678,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nGreat applause as Mr. Weller deposited a little key on the table and\nsubsided, the warming pan clashed and waved wildly, and it was some\ntime before order could be restored. A long discussion followed, and\neveryone came out surprising, for everyone did her best. So it was an\nunusually lively meeting, and did not adjourn till a late hour, when it\nbroke up with three shrill cheers for the new member.\n\nNo one ever regretted the admittance of Sam Weller, for a more devoted,\nwell-behaved, and jovial member no club could have. He certainly did\nadd "
+    },
+    {
+      "start_byte": 16678,
+      "end_byte": 16690,
+      "labels": [
+        "other"
+      ],
+      "text": "‘spirit’"
+    },
+    {
+      "start_byte": 16690,
+      "end_byte": 16712,
+      "labels": [
+        "narration"
+      ],
+      "text": " to the meetings, and "
+    },
+    {
+      "start_byte": 16712,
+      "end_byte": 16724,
+      "labels": [
+        "other"
+      ],
+      "text": "‘a tone’"
+    },
+    {
+      "start_byte": 16724,
+      "end_byte": 17008,
+      "labels": [
+        "narration"
+      ],
+      "text": " to the paper, for his\norations convulsed his hearers and his contributions were excellent,\nbeing patriotic, classical, comical, or dramatic, but never\nsentimental. Jo regarded them as worthy of Bacon, Milton, or\nShakespeare, and remodeled her own works with good effect, she thought."
+    }
+  ]
+}

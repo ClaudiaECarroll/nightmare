@@ -1,0 +1,1346 @@
+{
+  "name": "38830_manual_sample",
+  "source_file": "38830_manual_sample.txt",
+  "created": "2026-07-20T08:33:05",
+  "modified": "2026-07-24T09:56:28",
+  "total_bytes": 17652,
+  "spans": [
+    {
+      "start_byte": 180,
+      "end_byte": 215,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Stand back from that door, Harry,\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 2160,
+      "end_byte": 2202,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"The poor soul must be suffering greatly,\"",
+      "speaker": "the nurse"
+    },
+    {
+      "start_byte": 2638,
+      "end_byte": 2691,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Leddy, please, miss, is dis de Linktum horsepittul?\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 2693,
+      "end_byte": 2736,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes, aunty, this is the Lincoln Hospital,\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 2832,
+      "end_byte": 2950,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Thankee! Thankee Jesus! Thankee! Heah at las'! De ole' ship dun foun' er harbur. Got er place ter cross ober Jordun.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 2983,
+      "end_byte": 3074,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Chile, does yer know anyt'ing 'bout Jesus? Oh! he promis' me dis, an' he's kep' his word.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 3250,
+      "end_byte": 3265,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Come with me,\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 3634,
+      "end_byte": 3699,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Leddy, ken you fin' a pair ub specks fitten' fur one ob my age?\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 3701,
+      "end_byte": 3721,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I will try, aunty,\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 3960,
+      "end_byte": 3997,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Leddy, please sing dat chune ergin,\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 4107,
+      "end_byte": 4142,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Laws 'a mussy! Ef it ain't Lenie!\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 4144,
+      "end_byte": 4161,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Aunt Catherine!\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 4550,
+      "end_byte": 4558,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Lenie,\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 4782,
+      "end_byte": 4907,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Dear Aunt Catherine, do tell me all about yourself since the day I left you to wait on—on—Harry. I searched R—— from",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 4916,
+      "end_byte": 5028,
+      "labels": [
+        "speech"
+      ],
+      "text": "one end to the other, time and again, looking for you. And here you are in Chicago! Tell me how you have fared?\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 5030,
+      "end_byte": 5038,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Chile,\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 5060,
+      "end_byte": 5183,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"seein' you, Lenie, hez driv' erway all my trubbuls. 'Pears ter me, I dun got young ergin an' am down Souf at de ole home.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 5360,
+      "end_byte": 6314,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"W'en I retched de city arter leavin' de ole homestid, I 'gun ter hunt fur wuck. I got er place ter cook fur er white fambly. De leddy dat hi'ed me wuzunt rich. She wus jes a good liver. Her husban's bizness fell off an' she had ter hire jes' one 'oman ter cook, an' wash, an' i'ne, an' scrub de floors, an' keep house. I wuz de fus' ter try it, but I kudden' hole out, chile. I jes' kudden'. Er sprightly gal tuck my place. Den I hed er hard time, Lenie. Yer Aunt Catharine hed ter beg frum door ter door. I slep' on bar' floors in shackly houses, dat wuz empty kase folks wouldn't rent 'um. I went to de dumps an' scratched in de trash piles fur charcoals and scraps ter burn ter keep me warm. I begged money ernuf ter cum ter Churcargo, an' heah I is. Dey tole me dat Linktum wuz frum dis State an' I wuz in hopes ub doin' bettah up heah. But, Lenie, 'pears ter me dat de po darky aint got much ub er show enywhurs. I hez found it hard Norf an' Souf.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 6324,
+      "end_byte": 6431,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Well, henceforth, I shall take charge of you, and walk through life by your side, my dear Aunt Catherine,\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 6558,
+      "end_byte": 6590,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Ain't the doctah tole yer yit?\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 6635,
+      "end_byte": 6659,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Told me what, my dear?\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 6679,
+      "end_byte": 6858,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Why, chile, I aint heah fur long. De doctahs sez I kaint git well. De gospil train dun blowed. It is rollin' into de depot. Capting Jesus is de cunducter. I hez my ticket ready.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 6969,
+      "end_byte": 7191,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "\"De Gospil train am comin',\nI heah it jes' at han',\nI heah de car wheels movin',\nEr rumblin' through de lan'\nGit on bo'd, little chillun,\nGit on bo'd, little chillun,\nGit on bo'd, little chillun,\nDare's room fur many mo'.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 7192,
+      "end_byte": 7227,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes, Lenie, I'll soon be on bo'd,\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 7252,
+      "end_byte": 7628,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"De Yankees was mighty anxious to set us poor darkeys free, but it ain't done me no good. Fack ub de mattah, Lenie, freedum mebbe good fur you young uns who wuzunt use ter de ole times. Fur your sakes I is glad its come. But I'se hed a hard time. Enyhow, it is mos' ober now. Marse Maury is ded, an' Missus is ded, an' a upstart is on de ole place, an' hez been driftin' 'bout",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 7636,
+      "end_byte": 7661,
+      "labels": [
+        "speech"
+      ],
+      "text": " frum 'pillar ter pos'.'\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 7642,
+      "end_byte": 7658,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "'pillar ter pos'",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 7757,
+      "end_byte": 7782,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Do yer see dis tin box?\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 7966,
+      "end_byte": 7974,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Lenie,\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 8044,
+      "end_byte": 8120,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"as yer value yer own soul, do wid dis tin box lack I'm gwine ter tell yer.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 8178,
+      "end_byte": 8398,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"W'en yer wuz er gal, Lenie, did yer ebber heah dat our fust juty on jedgment day would be to git up frum whar eber we wuz burrit and hunt fur de diff'runt pieces ub our finger nails dat we hed cut off all through life?\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 8400,
+      "end_byte": 8422,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes, Aunt Catherine,\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 8443,
+      "end_byte": 9006,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Wal, dis box hez got all my finger nails dat I cut off since I wuz er gal. Bury dis box at de foot ub Maury and Missus, Lenie. W'en jedgment day comes I want ter git up wid dem. Ef my nails is burrit by dem, I'll have ter go dare whar dey is. See? Yer know white folks ginilly ain't got heart-felt 'ligun like cullud folks. But Marse and Missus shuah got shuah 'nuf 'ligun. I wants ter git up wid 'um an' stan' by 'um in jedgment, ter speak up fur um, ef eny body wants ter go ergin' um jes' kase dey is white. See? Ef dey doan b'long in hebun, den nobody doan.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 9082,
+      "end_byte": 9104,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"But, Aunt Catherine,\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 9125,
+      "end_byte": 9375,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"when you do pass away, which I hope will not be soon, let me bury your whole body where you tell me to put this tin box. Lemuel Dalton surely would not refuse to allow the fulfillment of the solemn promise made to you by Uncle Maurice and his wife.\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 9377,
+      "end_byte": 9463,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Chile, I hed ter sell dis ole body ter de doctah ter git mony ter lib on while heah.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 9465,
+      "end_byte": 9486,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Oh, Aunt Catherine!\"",
+      "speaker": "Morlene"
+    },
+    {
+      "start_byte": 9539,
+      "end_byte": 9552,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Ha, ha, ha!\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 9577,
+      "end_byte": 9603,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"That aint so bad, Lenie,\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 9614,
+      "end_byte": 9731,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I sole my soul ter Jesus long ergo, an' w'en he takes it, dese doctahs kin do whut dey choose wid my pore ole body.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 9833,
+      "end_byte": 9938,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Bettah be laughin' fur joy, chile, fur er few more risin's an' settin's ub de sun an' I'll be in glory.\"",
+      "speaker": "Aunt Catherine"
+    },
+    {
+      "start_byte": 12161,
+      "end_byte": 12181,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"Warthell Movement.\"",
+      "note": "the newspaper has this written in it"
+    },
+    {
+      "start_byte": 12380,
+      "end_byte": 12569,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Sure sign that I did right to attack that scoundrel Warthell, if it has made this old Democratic paper mad. Ha, ha, ha! Morlene thought I was doing wrong. I wasn't though, anybody can see,",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 12577,
+      "end_byte": 12669,
+      "labels": [
+        "speech"
+      ],
+      "text": " for what would this old Democratic paper be kicking about if what I did wasn't against it?\"",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 12729,
+      "end_byte": 13151,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"We'll hear a different tune when the Northern Republican papers begin to discuss our attempt to get rid of these Negro traitors who are plotting to undo all that the North has done for us. I take my medicine from the North; let the South go where it please. See? Any Negro that will stand up for the South against the North is an infernal, ungrateful, good for nothing rascal, and ought to be killed. Tell him I said so.\"",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 13813,
+      "end_byte": 13862,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Now we shall hear the thing talked about right.\"",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 13888,
+      "end_byte": 13914,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"A Crime Against Freedom.\""
+    },
+    {
+      "start_byte": 14150,
+      "end_byte": 14176,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"A Crime Against Freedom.\""
+    },
+    {
+      "start_byte": 14177,
+      "end_byte": 14258,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes, yes; only it ought to be 'An Unpardonable Crime,' for that is what it was.\"",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 14372,
+      "end_byte": 15356,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"The United States of America is a government ruled by the duly ascertained will of a majority of its citizens. Each qualified citizen has the right of casting one vote in support of whatever side of an issue that pleases him. Each citizen has the further right to use all legitimate means in his power to induce other citizens to cast their votes as he casts his.\n\n\"The right of advocacy is, if possible, more sacred than the right to vote, for the votes of fellow citizens go well nigh the whole length in shaping a man's environments. Since the votes of others are the majority influence in determining a man's environments, it is manifestly unjust to deny him the opportunity of influencing these votes. He who strikes at freedom of speech strikes at the corner-stone of our republic, and, to our view, commits the greatest crime that a citizen can commit against a government.\n\n\"It is well known that we are in full accord with the Republican party's policy with reference to the"
+    },
+    {
+      "start_byte": 15364,
+      "end_byte": 16531,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": " Philippine Islands. While we are firmly of the opinion that the party is right, we nevertheless strenuously insist that those who hold contrary views be accorded the right to advocate those views.\n\n\"Dorlan Warthell, a Negro in the South, has seen fit to publicly disapprove of a portion of the party's policy, whereupon a Negro Republican zealot has sought to take his life. The Republican party repudiates such vile methods and the man who resorts to them.\n\n\"Mr. Warthell has as much right to express his views, whatever they may be, as the President of the nation. The fact that he is a member of a race that obtained its freedom through the instrumentality of the Republican party does not alter the matter in the least. The Republican party has no political slaves and desires none. It seeks to commend itself to the hearts and consciences of men, and spurns every semblance of coercion.\n\n\"The miscreant who sought to kill Mr. Warthell, because that individual dared to be a man, is unworthy of life. If the arms of justice are too short to reach him, it is hardly to be hoped that he will have the good sense to bring his own unprofitable existence to a close.\""
+    },
+    {
+      "start_byte": 16844,
+      "end_byte": 17010,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I can surprise them yet. They say 'It is hardly to be hoped that he will have the good sense to bring his own unprofitable existence to a close.' Aha! we shall see!\"",
+      "speaker": "Harry"
+    },
+    {
+      "start_byte": 16879,
+      "end_byte": 16990,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "'It is hardly to be hoped that he will have the good sense to bring his own unprofitable existence to a close.'",
+      "speaker": "Harry, the newspaper"
+    }
+  ],
+  "segments": [
+    {
+      "start_byte": 0,
+      "end_byte": 180,
+      "labels": [
+        "narration"
+      ],
+      "text": "Morlene started toward the door through which Harry had just come and which led into the hallway. Harry, who had taken a seat not far from the door, arose as if to intercept her.\n\n"
+    },
+    {
+      "start_byte": 180,
+      "end_byte": 215,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Stand back from that door, Harry,\""
+    },
+    {
+      "start_byte": 215,
+      "end_byte": 2160,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Morlene pulling a pistol from her pocket and pointing it at him. Morlene had been careful to see that every chamber of the pistol was empty, so that no actual physical harm would result from the drawing of it.\n\nHarry knew that Morlene, when a country girl, had learned to shoot well, and her angry looks made him feel that her knowledge as to how to[Pg 133] shoot was supplemented with a determination to shoot if he disobeyed her. Lifting his hands as if imploring her not to shoot, Harry recoiled and Morlene glided out of the room, locking the door behind her.\n\nFor some time Harry stood in the floor bewildered by the sudden and most unexpected turn of events. At length he aroused himself and succeeded in breaking out of the room. It was too late, however, to find any trace of Morlene. She had made good her escape.\n\n\n\n[Pg 134]\n\nCHAPTER XIX.\nTHE SCENE SHIFTS.\nAn aged Negro woman trudged along Newton Street in the city of Chicago. The ponderous strokes of Father Time had at last bent her form forward, pushing it toward the dust whence it came. She was aided in her shuffling gait by a crooked and knotted walking stick, which she made use of with her left hand. Her attire betokened extreme poverty and was evidently unequal to the task of shielding her from the chilly winds, which sought with zeal every unprotected spot, and whipped the tears from her eyes. In her right hand she carried a small tin box, her bony fingers clasping it as tightly as they could. A shawl was thrown over her head somewhat concealing her features. Strange to say, a close inspection of the woman's face impressed one that there was cheerfulness, even happiness, written thereon, despite her forlorn condition. As she crept along she scanned the buildings closely, evidently trying to locate some particular house.\n\nA young woman standing in the doorway of the Lincoln Hospital, attired in the garb of a sick nurse, saw the old woman drawing near. "
+    },
+    {
+      "start_byte": 2160,
+      "end_byte": 2202,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"The poor soul must be suffering greatly,\""
+    },
+    {
+      "start_byte": 2202,
+      "end_byte": 2638,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the nurse,[Pg 135] reaching for her pocketbook. She had determined upon emptying its contents into the aged woman's hand as the latter passed by.\n\nInstead of passing, however, the woman stopped a short distance from the nurse. Her frame shivering from cold, her eyes surveyed the entire front of the building in the doorway of which stood the nurse. Seemingly satisfied with the result of her inspection she drew nearer and said: "
+    },
+    {
+      "start_byte": 2638,
+      "end_byte": 2691,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Leddy, please, miss, is dis de Linktum horsepittul?\""
+    },
+    {
+      "start_byte": 2691,
+      "end_byte": 2693,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 2693,
+      "end_byte": 2736,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes, aunty, this is the Lincoln Hospital,\""
+    },
+    {
+      "start_byte": 2736,
+      "end_byte": 2832,
+      "labels": [
+        "narration"
+      ],
+      "text": " the nurse replied.\n\nThe woman dropped her stick and the tin box and clapped her hands, saying, "
+    },
+    {
+      "start_byte": 2832,
+      "end_byte": 2950,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Thankee! Thankee Jesus! Thankee! Heah at las'! De ole' ship dun foun' er harbur. Got er place ter cross ober Jordun.\""
+    },
+    {
+      "start_byte": 2950,
+      "end_byte": 2983,
+      "labels": [
+        "narration"
+      ],
+      "text": " Looking at the nurse, she said, "
+    },
+    {
+      "start_byte": 2983,
+      "end_byte": 3074,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Chile, does yer know anyt'ing 'bout Jesus? Oh! he promis' me dis, an' he's kep' his word.\""
+    },
+    {
+      "start_byte": 3074,
+      "end_byte": 3250,
+      "labels": [
+        "narration"
+      ],
+      "text": " Fumbling in her pocket, she drew out a soiled and crumpled piece of paper. This she handed to the nurse, who found that it entitled the woman to admission into the hospital.\n\n"
+    },
+    {
+      "start_byte": 3250,
+      "end_byte": 3265,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Come with me,\""
+    },
+    {
+      "start_byte": 3265,
+      "end_byte": 3634,
+      "labels": [
+        "narration"
+      ],
+      "text": " said the nurse in kindly tones.\n\nGathering up her stick and tin box, she did as she was bidden. The woman was duly registered and assigned to the ward in which the nurse was an attendant.\n\nOne afternoon, the nurse sat by the bedside of her new patient humming a tune. The woman[Pg 136] almost stopped breathing to listen. Sitting up in her bed, she said to the nurse, "
+    },
+    {
+      "start_byte": 3634,
+      "end_byte": 3699,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Leddy, ken you fin' a pair ub specks fitten' fur one ob my age?\""
+    },
+    {
+      "start_byte": 3699,
+      "end_byte": 3701,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 3701,
+      "end_byte": 3721,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I will try, aunty,\""
+    },
+    {
+      "start_byte": 3721,
+      "end_byte": 3960,
+      "labels": [
+        "narration"
+      ],
+      "text": " replied the nurse.\n\nAfter a diligent search, the nurse succeeded in finding a pair, wondering as she searched what possible use the woman could have for them. The woman adjusted the spectacles to her eyes and bent her gaze on the nurse.\n\n"
+    },
+    {
+      "start_byte": 3960,
+      "end_byte": 3997,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Leddy, please sing dat chune ergin,\""
+    },
+    {
+      "start_byte": 3997,
+      "end_byte": 4107,
+      "labels": [
+        "narration"
+      ],
+      "text": " she said.\n\nThe nurse did as requested. Before she had proceeded far with the singing, the woman burst forth, "
+    },
+    {
+      "start_byte": 4107,
+      "end_byte": 4142,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Laws 'a mussy! Ef it ain't Lenie!\""
+    },
+    {
+      "start_byte": 4142,
+      "end_byte": 4144,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 4144,
+      "end_byte": 4161,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Aunt Catherine!\""
+    },
+    {
+      "start_byte": 4161,
+      "end_byte": 4550,
+      "labels": [
+        "narration"
+      ],
+      "text": " exclaimed the nurse, springing to her feet and throwing her arms around the woman's neck.\n\nAunt Catherine's bedimmed eyesight and impaired hearing had prevented her from discovering before this that her nurse was none other than Morlene. On the other hand, Aunt Catherine's changed appearance was what interfered with Morlene's recognition of her when they first met. When the woman said "
+    },
+    {
+      "start_byte": 4550,
+      "end_byte": 4558,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Lenie,\""
+    },
+    {
+      "start_byte": 4558,
+      "end_byte": 4782,
+      "labels": [
+        "narration"
+      ],
+      "text": " it was all that was needed, for it was an appellation used in addressing Morlene by Aunt Catherine only.\n\nAfter many exchanges of tender greetings, Morlene disentangled herself from Aunt Catherine's loving embrace, saying, "
+    },
+    {
+      "start_byte": 4782,
+      "end_byte": 4907,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Dear Aunt Catherine, do tell me all about yourself since the day I left you to wait on—on—Harry. I searched R—— from"
+    },
+    {
+      "start_byte": 4907,
+      "end_byte": 4916,
+      "labels": [
+        "narration"
+      ],
+      "text": "[Pg 137] "
+    },
+    {
+      "start_byte": 4916,
+      "end_byte": 5028,
+      "labels": [
+        "speech"
+      ],
+      "text": "one end to the other, time and again, looking for you. And here you are in Chicago! Tell me how you have fared?\""
+    },
+    {
+      "start_byte": 5028,
+      "end_byte": 5030,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 5030,
+      "end_byte": 5038,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Chile,\""
+    },
+    {
+      "start_byte": 5038,
+      "end_byte": 5060,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Aunt Catherine, "
+    },
+    {
+      "start_byte": 5060,
+      "end_byte": 5183,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"seein' you, Lenie, hez driv' erway all my trubbuls. 'Pears ter me, I dun got young ergin an' am down Souf at de ole home.\""
+    },
+    {
+      "start_byte": 5183,
+      "end_byte": 5360,
+      "labels": [
+        "narration"
+      ],
+      "text": " After an interval Aunt Catherine proceeded to tell her experiences, not, however, before she had taken the tin box from under her pillow. With that clasped fondly, she began:\n\n"
+    },
+    {
+      "start_byte": 5360,
+      "end_byte": 6314,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"W'en I retched de city arter leavin' de ole homestid, I 'gun ter hunt fur wuck. I got er place ter cook fur er white fambly. De leddy dat hi'ed me wuzunt rich. She wus jes a good liver. Her husban's bizness fell off an' she had ter hire jes' one 'oman ter cook, an' wash, an' i'ne, an' scrub de floors, an' keep house. I wuz de fus' ter try it, but I kudden' hole out, chile. I jes' kudden'. Er sprightly gal tuck my place. Den I hed er hard time, Lenie. Yer Aunt Catharine hed ter beg frum door ter door. I slep' on bar' floors in shackly houses, dat wuz empty kase folks wouldn't rent 'um. I went to de dumps an' scratched in de trash piles fur charcoals and scraps ter burn ter keep me warm. I begged money ernuf ter cum ter Churcargo, an' heah I is. Dey tole me dat Linktum wuz frum dis State an' I wuz in hopes ub doin' bettah up heah. But, Lenie, 'pears ter me dat de po darky aint got much ub er show enywhurs. I hez found it hard Norf an' Souf.\""
+    },
+    {
+      "start_byte": 6314,
+      "end_byte": 6324,
+      "labels": [
+        "narration"
+      ],
+      "text": "[Pg 138]\n\n"
+    },
+    {
+      "start_byte": 6324,
+      "end_byte": 6431,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Well, henceforth, I shall take charge of you, and walk through life by your side, my dear Aunt Catherine,\""
+    },
+    {
+      "start_byte": 6431,
+      "end_byte": 6558,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Morlene, feelingly.\n\nThe woman dropped the tin box, pulled her spectacles down a little and looked over them at Morlene. "
+    },
+    {
+      "start_byte": 6558,
+      "end_byte": 6590,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Ain't the doctah tole yer yit?\""
+    },
+    {
+      "start_byte": 6590,
+      "end_byte": 6635,
+      "labels": [
+        "narration"
+      ],
+      "text": " asked Aunt Catherine, in evident surprise.\n\n"
+    },
+    {
+      "start_byte": 6635,
+      "end_byte": 6659,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Told me what, my dear?\""
+    },
+    {
+      "start_byte": 6659,
+      "end_byte": 6679,
+      "labels": [
+        "narration"
+      ],
+      "text": " enquired Morlene.\n\n"
+    },
+    {
+      "start_byte": 6679,
+      "end_byte": 6858,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Why, chile, I aint heah fur long. De doctahs sez I kaint git well. De gospil train dun blowed. It is rollin' into de depot. Capting Jesus is de cunducter. I hez my ticket ready.\""
+    },
+    {
+      "start_byte": 6858,
+      "end_byte": 6969,
+      "labels": [
+        "narration"
+      ],
+      "text": " Aunt Catherine with her broken voice now tried to sing the following lines, swinging to and fro as she sang:\n\n"
+    },
+    {
+      "start_byte": 6969,
+      "end_byte": 7191,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "\"De Gospil train am comin',\nI heah it jes' at han',\nI heah de car wheels movin',\nEr rumblin' through de lan'\nGit on bo'd, little chillun,\nGit on bo'd, little chillun,\nGit on bo'd, little chillun,\nDare's room fur many mo'.\""
+    },
+    {
+      "start_byte": 7191,
+      "end_byte": 7192,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n"
+    },
+    {
+      "start_byte": 7192,
+      "end_byte": 7227,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes, Lenie, I'll soon be on bo'd,\""
+    },
+    {
+      "start_byte": 7227,
+      "end_byte": 7252,
+      "labels": [
+        "narration"
+      ],
+      "text": " resumed Aunt Catherine. "
+    },
+    {
+      "start_byte": 7252,
+      "end_byte": 7628,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"De Yankees was mighty anxious to set us poor darkeys free, but it ain't done me no good. Fack ub de mattah, Lenie, freedum mebbe good fur you young uns who wuzunt use ter de ole times. Fur your sakes I is glad its come. But I'se hed a hard time. Enyhow, it is mos' ober now. Marse Maury is ded, an' Missus is ded, an' a upstart is on de ole place, an' hez been driftin' 'bout"
+    },
+    {
+      "start_byte": 7628,
+      "end_byte": 7636,
+      "labels": [
+        "narration"
+      ],
+      "text": "[Pg 139]"
+    },
+    {
+      "start_byte": 7636,
+      "end_byte": 7642,
+      "labels": [
+        "speech"
+      ],
+      "text": " frum "
+    },
+    {
+      "start_byte": 7642,
+      "end_byte": 7658,
+      "labels": [
+        "other",
+        "speech"
+      ],
+      "text": "'pillar ter pos'"
+    },
+    {
+      "start_byte": 7658,
+      "end_byte": 7661,
+      "labels": [
+        "speech"
+      ],
+      "text": ".'\""
+    },
+    {
+      "start_byte": 7661,
+      "end_byte": 7757,
+      "labels": [
+        "narration"
+      ],
+      "text": " Aunt Catherine's mind now ran back to the good old past and a joyful light came into her face. "
+    },
+    {
+      "start_byte": 7757,
+      "end_byte": 7782,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Do yer see dis tin box?\""
+    },
+    {
+      "start_byte": 7782,
+      "end_byte": 7966,
+      "labels": [
+        "narration"
+      ],
+      "text": " she asked, breaking her silence.\n\nMorlene nodded affirmatively, not trusting herself to speak, so torn up were her feelings over the account of faithful Aunt Catherine's sufferings.\n\n"
+    },
+    {
+      "start_byte": 7966,
+      "end_byte": 7974,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Lenie,\""
+    },
+    {
+      "start_byte": 7974,
+      "end_byte": 8044,
+      "labels": [
+        "narration"
+      ],
+      "text": " said she, leaning toward Morlene, a most serious look upon her face, "
+    },
+    {
+      "start_byte": 8044,
+      "end_byte": 8120,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"as yer value yer own soul, do wid dis tin box lack I'm gwine ter tell yer.\""
+    },
+    {
+      "start_byte": 8120,
+      "end_byte": 8178,
+      "labels": [
+        "narration"
+      ],
+      "text": " Aunt Catherine was now speaking in low and solemn tones. "
+    },
+    {
+      "start_byte": 8178,
+      "end_byte": 8398,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"W'en yer wuz er gal, Lenie, did yer ebber heah dat our fust juty on jedgment day would be to git up frum whar eber we wuz burrit and hunt fur de diff'runt pieces ub our finger nails dat we hed cut off all through life?\""
+    },
+    {
+      "start_byte": 8398,
+      "end_byte": 8400,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 8400,
+      "end_byte": 8422,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes, Aunt Catherine,\""
+    },
+    {
+      "start_byte": 8422,
+      "end_byte": 8443,
+      "labels": [
+        "narration"
+      ],
+      "text": " responded Morlene.\n\n"
+    },
+    {
+      "start_byte": 8443,
+      "end_byte": 9006,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Wal, dis box hez got all my finger nails dat I cut off since I wuz er gal. Bury dis box at de foot ub Maury and Missus, Lenie. W'en jedgment day comes I want ter git up wid dem. Ef my nails is burrit by dem, I'll have ter go dare whar dey is. See? Yer know white folks ginilly ain't got heart-felt 'ligun like cullud folks. But Marse and Missus shuah got shuah 'nuf 'ligun. I wants ter git up wid 'um an' stan' by 'um in jedgment, ter speak up fur um, ef eny body wants ter go ergin' um jes' kase dey is white. See? Ef dey doan b'long in hebun, den nobody doan.\""
+    },
+    {
+      "start_byte": 9006,
+      "end_byte": 9082,
+      "labels": [
+        "narration"
+      ],
+      "text": " Here Aunt Catherine paused, the talk having nearly exhausted her.[Pg 140]\n\n"
+    },
+    {
+      "start_byte": 9082,
+      "end_byte": 9104,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"But, Aunt Catherine,\""
+    },
+    {
+      "start_byte": 9104,
+      "end_byte": 9125,
+      "labels": [
+        "narration"
+      ],
+      "text": " interposed Morlene, "
+    },
+    {
+      "start_byte": 9125,
+      "end_byte": 9375,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"when you do pass away, which I hope will not be soon, let me bury your whole body where you tell me to put this tin box. Lemuel Dalton surely would not refuse to allow the fulfillment of the solemn promise made to you by Uncle Maurice and his wife.\""
+    },
+    {
+      "start_byte": 9375,
+      "end_byte": 9377,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 9377,
+      "end_byte": 9463,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Chile, I hed ter sell dis ole body ter de doctah ter git mony ter lib on while heah.\""
+    },
+    {
+      "start_byte": 9463,
+      "end_byte": 9465,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\n"
+    },
+    {
+      "start_byte": 9465,
+      "end_byte": 9486,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Oh, Aunt Catherine!\""
+    },
+    {
+      "start_byte": 9486,
+      "end_byte": 9539,
+      "labels": [
+        "narration"
+      ],
+      "text": " exclaimed Morlene, holding up her hands in horror.\n\n"
+    },
+    {
+      "start_byte": 9539,
+      "end_byte": 9552,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Ha, ha, ha!\""
+    },
+    {
+      "start_byte": 9552,
+      "end_byte": 9577,
+      "labels": [
+        "narration"
+      ],
+      "text": " laughed Aunt Catherine. "
+    },
+    {
+      "start_byte": 9577,
+      "end_byte": 9603,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"That aint so bad, Lenie,\""
+    },
+    {
+      "start_byte": 9603,
+      "end_byte": 9614,
+      "labels": [
+        "narration"
+      ],
+      "text": " she said. "
+    },
+    {
+      "start_byte": 9614,
+      "end_byte": 9731,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I sole my soul ter Jesus long ergo, an' w'en he takes it, dese doctahs kin do whut dey choose wid my pore ole body.\""
+    },
+    {
+      "start_byte": 9731,
+      "end_byte": 9833,
+      "labels": [
+        "narration"
+      ],
+      "text": " Morlene now burst into tears.\n\nLovingly Aunt Catherine stroked Morlene's hair with her hand, saying: "
+    },
+    {
+      "start_byte": 9833,
+      "end_byte": 9938,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Bettah be laughin' fur joy, chile, fur er few more risin's an' settin's ub de sun an' I'll be in glory.\""
+    },
+    {
+      "start_byte": 9938,
+      "end_byte": 12161,
+      "labels": [
+        "narration"
+      ],
+      "text": " Unable to longer endure the contemplation of Aunt Catherine's sufferings and approaching end, Morlene arose and fled to her room.\n\nA few days after the conversation herein recorded Aunt Catherine passed peacefully away. The doctors that had purchased the body presented themselves and laid claim thereto. Morlene told them the story of Aunt Catherine's life of faithful service and subsequent sufferings, and begged the boon of taking the body back to Tennessee for burial.[Pg 141] Her request was refused, however, the physicians deciding that they would not allow a matter of sentiment to stand in the way of advancing the interests of science. Taking the tin box, so solemnly committed to her charge, Morlene turned her face toward Tennessee, journeying thither to fulfill the last request of Aunt Catherine.\n\nFor some time Morlene had been pondering a proper course to be pursued toward Harry for the future, and her approaching visit to R——accentuated the matter. More and more she began to regard him as an unbalanced enthusiast, whose errors, in view of his outlook, were not altogether unnatural. Pity, deep pity, stole into her heart for poor Harry, and she decided, as her train was speeding onward, to return to him in the hope of widening his horizon and giving him a clearer view of what was required of an American citizen. If she would be of service to Harry, her train must move at a faster rate than that at which it is now traveling.\n\nCHAPTER XX.\nTHE BYSTANDERS CHEER.\nFrom his quest of Morlene, on the morning of her escape, Harry returned to his home in a sullen mood. Morlene's lack of appreciation of his disinterested patriotism which her course revealed to him, was a blow in itself, apart from his loss of her as a wife. The fact that he had lost his wife and had not slept any during the whole night did not, however, cause him to remain away from his accustomed labor that day. Cooking his own breakfast, he ate his solitary meal and went forth to his daily task. Anxious to learn what view others took of the happening of the previous night, he purchased a copy of a morning paper and read its comments thereon. It was the same paper that had commented so favorably upon what it termed the "
+    },
+    {
+      "start_byte": 12161,
+      "end_byte": 12181,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"Warthell Movement.\""
+    },
+    {
+      "start_byte": 12181,
+      "end_byte": 12380,
+      "labels": [
+        "narration"
+      ],
+      "text": " Harry turned immediately to the editorial columns and read far enough to see that his act was being condemned. Thereupon he tore the paper into shreds, threw it to the ground and trampled upon it.\n\n"
+    },
+    {
+      "start_byte": 12380,
+      "end_byte": 12569,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Sure sign that I did right to attack that scoundrel Warthell, if it has made this old Democratic paper mad. Ha, ha, ha! Morlene thought I was doing wrong. I wasn't though, anybody can see,"
+    },
+    {
+      "start_byte": 12569,
+      "end_byte": 12577,
+      "labels": [
+        "narration"
+      ],
+      "text": "[Pg 143]"
+    },
+    {
+      "start_byte": 12577,
+      "end_byte": 12669,
+      "labels": [
+        "speech"
+      ],
+      "text": " for what would this old Democratic paper be kicking about if what I did wasn't against it?\""
+    },
+    {
+      "start_byte": 12669,
+      "end_byte": 12729,
+      "labels": [
+        "narration"
+      ],
+      "text": " Thus muttered Harry to himself as he went on to his work.\n\n"
+    },
+    {
+      "start_byte": 12729,
+      "end_byte": 13151,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"We'll hear a different tune when the Northern Republican papers begin to discuss our attempt to get rid of these Negro traitors who are plotting to undo all that the North has done for us. I take my medicine from the North; let the South go where it please. See? Any Negro that will stand up for the South against the North is an infernal, ungrateful, good for nothing rascal, and ought to be killed. Tell him I said so.\""
+    },
+    {
+      "start_byte": 13151,
+      "end_byte": 13813,
+      "labels": [
+        "narration"
+      ],
+      "text": " These last words, addressed by Harry to himself, were accompanied with the shaking of a clenched fist at an imaginary foe. The more he pondered his course, the more he praised himself, and the more outrageous Morlene's desertion of him seemed. Eagerly he awaited the coming of the Northern papers that he might regard his vindication as complete.\n\nHarry went about his daily task in a half cheerful, half moody frame of mind, pondering what steps to take with reference to his wife, but arriving at no definite conclusion.\n\nAfter the lapse of a day or so the eagerly-looked-for Northern Republican paper came. Harry smiled with satisfaction, saying to himself: "
+    },
+    {
+      "start_byte": 13813,
+      "end_byte": 13862,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Now we shall hear the thing talked about right.\""
+    },
+    {
+      "start_byte": 13862,
+      "end_byte": 13888,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nThe article was headed, "
+    },
+    {
+      "start_byte": 13888,
+      "end_byte": 13914,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"A Crime Against Freedom.\""
+    },
+    {
+      "start_byte": 13914,
+      "end_byte": 14150,
+      "labels": [
+        "narration"
+      ],
+      "text": " Harry now thought that the article was[Pg 144] going to gibbet Dorlan Warthell for having committed a crime against the freedom of the Negro by refusing to longer affiliate with the party that gave him freedom. He re-read the caption, "
+    },
+    {
+      "start_byte": 14150,
+      "end_byte": 14176,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"A Crime Against Freedom.\""
+    },
+    {
+      "start_byte": 14176,
+      "end_byte": 14177,
+      "labels": [
+        "narration"
+      ],
+      "text": " "
+    },
+    {
+      "start_byte": 14177,
+      "end_byte": 14258,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Yes, yes; only it ought to be 'An Unpardonable Crime,' for that is what it was.\""
+    },
+    {
+      "start_byte": 14258,
+      "end_byte": 14372,
+      "labels": [
+        "narration"
+      ],
+      "text": " Eager to feast on the invectives to be hurled at Dorlan, he stood still on the street corner and began to read:\n\n"
+    },
+    {
+      "start_byte": 14372,
+      "end_byte": 15356,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": "\"The United States of America is a government ruled by the duly ascertained will of a majority of its citizens. Each qualified citizen has the right of casting one vote in support of whatever side of an issue that pleases him. Each citizen has the further right to use all legitimate means in his power to induce other citizens to cast their votes as he casts his.\n\n\"The right of advocacy is, if possible, more sacred than the right to vote, for the votes of fellow citizens go well nigh the whole length in shaping a man's environments. Since the votes of others are the majority influence in determining a man's environments, it is manifestly unjust to deny him the opportunity of influencing these votes. He who strikes at freedom of speech strikes at the corner-stone of our republic, and, to our view, commits the greatest crime that a citizen can commit against a government.\n\n\"It is well known that we are in full accord with the Republican party's policy with reference to the"
+    },
+    {
+      "start_byte": 15356,
+      "end_byte": 15364,
+      "labels": [
+        "narration"
+      ],
+      "text": "[Pg 145]"
+    },
+    {
+      "start_byte": 15364,
+      "end_byte": 16531,
+      "labels": [
+        "embedded_text"
+      ],
+      "text": " Philippine Islands. While we are firmly of the opinion that the party is right, we nevertheless strenuously insist that those who hold contrary views be accorded the right to advocate those views.\n\n\"Dorlan Warthell, a Negro in the South, has seen fit to publicly disapprove of a portion of the party's policy, whereupon a Negro Republican zealot has sought to take his life. The Republican party repudiates such vile methods and the man who resorts to them.\n\n\"Mr. Warthell has as much right to express his views, whatever they may be, as the President of the nation. The fact that he is a member of a race that obtained its freedom through the instrumentality of the Republican party does not alter the matter in the least. The Republican party has no political slaves and desires none. It seeks to commend itself to the hearts and consciences of men, and spurns every semblance of coercion.\n\n\"The miscreant who sought to kill Mr. Warthell, because that individual dared to be a man, is unworthy of life. If the arms of justice are too short to reach him, it is hardly to be hoped that he will have the good sense to bring his own unprofitable existence to a close.\""
+    },
+    {
+      "start_byte": 16531,
+      "end_byte": 16844,
+      "labels": [
+        "narration"
+      ],
+      "text": "\n\nWhen Harry had finished he let the paper fall to the ground. He felt as though the very skies had fallen down upon him. To find the great Republican party lifting its voice in condemnation of his[Pg 146] act was more than he could bear. Stooping down, he picked up the paper and re-read the closing paragraph.\n\n"
+    },
+    {
+      "start_byte": 16844,
+      "end_byte": 16879,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"I can surprise them yet. They say "
+    },
+    {
+      "start_byte": 16879,
+      "end_byte": 16990,
+      "labels": [
+        "embedded_text",
+        "speech"
+      ],
+      "text": "'It is hardly to be hoped that he will have the good sense to bring his own unprofitable existence to a close.'"
+    },
+    {
+      "start_byte": 16990,
+      "end_byte": 17010,
+      "labels": [
+        "speech"
+      ],
+      "text": " Aha! we shall see!\""
+    },
+    {
+      "start_byte": 17010,
+      "end_byte": 17652,
+      "labels": [
+        "narration"
+      ],
+      "text": " said Harry, a grim determination settling over his gloomy soul.\n\nDeserted by Morlene, repudiated by the Republican party, which he had always regarded as the vicegerent of God, Harry decided to have his life come to a close in some way. He began to give earnest thought to the finding of the proper method of departure. In the matter of closing his earthly career, he was hampered by his religious views. He was a firm believer in Heaven and in a literal Hell. In common with many other Negroes, he believed that the Bible contained a specific declaration to the effect that all sins could be forgiven a man except the sin of self-murder.\n\n\n"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "name": "17862_manual_sample",
+  "source_file": "17862_manual_sample.txt",
+  "created": "2026-07-20T08:32:55",
+  "modified": "2026-07-24T09:33:35",
+  "total_bytes": 16433,
+  "spans": [
+    {
+      "start_byte": 39,
+      "end_byte": 47,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Pshaw!\"",
+      "speaker": "Aunt Tabithy"
+    },
+    {
+      "start_byte": 70,
+      "end_byte": 104,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"have you not done with dreaming?\"",
+      "speaker": "Aunt Tabithy"
+    },
+    {
+      "start_byte": 419,
+      "end_byte": 431,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Ah, Isaac,\"",
+      "speaker": "Aunt Tabithy"
+    },
+    {
+      "start_byte": 442,
+      "end_byte": 590,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"all that is exhausted; you have rung so many changes on your hopes and your dreams, that you have nothing left but to make them real—if you can.\"",
+      "speaker": "Aunt Tabithy"
+    },
+    {
+      "start_byte": 2378,
+      "end_byte": 2411,
+      "labels": [
+        "other"
+      ],
+      "text": "\"shuffling off this mortal coil,\""
+    },
+    {
+      "start_byte": 2836,
+      "end_byte": 2867,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"What is this all to be about?\"",
+      "speaker": "Aunt Tabithy"
+    },
+    {
+      "start_byte": 2910,
+      "end_byte": 2955,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"About love, and toil, and duty, and sorrow,\"",
+      "speaker": "Isaac"
+    },
+    {
+      "start_byte": 3075,
+      "end_byte": 3121,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"How many times have you been in love, Isaac?\"",
+      "speaker": "Aunt Tabithy"
+    },
+    {
+      "start_byte": 3159,
+      "end_byte": 3167,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Pshaw!\"",
+      "speaker": "Isaac"
+    },
+    {
+      "start_byte": 3401,
+      "end_byte": 3431,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Isaac, you are a sad fellow!\"",
+      "speaker": "Aunt Tabithy"
+    },
+    {
+      "start_byte": 3542,
+      "end_byte": 3555,
+      "labels": [
+        "other"
+      ],
+      "text": "\"bad fellow.\""
+    },
+    {
+      "start_byte": 5764,
+      "end_byte": 5769,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Ah,\"",
+      "speaker": "Aunt Tabithy"
+    },
+    {
+      "start_byte": 5845,
+      "end_byte": 5957,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"there is, after all, but one youth-time; and if you put down its memories once, you can find no second growth.\"",
+      "speaker": "Aunt Tabithy"
+    }
+  ],
+  "segments": [
+    {
+      "start_byte": 0,
+      "end_byte": 39,
+      "labels": [
+        "narration"
+      ],
+      "text": "INTRODUCTORY.\nI.\nWith my Aunt Tabithy.\n"
+    },
+    {
+      "start_byte": 39,
+      "end_byte": 47,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Pshaw!\""
+    },
+    {
+      "start_byte": 47,
+      "end_byte": 70,
+      "labels": [
+        "narration"
+      ],
+      "text": " said my Aunt Tabithy, "
+    },
+    {
+      "start_byte": 70,
+      "end_byte": 104,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"have you not done with dreaming?\""
+    },
+    {
+      "start_byte": 104,
+      "end_byte": 419,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nMy Aunt Tabithy, though an excellent and most notable person, loves occasionally a quiet bit of satire. And when I told her that I was sharpening my pen for a new story of those dreamy fancies and half-experiences which lie grouped along the journeying hours of my solitary life, she smiled as if in derision.\n----"
+    },
+    {
+      "start_byte": 419,
+      "end_byte": 431,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Ah, Isaac,\""
+    },
+    {
+      "start_byte": 431,
+      "end_byte": 442,
+      "labels": [
+        "narration"
+      ],
+      "text": " said she, "
+    },
+    {
+      "start_byte": 442,
+      "end_byte": 590,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"all that is exhausted; you have rung so many changes on your hopes and your dreams, that you have nothing left but to make them real—if you can.\""
+    },
+    {
+      "start_byte": 590,
+      "end_byte": 2378,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nIt is very idle to get angry with a good-natured old lady. I did better than this,—I made her listen to me.\n----Exhausted, do you say, Aunt Tabithy? Is life then exhausted; is hope gone out; is fancy dead?\nNo, no. Hope and the world are full; and he who drags into book-pages a phase or two of the great life of passion, of endurance, of love, of sorrow, is but wetting a feather in the sea that breaks ceaselessly along the great shore of the years. Every man's heart is a living drama; every death is a drop-scene; every book only a faint foot-light to throw a little flicker on the stage.\nThere is no need of wandering widely to catch incident or adventure; they are everywhere about us; each day is a succession of escapes and joys,—not perhaps clear to the world, but brooding in our thought, and living in our brain. From the very first, Angels and Devils are busy with us, and we are struggling against them and for them.\nNo, no, Aunt Tabithy; this life of musing does not exhaust so easily. It is like the springs on the farmland, that are fed with all the showers and the dews of the year, and that from the narrow fissures of the rock send up streams continually; or it is like the deep well in the meadow, where one may see stars at noon when no stars are shining.\nWhat is Reverie, and what are these Day-dreams, but fleecy cloud-drifts that float eternally, and eternally change shapes, upon the great over-arching sky of thought? You may seize the strong outlines that the passion-breezes of to-day shall throw into their figures; but to-morrow may breed a whirlwind that will chase swift, gigantic shadows over the heaven of your thought, and change the whole landscape of your life.\nDream-land will never be exhausted, until we enter the land of dreams, and until, in "
+    },
+    {
+      "start_byte": 2378,
+      "end_byte": 2411,
+      "labels": [
+        "other"
+      ],
+      "text": "\"shuffling off this mortal coil,\""
+    },
+    {
+      "start_byte": 2411,
+      "end_byte": 2836,
+      "labels": [
+        "narration"
+      ],
+      "text": " thought will become fact, and all facts will be only thought.\nAs it is, I can conceive no mood of mind more in keeping with what is to follow upon the grave, than those fancies which warp our frail hulks toward the ocean of the Infinite, and that so sublimate the realities of this being, that they seem to belong to that shadowy realm whither every day's journey is leading.\n—It was warm weather, and my aunt was dozing. "
+    },
+    {
+      "start_byte": 2836,
+      "end_byte": 2867,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"What is this all to be about?\""
+    },
+    {
+      "start_byte": 2867,
+      "end_byte": 2910,
+      "labels": [
+        "narration"
+      ],
+      "text": " said she, recovering her knitting-needle.\n"
+    },
+    {
+      "start_byte": 2910,
+      "end_byte": 2955,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"About love, and toil, and duty, and sorrow,\""
+    },
+    {
+      "start_byte": 2955,
+      "end_byte": 3075,
+      "labels": [
+        "narration"
+      ],
+      "text": " said I.\nMy aunt laid down her knitting, looked at me over the rim of her spectacles, and—took snuff.\nI said nothing.\n"
+    },
+    {
+      "start_byte": 3075,
+      "end_byte": 3121,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"How many times have you been in love, Isaac?\""
+    },
+    {
+      "start_byte": 3121,
+      "end_byte": 3159,
+      "labels": [
+        "narration"
+      ],
+      "text": " said she.\nIt was now my turn to say, "
+    },
+    {
+      "start_byte": 3159,
+      "end_byte": 3167,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Pshaw!\""
+    },
+    {
+      "start_byte": 3167,
+      "end_byte": 3401,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nJudging from her look of assurance, I could not possibly have made a more satisfactory reply.\nMy aunt finished the needle she was upon, smoothed the stocking-leg over her knee, and looking at me with a very comical expression, said, "
+    },
+    {
+      "start_byte": 3401,
+      "end_byte": 3431,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Isaac, you are a sad fellow!\""
+    },
+    {
+      "start_byte": 3431,
+      "end_byte": 3542,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nI did not like the tone of this; it sounded very much as if it would have been in the mouth of any one else—"
+    },
+    {
+      "start_byte": 3542,
+      "end_byte": 3555,
+      "labels": [
+        "other"
+      ],
+      "text": "\"bad fellow.\""
+    },
+    {
+      "start_byte": 3555,
+      "end_byte": 5764,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nAnd she went on to ask me, in a very bantering way, if my stock of youthful loves was not nearly exhausted; and she cited the episode of the fair-haired Enrica, as perhaps the most tempting that I could draw from my experience.\nA better man than myself, if he had only a fair share of vanity, would have been nettled at this; and I replied somewhat tartly, that I had never professed to write my experiences. These might be more or less tempting; but certainly if they were of a kind which I have attempted to portray in the characters of Bella, or of Carry, neither my Aunt Tabithy nor any one else should have learned such truth from any book of mine. There are griefs too sacred to be babbled to the world; and there may be loves which one would forbear to whisper even to a friend.\nNo, no; imagination has been playing pranks with memory; and if I have made the feeling real, I am content that the facts should be false. Feeling, indeed, has a higher truth in it than circumstance. It appeals to a larger jury for acquittal; it is approved or condemned by a better judge. And if I can catch this bolder and richer truth of feeling, I will not mind if the types of it are all fabrications.\nIf I run over some sweet experience of love, (my Aunt Tabithy brightened a little,) must I make good the fact that the loved one lives, and expose her name and qualities to make your sympathy sound? Or shall I not rather be working upon higher and holier ground, if I take the passion for itself, and so weave it into words, that you and every willing sufferer may recognize the fervor, and forget the personality?\nLife, after all, is but a bundle of hints, each suggesting actual and positive development, but rarely reaching it. And as I recall these hints, and in fancy trace them to their issues, I am as truly dealing with life as if my life had dealt them all to me.\nThis is what I would be doing in the present book. I would catch up here and there the shreds of feeling which the brambles and roughnesses of the world have left tangling on my heart, and weave them out into those soft and perfect tissues which, if the world had been only a little less rough, might now perhaps enclose my heart altogether.\n"
+    },
+    {
+      "start_byte": 5764,
+      "end_byte": 5769,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"Ah,\""
+    },
+    {
+      "start_byte": 5769,
+      "end_byte": 5845,
+      "labels": [
+        "narration"
+      ],
+      "text": " said my Aunt Tabithy, as she smoothed the stocking-leg again, with a sigh, "
+    },
+    {
+      "start_byte": 5845,
+      "end_byte": 5957,
+      "labels": [
+        "speech"
+      ],
+      "text": "\"there is, after all, but one youth-time; and if you put down its memories once, you can find no second growth.\""
+    },
+    {
+      "start_byte": 5957,
+      "end_byte": 16433,
+      "labels": [
+        "narration"
+      ],
+      "text": "\nMy Aunt Tabithy was wrong. There is as much growth in the thoughts and feelings that run behind us as in those that run before us. You may make a rich, full picture of your childhood to-day; but let the hour go by, and the darkness stoop to your pillow with its million shapes of the past, and my word for it, you shall have some flash of childhood lighten upon you, that was unknown to your busiest thought of the morning.\nLet a week go by, and in some interval of care, as you recall the smile of a mother, or some pale sister who is dead, a new crowd of memories will rush upon your soul, and leave their traces in such tears as will make you kinder and better for days and weeks. Or you shall assist at some neighbor funeral, where the little dead one (like one you have seen before) shall hold in its tiny grasp (as you have taught little dead hands to do) fresh flowers, laughing flowers, lying lightly on the white robe of the dear child,—all pale, cold, silent—\nI had touched my Aunt Tabithy: she had dropped a stitch in her knitting. I believe she was weeping.\n—Aye, this brain of ours is a master-worker, whose appliances we do not one half know; and this heart of ours is a rare storehouse, furnishing the brain with new material every hour of our lives; and their limits we shall not know, until they shall end—together.\nNor is there, as many faint-hearts imagine, but one phase of earnestness in our life of feeling. One train of deep emotion cannot fill up the heart: it radiates like a star, God-ward and earth-ward. It spends and reflects all ways. Its force is to be reckoned not so much by token as by capacity. Facts are the poorest and most slumberous evidences of passion or of affection. True feeling is ranging everywhere; whereas your actual attachments are too apt to be tied to sense.\nA single affection may indeed be true, earnest, and absorbing; but such an one, after all, is but a type—and if the object be worthy, a glorious type—of the great book of feeling: it is only the vapor from the caldron of the heart, and bears no deeper relation to its exhaustless sources than the letter, which my pen makes, bears to the thought that inspires it,—or than a single morning strain of your orioles and thrushes bears to that wide bird-chorus which is making every sunrise a worship, and every grove a temple!\nMy Aunt Tabithy nodded.\nNor is this a mere bachelor fling against constancy. I can believe, Heaven knows, in an unalterable and unflinching affection, which neither desires nor admits the prospect of any other. But when one is tasking his brain to talk for his heart,—when he is not writing positive history, but only making mention, as it were, of the heart's capacities,—who shall say that he has reached the fulness, that he has exhausted the stock of its feeling, or that he has touched its highest notes? It is true, there is but one heart in a man to be stirred; but every stir creates a new combination of feeling, that like the turn of a kaleidoscope will show some fresh color or form.\nA bachelor, to be sure, has a marvellous advantage in this; and with the tenderest influences once anchored in the bay of marriage, there is little disposition to scud off under each pleasant breeze of feeling. Nay, I can even imagine—perhaps somewhat captiously—that after marriage, feeling would become a habit, a rich and holy habit certainly, but yet a habit, which weakens the omnivorous grasp of the affections, and schools one to a unity of emotion that doubts and ignores the promptness and variety of impulse which we bachelors possess.\nMy aunt nodded again.\nCould it be that she approved what I had been saying? I hardly knew.\nPoor old lady,—she did not know herself. She was asleep!\nII.\nWith my Reader.\nHaving silenced my Aunt Tabithy, I shall be generous enough, in my triumph, to offer an explanatory chat to my reader.\nThis is a history of Dreams; and there will be those who will sneer at such a history, as the work of a dreamer. So indeed it is; and you, my courteous reader, are a dreamer too!\nYou would perhaps like to find your speculations about wealth, marriage, or influence called by some better name than Dreams. You would like to see the history of them—if written at all—baptized at the font of your own vanity, with some such title as—life's cares, or life's work. If there had been a philosophic naming to my observations, you might have reckoned them good; as it is, you count them all bald and palpable fiction.\nBut is it so? I care not how matter-of-fact you may be, you have in your own life at some time proved the very truth of what I have set down; and the chances are, that even now, gray as you may be, and economic as you may be, and devotional as you pretend to be, you light up your Sabbath reflections with just such dreams of wealth, of per centages, or of family, as you will find scattered over these pages.\nI am not to be put aside with any talk about stocks, and duties, and respectability: all these, though very eminent matters, are but so many types in the volume of your thought; and your eager resolves about them are but so many ambitious waves breaking up from that great sea of dreamy speculation that has spread over your soul from its first start into the realm of Consciousness.\n\nNo man's brain is so dull, and no man's eye so blind, that they cannot catch food for dreams. Each little episode of life is full, had we but the perception of its fulness. There is no such thing as blank in the world of thought. Every action and emotion have their development growing and gaining on the soul. Every affection has its tears and smiles. Nay, the very material world is full of meaning, and by suggesting thought is making us what we are and what we will be.\n\nThe sparrow that is twittering on the edge of my balcony is calling up to me this moment a world of memories that reach over half my lifetime, and a world of hope that stretches farther than any flight of sparrows. The rose-tree which shades his mottled coat is full of buds and blossoms; and each bud and blossom is a token of promise that has issues covering life, and reaching beyond death. The quiet sunshine beyond the flower and beyond the sparrow,—glistening upon the leaves, and playing in delicious waves of warmth over the reeking earth,—is lighting both heart and hope, and quickening into activity a thousand thoughts of what has been and of what will be. The meadow stretching away under its golden flood,—waving with grain, and with the feathery blossoms of the grass, and golden buttercups, and white, nodding daisies,—comes to my eye like the lapse of fading childhood, studded here and there with the bright blossoms of joy, crimsoned all over with the flush of health, and enamelled with memories that perfume the soul. The blue hills beyond, with deep-blue shadows gathered in their bosom, lie before me like mountains of years, over which I shall climb through shadows to the slope of Age, and go down to the deeper shadows of Death.\n\nNor are dreams without their variety, whatever your character may be. I care not how much in the pride of your practical judgment, or in your learned fancies, you may sneer at any dream of love, and reckon it all a poet's fiction: there are times when such dreams come over you like a summer-cloud, and almost stifle you with their warmth.\n\nSeek as you will for increase of lands or moneys, and there are moments when a spark of some giant mind will flash over your cravings, and wake your soul suddenly to a quick and yearning sense of that influence which is begotten of intellect; and you task your dreams—as I have copied them here—to build before you the pleasures of such a renown.\n\nI care not how worldly you may be: there are times when all distinctions seem like dust, and when at the graves of the great you dream of a coming country, where your proudest hopes shall be dimmed forever.\n\nMarried or unmarried, young or old, poet or worker, you are still a dreamer, and will one time know, and feel, that your life is but a dream. Yet you call this fiction: you stave off the thoughts in print which come over you in reverie. You will not admit to the eye what is true to the heart. Poor weakling, and worldling, you are not strong enough to face yourself!\n\nYou will read perhaps with smiles; you will possibly praise the ingenuity; you will talk with a lip schooled against the slightest quiver of some bit of pathos, and say that it is—well done. Yet why is it well done?—only because it is stolen from your very life and heart. It is good, because it is so common; ingenious, because it is so honest; well-conceived, because it is not conceived at all.\n\nThere are thousands of mole-eyed people who count all passion in print a lie,—people who will grow into a rage at trifles, and weep in the dark, and love in secret, and hope without mention, and cover it all under the cloak of what they call—propriety. I can see before me now some gray-haired old gentleman, very money-getting, very correct, very cleanly, who reads the morning paper with unction, and his Bible with determination,—who listens to dull sermons with patience, and who prays with quiet self-applause; and yet there are moments belonging to his life, when his curdled affections yearn for something that they have not,—when his avarice oversteps all the commandments,—when his pride builds castles full of splendor; and yet put this before his eye, and he reads with the most careless air in the world, and condemns as arrant fiction, what cannot be proved to the elders.\n\nWe do not like to see our emotions unriddled: it is not agreeable to the proud man to find his weaknesses exposed; it is shocking to the disappointed lover to see his heart laid bare; it is a great grief to the pining maiden to witness the exposure of her loves. We do not like our fancies painted; we do not contrive them for rehearsal: our dreams are private, and when they are made public, we disown them.\n\nI sometimes think that I must be a very honest fellow for writing down those fancies,—which every one else seems afraid to whisper. I shall at least come in for my share of the odium in entertaining such fancies: indeed I shall expect the charge of entertaining them exclusively, and shall scarce expect to find a single fellow-confessor, unless it be some pure and innocent-thoughted girl, who will say peccavi to—here and there—a single rainbow fancy.\n"
+    }
+  ]
+}
