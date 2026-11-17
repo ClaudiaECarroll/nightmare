@@ -1,0 +1,3345 @@
+T1	Quotation 5155 5194	"Come, not done howling yet, cry-baby!"
+T2	Cue 5195 5200	cried
+T3	Entity 5201 5211	Kuzmitchov
+R1	Cueing Arg1:T2 Arg2:T1	
+R2	Speaker Arg1:T3 Arg2:T1	
+T4	Entity 5045 5055	Yegorushka
+T5	Quotation 5213 5373	"You are blubbering again, little milksop! If you don't want to go, stay behind; no one is taking you by force!  Never mind, never mind, Yegor boy, never mind,"
+T6	Entity 5374 5392	Father Christopher
+T7	Cue 5393 5401	muttered
+R3	Speaker Arg1:T6 Arg2:T5	
+R4	Cueing Arg1:T7 Arg2:T5	
+R5	Addressee Arg1:T4 Arg2:T5	
+T8	Quotation 5412 5601	"never mind, my boy. . . . Call upon God. . . . You are not going for your harm, but for your good. Learning is light, as the saying is, and ignorance is darkness. . . . That is so, truly."
+R6	Speaker Arg1:T6 Arg2:T8	
+R7	Cueing Arg1:T7 Arg2:T8	
+R8	Addressee Arg1:T4 Arg2:T8	
+T9	Quotation 5602 5627	"Do you want to go back?"
+T10	Cue 5628 5633	asked
+T11	Entity 5634 5644	Kuzmitchov
+T12	Quotation 5646 5669	"Yes, . . . yes, . . ."
+R9	Cueing Arg1:T10 Arg2:T9	
+R10	Speaker Arg1:T11 Arg2:T9	
+T13	Cue 5670 5678	answered
+T14	Entity 5679 5689	Yegorushka
+R11	Addressee Arg1:T14 Arg2:T9	
+R12	Cueing Arg1:T13 Arg2:T12	
+R13	Speaker Arg1:T14 Arg2:T12	
+R14	Addressee Arg1:T11 Arg2:T12	
+T15	Quotation 5700 5818	"Well, you'd better go back then. Anyway, you are going for nothing; it's a day's journey for a spoonful of porridge."
+R15	Speaker Arg1:T11 Arg2:T15	
+R16	Addressee Arg1:T14 Arg2:T15	
+T16	Quotation 5819 5852	"Never mind, never mind, my boy,"
+T17	Entity 5853 5871	Father Christopher
+T18	Cue 5872 5879	went on
+R17	Speaker Arg1:T17 Arg2:T16	
+R18	Cueing Arg1:T18 Arg2:T16	
+R19	Addressee Arg1:T14 Arg2:T16	
+T19	Quotation 5881 6232	"Call upon God. . . . Lomonosov set off with the fishermen in the same way, and he became a man famous all over Europe. Learning in conjunction with faith brings forth fruit pleasing to God. What are the words of the prayer? For the glory of our Maker, for the comfort of our parents, for the benefit of our Church and our country. . . . Yes, indeed!"
+R20	Speaker Arg1:T17 Arg2:T19	
+R21	Cueing Arg1:T18 Arg2:T19	
+R22	Addressee Arg1:T14 Arg2:T19	
+T20	Quotation 6233 6276	"The benefit is not the same in all cases,"
+T21	Cue 6277 6281	said
+T22	Entity 6282 6292	Kuzmitchov
+T23	Quotation 6318 6374	"some will study twenty years and get no sense from it."
+R23	Cueing Arg1:T21 Arg2:T20	
+R24	Cueing Arg1:T21 Arg2:T23	
+R25	Speaker Arg1:T22 Arg2:T20	
+R26	Speaker Arg1:T22 Arg2:T23	
+R27	Addressee Arg1:T17 Arg2:T20	
+R28	Addressee Arg1:T17 Arg2:T23	
+T24	Quotation 6375 6394	"That does happen."
+R29	Addressee Arg1:T22 Arg2:T24	
+R30	Speaker Arg1:T17 Arg2:T24	
+T25	Quotation 6395 6857	"Learning is a benefit to some, but others only muddle their brains. My sister is a woman who does not understand; she is set upon refinement, and wants to turn Yegorka into a learned man, and she does not understand that with my business I could settle Yegorka happily for the rest of his life. I tell you this, that if everyone were to go in for being learned and refined there would be no one to sow the corn and do the trading; they would all die of hunger."
+R31	Speaker Arg1:T22 Arg2:T25	
+R32	Addressee Arg1:T17 Arg2:T25	
+T26	Quotation 6858 6946	"And if all go in for trading and sowing corn there will be no one to acquire learning."
+R33	Addressee Arg1:T22 Arg2:T26	
+R34	Speaker Arg1:T17 Arg2:T26	
+T27	Quotation 10841 10877	"You are driving over folks, fatty!"
+T28	Cue 10878 10883	cried
+T29	Entity 10884 10891	Deniska
+R35	Cueing Arg1:T28 Arg2:T27	
+R36	Speaker Arg1:T29 Arg2:T27	
+T30	Entity 10802 10820	Father Christopher
+R37	Addressee Arg1:T30 Arg2:T27	
+T31	Quotation 10893 10962	"What a swollen lump of a face, as though a bumble-bee had stung it!"
+R38	Cueing Arg1:T28 Arg2:T31	
+R39	Speaker Arg1:T29 Arg2:T31	
+T32	Quotation 13957 14011	"Well, Deniska, shall we overtake the waggons to-day?"
+T33	Cue 14012 14017	asked
+T34	Entity 14018 14028	Kuzmitchov
+R40	Cueing Arg1:T33 Arg2:T32	
+R41	Speaker Arg1:T34 Arg2:T32	
+T35	Entity 14030 14037	Deniska
+R42	Addressee Arg1:T35 Arg2:T32	
+T36	Cue 14105 14113	answered
+T37	Quotation 14115 14166	"By nightfall, please God, we shall overtake them."
+R43	Cueing Arg1:T36 Arg2:T37	
+R44	Speaker Arg1:T35 Arg2:T37	
+T38	Quotation 15220 15227	"Stop!"
+T39	Cue 15228 15233	cried
+T40	Entity 15234 15244	Kuzmitchov
+R45	Cueing Arg1:T39 Arg2:T38	
+R46	Speaker Arg1:T40 Arg2:T38	
+T41	Entity 15125 15132	Deniska
+R47	Addressee Arg1:T41 Arg2:T38	
+T42	Quotation 15246 15261	"Pull up! Woa!"
+R48	Cueing Arg1:T39 Arg2:T42	
+R49	Speaker Arg1:T40 Arg2:T42	
+T43	Entity 15262 15269	Deniska
+R50	Addressee Arg1:T43 Arg2:T42	
+T44	Quotation 15327 15339	"Come here!"
+T45	Entity 15340 15350	Kuzmitchov
+T46	Cue 15351 15358	shouted
+R51	Speaker Arg1:T45 Arg2:T44	
+R52	Cueing Arg1:T46 Arg2:T44	
+T47	Entity 15362 15374	the shepherd
+R53	Addressee Arg1:T47 Arg2:T44	
+T48	Quotation 15376 15408	"Call off the dogs, curse them!"
+R54	Speaker Arg1:T45 Arg2:T48	
+R55	Addressee Arg1:T47 Arg2:T48	
+R56	Cueing Arg1:T46 Arg2:T48	
+T49	Quotation 15781 15805	"Whose sheep are these?"
+T50	Cue 15806 15811	asked
+T51	Entity 15812 15822	Kuzmitchov
+R57	Cueing Arg1:T50 Arg2:T49	
+R58	Speaker Arg1:T51 Arg2:T49	
+T52	Quotation 15824 15837	"Varlamov's,"
+T53	Entity 15838 15849	the old man
+R59	Addressee Arg1:T53 Arg2:T49	
+R60	Speaker Arg1:T53 Arg2:T52	
+R61	Addressee Arg1:T51 Arg2:T52	
+T54	Cue 15850 15858	answered
+R62	Cueing Arg1:T54 Arg2:T52	
+T55	Quotation 15876 15889	"Varlamov's,"
+T56	Cue 15890 15898	repeated
+T57	Entity 15899 15950	the shepherd standing at the other end of the flock
+R63	Cueing Arg1:T56 Arg2:T55	
+R64	Speaker Arg1:T57 Arg2:T55	
+R65	Addressee Arg1:T51 Arg2:T55	
+T58	Quotation 15952 15998	"Did Varlamov come this way yesterday or not?"
+R66	Speaker Arg1:T51 Arg2:T58	
+R67	Addressee Arg1:T57 Arg2:T58	
+T59	Quotation 15999 16034	"He did not; his clerk came. . . ."
+R68	Speaker Arg1:T57 Arg2:T59	
+R69	Addressee Arg1:T51 Arg2:T59	
+T60	Quotation 16035 16046	"Drive on!"
+R70	Speaker Arg1:T51 Arg2:T60	
+R71	Addressee Arg1:T57 Arg2:T60	
+T61	Quotation 16670 16718	"A fine windmill Boltva has put up for his son,"
+T62	Cue 16719 16727	observed
+T63	Entity 16728 16735	Deniska
+R72	Cueing Arg1:T62 Arg2:T61	
+R73	Speaker Arg1:T63 Arg2:T61	
+T64	Entity 16930 16940	Yegorushka
+R74	Addressee Arg1:T64 Arg2:T61	
+T65	Quotation 16737 16775	"And how is it we don't see his farm?"
+R75	Speaker Arg1:T63 Arg2:T65	
+R76	Addressee Arg1:T64 Arg2:T65	
+T66	Quotation 16776 16811	"It is that way, beyond the creek."
+R77	Addressee Arg1:T63 Arg2:T66	
+R78	Speaker Arg1:T64 Arg2:T66	
+T67	Entity 18339 18341	He
+T68	Entity 18368 18378	Yegorushka
+T69	Cue 18393 18398	began
+T70	Cue 18933 18938	asked
+T71	Quotation 18940 18968	'Puer bone, quam appelaris?'
+T72	Entity 18884 18886	he
+T73	Entity 18926 18928	me
+R79	Cueing Arg1:T70 Arg2:T71	
+R80	Addressee Arg1:T73 Arg2:T71	
+R81	Speaker Arg1:T72 Arg2:T71	
+T74	Entity 18973 18974	I
+T75	Cue 18975 18983	answered
+T76	Quotation 18985 19005	'Christopherus sum;'
+R82	Cueing Arg1:T75 Arg2:T76	
+R83	Speaker Arg1:T74 Arg2:T76	
+R84	Addressee Arg1:T72 Arg2:T76	
+T77	Quotation 19010 19012	he
+T78	Cue 19013 19017	said
+T79	Quotation 19019 19043	'Ergo connominati sumus'
+R85	Speaker Arg1:T77 Arg2:T79	
+R86	Cueing Arg1:T78 Arg2:T79	
+R87	Addressee Arg1:T74 Arg2:T79	
+T80	Entity 19088 19090	he
+T81	Cue 19091 19096	asked
+T82	Quotation 19107 19127	'Whose son are you?'
+R88	Speaker Arg1:T80 Arg2:T82	
+R89	Cueing Arg1:T81 Arg2:T82	
+T83	Entity 19137 19138	I
+T84	Cue 19139 19147	answered
+T85	Quotation 19164 19231	that I was the son of deacon Sireysky of the village of Lebedinskoe
+R90	Addressee Arg1:T83 Arg2:T82	
+R91	Cueing Arg1:T84 Arg2:T85	
+R92	Speaker Arg1:T83 Arg2:T85	
+R93	Addressee Arg1:T80 Arg2:T85	
+T86	Entity 19286 19298	his Holiness
+T87	Entity 19307 19309	me
+T88	Cue 19314 19318	said
+T89	Quotation 19320 19404	'Write to your father that I will not forget him, and that I will keep you in view.'
+R94	Speaker Arg1:T86 Arg2:T89	
+R95	Addressee Arg1:T87 Arg2:T89	
+R96	Cueing Arg1:T88 Arg2:T89	
+T90	Quotation 20029 20064	'You'll be studying all your life,'
+T91	Cue 20065 20069	said
+T92	Entity 20070 20079	my father
+T93	Entity 19944 19945	I
+T94	Quotation 20081 20114	'when shall we see you finished?'
+R97	Addressee Arg1:T93 Arg2:T90	
+R98	Addressee Arg1:T93 Arg2:T94	
+R99	Speaker Arg1:T92 Arg2:T90	
+R100	Speaker Arg1:T92 Arg2:T94	
+R101	Cueing Arg1:T91 Arg2:T90	
+R102	Cueing Arg1:T91 Arg2:T94	
+T95	Quotation 18400 20425	"I studied too, my boy; from the earliest age God instilled into me good sense and understanding, so that while I was just such a lad as you I was beyond others, a comfort to my parents and preceptors by my good sense. Before I was fifteen I could speak and make verses in Latin, just as in Russian. I was the crosier-bearer to his Holiness Bishop Christopher. After mass one day, as I remember it was the patron saint's day of His Majesty Tsar Alexandr Pavlovitch of blessed memory, he unrobed at the altar, looked kindly at me and asked, 'Puer bone, quam appelaris?' And I answered, 'Christopherus sum;' and he said, 'Ergo connominati sumus'-- that is, that we were namesakes. . . Then he asked in Latin, 'Whose son are you?' To which I answered, also in Latin, that I was the son of deacon Sireysky of the village of Lebedinskoe. Seeing my readiness and the clearness of my answers, his Holiness blessed me and said, 'Write to your father that I will not forget him, and that I will keep you in view.' The holy priests and fathers who were standing round the altar, hearing our discussion in Latin, were not a little surprised, and everyone expressed his pleasure in praise of me. Before I had moustaches, my boy, I could read Latin, Greek, and French; I knew philosophy, mathematics, secular history, and all the sciences. The Lord gave me a marvellous memory. Sometimes, if I read a thing once or twice, I knew it by heart. My preceptors and patrons were amazed, and so they expected I should make a learned man, a luminary of the Church. I did think of going to Kiev to continue my studies, but my parents did not approve. 'You'll be studying all your life,' said my father; 'when shall we see you finished?' Hearing such words, I gave up study and took a post. . . . Of course, I did not become a learned man, but then I did not disobey my parents; I was a comfort to them in their old age and gave them a creditable funeral. Obedience is more than fasting and prayer.  I suppose you have forgotten all your learning?"
+R103	Speaker Arg1:T67 Arg2:T95	
+R104	Cueing Arg1:T69 Arg2:T95	
+R105	Addressee Arg1:T68 Arg2:T95	
+T96	Quotation 20447 20618	"I should think so! Thank God, I have reached my eightieth year! Something of philosophy and rhetoric I do remember, but languages and mathematics I have quite forgotten."
+T97	Entity 20435 20445	Kuzmitchov
+T98	Entity 20619 20637	Father Christopher
+R106	Addressee Arg1:T98 Arg2:T96	
+R107	Speaker Arg1:T97 Arg2:T96	
+T99	Cue 20680 20684	said
+T100	Quotation 20702 20810	"What is a substance? A creature is a self-existing object, not requiring anything else for its completion."
+R108	Speaker Arg1:T98 Arg2:T100	
+R109	Cueing Arg1:T99 Arg2:T100	
+T101	Entity 20811 20813	He
+R110	Addressee Arg1:T101 Arg2:T100	
+T102	Quotation 20855 20879	"Spiritual nourishment!"
+T103	Entity 20880 20882	he
+T104	Cue 20883 20887	said
+R111	Speaker Arg1:T103 Arg2:T102	
+R112	Cueing Arg1:T104 Arg2:T102	
+T105	Quotation 20889 20964	"Of a truth matter nourishes the flesh and spiritual nourishment the soul!"
+R113	Speaker Arg1:T103 Arg2:T105	
+R114	Cueing Arg1:T104 Arg2:T105	
+T106	Quotation 20965 20993	"Learning is all very well,"
+T107	Cue 20994 21000	sighed
+T108	Entity 21001 21011	Kuzmitchov
+T109	Quotation 21013 21080	"but if we don't overtake Varlamov, learning won't do much for us."
+R115	Cueing Arg1:T107 Arg2:T106	
+R116	Cueing Arg1:T107 Arg2:T109	
+R117	Speaker Arg1:T108 Arg2:T106	
+R118	Speaker Arg1:T108 Arg2:T109	
+R119	Addressee Arg1:T108 Arg2:T105	
+R120	Addressee Arg1:T103 Arg2:T106	
+R121	Addressee Arg1:T103 Arg2:T109	
+T110	Quotation 21081 21168	"A man isn't a needle-- we shall find him. He must be going his rounds in these parts."
+R122	Addressee Arg1:T108 Arg2:T110	
+R123	Speaker Arg1:T103 Arg2:T110	
+T111	Quotation 21850 21889	"Deniska, where are you? Come and eat,"
+T112	Cue 21890 21894	said
+T113	Entity 21895 21905	Kuzmitchov
+R124	Cueing Arg1:T112 Arg2:T111	
+R125	Speaker Arg1:T113 Arg2:T111	
+T114	Entity 21739 21741	he
+R126	Addressee Arg1:T114 Arg2:T111	
+T115	Quotation 22278 22301	"Take them, take them,"
+T116	Entity 22302 22312	Kuzmitchov
+T117	Cue 22313 22318	urged
+R127	Speaker Arg1:T116 Arg2:T115	
+R128	Cueing Arg1:T117 Arg2:T115	
+T118	Entity 22201 22203	he
+R129	Addressee Arg1:T118 Arg2:T115	
+T119	Entity 22574 22584	Kuzmitchov
+T120	Cue 22640 22644	said
+T121	Entity 22648 22658	Yegorushka
+T122	Quotation 22660 22742	"I am going to sleep, and you mind that no one takes the sack from under my head."
+R130	Speaker Arg1:T119 Arg2:T122	
+R131	Cueing Arg1:T120 Arg2:T122	
+R132	Addressee Arg1:T121 Arg2:T122	
+T123	Quotation 23448 23497	"You look out that no one takes away the horses!"
+T124	Entity 23498 23500	he
+T125	Cue 23501 23505	said
+T126	Entity 23509 23519	Yegorushka
+R133	Speaker Arg1:T124 Arg2:T123	
+R134	Cueing Arg1:T125 Arg2:T123	
+R135	Addressee Arg1:T126 Arg2:T123	
+T127	Entity 29863 29873	Yegorushka
+T128	Cue 29874 29879	asked
+T129	Quotation 29881 29900	"What's your name?"
+R136	Speaker Arg1:T127 Arg2:T129	
+R137	Cueing Arg1:T128 Arg2:T129	
+T130	Entity 29772 29774	he
+R138	Addressee Arg1:T130 Arg2:T129	
+T131	Quotation 30056 30062	"Tit!"
+T132	Cue 30030 30038	answered
+T133	Entity 29950 29952	he
+R139	Speaker Arg1:T133 Arg2:T131	
+R140	Cueing Arg1:T132 Arg2:T131	
+R141	Addressee Arg1:T127 Arg2:T131	
+T134	Entity 31690 31692	he
+T135	Cue 31739 31743	said
+T136	Quotation 31745 31780	"Plague take you, cursed idolater!"
+R142	Speaker Arg1:T134 Arg2:T136	
+R143	Cueing Arg1:T135 Arg2:T136	
+T137	Cue 32006 32011	asked
+T138	Entity 31902 31909	The boy
+T139	Quotation 32013 32038	"Shall we soon be going?"
+R144	Speaker Arg1:T138 Arg2:T139	
+R145	Cueing Arg1:T137 Arg2:T139	
+T140	Entity 31839 31842	His
+R146	Addressee Arg1:T140 Arg2:T139	
+T141	Entity 32039 32046	Deniska
+T142	Cue 32083 32091	answered
+T143	Quotation 32093 32107	"I expect so."
+R147	Speaker Arg1:T141 Arg2:T143	
+R148	Cueing Arg1:T142 Arg2:T143	
+R149	Addressee Arg1:T138 Arg2:T143	
+T144	Quotation 32204 32253	"I say, which of us will get to the sedge first?"
+T145	Entity 32254 32256	he
+T146	Cue 32257 32261	said
+R150	Speaker Arg1:T145 Arg2:T144	
+R151	Cueing Arg1:T146 Arg2:T144	
+T147	Entity 32263 32273	Yegorushka
+R152	Addressee Arg1:T147 Arg2:T144	
+T148	Quotation 34058 34067	"Caught!"
+T149	Entity 34068 34070	he
+T150	Cue 34071 34078	wheezed
+R153	Speaker Arg1:T149 Arg2:T148	
+R154	Cueing Arg1:T150 Arg2:T148	
+T151	Entity 34138 34148	Yegorushka
+R155	Addressee Arg1:T151 Arg2:T148	
+T152	Quotation 35112 35162	"Father Christopher, get up; it is time to start,"
+T153	Entity 35163 35165	he
+T154	Cue 35166 35170	said
+T155	Quotation 35182 35251	"Wake up; we've slept too long as it is! Deniska, put the horses in."
+T156	Entity 35252 35270	Father Christopher
+T157	Entity 34537 34544	Deniska
+R156	Speaker Arg1:T153 Arg2:T152	
+R157	Speaker Arg1:T153 Arg2:T155	
+R158	Cueing Arg1:T154 Arg2:T152	
+R159	Cueing Arg1:T154 Arg2:T155	
+R160	Addressee Arg1:T156 Arg2:T152	
+R161	Addressee Arg1:T156 Arg2:T155	
+R162	Addressee Arg1:T157 Arg2:T155	
+T158	Quotation 35636 35657	"Father Christopher,"
+T159	Cue 35658 35662	said
+T160	Entity 35663 35673	Kuzmitchov
+T161	Quotation 35689 35770	"it's time to start; the horses are ready, and here are you, . . . upon my word."
+T162	Quotation 35771 35798	"In a minute, in a minute,"
+T163	Cue 35799 35807	muttered
+T164	Entity 35808 35826	Father Christopher
+R163	Cueing Arg1:T159 Arg2:T158	
+R164	Cueing Arg1:T159 Arg2:T161	
+R165	Speaker Arg1:T160 Arg2:T158	
+R166	Speaker Arg1:T160 Arg2:T161	
+R167	Addressee Arg1:T164 Arg2:T158	
+R168	Addressee Arg1:T164 Arg2:T161	
+R169	Cueing Arg1:T163 Arg2:T162	
+R170	Speaker Arg1:T164 Arg2:T162	
+R171	Addressee Arg1:T160 Arg2:T162	
+T165	Quotation 35828 35887	"I must read the psalms. . . . I haven't read them to-day."
+R172	Cueing Arg1:T163 Arg2:T165	
+R173	Speaker Arg1:T164 Arg2:T165	
+R174	Addressee Arg1:T160 Arg2:T165	
+T166	Quotation 35888 35910	"The psalms can wait."
+R175	Speaker Arg1:T160 Arg2:T166	
+R176	Addressee Arg1:T164 Arg2:T166	
+T167	Quotation 35911 35974	"Ivan Ivanitch, that is my rule every day. . . . I can't . . ."
+R177	Speaker Arg1:T164 Arg2:T167	
+R178	Addressee Arg1:T160 Arg2:T167	
+T168	Quotation 35975 35998	"God will overlook it."
+R179	Addressee Arg1:T164 Arg2:T168	
+R180	Speaker Arg1:T160 Arg2:T168	
+T169	Quotation 36407 36470	"Hallelujah, hallelujah, hallelujah! Glory be to Thee, O Lord!"
+T170	Entity 36243 36261	Father Christopher
+T171	Entity 36372 36382	the others
+R181	Addressee Arg1:T171 Arg2:T169	
+R182	Speaker Arg1:T170 Arg2:T169	
+T172	Entity 36479 36481	he
+T173	Cue 36557 36561	said
+T174	Quotation 36563 36571	"Finis!"
+R183	Cueing Arg1:T173 Arg2:T174	
+R184	Speaker Arg1:T172 Arg2:T174	
+T175	Quotation 41971 41990	"Oh dear! oh dear!"
+T176	Entity 41991 41993	he
+T177	Cue 41994 41999	began
+T178	Entity 42068 42082	the travellers
+R185	Speaker Arg1:T176 Arg2:T175	
+R186	Cueing Arg1:T177 Arg2:T175	
+R187	Addressee Arg1:T178 Arg2:T175	
+T179	Quotation 42129 42481	"What a happy day for me! Oh, what am I to do now? Ivan Ivanitch! Father Christopher! What a pretty little gentleman sitting on the box, God strike me dead! Oh, my goodness! why am I standing here instead of asking the visitors indoors? Please walk in, I humbly beg you. . . . You are kindly welcome! Give me all your things. . . . Oh, my goodness me!"
+R188	Addressee Arg1:T178 Arg2:T179	
+T180	Entity 42482 42499	Moisey Moisevitch
+R189	Speaker Arg1:T180 Arg2:T179	
+T181	Quotation 42689 42708	"Solomon! Solomon!"
+T182	Cue 42598 42605	shouted
+R190	Cueing Arg1:T182 Arg2:T181	
+R191	Speaker Arg1:T180 Arg2:T181	
+T183	Quotation 42709 42728	"Solomon! Solomon!"
+T184	Entity 42729 42744	a woman's voice
+R192	Speaker Arg1:T184 Arg2:T183	
+T185	Entity 43122 43129	Solomon
+T186	Cue 42745 42753	repeated
+R193	Addressee Arg1:T185 Arg2:T181	
+R194	Addressee Arg1:T185 Arg2:T183	
+R195	Cueing Arg1:T186 Arg2:T183	
+T187	Quotation 43258 43307	"Ivan Ivanitch and Father Christopher have come,"
+T188	Cue 43308 43312	said
+T189	Entity 43313 43330	Moisey Moisevitch
+R196	Cueing Arg1:T188 Arg2:T187	
+R197	Speaker Arg1:T189 Arg2:T187	
+T190	Entity 43366 43377	his brother
+R198	Addressee Arg1:T190 Arg2:T187	
+T191	Quotation 43401 43541	"Dear, dear! What a surprise! Such honoured guests to have come us so suddenly! Come, take their things, Solomon. Walk in, honoured guests."
+R199	Cueing Arg1:T188 Arg2:T191	
+R200	Addressee Arg1:T190 Arg2:T191	
+R201	Speaker Arg1:T189 Arg2:T191	
+T192	Entity 43557 43567	Kuzmitchov
+T193	Entity 43569 43587	Father Christopher
+T194	Entity 43593 43603	Yegorushka
+R202	Addressee Arg1:T192 Arg2:T191	
+R203	Addressee Arg1:T193 Arg2:T191	
+R204	Addressee Arg1:T194 Arg2:T191	
+T195	Quotation 45446 45475	"When did our waggons go by?"
+T196	Entity 45476 45486	Kuzmitchov
+T197	Cue 45487 45492	asked
+T198	Entity 45274 45291	Moisey Moisevitch
+R205	Speaker Arg1:T196 Arg2:T195	
+R206	Cueing Arg1:T197 Arg2:T195	
+R207	Addressee Arg1:T198 Arg2:T195	
+T199	Quotation 45494 45615	"One party went by early this morning, and the other, Ivan Ivanitch, put up here for dinner and went on towards evening."
+R208	Speaker Arg1:T198 Arg2:T199	
+R209	Addressee Arg1:T196 Arg2:T199	
+T200	Quotation 45616 45656	"Ah! . . . Has Varlamov been by or not?"
+R210	Speaker Arg1:T196 Arg2:T200	
+R211	Addressee Arg1:T198 Arg2:T200	
+T201	Quotation 45657 45790	"No, Ivan Ivanitch. His clerk, Grigory Yegoritch, went by yesterday morning and said that he had to be to-day at the Molokans' farm."
+R212	Addressee Arg1:T196 Arg2:T201	
+R213	Speaker Arg1:T198 Arg2:T201	
+T202	Quotation 45791 45869	"Good! so we will go after the waggons directly and then on to the Molokans'."
+R214	Speaker Arg1:T196 Arg2:T202	
+R215	Addressee Arg1:T198 Arg2:T202	
+T203	Quotation 45870 45899	"Mercy on us, Ivan Ivanitch!"
+T204	Entity 45900 45917	Moisey Moisevitch
+T205	Cue 45918 45923	cried
+R216	Speaker Arg1:T204 Arg2:T203	
+R217	Cueing Arg1:T205 Arg2:T203	
+R218	Addressee Arg1:T196 Arg2:T203	
+T206	Quotation 45958 46128	"Where are you going for the night? You will have a nice little supper and stay the night, and to-morrow morning, please God, you can go on and overtake anyone you like."
+R219	Speaker Arg1:T204 Arg2:T206	
+R220	Addressee Arg1:T196 Arg2:T206	
+T207	Quotation 46129 46322	"There is no time for that. . . . Excuse me, Moisey Moisevitch, another time; but now I must make haste. We'll stay a quarter of an hour and then go on; we can stay the night at the Molokans'."
+R221	Addressee Arg1:T204 Arg2:T207	
+R222	Speaker Arg1:T196 Arg2:T207	
+T208	Quotation 46323 46346	"A quarter of an hour!"
+T209	Cue 46347 46355	squealed
+T210	Entity 46356 46373	Moisey Moisevitch
+R223	Cueing Arg1:T209 Arg2:T208	
+R224	Speaker Arg1:T210 Arg2:T208	
+T211	Quotation 46375 46533	"Have you no fear of God, Ivan Ivanitch? You will compel me to hide your caps and lock the door! You must have a cup of tea and a snack of something, anyway."
+R225	Cueing Arg1:T209 Arg2:T211	
+R226	Speaker Arg1:T210 Arg2:T211	
+T212	Quotation 46534 46560	"We have no time for tea,"
+T213	Cue 46561 46565	said
+T214	Entity 46566 46576	Kuzmitchov
+R227	Addressee Arg1:T214 Arg2:T208	
+R228	Addressee Arg1:T214 Arg2:T211	
+R229	Cueing Arg1:T213 Arg2:T212	
+R230	Speaker Arg1:T214 Arg2:T212	
+R231	Addressee Arg1:T210 Arg2:T212	
+T215	Quotation 46767 46939	"Ivan Ivanitch! Father Christopher! Do be so good as to take a cup of tea with me. Surely I am not such a bad man that you can't even drink tea in my house? Ivan Ivanitch!"
+T216	Entity 46578 46595	Moisey Moisevitch
+R232	Speaker Arg1:T216 Arg2:T215	
+R233	Addressee Arg1:T214 Arg2:T215	
+T217	Cue 46756 46765	imploring
+R234	Cueing Arg1:T217 Arg2:T215	
+T218	Quotation 46940 46986	"Well, we may just as well have a cup of tea,"
+T219	Cue 46987 46991	said
+T220	Entity 46992 47010	Father Christopher
+T221	Quotation 47038 47064	"that won't keep us long."
+R235	Cueing Arg1:T219 Arg2:T218	
+R236	Cueing Arg1:T219 Arg2:T221	
+R237	Speaker Arg1:T220 Arg2:T218	
+R238	Speaker Arg1:T220 Arg2:T221	
+R239	Addressee Arg1:T210 Arg2:T218	
+R240	Addressee Arg1:T210 Arg2:T221	
+T222	Quotation 47065 47077	"Very well,"
+T223	Entity 47078 47088	Kuzmitchov
+T224	Cue 47089 47097	assented
+R241	Speaker Arg1:T223 Arg2:T222	
+R242	Cueing Arg1:T224 Arg2:T222	
+R243	Addressee Arg1:T216 Arg2:T222	
+T225	Quotation 47321 47353	"Rosa! Rosa! Bring the samovar!"
+T226	Entity 47099 47116	Moisey Moisevitch
+R244	Speaker Arg1:T226 Arg2:T225	
+T227	Cue 47257 47262	cried
+R245	Cueing Arg1:T227 Arg2:T225	
+T228	Entity 48082 48092	Kuzmitchov
+T229	Cue 48115 48120	asked
+T230	Quotation 48122 48212	"Solomon, why did you not come to our fair at N. this summer, and act some Jewish scenes?"
+R246	Speaker Arg1:T228 Arg2:T230	
+R247	Cueing Arg1:T229 Arg2:T230	
+T231	Entity 47999 48002	his
+R248	Addressee Arg1:T231 Arg2:T230	
+T233	Quotation 49140 49184	"I wish you a good appetite! Tea and sugar!"
+T234	Entity 49185 49187	he
+T232	Cue 49188 49193	began
+R249	Speaker Arg1:T234 Arg2:T233	
+R250	Cueing Arg1:T232 Arg2:T233	
+T235	Quotation 49229 49398	"I hope you will enjoy it. Such rare guests, such rare ones; it is years since I last saw Father Christopher. And will no one tell me who is this nice little gentleman?"
+T236	Entity 49215 49227	his visitors
+R251	Addressee Arg1:T236 Arg2:T233	
+T237	Entity 49399 49401	he
+T238	Cue 49402 49407	asked
+R252	Speaker Arg1:T237 Arg2:T235	
+R253	Cueing Arg1:T238 Arg2:T235	
+R254	Addressee Arg1:T236 Arg2:T235	
+T239	Quotation 49441 49485	"He is the son of my sister, Olga Ivanovna,"
+T240	Cue 49486 49494	answered
+T241	Entity 49495 49505	Kuzmitchov
+R255	Cueing Arg1:T240 Arg2:T239	
+R256	Speaker Arg1:T241 Arg2:T239	
+R257	Addressee Arg1:T237 Arg2:T239	
+T242	Quotation 49507 49531	"And where is he going?"
+R258	Speaker Arg1:T237 Arg2:T242	
+R259	Addressee Arg1:T241 Arg2:T242	
+T243	Quotation 49532 49580	"To school. We are taking him to a high school."
+R260	Speaker Arg1:T241 Arg2:T243	
+R261	Addressee Arg1:T237 Arg2:T243	
+T244	Quotation 49676 49703	"Ah, that is a fine thing,"
+T245	Entity 49704 49706	he
+T246	Cue 49707 49711	said
+R262	Speaker Arg1:T245 Arg2:T244	
+R263	Cueing Arg1:T246 Arg2:T244	
+T247	Quotation 49748 49973	"That's a fine thing. You will come back from the high school such a gentleman that we shall all take off our hats to you. You will be wealthy and wise and so grand that your mamma will be delighted. Oh, that's a fine thing!"
+R264	Speaker Arg1:T245 Arg2:T247	
+R265	Cueing Arg1:T246 Arg2:T247	
+R266	Addressee Arg1:T241 Arg2:T244	
+R267	Addressee Arg1:T241 Arg2:T247	
+T248	Quotation 50063 50361	"You must excuse me, Father Christopher, but I am thinking of writing to the bishop to tell him you are robbing the merchants of their living. I shall take a sheet of stamped paper and write that I suppose Father Christopher is short of pence, as he has taken up with trade and begun selling wool."
+T249	Entity 49974 49976	He
+R268	Speaker Arg1:T249 Arg2:T248	
+T250	Cue 50017 50028	began again
+R269	Cueing Arg1:T250 Arg2:T248	
+T251	Quotation 50362 50413	"H'm, yes . . . it's a queer notion in my old age,"
+T252	Cue 50414 50418	said
+T253	Entity 50419 50437	Father Christopher
+R270	Addressee Arg1:T253 Arg2:T248	
+R271	Cueing Arg1:T252 Arg2:T251	
+R272	Speaker Arg1:T253 Arg2:T251	
+R273	Addressee Arg1:T249 Arg2:T251	
+T254	Quotation 50455 50633	"I have turned from priest to merchant, brother. I ought to be at home now saying my prayers, instead of galloping about the country like a Pharaoh in his chariot. . . . Vanity!"
+R274	Speaker Arg1:T253 Arg2:T254	
+R275	Cueing Arg1:T252 Arg2:T254	
+R276	Addressee Arg1:T249 Arg2:T254	
+T255	Quotation 50634 50668	"But it will mean a lot of pence!"
+R277	Speaker Arg1:T249 Arg2:T255	
+R278	Addressee Arg1:T253 Arg2:T255	
+T256	Quotation 50669 50783	"Oh, I dare say! More kicks than halfpence, and serve me right. The wool's not mine, but my son-in-law MikhailÕs!"
+R279	Speaker Arg1:T253 Arg2:T256	
+R280	Addressee Arg1:T249 Arg2:T256	
+T257	Quotation 50784 50812	"Why doesn't he go himself?"
+R281	Addressee Arg1:T253 Arg2:T257	
+R282	Speaker Arg1:T249 Arg2:T257	
+T258	Entity 51161 51163	he
+T259	Entity 51172 51174	me
+T260	Cue 51179 51183	said
+T261	Quotation 51185 51268	'Daddy, you sell the wool for me; be kind and do it! I am no good at the business!'
+R283	Cueing Arg1:T260 Arg2:T261	
+R284	Addressee Arg1:T259 Arg2:T261	
+R285	Speaker Arg1:T258 Arg2:T261	
+T262	Quotation 50813 51625	"Why, because . . . His mother's milk is scarcely dry upon his lips. He can buy wool all right, but when it comes to selling, he has no sense; he is young yet. He has wasted all his money; he wanted to grow rich and cut a dash, but he tried here and there, and no one would give him his price. And so the lad went on like that for a year, and then he came to me and said, 'Daddy, you sell the wool for me; be kind and do it! I am no good at the business!' And that is true enough. As soon as there is anything wrong then it's 'Daddy,' but till then they could get on without their dad. When he was buying he did not consult me, but now when he is in difficulties it's Daddy's turn. And what does his dad know about it? If it were not for Ivan Ivanitch, his dad could do nothing. I have a lot of worry with them."
+R286	Speaker Arg1:T253 Arg2:T262	
+R287	Addressee Arg1:T249 Arg2:T262	
+T263	Quotation 51626 51697	"Yes; one has a lot of worry with one's children, I can tell you that,"
+T264	Cue 51698 51704	sighed
+T265	Entity 51705 51722	Moisey Moisevitch
+R288	Cueing Arg1:T264 Arg2:T263	
+R289	Speaker Arg1:T265 Arg2:T263	
+R290	Addressee Arg1:T253 Arg2:T263	
+T266	Quotation 51724 52022	"I have six of my own. One needs schooling, another needs doctoring, and a third needs nursing, and when they grow up they are more trouble still. It is not only nowadays, it was the same in Holy Scripture. When Jacob had little children he wept, and when they grew up he wept still more bitterly."
+R291	Cueing Arg1:T264 Arg2:T266	
+R292	Speaker Arg1:T265 Arg2:T266	
+T267	Entity 52040 52058	Father Christopher
+R293	Addressee Arg1:T267 Arg2:T266	
+T268	Quotation 52023 52039	"H'm, yes . . ."
+R294	Speaker Arg1:T267 Arg2:T268	
+T269	Cue 52059 52067	assented
+R295	Cueing Arg1:T269 Arg2:T268	
+R296	Addressee Arg1:T265 Arg2:T268	
+T270	Quotation 52101 52941	"I have no cause myself to rail against the Lord. I have lived to the end of my days as any man might be thankful to live. . . . I have married my daughters to good men, my sons I have set up in life, and now I am free; I have done my work and can go where I like. I live in peace with my wife. I eat and drink and sleep and rejoice in my grandchildren, and say my prayers and want nothing more. I live on the fat of the land, and don't need to curry favour with anyone. I have never had any trouble from childhood, and now suppose the Tsar were to ask me, 'What do you need? What would you like?' why, I don't need anything. I have everything I want and everything to be thankful for. In the whole town there is no happier man than I am. My only trouble is I have so many sins, but there --only God is without sin. That's right, isn't it?"
+R297	Speaker Arg1:T267 Arg2:T270	
+R298	Cueing Arg1:T269 Arg2:T270	
+R299	Addressee Arg1:T265 Arg2:T270	
+T271	Quotation 52942 52959	"No doubt it is."
+R300	Speaker Arg1:T265 Arg2:T271	
+R301	Addressee Arg1:T267 Arg2:T271	
+T272	Quotation 52960 53230	"I have no teeth, of course; my poor old back aches; there is one thing and another, . . . asthma and that sort of thing. . . . I ache. . . . The flesh is weak, but then think of my age! I am in the eighties! One can't go on for ever; one mustn't outstay one's welcome."
+R302	Addressee Arg1:T265 Arg2:T272	
+R303	Speaker Arg1:T267 Arg2:T272	
+T273	Quotation 53415 53426	"So funny!"
+T274	Cue 53427 53431	said
+T275	Entity 53432 53450	Father Christopher
+R304	Cueing Arg1:T274 Arg2:T273	
+R305	Speaker Arg1:T275 Arg2:T273	
+T276	Entity 53333 53350	Moisey Moisevitch
+R306	Addressee Arg1:T276 Arg2:T273	
+T277	Quotation 53611 53628	'Very well . . .'
+T278	Entity 53629 53630	I
+T279	Cue 53631 53635	said
+T280	Entity 53639 53642	him
+T281	Quotation 53644 53733	'here I have asthma and one thing and another. . . . You are a doctor; cure your father!'
+R307	Speaker Arg1:T278 Arg2:T277	
+R308	Speaker Arg1:T278 Arg2:T281	
+R309	Addressee Arg1:T280 Arg2:T277	
+R310	Addressee Arg1:T280 Arg2:T281	
+R311	Cueing Arg1:T279 Arg2:T277	
+R312	Cueing Arg1:T279 Arg2:T281	
+T282	Entity 53844 53846	he
+T283	Cue 53847 53851	said
+T284	Quotation 53853 53904	'Dad, you ought to be treated with compressed air.'
+R313	Cueing Arg1:T283 Arg2:T284	
+R314	Speaker Arg1:T282 Arg2:T284	
+T285	Entity 53747 53749	me
+R315	Addressee Arg1:T285 Arg2:T284	
+T286	Quotation 53475 53905	"My eldest son Gavrila came to pay me a visit. He is in the medical line, and is a district doctor in the province of Tchernigov. . . . 'Very well . . .' I said to him, 'here I have asthma and one thing and another. . . . You are a doctor; cure your father!' He undressed me on the spot, tapped me, listened, and all sorts of tricks, . . . kneaded my stomach, and then he said, 'Dad, you ought to be treated with compressed air.'"
+R316	Speaker Arg1:T275 Arg2:T286	
+R317	Cueing Arg1:T274 Arg2:T286	
+R318	Addressee Arg1:T276 Arg2:T286	
+T287	Entity 53906 53924	Father Christopher
+T288	Entity 53999 54000	I
+T289	Cue 54001 54005	said
+T290	Entity 54009 54012	him
+T291	Quotation 54014 54046	'God bless your compressed air!'
+R319	Addressee Arg1:T290 Arg2:T291	
+R320	Cueing Arg1:T289 Arg2:T291	
+R321	Speaker Arg1:T288 Arg2:T291	
+T292	Quotation 53994 54047	"And I said to him, 'God bless your compressed air!'"
+R322	Speaker Arg1:T287 Arg2:T292	
+R323	Addressee Arg1:T276 Arg2:T292	
+T293	Quotation 54104 54136	"God bless your compressed air!"
+T294	Entity 54048 54050	he
+R324	Speaker Arg1:T294 Arg2:T293	
+T295	Entity 54137 54154	Moisey Moisevitch
+R325	Addressee Arg1:T295 Arg2:T293	
+T296	Quotation 54260 54291	"God bless the compressed air!"
+T297	Cue 54292 54300	repeated
+T298	Entity 54301 54319	Father Christopher
+R326	Cueing Arg1:T297 Arg2:T296	
+R327	Speaker Arg1:T298 Arg2:T296	
+R328	Addressee Arg1:T295 Arg2:T296	
+T299	Quotation 54431 54441	"Oh dear!"
+T300	Entity 54442 54444	he
+T301	Cue 54445 54451	moaned
+T302	Quotation 54474 54531	"Let me get my breath . . . . You'll be the death of me."
+R329	Speaker Arg1:T300 Arg2:T299	
+R330	Speaker Arg1:T300 Arg2:T302	
+R331	Cueing Arg1:T301 Arg2:T299	
+R332	Cueing Arg1:T301 Arg2:T302	
+R333	Addressee Arg1:T298 Arg2:T299	
+R334	Addressee Arg1:T298 Arg2:T302	
+T303	Quotation 55288 55351	"While we have the time, Father Christopher, let us reckon up,"
+T304	Cue 55352 55356	said
+T305	Entity 55357 55367	Kuzmitchov
+R335	Cueing Arg1:T304 Arg2:T303	
+R336	Speaker Arg1:T305 Arg2:T303	
+R337	Addressee Arg1:T298 Arg2:T303	
+T306	Quotation 55605 55650	"How many are there in the rolls of roubles?"
+T307	Entity 55651 55669	Father Christopher
+T308	Cue 55670 55675	began
+R338	Speaker Arg1:T307 Arg2:T306	
+R339	Cueing Arg1:T308 Arg2:T306	
+R340	Addressee Arg1:T305 Arg2:T306	
+T309	Quotation 55677 55943	"The rouble notes are done up in fifties, . . . the three-rouble notes in nineties, the twenty-five and hundred roubles in thousands. You count out seven thousand eight hundred for Varlamov, and I will count out for Gusevitch. And mind you don't make a mistake. . ."
+R341	Speaker Arg1:T305 Arg2:T309	
+R342	Addressee Arg1:T307 Arg2:T309	
+T310	Quotation 57109 57128	"Ah, money, money!"
+T311	Cue 57129 57135	sighed
+T312	Entity 57136 57154	Father Christopher
+R343	Cueing Arg1:T311 Arg2:T310	
+R344	Speaker Arg1:T312 Arg2:T310	
+T313	Quotation 57165 57288	"You bring trouble! Now I expect my Mihailo is asleep and dreaming that I am going to bring him a heap of money like this."
+R345	Cueing Arg1:T311 Arg2:T313	
+R346	Speaker Arg1:T312 Arg2:T313	
+T314	Quotation 57289 57357	"Your Mihailo Timofevitch is a man who doesn't understand business,"
+T315	Cue 57358 57362	said
+T316	Entity 57363 57373	Kuzmitchov
+T317	Quotation 57391 57633	"he undertakes what isn't his work, but you understand and can judge. You had better hand over your wool to me, as I have said already, and I would give you half a rouble above my own price-- yes, I would, simply out of regard for you. . . ."
+R347	Cueing Arg1:T315 Arg2:T314	
+R348	Cueing Arg1:T315 Arg2:T317	
+R349	Speaker Arg1:T316 Arg2:T314	
+R350	Speaker Arg1:T316 Arg2:T317	
+R351	Addressee Arg1:T312 Arg2:T314	
+R352	Addressee Arg1:T312 Arg2:T317	
+T318	Quotation 57634 57654	"No, Ivan Ivanitch."
+T319	Entity 57655 57673	Father Christopher
+T320	Cue 57674 57680	sighed
+R353	Speaker Arg1:T319 Arg2:T318	
+R354	Cueing Arg1:T320 Arg2:T318	
+R355	Addressee Arg1:T316 Arg2:T318	
+T321	Quotation 57682 57849	"I thank you for your kindness. . . . Of course, if it were for me to decide, I shouldn't think twice about it; but as it is, the wool is not mine, as you know. . . ."
+R356	Speaker Arg1:T319 Arg2:T321	
+R357	Cueing Arg1:T320 Arg2:T321	
+R358	Addressee Arg1:T316 Arg2:T321	
+T322	Quotation 58006 58037	"Come along, little gentleman,"
+T323	Entity 58038 58040	he
+T324	Cue 58041 58045	said
+T325	Quotation 58063 58149	"come and see the little bear I can show you! Such a queer, cross little bear. Oo-oo!"
+R359	Speaker Arg1:T323 Arg2:T322	
+R360	Cueing Arg1:T324 Arg2:T322	
+R361	Speaker Arg1:T323 Arg2:T325	
+R362	Cueing Arg1:T324 Arg2:T325	
+T326	Entity 57958 57968	Yegorushka
+R363	Addressee Arg1:T326 Arg2:T322	
+R364	Addressee Arg1:T326 Arg2:T325	
+T327	Quotation 59211 59236	"Eat it, dearie, eat it!"
+T328	Entity 59237 59240	she
+T329	Cue 59241 59245	said
+R365	Speaker Arg1:T328 Arg2:T327	
+R366	Cueing Arg1:T329 Arg2:T327	
+T330	Entity 59041 59051	Yegorushka
+R367	Addressee Arg1:T330 Arg2:T327	
+T331	Quotation 59247 59322	"You are here without your mamma, and no one to look after you. Eat it up."
+R368	Speaker Arg1:T328 Arg2:T331	
+R369	Cueing Arg1:T329 Arg2:T331	
+R370	Addressee Arg1:T330 Arg2:T331	
+T332	Quotation 59568 59598	"Where are you going, dearie?"
+T333	Cue 59599 59604	asked
+T334	Entity 59605 59615	the Jewess
+R371	Cueing Arg1:T333 Arg2:T332	
+R372	Speaker Arg1:T334 Arg2:T332	
+T335	Quotation 59617 59629	"To school,"
+T336	Cue 59630 59638	answered
+T337	Entity 59639 59649	Yegorushka
+R373	Cueing Arg1:T336 Arg2:T335	
+R374	Speaker Arg1:T337 Arg2:T335	
+R375	Addressee Arg1:T334 Arg2:T335	
+R376	Addressee Arg1:T337 Arg2:T332	
+T338	Quotation 59651 59700	"And how many brothers and sisters have you got?"
+R377	Speaker Arg1:T334 Arg2:T338	
+R378	Addressee Arg1:T337 Arg2:T338	
+T339	Quotation 59701 59742	"I am the only one; there are no others."
+R379	Speaker Arg1:T337 Arg2:T339	
+R380	Addressee Arg1:T334 Arg2:T339	
+T340	Quotation 59743 59750	"O-oh!"
+T341	Cue 59751 59757	sighed
+T342	Entity 59758 59768	the Jewess
+R381	Cueing Arg1:T341 Arg2:T340	
+R382	Speaker Arg1:T342 Arg2:T340	
+R383	Addressee Arg1:T337 Arg2:T340	
+T343	Quotation 59798 59913	"Poor mamma, poor mamma! How she will weep and miss you! We are going to send our Nahum to school in a year. O-oh!"
+R384	Speaker Arg1:T342 Arg2:T343	
+R385	Addressee Arg1:T337 Arg2:T343	
+T344	Quotation 59914 59933	"Ah, Nahum, Nahum!"
+T345	Cue 59934 59940	sighed
+T346	Entity 59941 59958	Moisey Moisevitch
+T347	Quotation 60010 60034	"And he is so delicate."
+R386	Cueing Arg1:T345 Arg2:T344	
+R387	Speaker Arg1:T346 Arg2:T344	
+R388	Speaker Arg1:T346 Arg2:T347	
+R389	Addressee Arg1:T342 Arg2:T344	
+R390	Addressee Arg1:T342 Arg2:T347	
+T348	Quotation 60841 60867	"Ghaal-ghaal-ghaal-ghaal!"
+T349	Cue 60868 60872	said
+T350	Entity 60873 60890	Moisey Moisevitch
+R391	Cueing Arg1:T349 Arg2:T348	
+R392	Speaker Arg1:T350 Arg2:T348	
+T351	Quotation 60892 60910	"Too-too-too-too!"
+T352	Cue 60911 60919	answered
+T353	Entity 60920 60930	the Jewess
+R393	Cueing Arg1:T352 Arg2:T351	
+R394	Speaker Arg1:T353 Arg2:T351	
+R395	Addressee Arg1:T350 Arg2:T351	
+R396	Addressee Arg1:T353 Arg2:T348	
+T354	Quotation 61126 61144	"Take it, dearie,"
+T355	Entity 61145 61148	she
+T356	Cue 61149 61153	said
+T357	Entity 61162 61172	Yegorushka
+R397	Speaker Arg1:T355 Arg2:T354	
+R398	Cueing Arg1:T356 Arg2:T354	
+R399	Addressee Arg1:T357 Arg2:T354	
+T358	Quotation 61183 61240	"you have no mamma now-- no one to give you nice things."
+R400	Speaker Arg1:T355 Arg2:T358	
+R401	Cueing Arg1:T356 Arg2:T358	
+R402	Addressee Arg1:T357 Arg2:T358	
+T359	Quotation 61824 61849	"Well, Solomon the Wise!"
+T360	Entity 61850 61852	he
+T361	Cue 61853 61857	said
+T362	Quotation 61916 61934	"How is business?"
+R403	Speaker Arg1:T360 Arg2:T359	
+R404	Speaker Arg1:T360 Arg2:T362	
+R405	Cueing Arg1:T361 Arg2:T359	
+R406	Cueing Arg1:T361 Arg2:T362	
+T363	Quotation 61935 61981	"What sort of business are you talking about?"
+T364	Cue 61982 61987	asked
+T365	Entity 61988 61995	Solomon
+R407	Addressee Arg1:T365 Arg2:T359	
+R408	Addressee Arg1:T365 Arg2:T362	
+R409	Cueing Arg1:T364 Arg2:T363	
+R410	Speaker Arg1:T365 Arg2:T363	
+R411	Addressee Arg1:T360 Arg2:T363	
+T366	Quotation 62076 62120	"Oh, things in general. What are you doing?"
+R412	Addressee Arg1:T365 Arg2:T366	
+R413	Speaker Arg1:T360 Arg2:T366	
+T367	Quotation 62121 62139	"What am I doing?"
+T368	Entity 62140 62147	Solomon
+T369	Cue 62148 62156	repeated
+R414	Speaker Arg1:T368 Arg2:T367	
+R415	Cueing Arg1:T369 Arg2:T367	
+R416	Addressee Arg1:T360 Arg2:T367	
+T370	Quotation 62189 62411	"The same as everyone else. . . . You see, I am a menial, I am my brother's servant; my brother's the servant of the visitors; the visitors are Varlamov's servants; and if I had ten millions, Varlamov would be my servant."
+R417	Speaker Arg1:T368 Arg2:T370	
+R418	Addressee Arg1:T360 Arg2:T370	
+T371	Quotation 62412 62443	"Why would he be your servant?"
+R419	Addressee Arg1:T368 Arg2:T371	
+R420	Speaker Arg1:T360 Arg2:T371	
+T372	Quotation 62444 62752	"Why, because there isn't a gentleman or millionaire who isn't ready to lick the hand of a scabby Jew for the sake of making a kopeck. Now, I am a scabby Jew and a beggar. Everybody looks at me as though I were a dog, but if I had money Varlamov would play the fool before me just as Moisey does before you."
+R421	Speaker Arg1:T368 Arg2:T372	
+T373	Entity 62753 62771	Father Christopher
+R422	Addressee Arg1:T373 Arg2:T372	
+T374	Quotation 62900 62960	"How can you compare yourself with Varlamov, you blockhead?"
+T375	Entity 62845 62855	Kuzmitchov
+T376	Cue 62893 62898	asked
+R423	Cueing Arg1:T376 Arg2:T374	
+R424	Speaker Arg1:T375 Arg2:T374	
+T377	Entity 62836 62843	Solomon
+R425	Addressee Arg1:T377 Arg2:T374	
+T378	Quotation 62961 63026	"I am not such a fool as to put myself on a level with Varlamov,"
+T379	Cue 63027 63035	answered
+T380	Entity 63036 63043	Solomon
+R426	Cueing Arg1:T379 Arg2:T378	
+R427	Speaker Arg1:T380 Arg2:T378	
+R428	Addressee Arg1:T375 Arg2:T378	
+T381	Quotation 63083 63399	"Though Varlamov is a Russian, he is at heart a scabby Jew; money and gain are all he lives for, but I threw my money in the stove! I don't want money, or land, or sheep, and there is no need for people to be afraid of me and to take off their hats when I pass. So I am wiser than your Varlamov and more like a man!"
+R429	Speaker Arg1:T380 Arg2:T381	
+R430	Addressee Arg1:T375 Arg2:T381	
+T382	Quotation 63727 63740	"Stop! . . ."
+T383	Entity 63741 63759	Father Christopher
+T384	Cue 63760 63764	said
+T385	Entity 63768 63771	him
+R431	Speaker Arg1:T383 Arg2:T382	
+R432	Cueing Arg1:T384 Arg2:T382	
+R433	Addressee Arg1:T385 Arg2:T382	
+T386	Quotation 63773 63929	"If you don't like your religion you had better change it, but to laugh at it is a sin; it is only the lowest of the low who will make fun of his religion."
+R434	Speaker Arg1:T383 Arg2:T386	
+R435	Cueing Arg1:T384 Arg2:T386	
+R436	Addressee Arg1:T385 Arg2:T386	
+T387	Quotation 63930 63953	"You don't understand,"
+T388	Entity 63954 63961	Solomon
+T389	Quotation 63984 64056	"I am talking of one thing and you are talking of something else. . . ."
+R437	Speaker Arg1:T388 Arg2:T387	
+R438	Speaker Arg1:T388 Arg2:T389	
+R439	Addressee Arg1:T383 Arg2:T387	
+R440	Addressee Arg1:T383 Arg2:T389	
+T390	Quotation 64057 64096	"One can see you are a foolish fellow,"
+T391	Cue 64097 64103	sighed
+T392	Entity 64104 64122	Father Christopher
+R441	Cueing Arg1:T391 Arg2:T390	
+R442	Speaker Arg1:T392 Arg2:T390	
+T393	Quotation 64124 64316	"I admonish you to the best of my ability, and you are angry. I speak to you like an old man quietly, and you answer like a turkeycock: 'Bla-- bla-- bla!' You really are a queer fellow. . . ."
+R443	Cueing Arg1:T391 Arg2:T393	
+R444	Speaker Arg1:T392 Arg2:T393	
+R445	Addressee Arg1:T388 Arg2:T390	
+R446	Addressee Arg1:T388 Arg2:T393	
+T394	Quotation 64974 65050	"What a ferocious fellow you've got here, Moisey Moisevitch! God bless him!"
+T395	Cue 65051 65055	said
+T396	Entity 65056 65074	Father Christopher
+R447	Cueing Arg1:T395 Arg2:T394	
+T397	Quotation 65089 65196	"You ought to find him a place or a wife or something. . . . There's no knowing what to make of him. . . ."
+R448	Cueing Arg1:T395 Arg2:T397	
+R449	Speaker Arg1:T396 Arg2:T394	
+R450	Speaker Arg1:T396 Arg2:T397	
+T398	Entity 65225 65242	Moisey Moisevitch
+R451	Addressee Arg1:T398 Arg2:T394	
+R452	Addressee Arg1:T398 Arg2:T397	
+T399	Quotation 65314 65333	"Solomon, go away!"
+T400	Entity 65334 65336	he
+T401	Cue 65337 65341	said
+R453	Speaker Arg1:T400 Arg2:T399	
+R454	Cueing Arg1:T401 Arg2:T399	
+T402	Quotation 65351 65361	"Go away!"
+T403	Entity 65397 65404	Solomon
+R455	Speaker Arg1:T400 Arg2:T402	
+R456	Cueing Arg1:T401 Arg2:T402	
+R457	Addressee Arg1:T403 Arg2:T399	
+R458	Addressee Arg1:T403 Arg2:T402	
+T404	Quotation 65440 65454	"What was it?"
+T405	Entity 65455 65472	Moisey Moisevitch
+T406	Cue 65473 65478	asked
+T407	Entity 65479 65497	Father Christopher
+R459	Speaker Arg1:T405 Arg2:T404	
+R460	Cueing Arg1:T406 Arg2:T404	
+R461	Addressee Arg1:T407 Arg2:T404	
+T408	Quotation 65509 65530	"He forgets himself,"
+T409	Cue 65531 65539	answered
+T410	Entity 65540 65550	Kuzmitchov
+T411	Quotation 65552 65595	"He's rude and thinks too much of himself."
+R462	Cueing Arg1:T409 Arg2:T408	
+R463	Cueing Arg1:T409 Arg2:T411	
+R464	Speaker Arg1:T410 Arg2:T408	
+R465	Speaker Arg1:T410 Arg2:T411	
+R466	Addressee Arg1:T405 Arg2:T408	
+R467	Addressee Arg1:T405 Arg2:T411	
+T412	Quotation 65596 65608	"I knew it!"
+T413	Entity 65609 65626	Moisey Moisevitch
+T414	Cue 65627 65632	cried
+T415	Quotation 65664 65683	"Oh dear, oh dear!"
+T416	Entity 65684 65686	he
+T417	Cue 65687 65695	muttered
+R468	Speaker Arg1:T413 Arg2:T412	
+R469	Cueing Arg1:T414 Arg2:T412	
+R470	Addressee Arg1:T410 Arg2:T412	
+R471	Speaker Arg1:T416 Arg2:T415	
+R472	Cueing Arg1:T417 Arg2:T415	
+R473	Addressee Arg1:T410 Arg2:T415	
+T418	Quotation 65712 65920	"Be so kind as to excuse it, and don't be angry. He is such a queer fellow, such a queer fellow! Oh dear, oh dear! He is my own brother, but I have never had anything but trouble from him. You know he's. . ."
+R474	Speaker Arg1:T416 Arg2:T418	
+R475	Addressee Arg1:T410 Arg2:T418	
+T419	Entity 65921 65938	Moisey Moisevitch
+T420	Cue 65978 65985	went on
+T421	Quotation 65987 66483	"He is not in his right mind; . . . he's hopeless. And I don't know what I am to do with him! He cares for nobody, he respects nobody, and is afraid of nobody. . . . You know he laughs at everybody, he says silly things, speaks familiarly to anyone. You wouldn't believe it, Varlamov came here one day and Solomon said such things to him that he gave us both a taste of his whip. . . . But why whip me? Was it my fault? God has robbed him of his wits, so it is God's will, and how am I to blame?"
+R476	Speaker Arg1:T419 Arg2:T421	
+R477	Cueing Arg1:T420 Arg2:T421	
+R478	Addressee Arg1:T410 Arg2:T421	
+T422	Entity 66507 66524	Moisey Moisevitch
+T423	Cue 66535 66544	muttering
+T424	Quotation 66574 67073	"He does not sleep at night, and is always thinking and thinking and thinking, and what he is thinking about God only knows. If you go to him at night he is angry and laughs. He doesn't like me either . . . . And there is nothing he wants! When our father died he left us each six thousand roubles. I bought myself an inn, married, and now I have children; and he burnt all his money in the stove. Such a pity, such a pity! Why burn it? If he didn't want it he could give it to me, but why burn it?"
+R479	Speaker Arg1:T422 Arg2:T424	
+R480	Cueing Arg1:T423 Arg2:T424	
+R481	Addressee Arg1:T410 Arg2:T424	
+T425	Quotation 67872 67924	"Your Excellency must excuse us for not being tidy,"
+T426	Cue 67925 67931	moaned
+T427	Entity 67932 67949	Moisey Moisevitch
+T428	Quotation 68107 68145	"We are plain folks, your Excellency."
+T429	Entity 68256 68294	a young plump and very beautiful woman
+R482	Cueing Arg1:T426 Arg2:T425	
+R483	Speaker Arg1:T427 Arg2:T425	
+R484	Addressee Arg1:T429 Arg2:T425	
+R485	Speaker Arg1:T427 Arg2:T428	
+R486	Addressee Arg1:T429 Arg2:T428	
+T430	Quotation 68491 68523	"Has Varlamov been here to-day?"
+T431	Entity 68524 68539	a woman's voice
+T432	Cue 68540 68548	inquired
+T433	Entity 68578 68595	Moisey Moisevitch
+R487	Addressee Arg1:T433 Arg2:T430	
+R488	Speaker Arg1:T431 Arg2:T430	
+R489	Cueing Arg1:T432 Arg2:T430	
+T434	Quotation 68550 68572	"No, your Excellency,"
+T435	Cue 68573 68577	said
+R490	Cueing Arg1:T435 Arg2:T434	
+R491	Speaker Arg1:T433 Arg2:T434	
+R492	Addressee Arg1:T431 Arg2:T434	
+T436	Quotation 68597 68665	"If you see him to-morrow, ask him to come and see me for a minute."
+R493	Addressee Arg1:T433 Arg2:T436	
+R494	Speaker Arg1:T431 Arg2:T436	
+T437	Quotation 68916 68936	"What a pretty boy!"
+T438	Cue 68937 68941	said
+T439	Entity 68942 68950	the lady
+R495	Cueing Arg1:T438 Arg2:T437	
+R496	Speaker Arg1:T439 Arg2:T437	
+T440	Quotation 68952 69048	"Whose boy is it? Kazimir Mihalovitch, look what a charming fellow! Good heavens, he is asleep!"
+R497	Cueing Arg1:T438 Arg2:T440	
+R498	Speaker Arg1:T439 Arg2:T440	
+T441	Entity 68699 68709	Yegorushka
+R499	Addressee Arg1:T441 Arg2:T437	
+R500	Addressee Arg1:T441 Arg2:T440	
+T442	Quotation 69257 69282	"Yegorushka, Yegorushka!"
+T443	Entity 69283 69285	he
+T444	Entity 69292 69307	two bass voices
+T445	Cue 69308 69315	whisper
+R501	Addressee Arg1:T443 Arg2:T442	
+R502	Speaker Arg1:T444 Arg2:T442	
+R503	Cueing Arg1:T445 Arg2:T442	
+T446	Quotation 69317 69347	"Get up; it is time to start."
+R504	Addressee Arg1:T443 Arg2:T446	
+T447	Entity 69374 69381	Deniska
+R505	Speaker Arg1:T447 Arg2:T446	
+T448	Quotation 69806 69812	"Woa!"
+R506	Speaker Arg1:T447 Arg2:T448	
+T449	Quotation 70208 70233	"The Countess Dranitsky,"
+T450	Cue 70234 70243	whispered
+T451	Entity 70244 70262	Father Christopher
+T452	Entity 70184 70188	them
+R507	Cueing Arg1:T450 Arg2:T449	
+R508	Speaker Arg1:T451 Arg2:T449	
+R509	Addressee Arg1:T452 Arg2:T449	
+T453	Quotation 70292 70318	"Yes, Countess Dranitsky,"
+T454	Cue 70319 70327	repeated
+T455	Entity 70328 70338	Kuzmitchov
+R510	Cueing Arg1:T454 Arg2:T453	
+R511	Speaker Arg1:T455 Arg2:T453	
+R512	Addressee Arg1:T452 Arg2:T453	
+T456	Entity 72587 72589	he
+T457	Cue 72590 72594	said
+T458	Quotation 72596 72787	"But doesn't that Kazimir Mihalovitch plunder her right and left! The year before last when, do you remember, I bought some wool from her, he made over three thousand from my purchase alone."
+R513	Cueing Arg1:T457 Arg2:T458	
+R514	Speaker Arg1:T456 Arg2:T458	
+T459	Quotation 72788 72837	"That is just what you would expect from a Pole,"
+T460	Cue 72838 72842	said
+T461	Entity 72843 72861	Father Christopher
+R515	Addressee Arg1:T461 Arg2:T458	
+R516	Cueing Arg1:T460 Arg2:T459	
+R517	Speaker Arg1:T461 Arg2:T459	
+R518	Addressee Arg1:T456 Arg2:T459	
+T462	Quotation 72863 72958	"And little does it trouble her. Young and foolish, as they say, her head is full of nonsense."
+R519	Cueing Arg1:T460 Arg2:T462	
+R520	Speaker Arg1:T461 Arg2:T462	
+R521	Addressee Arg1:T456 Arg2:T462	
+T463	Quotation 78531 78586	"Woa! Good-evening, Panteley! Is everything all right?"
+T464	Quotation 78587 78649	"First-rate, Ivan Ivanitch!  Haven't you seen Varlamov, lads?"
+T465	Quotation 78650 78667	"No, we haven't."
+T466	Quotation 78984 79030	"Well, then, we shall go on to the Molokans'!"
+T467	Entity 79031 79041	Kuzmitchov
+T468	Cue 79042 79046	said
+R522	Speaker Arg1:T467 Arg2:T466	
+R523	Cueing Arg1:T468 Arg2:T466	
+T469	Quotation 79054 79169	"The Jew told us that Varlamov was putting up for the night at the Molokans'. So good-bye, lads! Good luck to you!"
+R524	Speaker Arg1:T467 Arg2:T469	
+R525	Cueing Arg1:T468 Arg2:T469	
+T470	Quotation 79170 79196	"Good-bye, Ivan Ivanitch,"
+T471	Entity 79197 79211	several voices
+T472	Cue 79212 79219	replied
+R526	Addressee Arg1:T471 Arg2:T469	
+R527	Addressee Arg1:T471 Arg2:T466	
+R528	Speaker Arg1:T467 Arg2:T463	
+R529	Speaker Arg1:T467 Arg2:T465	
+R530	Addressee Arg1:T471 Arg2:T463	
+R531	Speaker Arg1:T471 Arg2:T464	
+R532	Addressee Arg1:T471 Arg2:T465	
+R533	Addressee Arg1:T467 Arg2:T464	
+R534	Speaker Arg1:T471 Arg2:T470	
+R535	Cueing Arg1:T472 Arg2:T470	
+R536	Addressee Arg1:T467 Arg2:T470	
+T473	Quotation 79221 79235	"I say, lads,"
+T474	Entity 79236 79246	Kuzmitchov
+T475	Cue 79247 79252	cried
+T476	Quotation 79262 79489	"you take my little lad along with you! Why should he go jolting off with us for nothing? You put him on the bales, Panteley, and let him come on slowly, and we shall overtake you. Get down, Yegor! Go on; it's all right. . . ."
+R537	Speaker Arg1:T474 Arg2:T473	
+R538	Cueing Arg1:T475 Arg2:T473	
+R539	Speaker Arg1:T474 Arg2:T476	
+R540	Cueing Arg1:T475 Arg2:T476	
+R541	Addressee Arg1:T471 Arg2:T476	
+T477	Quotation 79735 79763	"Hey, take his little coat!"
+T478	Entity 79764 79771	Deniska
+T479	Cue 79772 79779	shouted
+R542	Speaker Arg1:T478 Arg2:T477	
+R543	Cueing Arg1:T479 Arg2:T477	
+R544	Addressee Arg1:T471 Arg2:T477	
+T480	Quotation 80117 80154	"Don't be unkind to him, you devils!"
+T481	Entity 80164 80179	Deniska's voice
+T482	Cue 80158 80163	heard
+R545	Speaker Arg1:T481 Arg2:T480	
+R546	Cueing Arg1:T482 Arg2:T480	
+R547	Addressee Arg1:T471 Arg2:T480	
+T483	Quotation 80187 80222	"Good-bye, lads; good luck to you,"
+T484	Cue 80223 80230	shouted
+T485	Entity 80231 80241	Kuzmitchov
+R548	Cueing Arg1:T484 Arg2:T483	
+R549	Speaker Arg1:T485 Arg2:T483	
+T486	Quotation 80243 80261	"I rely upon you!"
+R550	Cueing Arg1:T484 Arg2:T486	
+R551	Speaker Arg1:T485 Arg2:T486	
+T487	Quotation 80262 80299	"Don't you be uneasy, Ivan Ivanitch!"
+R552	Addressee Arg1:T485 Arg2:T487	
+R553	Addressee Arg1:T471 Arg2:T483	
+R554	Addressee Arg1:T471 Arg2:T486	
+R555	Speaker Arg1:T471 Arg2:T487	
+T488	Entity 80618 80625	someone
+T489	Cue 80653 80660	shouted
+T490	Quotation 80662 80680	"Kiruha! Sta-art!"
+R556	Speaker Arg1:T488 Arg2:T490	
+R557	Cueing Arg1:T489 Arg2:T490	
+T491	Quotation 84637 84705	"Ah, you are awake, youngster! So you are the son of Ivan Ivanitch?"
+T492	Entity 84561 84563	he
+T493	Entity 84574 84577	him
+T494	Cue 84582 84586	said
+R558	Speaker Arg1:T492 Arg2:T491	
+R559	Addressee Arg1:T493 Arg2:T491	
+R560	Cueing Arg1:T494 Arg2:T491	
+T495	Quotation 84706 84729	"No; his nephew. . . ."
+R561	Speaker Arg1:T493 Arg2:T495	
+R562	Addressee Arg1:T492 Arg2:T495	
+R563	Cueing Arg1:T494 Arg2:T495	
+T496	Quotation 84730 85148	"Nephew of Ivan Ivanitch? Here I have taken off my boots and am hopping along barefoot. My feet are bad; they are swollen, and it's easier without my boots . . . easier, youngster . . . without boots, I mean. . . . So you are his nephew? He is a good man; no harm in him. . . . God give him health. . . . No harm in him . . . I mean Ivan Ivanitch. . . . He has gone to the Molokans'. . . . O Lord, have mercy upon us!"
+R564	Speaker Arg1:T492 Arg2:T496	
+R565	Addressee Arg1:T493 Arg2:T496	
+R566	Cueing Arg1:T494 Arg2:T496	
+T497	Quotation 87274 87296	"Where are you going?"
+T498	Entity 87297 87299	he
+T499	Cue 87300 87305	asked
+T500	Quotation 87331 87343	"To school,"
+T501	Cue 87344 87352	answered
+T502	Entity 87353 87363	Yegorushka
+R567	Speaker Arg1:T498 Arg2:T497	
+R568	Cueing Arg1:T499 Arg2:T497	
+R569	Cueing Arg1:T501 Arg2:T500	
+R570	Speaker Arg1:T502 Arg2:T500	
+R571	Addressee Arg1:T498 Arg2:T500	
+R572	Addressee Arg1:T502 Arg2:T497	
+T503	Quotation 87365 87856	"To school? Aha! . . . Well, may the Queen of Heaven help you. Yes. One brain is good, but two are better. To one man God gives one brain, to another two brains, and to another three. . . . To another three, that is true. . . . One brain you are born with, one you get from learning, and a third with a good life. So you see, my lad, it is a good thing if a man has three brains. Living is easier for him, and, what's more, dying is, too. Dying is, too. . . . And we shall all die for sure."
+R573	Speaker Arg1:T498 Arg2:T503	
+R574	Addressee Arg1:T502 Arg2:T503	
+T504	Entity 87857 87868	The old man
+T505	Cue 87946 87953	went on
+T506	Quotation 87955 88493	"Maxim Nikolaitch, the gentleman from Slavyanoserbsk, brought a little lad to school, too, last year. I don't know how he is getting on there in studying the sciences, but he was a nice good little lad. . . . God give them help, they are nice gentlemen. Yes, he, too, brought his boy to school. . . . In Slavyanoserbsk there is no establishment, I suppose, for study. No. . . . But it is a nice town. . . . There's an ordinary school for simple folks, but for the higher studies there is nothing. No, that's true. What's your name? . . ."
+R575	Speaker Arg1:T504 Arg2:T506	
+R576	Cueing Arg1:T505 Arg2:T506	
+T507	Entity 87912 87922	Yegorushka
+R577	Addressee Arg1:T507 Arg2:T506	
+T508	Quotation 88494 88507	"Yegorushka."
+R578	Speaker Arg1:T507 Arg2:T508	
+R579	Addressee Arg1:T504 Arg2:T508	
+T509	Quotation 88508 89668	"Yegory, then. . . . The holy martyr Yegory, the Bearer of Victory, whose day is the twenty-third of April. And my christian name is Panteley, . . . Panteley Zaharov Holodov. . . . We are Holodovs . . . . I am a native of-- maybe you've heard of it-- Tim in the province of Kursk. My brothers are artisans and work at trades in the town, but I am a peasant. . . . I have remained a peasant. Seven years ago I went there-- home, I mean. I went to the village and to the town. . . . To Tim, I mean. Then, thank God, they were all alive and well; . . . but now I don't know. . . . Maybe some of them are dead. . . . And it's time they did die, for some of them are older than I am. Death is all right; it is good so long, of course, as one does not die without repentance. There is no worse evil than an impenitent death; an impenitent death is a joy to the devil. And if you want to die penitent, so that you may not be forbidden to enter the mansions of the Lord, pray to the holy martyr Varvara. She is the intercessor. She is, that's the truth. . . . For God has given her such a place in the heavens that everyone has the right to pray to her for penitence."
+R580	Addressee Arg1:T507 Arg2:T509	
+R581	Speaker Arg1:T504 Arg2:T509	
+T510	Entity 90203 90205	he
+T511	Cue 90206 90211	spoke
+T512	Entity 90021 90031	Yegorushka
+T513	Quotation 90266 90333	"Yes, he took his little lad; . . . he took him, that's true . . ."
+R582	Speaker Arg1:T510 Arg2:T513	
+R583	Cueing Arg1:T511 Arg2:T513	
+R584	Addressee Arg1:T512 Arg2:T513	
+T514	Entity 90724 90828	a short stubby little man with a bushy black beard, wearing a waistcoat and a shirt outside his trousers
+T515	Cue 90910 90914	said
+T516	Quotation 90916 90956	"I say, lads, Dymov has killed a snake!"
+T517	Entity 90840 90843	him
+R585	Cueing Arg1:T515 Arg2:T516	
+R586	Addressee Arg1:T517 Arg2:T516	
+R587	Speaker Arg1:T514 Arg2:T516	
+T518	Quotation 91323 91364	"That's not a viper; it's a grass snake!"
+T519	Cue 91365 91372	shouted
+T520	Entity 91373 91380	someone
+R588	Cueing Arg1:T519 Arg2:T518	
+R589	Speaker Arg1:T520 Arg2:T518	
+T521	Entity 91183 91206	The flaxen-headed Dymov
+R590	Addressee Arg1:T521 Arg2:T518	
+T522	Quotation 91527 91543	"You jail-bird!"
+T523	Entity 91544 91546	he
+T524	Cue 91547 91552	cried
+T525	Quotation 91580 91736	"What have you killed a grass snake for? What had he done to you, you damned brute? Look, he has killed a grass snake; how would you like to be treated so?"
+R591	Speaker Arg1:T523 Arg2:T522	
+R592	Cueing Arg1:T524 Arg2:T522	
+R593	Speaker Arg1:T523 Arg2:T525	
+R594	Cueing Arg1:T524 Arg2:T525	
+R595	Addressee Arg1:T521 Arg2:T522	
+T526	Quotation 91737 91788	"Grass snakes ought not to be killed, that's true,"
+T527	Entity 91789 91797	Panteley
+T528	Cue 91798 91806	muttered
+T529	Quotation 91817 91972	"they ought not. . . They are not vipers; though it looks like a snake, it is a gentle, innocent creature. . . . It's friendly to man, the grass snake is."
+R596	Speaker Arg1:T527 Arg2:T526	
+R597	Speaker Arg1:T527 Arg2:T529	
+R598	Cueing Arg1:T528 Arg2:T526	
+R599	Cueing Arg1:T528 Arg2:T529	
+T530	Entity 91973 92011	Dymov and the man with the black beard
+R600	Addressee Arg1:T530 Arg2:T526	
+T531	Quotation 92289 92349	"Grandfather, what did he want to kill the grass snake for?"
+T532	Entity 92193 92222	the man with his face tied up
+T533	Entity 92250 92258	Panteley
+T534	Cue 92263 92268	asked
+R601	Speaker Arg1:T532 Arg2:T531	
+R602	Addressee Arg1:T533 Arg2:T531	
+R603	Cueing Arg1:T534 Arg2:T531	
+T535	Quotation 92521 92560	"Grandfather, what did he kill it for?"
+T536	Entity 92561 92563	he
+T537	Cue 92564 92572	repeated
+T538	Entity 92596 92604	Panteley
+R604	Speaker Arg1:T536 Arg2:T535	
+R605	Cueing Arg1:T537 Arg2:T535	
+R606	Addressee Arg1:T538 Arg2:T535	
+T539	Quotation 92606 92676	"A stupid fellow. His hands itch to kill, and that is why he does it,"
+T540	Cue 92677 92685	answered
+T541	Entity 92686 92697	the old man
+T542	Quotation 92699 93387	"but he oughtn't to kill a grass snake, that's true. . . . Dymov is a ruffian, we all know, he kills everything he comes across, and Kiruha did not interfere. He ought to have taken its part, but instead of that, he goes off into 'Ha-ha-ha!' and 'Ho-ho-ho!' . . . But don't be angry, Vassya. . . . Why be angry? They've killed it-- well, never mind them. Dymov is a ruffian and Kiruha acted from foolishness-- never mind. . . . They are foolish people without understanding-- but there, don't mind them. Emelyan here never touches what he shouldn't; he never does; . . . that is true, . . . because he is a man of education, while they are stupid. . . . Emelyan, he doesn't touch things."
+R607	Cueing Arg1:T540 Arg2:T539	
+R608	Speaker Arg1:T541 Arg2:T539	
+R609	Cueing Arg1:T540 Arg2:T542	
+R610	Speaker Arg1:T541 Arg2:T542	
+R611	Addressee Arg1:T536 Arg2:T539	
+R612	Addressee Arg1:T536 Arg2:T542	
+T543	Quotation 93603 93632	"What are you talking about?"
+T544	Entity 93633 93635	he
+T545	Cue 93636 93641	asked
+R613	Speaker Arg1:T544 Arg2:T543	
+R614	Cueing Arg1:T545 Arg2:T543	
+T546	Entity 93544 93552	Panteley
+R615	Addressee Arg1:T546 Arg2:T543	
+T547	Quotation 93668 93696	"Why, Vassya here is angry,"
+T548	Cue 93697 93701	said
+T549	Entity 93702 93710	Panteley
+R616	Cueing Arg1:T548 Arg2:T547	
+R617	Speaker Arg1:T549 Arg2:T547	
+R618	Addressee Arg1:T544 Arg2:T547	
+T550	Quotation 93712 93879	"So I have been saying things to him to stop his being angry. . . . Oh, how my swollen feet hurt! Oh, oh! They are more inflamed than ever for Sunday, God's holy day!"
+R619	Cueing Arg1:T548 Arg2:T550	
+R620	Speaker Arg1:T549 Arg2:T550	
+T551	Quotation 93880 93900	"It's from walking,"
+T552	Cue 93901 93909	observed
+T553	Entity 93910 93916	Vassya
+R621	Cueing Arg1:T552 Arg2:T551	
+R622	Speaker Arg1:T553 Arg2:T551	
+R623	Addressee Arg1:T549 Arg2:T551	
+R624	Addressee Arg1:T553 Arg2:T550	
+T554	Quotation 93918 94059	"No, lad, no. It's not from walking. When I walk it seems easier; when I lie down and get warm, . . . it's deadly. Walking is easier for me."
+R625	Cueing Arg1:T552 Arg2:T554	
+R626	Speaker Arg1:T553 Arg2:T554	
+R627	Addressee Arg1:T549 Arg2:T554	
+T555	Entity 94219 94221	he
+T556	Cue 94240 94251	croaked out
+T557	Quotation 94264 94535	"I have no voice. It's a real misfortune. All last night and this morning I have been haunted by the trio 'Lord, have Mercy' that we sang at the wedding at Marionovsky's. It's in my head and in my throat. It seems as though I could sing it, but I can't; I have no voice."
+R628	Speaker Arg1:T555 Arg2:T557	
+R629	Cueing Arg1:T556 Arg2:T557	
+R630	Addressee Arg1:T549 Arg2:T557	
+T558	Entity 94536 94538	He
+T559	Cue 94575 94582	went on
+T560	Quotation 94584 94882	"For fifteen years I was in the choir. In all the Lugansky works there was, maybe, no one with a voice like mine. But, confound it, I bathed two years ago in the Donets, and I can't get a single note true ever since. I took cold in my throat. And without a voice I am like a workman without hands."
+R631	Speaker Arg1:T558 Arg2:T560	
+R632	Cueing Arg1:T559 Arg2:T560	
+T561	Quotation 94883 94897	"That's true,"
+T562	Entity 94898 94906	Panteley
+T563	Cue 94907 94913	agreed
+R633	Addressee Arg1:T562 Arg2:T560	
+R634	Speaker Arg1:T562 Arg2:T561	
+R635	Cueing Arg1:T563 Arg2:T561	
+R636	Addressee Arg1:T558 Arg2:T561	
+T564	Quotation 94915 94968	"I think of myself as a ruined man and nothing more."
+R637	Addressee Arg1:T562 Arg2:T564	
+R638	Speaker Arg1:T558 Arg2:T564	
+T565	Quotation 95072 95117	"There's a little gentleman driving with us,"
+T566	Entity 95122 95124	he
+R639	Speaker Arg1:T566 Arg2:T565	
+T567	Quotation 95185 95267	"What a grand driver! Stay with us and you shall drive the waggons and sell wool."
+R640	Speaker Arg1:T566 Arg2:T567	
+T568	Entity 95017 95027	Yegorushka
+R641	Addressee Arg1:T568 Arg2:T565	
+R642	Addressee Arg1:T568 Arg2:T567	
+T569	Entity 97288 97290	He
+T570	Cue 97309 97316	shouted
+T571	Quotation 97318 97391	"I say, lads, the old man has been brought to bed of a boy in the night!"
+R643	Speaker Arg1:T569 Arg2:T571	
+R644	Cueing Arg1:T570 Arg2:T571	
+T572	Entity 97392 97398	Kiruha
+R645	Addressee Arg1:T572 Arg2:T571	
+T573	Quotation 98805 98851	"Grandfather, why do you drink out of a lamp?"
+T574	Entity 98852 98862	Yegorushka
+T575	Cue 98863 98868	asked
+T576	Entity 98869 98872	him
+R646	Speaker Arg1:T574 Arg2:T573	
+R647	Cueing Arg1:T575 Arg2:T573	
+R648	Addressee Arg1:T576 Arg2:T573	
+T577	Quotation 98885 98942	"One man drinks out of a pail and another out of a lamp,"
+T578	Entity 98943 98954	the old man
+R649	Speaker Arg1:T578 Arg2:T577	
+R650	Addressee Arg1:T574 Arg2:T577	
+T579	Quotation 98975 99081	"Every man to his own taste. . . . You drink out of the pail-- well, drink, and may it do you good. . . ."
+R651	Speaker Arg1:T578 Arg2:T579	
+R652	Addressee Arg1:T574 Arg2:T579	
+T580	Quotation 99082 99108	"You darling, you beauty!"
+T581	Entity 99109 99115	Vassya
+T582	Cue 99116 99120	said
+R653	Speaker Arg1:T581 Arg2:T580	
+R654	Cueing Arg1:T582 Arg2:T580	
+T583	Quotation 99164 99178	"You darling!"
+R655	Speaker Arg1:T581 Arg2:T583	
+R656	Cueing Arg1:T582 Arg2:T583	
+T584	Quotation 99320 99351	"Who is it you are talking to?"
+T585	Cue 99352 99357	asked
+T586	Entity 99358 99364	Kiruha
+R657	Cueing Arg1:T585 Arg2:T584	
+R658	Speaker Arg1:T586 Arg2:T584	
+R659	Addressee Arg1:T581 Arg2:T584	
+T587	Quotation 99366 99427	"A darling fox, . . . lying on her back, playing like a dog."
+R660	Speaker Arg1:T581 Arg2:T587	
+R661	Addressee Arg1:T586 Arg2:T587	
+T588	Quotation 102037 102048	"Ha-ha-ha!"
+T589	Entity 102049 102051	he
+T590	Cue 102052 102059	shouted
+T591	Quotation 102061 102083	"Catch him! Hold him!"
+R662	Speaker Arg1:T589 Arg2:T588	
+R663	Cueing Arg1:T590 Arg2:T588	
+R664	Speaker Arg1:T589 Arg2:T591	
+R665	Cueing Arg1:T590 Arg2:T591	
+T592	Entity 101902 101908	Kiruha
+R666	Addressee Arg1:T592 Arg2:T588	
+R667	Addressee Arg1:T592 Arg2:T591	
+T593	Quotation 103776 103813	"A crayfish, look, lads! A crayfish!"
+T594	Entity 103814 103820	Kiruha
+T595	Cue 103821 103826	cried
+T596	Entity 103734 103741	Styopka
+R668	Speaker Arg1:T594 Arg2:T593	
+R669	Cueing Arg1:T595 Arg2:T593	
+R670	Addressee Arg1:T596 Arg2:T593	
+T597	Cue 104601 104605	said
+T598	Entity 104461 104471	Yegorushka
+T599	Quotation 104607 104642	"Fool! I'll punch you in the face."
+R671	Cueing Arg1:T597 Arg2:T599	
+R672	Speaker Arg1:T598 Arg2:T599	
+T600	Entity 104570 104579	the bully
+R673	Addressee Arg1:T600 Arg2:T599	
+T601	Entity 104703 104705	he
+T602	Cue 104727 104732	added
+T603	Quotation 104734 104771	"You blackguard! You son of a bitch!"
+R674	Speaker Arg1:T601 Arg2:T603	
+R675	Cueing Arg1:T602 Arg2:T603	
+R676	Addressee Arg1:T600 Arg2:T603	
+T604	Cue 104880 104888	shouting
+T605	Quotation 104890 104946	"Ha-ha-ha! Let us catch fish! Mates, let us catch fish."
+T606	Entity 104776 104781	Dymov
+T607	Entity 104872 104878	Kiruha
+R677	Speaker Arg1:T606 Arg2:T605	
+R678	Addressee Arg1:T607 Arg2:T605	
+R679	Cueing Arg1:T604 Arg2:T605	
+T608	Quotation 104947 104960	"To be sure,"
+T609	Entity 104961 104967	Kiruha
+T610	Cue 104968 104974	agreed
+T611	Quotation 104976 105011	"there must be a lot of fish here."
+R680	Speaker Arg1:T609 Arg2:T608	
+R681	Speaker Arg1:T609 Arg2:T611	
+R682	Cueing Arg1:T610 Arg2:T608	
+R683	Cueing Arg1:T610 Arg2:T611	
+R684	Addressee Arg1:T606 Arg2:T608	
+R685	Addressee Arg1:T606 Arg2:T611	
+T612	Quotation 105012 105100	"Styopka, run to the village and ask the peasants for a net!  They won't give it to me."
+R686	Speaker Arg1:T609 Arg2:T612	
+T613	Quotation 105101 105229	"They will, you ask them. Tell them that they should give it to us for Christ's sake, because we are just the same as pilgrims."
+T614	Entity 105245 105252	Styopka
+T615	Quotation 105230 105244	"That's true."
+R687	Addressee Arg1:T614 Arg2:T612	
+R688	Speaker Arg1:T614 Arg2:T613	
+R689	Addressee Arg1:T609 Arg2:T613	
+R690	Addressee Arg1:T614 Arg2:T615	
+R691	Speaker Arg1:T609 Arg2:T615	
+T616	Quotation 106061 106087	"And why don't you bathe?"
+T617	Entity 106088 106098	Yegorushka
+T618	Cue 106099 106104	asked
+T619	Entity 106105 106111	Vassya
+R692	Speaker Arg1:T617 Arg2:T616	
+R693	Cueing Arg1:T618 Arg2:T616	
+R694	Addressee Arg1:T619 Arg2:T616	
+T620	Quotation 106113 106145	"Oh, I don't care for it, . . ."
+T621	Cue 106146 106154	answered
+T622	Entity 106155 106161	Vassya
+R695	Cueing Arg1:T621 Arg2:T620	
+R696	Speaker Arg1:T622 Arg2:T620	
+R697	Addressee Arg1:T617 Arg2:T620	
+T623	Quotation 106163 106196	"How is it your chin is swollen?"
+R698	Speaker Arg1:T617 Arg2:T623	
+R699	Addressee Arg1:T622 Arg2:T623	
+T624	Quotation 106197 106462	"It's bad. . . . I used to work at the match factory, little sir. . . . The doctor used to say that it would make my jaw rot. The air is not healthy there. There were three chaps beside me who had their jaws swollen, and with one of them it rotted away altogether."
+R700	Addressee Arg1:T617 Arg2:T624	
+R701	Speaker Arg1:T622 Arg2:T624	
+T625	Quotation 106978 106990	"It's deep,"
+T626	Cue 106991 106998	croaked
+T627	Entity 106999 107005	Kiruha
+T628	Quotation 107007 107034	"You won't catch anything."
+R702	Cueing Arg1:T626 Arg2:T625	
+R703	Cueing Arg1:T626 Arg2:T628	
+R704	Speaker Arg1:T627 Arg2:T625	
+R705	Speaker Arg1:T627 Arg2:T628	
+T629	Quotation 107035 107058	"Don't tug, you devil!"
+T630	Cue 107059 107066	shouted
+T631	Entity 107067 107072	Dymov
+R706	Addressee Arg1:T631 Arg2:T625	
+R707	Addressee Arg1:T631 Arg2:T628	
+R708	Cueing Arg1:T630 Arg2:T629	
+R709	Speaker Arg1:T631 Arg2:T629	
+R710	Addressee Arg1:T627 Arg2:T629	
+T632	Quotation 107119 107132	"Hold it up."
+R711	Speaker Arg1:T631 Arg2:T632	
+R712	Addressee Arg1:T627 Arg2:T632	
+T633	Quotation 107133 107165	"You won't catch anything here,"
+T634	Entity 107166 107174	Panteley
+T635	Cue 107175 107182	shouted
+R713	Speaker Arg1:T634 Arg2:T633	
+R714	Cueing Arg1:T635 Arg2:T633	
+R715	Addressee Arg1:T631 Arg2:T633	
+T636	Quotation 107198 107290	"You are only frightening the fish, you stupids! Go more to the left! It's shallower there!"
+R716	Speaker Arg1:T634 Arg2:T636	
+R717	Cueing Arg1:T635 Arg2:T636	
+R718	Addressee Arg1:T631 Arg2:T636	
+T637	Quotation 107451 107457	"Ugh!"
+T638	Cue 107458 107463	cried
+T639	Entity 107464 107472	Panteley
+T640	Quotation 107499 107538	"You've let the perch slip! It's gone!"
+R719	Cueing Arg1:T638 Arg2:T637	
+R720	Cueing Arg1:T638 Arg2:T640	
+R721	Speaker Arg1:T639 Arg2:T637	
+R722	Speaker Arg1:T639 Arg2:T640	
+T641	Entity 107564 107569	Dymov
+T642	Entity 107574 107580	Kiruha
+R723	Addressee Arg1:T641 Arg2:T637	
+R724	Addressee Arg1:T641 Arg2:T640	
+R725	Addressee Arg1:T642 Arg2:T637	
+R726	Addressee Arg1:T642 Arg2:T640	
+T643	Entity 108458 108460	he
+T644	Cue 108515 108522	shouted
+T645	Quotation 108524 108567	"Look at this perch! We've five like that!"
+R727	Speaker Arg1:T643 Arg2:T645	
+R728	Cueing Arg1:T644 Arg2:T645	
+T646	Quotation 108868 108881	"What is it?"
+T647	Entity 108882 108886	they
+T648	Cue 108887 108894	shouted
+T649	Entity 108898 108902	them
+R729	Speaker Arg1:T647 Arg2:T646	
+R730	Cueing Arg1:T648 Arg2:T646	
+R731	Addressee Arg1:T649 Arg2:T646	
+R732	Addressee Arg1:T649 Arg2:T645	
+T650	Quotation 109107 109119	"It's full!"
+T651	Entity 109120 109122	he
+T652	Cue 109123 109130	shouted
+R733	Speaker Arg1:T651 Arg2:T650	
+R734	Cueing Arg1:T652 Arg2:T650	
+T653	Quotation 109148 109166	"Give us another!"
+R735	Speaker Arg1:T651 Arg2:T653	
+R736	Cueing Arg1:T652 Arg2:T653	
+T654	Quotation 109691 109699	"Mates,"
+T655	Cue 109700 109704	said
+T656	Entity 109705 109712	Styopka
+T657	Quotation 109727 109767	"Vassya is eating a live gudgeon! Phoo!"
+R737	Cueing Arg1:T655 Arg2:T654	
+R738	Cueing Arg1:T655 Arg2:T657	
+R739	Speaker Arg1:T656 Arg2:T654	
+R740	Speaker Arg1:T656 Arg2:T657	
+T658	Quotation 109768 109803	"It's not a gudgeon, but a minnow,"
+T659	Entity 109804 109810	Vassya
+T660	Cue 109811 109819	answered
+R741	Speaker Arg1:T659 Arg2:T658	
+R742	Cueing Arg1:T660 Arg2:T658	
+R743	Addressee Arg1:T656 Arg2:T658	
+T661	Quotation 111340 111357	"I am here, too,"
+T662	Entity 111358 111360	he
+T663	Cue 111361 111365	said
+R744	Speaker Arg1:T662 Arg2:T661	
+R745	Cueing Arg1:T663 Arg2:T661	
+T664	Entity 111335 111338	him
+R746	Addressee Arg1:T664 Arg2:T661	
+T665	Entity 111659 111666	Emelyan
+T666	Entity 111647 111657	Yegorushka
+T667	Cue 111706 111710	said
+T668	Quotation 111712 111735	"Don't play in church!"
+R747	Speaker Arg1:T666 Arg2:T668	
+R748	Addressee Arg1:T665 Arg2:T668	
+R749	Cueing Arg1:T667 Arg2:T668	
+T669	Quotation 113118 113155	"Have they given out the holy bread?"
+T670	Entity 113156 113158	he
+T671	Cue 113159 113164	asked
+R750	Speaker Arg1:T670 Arg2:T669	
+R751	Cueing Arg1:T671 Arg2:T669	
+T672	Quotation 113166 113197	"There is none; there is none,"
+T673	Quotation 113227 113251	"It is no use your. . ."
+T674	Entity 113198 113208	the beadle
+R752	Addressee Arg1:T674 Arg2:T669	
+R753	Speaker Arg1:T674 Arg2:T672	
+T675	Cue 113209 113217	muttered
+R754	Cueing Arg1:T675 Arg2:T672	
+R755	Addressee Arg1:T670 Arg2:T672	
+R756	Speaker Arg1:T674 Arg2:T673	
+R757	Cueing Arg1:T675 Arg2:T673	
+R758	Addressee Arg1:T670 Arg2:T673	
+T676	Quotation 114408 114456	"Give me a farthing's worth of sunflower seeds,"
+T677	Entity 114457 114467	Yegorushka
+T678	Cue 114468 114472	said
+T679	Entity 114485 114488	him
+R759	Speaker Arg1:T677 Arg2:T676	
+R760	Cueing Arg1:T678 Arg2:T676	
+R761	Addressee Arg1:T679 Arg2:T676	
+T680	Quotation 114854 114881	"How much are these cakes?"
+T681	Entity 114712 114714	He
+T682	Cue 114785 114790	asked
+T683	Entity 114490 114504	The shopkeeper
+R762	Speaker Arg1:T681 Arg2:T680	
+R763	Cueing Arg1:T682 Arg2:T680	
+R764	Addressee Arg1:T683 Arg2:T680	
+T684	Quotation 114882 114903	"Two for a farthing."
+R765	Addressee Arg1:T681 Arg2:T684	
+R766	Speaker Arg1:T683 Arg2:T684	
+T685	Entity 114904 114914	Yegorushka
+T686	Cue 114991 114996	asked
+T687	Entity 114997 115000	him
+T688	Quotation 115002 115051	"And how much do you charge for cakes like this?"
+R767	Speaker Arg1:T685 Arg2:T688	
+R768	Cueing Arg1:T686 Arg2:T688	
+R769	Addressee Arg1:T687 Arg2:T688	
+T689	Quotation 115145 115157	"Like that?"
+T690	Entity 115158 115160	he
+T691	Cue 115161 115166	asked
+R770	Speaker Arg1:T690 Arg2:T689	
+R771	Cueing Arg1:T691 Arg2:T689	
+R772	Addressee Arg1:T685 Arg2:T689	
+T692	Entity 115173 115175	he
+T693	Cue 115224 115232	answered
+T694	Quotation 115234 115266	"Two for three farthings. . . ."
+R773	Speaker Arg1:T692 Arg2:T694	
+R774	Cueing Arg1:T693 Arg2:T694	
+R775	Addressee Arg1:T685 Arg2:T694	
+T695	Quotation 115287 115307	"Whose boy are you?"
+T696	Entity 115308 115319	the shopman
+T697	Cue 115320 115325	asked
+R776	Speaker Arg1:T696 Arg2:T695	
+R777	Cueing Arg1:T697 Arg2:T695	
+R778	Addressee Arg1:T685 Arg2:T695	
+T698	Quotation 115382 115412	"The nephew of Ivan Ivanitch."
+R779	Addressee Arg1:T696 Arg2:T698	
+R780	Speaker Arg1:T685 Arg2:T698	
+T699	Quotation 115413 115453	"There are all sorts of Ivan Ivanitchs,"
+T700	Entity 115454 115468	the shopkeeper
+T701	Cue 115469 115475	sighed
+R781	Speaker Arg1:T700 Arg2:T699	
+R782	Cueing Arg1:T701 Arg2:T699	
+T702	Cue 115548 115553	asked
+T703	Entity 115477 115479	He
+T704	Quotation 115555 115581	"Would you like some tea?"
+T705	Entity 115492 115502	Yegorushka
+R783	Speaker Arg1:T703 Arg2:T704	
+R784	Addressee Arg1:T705 Arg2:T704	
+R785	Cueing Arg1:T702 Arg2:T704	
+T706	Quotation 115582 115597	"Please. . . ."
+T707	Entity 115598 115608	Yegorushka
+T708	Cue 115609 115617	assented
+R786	Speaker Arg1:T707 Arg2:T706	
+R787	Cueing Arg1:T708 Arg2:T706	
+R788	Addressee Arg1:T703 Arg2:T706	
+T709	Quotation 116456 116481	"Do you call those oats?"
+T710	Entity 116482 116494	the customer
+T711	Cue 116495 116499	said
+R789	Speaker Arg1:T710 Arg2:T709	
+R790	Cueing Arg1:T711 Arg2:T709	
+T712	Entity 116353 116367	The shopkeeper
+R791	Addressee Arg1:T712 Arg2:T709	
+T713	Quotation 116510 116649	"Those are not oats, but chaff. It's a mockery to give that to the hens; enough to make the hens laugh. . . . No, I will go to Bondarenko."
+R792	Speaker Arg1:T710 Arg2:T713	
+R793	Cueing Arg1:T711 Arg2:T713	
+R794	Addressee Arg1:T712 Arg2:T713	
+T714	Quotation 117214 117238	"To Thee we sing. . . ."
+T715	Entity 117074 117081	Emelyan
+T716	Cue 117175 117182	humming
+R795	Speaker Arg1:T715 Arg2:T714	
+R796	Cueing Arg1:T716 Arg2:T714	
+T717	Quotation 117463 117489	"Shall I put in some fat?"
+T718	Cue 117490 117495	asked
+T719	Entity 117496 117503	Styopka
+R797	Cueing Arg1:T718 Arg2:T717	
+R798	Speaker Arg1:T719 Arg2:T717	
+T720	Quotation 117529 117573	"No need. The fish will make its own gravy,"
+T721	Cue 117574 117582	answered
+T722	Entity 117583 117589	Kiruha
+R799	Cueing Arg1:T721 Arg2:T720	
+R800	Speaker Arg1:T722 Arg2:T720	
+R801	Addressee Arg1:T722 Arg2:T717	
+R802	Addressee Arg1:T719 Arg2:T720	
+T723	Quotation 117926 117967	"You there! Give the little lad a spoon!"
+T724	Entity 117968 117976	Panteley
+R803	Speaker Arg1:T724 Arg2:T723	
+T725	Cue 117977 117985	observed
+R804	Cueing Arg1:T725 Arg2:T723	
+T726	Quotation 117995 118025	"I dare say he is hungry too!"
+R805	Speaker Arg1:T724 Arg2:T726	
+R806	Cueing Arg1:T725 Arg2:T726	
+T727	Quotation 118026 118049	"Ours is peasant fare,"
+T728	Cue 118050 118056	sighed
+T729	Entity 118057 118063	Kiruha
+R807	Cueing Arg1:T728 Arg2:T727	
+R808	Speaker Arg1:T729 Arg2:T727	
+R809	Addressee Arg1:T724 Arg2:T727	
+T730	Quotation 118065 118116	"Peasant fare is welcome, too, when one is hungry."
+R810	Addressee Arg1:T729 Arg2:T730	
+R811	Speaker Arg1:T724 Arg2:T730	
+T731	Quotation 118716 118753	"Grandfather, why aren't you eating?"
+T732	Entity 118754 118761	Emelyan
+T733	Cue 118762 118767	asked
+T734	Entity 118768 118771	him
+R812	Speaker Arg1:T732 Arg2:T731	
+R813	Cueing Arg1:T733 Arg2:T731	
+R814	Addressee Arg1:T734 Arg2:T731	
+T735	Quotation 118773 118816	"I don't eat crayfish. . . . Nasty things,"
+T736	Entity 118817 118828	the old man
+T737	Cue 118829 118833	said
+R815	Speaker Arg1:T736 Arg2:T735	
+R816	Cueing Arg1:T737 Arg2:T735	
+R817	Addressee Arg1:T732 Arg2:T735	
+T738	Entity 119517 119525	Panteley
+T739	Cue 119526 119530	told
+T740	Entity 119531 119535	them
+T741	Quotation 119541 119959	in the past, before there were railways, he used to go with trains of waggons to Moscow and to Nizhni, and used to earn so much that he did not know what to do with his money; and what merchants there used to be in those days! what fish! how cheap everything was! Now the roads were shorter, the merchants were stingier, the peasants were poorer, the bread was dearer, everything had shrunk and was on a smaller scale.
+R818	Speaker Arg1:T738 Arg2:T741	
+R819	Cueing Arg1:T739 Arg2:T741	
+R820	Addressee Arg1:T740 Arg2:T741	
+T742	Entity 119960 119967	Emelyan
+T743	Cue 119968 119972	told
+T744	Entity 119973 119977	them
+T745	Quotation 119983 120240	in old days he had been in the choir in the Lugansky works, and that he had a remarkable voice and read music splendidly, while now he had become a peasant and lived on the charity of his brother, who sent him out with his horses and took half his earnings.
+R821	Speaker Arg1:T742 Arg2:T745	
+R822	Cueing Arg1:T743 Arg2:T745	
+R823	Addressee Arg1:T744 Arg2:T745	
+T746	Quotation 120984 121017	"You heathen, take off your cap,"
+T747	Entity 121018 121020	he
+T748	Cue 121021 121025	said
+T749	Quotation 121034 121092	"You can't eat with your cap on, and you a gentleman too!"
+R824	Speaker Arg1:T747 Arg2:T746	
+R825	Cueing Arg1:T748 Arg2:T746	
+T750	Entity 120972 120982	Yegorushka
+R826	Addressee Arg1:T750 Arg2:T746	
+R827	Speaker Arg1:T747 Arg2:T749	
+R828	Cueing Arg1:T748 Arg2:T749	
+R829	Addressee Arg1:T750 Arg2:T749	
+T751	Quotation 121490 121532	"Are we going to start soon, grandfather?"
+T752	Entity 121533 121543	Yegorushka
+T753	Cue 121544 121549	asked
+T754	Entity 121550 121558	Panteley
+R830	Speaker Arg1:T752 Arg2:T751	
+R831	Cueing Arg1:T753 Arg2:T751	
+R832	Addressee Arg1:T754 Arg2:T751	
+T755	Quotation 121560 121709	"In God's good time we shall set off. There's no starting yet; it is too hot. . . . O Lord, Thy will be done. Holy Mother. . . Lie down, little lad."
+R833	Addressee Arg1:T752 Arg2:T755	
+R834	Speaker Arg1:T754 Arg2:T755	
+T756	Quotation 124387 124428	"All right. . . . Nice gentlefolk, . . ."
+T757	Entity 124429 124431	he
+T758	Cue 124432 124440	muttered
+T759	Quotation 124442 125287	"Took his little lad to school-- but how he is doing now I haven't heard say --in Slavyanoserbsk. I say there is no establishment for teaching them to be very clever. . . . No, that's true -- a nice little lad, no harm in him. . . . He'll grow up and be a help to his father. . . . You, Yegory, are little now, but you'll grow big and will keep your father and mother. . . . So it is ordained of God, 'Honour your father and your mother.' . . . I had children myself, but they were burnt. . . . My wife was burnt and my children, . . . that's true. . . . The hut caught fire on the night of Epiphany. . . . I was not at home, I was driving in Oryol. In Oryol. . . . Marya dashed out into the street, but remembering that the children were asleep in the hut, ran back and was burnt with her children. . . . Next day they found nothing but bones."
+R835	Speaker Arg1:T757 Arg2:T756	
+R836	Cueing Arg1:T758 Arg2:T756	
+R837	Speaker Arg1:T757 Arg2:T759	
+R838	Cueing Arg1:T758 Arg2:T759	
+T760	Quotation 127752 127790	"Grandfather, what is that cross for?"
+T761	Cue 127791 127796	asked
+T762	Entity 127797 127807	Yegorushka
+T763	Entity 127809 127817	Panteley
+R839	Cueing Arg1:T761 Arg2:T760	
+R840	Speaker Arg1:T762 Arg2:T760	
+R841	Addressee Arg1:T763 Arg2:T760	
+T764	Entity 127850 127855	Dymov
+T765	Cue 127860 127865	asked
+T766	Quotation 127867 127936	"Nikola, isn't this the place where the mowers killed the merchants?"
+R842	Speaker Arg1:T763 Arg2:T766	
+R843	Addressee Arg1:T764 Arg2:T766	
+R844	Cueing Arg1:T765 Arg2:T766	
+T767	Quotation 128018 128037	"Yes, it is. . . ."
+T768	Entity 127937 127942	Dymov
+T769	Cue 128012 128016	said
+R845	Speaker Arg1:T768 Arg2:T767	
+R846	Cueing Arg1:T769 Arg2:T767	
+R847	Addressee Arg1:T763 Arg2:T767	
+T770	Quotation 128306 128330	"Yes, they were killed,"
+T771	Entity 128331 128336	Dymov
+T772	Cue 128337 128341	said
+T773	Quotation 128355 128833	"Two merchants, father and son, were travelling, selling holy images. They put up in the inn not far from here that is now kept by Ignat Fomin. The old man had a drop too much, and began boasting that he had a lot of money with him. We all know merchants are a boastful set, God preserve us. . . . They can't resist showing off before the likes of us. And at the time some mowers were staying the night at the inn. So they overheard what the merchants said and took note of it."
+R848	Speaker Arg1:T771 Arg2:T770	
+R849	Cueing Arg1:T772 Arg2:T770	
+R850	Speaker Arg1:T771 Arg2:T773	
+R851	Cueing Arg1:T772 Arg2:T773	
+R852	Addressee Arg1:T763 Arg2:T770	
+R853	Addressee Arg1:T763 Arg2:T773	
+T774	Quotation 128834 128862	"O Lord! . . . Holy Mother!"
+T775	Cue 128863 128869	sighed
+T776	Entity 128870 128878	Panteley
+R854	Cueing Arg1:T775 Arg2:T774	
+R855	Speaker Arg1:T776 Arg2:T774	
+R856	Addressee Arg1:T771 Arg2:T774	
+T777	Quotation 128880 128916	"Next day, as soon as it was light,"
+T778	Entity 128917 128922	Dymov
+T779	Cue 128923 128930	went on
+R857	Speaker Arg1:T778 Arg2:T777	
+R858	Cueing Arg1:T779 Arg2:T777	
+T780	Quotation 128932 129259	"the merchants were preparing to set off and the mowers tried to join them. 'Let us go together, your worships. It will be more cheerful and there will be less danger, for this is an out-of-the-way place. . . .' The merchants had to travel at a walking pace to avoid breaking the images, and that just suited the mowers. . . ."
+R859	Speaker Arg1:T778 Arg2:T780	
+R860	Cueing Arg1:T779 Arg2:T780	
+R861	Addressee Arg1:T776 Arg2:T777	
+R862	Addressee Arg1:T776 Arg2:T780	
+T781	Quotation 129311 129317	"Yes,"
+T782	Entity 129318 129320	he
+T783	Cue 129321 129328	went on
+R863	Speaker Arg1:T782 Arg2:T781	
+R864	Cueing Arg1:T783 Arg2:T781	
+T784	Quotation 129008 129143	'Let us go together, your worships. It will be more cheerful and there will be less danger, for this is an out-of-the-way place. . . .'
+T785	Entity 128933 128946	the merchants
+T786	Entity 128977 128987	the mowers
+R865	Addressee Arg1:T785 Arg2:T784	
+R866	Speaker Arg1:T786 Arg2:T784	
+R867	Addressee Arg1:T776 Arg2:T781	
+T787	Quotation 129339 129969	"Everything went all right till they reached this spot, and then the mowers let fly at them with their scythes. The son, he was a fine young fellow, snatched the scythe from one of them, and he used it, too. . . . Well, of course, they got the best of it because there were eight of them. They hacked at the merchants so that there was not a sound place left on their bodies; when they had finished they dragged both of them off the road, the father to one side and the son to the other. Opposite that cross there is another cross on this side. . . . Whether it is still standing, I don't know. . . . I can't see from here. . . ."
+R868	Speaker Arg1:T782 Arg2:T787	
+R869	Cueing Arg1:T783 Arg2:T787	
+R870	Addressee Arg1:T778 Arg2:T787	
+T788	Quotation 129970 129978	"It is,"
+T789	Cue 129979 129983	said
+T790	Entity 129984 129990	Kiruha
+R871	Cueing Arg1:T789 Arg2:T788	
+R872	Speaker Arg1:T790 Arg2:T788	
+R873	Addressee Arg1:T782 Arg2:T788	
+T791	Quotation 129992 130043	"They say they did not find much money afterwards."
+R874	Cueing Arg1:T789 Arg2:T791	
+R875	Speaker Arg1:T790 Arg2:T791	
+R876	Addressee Arg1:T782 Arg2:T791	
+T792	Quotation 130044 130049	"No,"
+T793	Entity 130050 130058	Panteley
+T794	Cue 130059 130068	confirmed
+T795	Quotation 130070 130106	"they only found a hundred roubles."
+R877	Speaker Arg1:T793 Arg2:T792	
+R878	Speaker Arg1:T793 Arg2:T795	
+R879	Cueing Arg1:T794 Arg2:T792	
+R880	Cueing Arg1:T794 Arg2:T795	
+R881	Addressee Arg1:T790 Arg2:T792	
+R882	Addressee Arg1:T790 Arg2:T795	
+T796	Quotation 130107 130530	"And three of them died afterwards, for the merchant had cut them badly with the scythe, too. They died from loss of blood. One had his hand cut off, so that they say he ran three miles without his hand, and they found him on a mound close to Kurikovo. He was squatting on his heels, with his head on his knees, as though he were lost in thought, but when they looked at him there was no life in him and he was dead. . . ."
+R883	Speaker Arg1:T790 Arg2:T796	
+R884	Addressee Arg1:T793 Arg2:T796	
+T797	Quotation 130531 130570	"They found him by the track of blood,"
+T798	Cue 130571 130575	said
+T799	Entity 130576 130584	Panteley
+R885	Cueing Arg1:T798 Arg2:T797	
+R886	Speaker Arg1:T799 Arg2:T797	
+T800	Entity 130586 130594	Everyone
+R887	Addressee Arg1:T800 Arg2:T797	
+T801	Quotation 130749 130801	"There are a great many wicked people in the world,"
+T802	Cue 130802 130806	said
+T803	Entity 130807 130814	Emelyan
+R888	Cueing Arg1:T802 Arg2:T801	
+R889	Speaker Arg1:T803 Arg2:T801	
+R890	Addressee Arg1:T800 Arg2:T801	
+T804	Quotation 130816 130831	"A great many,"
+T805	Cue 130832 130840	assented
+T806	Entity 130841 130849	Panteley
+R891	Cueing Arg1:T805 Arg2:T804	
+R892	Speaker Arg1:T806 Arg2:T804	
+R893	Addressee Arg1:T800 Arg2:T804	
+T807	Quotation 130916 130931	"A great many,"
+T808	Entity 130932 130934	he
+T809	Cue 130935 130942	went on
+R894	Speaker Arg1:T808 Arg2:T807	
+R895	Cueing Arg1:T809 Arg2:T807	
+R896	Addressee Arg1:T800 Arg2:T807	
+T810	Quotation 130959 132457	"I've seen lots and lots of them. . . . Wicked people! . . . I have seen a great many holy and just, too. . . . Queen of Heaven, save us and have mercy on us. I remember once thirty years ago, or maybe more, I was driving a merchant from Morshansk. The merchant was a jolly handsome fellow, with money, too . . . the merchant was . . . a nice man, no harm in him. . . . So we put up for the night at an inn. And in Russia the inns are not what they are in these parts. There the yards are roofed in and look like the ground floor, or let us say like barns in good farms. Only a barn would be a bit higher. So we put up there and were all right. My merchant was in a room, while I was with the horses, and everything was as it should be. So, lads, I said my prayers before going to sleep and began walking about the yard. And it was a dark night, I couldn't see anything; it was no good trying. So I walked about a bit up to the waggons, or nearly, when I saw a light gleaming. What could it mean? I thought the people of the inn had gone to bed long ago, and besides the merchant and me there were no other guests in the inn. . . . Where could the light have come from? I felt suspicious. . . . I went closer . . . towards the light. . . . The Lord have mercy upon me! and save me, Queen of Heaven! I looked and there was a little window with a grating, . . . close to the ground, in the house. . . I lay down on the ground and looked in; as soon as I looked in a cold chill ran all down me. . . ."
+R897	Speaker Arg1:T808 Arg2:T810	
+R898	Cueing Arg1:T809 Arg2:T810	
+R899	Addressee Arg1:T800 Arg2:T810	
+T811	Entity 132592 132603	the old man
+T812	Cue 132604 132611	went on
+T813	Entity 132910 132911	I
+T814	Entity 132919 132931	the merchant
+T815	Cue 132959 132963	said
+T816	Quotation 132965 132997	'Don't be frightened, merchant,'
+T817	Quotation 133006 133071	'but we are in a bad way. We have fallen into a nest of robbers,'
+R900	Cueing Arg1:T815 Arg2:T816	
+R901	Cueing Arg1:T815 Arg2:T817	
+R902	Addressee Arg1:T814 Arg2:T816	
+R903	Addressee Arg1:T814 Arg2:T817	
+R904	Speaker Arg1:T813 Arg2:T816	
+R905	Speaker Arg1:T813 Arg2:T817	
+T818	Entity 133080 133082	He
+T819	Cue 133099 133104	asked
+T820	Quotation 133106 133203	'What are we to do now, Panteley? I have a lot of money that belongs to orphans. As for my life,'
+T821	Quotation 133213 133307	'that's in God's hands. I am not afraid to die, but it's dreadful to lose the orphans' money,'
+R906	Speaker Arg1:T818 Arg2:T820	
+R907	Cueing Arg1:T819 Arg2:T820	
+R908	Speaker Arg1:T818 Arg2:T821	
+R909	Cueing Arg1:T819 Arg2:T821	
+R910	Addressee Arg1:T813 Arg2:T820	
+R911	Addressee Arg1:T813 Arg2:T821	
+T822	Quotation 133483 133521	'Come, don't be frightened, merchant,'
+T823	Cue 133522 133526	said
+T824	Entity 133527 133529	I;
+T825	Quotation 133530 133608	'but pray to God. Maybe the Lord will not let the orphans suffer. Stay still.'
+T826	Quotation 133617 133692	'and make no sign, and meanwhile, maybe, I shall think of something. . . .'
+R912	Cueing Arg1:T823 Arg2:T822	
+R913	Cueing Arg1:T823 Arg2:T825	
+R914	Cueing Arg1:T823 Arg2:T826	
+R915	Speaker Arg1:T824 Arg2:T822	
+R916	Speaker Arg1:T824 Arg2:T825	
+R917	Speaker Arg1:T824 Arg2:T826	
+R918	Addressee Arg1:T818 Arg2:T822	
+R919	Addressee Arg1:T818 Arg2:T825	
+R920	Addressee Arg1:T818 Arg2:T826	
+T827	Quotation 134188 134212	'Good Christian people,'
+T828	Entity 134213 134214	I
+T829	Cue 134215 134219	said
+T830	Quotation 134249 134292	'do not let a Christian soul perish. . . .'
+T832	Entity 134230 134234	them
+R921	Speaker Arg1:T828 Arg2:T827	
+R922	Cueing Arg1:T829 Arg2:T827	
+R923	Addressee Arg1:T832 Arg2:T827	
+R924	Speaker Arg1:T828 Arg2:T830	
+R925	Cueing Arg1:T829 Arg2:T830	
+R926	Addressee Arg1:T832 Arg2:T830	
+T831	Quotation 132613 135051	"I looked in and there was a big cellar, black and dark. . . . There was a lighted lantern on a tub. In the middle of the cellar were about a dozen men in red shirts with their sleeves turned up, sharpening long knives. . . . Ugh! So we had fallen into a nest of robbers. . . . What's to be done? I ran to the merchant, waked him up quietly, and said: 'Don't be frightened, merchant,' said I, 'but we are in a bad way. We have fallen into a nest of robbers,' I said. He turned pale and asked: 'What are we to do now, Panteley? I have a lot of money that belongs to orphans. As for my life,' he said, 'that's in God's hands. I am not afraid to die, but it's dreadful to lose the orphans' money,' said he. . . . What were we to do? The gates were locked; there was no getting out. If there had been a fence one could have climbed over it, but with the yard shut up! . . . 'Come, don't be frightened, merchant,' said I; 'but pray to God. Maybe the Lord will not let the orphans suffer. Stay still.' said I, 'and make no sign, and meanwhile, maybe, I shall think of something. . . .' Right! . . . I prayed to God and the Lord put the thought into my mind. . . . I clambered up on my chaise and softly, . . . softly so that no one should hear, began pulling out the straw in the thatch, made a hole and crept out, crept out. . . . Then I jumped off the roof and ran along the road as fast as I could. I ran and ran till I was nearly dead. . . . I ran maybe four miles without taking breath, if not more. Thank God I saw a village. I ran up to a hut and began tapping at a window. 'Good Christian people,' I said, and told them all about it, 'do not let a Christian soul perish. . . .' I waked them all up. . . . The peasants gathered together and went with me, . . one with a cord, one with an oakstick, others with pitchforks. . . . We broke in the gates of the inn-yard and went straight to the cellar. . . . And the robbers had just finished sharpening their knives and were going to kill the merchant. The peasants took them, every one of them, bound them and carried them to the police. The merchant gave them three hundred roubles in his joy, and gave me five gold pieces and put my name down. They said that they found human bones in the cellar afterwards, heaps and heaps of them. . . . Bones! . . . So they robbed people and then buried them, so that there should be no traces. . . . Well, afterwards they were punished at Morshansk."
+R927	Speaker Arg1:T811 Arg2:T831	
+R928	Cueing Arg1:T812 Arg2:T831	
+R929	Addressee Arg1:T800 Arg2:T831	
+T833	Quotation 135228 135247	"Is the fat ready?"
+T834	Entity 135248 135254	Kiruha
+T835	Cue 135255 135260	asked
+T836	Entity 135261 135264	him
+R930	Speaker Arg1:T834 Arg2:T833	
+R931	Cueing Arg1:T835 Arg2:T833	
+R932	Addressee Arg1:T836 Arg2:T833	
+T837	Quotation 135279 135311	"Wait a little. . . . Directly."
+R933	Addressee Arg1:T834 Arg2:T837	
+R934	Speaker Arg1:T836 Arg2:T837	
+T838	Quotation 135532 135584	"I went another journey with a merchant, too, . . ."
+T839	Entity 135585 135593	Panteley
+T840	Cue 135594 135601	went on
+R935	Speaker Arg1:T839 Arg2:T838	
+R936	Cueing Arg1:T840 Arg2:T838	
+T841	Quotation 136580 136611	'What do you want, good woman?'
+T842	Entity 136612 136613	I
+T843	Cue 136614 136619	asked
+T844	Entity 136625 136628	she
+R937	Speaker Arg1:T842 Arg2:T841	
+R938	Cueing Arg1:T843 Arg2:T841	
+R939	Addressee Arg1:T844 Arg2:T841	
+T845	Quotation 136685 136704	'Get up, good man,'
+T846	Cue 136705 136709	said
+T847	Entity 136710 136713	she
+T848	Quotation 136716 136853	the people are plotting evil. . . . They mean to kill your merchant. With my own ears I heard the master whispering with his wife. . . .'
+R940	Cueing Arg1:T846 Arg2:T845	
+R941	Cueing Arg1:T846 Arg2:T848	
+R942	Speaker Arg1:T847 Arg2:T845	
+R943	Speaker Arg1:T847 Arg2:T848	
+R944	Addressee Arg1:T842 Arg2:T845	
+R945	Addressee Arg1:T842 Arg2:T848	
+T849	Quotation 136909 136927	'And who are you?'
+T850	Entity 136928 136929	I
+T851	Cue 136930 136935	asked
+R946	Speaker Arg1:T850 Arg2:T849	
+R947	Cueing Arg1:T851 Arg2:T849	
+T852	Quotation 136937 136955	'I am their cook,'
+T853	Entity 136956 136959	she
+T854	Cue 136960 136964	said
+R948	Addressee Arg1:T853 Arg2:T849	
+R949	Speaker Arg1:T853 Arg2:T852	
+R950	Cueing Arg1:T854 Arg2:T852	
+R951	Addressee Arg1:T850 Arg2:T852	
+T855	Entity 137038 137039	I
+T856	Entity 137046 137049	him
+T857	Cue 137057 137061	said
+T858	Quotation 137063 137212	'Things aren't quite right, Pyotr Grigoritch. . . . Make haste and rouse yourself from sleep, your worship, and dress now while there is still time,'
+T859	Quotation 137221 137275	'and to save our skins, let us get away from trouble.'
+R952	Speaker Arg1:T855 Arg2:T858	
+R953	Speaker Arg1:T855 Arg2:T859	
+R954	Addressee Arg1:T856 Arg2:T858	
+R955	Addressee Arg1:T856 Arg2:T859	
+R956	Cueing Arg1:T857 Arg2:T858	
+R957	Cueing Arg1:T857 Arg2:T859	
+T860	Quotation 137491 137546	'The merchant has a lot of money, and we'll go shares,'
+T861	Entity 137547 137551	they
+T862	Cue 137552 137556	told
+T863	Entity 137557 137561	them
+R958	Speaker Arg1:T861 Arg2:T860	
+R959	Cueing Arg1:T862 Arg2:T860	
+R960	Addressee Arg1:T863 Arg2:T860	
+T864	Entity 137630 137643	The innkeeper
+T865	Cue 137664 137668	said
+T866	Quotation 137670 137735	'Say your prayers, travellers, . . . and if you begin screaming,'
+T867	Quotation 137747 137804	'we won't let you say your prayers before you die. . . .'
+T868	Entity 137815 137817	we
+R961	Speaker Arg1:T864 Arg2:T866	
+R962	Speaker Arg1:T864 Arg2:T867	
+R963	Cueing Arg1:T865 Arg2:T866	
+R964	Cueing Arg1:T865 Arg2:T867	
+R965	Addressee Arg1:T868 Arg2:T866	
+R966	Addressee Arg1:T868 Arg2:T867	
+T869	Entity 137890 137902	The merchant
+T870	Cue 137912 137916	said
+T871	Quotation 137918 138149	'Good Christian people! you have resolved to kill me because my money tempts you. Well, so be it; I shall not be the first nor shall I be the last. Many of us merchants have been murdered at inns. But why, good Christian brothers,'
+T872	Quotation 138159 138221	'murder my driver? Why should he have to suffer for my money?'
+R967	Speaker Arg1:T869 Arg2:T871	
+R968	Cueing Arg1:T870 Arg2:T871	
+R969	Addressee Arg1:T864 Arg2:T871	
+R970	Speaker Arg1:T869 Arg2:T872	
+R971	Cueing Arg1:T870 Arg2:T872	
+R972	Addressee Arg1:T864 Arg2:T872	
+T873	Entity 138257 138270	the innkeeper
+T874	Cue 138271 138279	answered
+T875	Entity 138280 138283	him
+T876	Quotation 138285 138309	'If we leave him alive,'
+T877	Quotation 138319 138523	'he will be the first to bear witness against us. One may just as well kill two as one. You can but answer once for seven misdeeds. . . Say your prayers, that's all you can do, and it is no good talking!'
+R973	Speaker Arg1:T873 Arg2:T876	
+R974	Cueing Arg1:T874 Arg2:T876	
+R975	Addressee Arg1:T875 Arg2:T876	
+R976	Speaker Arg1:T873 Arg2:T877	
+R977	Cueing Arg1:T874 Arg2:T877	
+R978	Addressee Arg1:T875 Arg2:T877	
+T878	Entity 138772 138792	the innkeeper's wife
+T879	Entity 138802 138804	us
+T880	Cue 138809 138813	says
+T881	Quotation 138815 138829	'Good people,'
+T882	Quotation 138840 138964	'don't bear a grudge against us in the other world and pray to God for our punishment, for it is want that drives us to it.'
+R979	Speaker Arg1:T878 Arg2:T881	
+R980	Speaker Arg1:T878 Arg2:T882	
+R981	Addressee Arg1:T879 Arg2:T881	
+R982	Addressee Arg1:T879 Arg2:T882	
+R983	Cueing Arg1:T880 Arg2:T881	
+R984	Cueing Arg1:T880 Arg2:T882	
+T883	Quotation 139336 139355	'Pyotr Grigoritch,'
+T884	Entity 139356 139358	he
+T885	Cue 139359 139366	shouted
+T886	Quotation 139368 139407	'are you here? Get ready and let's go!'
+R985	Speaker Arg1:T884 Arg2:T883	
+R986	Speaker Arg1:T884 Arg2:T886	
+R987	Cueing Arg1:T885 Arg2:T883	
+R988	Cueing Arg1:T885 Arg2:T886	
+T887	Entity 139107 139119	the merchant
+R989	Addressee Arg1:T887 Arg2:T883	
+R990	Addressee Arg1:T887 Arg2:T886	
+T888	Quotation 135675 139608	"His name, as I remember now, was Pyotr Grigoritch. He was a nice man, . . . the merchant was. We stopped in the same way at an inn. . . . He indoors and me with the horses. . . . The people of the house, the innkeeper and his wife, seemed friendly good sort of people; the labourers, too, seemed all right; but yet, lads, I couldn't sleep. I had a queer feeling in my heart, . . . a queer feeling, that was just it. The gates were open and there were plenty of people about, and yet I felt afraid and not myself. Everyone had been asleep long ago. It was the middle of the night; it would soon be time to get up, and I was lying alone in my chaise and could not close my eyes, as though I were some owl. And then, lads, I heard this sound, 'Toop! toop! toop!' Someone was creeping up to the chaise. I poke my head out, and there was a peasant woman in nothing but her shift and with her feet bare. . . . 'What do you want, good woman?' I asked. And she was all of a tremble; her face was terror-stricken. . . 'Get up, good man,' said she; 'the people are plotting evil. . . . They mean to kill your merchant. With my own ears I heard the master whispering with his wife. . . .' So it was not for nothing, the foreboding of my heart! 'And who are you?' I asked. 'I am their cook,' she said. . . . Right! . . . So I got out of the chaise and went to the merchant. I waked him up and said: 'Things aren't quite right, Pyotr Grigoritch. . . . Make haste and rouse yourself from sleep, your worship, and dress now while there is still time,' I said; 'and to save our skins, let us get away from trouble.' He had no sooner begun dressing when the door opened and, mercy on us! I saw, Holy Mother! the innkeeper and his wife come into the room with three labourers. . . . So they had persuaded the labourers to join them. 'The merchant has a lot of money, and we'll go shares,' they told them. Every one of the five had a long knife in their hand each a knife. The innkeeper locked the door and said: 'Say your prayers, travellers, . . . and if you begin screaming,' they said, 'we won't let you say your prayers before you die. . . .' As though we could scream! I had such a lump in my throat I could not cry out. . . . The merchant wept and said: 'Good Christian people! you have resolved to kill me because my money tempts you. Well, so be it; I shall not be the first nor shall I be the last. Many of us merchants have been murdered at inns. But why, good Christian brothers,' says he, 'murder my driver? Why should he have to suffer for my money?' And he said that so pitifully! And the innkeeper answered him: 'If we leave him alive,' said he, 'he will be the first to bear witness against us. One may just as well kill two as one. You can but answer once for seven misdeeds. . . Say your prayers, that's all you can do, and it is no good talking!' The merchant and I knelt down side by side and wept and said our prayers. He thought of his children. I was young in those days; I wanted to live. . . . We looked at the images and prayed, and so pitifully that it brings a tear even now. . . . And the innkeeper's wife looks at us and says: 'Good people,' said she, 'don't bear a grudge against us in the other world and pray to God for our punishment, for it is want that drives us to it.' We prayed and wept and prayed and wept, and God heard us. He had pity on us, I suppose. . . . At the very minute when the innkeeper had taken the merchant by the beard to rip open his throat with his knife suddenly someone seemed to tap at the window from the yard! We all started, and the innkeeper's hands dropped. . . . Someone was tapping at the window and shouting: 'Pyotr Grigoritch,' he shouted, 'are you here? Get ready and let's go!' The people saw that someone had come for the merchant; they were terrified and took to their heels. . . . And we made haste into the yard, harnessed the horses, and were out of sight in a minute. . ."
+R991	Addressee Arg1:T800 Arg2:T838	
+R992	Speaker Arg1:T839 Arg2:T888	
+R993	Cueing Arg1:T840 Arg2:T888	
+R994	Addressee Arg1:T800 Arg2:T888	
+T889	Quotation 139609 139644	"Who was it knocked at the window?"
+T890	Cue 139645 139650	asked
+T891	Entity 139651 139656	Dymov
+T892	Quotation 139658 139844	"At the window? It must have been a holy saint or angel, for there was no one else. . . . When we drove out of the yard there wasn't a soul in the street. . . . It was the Lord's doing."
+T893	Entity 139845 139853	Panteley
+R995	Cueing Arg1:T890 Arg2:T889	
+R996	Speaker Arg1:T891 Arg2:T889	
+R997	Addressee Arg1:T893 Arg2:T889	
+R998	Speaker Arg1:T893 Arg2:T892	
+R999	Cueing Arg1:T890 Arg2:T892	
+R1000	Addressee Arg1:T891 Arg2:T892	
+T894	Entity 141723 141733	Yegorushka
+T895	Cue 141788 141793	asked
+T896	Entity 141794 141801	Styopka
+T897	Quotation 141810 141843	"Why does Grandfather sit apart?"
+R1001	Speaker Arg1:T894 Arg2:T897	
+R1002	Cueing Arg1:T895 Arg2:T897	
+R1003	Addressee Arg1:T896 Arg2:T897	
+T898	Quotation 141844 141868	"He is an Old Believer,"
+T899	Entity 141869 141876	Styopka
+T900	Entity 141881 141887	Vassya
+T901	Cue 141888 141896	answered
+R1004	Speaker Arg1:T899 Arg2:T898	
+R1005	Speaker Arg1:T900 Arg2:T898	
+R1006	Cueing Arg1:T901 Arg2:T898	
+R1007	Addressee Arg1:T894 Arg2:T898	
+T902	Quotation 142242 142255	"What is it?"
+T903	Entity 142256 142261	Dymov
+T904	Cue 142262 142267	asked
+T905	Entity 142268 142271	him
+R1008	Speaker Arg1:T903 Arg2:T902	
+R1009	Cueing Arg1:T904 Arg2:T902	
+R1010	Addressee Arg1:T905 Arg2:T902	
+T906	Quotation 142273 142293	"Someone is coming,"
+T907	Cue 142294 142302	answered
+T908	Entity 142303 142309	Vassya
+R1011	Cueing Arg1:T907 Arg2:T906	
+R1012	Speaker Arg1:T908 Arg2:T906	
+R1013	Addressee Arg1:T903 Arg2:T906	
+T909	Quotation 142311 142334	"Where do you see him?"
+R1014	Speaker Arg1:T903 Arg2:T909	
+R1015	Addressee Arg1:T908 Arg2:T909	
+T910	Quotation 142335 142376	"Yo-on-der! There's something white. . ."
+R1016	Speaker Arg1:T908 Arg2:T910	
+R1017	Addressee Arg1:T903 Arg2:T910	
+T911	Quotation 142523 142554	"Is he coming by the highroad?"
+T912	Cue 142555 142560	asked
+T913	Entity 142561 142566	Dymov
+T914	Quotation 142568 142625	"No, over the open country. . . . He is coming this way."
+R1018	Cueing Arg1:T912 Arg2:T911	
+R1019	Speaker Arg1:T913 Arg2:T911	
+T915	Entity 142445 142451	Vassya
+R1020	Addressee Arg1:T915 Arg2:T911	
+R1021	Speaker Arg1:T915 Arg2:T914	
+R1022	Addressee Arg1:T913 Arg2:T914	
+T916	Quotation 142654 142728	"And maybe it's the merchant who was buried here walking over the steppe,"
+T917	Cue 142729 142733	said
+T918	Entity 142734 142739	Dymov
+R1023	Cueing Arg1:T917 Arg2:T916	
+R1024	Speaker Arg1:T918 Arg2:T916	
+T919	Entity 142741 142744	All
+R1025	Addressee Arg1:T919 Arg2:T916	
+T920	Quotation 142860 142881	"Why should he walk?"
+T921	Cue 142882 142887	asked
+T922	Entity 142888 142896	Panteley
+R1026	Cueing Arg1:T921 Arg2:T920	
+R1027	Speaker Arg1:T922 Arg2:T920	
+R1028	Addressee Arg1:T919 Arg2:T920	
+T923	Quotation 142898 143060	"It's only those walk at night whom the earth will not take to herself. And the merchants were all right. . . . The merchants have received the crown of martyrs."
+R1029	Cueing Arg1:T921 Arg2:T923	
+R1030	Speaker Arg1:T922 Arg2:T923	
+R1031	Addressee Arg1:T919 Arg2:T923	
+T924	Quotation 143137 143163	"He's carrying something,"
+T925	Cue 143164 143168	said
+T926	Entity 143169 143175	Vassya
+R1032	Cueing Arg1:T925 Arg2:T924	
+R1033	Speaker Arg1:T926 Arg2:T924	
+T927	Entity 143177 143181	They
+R1034	Addressee Arg1:T927 Arg2:T924	
+T928	Entity 144745 144747	he
+T929	Cue 144810 144814	said
+T930	Quotation 144816 144842	"Bread and salt, friends!"
+T931	Quotation 144843 144866	"You are very welcome!"
+T932	Entity 144867 144875	Panteley
+T933	Cue 144876 144884	answered
+T934	Entity 144889 144897	them all
+R1035	Speaker Arg1:T928 Arg2:T930	
+R1036	Cueing Arg1:T929 Arg2:T930	
+R1037	Addressee Arg1:T934 Arg2:T930	
+R1038	Speaker Arg1:T932 Arg2:T931	
+R1039	Cueing Arg1:T933 Arg2:T931	
+R1040	Addressee Arg1:T934 Arg2:T931	
+T935	Quotation 145076 145121	"A fine big bird; what did you kill it with?"
+T936	Cue 145122 145127	asked
+T937	Entity 145128 145133	Dymov
+R1041	Cueing Arg1:T936 Arg2:T935	
+R1042	Speaker Arg1:T937 Arg2:T935	
+T938	Entity 144899 144911	The stranger
+R1043	Addressee Arg1:T938 Arg2:T935	
+T939	Quotation 145135 145277	"Grape-shot. You can't get him with small shot, he won't let you get near enough. Buy it, friends! I will let you have it for twenty kopecks."
+R1044	Speaker Arg1:T938 Arg2:T939	
+R1045	Addressee Arg1:T937 Arg2:T939	
+T940	Quotation 145278 145404	"What use would it be to us? It's good roast, but I bet it would be tough boiled; you could not get your teeth into it. . . ."
+R1046	Speaker Arg1:T937 Arg2:T940	
+R1047	Addressee Arg1:T938 Arg2:T940	
+T941	Quotation 145405 145549	"Oh, what a pity! I would take it to the gentry at the farm; they would give me half a rouble for it. But it's a long way to go-- twelve miles!"
+R1048	Addressee Arg1:T937 Arg2:T941	
+R1049	Speaker Arg1:T938 Arg2:T941	
+T942	Quotation 145793 145807	"Who are you?"
+T943	Entity 145808 145813	Dymov
+T944	Cue 145814 145819	asked
+T945	Entity 145820 145823	him
+R1050	Speaker Arg1:T943 Arg2:T942	
+R1051	Cueing Arg1:T944 Arg2:T942	
+R1052	Addressee Arg1:T945 Arg2:T942	
+T946	Quotation 146187 146211	"I ask you who you are?"
+T947	Cue 146212 146220	repeated
+T948	Entity 146221 146226	Dymov
+T949	Quotation 146228 146232	"I?"
+T950	Entity 146134 146136	he
+T951	Cue 146233 146237	said
+R1053	Addressee Arg1:T950 Arg2:T946	
+R1054	Cueing Arg1:T947 Arg2:T946	
+T952	Entity 146238 146249	the unknown
+R1055	Speaker Arg1:T948 Arg2:T946	
+R1056	Cueing Arg1:T951 Arg2:T949	
+R1057	Speaker Arg1:T952 Arg2:T949	
+R1058	Addressee Arg1:T948 Arg2:T949	
+T953	Quotation 146261 146320	"Konstantin Zvonik from Rovno. It's three miles from here."
+R1059	Speaker Arg1:T952 Arg2:T953	
+R1060	Cueing Arg1:T951 Arg2:T953	
+T954	Quotation 146447 146478	"We keep bees and fatten pigs."
+T955	Entity 146419 146429	Konstantin
+T956	Cue 146430 146445	hastened to add
+R1061	Speaker Arg1:T955 Arg2:T954	
+R1062	Cueing Arg1:T956 Arg2:T954	
+R1063	Addressee Arg1:T948 Arg2:T954	
+T957	Quotation 146479 146536	"Do you live with your father or in a house of your own?"
+R1064	Addressee Arg1:T955 Arg2:T957	
+R1065	Speaker Arg1:T948 Arg2:T957	
+T958	Quotation 146537 146718	"No; now I am living in a house of my own. I have parted. This month, just after St. Peter's Day, I got married. I am a married man now! . . . It's eighteen days since the wedding."
+R1066	Speaker Arg1:T955 Arg2:T958	
+R1067	Addressee Arg1:T948 Arg2:T958	
+T959	Quotation 146719 146741	"That's a good thing,"
+T960	Cue 146742 146746	said
+T961	Entity 146747 146755	Panteley
+R1068	Cueing Arg1:T960 Arg2:T959	
+R1069	Speaker Arg1:T961 Arg2:T959	
+T962	Quotation 146757 146816	"Marriage is a good thing . . . . God's blessing is on it."
+R1070	Cueing Arg1:T960 Arg2:T962	
+R1071	Speaker Arg1:T961 Arg2:T962	
+R1072	Addressee Arg1:T955 Arg2:T959	
+R1073	Addressee Arg1:T955 Arg2:T962	
+T963	Quotation 146817 146881	"His young wife sits at home while he rambles about the steppe,"
+T964	Cue 146882 146889	laughed
+T965	Entity 146890 146896	Kiruha
+R1074	Cueing Arg1:T964 Arg2:T963	
+R1075	Speaker Arg1:T965 Arg2:T963	
+T966	Quotation 146898 146911	"Queer chap!"
+R1076	Cueing Arg1:T964 Arg2:T966	
+R1077	Speaker Arg1:T965 Arg2:T966	
+R1078	Addressee Arg1:T961 Arg2:T963	
+R1079	Addressee Arg1:T961 Arg2:T966	
+T967	Quotation 147014 147046	"But, Lord, she is not at home!"
+T968	Entity 147047 147049	he
+T969	Cue 147050 147054	said
+R1080	Speaker Arg1:T968 Arg2:T967	
+R1081	Cueing Arg1:T969 Arg2:T967	
+R1082	Addressee Arg1:T965 Arg2:T967	
+T970	Quotation 147170 147307	"She is not; she has gone to her mother's for three days! Yes, indeed, she has gone away, and I feel as though I were not married. . . ."
+R1083	Speaker Arg1:T968 Arg2:T970	
+R1084	Cueing Arg1:T969 Arg2:T970	
+R1085	Addressee Arg1:T965 Arg2:T970	
+T971	Quotation 147666 147711	"She has gone to Demidovo to see her mother,"
+T972	Entity 147712 147714	he
+T973	Cue 147715 147719	said
+R1086	Speaker Arg1:T972 Arg2:T971	
+R1087	Cueing Arg1:T973 Arg2:T971	
+T974	Quotation 147750 147821	"She'll be back to-morrow. . . . She said she would be back to dinner."
+R1088	Speaker Arg1:T972 Arg2:T974	
+R1089	Cueing Arg1:T973 Arg2:T974	
+R1090	Addressee Arg1:T965 Arg2:T974	
+T975	Quotation 147822 147844	"And do you miss her?"
+T976	Cue 147845 147849	said
+T977	Entity 147850 147855	Dymov
+R1091	Cueing Arg1:T976 Arg2:T975	
+R1092	Speaker Arg1:T977 Arg2:T975	
+R1093	Addressee Arg1:T972 Arg2:T975	
+T978	Quotation 147857 148285	"Oh, Lord, yes; I should think so. We have only been married such a little while, and she has gone away. . . . Eh! Oh, but she is a tricky one, God strike me dead! She is such a fine, splendid girl, such a one for laughing and singing, full of life and fire! When she is there your brain is in a whirl, and now she is away I wander about the steppe like a fool, as though I had lost something. I have been walking since dinner."
+R1094	Addressee Arg1:T977 Arg2:T978	
+T979	Entity 148286 148296	Konstantin
+R1095	Speaker Arg1:T979 Arg2:T978	
+T980	Quotation 148346 148373	"You love her, then, . . ."
+T981	Cue 148374 148378	said
+T982	Entity 148379 148387	Panteley
+R1096	Cueing Arg1:T981 Arg2:T980	
+R1097	Speaker Arg1:T982 Arg2:T980	
+R1098	Addressee Arg1:T979 Arg2:T980	
+T983	Quotation 148389 148419	"She is so fine and splendid,"
+T984	Entity 148420 148430	Konstantin
+T985	Cue 148431 148439	repeated
+T986	Entity 148453 148456	him
+R1099	Speaker Arg1:T984 Arg2:T983	
+R1100	Cueing Arg1:T985 Arg2:T983	
+R1101	Addressee Arg1:T986 Arg2:T983	
+T987	Quotation 148458 148743	"such a housewife, clever and sensible. You wouldn't find another like her among simple folk in the whole province. She has gone away. . . . But she is missing me, I kno-ow! I know the little magpie. She said she would be back to-morrow by dinner-time. . . . And just think how queer!"
+R1102	Speaker Arg1:T984 Arg2:T987	
+R1103	Cueing Arg1:T985 Arg2:T987	
+R1104	Addressee Arg1:T986 Arg2:T987	
+T988	Entity 148744 148754	Konstantin
+T989	Cue 148771 148779	speaking
+T990	Quotation 148821 148894	"Now she loves me and is sad without me, and yet she would not marry me."
+R1105	Speaker Arg1:T988 Arg2:T990	
+R1106	Cueing Arg1:T989 Arg2:T990	
+R1107	Addressee Arg1:T986 Arg2:T990	
+T991	Quotation 148895 148905	"But eat,"
+T992	Cue 148906 148910	said
+T993	Entity 148911 148917	Kiruha
+R1108	Cueing Arg1:T992 Arg2:T991	
+R1109	Speaker Arg1:T993 Arg2:T991	
+R1110	Addressee Arg1:T988 Arg2:T991	
+T994	Quotation 148919 148944	"She would not marry me,"
+T995	Entity 148945 148955	Konstantin
+T996	Cue 148956 148963	went on
+T997	Entity 148977 148980	him
+R1111	Speaker Arg1:T995 Arg2:T994	
+R1112	Cueing Arg1:T996 Arg2:T994	
+R1113	Addressee Arg1:T997 Arg2:T994	
+T998	Entity 149262 149265	she
+T999	Cue 149266 149270	said
+T1000	Quotation 149276 149286	'I won't!'
+T1001	Entity 149233 149245	match-makers
+R1114	Speaker Arg1:T998 Arg2:T1000	
+R1115	Cueing Arg1:T999 Arg2:T1000	
+R1116	Addressee Arg1:T1001 Arg2:T1000	
+T1002	Entity 149396 149399	she
+T1003	Cue 149400 149404	said
+T1004	Quotation 149406 149416	'I won't!'
+R1117	Speaker Arg1:T1002 Arg2:T1004	
+R1118	Cueing Arg1:T1003 Arg2:T1004	
+T1005	Entity 149303 149304	I
+R1119	Addressee Arg1:T1005 Arg2:T1004	
+T1006	Quotation 150459 150474	'Damn my soul!'
+T1007	Entity 150475 150476	I
+T1008	Cue 150477 150481	said
+R1120	Speaker Arg1:T1007 Arg2:T1006	
+R1121	Cueing Arg1:T1008 Arg2:T1006	
+T1009	Quotation 150483 150561	'I will go to the town and be a cabman. . . . It seems it is fated not to be.'
+R1122	Speaker Arg1:T1007 Arg2:T1009	
+R1123	Cueing Arg1:T1008 Arg2:T1009	
+T1010	Quotation 148982 150625	"I have been struggling with her for three years! I saw her at the Kalatchik fair; I fell madly in love with her, was ready to hang myself. . . . I live at Rovno, she at Demidovo, more than twenty miles apart, and there was nothing I could do. I sent match-makers to her, and all she said was: 'I won't!' Ah, the magpie! I sent her one thing and another, earrings and cakes, and twenty pounds of honey-- but still she said: 'I won't!' And there it was. If you come to think of it, I was not a match for her! She was young and lovely, full of fire, while I am old: I shall soon be thirty, and a regular beauty, too; a fine beard like a goat's, a clear complexion all covered with pimples-- how could I be compared with her! The only thing to be said is that we are well off, but then the Vahramenkys are well off, too. They've six oxen, and they keep a couple of labourers. I was in love, friends, as though I were plague-stricken. I couldn't sleep or eat; my brain was full of thoughts, and in such a maze, Lord preserve us! I longed to see her, and she was in Demidovo. What do you think? God be my witness, I am not lying, three times a week I walked over there on foot just to have a look at her. I gave up my work! I was so frantic that I even wanted to get taken on as a labourer in Demidovo, so as to be near her. I was in misery! My mother called in a witch a dozen times; my father tried thrashing me. For three years I was in this torment, and then I made up my mind. 'Damn my soul!' I said. 'I will go to the town and be a cabman. . . . It seems it is fated not to be.' At Easter I went to Demidovo to have a last look at her. . . ."
+R1124	Speaker Arg1:T995 Arg2:T1010	
+R1125	Cueing Arg1:T996 Arg2:T1010	
+R1126	Addressee Arg1:T997 Arg2:T1010	
+T1011	Quotation 150756 150795	"I saw her by the river with the lads,"
+T1012	Entity 150796 150798	he
+T1013	Cue 150799 150806	went on
+R1127	Speaker Arg1:T1012 Arg2:T1011	
+R1128	Cueing Arg1:T1013 Arg2:T1011	
+R1129	Addressee Arg1:T997 Arg2:T1011	
+T1014	Quotation 150808 151041	"I was overcome with anger. . . . I called her aside and maybe for a full hour I said all manner of things to her. She fell in love with me! For three years she did not like me! she fell in love with me for what I said to her. . . ."
+R1130	Speaker Arg1:T1012 Arg2:T1014	
+R1131	Cueing Arg1:T1013 Arg2:T1014	
+R1132	Addressee Arg1:T997 Arg2:T1014	
+T1015	Quotation 151042 151068	"What did you say to her?"
+T1016	Cue 151069 151074	asked
+T1017	Entity 151075 151080	Dymov
+T1018	Quotation 151082 151450	"What did I say? I don't remember. . . How could one remember? My words flowed at the time like water from a tap, without stopping to take breath. Ta-ta-ta! And now I can't utter a word. . . . Well, so she married me. . . . She's gone now to her mother's, the magpie, and while she is away here I wander over the steppe. I can't stay at home. It's more than I can do!"
+R1133	Cueing Arg1:T1016 Arg2:T1015	
+R1134	Speaker Arg1:T1017 Arg2:T1015	
+R1135	Addressee Arg1:T1012 Arg2:T1015	
+R1136	Addressee Arg1:T1017 Arg2:T1018	
+R1137	Speaker Arg1:T1012 Arg2:T1018	
+T1019	Quotation 153032 153039	"Lads,"
+T1020	Entity 153040 153042	he
+T1021	Cue 153043 153047	said
+T1022	Quotation 153071 153101	"let's sing something sacred!"
+T1023	Entity 153255 153263	Everyone
+R1138	Speaker Arg1:T1020 Arg2:T1019	
+R1139	Cueing Arg1:T1021 Arg2:T1019	
+R1140	Speaker Arg1:T1020 Arg2:T1022	
+R1141	Cueing Arg1:T1021 Arg2:T1022	
+T1024	Quotation 153128 153135	"Lads,"
+T1025	Entity 153136 153138	he
+T1026	Cue 153139 153147	repeated
+T1027	Quotation 153182 153212	"let's sing something sacred!"
+R1142	Speaker Arg1:T1025 Arg2:T1024	
+R1143	Speaker Arg1:T1025 Arg2:T1027	
+R1144	Cueing Arg1:T1026 Arg2:T1024	
+R1145	Cueing Arg1:T1026 Arg2:T1027	
+R1146	Addressee Arg1:T1023 Arg2:T1019	
+R1147	Addressee Arg1:T1023 Arg2:T1022	
+R1148	Addressee Arg1:T1023 Arg2:T1024	
+R1149	Addressee Arg1:T1023 Arg2:T1027	
+T1028	Quotation 153213 153237	"I don't know anything,"
+T1029	Cue 153238 153242	said
+T1030	Entity 153243 153253	Konstantin
+R1150	Cueing Arg1:T1029 Arg2:T1028	
+R1151	Speaker Arg1:T1030 Arg2:T1028	
+R1152	Addressee Arg1:T1025 Arg2:T1028	
+T1031	Quotation 155001 155051	"Our Mother Russia is the he-ad of all the world!"
+T1032	Entity 155052 155058	Kiruha
+T1033	Cue 155059 155067	sang out
+R1153	Speaker Arg1:T1032 Arg2:T1031	
+R1154	Cueing Arg1:T1033 Arg2:T1031	
+T1034	Quotation 155255 155273	"It's time to go,"
+T1035	Cue 155274 155278	said
+T1036	Entity 155279 155287	Panteley
+T1037	Quotation 155289 155304	"Get up, lads."
+R1155	Cueing Arg1:T1035 Arg2:T1034	
+R1156	Speaker Arg1:T1036 Arg2:T1034	
+R1157	Cueing Arg1:T1035 Arg2:T1037	
+R1158	Speaker Arg1:T1036 Arg2:T1037	
+T1038	Entity 155311 155315	they
+R1159	Addressee Arg1:T1038 Arg2:T1034	
+R1160	Addressee Arg1:T1038 Arg2:T1037	
+T1039	Entity 155344 155354	Konstantin
+T1040	Cue 155381 155387	talked
+T1041	Quotation 155400 155411	of his wife
+R1161	Speaker Arg1:T1039 Arg2:T1041	
+R1162	Addressee Arg1:T1038 Arg2:T1041	
+R1163	Cueing Arg1:T1040 Arg2:T1041	
+T1042	Quotation 155413 155431	"Good-bye, mates!"
+T1043	Entity 155432 155434	he
+T1044	Cue 155435 155440	cried
+R1164	Speaker Arg1:T1043 Arg2:T1042	
+R1165	Cueing Arg1:T1044 Arg2:T1042	
+T1045	Quotation 155467 155568	"Thank you for your hospitality. I shall go on again towards that light. It's more than I can stand."
+R1166	Speaker Arg1:T1043 Arg2:T1045	
+R1167	Cueing Arg1:T1044 Arg2:T1045	
+R1168	Addressee Arg1:T1038 Arg2:T1042	
+R1169	Addressee Arg1:T1038 Arg2:T1045	
+T1046	Quotation 156167 156203	"What village is that, Grandfather?"
+T1047	Cue 156204 156209	asked
+T1048	Entity 156210 156220	Yegorushka
+T1049	Quotation 156222 156266	"That's the Armenian Settlement, youngster,"
+T1050	Cue 156267 156275	answered
+T1051	Entity 156276 156284	Panteley
+R1170	Cueing Arg1:T1047 Arg2:T1046	
+R1171	Speaker Arg1:T1048 Arg2:T1046	
+R1172	Cueing Arg1:T1050 Arg2:T1049	
+R1173	Speaker Arg1:T1051 Arg2:T1049	
+R1174	Addressee Arg1:T1051 Arg2:T1046	
+R1175	Addressee Arg1:T1048 Arg2:T1049	
+T1052	Quotation 156286 156371	"The Armenians live there. They are a good sort of people, . . . the Arnienians are."
+R1176	Cueing Arg1:T1050 Arg2:T1052	
+R1177	Speaker Arg1:T1051 Arg2:T1052	
+R1178	Addressee Arg1:T1048 Arg2:T1052	
+T1053	Quotation 156505 156535	"What a business, only think!"
+T1054	Cue 156536 156542	sighed
+T1055	Entity 156543 156551	Panteley
+T1056	Quotation 156631 156742	"He has sent a man to the settlement for some papers, and he doesn't come . . . . He should have sent Styopka."
+R1179	Cueing Arg1:T1054 Arg2:T1053	
+R1180	Speaker Arg1:T1055 Arg2:T1053	
+R1181	Cueing Arg1:T1054 Arg2:T1056	
+R1182	Speaker Arg1:T1055 Arg2:T1056	
+R1183	Addressee Arg1:T1048 Arg2:T1053	
+R1184	Addressee Arg1:T1048 Arg2:T1056	
+T1057	Quotation 156743 156770	"Who is that, Grandfather?"
+T1058	Cue 156771 156776	asked
+T1059	Entity 156777 156787	Yegorushka
+R1185	Cueing Arg1:T1058 Arg2:T1057	
+R1186	Speaker Arg1:T1059 Arg2:T1057	
+R1187	Addressee Arg1:T1055 Arg2:T1057	
+T1060	Quotation 156789 156800	"Varlamov."
+R1188	Addressee Arg1:T1059 Arg2:T1060	
+R1189	Speaker Arg1:T1055 Arg2:T1060	
+T1061	Quotation 157220 157250	"He is all right, a good man,"
+T1062	Cue 157251 157255	said
+T1063	Entity 157256 157264	Panteley
+R1190	Cueing Arg1:T1062 Arg2:T1061	
+R1191	Speaker Arg1:T1063 Arg2:T1061	
+T1064	Quotation 157298 157696	"God give him health -- a splendid gentleman, Semyon Alexandritch. . . . It's people like that the earth rests upon. That's true. . . . The cocks are not crowing yet, and he is already up and about. . . . Another man would be asleep, or gallivanting with visitors at home, but he is on the steppe all day, . . . on his rounds. . . . He does not let things slip. . . . No-o! He's a fine fellow. . ."
+R1192	Cueing Arg1:T1062 Arg2:T1064	
+R1193	Speaker Arg1:T1063 Arg2:T1064	
+T1065	Entity 156814 156824	Yegorushka
+R1194	Addressee Arg1:T1065 Arg2:T1061	
+R1195	Addressee Arg1:T1065 Arg2:T1064	
+T1066	Quotation 157830 157852	"Semyon Alexandritch!"
+T1067	Cue 157853 157858	cried
+T1068	Entity 157859 157867	Panteley
+T1069	Quotation 157889 157963	"Allow us to send Styopka! Emelyan, call out that Styopka should be sent."
+T1070	Entity 157697 157705	Varlamov
+T1071	Entity 153278 153285	Emelyan
+R1196	Addressee Arg1:T1071 Arg2:T1069	
+R1197	Cueing Arg1:T1067 Arg2:T1066	
+R1198	Speaker Arg1:T1068 Arg2:T1066	
+R1199	Speaker Arg1:T1068 Arg2:T1069	
+R1200	Addressee Arg1:T1070 Arg2:T1066	
+R1201	Addressee Arg1:T1070 Arg2:T1069	
+R1202	Cueing Arg1:T1067 Arg2:T1069	
+T1072	Quotation 158255 158293	"That must be one of his circuit men,"
+T1073	Cue 158294 158298	said
+T1074	Entity 158299 158307	Panteley
+T1075	Quotation 158309 158362	"He must have a hundred such horsemen or maybe more."
+R1203	Cueing Arg1:T1073 Arg2:T1072	
+R1204	Cueing Arg1:T1073 Arg2:T1075	
+R1205	Speaker Arg1:T1074 Arg2:T1072	
+R1206	Speaker Arg1:T1074 Arg2:T1075	
+R1207	Addressee Arg1:T1065 Arg2:T1072	
+R1208	Addressee Arg1:T1065 Arg2:T1075	
+T1076	Entity 158469 158477	Varlamov
+T1077	Cue 158529 158534	cried
+T1078	Quotation 158536 158570	"And where is Ivantchuk's letter?"
+T1079	Entity 158571 158583	The horseman
+R1209	Speaker Arg1:T1076 Arg2:T1078	
+R1210	Cueing Arg1:T1077 Arg2:T1078	
+R1211	Addressee Arg1:T1079 Arg2:T1078	
+T1080	Quotation 158868 158879	"Go along!"
+T1081	Entity 158880 158882	he
+T1082	Cue 158883 158888	cried
+T1083	Entity 158923 158930	the man
+R1212	Speaker Arg1:T1081 Arg2:T1080	
+R1213	Cueing Arg1:T1082 Arg2:T1080	
+R1214	Addressee Arg1:T1083 Arg2:T1080	
+T1084	Entity 160249 160257	Panteley
+T1085	Entity 160267 160275	Varlamov
+T1086	Cue 160353 160357	said
+T1087	Quotation 160367 160390	"How are you, old man?"
+R1215	Speaker Arg1:T1085 Arg2:T1087	
+R1216	Addressee Arg1:T1084 Arg2:T1087	
+R1217	Cueing Arg1:T1086 Arg2:T1087	
+T1088	Quotation 160789 160817	"He is a harsh old man, . ."
+T1089	Cue 160818 160826	muttered
+T1090	Entity 160827 160835	Panteley
+T1091	Quotation 160837 160967	"It's a pity he is so harsh! But he is all right, a good man. . . . He doesn't abuse men for nothing. . . . It's no matter. . . ."
+R1218	Cueing Arg1:T1089 Arg2:T1088	
+R1219	Cueing Arg1:T1089 Arg2:T1091	
+R1220	Speaker Arg1:T1090 Arg2:T1088	
+R1221	Speaker Arg1:T1090 Arg2:T1091	
+T1092	Entity 160079 160089	Yegorushka
+R1222	Addressee Arg1:T1092 Arg2:T1088	
+R1223	Addressee Arg1:T1092 Arg2:T1091	
+T1093	Entity 162064 162070	Vassya
+T1094	Cue 162071 162081	complained
+T1095	Quotation 162082 162128	that his jaw ached, and prophesied bad weather
+R1224	Speaker Arg1:T1093 Arg2:T1095	
+R1225	Cueing Arg1:T1094 Arg2:T1095	
+T1096	Quotation 162443 162513	"Here he lolls, the lumpy face, and is the first to put his spoon in,"
+T1097	Entity 162514 162516	he
+T1098	Cue 162517 162521	said
+T1099	Entity 162545 162552	Emelyan
+R1226	Speaker Arg1:T1097 Arg2:T1096	
+R1227	Cueing Arg1:T1098 Arg2:T1096	
+R1228	Addressee Arg1:T1099 Arg2:T1096	
+T1100	Quotation 162554 162729	"Greedy! always contrives to sit next the cauldron. He's been a church-singer, so he thinks he is a gentleman! There are a lot of singers like you begging along the highroad!"
+R1229	Speaker Arg1:T1097 Arg2:T1100	
+R1230	Cueing Arg1:T1098 Arg2:T1100	
+R1231	Addressee Arg1:T1099 Arg2:T1100	
+T1101	Quotation 162730 162762	"What are you pestering me for?"
+T1102	Cue 162763 162768	asked
+T1103	Entity 162769 162776	Emelyan
+T1104	Entity 162789 162792	him
+R1232	Cueing Arg1:T1102 Arg2:T1101	
+R1233	Speaker Arg1:T1103 Arg2:T1101	
+R1234	Addressee Arg1:T1104 Arg2:T1101	
+T1105	Quotation 162802 162896	"To teach you not to be the first to dip into the cauldron. Don't think too much of yourself!"
+R1235	Addressee Arg1:T1103 Arg2:T1105	
+R1236	Speaker Arg1:T1104 Arg2:T1105	
+T1106	Quotation 162897 162940	"You are a fool, and that is all about it!"
+T1107	Cue 162941 162952	wheezed out
+T1108	Entity 162953 162960	Emelyan
+R1237	Cueing Arg1:T1107 Arg2:T1106	
+R1238	Speaker Arg1:T1108 Arg2:T1106	
+R1239	Addressee Arg1:T1104 Arg2:T1106	
+T1109	Quotation 163111 163129	"A church-singer!"
+T1110	Entity 163130 163139	The bully
+T1111	Quotation 163186 163311	"Anyone can sing like that-- sit in the church porch and sing 'Give me alms, for Christ's sake!' Ugh! you are a nice fellow!"
+R1240	Speaker Arg1:T1110 Arg2:T1109	
+R1241	Speaker Arg1:T1110 Arg2:T1111	
+R1242	Addressee Arg1:T1108 Arg2:T1109	
+R1243	Addressee Arg1:T1108 Arg2:T1111	
+T1112	Entity 163382 163384	He
+T1113	Entity 163421 163434	the ex-singer
+T1114	Cue 163439 163443	said
+T1115	Quotation 163445 163539	"I don't care to have anything to do with you, or I would show you what to think of yourself."
+R1244	Speaker Arg1:T1112 Arg2:T1115	
+R1245	Cueing Arg1:T1114 Arg2:T1115	
+R1246	Addressee Arg1:T1113 Arg2:T1115	
+T1116	Quotation 163540 163582	"But why are you pushing me, you Mazeppa?"
+T1117	Entity 163583 163590	Emelyan
+T1118	Cue 163591 163596	cried
+R1247	Speaker Arg1:T1117 Arg2:T1116	
+R1248	Cueing Arg1:T1118 Arg2:T1116	
+R1249	Addressee Arg1:T1112 Arg2:T1116	
+T1119	Quotation 163610 163638	"Am I interfering with you?"
+R1250	Speaker Arg1:T1117 Arg2:T1119	
+R1251	Addressee Arg1:T1112 Arg2:T1119	
+T1120	Quotation 163639 163662	"What did you call me?"
+R1252	Cueing Arg1:T1118 Arg2:T1119	
+T1121	Cue 163663 163668	asked
+T1122	Entity 163669 163674	Dymov
+R1253	Cueing Arg1:T1121 Arg2:T1120	
+R1254	Speaker Arg1:T1122 Arg2:T1120	
+T1123	Quotation 163735 163798	"Eh! I am a Mazeppa? Yes? Take that, then; go and look for it."
+R1255	Cueing Arg1:T1121 Arg2:T1123	
+R1256	Speaker Arg1:T1122 Arg2:T1123	
+R1257	Addressee Arg1:T1117 Arg2:T1120	
+R1258	Addressee Arg1:T1117 Arg2:T1123	
+T1124	Quotation 164477 164526	"You are the worst of the lot; I can't bear you!"
+T1125	Entity 164411 164413	he
+T1126	Entity 164434 164439	Dymov
+R1259	Speaker Arg1:T1125 Arg2:T1124	
+R1260	Addressee Arg1:T1126 Arg2:T1124	
+T1127	Cue 164444 164455	brought out
+R1261	Cueing Arg1:T1127 Arg2:T1124	
+T1128	Entity 164579 164581	he
+T1129	Cue 164615 164622	went on
+T1130	Quotation 164624 164729	"In the next world you will burn in hell! I'll complain to Ivan Ivanitch. Don't you dare insult Emelyan!"
+R1262	Speaker Arg1:T1128 Arg2:T1130	
+R1263	Cueing Arg1:T1129 Arg2:T1130	
+R1264	Addressee Arg1:T1126 Arg2:T1130	
+T1131	Quotation 164730 164753	"Say this too, please,"
+T1132	Cue 164754 164761	laughed
+T1133	Entity 164762 164768	Dyrnov
+T1134	Quotation 164770 164848	"'every little sucking-pig wants to lay down the law.' Shall I pull your ear?"
+R1265	Cueing Arg1:T1132 Arg2:T1131	
+R1266	Cueing Arg1:T1132 Arg2:T1134	
+R1267	Speaker Arg1:T1133 Arg2:T1131	
+R1268	Speaker Arg1:T1133 Arg2:T1134	
+T1135	Entity 164849 164859	Yegorushka
+R1269	Addressee Arg1:T1135 Arg2:T1131	
+R1270	Addressee Arg1:T1135 Arg2:T1134	
+T1136	Entity 164947 164949	he
+T1137	Cue 165005 165011	crying
+T1138	Quotation 165021 165042	"Beat him, beat him!"
+R1271	Speaker Arg1:T1136 Arg2:T1138	
+R1272	Cueing Arg1:T1137 Arg2:T1138	
+R1273	Addressee Arg1:T1135 Arg2:T1138	
+T1139	Entity 165231 165233	he
+T1140	Cue 165234 165243	whispered
+T1141	Quotation 165245 165262	"Mother, mother!"
+R1274	Speaker Arg1:T1139 Arg2:T1141	
+R1275	Cueing Arg1:T1140 Arg2:T1141	
+T1142	Entity 166110 166112	he
+T1143	Cue 166113 166122	whispered
+T1144	Quotation 166124 166141	"Mother, mother!"
+R1276	Speaker Arg1:T1142 Arg2:T1144	
+R1277	Cueing Arg1:T1143 Arg2:T1144	
+T1145	Entity 166692 166697	Dymov
+T1146	Entity 166709 166717	Panteley
+T1147	Cue 166722 166727	asked
+T1148	Quotation 166736 166754	"What's his name?"
+R1278	Speaker Arg1:T1145 Arg2:T1148	
+R1279	Addressee Arg1:T1146 Arg2:T1148	
+R1280	Cueing Arg1:T1147 Arg2:T1148	
+T1149	Quotation 166755 166764	"Yegory,"
+T1150	Cue 166765 166773	answered
+T1151	Entity 166774 166782	Panteley
+T1152	Entity 166784 166789	Dymov
+R1281	Cueing Arg1:T1150 Arg2:T1149	
+R1282	Speaker Arg1:T1151 Arg2:T1149	
+R1283	Addressee Arg1:T1152 Arg2:T1149	
+T1153	Quotation 167029 167036	"Yera!"
+T1154	Entity 167037 167039	he
+T1155	Cue 167040 167044	said
+T1156	Quotation 167053 167068	"here, hit me!"
+R1284	Speaker Arg1:T1154 Arg2:T1153	
+R1285	Speaker Arg1:T1154 Arg2:T1156	
+R1286	Cueing Arg1:T1155 Arg2:T1153	
+R1287	Cueing Arg1:T1155 Arg2:T1156	
+T1157	Entity 166895 166905	Yegorushka
+R1288	Addressee Arg1:T1157 Arg2:T1153	
+R1289	Addressee Arg1:T1157 Arg2:T1156	
+T1158	Quotation 167155 167180	"It's all right, hit me,"
+T1159	Cue 167181 167189	repeated
+T1160	Entity 167190 167195	Dymov
+R1290	Cueing Arg1:T1159 Arg2:T1158	
+R1291	Speaker Arg1:T1160 Arg2:T1158	
+T1161	Entity 167221 167231	Yegorushka
+R1292	Addressee Arg1:T1161 Arg2:T1158	
+T1162	Quotation 167288 167306	"How dreary I am!"
+T1163	Cue 167282 167286	said
+T1164	Entity 167263 167265	he
+R1293	Speaker Arg1:T1164 Arg2:T1162	
+R1294	Cueing Arg1:T1163 Arg2:T1162	
+R1295	Addressee Arg1:T1161 Arg2:T1162	
+T1165	Quotation 167481 167540	"How dreary I am! O Lord! Don't you take offence, Emelyan,"
+T1166	Entity 167541 167543	he
+T1167	Cue 167544 167548	said
+T1168	Entity 167562 167569	Emelyan
+R1296	Speaker Arg1:T1166 Arg2:T1165	
+R1297	Cueing Arg1:T1167 Arg2:T1165	
+R1298	Addressee Arg1:T1168 Arg2:T1165	
+T1169	Quotation 167571 167603	"Ours is a wretched cruel life!"
+R1299	Speaker Arg1:T1166 Arg2:T1169	
+R1300	Cueing Arg1:T1167 Arg2:T1169	
+R1301	Addressee Arg1:T1168 Arg2:T1169	
+T1170	Quotation 167734 167754	"Yegory, take this,"
+T1171	Cue 167755 167760	cried
+T1172	Entity 167761 167769	Panteley
+T1173	Quotation 167807 167820	"What is it?"
+T1174	Cue 167821 167826	asked
+T1175	Entity 167827 167837	Yegorushka
+R1302	Cueing Arg1:T1171 Arg2:T1170	
+R1303	Speaker Arg1:T1172 Arg2:T1170	
+R1304	Addressee Arg1:T1175 Arg2:T1170	
+R1305	Cueing Arg1:T1174 Arg2:T1173	
+R1306	Speaker Arg1:T1175 Arg2:T1173	
+R1307	Addressee Arg1:T1172 Arg2:T1173	
+T1176	Quotation 167839 167889	"A mat. There will be rain, so cover yourself up."
+R1308	Speaker Arg1:T1172 Arg2:T1176	
+R1309	Addressee Arg1:T1175 Arg2:T1176	
+T1177	Quotation 168110 168147	"Will there be a storm, Grandfather?"
+T1178	Cue 168148 168153	asked
+T1179	Entity 168154 168164	Yegorushka
+R1310	Cueing Arg1:T1178 Arg2:T1177	
+R1311	Speaker Arg1:T1179 Arg2:T1177	
+R1312	Addressee Arg1:T1172 Arg2:T1177	
+T1180	Quotation 168166 168200	"Ah, my poor feet, how they ache!"
+T1181	Entity 168201 168209	Panteley
+T1182	Cue 168210 168214	said
+R1313	Speaker Arg1:T1181 Arg2:T1180	
+R1314	Cueing Arg1:T1182 Arg2:T1180	
+T1183	Quotation 168527 168541	"It's set in!"
+T1184	Cue 168542 168547	cried
+T1185	Entity 168548 168554	Kiruha
+R1315	Cueing Arg1:T1184 Arg2:T1183	
+R1316	Speaker Arg1:T1185 Arg2:T1183	
+T1186	Quotation 169133 169147	"I am dreary!"
+T1187	Cue 169148 169161	Dymov's shout
+T1188	Entity 169237 169239	he
+R1317	Speaker Arg1:T1188 Arg2:T1186	
+R1318	Cueing Arg1:T1187 Arg2:T1186	
+T1189	Quotation 169280 169297	"I am so dreary!"
+R1319	Speaker Arg1:T1188 Arg2:T1189	
+T1190	Quotation 170400 170414	"Panteley-ey!"
+T1191	Entity 170415 170422	someone
+T1192	Cue 170423 170430	shouted
+R1320	Speaker Arg1:T1191 Arg2:T1190	
+R1321	Cueing Arg1:T1192 Arg2:T1190	
+T1193	Quotation 170445 170464	"A. . . a. . . va!"
+R1322	Speaker Arg1:T1191 Arg2:T1193	
+R1323	Cueing Arg1:T1192 Arg2:T1193	
+T1194	Quotation 170465 170475	"I can't!"
+T1195	Entity 170476 170484	Panteley
+R1324	Addressee Arg1:T1195 Arg2:T1190	
+R1325	Addressee Arg1:T1195 Arg2:T1193	
+R1326	Speaker Arg1:T1195 Arg2:T1194	
+T1196	Cue 170485 170493	answered
+R1327	Cueing Arg1:T1196 Arg2:T1194	
+R1328	Addressee Arg1:T1191 Arg2:T1194	
+T1197	Quotation 170516 170551	"A . . . a . . . va! Arya . . . a!"
+R1329	Speaker Arg1:T1191 Arg2:T1197	
+R1330	Addressee Arg1:T1195 Arg2:T1197	
+T1198	Quotation 170693 170729	"Holy, holy, holy, Lord of Sabaoth,"
+T1199	Cue 170730 170739	whispered
+T1200	Entity 170740 170750	Yegorushka
+R1331	Cueing Arg1:T1199 Arg2:T1198	
+R1332	Speaker Arg1:T1200 Arg2:T1198	
+T1201	Quotation 170770 170809	"Fill heaven and earth with Thy glory."
+R1333	Cueing Arg1:T1199 Arg2:T1201	
+R1334	Speaker Arg1:T1200 Arg2:T1201	
+T1202	Quotation 171863 171874	"Panteley!"
+T1203	Cue 171875 171881	called
+T1204	Entity 171882 171892	Yegorushka
+R1335	Cueing Arg1:T1203 Arg2:T1202	
+R1336	Speaker Arg1:T1204 Arg2:T1202	
+R1337	Addressee Arg1:T1195 Arg2:T1202	
+T1205	Quotation 173109 173128	"Holy, holy, holy!"
+T1206	Entity 173129 173131	he
+T1207	Cue 173132 173141	whispered
+R1338	Speaker Arg1:T1206 Arg2:T1205	
+R1339	Cueing Arg1:T1207 Arg2:T1205	
+T1208	Entity 174886 174896	Yegorushka
+T1209	Cue 174944 174949	cried
+T1210	Quotation 174951 174975	"Panteley! Grandfather!"
+R1340	Speaker Arg1:T1208 Arg2:T1210	
+R1341	Cueing Arg1:T1209 Arg2:T1210	
+T1211	Entity 175288 175296	Panteley
+R1342	Addressee Arg1:T1211 Arg2:T1210	
+T1212	Quotation 175513 175539	"Grandfather, the giants!"
+T1213	Entity 175540 175550	Yegorushka
+T1214	Cue 175551 175558	shouted
+T1215	Entity 175562 175565	him
+R1343	Speaker Arg1:T1213 Arg2:T1212	
+R1344	Cueing Arg1:T1214 Arg2:T1212	
+R1345	Addressee Arg1:T1215 Arg2:T1212	
+T1216	Quotation 176474 176499	"Yegory, are you asleep?"
+T1217	Entity 176500 176508	Panteley
+T1218	Cue 176509 176514	cried
+R1346	Speaker Arg1:T1217 Arg2:T1216	
+R1347	Cueing Arg1:T1218 Arg2:T1216	
+T1219	Quotation 176522 176575	"Get down! Is he deaf, the silly little thing? . . ."
+R1348	Speaker Arg1:T1217 Arg2:T1219	
+R1349	Cueing Arg1:T1218 Arg2:T1219	
+T1220	Quotation 176576 176601	"Something like a storm!"
+T1221	Entity 176011 176021	Yegorushka
+R1350	Addressee Arg1:T1221 Arg2:T1216	
+R1351	Addressee Arg1:T1221 Arg2:T1219	
+T1222	Cue 176602 176606	said
+T1223	Entity 176607 176631	an unfamiliar bass voice
+R1352	Cueing Arg1:T1222 Arg2:T1220	
+R1353	Speaker Arg1:T1223 Arg2:T1220	
+T1224	Quotation 177429 177468	"It was a good storm, all right, . . ."
+T1225	Entity 177469 177477	Panteley
+R1354	Addressee Arg1:T1225 Arg2:T1220	
+R1355	Speaker Arg1:T1225 Arg2:T1224	
+T1226	Cue 177482 177491	muttering
+R1356	Cueing Arg1:T1226 Arg2:T1224	
+R1357	Addressee Arg1:T1223 Arg2:T1224	
+T1227	Quotation 177493 177651	"Thank God, . . . my feet are a little softened by the rain. It was all right. . . . Have you got down, Yegory? Well, go into the hut; it is all right. . . ."
+R1358	Speaker Arg1:T1225 Arg2:T1227	
+R1359	Cueing Arg1:T1226 Arg2:T1227	
+T1228	Entity 177161 177171	Yegorushka
+R1360	Addressee Arg1:T1228 Arg2:T1227	
+T1229	Quotation 177652 177671	"Holy, holy, holy!"
+T1230	Cue 177672 177679	wheezed
+T1231	Entity 177680 177687	Emelyan
+T1232	Quotation 177689 177752	"it must have struck something . . . . Are you of these parts?"
+R1361	Speaker Arg1:T1231 Arg2:T1229	
+R1362	Cueing Arg1:T1230 Arg2:T1229	
+R1363	Cueing Arg1:T1230 Arg2:T1232	
+R1364	Speaker Arg1:T1231 Arg2:T1232	
+T1233	Entity 177762 177772	the giants
+R1365	Addressee Arg1:T1233 Arg2:T1229	
+R1366	Addressee Arg1:T1233 Arg2:T1232	
+T1234	Quotation 177774 177847	"No, from Glinovo. We belong to Glinovo. We are working at the Platers'."
+R1367	Speaker Arg1:T1233 Arg2:T1234	
+R1368	Addressee Arg1:T1231 Arg2:T1234	
+T1235	Quotation 177848 177860	"Threshing?"
+R1369	Addressee Arg1:T1233 Arg2:T1235	
+R1370	Speaker Arg1:T1231 Arg2:T1235	
+T1236	Quotation 177861 177990	"All sorts. Just now we are getting in the wheat. The lightning, the lightning! It is long since we have had such a storm. . . ."
+R1371	Speaker Arg1:T1233 Arg2:T1236	
+R1372	Addressee Arg1:T1231 Arg2:T1236	
+T1237	Quotation 178181 178212	"What a storm God has sent us!"
+T1238	Entity 178213 178216	she
+T1239	Cue 178217 178221	said
+T1240	Entity 177991 178001	Yegorushka
+R1373	Addressee Arg1:T1240 Arg2:T1237	
+R1374	Speaker Arg1:T1238 Arg2:T1237	
+T1241	Quotation 178223 178367	"And our lads are out for the night on the steppe; they'll have a bad time, poor dears! Take off your things, little sir, take off your things."
+R1375	Speaker Arg1:T1238 Arg2:T1241	
+R1376	Cueing Arg1:T1239 Arg2:T1241	
+R1377	Addressee Arg1:T1240 Arg2:T1241	
+T1242	Quotation 178731 178800	"What's the use of standing there, with your legs apart, little lad?"
+T1243	Cue 178801 178805	said
+T1244	Entity 178806 178819	the old woman
+T1245	Quotation 178821 178838	"Come, sit down."
+R1378	Cueing Arg1:T1243 Arg2:T1242	
+R1379	Cueing Arg1:T1243 Arg2:T1245	
+R1380	Speaker Arg1:T1244 Arg2:T1242	
+R1381	Speaker Arg1:T1244 Arg2:T1245	
+T1246	Entity 178708 178711	his
+R1382	Addressee Arg1:T1246 Arg2:T1242	
+R1383	Addressee Arg1:T1246 Arg2:T1245	
+T1247	Quotation 179238 179311	"Have something to eat, my dear! I have nothing else to offer you, . . ."
+T1248	Entity 179312 179315	she
+T1249	Cue 179316 179320	said
+R1384	Speaker Arg1:T1248 Arg2:T1247	
+R1385	Cueing Arg1:T1249 Arg2:T1247	
+T1250	Entity 178868 178878	Yegorushka
+R1386	Addressee Arg1:T1250 Arg2:T1247	
+T1251	Quotation 179470 179491	"Have some, my dear!"
+R1387	Speaker Arg1:T1248 Arg2:T1251	
+T1252	Entity 179492 179502	Yegorushka
+R1388	Addressee Arg1:T1252 Arg2:T1251	
+T1253	Quotation 179658 179711	"Our lads are out on the steppe for the night, . . ."
+T1254	Cue 179712 179718	sighed
+T1255	Entity 179719 179732	the old woman
+T1256	Entity 179739 179741	he
+R1389	Cueing Arg1:T1254 Arg2:T1253	
+R1390	Speaker Arg1:T1255 Arg2:T1253	
+R1391	Addressee Arg1:T1256 Arg2:T1253	
+T1257	Quotation 179754 179911	"The terror of the Lord! I'd light the candle under the ikon, but I don't know where Stepanida has put it. Have some more, little sir, have some more. . . ."
+R1392	Speaker Arg1:T1255 Arg2:T1257	
+R1393	Addressee Arg1:T1256 Arg2:T1257	
+T1258	Quotation 180007 180036	"It must be two o'clock now,"
+T1259	Entity 180037 180040	she
+T1260	Cue 180041 180045	said
+T1261	Quotation 180047 180167	"it will soon be time to get up. Our lads are out on the steppe for the night; they are all wet through for sure. . . ."
+R1394	Speaker Arg1:T1259 Arg2:T1258	
+R1395	Cueing Arg1:T1260 Arg2:T1258	
+R1396	Speaker Arg1:T1259 Arg2:T1261	
+R1397	Cueing Arg1:T1260 Arg2:T1261	
+T1262	Quotation 180168 180177	"Granny,"
+T1263	Cue 180178 180182	said
+T1264	Entity 180183 180193	Yegorushka
+R1398	Addressee Arg1:T1264 Arg2:T1258	
+R1399	Addressee Arg1:T1264 Arg2:T1261	
+R1400	Cueing Arg1:T1263 Arg2:T1262	
+R1401	Speaker Arg1:T1264 Arg2:T1262	
+R1402	Addressee Arg1:T1259 Arg2:T1262	
+T1265	Quotation 180195 180209	"I am sleepy."
+R1403	Cueing Arg1:T1263 Arg2:T1265	
+R1404	Speaker Arg1:T1264 Arg2:T1265	
+R1405	Addressee Arg1:T1259 Arg2:T1265	
+T1266	Quotation 180210 180240	"Lie down, my dear, lie down,"
+T1267	Entity 180241 180254	the old woman
+T1268	Cue 180255 180261	sighed
+R1406	Speaker Arg1:T1267 Arg2:T1266	
+R1407	Cueing Arg1:T1268 Arg2:T1266	
+R1408	Addressee Arg1:T1264 Arg2:T1266	
+T1269	Quotation 180272 180479	"Lord Jesus Christ! I was asleep, when I heard a noise as though someone were knocking. I woke up and looked, and it was the storm God had sent us. . . . I'd have lighted the candle, but I couldn't find it."
+R1409	Speaker Arg1:T1267 Arg2:T1269	
+R1410	Cueing Arg1:T1268 Arg2:T1269	
+R1411	Addressee Arg1:T1264 Arg2:T1269	
+T1270	Quotation 180656 180686	"The storm doesn't grow less,"
+T1271	Entity 180687 180690	she
+T1272	Cue 180691 180699	muttered
+T1273	Quotation 180701 180934	"If only nothing's struck in an unlucky hour. Our lads are out on the steppe for the night. Lie down and sleep, my dear. . . . Christ be with you, my child. . . . I won't take away the melon; maybe you'll have a bit when you get up."
+R1412	Speaker Arg1:T1271 Arg2:T1270	
+R1413	Cueing Arg1:T1272 Arg2:T1270	
+T1274	Entity 180644 180654	Yegorushka
+R1414	Addressee Arg1:T1274 Arg2:T1270	
+R1415	Speaker Arg1:T1271 Arg2:T1273	
+R1416	Cueing Arg1:T1272 Arg2:T1273	
+R1417	Addressee Arg1:T1274 Arg2:T1273	
+T1275	Quotation 181229 181260	"Is the little lad lying down?"
+T1276	Entity 181270 181278	Panteley
+T1277	Cue 181279 181286	whisper
+T1278	Quotation 181303 181309	"Yes,"
+T1279	Cue 181310 181318	answered
+T1280	Entity 181319 181332	the old woman
+R1418	Speaker Arg1:T1276 Arg2:T1275	
+R1419	Cueing Arg1:T1277 Arg2:T1275	
+R1420	Addressee Arg1:T1280 Arg2:T1275	
+R1421	Cueing Arg1:T1279 Arg2:T1278	
+R1422	Speaker Arg1:T1280 Arg2:T1278	
+R1423	Addressee Arg1:T1276 Arg2:T1278	
+T1281	Quotation 181347 181425	"The terror of the Lord! It thunders and thunders, and there is no end to it."
+R1424	Cueing Arg1:T1279 Arg2:T1281	
+R1425	Speaker Arg1:T1280 Arg2:T1281	
+T1282	Quotation 181426 181449	"It will soon be over,"
+T1283	Cue 181450 181457	wheezed
+T1284	Entity 181458 181466	Panteley
+R1426	Addressee Arg1:T1284 Arg2:T1281	
+R1427	Cueing Arg1:T1283 Arg2:T1282	
+R1428	Speaker Arg1:T1284 Arg2:T1282	
+R1429	Addressee Arg1:T1280 Arg2:T1282	
+T1285	Quotation 181482 181763	"it's getting quieter. . . . The lads have gone into the huts, and two have stayed with the horses. The lads have. . . . They can't; . . . the horses would be taken away. . . . I'll sit here a bit and then go and take my turn. . . . We can't leave them; they would be taken. . . ."
+R1430	Cueing Arg1:T1283 Arg2:T1285	
+R1431	Speaker Arg1:T1284 Arg2:T1285	
+R1432	Addressee Arg1:T1280 Arg2:T1285	
+T1286	Quotation 182629 182654	"Grandfather, I am cold,"
+T1287	Entity 182655 182657	he
+T1288	Cue 182658 182662	said
+T1289	Entity 182186 182194	Panteley
+R1433	Speaker Arg1:T1287 Arg2:T1286	
+R1434	Cueing Arg1:T1288 Arg2:T1286	
+R1435	Addressee Arg1:T1289 Arg2:T1286	
+T1290	Quotation 182696 182733	"Go to sleep, my child, go to sleep,"
+T1291	Cue 182734 182740	sighed
+T1292	Entity 182741 182754	the old woman
+R1436	Cueing Arg1:T1291 Arg2:T1290	
+R1437	Speaker Arg1:T1292 Arg2:T1290	
+R1438	Addressee Arg1:T1287 Arg2:T1290	
+T1293	Quotation 183130 183144	"Grandfather,"
+T1294	Entity 183145 183147	he
+T1295	Cue 183148 183154	called
+T1296	Quotation 183156 183177	"give me some water."
+R1439	Speaker Arg1:T1294 Arg2:T1293	
+R1440	Speaker Arg1:T1294 Arg2:T1296	
+R1441	Cueing Arg1:T1295 Arg2:T1293	
+R1442	Cueing Arg1:T1295 Arg2:T1296	
+R1443	Addressee Arg1:T1289 Arg2:T1293	
+R1444	Addressee Arg1:T1289 Arg2:T1296	
+T1297	Quotation 184984 185011	"There are Varlamov's men!"
+T1298	Entity 185012 185019	someone
+T1299	Cue 185020 185027	shouted
+R1445	Speaker Arg1:T1298 Arg2:T1297	
+R1446	Cueing Arg1:T1299 Arg2:T1297	
+T1300	Quotation 185513 185537	"Grandfather, I'm cold,"
+T1301	Entity 185538 185540	he
+T1302	Cue 185541 185545	said
+T1303	Quotation 185597 185634	"Never mind, we shall soon be there,"
+T1304	Cue 185635 185641	yawned
+T1305	Entity 185642 185650	Panteley
+R1447	Speaker Arg1:T1301 Arg2:T1300	
+R1448	Cueing Arg1:T1302 Arg2:T1300	
+R1449	Addressee Arg1:T1305 Arg2:T1300	
+R1450	Cueing Arg1:T1304 Arg2:T1303	
+R1451	Speaker Arg1:T1305 Arg2:T1303	
+T1306	Quotation 185652 185684	"Never mind, you will get warm."
+R1452	Addressee Arg1:T1301 Arg2:T1303	
+R1453	Speaker Arg1:T1305 Arg2:T1306	
+R1454	Addressee Arg1:T1301 Arg2:T1306	
+T1307	Quotation 187159 187188	"Our little lad's taken ill,"
+T1308	Entity 187189 187191	he
+T1309	Cue 187192 187196	said
+T1310	Quotation 187198 187301	"He must have got a chill to the stomach. The little lad must. . . away from home; it's a bad lookout!"
+R1455	Speaker Arg1:T1308 Arg2:T1307	
+R1456	Speaker Arg1:T1308 Arg2:T1310	
+R1457	Cueing Arg1:T1309 Arg2:T1307	
+R1458	Cueing Arg1:T1309 Arg2:T1310	
+T1311	Entity 186650 186654	them
+R1459	Addressee Arg1:T1311 Arg2:T1307	
+R1460	Addressee Arg1:T1311 Arg2:T1310	
+T1312	Entity 187453 187460	Someone
+T1313	Quotation 187502 187738	"We arrived yesterday evening. . . . We have been expecting you all day. We meant to overtake you yesterday, but it was out of our way; we came by the other road. I say, how you have crumpled your coat! You'll catch it from your uncle!"
+T1314	Entity 187473 187476	him
+T1315	Cue 187494 187500	saying
+R1461	Speaker Arg1:T1312 Arg2:T1313	
+R1462	Addressee Arg1:T1314 Arg2:T1313	
+R1463	Cueing Arg1:T1315 Arg2:T1313	
+T1316	Quotation 187827 187908	"Your uncle and Father Christopher are in the inn now, drinking tea; come along!"
+T1317	Entity 187818 187825	Deniska
+T1318	Entity 187739 187749	Yegorushka
+R1464	Addressee Arg1:T1318 Arg2:T1316	
+R1465	Speaker Arg1:T1317 Arg2:T1316	
+T1319	Quotation 188269 188297	"Aha! Yegor Ni-ko-la-aitch!"
+T1320	Cue 188298 188305	chanted
+T1321	Entity 188306 188324	Father Christopher
+R1466	Cueing Arg1:T1320 Arg2:T1319	
+R1467	Speaker Arg1:T1321 Arg2:T1319	
+T1322	Entity 188213 188220	the boy
+R1468	Addressee Arg1:T1322 Arg2:T1319	
+T1323	Quotation 188326 188342	"Mr. Lomonosov!"
+R1469	Speaker Arg1:T1322 Arg2:T1323	
+R1470	Addressee Arg1:T1321 Arg2:T1323	
+T1324	Quotation 188343 188377	"Ah, our gentleman that is to be,"
+T1325	Cue 188378 188382	said
+T1326	Entity 188383 188393	Kuzmitchov
+T1327	Quotation 188395 188416	"pleased to see you!"
+R1471	Cueing Arg1:T1325 Arg2:T1324	
+R1472	Cueing Arg1:T1325 Arg2:T1327	
+R1473	Speaker Arg1:T1326 Arg2:T1324	
+R1474	Speaker Arg1:T1326 Arg2:T1327	
+T1328	Entity 188417 188427	Yegorushka
+R1475	Addressee Arg1:T1328 Arg2:T1324	
+R1476	Addressee Arg1:T1328 Arg2:T1327	
+T1329	Quotation 188530 188578	"Well, how did you like the journey, puer bone?"
+T1330	Entity 188579 188597	Father Christopher
+T1331	Entity 188605 188608	him
+T1332	Quotation 188679 189241	"Sick of it, I've no doubt? God save us all from having to travel by waggon or with oxen. You go on and on, God forgive us; you look ahead and the steppe is always lying stretched out the same as it was-- you can't see the end of it! It's not travelling but regular torture. Why don't you drink your tea? Drink it up; and in your absence, while you have been trailing along with the waggons, we have settled all our business capitally. Thank God we have sold our wool to Tcherepahin, and no one could wish to have done better. . . . We have made a good bargain."
+R1477	Speaker Arg1:T1330 Arg2:T1329	
+R1478	Addressee Arg1:T1331 Arg2:T1329	
+R1479	Speaker Arg1:T1330 Arg2:T1332	
+R1480	Addressee Arg1:T1331 Arg2:T1332	
+T1333	Quotation 189668 189681	"Well, well,"
+T1334	Entity 189578 189580	He
+T1335	Cue 189682 189686	said
+T1336	Entity 189687 189705	Father Christopher
+T1337	Quotation 189719 189741	"What about your tea?"
+R1481	Cueing Arg1:T1335 Arg2:T1333	
+R1482	Cueing Arg1:T1335 Arg2:T1337	
+R1483	Speaker Arg1:T1336 Arg2:T1333	
+R1484	Speaker Arg1:T1336 Arg2:T1337	
+R1485	Addressee Arg1:T1334 Arg2:T1333	
+R1486	Addressee Arg1:T1334 Arg2:T1337	
+T1338	Quotation 189843 189856	"Well, well!"
+T1339	Cue 189857 189865	repeated
+T1340	Entity 189866 189884	Father Christopher
+T1341	Quotation 189920 189978	"Yegory, what is the matter with you? Why are you crying?"
+R1487	Cueing Arg1:T1339 Arg2:T1338	
+R1488	Cueing Arg1:T1339 Arg2:T1341	
+R1489	Speaker Arg1:T1340 Arg2:T1338	
+R1490	Speaker Arg1:T1340 Arg2:T1341	
+T1342	Entity 189778 189788	Yegorushka
+R1491	Addressee Arg1:T1342 Arg2:T1338	
+R1492	Addressee Arg1:T1342 Arg2:T1341	
+T1343	Quotation 189979 189999	"I'm . . . I'm ill,"
+T1344	Entity 190000 190010	Yegorushka
+T1345	Cue 190011 190022	brought out
+T1346	Quotation 190024 190030	"Ill?"
+T1347	Cue 190031 190035	said
+T1348	Entity 190036 190054	Father Christopher
+T1349	Quotation 190069 190198	"That's not the right thing, my boy. . . . One mustn't be ill on a journey. Aie, aie, what are you thinking about, boy . . . eh?"
+R1493	Speaker Arg1:T1344 Arg2:T1343	
+R1494	Cueing Arg1:T1345 Arg2:T1343	
+R1495	Addressee Arg1:T1348 Arg2:T1343	
+R1496	Cueing Arg1:T1347 Arg2:T1346	
+R1497	Speaker Arg1:T1348 Arg2:T1346	
+R1498	Addressee Arg1:T1344 Arg2:T1346	
+R1499	Cueing Arg1:T1347 Arg2:T1349	
+R1500	Speaker Arg1:T1348 Arg2:T1349	
+R1501	Addressee Arg1:T1344 Arg2:T1349	
+T1350	Entity 190199 190201	He
+T1351	Entity 190218 190228	Yegorushka
+T1352	Cue 190259 190263	said
+T1353	Quotation 190265 190374	"Yes, your head's feverish. . . . You must have caught cold or else have eaten something. . . . Pray to God."
+R1502	Speaker Arg1:T1350 Arg2:T1353	
+R1503	Addressee Arg1:T1351 Arg2:T1353	
+R1504	Cueing Arg1:T1352 Arg2:T1353	
+T1354	Quotation 190375 190410	"Should we give him quinine? . . ."
+T1355	Cue 190411 190415	said
+T1356	Entity 190416 190429	Ivan Ivanitch
+R1505	Cueing Arg1:T1355 Arg2:T1354	
+R1506	Speaker Arg1:T1356 Arg2:T1354	
+R1507	Addressee Arg1:T1351 Arg2:T1354	
+T1357	Quotation 190441 190524	"No; he ought to have something hot. . . . Yegory, have a little drop of soup? Eh?"
+R1508	Speaker Arg1:T1350 Arg2:T1357	
+R1509	Addressee Arg1:T1356 Arg2:T1357	
+T1358	Quotation 190525 190549	"I. . . don't want any,"
+T1359	Cue 190550 190554	said
+T1360	Entity 190555 190565	Yegorushka
+R1510	Addressee Arg1:T1360 Arg2:T1357	
+R1511	Cueing Arg1:T1359 Arg2:T1358	
+R1512	Speaker Arg1:T1360 Arg2:T1358	
+R1513	Addressee Arg1:T1356 Arg2:T1358	
+T1361	Quotation 190567 190592	"Are you feeling chilly?"
+R1514	Speaker Arg1:T1356 Arg2:T1361	
+R1515	Addressee Arg1:T1360 Arg2:T1361	
+T1362	Quotation 190593 190670	"I was chilly before, but now . . . now I am hot. And I ache all over. . . ."
+R1516	Speaker Arg1:T1360 Arg2:T1362	
+R1517	Addressee Arg1:T1356 Arg2:T1362	
+T1363	Quotation 190807 190852	"I tell you what, you undress and go to bed,"
+T1364	Cue 190853 190857	said
+T1365	Entity 190858 190876	Father Christopher
+T1366	Quotation 190878 190907	"What you want is sleep now."
+R1518	Cueing Arg1:T1364 Arg2:T1363	
+R1519	Cueing Arg1:T1364 Arg2:T1366	
+R1520	Speaker Arg1:T1365 Arg2:T1363	
+R1521	Speaker Arg1:T1365 Arg2:T1366	
+T1367	Entity 190714 190724	Yegorushka
+R1522	Addressee Arg1:T1367 Arg2:T1363	
+R1523	Addressee Arg1:T1367 Arg2:T1366	
+T1368	Quotation 191324 191345	"Beat him, beat him!"
+T1369	Cue 191346 191353	shouted
+T1370	Entity 191354 191364	Yegorushka
+R1524	Cueing Arg1:T1369 Arg2:T1368	
+R1525	Speaker Arg1:T1370 Arg2:T1368	
+T1371	Quotation 191366 191384	"He is delirious,"
+T1372	Cue 191385 191389	said
+T1373	Entity 191390 191408	Father Christopher
+T1374	Quotation 191426 191444	"It's a nuisance!"
+T1375	Cue 191445 191451	sighed
+T1376	Entity 191452 191465	Ivan Ivanitch
+R1526	Cueing Arg1:T1372 Arg2:T1371	
+R1527	Speaker Arg1:T1373 Arg2:T1371	
+R1528	Addressee Arg1:T1376 Arg2:T1371	
+R1529	Cueing Arg1:T1375 Arg2:T1374	
+R1530	Speaker Arg1:T1376 Arg2:T1374	
+R1531	Addressee Arg1:T1373 Arg2:T1374	
+T1377	Quotation 191467 191549	"He must be rubbed with oil and vinegar. Please God, he will be better to-morrow."
+R1532	Speaker Arg1:T1376 Arg2:T1377	
+R1533	Addressee Arg1:T1373 Arg2:T1377	
+T1378	Entity 192131 192133	he
+T1379	Entity 192161 192167	Mihail
+T1380	Quotation 192196 192243	"Well, take it! that's the way to do business!"
+T1381	Cue 192191 192194	say
+R1534	Speaker Arg1:T1378 Arg2:T1380	
+R1535	Addressee Arg1:T1379 Arg2:T1380	
+R1536	Cueing Arg1:T1381 Arg2:T1380	
+T1382	Quotation 192345 192410	"If I could have known that Tcherepahin would give such a price,"
+T1383	Entity 192411 192413	he
+T1384	Cue 192414 192418	said
+T1385	Quotation 192435 192564	"I wouldn't have sold Makarov those five tons at home. It is vexatious! But who could have told that the price had gone up here?"
+R1537	Speaker Arg1:T1383 Arg2:T1382	
+R1538	Speaker Arg1:T1383 Arg2:T1385	
+R1539	Cueing Arg1:T1384 Arg2:T1382	
+R1540	Cueing Arg1:T1384 Arg2:T1385	
+R1541	Addressee Arg1:T1378 Arg2:T1382	
+R1542	Addressee Arg1:T1378 Arg2:T1385	
+T1386	Quotation 193004 193050	"I think of going to the cathedral to-morrow,"
+T1387	Cue 193051 193055	said
+T1388	Entity 193056 193074	Father Christopher
+T1389	Quotation 193076 193174	"I know the sacristan there. I ought to go and see the bishop after mass, but they say he is ill."
+R1543	Cueing Arg1:T1387 Arg2:T1386	
+R1544	Cueing Arg1:T1387 Arg2:T1389	
+R1545	Speaker Arg1:T1388 Arg2:T1386	
+R1546	Speaker Arg1:T1388 Arg2:T1389	
+T1390	Entity 192896 192909	Ivan Ivanitch
+R1547	Addressee Arg1:T1390 Arg2:T1386	
+R1548	Addressee Arg1:T1390 Arg2:T1389	
+T1391	Quotation 193279 193316	"They say he can't receive visitors,"
+T1392	Entity 193317 193335	Father Christopher
+T1393	Cue 193336 193343	went on
+T1394	Quotation 193357 193397	"So I shall go away without seeing him."
+R1549	Speaker Arg1:T1392 Arg2:T1391	
+R1550	Speaker Arg1:T1392 Arg2:T1394	
+R1551	Cueing Arg1:T1393 Arg2:T1391	
+R1552	Cueing Arg1:T1393 Arg2:T1394	
+R1553	Addressee Arg1:T1390 Arg2:T1391	
+R1554	Addressee Arg1:T1390 Arg2:T1394	
+T1395	Quotation 193547 193673	"Lomonosov, are you asleep? Sit up; I'm going to rub you with oil and vinegar. It's a good thing, only you must say a prayer."
+T1396	Entity 193521 193531	Yegorushka
+T1397	Cue 193536 193545	whispered
+T1398	Entity 193470 193478	Robinson
+R1555	Cueing Arg1:T1397 Arg2:T1395	
+R1556	Addressee Arg1:T1396 Arg2:T1395	
+R1557	Speaker Arg1:T1398 Arg2:T1395	
+T1399	Quotation 193880 193937	"In the name of the Father, the Son, and the Holy Ghost,"
+T1400	Entity 193938 193940	he
+T1401	Cue 193941 193950	whispered
+T1402	Quotation 193952 194128	"lie with your back upwards-- that's it. . . . You'll be all right to-morrow, but don't do it again. . . . You are as hot as fire. I suppose you were on the road in the storm."
+R1558	Speaker Arg1:T1400 Arg2:T1399	
+R1559	Speaker Arg1:T1400 Arg2:T1402	
+R1560	Cueing Arg1:T1401 Arg2:T1399	
+R1561	Cueing Arg1:T1401 Arg2:T1402	
+T1403	Entity 193860 193870	Yegorushka
+R1562	Addressee Arg1:T1403 Arg2:T1399	
+R1563	Addressee Arg1:T1403 Arg2:T1402	
+T1404	Quotation 194129 194135	"Yes."
+R1564	Addressee Arg1:T1400 Arg2:T1404	
+R1565	Speaker Arg1:T1403 Arg2:T1404	
+T1405	Quotation 194136 194249	"You might well fall ill! In the name of the Father, the Son, and the Holy Ghost, . . . you might well fall ill!"
+R1566	Speaker Arg1:T1400 Arg2:T1405	
+R1567	Addressee Arg1:T1403 Arg2:T1405	
+T1406	Entity 196598 196600	he
+T1407	Cue 196694 196698	said
+T1408	Quotation 196700 196748	"God has sent us blessings-- well, how are you?"
+T1409	Quotation 196749 196766	"Quite well now,"
+T1410	Cue 196767 196775	answered
+T1411	Entity 196776 196786	Yegorushka
+R1568	Speaker Arg1:T1406 Arg2:T1408	
+R1569	Cueing Arg1:T1407 Arg2:T1408	
+R1570	Addressee Arg1:T1411 Arg2:T1408	
+R1571	Cueing Arg1:T1410 Arg2:T1409	
+R1572	Speaker Arg1:T1411 Arg2:T1409	
+R1573	Addressee Arg1:T1406 Arg2:T1409	
+T1412	Quotation 196806 196994	"Thank God. . . . I have come from mass. I've been to see a sacristan I know. He invited me to breakfast with him, but I didn't go. I don't like visiting people too early, God bless them!"
+R1574	Speaker Arg1:T1406 Arg2:T1412	
+R1575	Addressee Arg1:T1411 Arg2:T1412	
+T1413	Quotation 197170 197215	"See; I passed a fish-shop and brought this,"
+T1414	Cue 197216 197220	said
+T1415	Entity 197221 197239	Father Christopher
+R1576	Cueing Arg1:T1414 Arg2:T1413	
+R1577	Speaker Arg1:T1415 Arg2:T1413	
+T1416	Entity 197086 197096	Yegorushka
+R1578	Addressee Arg1:T1416 Arg2:T1413	
+T1417	Quotation 197241 197412	"There is no need to indulge in luxuries on an ordinary weekday; but I thought, I've an invalid at home, so it is excusable. And the caviare is good, real sturgeon. . . ."
+R1579	Cueing Arg1:T1414 Arg2:T1417	
+R1580	Speaker Arg1:T1415 Arg2:T1417	
+R1581	Addressee Arg1:T1416 Arg2:T1417	
+T1418	Quotation 197491 197502	"Eat some,"
+T1419	Cue 197503 197507	said
+T1420	Entity 197508 197526	Father Christopher
+T1421	Entity 197588 197598	Yegorushka
+R1582	Cueing Arg1:T1419 Arg2:T1418	
+R1583	Speaker Arg1:T1420 Arg2:T1418	
+R1584	Addressee Arg1:T1421 Arg2:T1418	
+T1422	Quotation 197600 198577	"Eat now and enjoy yourself, but the time will soon come for you to be studying. Mind you study with attention and application, so that good may come of it. What you have to learn by heart, learn by heart, but when you have to tell the inner sense in your own words, without regard to the outer form, then say it in your own words. And try to master all subjects. One man knows mathematics excellently, but has never heard of Pyotr Mogila; another knows about Pyotr Mogila, but cannot explain about the moon. But you study so as to understand everything. Study Latin, French, German, . . . geography, of course, history, theology, philosophy, mathematics, . . . and when you have mastered everything, not with haste but with prayer and with zeal, then go into the service. When you know everything it will be easy for you in any line of life. . . . You study and strive for the divine blessing, and God will show you what to be. Whether a doctor, a judge or an engineer. . . ."
+R1585	Cueing Arg1:T1419 Arg2:T1422	
+R1586	Speaker Arg1:T1420 Arg2:T1422	
+R1587	Addressee Arg1:T1421 Arg2:T1422	
+T1423	Cue 198666 198670	said
+T1424	Quotation 198672 199236	"The Apostle Paul says: 'Do not apply yourself to strange and diverse studies.' Of course, if it is black magic, unlawful arts, or calling up spirits from the other world, like Saul, or studying subjects that can be of no use to yourself or others, better not learn them. You must undertake only what God has blessed. Take example . . . the Holy Apostles spoke in all languages, so you study languages. Basil the Great studied mathematics and philosophy-- so you study them; St. Nestor wrote history-- so you study and write history. Take example from the saints."
+T1425	Entity 198578 198596	Father Christopher
+R1588	Speaker Arg1:T1425 Arg2:T1424	
+R1589	Cueing Arg1:T1423 Arg2:T1424	
+R1590	Addressee Arg1:T1421 Arg2:T1424	
+T1426	Quotation 199330 199337	"Good!"
+T1427	Entity 199338 199340	he
+T1428	Cue 199341 199345	said
+T1429	Quotation 199347 200193	"I was educated in the old-fashioned way; I have forgotten a great deal by now, but still I live differently from other people. Indeed, there is no comparison. For instance, in company at a dinner, or at an assembly, one says something in Latin, or makes some allusion from history or philosophy, and it pleases people, and it pleases me myself. . . . Or when the circuit court comes and one has to take the oath, all the other priests are shy, but I am quite at home with the judges, the prosecutors, and the lawyers. I talk intellectually, drink a cup of tea with them, laugh, ask them what I don't know, . . . and they like it. So that's how it is, my boy. Learning is light and ignorance is darkness. Study! It's hard, of course; nowadays study is expensive. . . . Your mother is a widow; she lives on her pension, but there, of course . . ."
+R1591	Speaker Arg1:T1427 Arg2:T1426	
+R1592	Cueing Arg1:T1428 Arg2:T1426	
+R1593	Speaker Arg1:T1427 Arg2:T1429	
+R1594	Cueing Arg1:T1428 Arg2:T1429	
+R1595	Addressee Arg1:T1421 Arg2:T1426	
+R1596	Addressee Arg1:T1421 Arg2:T1429	
+T1430	Entity 200194 200212	Father Christopher
+T1431	Cue 200258 200278	went on in a whisper
+T1432	Quotation 200280 200399	"Ivan Ivanitch will assist. He won't desert you. He has no children of his own, and he will help you. Don't be uneasy."
+R1597	Speaker Arg1:T1430 Arg2:T1432	
+R1598	Cueing Arg1:T1431 Arg2:T1432	
+R1599	Addressee Arg1:T1421 Arg2:T1432	
+T1433	Entity 200400 200402	He
+T1434	Cue 200421 200430	whispered
+T1435	Quotation 200450 200806	"Only mind, Yegory, don't forget your mother and Ivan Ivanitch, God preserve you from it. The commandment bids you honour your mother, and Ivan Ivanitch is your benefactor and takes the place of a father to you. If you become learned, God forbid you should be impatient and scornful with people because they are not so clever as you, then woe, woe to you!"
+R1600	Speaker Arg1:T1433 Arg2:T1435	
+R1601	Cueing Arg1:T1434 Arg2:T1435	
+R1602	Addressee Arg1:T1421 Arg2:T1435	
+T1436	Entity 200807 200825	Father Christopher
+T1437	Cue 200846 200854	repeated
+T1438	Quotation 200872 200897	"Woe to you! Woe to you!"
+R1603	Speaker Arg1:T1436 Arg2:T1438	
+R1604	Cueing Arg1:T1437 Arg2:T1438	
+R1605	Addressee Arg1:T1421 Arg2:T1438	
+T1439	Quotation 201174 201214	"Well, I have settled all our business,"
+T1440	Entity 201215 201217	he
+T1441	Cue 201218 201222	said
+R1606	Speaker Arg1:T1440 Arg2:T1439	
+R1607	Cueing Arg1:T1441 Arg2:T1439	
+T1442	Entity 200898 200916	Father Christopher
+R1608	Addressee Arg1:T1442 Arg2:T1439	
+T1443	Quotation 201224 201450	"We might have gone home to-day, but we have still to think about Yegor. We must arrange for him. My sister told me that Nastasya Petrovna, a friend of hers, lives somewhere here, so perhaps she will take him in as a boarder."
+R1609	Speaker Arg1:T1440 Arg2:T1443	
+R1610	Cueing Arg1:T1441 Arg2:T1443	
+T1444	Cue 201509 201513	read
+T1445	Quotation 201515 201654	"'Little Lower Street: Nastasya Petrovna Toskunov, living in a house of her own.' We must go at once and try to find her. It's a nuisance!"
+T1446	Entity 201451 201453	He
+T1447	Quotation 201719 201737	"It's a nuisance,"
+T1448	Cue 201738 201746	muttered
+R1611	Speaker Arg1:T1446 Arg2:T1445	
+R1612	Cueing Arg1:T1444 Arg2:T1445	
+R1613	Addressee Arg1:T1442 Arg2:T1443	
+R1614	Addressee Arg1:T1442 Arg2:T1445	
+T1449	Entity 201747 201756	his uncle
+T1450	Quotation 201758 201905	"You are sticking to me like a burr. You and your mother want education and gentlemanly breeding and I have nothing but worry with you both. . . ."
+R1615	Cueing Arg1:T1448 Arg2:T1447	
+R1616	Speaker Arg1:T1449 Arg2:T1447	
+R1617	Cueing Arg1:T1448 Arg2:T1450	
+R1618	Speaker Arg1:T1449 Arg2:T1450	
+T1451	Entity 201694 201704	Yegorushka
+R1619	Addressee Arg1:T1451 Arg2:T1447	
+R1620	Addressee Arg1:T1451 Arg2:T1450	
+T1452	Quotation 202294 202302	"I say,"
+T1453	Cue 202303 202307	said
+T1454	Entity 202308 202321	the policeman
+T1455	Quotation 202336 202404	"it's a long way off, out that way towards the town grazing ground."
+R1621	Cueing Arg1:T1453 Arg2:T1452	
+R1622	Cueing Arg1:T1453 Arg2:T1455	
+R1623	Speaker Arg1:T1454 Arg2:T1452	
+R1624	Speaker Arg1:T1454 Arg2:T1455	
+T1456	Entity 202237 202250	Ivan Ivanitch
+R1625	Addressee Arg1:T1456 Arg2:T1452	
+R1626	Addressee Arg1:T1456 Arg2:T1455	
+T1457	Quotation 202934 202952	"Tell me, please,"
+T1458	Cue 202953 202957	said
+T1459	Entity 202958 202971	Ivan Ivanitch
+T1460	Entity 202984 202994	an old man
+T1461	Quotation 203032 203078	"where is Nastasya Petrovna Toskunov's house?"
+R1627	Cueing Arg1:T1458 Arg2:T1457	
+R1628	Speaker Arg1:T1459 Arg2:T1457	
+R1629	Addressee Arg1:T1460 Arg2:T1457	
+R1630	Addressee Arg1:T1460 Arg2:T1461	
+R1631	Speaker Arg1:T1459 Arg2:T1461	
+R1632	Cueing Arg1:T1458 Arg2:T1461	
+T1462	Quotation 203079 203118	"There is no one called Toskunov here,"
+T1463	Cue 203119 203123	said
+T1464	Entity 203124 203135	the old man
+T1465	Quotation 203163 203198	"Perhaps it's Timoshenko you want."
+R1633	Cueing Arg1:T1463 Arg2:T1462	
+R1634	Speaker Arg1:T1464 Arg2:T1462	
+R1635	Addressee Arg1:T1459 Arg2:T1462	
+R1636	Cueing Arg1:T1463 Arg2:T1465	
+R1637	Speaker Arg1:T1464 Arg2:T1465	
+R1638	Addressee Arg1:T1459 Arg2:T1465	
+T1466	Quotation 203199 203220	"No, Toskunov. . . ."
+R1639	Addressee Arg1:T1464 Arg2:T1466	
+R1640	Speaker Arg1:T1459 Arg2:T1466	
+T1467	Quotation 203221 203271	"Excuse me, there's no one called Toskunov. . . ."
+R1641	Speaker Arg1:T1464 Arg2:T1467	
+R1642	Addressee Arg1:T1459 Arg2:T1467	
+T1468	Quotation 203333 203352	"You needn't look,"
+T1469	Entity 203353 203364	the old man
+T1470	Cue 203365 203371	called
+T1471	Entity 203272 203285	Ivan Ivanitch
+R1643	Addressee Arg1:T1471 Arg2:T1468	
+R1644	Speaker Arg1:T1469 Arg2:T1468	
+R1645	Cueing Arg1:T1470 Arg2:T1468	
+T1472	Quotation 203384 203426	"I tell you there isn't, and there isn't."
+R1646	Speaker Arg1:T1469 Arg2:T1472	
+R1647	Cueing Arg1:T1470 Arg2:T1472	
+R1648	Addressee Arg1:T1471 Arg2:T1472	
+T1473	Quotation 203427 203444	"Listen, auntie,"
+T1474	Cue 203445 203449	said
+T1475	Entity 203450 203463	Ivan Ivanitch
+T1476	Entity 203476 203488	an old woman
+T1477	Quotation 203559 203605	"where is Nastasya Petrovna Toskunov's house?"
+R1649	Cueing Arg1:T1474 Arg2:T1473	
+R1650	Speaker Arg1:T1475 Arg2:T1473	
+R1651	Addressee Arg1:T1476 Arg2:T1473	
+R1652	Cueing Arg1:T1474 Arg2:T1477	
+R1653	Speaker Arg1:T1475 Arg2:T1477	
+R1654	Addressee Arg1:T1476 Arg2:T1477	
+T1478	Quotation 203661 203712	"Why, Nastasya Petrovna live in her own house now!"
+T1479	Entity 203713 203716	she
+T1480	Cue 203717 203722	cried
+R1655	Speaker Arg1:T1479 Arg2:T1478	
+R1656	Cueing Arg1:T1480 Arg2:T1478	
+T1481	Entity 203630 203633	him
+R1657	Addressee Arg1:T1481 Arg2:T1478	
+T1482	Quotation 203724 203858	"Lord! it is eight years since she married her daughter and gave up the house to her son-in-law! It's her son-in-law lives there now."
+R1658	Speaker Arg1:T1479 Arg2:T1482	
+R1659	Cueing Arg1:T1480 Arg2:T1482	
+R1660	Addressee Arg1:T1481 Arg2:T1482	
+T1483	Quotation 203948 203978	"And where does she live now?"
+T1484	Entity 203979 203992	Ivan Ivanitch
+T1485	Cue 203993 203998	asked
+R1661	Speaker Arg1:T1484 Arg2:T1483	
+R1662	Cueing Arg1:T1485 Arg2:T1483	
+T1486	Quotation 204000 204011	"Oh, Lord!"
+T1487	Cue 204012 204017	cried
+T1488	Entity 204018 204031	the old woman
+R1663	Addressee Arg1:T1488 Arg2:T1483	
+R1664	Cueing Arg1:T1487 Arg2:T1486	
+R1665	Speaker Arg1:T1488 Arg2:T1486	
+R1666	Addressee Arg1:T1484 Arg2:T1486	
+T1489	Quotation 204068 204175	"She moved ever so long ago! It's eight years since she gave up her house to her son-in-law! Upon my word!"
+R1667	Speaker Arg1:T1488 Arg2:T1489	
+R1668	Cueing Arg1:T1487 Arg2:T1489	
+R1669	Addressee Arg1:T1484 Arg2:T1489	
+T1490	Entity 204274 204287	Ivan Ivanitch
+T1491	Cue 204288 204293	asked
+T1492	Quotation 204307 204333	"Where does she live now?"
+R1670	Speaker Arg1:T1490 Arg2:T1492	
+R1671	Cueing Arg1:T1491 Arg2:T1492	
+T1493	Entity 204176 204179	She
+R1672	Addressee Arg1:T1493 Arg2:T1492	
+T1494	Quotation 204449 204652	"Go straight on, straight on, straight on. You will pass a little red house, then you will see a little alley on your left. Turn down that little alley, and it will be the third gate on the right. . . ."
+T1495	Cue 204413 204420	shouted
+T1496	Entity 204334 204347	The old woman
+R1673	Speaker Arg1:T1496 Arg2:T1494	
+R1674	Cueing Arg1:T1495 Arg2:T1494	
+R1675	Addressee Arg1:T1490 Arg2:T1494	
+T1497	Entity 205352 205365	A stout woman
+T1498	Cue 205495 205503	shouting
+T1499	Quotation 205561 205595	"Chick! . . . Chick! . . . Chick!"
+R1676	Speaker Arg1:T1497 Arg2:T1499	
+R1677	Cueing Arg1:T1498 Arg2:T1499	
+T1500	Quotation 205750 205769	"Whom do you want?"
+T1501	Cue 205770 205775	asked
+T1502	Entity 205776 205785	the woman
+R1678	Cueing Arg1:T1501 Arg2:T1500	
+R1679	Speaker Arg1:T1502 Arg2:T1500	
+T1503	Entity 205647 205660	the strangers
+R1680	Addressee Arg1:T1503 Arg2:T1500	
+T1504	Quotation 205839 205854	"Good-morning!"
+T1505	Entity 205855 205868	Ivan Ivanitch
+T1506	Cue 205869 205876	shouted
+R1681	Speaker Arg1:T1505 Arg2:T1504	
+R1682	Cueing Arg1:T1506 Arg2:T1504	
+R1683	Addressee Arg1:T1502 Arg2:T1504	
+T1507	Quotation 205922 205983	"Tell me, please, does Nastasya Petrovna Toskunov live here?"
+T1508	Quotation 205984 206021	"Yes! But what do you want with her?"
+R1684	Speaker Arg1:T1505 Arg2:T1507	
+R1685	Cueing Arg1:T1506 Arg2:T1507	
+R1686	Addressee Arg1:T1502 Arg2:T1507	
+R1687	Addressee Arg1:T1505 Arg2:T1508	
+R1688	Speaker Arg1:T1502 Arg2:T1508	
+T1509	Quotation 206022 206058	"Perhaps you are Nastasya Petrovna?"
+R1689	Speaker Arg1:T1505 Arg2:T1509	
+R1690	Addressee Arg1:T1502 Arg2:T1509	
+T1510	Quotation 206059 206077	"Well, yes, I am!"
+R1691	Speaker Arg1:T1502 Arg2:T1510	
+R1692	Addressee Arg1:T1505 Arg2:T1510	
+T1511	Quotation 206078 206348	"Very pleased to see you. . . . You see, your old friend Olga Ivanovna Knyasev sends her love to you. This is her little son. And I, perhaps you remember, am her brother Ivan Ivanitch. . . . You are one of us from N.. . . You were born among us and married there. . . ."
+R1693	Speaker Arg1:T1505 Arg2:T1511	
+R1694	Addressee Arg1:T1502 Arg2:T1511	
+T1512	Quotation 206593 206609	"Olga Ivanovna!"
+T1513	Entity 206610 206613	she
+T1514	Cue 206614 206622	screamed
+T1515	Quotation 206652 206752	"My own darling! Ah, holy saints, why am I standing here like a fool? My pretty little angel. . . ."
+R1695	Speaker Arg1:T1513 Arg2:T1512	
+R1696	Cueing Arg1:T1514 Arg2:T1512	
+T1516	Entity 206403 206416	Ivan Ivanitch
+R1697	Addressee Arg1:T1516 Arg2:T1512	
+R1698	Speaker Arg1:T1513 Arg2:T1515	
+R1699	Cueing Arg1:T1514 Arg2:T1515	
+R1700	Addressee Arg1:T1516 Arg2:T1515	
+T1517	Quotation 206837 206847	"Heavens!"
+T1518	Entity 206848 206851	she
+T1519	Cue 206852 206856	said
+T1520	Quotation 206878 207018	"Olga's little boy! How delightful! He is his mother all over! The image of his mother! But why are you standing in the yard? Come indoors."
+R1701	Speaker Arg1:T1518 Arg2:T1517	
+R1702	Speaker Arg1:T1518 Arg2:T1520	
+R1703	Cueing Arg1:T1519 Arg2:T1520	
+R1704	Addressee Arg1:T1516 Arg2:T1520	
+T1521	Quotation 207134 207167	"The room has not been done yet,"
+T1522	Entity 207168 207171	she
+T1523	Cue 207172 207176	said
+T1524	Entity 207187 207199	the visitors
+R1705	Speaker Arg1:T1522 Arg2:T1521	
+R1706	Cueing Arg1:T1523 Arg2:T1521	
+R1707	Addressee Arg1:T1524 Arg2:T1521	
+T1525	Quotation 207279 207428	"Oh, Mother of God! Vassilisa, go and open the shutters anyway! My little angel! My little beauty! I did not know that Olitchka had a boy like that!"
+R1708	Speaker Arg1:T1522 Arg2:T1525	
+R1709	Addressee Arg1:T1524 Arg2:T1525	
+R1710	Cueing Arg1:T1523 Arg2:T1525	
+T1526	Quotation 207946 207965	"What's your name?"
+T1527	Entity 207896 207906	Yegorushka
+T1528	Entity 207917 207920	her
+T1529	Cue 207939 207944	asked
+R1711	Speaker Arg1:T1527 Arg2:T1526	
+R1712	Addressee Arg1:T1528 Arg2:T1526	
+R1713	Cueing Arg1:T1529 Arg2:T1526	
+T1530	Entity 207966 207981	The little girl
+T1531	Cue 208038 208046	answered
+T1532	Quotation 208055 208068	"Atka. . . ."
+R1714	Speaker Arg1:T1530 Arg2:T1532	
+R1715	Cueing Arg1:T1531 Arg2:T1532	
+R1716	Addressee Arg1:T1527 Arg2:T1532	
+T1533	Quotation 208087 208111	"He will live with you,"
+T1534	Entity 208112 208125	Ivan Ivanitch
+T1535	Cue 208130 208140	whispering
+T1536	Quotation 208162 208280	"if you will be so kind, and we will pay ten roubles a month for his keep. He is not a spoilt boy; he is quiet. . . ."
+R1717	Speaker Arg1:T1534 Arg2:T1533	
+R1718	Speaker Arg1:T1534 Arg2:T1536	
+R1719	Cueing Arg1:T1535 Arg2:T1533	
+R1720	Cueing Arg1:T1535 Arg2:T1536	
+T1537	Quotation 208281 208330	"I really don't know what to say, Ivan Ivanitch!"
+T1538	Entity 208331 208348	Nastasya Petrovna
+R1721	Addressee Arg1:T1538 Arg2:T1533	
+R1722	Addressee Arg1:T1538 Arg2:T1536	
+R1723	Speaker Arg1:T1538 Arg2:T1537	
+R1724	Addressee Arg1:T1534 Arg2:T1537	
+T1539	Quotation 208367 208497	"Ten roubles a month is very good, but it is a dreadful thing to take another person's child! He may fall ill or something. . . ."
+R1725	Speaker Arg1:T1538 Arg2:T1539	
+R1726	Addressee Arg1:T1534 Arg2:T1539	
+T1540	Cue 208349 208355	sighed
+R1727	Cueing Arg1:T1540 Arg2:T1537	
+R1728	Cueing Arg1:T1540 Arg2:T1539	
+T1541	Quotation 208623 208663	"Well, let him stay with you now, then,"
+T1542	Entity 208664 208666	he
+T1543	Cue 208667 208671	said
+R1729	Speaker Arg1:T1542 Arg2:T1541	
+R1730	Cueing Arg1:T1543 Arg2:T1541	
+R1731	Addressee Arg1:T1538 Arg2:T1541	
+T1544	Quotation 208673 208701	"Good-bye! You stay, Yegor!"
+T1545	Entity 208702 208704	he
+T1546	Cue 208705 208709	said
+T1547	Entity 208722 208732	his nephew
+R1732	Speaker Arg1:T1545 Arg2:T1544	
+R1733	Cueing Arg1:T1546 Arg2:T1544	
+R1734	Addressee Arg1:T1547 Arg2:T1544	
+T1548	Quotation 208734 208835	"Don't be troublesome; mind you obey Nastasya Petrovna. . . . Good-bye; I am coming again to-morrow."
+R1735	Speaker Arg1:T1545 Arg2:T1548	
+R1736	Cueing Arg1:T1546 Arg2:T1548	
+R1737	Addressee Arg1:T1547 Arg2:T1548	
+T1549	Entity 209247 209250	she
+T1550	Cue 209251 209257	talked
+T1551	Quotation 209261 209316	his mother's young days, her own marriage, her children
+R1738	Speaker Arg1:T1549 Arg2:T1551	
+R1739	Cueing Arg1:T1550 Arg2:T1551	
+T1552	Entity 208998 209008	Yegorushka
+R1740	Addressee Arg1:T1552 Arg2:T1551	
+T1553	Quotation 210218 210269	"We have no time for tea! We are just setting off."
+T1554	Entity 210151 210164	Ivan Ivanitch
+T1555	Cue 210212 210216	said
+T1556	Entity 210068 210085	Nastasya Petrovna
+R1741	Speaker Arg1:T1554 Arg2:T1553	
+R1742	Addressee Arg1:T1556 Arg2:T1553	
+R1743	Cueing Arg1:T1555 Arg2:T1553	
+T1557	Quotation 210422 210429	"Well,"
+T1558	Cue 210430 210435	began
+T1559	Entity 210436 210449	Ivan Ivanitch
+T1560	Quotation 210463 210488	"so you will stay. . . ."
+R1744	Cueing Arg1:T1558 Arg2:T1557	
+R1745	Speaker Arg1:T1559 Arg2:T1557	
+R1746	Cueing Arg1:T1558 Arg2:T1560	
+R1747	Speaker Arg1:T1559 Arg2:T1560	
+T1561	Entity 209819 209821	He
+R1748	Addressee Arg1:T1561 Arg2:T1557	
+R1749	Addressee Arg1:T1561 Arg2:T1560	
+T1562	Entity 210559 210561	he
+T1563	Cue 210583 210587	said
+T1564	Quotation 210611 210755	"Mind you work hard. . . . Don't forget your mother, and obey Nastasya Petrovna. . . . If you are diligent at school, Yegor, I'll stand by you."
+T1565	Entity 210812 210822	Yegorushka
+R1750	Speaker Arg1:T1562 Arg2:T1564	
+R1751	Cueing Arg1:T1563 Arg2:T1564	
+R1752	Addressee Arg1:T1565 Arg2:T1564	
+T1566	Quotation 210984 211054	"In the name of the Father, the Son, and the Holy Ghost. . . . Study,"
+T1567	Entity 211055 211057	he
+T1568	Cue 211058 211062	said
+T1569	Quotation 211064 211170	"Work hard, my lad. If I die, remember me in your prayers. Here is a ten-kopeck piece from me, too. . . ."
+T1570	Entity 210972 210982	Yegorushka
+R1753	Addressee Arg1:T1570 Arg2:T1566	
+R1754	Speaker Arg1:T1567 Arg2:T1566	
+R1755	Cueing Arg1:T1568 Arg2:T1566	
+R1756	Addressee Arg1:T1570 Arg2:T1569	
+R1757	Speaker Arg1:T1567 Arg2:T1569	
+R1758	Cueing Arg1:T1568 Arg2:T1569	
+T1571	Quotation 211291 211335	"I have applied at the high school already,"
+T1572	Cue 211336 211340	said
+T1573	Entity 211341 211354	Ivan Ivanitch
+T1574	Quotation 211409 211537	"You will take him for the entrance examination on the seventh of August. . . . Well, good-bye; God bless you, good-bye, Yegor!"
+R1759	Cueing Arg1:T1572 Arg2:T1571	
+R1760	Speaker Arg1:T1573 Arg2:T1571	
+R1761	Speaker Arg1:T1573 Arg2:T1574	
+R1762	Cueing Arg1:T1572 Arg2:T1574	
+R1763	Addressee Arg1:T1570 Arg2:T1574	
+T1575	Quotation 211538 211581	"You might at least have had a cup of tea,"
+T1576	Cue 211582 211588	wailed
+T1577	Entity 211589 211606	Nastasya Petrovna
+R1764	Addressee Arg1:T1577 Arg2:T1571	
+R1765	Addressee Arg1:T1577 Arg2:T1574	
+R1766	Cueing Arg1:T1576 Arg2:T1575	
+R1767	Speaker Arg1:T1577 Arg2:T1575	
+R1768	Addressee Arg1:T1573 Arg2:T1575	

@@ -1,0 +1,94 @@
+{
+  "threshold": 0.9,
+  "TP": 16,
+  "FP": 0,
+  "FN": 0,
+  "n_pred": 16,
+  "n_gold": 16,
+  "matched_gold": 16,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "predictions": [
+    {
+      "string": "What?Lostagain--smotheredowit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Now,lookhere,mylad,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "someboysarebornstupid,andthouartoneofthem;someachievestupidity--thatstheeagain,Jim--thouwastbothbornstupidandhastgreatlyincreasedthybirthright--andsome",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "havestupiditythrustuponthem,which,ifitpleasetheLord,shallnotbethycase,mylad,forIwillthruststupidityfromthee,thoughIhavetoboxthineearsindoingso,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Comehither,thouthree-days-and-three-nights,thou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itellyou,Edward,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "oldPontifexwasnotonlyanableman,buthewasoneoftheveryablestmenthateverIknew.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mydearfather,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whatdidhedo?Hecoulddrawalittle,butcouldhetosavehislifehavegotapictureintotheRoyalAcademyexhibition?HebuilttwoorgansandcouldplaytheMinuetin_Samson_ononeandtheMarchin_Scipio_ontheother;hewasagoodcarpenterandabitofawag;hewasagoodoldfellowenough,butwhymakehimoutsomuchablerthanhewas?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Myboy,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youmustnotjudgebythework,butbytheworkinconnectionwiththesurroundings.CouldGiottoorFilippoLippi,thinkyou,havegotapictureintotheExhibition?WouldasingleoneofthosefrescoeswewenttoseewhenwewereatPaduahavetheremotestchanceofbeinghung,ifitweresentinforexhibitionnow?Why,theAcademypeoplewouldbesooutragedthattheywouldnotevenwritetopoorGiottototellhimtocomeandtakehisfrescoaway.Phew!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ifoldPontifexhadhadCromwellschanceshewouldhavedoneallthatCromwelldid,andhavedoneitbetter;ifhehadhadGiottoschanceshewouldhavedoneallthatGiottodid,anddoneitnoworse;asitwas,hewasavillagecarpenter,andIwillundertaketosayheneverscampedajobinthewholecourseofhislife.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "But,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "wecannotjudgepeoplewithsomanyifs.IfoldPontifexhadlivedinGiottostimehemighthavebeenanotherGiotto,buthedidnotliveinGiottostime.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itellyou,Edward,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "wemustjudgemennotsomuchbywhattheydo,asbywhattheymakeusfeelthattheyhaveitinthemtodo.Ifamanhasdoneenougheitherinpainting,musicortheaffairsoflife,tomakemefeelthatImighttrusthiminanemergencyhehasdoneenough.Itisnotbywhatamanhasactuallyputuponhiscanvas,noryetbytheactswhichhehassetdown,sotospeak,uponthecanvasofhislifethatIwilljudgehim,butbywhathemakesmefeelthathefeltandaimedat.IfhehasmademefeelthathefeltthosethingstobeloveablewhichIholdloveablemyselfIasknomore;hisgrammarmayhavebeenimperfect,butstillIhaveunderstoodhim;heandIare_enrapport_;andIsayagain,Edward,thatoldPontifexwasnotonlyanableman,butoneoftheveryablestmenIeverknew.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

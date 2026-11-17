@@ -1,0 +1,212 @@
+COREF	start_token	end_token	prop	cat	text
+4	1	4	PROP	PER	The Old Pyncheon Family
+9	12	17	NOM	GPE	one of our New England towns
+10	14	14	PRON	PER	our
+11	14	17	NOM	FAC	our New England towns
+1	16	16	PROP	GPE	England
+12	19	36	NOM	FAC	a rusty wooden house , with seven acutely peaked gables , facing towards various points of the compass
+13	48	49	NOM	FAC	The street
+2	51	52	PROP	FAC	Pyncheon Street
+14	54	55	NOM	FAC	the house
+15	57	60	NOM	FAC	the old Pyncheon House
+0	94	94	PRON	PER	my
+16	98	99	NOM	GPE	the town
+0	102	102	PRON	PER	I
+2	108	109	PROP	FAC	Pyncheon Street
+17	137	139	NOM	FAC	the venerable mansion
+0	143	143	PRON	PER	me
+18	187	187	PRON	PER	they
+19	268	270	NOM	GPE	all New England
+15	292	295	NOM	FAC	the old Pyncheon House
+21	300	305	NOM	FAC	the House of the Seven Gables
+14	327	328	NOM	FAC	the house
+15	337	337	PRON	FAC	its
+15	365	365	PRON	FAC	its
+23	375	375	PRON	PER	our
+24	428	429	NOM	PER	the reader
+25	472	474	NOM	PER	the passing generation
+18	511	511	PRON	PER	they
+18	526	526	PRON	PER	their
+21	529	534	NOM	FAC	The House of the Seven Gables
+21	538	538	PRON	FAC	it
+27	549	557	NOM	PER	civilized man on precisely the same spot of ground
+28	553	557	NOM	LOC	the same spot of ground
+2	559	560	PROP	FAC	Pyncheon Street
+5	567	567	PROP	PER	Maule
+3	567	569	PROP	FAC	Maule 's Lane
+3	587	587	PRON	FAC	it
+29	589	592	NOM	FAC	a cow - path
+30	594	601	NOM	LOC	A natural spring of soft and pleasant water
+31	607	611	NOM	LOC	the sea - girt peninsula
+32	613	615	NOM	GPE	the Puritan settlement
+5	622	623	PROP	PER	Matthew Maule
+33	626	627	NOM	FAC	a hut
+34	645	649	NOM	LOC	the centre of the village
+35	648	649	NOM	GPE	the village
+16	655	656	NOM	GPE	the town
+37	698	703	NOM	LOC	a large adjacent tract of land
+38	712	713	NOM	ORG	the legislature
+6	715	716	PROP	PER	Colonel Pyncheon
+39	718	719	NOM	PER	the claimant
+40	722	722	PRON	PER	we
+6	728	728	PRON	PER	him
+5	741	742	PROP	PER	Matthew Maule
+41	750	752	NOM	PER	an obscure man
+5	761	761	PRON	PER	he
+5	763	763	PRON	PER	his
+5	772	772	PRON	PER	he
+42	776	781	NOM	LOC	the acre or two of earth
+5	785	785	PRON	PER	his
+5	789	789	PRON	PER	he
+43	794	796	NOM	LOC	the primeval forest
+5	800	800	PRON	PER	his
+44	804	804	NOM	FAC	homestead
+40	819	819	PRON	PER	Our
+6	866	867	PROP	PER	Colonel Pyncheon
+5	887	888	PROP	PER	Matthew Maule
+45	903	907	NOM	PER	two ill - matched antagonists
+40	918	918	PRON	PER	we
+46	946	951	NOM	PER	the party occupying the disputed soil
+47	949	951	NOM	LOC	the disputed soil
+6	956	956	PRON	PER	his
+40	967	967	PRON	PER	our
+48	994	998	NOM	PER	the dweller in the cottage
+49	997	998	NOM	FAC	the cottage
+50	1013	1018	NOM	LOC	the little area of his habitation
+6	1017	1017	PRON	PER	his
+6	1022	1022	PRON	PER	his
+51	1028	1028	NOM	PER	men
+5	1030	1032	PROP	PER	Old Matthew Maule
+5	1046	1046	PRON	PER	He
+52	1050	1055	NOM	PER	the martyrs to that terrible delusion
+40	1060	1060	PRON	PER	us
+53	1068	1070	NOM	PER	the influential classes
+54	1073	1083	NOM	PER	those who take upon themselves to be leaders of the people
+54	1077	1077	PRON	PER	themselves
+55	1080	1083	NOM	PER	leaders of the people
+56	1082	1083	NOM	PER	the people
+57	1097	1099	NOM	PER	the maddest mob
+58	1101	1101	NOM	PER	Clergymen
+59	1103	1103	NOM	PER	judges
+60	1105	1114	NOM	PER	statesmen,--the wisest , calmest , holiest persons of their day
+60	1113	1113	PRON	PER	their
+60	1136	1136	PRON	PER	themselves
+60	1145	1145	PRON	PER	their
+60	1164	1164	PRON	PER	they
+61	1169	1172	NOM	PER	the poor and aged
+62	1176	1178	NOM	PER	former judicial massacres
+63	1181	1184	NOM	PER	people of all ranks
+63	1186	1186	PRON	PER	their
+64	1186	1188	NOM	PER	their own equals
+65	1190	1190	NOM	PER	brethren
+66	1193	1193	NOM	PER	wives
+67	1208	1212	NOM	PER	a man of inconsiderable note
+5	1215	1215	PROP	PER	Maule
+68	1220	1221	NOM	PER	the martyr
+69	1225	1228	NOM	FAC	the hill of execution
+5	1235	1235	PRON	PER	his
+70	1235	1237	NOM	PER	his fellow sufferers
+6	1260	1261	PROP	PER	Colonel Pyncheon
+71	1265	1266	NOM	PER	the general
+72	1271	1272	NOM	LOC	the land
+6	1295	1295	PRON	PER	he
+5	1301	1302	PROP	PER	Matthew Maule
+73	1309	1310	NOM	PER	the victim
+6	1319	1319	PRON	PER	his
+6	1324	1324	PRON	PER	him
+6	1328	1328	PRON	PER	he
+6	1330	1330	PRON	PER	himself
+6	1335	1335	PRON	PER	his
+6	1348	1348	PRON	PER	his
+6	1353	1354	PROP	PER	Colonel Pyncheon
+5	1364	1364	PROP	PER	Maule
+6	1367	1367	PRON	PER	him
+7	1394	1394	PROP	PER	God
+74	1398	1400	NOM	PER	the dying man
+74	1403	1403	PRON	PER	his
+74	1416	1416	PRON	PER	his
+74	1420	1420	PRON	PER	him
+75	1427	1429	NOM	PER	the reputed wizard
+75	1433	1433	PRON	PER	his
+76	1433	1435	NOM	FAC	his humble homestead
+6	1442	1443	PROP	PER	Colonel Pyncheon
+77	1455	1456	NOM	PER	the Colonel
+78	1460	1470	NOM	FAC	a family mansion - spacious , ponderously framed of oaken timber
+77	1480	1480	PRON	PER	his
+79	1483	1495	NOM	FAC	the spot first covered by the log - built hut of Matthew Maule
+80	1488	1495	NOM	FAC	the log - built hut of Matthew Maule
+5	1494	1495	PROP	PER	Matthew Maule
+35	1505	1506	NOM	GPE	the village
+82	1515	1517	NOM	PER	the stalwart Puritan
+83	1521	1526	NOM	PER	a man of conscience and integrity
+84	1535	1535	PRON	PER	they
+82	1541	1541	PRON	PER	he
+82	1546	1546	PRON	PER	his
+85	1546	1547	NOM	FAC	his house
+86	1549	1551	NOM	FAC	an unquiet grave
+82	1553	1553	PRON	PER	His
+87	1553	1554	NOM	FAC	His home
+88	1557	1564	NOM	FAC	the home of the dead and buried wizard
+89	1560	1564	NOM	PER	the dead and buried wizard
+90	1581	1583	NOM	FAC	its new apartments
+91	1586	1591	NOM	FAC	the chambers into which future bridegrooms
+92	1590	1591	NOM	PER	future bridegrooms
+92	1595	1595	PRON	PER	their
+93	1595	1596	NOM	PER	their brides
+94	1600	1604	NOM	PER	children of the Pyncheon blood
+5	1615	1615	PROP	PER	Maule
+5	1623	1623	PRON	PER	his
+94	1635	1635	PRON	PER	them
+95	1641	1645	NOM	FAC	an old and melancholy house
+96	1653	1656	NOM	LOC	the soil around him
+5	1656	1656	PRON	PER	him
+97	1660	1662	NOM	LOC	the virgin forest
+6	1665	1666	PROP	PER	Colonel Pyncheon
+98	1677	1679	NOM	PER	the Puritan soldier
+99	1681	1681	NOM	PER	magistrate
+100	1684	1685	NOM	PER	a man
+98	1691	1691	PRON	PER	his
+101	1701	1704	NOM	PER	the wizard 's ghost
+5	1718	1718	PRON	PER	he
+5	1730	1730	PRON	PER	him
+5	1734	1734	PRON	PER	he
+5	1743	1743	PRON	PER	his
+5	1773	1773	PRON	PER	he
+5	1776	1776	PRON	PER	his
+5	1807	1807	PRON	PER	him
+77	1809	1810	NOM	PER	the Colonel
+5	1815	1815	PRON	PER	his
+77	1823	1823	PRON	PER	He
+77	1826	1826	PRON	PER	his
+103	1826	1827	NOM	FAC	his cellar
+77	1835	1835	PRON	PER	his
+104	1835	1836	NOM	FAC	his mansion
+5	1844	1845	PROP	PER	Matthew Maule
+105	1867	1868	NOM	PER	some people
+106	1880	1881	NOM	PER	the workmen
+106	1883	1883	PRON	PER	their
+5	1904	1904	PRON	FAC	its
+107	1912	1914	NOM	FAC	the new cellar
+5	1933	1933	PROP	PER	Maule
+108	1951	1951	PRON	PER	we
+109	1957	1962	NOM	PER	any old woman of the neighborhood
+110	1973	1978	NOM	PER	those who quench their thirst there
+110	1976	1976	PRON	PER	their
+24	1980	1981	NOM	PER	The reader
+112	1987	1993	NOM	PER	the head carpenter of the new edifice
+113	1998	2015	NOM	PER	the son of the very man from whose dead gripe the property of the soil had been wrested
+114	2001	2012	NOM	PER	the very man from whose dead gripe the property of the soil
+112	2019	2019	PRON	PER	he
+115	2021	2026	NOM	PER	the best workman of his time
+112	2025	2025	PRON	PER	his
+77	2032	2033	NOM	PER	the Colonel
+77	2057	2057	PRON	PER	his
+117	2057	2059	NOM	PER	his fallen antagonist
+118	2083	2084	NOM	PER	the son
+118	2109	2109	PRON	PER	his
+119	2109	2110	NOM	PER	his father
+8	2119	2120	PROP	PER	Thomas Maule
+120	2122	2130	NOM	PER	the architect of the House of the Seven Gables
+21	2125	2130	NOM	FAC	the House of the Seven Gables
+8	2134	2134	PRON	PER	his
+8	2144	2144	PRON	PER	his

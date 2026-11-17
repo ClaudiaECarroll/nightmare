@@ -1,0 +1,274 @@
+{
+  "threshold": 0.9,
+  "TP": 52,
+  "FP": 0,
+  "FN": 0,
+  "n_pred": 52,
+  "n_gold": 52,
+  "matched_gold": 52,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "predictions": [
+    {
+      "string": "Wakeup,Philip,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourmotherwantsyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyousleepy,darling?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,donttakehimawayyet,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatsthematter?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youretired.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Letmetakehim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youdbetterputhimbackinhisownbed.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Verywell,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatwillhappentohim,poorchild?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wasitagirloraboy?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Anotherboy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MasterPhilipneverwokeup,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IdontthinktheresanythingIcandojustnow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illcallagainafterbreakfast.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illshowyouout,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YouvesentforMrs.Careysbrother-in-law,haventyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dyouknowatwhattimehellbehere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,sir,Imexpectingatelegram.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whataboutthelittleboy?Ishouldthinkhedbebetteroutoftheway.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MissWatkinsaidshedtakehim,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whosshe?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sheshisgodmother,sir.DyouthinkMrs.Careywillgetoverit,sir?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Younaughtyboy,MissWatkinWILLbecrosswithyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hulloa,Emma!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AmItocomehome?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,Ivecometofetchyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youvegotanewdresson.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Arentyougoingtoaskhowyourmammais?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Iforgot.Howismamma?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourmammaisquitewellandhappy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Iamglad.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourmammasgoneaway.Youwonteverseeheranymore.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whynot?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourmammasinheaven.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YourUncleWilliamiswaitingintoseeyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goandsaygood-byetoMissWatkin,andwellgohome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idontwanttosaygood-bye,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Verywell,runupstairsandgetyourhat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IthinkIllgoandsaygood-byetoMissWatkin.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithinkyoudbetter,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "GoinandtellthemImcoming,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MasterPhilipwantstosaygood-byetoyou,miss.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mypoorchild,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ivegottogohome,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hismotherwasmygreatestfriend.Icanntbeartothinkthatshesdead.",
+      "best_similarity": 0.9915,
+      "correct": true
+    },
+    {
+      "string": "Yououghtnttohavegonetothefuneral,Henrietta,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iknewitwouldupsetyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Poorlittleboy,itsdreadfultothinkofhimquitealoneintheworld.Iseehelimps.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,hesgotaclub-foot.Itwassuchagrieftohismother.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HeresMasterPhilip,",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

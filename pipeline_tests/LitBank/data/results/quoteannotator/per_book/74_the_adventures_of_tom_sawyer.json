@@ -1,0 +1,174 @@
+{
+  "threshold": 0.9,
+  "TP": 30,
+  "FP": 2,
+  "FN": 0,
+  "n_pred": 32,
+  "n_gold": 30,
+  "matched_gold": 30,
+  "precision": 0.9375,
+  "recall": 1.0,
+  "f1": 0.967741935483871,
+  "predictions": [
+    {
+      "string": "TOM!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TOM!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatsgonewiththatboy,Iwonder?YouTOM!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "style,",
+      "best_similarity": 0.2143,
+      "correct": false
+    },
+    {
+      "string": "Well,IlayifIgetholdofyouIll--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ineverdidseethebeatofthatboy!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "jimpson",
+      "best_similarity": 0.2667,
+      "correct": false
+    },
+    {
+      "string": "Y-o-u-uTOM!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "There!Imightathoughtofthatcloset.Whatyoubeendoinginthere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nothing.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nothing!Lookatyourhands.Andlookatyourmouth.What_is_thattruck?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idontknow,aunt.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Iknow.Itsjam--thatswhatitis.FortytimesIvesaidifyoudidntletthatjamaloneIdskinyou.Handmethatswitch.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "My!Lookbehindyou,aunt!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hangtheboy,cantIneverlearnanything?Aintheplayedmetricksenoughlikethatformetobelookingoutforhimbythistime?Butoldfoolsisthebiggestfoolsthereis.Cantlearnanolddognewtricks,asthesayingis.Butmygoodness,heneverplaysthemalike,twodays,andhowisabodytoknowwhatscoming?HepearstoknowjusthowlonghecantormentmebeforeIgetmydanderup,andheknowsifhecanmakeouttoputmeoffforaminuteormakemelaugh,itsalldownagainandIcanthithimalick.Iaintdoingmydutybythatboy,andthatstheLordstruth,goodnessknows.Sparetherodandspilethechild,astheGoodBooksays.Imalayingupsinandsufferingforusboth,Iknow.HesfulloftheOldScratch,butlaws-a-me!hesmyowndeadsistersboy,poorthing,andIaintgotthehearttolashhim,somehow.EverytimeIlethimoff,myconsciencedoeshurtmeso,andeverytimeIhithimmyoldheartmostbreaks.Well-a-well,manthatisbornofwomanisoffewdaysandfulloftrouble,astheScripturesays,andIreckonitsso.Hellplayhookeythisevening,*and[*Southwesternforafternoon]Illjustbeobleegedtomakehimwork,tomorrow,topunishhim.ItsmightyhardtomakehimworkSaturdays,whenalltheboysishavingholiday,buthehatesworkmorethanhehatesanythingelse,andIve_got_todosomeofmydutybyhim,orIllbetheruinationofthechild.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tom,itwasmiddlingwarminschool,warntit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yesm.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Powerfulwarm,warntit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yesm.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Didntyouwanttogoina-swimming,Tom?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nom--well,notverymuch.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butyouainttoowarmnow,though.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Someofuspumpedonourheads--minesdampyet.See?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tom,youdidnthavetoundoyourshirtcollarwhereIsewedit,topumponyourhead,didyou?Unbuttonyourjacket!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bother!Well,golongwithyou.Idmadesureyoudplayedhookeyandbeena-swimming.ButIforgiveye,Tom.Ireckonyoureakindofasingedcat,asthesayingis--betternyoulook._This_time.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,now,ifIdidntthinkyousewedhiscollarwithwhitethread,butitsblack.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,Ididsewitwithwhite!Tom!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Siddy,Illlickyouforthat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ShednevernoticedifithadntbeenforSid.Confoundit!sometimesshesewsitwithwhite,andsometimesshesewsitwithblack.Iwishtogee-minyshedsticktooneortother--Icantkeeptherunofem.ButIbetyouIlllamSidforthat.Illlearnhim!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icanlickyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idliketoseeyoutryit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Icandoit.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

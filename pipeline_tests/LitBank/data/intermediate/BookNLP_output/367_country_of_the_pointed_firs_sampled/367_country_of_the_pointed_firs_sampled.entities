@@ -1,0 +1,205 @@
+COREF	start_token	end_token	prop	cat	text
+4	7	11	NOM	GPE	the coast town of Dunnet
+4	14	14	PRON	FAC	it
+5	19	24	NOM	GPE	other maritime villages of eastern Maine
+6	35	36	NOM	FAC	that neighborhood
+7	48	50	NOM	LOC	the rocky shore
+8	52	53	NOM	LOC	dark woods
+9	56	75	NOM	FAC	the few houses which seemed to be securely wedged and tree - nailed in among the ledges by the Landing
+10	74	75	NOM	FAC	the Landing
+11	77	78	NOM	FAC	These houses
+11	83	83	PRON	PER	their
+11	96	96	PRON	PER	their
+11	112	112	PRON	PER	their
+12	121	122	NOM	FAC	the harbor
+13	124	129	NOM	LOC	the far sea - line beyond
+14	136	137	NOM	LOC	the shore
+14	139	139	PRON	LOC	its
+15	148	148	NOM	PER	one
+16	151	152	NOM	GPE	a village
+16	156	156	PRON	GPE	its
+17	165	167	NOM	PER	a single person
+18	221	225	NOM	PER	a lover of Dunnet Landing
+2	224	225	PROP	PER	Dunnet Landing
+19	241	242	NOM	GPE	the village
+18	265	265	PRON	PER	her
+20	276	278	NOM	VEH	a single passenger
+21	281	283	NOM	FAC	the steamboat wharf
+22	296	296	NOM	PER	spectators
+23	299	304	NOM	PER	the younger portion of the company
+24	303	304	NOM	PER	the company
+18	306	306	PRON	PER	her
+25	311	324	NOM	FAC	the narrow street of the salt - aired , white - clapboarded little town
+26	323	324	NOM	GPE	little town
+3	328	329	PROP	PER	Mrs. Todd
+27	343	347	NOM	FAC	a summer lodging - place
+28	360	375	NOM	FAC	the tiny house of Mrs. Almira Todd , which stood with its end to the street
+3	364	366	PROP	PER	Mrs. Almira Todd
+29	374	375	NOM	FAC	the street
+30	385	387	NOM	LOC	the busy world
+28	390	390	PRON	FAC	its
+31	394	396	NOM	FAC	a green garden
+1	412	412	PROP	GPE	London
+32	428	431	NOM	FAC	a queer little garden
+33	435	436	NOM	PER	a stranger
+3	458	459	PROP	PER	Mrs. Todd
+34	461	465	NOM	PER	an ardent lover of herbs
+35	485	497	NOM	FAC	the house laden with not only sweet - brier and sweet - mary
+3	513	514	PROP	PER	Mrs. Todd
+3	524	524	PRON	PER	her
+3	528	528	PRON	PER	she
+36	546	549	NOM	PER	a very large person
+3	551	551	PRON	PER	her
+3	562	562	PRON	PER	her
+37	566	566	PRON	PER	You
+3	571	571	PRON	PER	she
+37	579	579	PRON	PER	you
+80	607	608	NOM	FAC	the garden
+3	609	609	PRON	PER	she
+38	617	619	NOM	FAC	this herb plot
+38	679	679	PRON	PER	them
+38	686	686	PRON	PER	they
+3	706	707	PROP	PER	Mrs. Todd
+38	712	712	PRON	PER	They
+39	716	738	NOM	PER	suffering neighbors , who usually came at night as if by stealth , bringing their own ancient - looking vials to be filled
+38	730	730	PRON	PER	their
+40	763	763	NOM	PER	customers
+41	771	772	NOM	PER	the purchaser
+42	779	780	NOM	FAC	the kitchen
+3	782	783	PROP	PER	Mrs. Todd
+43	785	789	NOM	PER	a wise saver of steps
+3	795	795	PRON	PER	she
+38	815	815	PRON	PER	their
+3	825	825	PRON	PER	she
+3	858	858	PRON	PER	she
+44	877	877	NOM	LOC	sea
+38	881	881	PRON	PER	their
+3	892	893	PROP	PER	Mrs. Todd
+45	892	895	NOM	FAC	Mrs. Todd ’s garden
+46	897	899	NOM	PER	The village doctor
+47	901	903	NOM	PER	this learned herbalist
+48	911	913	NOM	PER	The good man
+48	925	925	PRON	PER	he
+48	928	928	PRON	PER	his
+48	937	937	PRON	PER	he
+3	946	947	PROP	PER	Mrs. Todd
+48	965	965	PRON	PER	he
+48	975	975	PRON	PER	his
+3	985	985	PRON	PER	her
+0	998	998	PRON	PER	my
+49	1013	1014	NOM	PER	worthy neighbors
+50	1022	1023	NOM	GPE	seaside villages
+3	1048	1049	PROP	PER	Mrs. Todd
+51	1124	1130	NOM	LOC	this otherwise delightful corner of the world
+52	1129	1130	NOM	LOC	the world
+0	1132	1132	PRON	PER	My
+53	1132	1133	NOM	PER	My hostess
+0	1135	1135	PRON	PER	I
+54	1138	1138	PRON	PER	our
+55	1167	1168	NOM	PER	the lodger
+56	1175	1176	NOM	FAC	the road
+3	1200	1201	PROP	PER	Mrs. Todd
+57	1209	1211	NOM	LOC	woods and pastures
+58	1213	1217	NOM	PER	The spruce - beer customers
+0	1242	1242	PRON	PER	my
+59	1242	1244	NOM	FAC	my early residence
+0	1247	1247	PRON	PER	me
+3	1251	1252	PROP	PER	Mrs. Todd
+60	1255	1256	NOM	PER	a widow
+61	1269	1271	NOM	PER	one hungry lodger
+3	1274	1274	PRON	PER	her
+3	1294	1294	PRON	PER	she
+55	1304	1305	NOM	PER	the lodger
+3	1325	1326	PROP	PER	Mrs. Todd
+63	1334	1335	NOM	PER	business partner
+3	1337	1337	PRON	PER	her
+0	1341	1341	PRON	PER	I
+0	1354	1354	PRON	PER	I
+0	1356	1356	PRON	PER	myself
+0	1380	1380	PRON	PER	I
+0	1389	1389	PRON	PER	I
+0	1402	1402	PRON	PER	I
+66	1494	1494	PRON	PER	my
+81	1497	1498	NOM	LOC	the sea
+82	1500	1503	NOM	LOC	the nearest pebble beach
+66	1505	1505	PRON	PER	I
+3	1512	1513	PROP	PER	Mrs. Todd
+3	1515	1515	PRON	PER	She
+3	1524	1524	PRON	PER	her
+66	1532	1532	PRON	PER	I
+66	1535	1535	PRON	PER	I
+3	1538	1538	PRON	PER	her
+66	1540	1540	PRON	PER	I
+83	1549	1549	PRON	PER	we
+0	1557	1557	PRON	PER	I
+0	1560	1560	PRON	PER	I
+64	1569	1569	PRON	PER	her
+65	1590	1590	PRON	PER	their
+66	1597	1597	NOM	PER	dear
+66	1600	1600	PRON	PER	she
+0	1605	1605	PRON	PER	I
+66	1612	1612	PRON	PER	your
+0	1617	1617	PRON	PER	I
+0	1628	1628	PRON	PER	I
+67	1632	1632	NOM	PER	nobody
+0	1633	1633	PRON	PER	I
+66	1639	1639	PRON	PER	you
+66	1649	1649	PRON	PER	you
+0	1666	1666	PRON	PER	I
+84	1676	1676	NOM	PER	anybody
+3	1679	1680	PROP	PER	Mrs. Todd
+0	1682	1682	PRON	PER	I
+68	1692	1692	PRON	PER	our
+0	1707	1707	PRON	PER	I
+81	1751	1752	NOM	LOC	the sea
+3	1755	1756	PROP	PER	Mrs. Todd
+3	1760	1760	PRON	PER	she
+70	1764	1764	NOM	PER	somebody
+0	1767	1767	PRON	PER	I
+68	1775	1775	PRON	PER	We
+3	1783	1783	PRON	PER	she
+0	1795	1795	PRON	PER	my
+71	1795	1798	NOM	FAC	my sitting - room
+3	1827	1827	PRON	PER	her
+0	1836	1836	PRON	PER	I
+3	1841	1841	PRON	PER	she
+72	1844	1849	NOM	PER	one who was far above her
+3	1849	1849	PRON	PER	her
+66	1854	1854	NOM	PER	dear
+66	1856	1856	PRON	PER	him
+0	1857	1857	PRON	PER	I
+0	1864	1864	PRON	PER	me
+3	1867	1867	PRON	PER	she
+68	1872	1872	PRON	PER	we
+66	1876	1876	PRON	PER	his
+74	1876	1877	NOM	PER	his mother
+3	1888	1888	PRON	PER	she
+68	1892	1892	PRON	PER	us
+85	1895	1895	NOM	PER	folks
+68	1897	1897	PRON	PER	we
+86	1906	1908	NOM	PER	one of us
+68	1908	1908	PRON	PER	us
+68	1915	1915	PRON	PER	we
+66	1932	1932	PRON	PER	He
+87	1937	1940	NOM	PER	a seafarin ’ man
+66	1949	1949	PRON	PER	he
+88	1952	1954	NOM	PER	a high family
+0	1958	1958	PRON	PER	my
+0	1969	1969	PRON	PER	I
+66	1973	1973	PRON	PER	him
+66	1978	1978	PRON	PER	he
+68	1981	1981	PRON	PER	our
+0	1986	1986	PRON	PER	I
+75	1990	1991	NOM	PER	a woman
+76	1997	1997	PRON	PER	them
+77	2003	2003	PRON	PER	you
+77	2005	2005	PRON	PER	you
+89	2010	2010	PRON	PER	em
+0	2023	2023	PRON	PER	I
+66	2032	2032	PRON	PER	him
+75	2035	2035	PRON	PER	She
+75	2056	2056	PRON	PER	her
+75	2063	2063	PRON	PER	Her
+78	2068	2070	NOM	FAC	the low room
+75	2072	2072	PRON	PER	her
+79	2091	2093	NOM	FAC	the little garden

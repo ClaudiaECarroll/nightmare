@@ -1,0 +1,4004 @@
+{
+  "threshold": 0.9,
+  "TP": 755,
+  "FP": 43,
+  "FN": 273,
+  "n_pred": 798,
+  "n_gold": 1040,
+  "matched_gold": 767,
+  "precision": 0.9461152882205514,
+  "recall": 0.7344357976653697,
+  "f1": 0.8269441401971523,
+  "predictions": [
+    {
+      "string": "MonsieurRoger,hereisapupilwhomIrecommendtoyourcare;hellbeinthesecond.Ifhisworkandconductaresatisfactory,hewillgointooneoftheupperclasses,asbecomeshisage.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Rise,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Getridofyourhelmet,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Rise,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andtellmeyourname.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Again!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Louder!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "louder!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatareyoulookingfor?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Myc-a-p,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Fivehundredlinesforalltheclass!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Silence!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Astoyou,newboy,youwillconjugateridiculussumtwentytimes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,youllfindyourcapagain;ithasntbeenstolen.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itwasnotworthwhile.Wouldtheyeverhavethemeanstosendhimtoapublicschool,tobuyhimapractice,orstarthiminbusiness?Besides,withcheekamanalwaysgetsonintheworld.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyouthedoctor?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyoulookingforanything?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mywhip,ifyouplease,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Soitisforthis,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thathisfacebeamswhenhegoestoseeher,andthatheputsonhisnewwaistcoatattheriskofspoilingitwiththerain.Ah!thatwoman!Thatwoman!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhydidhegobacktotheBertauxnowthatMonsieurRouaultwascuredandthatthesefolkshadntpaidyet?Ah!itwasbecauseayoungladywasthere,someonewhoknowhowtotalk,toembroider,tobewitty.Thatwaswhathecaredabout;hewantedtownmisses.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThedaughterofoldRouaultatownmiss!Getout!Theirgrandfatherwasashepherd,andtheyhaveacousinwhowasalmosthadupattheassizesforanastyblowinaquarrel.Itisnotworthwhilemakingsuchafuss,orshowingherselfatchurchonSundaysinasilkgownlikeacountess.Besides,thepooroldchap,ifithadntbeenforthecolzalastyear,wouldhavehadmuchadotopayuphisarrears.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "OGod!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iknowwhatitis,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ivebeenthroughit.WhenIlostmydeardeparted,Iwentintothefieldstobequitealone.Ifellatthefootofatree;Icried;IcalledonGod;ItalkednonsensetoHim.IwantedtobelikethemolesthatIsawonthebranches,theirinsidesswarmingwithworms,dead,andanendofit.AndwhenIthoughtthattherewereothersatthatverymomentwiththeirnicelittlewivesholdingthemintheirembrace,Istruckgreatblowsontheearthwithmystick.Iwasprettywellmadwithnoteating;theveryideaofgoingtoacafedisgustedme—youwouldntbelieveit.Well,quitesoftly,onedayfollowinganother,aspringonawinter,andanautumnafterasummer,thisworeaway,piecebypiece,crumbbycrumb;itpassedaway,itisgone,Ishouldsayithassunk;forsomethingalwaysremainsatthebottomasonewouldsay—aweighthere,atonesheart.Butsinceitisthelotofallofus,onemustnotgivewayaltogether,and,becauseothershavedied,wanttodietoo.Youmustpullyourselftogether,MonsieurBovary.Itwillpassaway.Cometoseeus;mydaughterthinksofyounowandagain,dyeknow,andshesaysyouareforgettingher.Springwillsoonbehere.Wellhavesomerabbit-shootinginthewarrenstoamuseyouabit.",
+      "best_similarity": 0.997,
+      "correct": true
+    },
+    {
+      "string": "Thepooryoungman!whataloss!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifyoushouldmarryafterall!Ifyoushouldmarry!",
+      "best_similarity": 0.4839,
+      "correct": false
+    },
+    {
+      "string": "Illgivehertohim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishouldliketosaysomethingtoyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,tellmeyourstory.DontIknowallaboutit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MonsieurRouault—MonsieurRouault,",
+      "best_similarity": 0.9538,
+      "correct": true
+    },
+    {
+      "string": "Iasknothingbetter",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Although,nodoubt,thelittleoneisofmymind,stillwemustaskheropinion.Soyougetoff—Illgobackhome.Ifitisyes,youneedntreturnbecauseofallthepeopleabout,andbesidesitwouldupsethertoomuch.Butsothatyoumayntbeeatingyourheart,Illopenwidetheoutershutterofthewindowagainstthewall;youcanseeitfromthebackbyleaningoverthehedge.",
+      "best_similarity": 0.9951,
+      "correct": true
+    },
+    {
+      "string": "Goodheavens!WhydidImarry?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,kissmistress;youhavenotroubles.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Jean-AntoinedAndervilliersdYvervonbille,CountdelaVaubyessardandBarondelaFresnay,killedatthebattleofCoutrasonDONEDET193320thofOctober,1587.",
+      "best_similarity": 0.3825,
+      "correct": false
+    },
+    {
+      "string": "Jean-Antoine-Henry-GuydAndervilliersdelaVaubyessard,AdmiralofFranceandChevalieroftheOrderofSt.Michael,woundedatthebattleoftheHougue-Saint-VaastonDONEDET193729thofMay,1692;diedatVaubyessardonDONEDET193823rdofJanuary1693.",
+      "best_similarity": 0.347,
+      "correct": false
+    },
+    {
+      "string": "Mytrouser-strapswillberatherawkwardfordancing,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dancing?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Letmealone!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youaretumblingme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wouldyoubesogood,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "astopickupmyfanthathasfallenbehindthesofa?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thereareeventwocigarsinit,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "theylldoforthiseveningafterdinner.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,doyousmoke?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sometimes,whenIgetachance.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leavetheroom!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youareforgettingyourself.Igiveyouwarning.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howgooditistobeathomeagain!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Haveyougivenherwarningforgood?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.Whoistopreventme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youllmakeyourselfill,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!Iwasthereaweek—afortnight—threeweeksago.",
+      "best_similarity": 0.9318,
+      "correct": true
+    },
+    {
+      "string": "Theywillbethereto-morrow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whataman!Whataman!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihavereadeverything,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mr.So-and-sospew.",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "Homais,Chemist.",
+      "best_similarity": 0.5217,
+      "correct": false
+    },
+    {
+      "string": "Youliveonthedead,Lestiboudois!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Artemise!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatwouldntbemuchofaloss,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwouldbuyanother.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Anotherbilliard-table!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sincethatoneiscomingtopieces,MadameLefrancois.Itellyouagainyouaredoingyourselfharm,muchharm!Andbesides,playersnowwantnarrowpocketsandheavycues.Hazardsarentplayednow;everythingischanged!Onemustkeeppacewiththetimes!JustlookatTellier!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,come,MonsieurHomais;aslongastheLiondOrexistspeoplewillcometoit.Wevefeatheredournest;whileoneofthesedaysyoullfindtheCafeFrancaisclosedwithabigplacardontheshutters.Changemybilliard-table!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thetablethatcomesinsohandyforfoldingthewashing,andonwhich,inthehuntingseason,Ihavesleptsixvisitors!Butthatdawdler,Hivert,doesntcome!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyouwaitingforhimforyourgentlemensdinner?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Waitforhim!AndwhataboutMonsieurBinet?Astheclockstrikessixyoullseehimcomein,forhehasnthisequalunderthesunforpunctuality.Hemustalwayshavehisseatinthesmallparlour.Hedratherdiethandineanywhereelse.Andsosqueamishasheis,andsoparticularaboutthecider!NotlikeMonsieurLeon;hesometimescomesatseven,orevenhalf-past,andhedoesntsomuchaslookatwhatheeats.Suchaniceyoungman!Neverspeaksaroughword!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,yousee,theresagreatdifferencebetweenaneducatedmanandanoldcarabineerwhoisnowatax-collector.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisntwithsayingcivilthingsthathellwearouthistongue,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Henevertalksmore,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lastweektwotravelersintheclothlinewerehere—suchcleverchapswhotoldsuchjokesintheevening,thatIfairlycriedwithlaughing;andhestoodtherelikeadabfishandneversaidaword.",
+      "best_similarity": 0.9907,
+      "correct": true
+    },
+    {
+      "string": "noimagination,nosallies,nothingthatmakesthesociety-man.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Parts!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!Thatamerchant,whohaslargeconnections,ajurisconsult,adoctor,achemist,shouldbethusabsent-minded,thattheyshouldbecomewhimsicalorevenpeevish,Icanunderstand;suchcasesarecitedinhistory.Butatleastitisbecausetheyarethinkingofsomething.Myself,forexample,howoftenhasithappenedtometolookonthebureauformypentowritealabel,andtofind,afterall,thatIhadputitbehindmyear!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhatcanIdoforyou,MonsieurleCurie?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Willyoutakesomething?AthimblefulofCassis?Aglassofwine?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Besides,hecoulddoubleupfourmenlikeyouoverhisknee.Lastyearhehelpedourpeopletobringinthestraw;hecarriedasmanyassixtrussesatonce,heissostrong.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bravo!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowjustsendyourdaughterstoconfesstofellowswhichsuchatemperament!I,ifIweretheGovernment,Idhavethepriestsbledonceamonth.Yes,MadameLefrancois,everymonth—agoodphlebotomy,intheinterestsofthepoliceandmorals.",
+      "best_similarity": 0.9926,
+      "correct": true
+    },
+    {
+      "string": "Bequiet,MonsieurHomais.Youareaninfidel;youvenoreligion.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihaveareligion,myreligion,andIevenhavemorethanalltheseotherswiththeirmummeriesandtheirjuggling.IadoreGod,onthecontrary.IbelieveintheSupremeBeing,inaCreator,whateverhemaybe.Icarelittlewhohasplacedusherebelowtofulfilourdutiesascitizensandfathersoffamilies;butIdontneedtogotochurchtokisssilverplates,andfatten,outofmypocket,alotofgood-for-nothingswholivebetterthanwedo.ForonecanknowHimaswellinawood,inafield,orevencontemplatingtheeternalvaultliketheancients.MyGod!MineistheGodofSocrates,ofFranklin,ofVoltaire,andofBeranger!IamfortheprofessionoffaithoftheSavoyardVicar,andtheimmortalprinciplesof89!AndIcanntadmitofanoldboyofaGodwhotakeswalksinhisgardenwithacaneinhishand,wholodgeshisfriendsinthebellyofwhales,diesutteringacry,andrisesagainattheendofthreedays;thingsabsurdinthemselves,andcompletelyopposed,moreover,toallphysicallaws,whichprovetous,bytheway,thatpriestshavealwayswallowedinturpidignorance,inwhichtheywouldfainengulfthepeoplewiththem.",
+      "best_similarity": 0.9995,
+      "correct": true
+    },
+    {
+      "string": "butmovingaboutalwaysamusesme.Ilikechangeofplace.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "tobealwaysrivetedtothesameplaces.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Moreover,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thepracticeofmedicineisnotveryhardworkinourpartoftheworld,forthestateofourroadsallowsustheuseofgigs,andgenerally,asthefarmersareprosperous,theypayprettywell.Wehave,medicallyspeaking,besidestheordinarycasesofenteritis,bronchitis,biliousaffections,etc.,nowandthenafewintermittentfeversatharvest-time;butonthewhole,littleofaseriousnature,nothingspecialtonote,unlessitbeagreatdealofscrofula,due,nodoubt,tothedeplorablehygienicconditionsofourpeasantdwellings.Ah!youwillfindmanyprejudicestocombat,MonsieurBovary,muchobstinacyofroutine,withwhichalltheeffortsofyoursciencewilldailycomeintocollision;forpeoplestillhaverecoursetonovenas,torelics,tothepriest,ratherthancomestraighttothedoctororthechemist.Theclimate,however,isnot,truthtotell,bad,andweevenhaveafewnonagenariansinourparish.Thethermometer(Ihavemadesomeobservations)fallsinwinterto4degreesCentigradeattheoutside,whichgivesus24degreesReaumurasthemaximum,orotherwise54degreesFahrenheit(Englishscale),notmore.And,asamatteroffact,weareshelteredfromthenorthwindsbytheforestofArgueilontheoneside,fromthewestwindsbytheSt.Jeanrangeontheother;andthisheat,moreover,which,onaccountoftheaqueousvapoursgivenoffbytheriverandtheconsiderablenumberofcattleinthefields,which,asyouknow,exhalemuchammonia,thatistosay,nitrogen,hydrogenandoxygen(no,nitrogenandhydrogenalone),andwhichsuckingupintoitselfthehumusfromtheground,mixingtogetherallthosedifferentemanations,unitesthemintoastack,sotosay,andcombiningwiththeelectricitydiffusedthroughtheatmosphere,whenthereisany,mightinthelongrun,asintropicalcountries,engenderinsalubriousmiasmata—thisheat,Isay,findsitselfperfectlytemperedonthesidewhenceitcomes,orratherwhenceitshouldcome—thatistosay,thesouthernside—bythesouth-easternwinds,which,havingcooledthemselvespassingovertheSeine,reachussometimesallatoncelikebreezesfromRussia.",
+      "best_similarity": 0.9975,
+      "correct": true
+    },
+    {
+      "string": "Atanyrate,youhavesomewalksintheneighbourhood?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,veryfew,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThereisaplacetheycallLaPature,onthetopofthehill,ontheedgeoftheforest.Sometimes,onSundays,Igoandstaytherewithabook,watchingthesunset.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butespeciallybythesideofthesea.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Iadorethesea!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andthen,doesitnotseemtoyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatthemindtravelsmorefreelyonthislimitlessexpanse,thecontemplationofwhichelevatesthesoul,givesideasoftheinfinite,theideal?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AcousinofminewhotravelledinSwitzerlandlastyeartoldmethatonecouldnotpicturetooneselfthepoetryofthelakes,thecharmofthewaterfalls,thegiganticeffectoftheglaciers.Oneseespinesofincrediblesizeacrosstorrents,cottagessuspendedoverprecipices,and,athousandfeetbelowone,wholevalleyswhenthecloudsopen.Suchspectaclesmuststirtoenthusiasm,inclinetoprayer,toecstasy;andInolongermarvelatthatcelebratedmusicianwho,thebettertoinspirehisimagination,wasinthehabitofplayingthepianobeforesomeimposingsite.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youplay?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,butIamveryfondofmusic,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!dontyoulistentohim,MadameBovary,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatssheermodesty.Why,mydearfellow,theotherdayinyourroomyouweresingingLAngeGardienravishingly.Iheardyoufromthelaboratory.Yougaveitlikeanactor.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andwhatmusicdoyouprefer?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Germanmusic;thatwhichmakesyoudream.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Haveyoubeentotheopera?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Notyet;butIshallgonextyear,whenIamlivingatParistofinishreadingforthebar.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "althoughshehasbeenadvisedtotakeexercise,sheprefersalwayssittinginherroomreading.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andindeed,whatisbetterthantositbyonesfiresideintheeveningwithabook,whilethewindbeatsagainstthewindowandthelampisburning?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What,indeed?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Onethinksofnothing,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thehoursslipby.Motionlesswetraversecountrieswefancywesee,andyourthought,blendingwiththefiction,playingwiththedetails,followstheoutlineoftheadventures.Itmingleswiththecharacters,anditseemsasifitwereyourselfpalpitatingbeneaththeircostumes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatistrue!Thatistrue?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hasiteverhappenedtoyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "tocomeacrosssomevagueideaofonesowninabook,somedimimagethatcomesbacktoyoufromafar,andasthecompletestexpressionofyourownslightestsentiment?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatiswhy,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iespeciallylovethepoets.Ithinkversemoretenderthanprose,andthatitmovesfarmoreeasilytotears.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "NowI,onthecontrary,adorestoriesthatrushbreathlesslyalong,thatfrightenone.Idetestcommonplaceheroesandmoderatesentiments,suchasthereareinnature.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "theseworks,nottouchingtheheart,miss,itseemstome,thetrueendofart.Itissosweet,amidallthedisenchantmentsoflife,tobeabletodwellinthoughtuponnoblecharacters,pureaffections,andpicturesofhappiness.Formyself,livingherefarfromtheworld,thisismyonedistraction;butYonvilleaffordssofewresources.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andsoIalwayssubscribedtoalendinglibrary.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihaveatherdisposalalibrarycomposedofthebestauthors,Voltaire,Rousseau,Delille,WalterScott,theEchodesFeuilletons;andinadditionIreceivevariousperiodicals,amongthemtheFanaldeRouendaily,havingtheadvantagetobeitscorrespondentforthedistrictsofBuchy,Forges,Neufchatel,Yonville,andvicinity.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisagirl!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MonsieurLeon,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "withwhomIwastalkingaboutittheotherday,wondersyoudonotchoseMadeleine.Itisverymuchinfashionjustnow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Charles,lookoutforyourself.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Haveyouanybusinesstoattendto?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goin,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "yourlittleoneisthereasleep.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shegivesmeotherdoses,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamalwaysa-washingofher.IfyouwouldhavethegoodnesstoorderCamus,thegrocer,toletmehavealittlesoap,itwouldreallybemoreconvenientforyou,asIneednttroubleyouthen.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Verywell!verywell!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodmorning,MadameRollet,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ImthatwornoutsometimesasIdropasleeponmychair.Imsureyoumightatleastgivemejustapoundofgroundcoffee;thatdlastmeamonth,andIdtakeitofamorningwithsomemilk.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatisit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,bequick!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwillgiveyousome.Youbotherme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,dear!mypoor,dearlady!youseeinconsequenceofhiswoundshehasterriblecrampsinthechest.Heevensaysthatciderweakenshim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Domakehaste,MereRollet!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andIdrubyourlittleonesfeetwithit;theyreastenderasonestongue.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyougoing?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IfIcan,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HowboredIam!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "howboredIam!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodevening,everybody.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theyoungdog,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "isbeginningtohaveideas,andthedeviltakemeifIdontbelievehesinlovewithyourservant!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhatdoesitmattertomesinceImnotinherset?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wretchedboy!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "hecarriedaknifeinhispocketlikeapeasant.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,charming!charming!Ishenotinlove?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butwithwhom?Withme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,ifHeavenhadoutwilledit!Andwhynot?Whatpreventedit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MonsieurLeon,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "wenttohisroomearly.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idonotrequireanything,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howmucharethey?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "amerenothing.Buttheresnohurry;wheneveritsconvenient.WearenotJews.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Verywell.Weshallunderstandoneanotherbyandby.Ihavealwaysgotonwithladies—ifIdidntwithmyown!",
+      "best_similarity": 0.9832,
+      "correct": true
+    },
+    {
+      "string": "Iwantedtotellyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatitisntthemoneyIshouldtroubleabout.Why,Icouldgiveyousome,ifneedbe.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishouldnthavetogofartofindyousome,relyonthat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhatsthematterwithPereTellier?Hecoughssothatheshakeshiswholehouse,andImafraidhellsoonwantadealcoveringratherthanaflannelvest.Hewassucharakeasayoungman!Thosesortofpeople,madame,havenottheleastregularity;hesburntupwithbrandy.Stillitssad,allthesame,toseeanacquaintancegooff.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itstheweather,nodoubt,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatcausestheseillnesses.I,too,dontfeelthething.OneofthesedaysIshallevenhavetoconsultthedoctorforapainIhaveinmyback.Well,good-bye,MadameBovary.Atyourservice;yourveryhumbleservant.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HowgoodIwas!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Poorfellow!",
+      "best_similarity": 0.7,
+      "correct": false
+    },
+    {
+      "string": "HowhaveIdispleasedher?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourmusicsubscriptionisout;amItorenewit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thenyouaregivingitup?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Music?Ah!yes!HaveInotmyhousetolookafter,myhusbandtoattendto,athousandthings,infact,manydutiesthatmustbeconsideredfirst?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Heissogood!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!heisagoodfellow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Certainly,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatdoesitmatter?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Agoodhousewifedoesnottroubleaboutherappearance.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatmadness!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andhowtoreachher!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sheisawomanofgreatparts,whowouldntbemisplacedinasub-prefecture.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Besides,henolongerlovesme,",
+      "best_similarity": 0.55,
+      "correct": false
+    },
+    {
+      "string": "Whatistobecomeofme?Whathelpistobehopedfor,whatconsolation,whatsolace?",
+      "best_similarity": 0.4328,
+      "correct": false
+    },
+    {
+      "string": "Whydontyoutellmaster?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisthenerves,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Donotspeaktohimofit;itwouldworryhim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youarejustlikeLaGuerine,PereGuerinsdaughter,thefishermanatPollet,thatIusedtoknowatDieppebeforeIcametoyou.Shewassosad,sosad,toseeherstandinguprightonthethresholdofherhouse,sheseemedtoyoulikeawinding-sheetspreadoutbeforethedoor.Herillness,itappears,wasakindoffogthatshehadinherhead,andthedoctorscouldnotdoanything,northepriesteither.Whenshewastakentoobadshewentoffquitealonetothesea-shore,sothatthecustomsofficer,goinghisrounds,oftenfoundherlyingflatonherface,cryingontheshingle.Then,afterhermarriage,itwentoff,theysay.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itwasaftermarriagethatitbegan.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whereisthecure?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Heisjustcoming,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theseyoungscamps!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "alwaysthesame!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theyrespectnothing!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ididnotrecogniseyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howareyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Notwell,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamill.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thesefirstwarmdaysweakenonemostremarkably,dontthey?But,afterall,weareborntosuffer,asSt.Paulsays.ButwhatdoesMonsieurBovarythinkofit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "He!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "doesntheprescribesomethingforyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itisnoearthlyremedyIneed.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youlookout,Riboudet,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illwarmyourears,youimp!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HesBoudetthecarpentersson;hisparentsarewelloff,andlethimdojustashepleases.Yethecouldlearnquicklyifhewould,forheisverysharp.AndsosometimesforajokeIcallhimRiboudet(liketheroadonetakestogotoMaromme)andIevensayMonRiboudet.Ha!Ha!MontRiboudet.TheotherdayIrepeatedthatjusttoMonsignor,andhelaughedatit;hecondescendedtolaughatit.AndhowisMonsieurBovary?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andIofthesoul.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "yousolaceallsorrows.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!donttalktomeofit,MadameBovary.ThismorningIhadtogotoBas-Diauvilleforacowthatwasill;theythoughtitwasunderaspell.Alltheircows,Idontknowhowitis—Butpardonme!LonguemarreandBoudet!Blessme!Willyouleaveoff?",
+      "best_similarity": 0.9925,
+      "correct": true
+    },
+    {
+      "string": "Yes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "farmersaremuchtobepitied.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Assuredly.Town-labourers,forexample.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,whatdoesthatmatter?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisindigestion,nodoubt?Youmustgethome,MadameBovary;drinkalittletea,thatwillstrengthenyou,orelseaglassoffreshwaterwithalittlemoistsugar.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,yousee,youwereputtingyourhandtoyourforehead.Ithoughtyoufeltfaint.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butyouwereaskingmesomething?Whatwasit?Ireallydontremember.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "I?Nothing!nothing!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Then,MadameBovary,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "excuseme,butdutyfirst,youknow;Imustlookaftermygood-for-nothings.Thefirstcommunionwillsoonbeuponus,andIfearweshallbebehindafterall.SoafterAscensionDayIkeepthemrectaanextrahoureveryWednesday.Poorchildren!OnecannotleadthemtoosoonintothepathoftheLord,as,moreover,hehashimselfrecommendedustodobythemouthofhisDivineSon.Goodhealthtoyou,madame;myrespectstoyourhusband.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AreyouaChristian?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,IamaChristian.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhatisaChristian?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leavemealone,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leavemealone,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Willyouleavemealone?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Look,dear!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thelittleonefelldownwhileshewasplaying,andhashurtherself.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisverystrange,",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "howuglythischildis!",
+      "best_similarity": 0.5405,
+      "correct": false
+    },
+    {
+      "string": "Iassureyouitsnothing.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontworry,mypoordarling;youwillmakeyourselfill.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DoyouwanttomakeCaribsorBotocudosofthem?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishouldliketospeaktoyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Canhesuspectanything?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsbecauseyoudonttakeenoughrecreation,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatrecreation?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IfIwereyouIdhavealathe.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!thatstrue,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ItisIagain!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwassureofit!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thedoctorisnothere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Heisout.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Heisout.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IshouldliketokissBerthe,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Good-bye,poorchild!good-bye,dearlittleone!good-bye!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Takeheraway,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisgoingtorain,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihaveacloak,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,good-bye,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,good-bye—go!",
+      "best_similarity": 0.9091,
+      "correct": true
+    },
+    {
+      "string": "IntheEnglishfashion,then,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Embraceme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hereisyourcoat,mygoodfriend.Mindthecold;takecareofyourself;lookafteryourself.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Apleasantjourney!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Givehimhishead.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!howfaroffhemustbealready!",
+      "best_similarity": 0.4828,
+      "correct": false
+    },
+    {
+      "string": "Well,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "sowevesentoffouryoungfriend!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Anynewsathome?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nothingmuch.Onlymywifewasalittlemovedthisafternoon.Youknowwomen—anothingupsetsthem,especiallymywife.Andweshouldbewrongtoobjecttothat,sincetheirnervousorganizationismuchmoremalleablethanours.",
+      "best_similarity": 0.9921,
+      "correct": true
+    },
+    {
+      "string": "PoorLeon!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HowwillheliveatParis?Willhegetusedtoit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Getalong!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theoutingsatrestaurants,themaskedballs,thechampagne—allthatllbejollyenough,Iassureyou.",
+      "best_similarity": 0.9827,
+      "correct": true
+    },
+    {
+      "string": "NordoI,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "althoughhellhavetodoliketherestforfearofpassingforaJesuit.AndyoudontknowwhatalifethosedogsleadintheLatinquarterwithactresses.Besides,studentsarethoughtagreatdealofinParis.Providedtheyhaveafewaccomplishments,theyarereceivedinthebestsociety;thereareevenladiesoftheFaubourgSaint-Germainwhofallinlovewiththem,whichsubsequentlyfurnishesthemopportunitiesformakingverygoodmatches.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butIwasthinkingespeciallyofillnesses—oftyphoidfever,forexample,thatattacksstudentsfromtheprovinces.",
+      "best_similarity": 0.9849,
+      "correct": true
+    },
+    {
+      "string": "Becauseofthechangeofregimen,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andoftheperturbationthatresultstherefrominthewholesystem.AndthenthewateratParis,dontyouknow!Thedishesatrestaurants,allthespicedfood,endbyheatingtheblood,andarenotworth,whateverpeoplemaysayofthem,agoodsoup.Formyownpart,Ihavealwayspreferredplainliving;itismorehealthy.SowhenIwasstudyingpharmacyatRouen,Iboardedinaboardinghouse;Idinedwiththeprofessors.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Notamomentspeace!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "alwaysatit!Icanntgooutforaminute!Likeaplough-horse,Ihavealwaystobemoilingandtoiling.Whatdrudgery!",
+      "best_similarity": 0.9948,
+      "correct": true
+    },
+    {
+      "string": "Bytheway,doyouknowthenews?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatnews?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thattheagriculturalmeetingoftheSeine-InferieurewillbeheldthisyearatYonville-lAbbaye.Therumour,atallevents,isgoingtheround.Thismorningthepaperalludedtoit.Itwouldbeoftheutmostimportanceforourdistrict.Butwelltalkitoverlateron.Icansee,thankyou;Justinhasthelantern.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ItisI;Iamyours.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imcoming,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bah!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whatdoesitmatter?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Doyouknowwhatyourwifewants?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shewantstobeforcedtooccupyherselfwithsomemanualwork.Ifshewereobliged,likesomanyothers,toearnherliving,shewouldnthavethesevapours,thatcometoherfromalotofideasshestuffsintoherhead,andfromtheidlenessinwhichshelives.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!alwaysbusyatwhat?Readingnovels,badbooks,worksagainstreligion,andinwhichtheymockatpriestsinspeechestakenfromVoltaire.Butallthatleadsyoufarastray,mypoorchild.Anyonewhohasnoreligionalwaysendsbyturningoutbadly.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "CanIseethedoctor?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TellhimthatMonsieurRodolpheBoulangerofLaHuchetteishere.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontbeafraid,mylad.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "geton.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Holdthebasinnearer,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lor!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "onewouldswearitwasalittlefountainflowing.Howredmybloodis!Thatsagoodsign,isntit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "onefeelsnothingatfirst,andthensyncopesetsin,andmoreespeciallywithpeopleofstrongconstitutionlikethisman.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithoughtasmuch,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Emma!Emma!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Somevinegar,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Odear!twoatonce!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisnothing,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wemusthidethisfromhim,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Fool!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "reallyalittlefool!Afoolinfourletters!Aphlebotomysabigaffair,isntit!Andafellowwhoisntafraidofanything;akindofsquirrel,justasheiswhoclimbstovertiginousheightstoshakedownnuts.Oh,yes!youjusttalktome,boastaboutyourself!Heresafinefitnessforpractisingpharmacylateron;forunderseriouscircumstancesyoumaybecalledbeforethetribunalsinordertoenlightenthemindsofthemagistrates,andyouwouldhavetokeepyourheadthen,toreason,showyourselfaman,orelsepassforanimbecile.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whoaskedyoutocome?Youarealwayspesteringthedoctorandmadame.OnWednesday,moreover,yourpresenceisindispensabletome.Therearenowtwentypeopleintheshop.IlefteverythingbecauseoftheinterestItakeinyou.Come,getalong!Sharp!Waitforme,andkeepaneyeonthejars.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatisextraordinaryforalady,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butsomepeopleareverysusceptible.Thusinaduel,Ihaveseenasecondloseconsciousnessatthemeresoundoftheloadingofpistols.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thesightofotherpeoplesblooddoesntaffectmeatall,butthemerethoughtofmyownflowingwouldmakemefaintifIreflecteduponittoomuch.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itprocuredmetheadvantageofmakingyouracquaintance,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sheisverypretty,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "sheisverypretty,thisdoctorswife.Fineteeth,blackeyes,adaintyfoot,afigurelikeaParisiennes.Wherethedevildoesshecomefrom?Whereverdidthatfatfellowpickherup?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithinkheisverystupid.Sheistiredofhim,nodoubt.Hehasdirtynails,andhasntshavedforthreedays.Whileheistrottingafterhispatients,shesitstherebotchingsocks.Andshegetsbored!Shewouldliketoliveintownanddancepolkaseveryevening.Poorlittlewoman!Sheisgapingafterlovelikeacarpafterwateronakitchen-table.Withthreewordsofgallantryshedadoreone,Imsureofit.Shedbetender,charming.Yes;buthowtogetridofherafterwards?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ismuchprettier,especiallyfresher.Virginieisdecidedlybeginningtogrowfat.Sheissofinikyaboutherpleasures;and,besides,shehasamaniaforprawns.",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "Oh,Iwillhaveher,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whereshallwemeet?Bywhatmeans?Weshallalwaysbehavingthebratonourhands,andtheservant,theneighbours,andhusband,allsortsofworries.Pshaw!onewouldlosetoomuchtimeoverit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shereallyhaseyesthatpierceonesheartlikeagimlet.Andthatpalecomplexion!Iadorepalewomen!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsonlyfindingtheopportunities.Well,Iwillcallinnowandthen.Illsendthemvenison,poultry;Illhavemyselfbled,ifneedbe.Weshallbecomefriends;Illinvitethemtomyplace.ByJove!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "therestheagriculturalshowcomingon.Shellbethere.Ishallseeher.Wellbeginboldly,forthatsthesurestway.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TotheFineArts.",
+      "best_similarity": 0.5385,
+      "correct": false
+    },
+    {
+      "string": "Whatrubbish!whatrubbish!Withtheircanvasbooth!Dotheythinktheprefectwillbegladtodinedownthereunderatentlikeagipsy?Theycallallthisfussingdoinggoodtotheplace!ThenitwasntworthwhilesendingtoNeufchatelforthekeeperofacookshop!Andforwhom?Forcowherds!tatterdemalions!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourservant!Excuseme,Iaminahurry.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itseemsoddtoyou,doesntit,Iwhoamalwaysmorecoopedupinmylaboratorythanthemansratinhischeese.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatcheese?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,nothing!nothing!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,Iamgoing,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AmInotamemberoftheconsultingcommission?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsanotherpairofshoes!Butwhatdoesagriculturemattertoyou?Doyouunderstandanythingaboutit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "CertainlyIunderstandit,sinceIamadruggist—thatistosay,achemist.Andtheobjectofchemistry,MadameLefrancois,beingtheknowledgeofthereciprocalandmolecularactionofallnaturalbodies,itfollowsthatagricultureiscomprisedwithinitsdomain.And,infact,thecompositionofthemanure,thefermentationofliquids,theanalysesofgases,andtheinfluenceofmiasmata,what,Iaskyou,isallthis,ifitisntchemistry,pureandsimple?",
+      "best_similarity": 0.9961,
+      "correct": true
+    },
+    {
+      "string": "Doyouthinkthattobeanagriculturistitisnecessarytohavetilledtheearthorfattenedfowlsoneself?Itisnecessaryrathertoknowthecompositionofthesubstancesinquestion—thegeologicalstrata,theatmosphericactions,thequalityofthesoil,theminerals,thewaters,thedensityofthedifferentbodies,theircapillarity,andwhatnot.Andonemustbemasterofalltheprinciplesofhygieneinordertodirect,criticizetheconstructionofbuildings,thefeedingofanimals,thedietofdomestics.And,moreover,MadameLefrancois,onemustknowbotany,beabletodistinguishbetweenplants,youunderstand,whicharethewholesomeandthosethataredeleterious,whichareunproductiveandwhichnutritive,ifitiswelltopullthemuphereandre-sowthemthere,topropagatesome,destroyothers;inbrief,onemustkeeppacewithsciencebymeansofpamphletsandpublicpapers,bealwaysonthealerttofindoutimprovements.",
+      "best_similarity": 0.9981,
+      "correct": true
+    },
+    {
+      "string": "Justlookatthem!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itspastcomprehension!Suchacookshopasthat!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,itwontlastlong,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itllbeoverbeforeaweek.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What!youdidntknowit?Thereistobeanexecutioninnextweek.ItsLheureuxwhoissellinghimout;hehaskilledhimwithbills.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whataterriblecatastrophe!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "There!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lookathim!heisinthemarket;heisbowingtoMadameBovary,whosgotonagreenbonnet.Why,shestakingMonsieurBoulangersarm.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MadameBovary!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imustgoatonceandpayhermyrespects.Perhapsshellbeverygladtohaveaseatintheenclosureundertheperistyle.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsonlytogetawayfromthatfatfellow,youknow,thedruggist.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatsthemeaningofthat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isshemakingfunofme?",
+      "best_similarity": 0.5366,
+      "correct": false
+    },
+    {
+      "string": "Whatasuperbday!Everybodyisout!Thewindiseast!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ibegyourpardon!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodevening,MonsieurLheureux!Seeyouagainpresently.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howyougotridofhim!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HerearesomeprettyEasterdaisies,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andenoughofthemtofurnishoraclestoalltheamorousmaidsintheplace.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ShallIpicksome?Whatdoyouthink?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyouinlove?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hm,hm!whoknows?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What!MonsieurBoulanger,youaredesertingus?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mafoi!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishallnotgo.Yourcompanyisbetterthanhis.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Besides,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatistrue,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tothinkthatnotoneofthesepeopleiscapableofunderstandingeventhecutofacoat!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndItoo,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "amdriftingintodepression.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "You!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithoughtyouverylight-hearted.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!yes.Iseemso,becauseinthemidstoftheworldIknowhowtowearthemaskofascofferuponmyface;andyet,howmanyatimeatthesightofacemeterybymoonlighthaveInotaskedmyselfwhetheritwerenotbettertojointhosesleepingthere!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh!andyourfriends?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youdonotthinkofthem.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Myfriends!Whatfriends?HaveIany?Whocaresforme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,Ihavemissedsomanythings.Alwaysalone!Ah!ifIhadsomeaiminlife,ifIhadmetsomelove,ifIhadfoundsomeone!Oh,howIwouldhavespentalltheenergyofwhichIamcapable,surmountedeverything,overcomeeverything!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatyouarenottobepitied.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!youthinkso?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "For,afterall,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Presentarms!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Present!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Halt!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leftabout,march.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithink,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thattheyoughttohaveputuptwoVenetianmastswithsomethingrathersevereandrichforornaments;itwouldhavebeenaveryprettyeffect.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butwhatcanyouexpect?Themayortookeverythingonhisownshoulders.Hehasntmuchtaste.PoorTuvache!andheisevencompletelydestituteofwhatiscalledthegeniusofart.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Gentlemen!MayIbepermittedfirstofall(beforeaddressingyouontheobjectofourmeetingto-day,andthissentimentwill,Iamsure,besharedbyyouall),mayIbepermitted,Isay,topayatributetothehigheradministration,tothegovernmenttothemonarch,gentlemen,oursovereign,tothatbelovedking,towhomnobranchofpublicorprivateprosperityisamatterofindifference,andwhodirectswithahandatoncesofirmandwisethechariotofthestateamidtheincessantperilsofastormysea,knowing,moreover,howtomakepeacerespectedaswellaswar,industry,commerce,agriculture,andthefinearts?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "togetbackalittlefurther.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thisisnolongerthetime,gentlemen,whencivildiscordensanguinedourpublicplaces,whenthelandlord,thebusiness-man,theworking-manhimself,fallingasleepatnight,lyingdowntopeacefulsleep,trembledlestheshouldbeawakenedsuddenlybythenoiseofincendiarytocsins,whenthemostsubversivedoctrinesaudaciouslysappedfoundations.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No!Itisdreadful,Iassureyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "if,banishingfrommymemorytheremembranceofthesesadpictures,Icarrymyeyesbacktotheactualsituationofourdearcountry,whatdoIseethere?Everywherecommerceandtheartsareflourishing;everywherenewmeansofcommunication,likesomanynewarteriesinthebodyofthestate,establishwithinitnewrelations.Ourgreatindustrialcentreshaverecoveredalltheiractivity;religion,moreconsolidated,smilesinallhearts;ourportsarefull,confidenceisbornagain,andFrancebreathesoncemore!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "perhapsfromtheworldspointofviewtheyareright.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howso?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Doyounotknowthattherearesoulsconstantlytormented?Theyneedbyturnstodreamandtoact,thepurestpassionsandthemostturbulentjoys,andthustheyflingthemselvesintoallsortsoffantasies,offollies.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wehavenoteventhisdistraction,wepoorwomen!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Asaddistraction,forhappinessisntfoundinit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butisiteverfound?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes;onedayitcomes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andthisiswhatyouhaveunderstood,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "You,farmers,agriculturallabourers!youpacificpioneersofaworkthatbelongswhollytocivilization!you,menofprogressandmorality,youhaveunderstood,Isay,thatpoliticalstormsareevenmoreredoubtablethanatmosphericdisturbances!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "onedaysuddenly,andwhenoneisdespairingofit.Thenthehorizonexpands;itisasifavoicecried,Itishere!Youfeeltheneedofconfidingthewholeofyourlife,ofgivingeverything,sacrificingeverythingtothisbeing.Thereisnoneedforexplanations;theyunderstandoneanother.Theyhaveseeneachotherindreams!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Alwaysduty.Iamsickoftheword.Theyarealotofoldblockheadsinflannelvestsandofoldwomenwithfoot-warmersandrosarieswhoconstantlydroneintoourearsDuty,duty!Ah!byJove!onesdutyistofeelwhatisgreat,cherishthebeautiful,andnotacceptalltheconventionsofsocietywiththeignominythatitimposesuponus.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,no!Whycryoutagainstthepassions?Aretheynottheonebeautifulthingontheearth,thesourceofheroism,ofenthusiasm,ofpoetry,music,thearts,ofeverything,inaword?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "tosomeextentbowtotheopinionoftheworldandacceptitsmoralcode.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thesmall,theconventional,thatofmen,thatwhichconstantlychanges,thatbraysoutsoloudly,thatmakessuchacommotionherebelow,oftheearthearthly,likethemassofimbecilesyouseedownthere.Buttheother,theeternal,thatisaboutusandabove,likethelandscapethatsurroundsus,andtheblueheavensthatgiveuslight.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndwhatshouldIdoheregentlemen,pointingouttoyoutheusesofagriculture?Whosuppliesourwants?Whoprovidesourmeansofsubsistence?Isitnottheagriculturist?Theagriculturist,gentlemen,who,sowingwithlaborioushandthefertilefurrowsofthecountry,bringsforththecorn,which,beingground,ismadeintoapowderbymeansofingeniousmachinery,comesoutthenceunderthenameofflour,andfromthere,transportedtoourcities,issoondeliveredatthebakers,whomakesitintofoodforpoorandrichalike.Again,isitnottheagriculturistwhofattens,forourclothes,hisabundantflocksinthepastures?Forhowshouldweclotheourselves,hownourishourselves,withouttheagriculturist?And,gentlemen,isitevennecessarytogosofarforexamples?Whohasnotfrequentlyreflectedonallthemomentousthingsthatwegetoutofthatmodestanimal,theornamentofpoultry-yards,thatprovidesusatoncewithasoftpillowforourbed,withsucculentfleshforourtables,andeggs?ButIshouldneverendifIweretoenumerateoneaftertheotherallthedifferentproductswhichtheearth,wellcultivated,likeagenerousmother,lavishesuponherchildren.Hereitisthevine,elsewheretheappletreeforcider,therecolza,fartheroncheesesandflax.Gentlemen,letusnotforgetflax,whichhasmadesuchgreatstridesoflateyears,andtowhichIwillmoreparticularlycallyourattention.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Doesnotthisconspiracyoftheworldrevoltyou?Isthereasinglesentimentitdoesnotcondemn?Thenoblestinstincts,thepurestsympathiesarepersecuted,slandered;andifatlengthtwopoorsoulsdomeet,allissoorganisedthattheycannotblendtogether.Yettheywillmaketheattempt;theywillfluttertheirwings;theywillcalluponeachother.Oh!nomatter.Soonerorlater,insixmonths,tenyears,theywillcometogether,willlove;forfatehasdecreedit,andtheyarebornonefortheother.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Continue,persevere;listenneithertothesuggestionsofroutine,nortotheover-hastycouncilsofarashempiricism.Applyyourselves,aboveall,totheameliorationofthesoil,togoodmanures,tothedevelopmentoftheequine,bovine,ovine,andporcineraces.Lettheseshowsbetoyoupacificarenas,wherethevictorinleavingitwillholdforthahandtothevanquished,andwillfraternisewithhiminthehopeofbettersuccess.Andyou,agedservants,humbledomestics,whosehardlabournoGovernmentuptothisdayhastakenintoconsideration,comehithertoreceivetherewardofyoursilentvirtues,andbeassuredthatthestatehenceforwardhasitseyeuponyou;thatitencouragesyou,protectsyou;thatitwillaccedetoyourjustdemands,andalleviateasmuchasinitliestheburdenofyourpainfulsacrifices.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thuswe,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whydidwecometoknowoneanother?Whatchancewilledit?Itwasbecauseacrosstheinfinite,liketwostreamsthatflowbuttounite;ourspecialbentsofmindhaddrivenustowardseachother.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Forgoodfarminggenerally!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Justnow,forexample,whenIwenttoyourhouse.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ToMonsieurBizatofQuincampoix.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DidIknowIshouldaccompanyyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Seventyfrancs.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AhundredtimesIwishedtogo;andIfollowedyou—Iremained.",
+      "best_similarity": 0.9709,
+      "correct": true
+    },
+    {
+      "string": "Manures!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndIshallremainto-night,to-morrow,allotherdays,allmylife!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ToMonsieurCaronofArgueil,agoldmedal!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ForIhaveneverinthesocietyofanyotherpersonfoundsocompleteacharm.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ToMonsieurBainofGivry-Saint-Martin.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndIshallcarryawaywithmetheremembranceofyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Foramerinoram!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butyouwillforgetme;Ishallpassawaylikeashadow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ToMonsieurBelotofNotre-Dame.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,no!Ishallbesomethinginyourthought,inyourlife,shallInot?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Porcinerace;prizes—equal,toMessrs.LeherisseandCullembourg,sixtyfrancs!",
+      "best_similarity": 0.9787,
+      "correct": true
+    },
+    {
+      "string": "Oh,Ithankyou!Youdonotrepulseme!Youaregood!YouunderstandthatIamyours!Letmelookatyou;letmecontemplateyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Useofoil-cakes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Flemishmanure-flax-growing-drainage-longleases-domesticservice.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "CatherineNicaiseElizabethLeroux,ofSassetot-la-Guerriere,forfifty-fouryearsofserviceatthesamefarm,asilvermedal—value,twenty-fivefrancs!",
+      "best_similarity": 0.9888,
+      "correct": true
+    },
+    {
+      "string": "WhereisCatherineLeroux?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goup!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontbeafraid!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,howstupidsheis!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,isshethere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes;heresheis.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thenlethercomeup!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Approach,venerableCatherineNicaiseElizabethLeroux!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Approach!approach!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyoudeaf?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Fifty-fouryearsofservice.Asilvermedal!Twenty-fivefrancs!Foryou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatfanaticism!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Truly,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "oneoughttoproceedmostrigorouslyagainstdrunkenness!Ishouldliketoseewrittenupweeklyatthedoorofthetownhallonaboardadhocthenamesofallthosewhoduringtheweekgotintoxicatedonalcohol.Besides,withregardtostatistics,onewouldthushave,asitwere,publicrecordsthatonecouldrefertoincaseofneed.Butexcuseme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Perhapsyouwouldnotdoill,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsallright!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MonsieurBinethasassuredmethatallprecautionshavebeentaken.Nosparkshavefallen;thepumpsarefull.Letusgotorest.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butnevermind;wevehadabeautifuldayforourfete.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,yes!verybeautiful!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whythesefestoons,theseflowers,thesegarlands?Whitherhurriesthiscrowdlikethewavesofafuriousseaunderthetorrentsofatropicalsunpouringitsheatuponourheads?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Courage!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "athousandreformsareindispensable;letusaccomplishthem!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thefatherembracedtheson,thebrotherthebrother,thehusbandhisconsort.Morethanoneshowedhishumblemedalwithpride;andnodoubtwhenhegothometohisgoodhousewife,hehungitupweepingonthemodestwallsofhiscot.AboutsixoclockabanquetpreparedinthemeadowofMonsieurLeigeardbroughttogethertheprincipalpersonagesofthefete.Thegreatestcordialityreignedhere.Diverstoastswereproposed:MonsieurLieuvain,theKing;MonsieurTuvache,thePrefect;MonsieurDerozerays,Agriculture;MonsieurHomais,IndustryandtheFineArts,thosetwinsisters;MonsieurLeplichey,Progress.Intheeveningsomebrilliantfireworksonasuddenilluminedtheair.Onewouldhavecalleditaveritablekaleidoscope,arealoperaticscene;andforamomentourlittlelocalitymighthavethoughtitselftransportedintothemidstofadreamoftheThousandandOneNights.Letusstatethatnountowardeventdisturbedthisfamilymeeting.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wemustntgobacktoosoon;thatwouldbeamistake.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iffromthefirstdayshelovedme,shemustfromimpatiencetoseemeagainlovememore.Letsgoonwithit!",
+      "best_similarity": 0.4294,
+      "correct": false
+    },
+    {
+      "string": "I,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "havebeenbusy.Ihavebeenill.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Seriously?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "no;itwasbecauseIdidnotwanttocomeback.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Canyounotguess?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Emma!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!yousee,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatIwasrightnottocomeback;forthisname,thisnamethatfillsmywholesoul,andthatescapedme,youforbidmetouse!MadameBovary!whyalltheworldcallsyouthus!Besides,itisnotyourname;itisthenameofanother!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ofanother!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,Ithinkofyouconstantly.Thememoryofyoudrivesmetodespair.Ah!forgiveme!Iwillleaveyou!Farewell!Iwillgofaraway,sofarthatyouwillneverhearofmeagain;andyet—to-day—Iknownotwhatforceimpelledmetowardsyou.ForonedoesnotstruggleagainstHeaven;onecannotresistthesmileofangels;oneiscarriedawaybythatwhichisbeautiful,charming,adorable.",
+      "best_similarity": 0.9907,
+      "correct": true
+    },
+    {
+      "string": "ButifIdidnotcome,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ifIcouldnotseeyou,atleastIhavegazedlongonallthatsurroundsyou.Atnight-everynight-Iarose;Icamehither;Iwatchedyourhouse,itsglimmeringinthemoon,thetreesinthegardenswayingbeforeyourwindow,andthelittlelamp,agleamshiningthroughthewindow-panesinthedarkness.Ah!youneverknewthatthere,sonearyou,sofarfromyou,wasapoorwretch!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,youaregood!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,Iloveyou,thatisall!Youdonotdoubtthat!Tellme—oneword—onlyoneword!",
+      "best_similarity": 0.9559,
+      "correct": true
+    },
+    {
+      "string": "Howkinditwouldbeofyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ifyouwouldhumourawhimofmine.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodmorning,doctor,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Madamewasspeakingtome,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "aboutherhealth.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Certainly!excellent!justthething!Theresanidea!Yououghttofollowitup.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illcallaround,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,no!Illsendhimtoyou;wellcome;thatwillbemoreconvenientforyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!verygood!Ithankyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhydontyouacceptMonsieurBoulangerskindoffer?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,whatthedeucedoIcareforthat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Healthbeforeeverything!Youarewrong.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndhowdoyouthinkIcanridewhenIhaventgotahabit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Anaccidenthappenssoeasily.Becareful!Yourhorsesperhapsaremettlesome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Apleasantride!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Prudence!aboveall,prudence!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Godprotectsus!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Doyouthinkso?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Forward!forward!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamtired,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,tryagain,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Courage!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butwherearewegoing?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Arenotourdestiniesnowone?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,no!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youknowthatwell.Itisimpossible!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!donotspeakofitagain!Wherearethehorses?Letusgoback.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wherearethehorses?Wherearethehorses?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,youfrightenme!Youhurtme!Letmego!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatwasthematterwithyou?Why?Idonotunderstand.Youweremistaken,nodoubt.InmysoulyouareasaMadonnaonapedestal,inaplacelofty,secure,immaculate.ButIneedyoutolive!Imusthaveyoureyes,yourvoice,yourthought!Bemyfriend,mysister,myangel!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh!onemoment!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Donotletusgo!Stay!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamwrong!Iamwrong!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iammadtolistentoyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why?Emma!Emma!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Rodolphe!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Emma!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,IspenttheafternoonatMonsieurAlexandres.Hehasanoldcob,stillveryfine,onlyalittlebroken-kneed,andthatcouldbebought;Iamsure,forahundredcrowns.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andthinkingitmightpleaseyou,Ihavebespokenit—boughtit.HaveIdoneright?Dotellme?",
+      "best_similarity": 0.9806,
+      "correct": true
+    },
+    {
+      "string": "Areyougoingoutto-night?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.Why?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,nothing,nothing,mydear!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihavealover!alover!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhere?Youhere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howdidyoumanagetocome?Ah!yourdressisdamp.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatisthematterwithyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyouill?Tellme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yououghttohavecalledoutlongago!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whenoneseesagun,oneshouldalwaysgivewarning.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisntwarm;itsnipping.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andyoureoutsoearly?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamjustcomingfromthenursewheremychildis.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourservant,madame,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pleasegivemehalfanounceofvitriol.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "bringusthesulphuricacid.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Now,takecarenottoupsetthemortars!Youdbetterfetchsomechairsfromthelittleroom;youknowverywellthatthearm-chairsarenottobetakenoutofthedrawing-room.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sugaracid!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "dontknowit;Imignorantofit!Butperhapsyouwantoxalicacid.Itisoxalicacid,isntit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Indeedtheweatherisnotpropitiousonaccountofthedamp.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "therearepeoplewholikeit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Halfanounceofresinandturpentine,fourouncesofyellowwax,andthreehalfouncesofanimalcharcoal,ifyouplease,tocleanthevarnishedleatherofmytogs.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andhowsthelittlewoman?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Silence!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whydidntyoubringher?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hush!hush!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howhardyouarebreathing!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,yousee,itsratherwarm,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,now,Emma,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itistime.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Someoneiscoming!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Haveyouyourpistols?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Fromyourhusband?Oh,poordevil!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icouldcrushhimwithaflipofmyfinger.",
+      "best_similarity": 0.5161,
+      "correct": false
+    },
+    {
+      "string": "Iamsurethatabovetheretogethertheyapproveofourlove.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Formyself,Iamverywell,exceptforacoldIcaughttheotherdayatthefairatYvetot,whereIhadgonetohireashepherd,havingturnedawayminebecausehewastoodainty.Howwearetobepitiedwithsuchalotofthieves!Besides,hewasalsorude.Iheardfromapedlar,who,travellingthroughyourpartofthecountrythiswinter,hadatoothdrawn,thatBovarywasasusualworkinghard.Thatdoesntsurpriseme;andheshowedmehistooth;wehadsomecoffeetogether.Iaskedhimifhehadseenyou,andhesaidnot,butthathehadseentwohorsesinthestables,fromwhichIconcludethatbusinessislookingup.Somuchthebetter,mydearchildren,andmayGodsendyoueveryimaginablehappiness!Itgrievesmenotyettohaveseenmydearlittlegrand-daughter,BertheBovary.IhaveplantedanOrleansplum-treeforherinthegardenunderyourroom,andIwonthaveittouchedunlessitistohavejammadeforherbyandbye,thatIwillkeepinthecupboardforherwhenshecomes.Good-bye,mydearchildren.Ikissyou,mygirl,youtoo,myson-in-law,andthelittleoneonbothcheeks.Iam,withbestcompliments,yourlovingfather.TheodoreRouault.",
+      "best_similarity": 0.3984,
+      "correct": false
+    },
+    {
+      "string": "Bringhertome,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HowIloveyou,mypoorchild!HowIloveyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatwillpassover,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!yourelosingyourtime,mylady!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "For,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whoistopreventmefromsendingashortparagraphonthesubjecttothepaper?Eh!goodnessme!anarticlegetsabout;itistalkedof;itendsbymakingasnowball!Andwhoknows?whoknows?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwillscarcelyfeel,probably,aslightpain;itisasimpleprick,likealittleblood-letting,lessthantheextractionofcertaincorns.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "However,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itdoesntconcernme.Itsforyoursake,forpurehumanity!Ishouldliketoseeyou,myfriend,ridofyourhideouscaudication,togetherwiththatwaddlingofthelumbarregionswhich,whateveryousay,mustconsiderablyinterferewithyouintheexerciseofyourcalling.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Arentyouaman?Hangit!whatwouldyouhavedoneifyouhadhadtogointothearmy,togoandfightbeneaththestandard?Ah!Hippolyte!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,becalm,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "lateronyouwillshowyourgratitudetoyourbenefactor.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Readityourself,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,no!notatall!Whatnext!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "goon!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Help!heisdying!Iamgoingcrazy!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,whatsthematterwithourinterestingstrephopode?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howareyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!yourenotuptomuch,itseems,butitsyourownfault.Youshoulddothis!dothat!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yougivewaytoomuch!Getup!Youcoddleyourselflikeaking!Allthesame,oldchap,youdontsmellnice!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhenshallIgetwell?Oh,saveme!HowunfortunateIam!HowunfortunateIam!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontlistentohim,mylad,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Haventtheytorturedyouenoughalready?Youllgrowstillweaker.Here!swallowthis.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "For,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youratherneglectedyourduties;youwererarelyseenatdivineworship.Howmanyyearsisitsinceyouapproachedtheholytable?Iunderstandthatyourwork,thatthewhirloftheworldmayhavekeptyoufromcareforyoursalvation.Butnowisthetimetoreflect.Yetdontdespair.Ihaveknowngreatsinners,who,abouttoappearbeforeGod(youarenotyetatthispointIknow),hadimploredHismercy,andwhocertainlydiedinthebestframeofmind.Letushopethat,likethem,youwillsetusagoodexample.Thus,asaprecaution,whatistopreventyoufromsayingmorningandeveningaHailMary,fullofgrace,andOurFatherwhichartinheaven?Yes,dothat,formysake,toobligeme.Thatwontcostyouanything.Willyoupromiseme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leavehimalone!leavehimalone!Youperturbhismoralswithyourmysticism.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThesearetheinventionsofParis!Thesearetheideasofthosegentryofthecapital!Itislikestrabismus,chloroform,lithotrity,aheapofmonstrositiesthattheGovernmentoughttoprohibit.Buttheywanttodotheclever,andtheycramyouwithremedieswithout,troublingabouttheconsequences.Wearenotsoclever,notwe!Wearenotsavants,coxcombs,fops!Wearepractitioners;wecurepeople,andweshouldnotdreamofoperatingonanyonewhoisinperfecthealth.Straightenclub-feet!Asifonecouldstraightenclub-feet!Itisasifonewished,forexample,tomakeahunchbackstraight!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!MonsieurCanivetsacharacter!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icountonyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areweready?Comealong!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whenoneisasimplespectator,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "theimagination,youknow,isimpressed.AndthenIhavesuchanervoussystem!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pshaw!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "onthecontrary,youseemtomeinclinedtoapoplexy.Besides,thatdoesntastonishme,foryouchemistfellowsarealwayspokingaboutyourkitchens,whichmustendbyspoilingyourconstitutions.Nowjustlookatme.Igetupeverydayatfouroclock;Ishavewithcoldwater(andamnevercold).Idontwearflannels,andInevercatchcold;mycarcassisgoodenough!Ilivenowinoneway,nowinanother,likeaphilosopher,takingpot-luck;thatiswhyIamnotsqueamishlikeyou,anditisasindifferenttometocarveaChristianasthefirstfowlthatturnsup.Then,perhaps,youwillsay,habit!habit!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatamishap!",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "whatamishap!",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "Sitdown,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youfidgetme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butitwasperhapsavalgus!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,kissme,myown!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leaveme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatisthematter?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Becalm;composeyourself.YouknowwellenoughthatIloveyou.Come!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Enough!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButwhatcanIdo?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,what?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wewouldgoandliveelsewhere—somewhere!",
+      "best_similarity": 0.9589,
+      "correct": true
+    },
+    {
+      "string": "Youarereallymad!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howcouldthatbepossible?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatisthatfor?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,haventyoueverseenanything?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Asifyourmistress,MadameHomais,didntwearthesame.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Idaresay!MadameHomais!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Asifshewerealadylikemadame!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Letmealone,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youdbetterbeoffandpoundalmonds;youarealwaysdanglingaboutwomen.Beforeyoumeddlewithsuchthings,badboy,waittillyouvegotabeardtoyourchin.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,dontbecross!Illgoandcleanherboots.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howafraidyouareofspoilingthem!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,verywell,takethem!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwasonlyjoking,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "theonlythingIregretisthewhip.Myword!Illaskmonsieurtoreturnittome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,no!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!Ivegotyou!",
+      "best_similarity": 0.6286,
+      "correct": false
+    },
+    {
+      "string": "Good!weshallsee!weshallsee!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihaveanarrangementtosuggesttoyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pshaw!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "hewontthinkaboutitagain.",
+      "best_similarity": 0.52,
+      "correct": false
+    },
+    {
+      "string": "Whenmidnightstrikes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youmustthinkofme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Doyouloveme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Agreatdeal?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Certainly!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhaventlovedanyothers?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Didyouthinkyoudgotavirgin?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iloveyou!IloveyousothatIcouldnotlivewithoutyou,doyousee?TherearetimeswhenIlongtoseeyouagain,whenIamtornbyalltheangeroflove.Iaskmyself,Whereishe?Perhapsheistalkingtootherwomen.Theysmileuponhim;heapproaches.Ohno;nooneelsepleasesyou.Therearesomemorebeautiful,butIloveyoubest.Iknowhowtolovebest.Iamyourservant,yourconcubine!Youaremyking,myidol!Youaregood,youarebeautiful,youareclever,youarestrong!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "asiftodefythepeople.",
+      "best_similarity": 0.6341,
+      "correct": false
+    },
+    {
+      "string": "Wherewereyoubroughtup?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leavetheroom!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Emma!Mamma!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh!whatmanners!Whatapeasant!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Verywell!Illgotoher.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Excuseme,madame.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dotakecare!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!ifyouknew!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,mypoorangel,courage!Becomforted!bepatient!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButIhavebeenpatient;Ihavesufferedforfouryears.Alovelikeoursoughttoshowitselfinthefaceofheaven.Theytortureme!Icanbearitnolonger!Saveme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "carrymeoff!Oh,Iprayyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourlittlegirl!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wewilltakeher!Itcanntbehelped!",
+      "best_similarity": 0.9831,
+      "correct": true
+    },
+    {
+      "string": "Whatawoman!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!whenweareinthemail-coach!Doyouthinkaboutit?Canitbe?ItseemstomethatthemomentIfeelthecarriagestart,itwillbeasifwewererisinginaballoon,asifweweresettingoutfortheclouds.DoyouknowthatIcountthehours?Andyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwantacloak—alargelinedcloakwithadeepcollar.",
+      "best_similarity": 0.9663,
+      "correct": true
+    },
+    {
+      "string": "Youaregoingonajourney?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No;but—nevermind.Imaycountonyou,mayInot,andquickly?",
+      "best_similarity": 0.9709,
+      "correct": true
+    },
+    {
+      "string": "Besides,Ishallwant,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "atrunk—nottooheavy—handy.",
+      "best_similarity": 0.8846,
+      "correct": false
+    },
+    {
+      "string": "Yes,yes,Iunderstand.Aboutthreefeetbyafootandahalf,astheyarebeingmadejustnow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andatravellingbag.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "theresarowonhere.",
+      "best_similarity": 0.5854,
+      "correct": false
+    },
+    {
+      "string": "takethis;youcanpayyourselfoutofit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwillleaveeverythingatyourplace.Astothecloak",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "donotbringiteither;youcangivemethemakersaddress,andtellhimtohaveitreadyforme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Everythingisready?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youaresad,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No;why?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisbecauseyouaregoingaway?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "becauseyouareleavingwhatisdeartoyou—yourlife?Ah!Iunderstand.Ihavenothingintheworld!youarealltome;soshallIbetoyou.Iwillbeyourpeople,yourcountry;Iwilltend,Iwillloveyou!",
+      "best_similarity": 0.991,
+      "correct": true
+    },
+    {
+      "string": "Howsweetyouare!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Really!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Doyouloveme?Swearitthen!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DoIloveyou—loveyou?Iadoreyou,mylove.",
+      "best_similarity": 0.9589,
+      "correct": true
+    },
+    {
+      "string": "Ah!whatalovelynight!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Weshallhaveothers,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yet,itwillbegoodtotravel.Andyet,whyshouldmyheartbesoheavy?Isitdreadoftheunknown?Theeffectofhabitsleft?Orrather—?No;itistheexcessofhappiness.HowweakIam,amInot?Forgiveme!",
+      "best_similarity": 0.9911,
+      "correct": true
+    },
+    {
+      "string": "Thereisstilltime!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Reflect!perhapsyoumayrepent!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Never!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatillcouldcometome?Thereisnodesert,noprecipice,nooceanIwouldnottraversewithyou.Thelongerwelivetogetherthemoreitwillbelikeanembrace,everydaycloser,morehearttoheart.Therewillbenothingtotroubleus,nocares,noobstacle.Weshallbealone,alltoourselveseternally.Oh,speak!Answerme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Rodolphe!Rodolphe!Ah!Rodolphe!dearlittleRodolphe!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Midnight!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,itisto-morrow.Onedaymore!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhavethepassports?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youareforgettingnothing?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyousure?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Certainly.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ItisattheHoteldeProvence,isitnot,thatyouwillwaitformeatmidday?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tillto-morrowthen!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "To-morrow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhatanimbecileIam!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nomatter!Shewasaprettymistress!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "For,afterall,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icanntexilemyself—haveachildonmyhands.",
+      "best_similarity": 0.9474,
+      "correct": true
+    },
+    {
+      "string": "Andbesides,theworry,theexpense!Ah!no,no,no,no!athousandtimesno!Thatwouldbetoostupid.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatalotofrubbish!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "letsbegin.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Courage,Emma!courage!Iwouldnotbringmiseryintoyourlife.",
+      "best_similarity": 0.4554,
+      "correct": false
+    },
+    {
+      "string": "Iamactinginherinterest;Iamhonest.",
+      "best_similarity": 0.5517,
+      "correct": false
+    },
+    {
+      "string": "Haveyoucarefullyweighedyourresolution?DoyouknowtowhatanabyssIwasdraggingyou,poorangel?No,youdonot,doyou?Youwerecomingconfidentandfearless,believinginhappinessinthefuture.Ah!unhappythatweare—insensate!",
+      "best_similarity": 0.3883,
+      "correct": false
+    },
+    {
+      "string": "IfItoldherallmyfortuneislost?No!Besides,thatwouldstopnothing.Itwouldallhavetobebegunoveragainlateron.Asifonecouldmakewomenlikethatlistentoreason!",
+      "best_similarity": 0.4321,
+      "correct": false
+    },
+    {
+      "string": "Ishallnotforgetyou,ohbelieveit;andIshalleverhaveaprofounddevotionforyou;butsomeday,soonerorlater,thisardour(suchisthefateofhumanthings)wouldhavegrownless,nodoubt.Lassitudewouldhavecometous,andwhoknowsifIshouldnotevenhavehadtheatrociouspainofwitnessingyourremorse,ofsharingitmyself,sinceIshouldhavebeenitscause?Themereideaofthegriefthatwouldcometoyoutorturesme,Emma.Forgetme!WhydidIeverknowyou?Whywereyousobeautiful?Isitmyfault?OmyGod!No,no!Accuseonlyfate.",
+      "best_similarity": 0.402,
+      "correct": false
+    },
+    {
+      "string": "Ah,ifyouhadbeenoneofthosefrivolouswomenthatonesees,certainlyImight,throughegotism,havetriedanexperiment,inthatcasewithoutdangerforyou.Butthatdeliciousexaltation,atonceyourcharmandyourtorment,haspreventedyoufromunderstanding,adorablewomanthatyouare,thefalsenessofourfutureposition.NorhadIreflecteduponthisatfirst,andIrestedintheshadeofthatidealhappinessasbeneaththatofthemanchineeltree,withoutforeseeingtheconsequences.",
+      "best_similarity": 0.4184,
+      "correct": false
+    },
+    {
+      "string": "PerhapsshellthinkImgivingitupfromavarice.Ah,well!somuchtheworse;itmustbestopped!",
+      "best_similarity": 0.4031,
+      "correct": false
+    },
+    {
+      "string": "Theworldiscruel,Emma.Whereverwemighthavegone,itwouldhavepersecutedus.Youwouldhavehadtoputupwithindiscreetquestions,calumny,contempt,insultperhaps.Insulttoyou!Oh!AndI,whowouldplaceyouonathrone!Iwhobearwithmeyourmemoryasatalisman!ForIamgoingtopunishmyselfbyexileforalltheillIhavedoneyou.Iamgoingaway.WhitherIknownot.Iammad.Adieu!Begoodalways.Preservethememoryoftheunfortunatewhohaslostyou.Teachmynametoyourchild;letherrepeatitinherprayers.",
+      "best_similarity": 0.3942,
+      "correct": false
+    },
+    {
+      "string": "Ithinkitsallright.Ah!andthisforfearsheshouldcomeandhuntmeup.",
+      "best_similarity": 0.4554,
+      "correct": false
+    },
+    {
+      "string": "Ishallbefarawaywhenyoureadthesesadlines,forIhavewishedtofleeasquicklyaspossibletoshunthetemptationofseeingyouagain.Noweakness!Ishallreturn,andperhapslateronweshalltalktogetherverycoldlyofouroldlove.Adieu!",
+      "best_similarity": 0.4083,
+      "correct": false
+    },
+    {
+      "string": "ADieu!",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "NowhowamItosign?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yoursdevotedly?No!Yourfriend?Yes,thatsit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourfriend.",
+      "best_similarity": 0.6207,
+      "correct": false
+    },
+    {
+      "string": "Poorlittlewoman!",
+      "best_similarity": 0.64,
+      "correct": false
+    },
+    {
+      "string": "Shellthinkmeharderthanarock.Thereoughttohavebeensometearsonthis;butIcanntcry;itisntmyfault.",
+      "best_similarity": 0.4294,
+      "correct": false
+    },
+    {
+      "string": "Thatdoesntatallfitinwiththecircumstances.Pshaw!nevermind!",
+      "best_similarity": 0.4511,
+      "correct": false
+    },
+    {
+      "string": "Ifsheasksafterme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youwilltellherthatIhavegoneonajourney.Youmustgivethebaskettoherherself,intoherownhands.Getalongandtakecare!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Here,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "issomethingforyou—fromthemaster.",
+      "best_similarity": 0.9538,
+      "correct": true
+    },
+    {
+      "string": "Ah,no!here,",
+      "best_similarity": 0.5882,
+      "correct": false
+    },
+    {
+      "string": "Ishallbeallright.",
+      "best_similarity": 0.6897,
+      "correct": false
+    },
+    {
+      "string": "Come!come!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Emma!Emma!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whereverareyou?Come!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Masteriswaitingforyou,madame;thesoupisonthetable.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WearenotlikelytoseeMonsieurRodolphesoonagain,itseems.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whotoldyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whotoldme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,Girard,whomImetjustnowatthedooroftheCafeFrancais.Hehasgoneonajourney,oristogo.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!perfect!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "justtaste!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dojustsmell!Whatanodour!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamchoking,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itisnothing!Itisnervousness.Sitdownandgooneating.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illruntomylaboratoryforsomearomaticvinegar,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatwouldwakeanydeadpersonforyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "collectyourself;itisyourCharles,wholovesyou.Doyouknowme?See!hereisyourlittlegirl!Oh,kissher!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Donotbeuneasy,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithinktheparoxysmispast.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Poorgirl!poorgirl!Shehadgoneoffnow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Extraordinary!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andnotonly,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "arehumanbeingssubjecttosuchanomalies,butanimalsalso.ThusyouarenotignorantofthesingularlyaphrodisiaceffectproducedbytheNepetacataria,vulgarlycalledcatmint,onthefelinerace;and,ontheotherhand,toquoteanexamplewhoseauthenticityIcananswerfor.Bridaux(oneofmyoldcomrades,atpresentestablishedintheRueMalpalu)possessesadogthatfallsintoconvulsionsassoonasyouholdoutasnuff-boxtohim.Heoftenevenmakestheexperimentbeforehisfriendsathissummer-houseatGuillaumeWood.Wouldanyonebelievethatasimplesternutationcouldproducesuchravagesonaquadrupedalorganism?Itisextremelycurious,isitnot?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thisshowsus,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "theinnumerableirregularitiesofthenervoussystem.Withregardtomadame,shehasalwaysseemedtome,Iconfess,verysusceptible.AndsoIshouldbynomeansrecommendtoyou,mydearfriend,anyofthoseso-calledremediesthat,underthepretenceofattackingthesymptoms,attacktheconstitution.No;nouselessphysicking!Diet,thatisall;sedatives,emollients,dulcification.Then,dontyouthinkthatperhapsherimaginationshouldbeworkedupon?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inwhatway?How?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!thatisit.Suchisindeedthequestion.Thatisthequestion,asIlatelyreadinanewspaper.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theletter!theletter!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwilltireyourself,mydarling!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sitdownonthisseat;youllbecomfortable.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh!no;notthere!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isyourstomach-achebetter,myangel?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Soyoulovehim?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "There!runalong;enjoyyourself!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youweregoinginabitforthecassock!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youmust,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "holdthebottleperpendicularlyonthetable,andafterthestringsarecut,pressupthecorkwithlittlethrusts,gently,gently,asindeedtheydoseltzer-wateratrestaurants.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsgoodnessstrikestheeye!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Castigatridendomores,MonsieurBournisien!ThusconsiderthegreaterpartofVoltairestragedies;theyarecleverlystrewnwithphilosophicalreflections,thatmadethemavastschoolofmoralsanddiplomacyforthepeople.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "I,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thereisbadliteratureasthereisbadpharmacy,buttocondemninalumpthemostimportantofthefineartsseemstomeastupidity,aGothicidea,worthyoftheabominabletimesthatimprisonedGalileo.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "iftheChurchhascondemnedthetheatre,shemustberight;wemustsubmittoherdecrees.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "shouldsheexcommunicateactors?Forformerlytheyopenlytookpartinreligiousceremonies.Yes,inthemiddleofthechanceltheyacted;theyperformedakindoffarcecalledMysteries,whichoftenoffendedagainstthelawsofdecency.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ItslikeitisintheBible;therethereare,youknow,morethanonepiquantdetail,mattersreallylibidinous!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whorecommendtheBible.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamsurprisedthatinourdays,inthiscenturyofenlightenment,anyoneshouldstillpersistinproscribinganintellectualrelaxationthatisinoffensive,moralising,andsometimesevenhygienic;isitnot,doctor?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iveknownpriestswhoputonordinaryclothestogoandseedancerskickingabout.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,come!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!Iveknownsome!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "I—have—known—some!",
+      "best_similarity": 0.7692,
+      "correct": false
+    },
+    {
+      "string": "ByJove!theygoinformorethanthat,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sir!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ionlymeantosay,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thattolerationisthesurestwaytodrawpeopletoreligion.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatistrue!thatistrue!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThatswhatIcallacock-fight.Ibeathim,didyousee,inaway!—Nowtakemyadvice.Takemadametothetheatre,ifitwereonlyforonceinyourlife,toenrageoneoftheseravens,hangit!Ifanyonecouldtakemyplace,Iwouldaccompanyyoumyself.Bequickaboutit.Lagardyisonlygoingtogiveoneperformance;hesengagedtogotoEnglandatahighsalary.FromwhatIhear,hesaregulardog;hesrollinginmoney;hestakingthreemistressesandacookalongwithhim.Allthesegreatartistsburnthecandleatbothends;theyrequireadissolutelife,thatsuitstheimaginationtosomeextent.Buttheydieatthehospital,becausetheyhaventthesensewhenyoungtolayby.Well,apleasantdinner!Goodbyetillto-morrow.",
+      "best_similarity": 0.9975,
+      "correct": true
+    },
+    {
+      "string": "Well,apleasantjourney!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "happymortalsthatyouare!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YouareaslovelyasaVenus.YoullcutafigureatRouen.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "To-morrow!to-morrow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butwhy,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "doesthatgentlemanpersecuteher?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,no!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "heisherlover!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yethevowsvengeanceonherfamily,whiletheotheronewhocameonbeforesaid,IloveLucieandshelovesme!Besides,hewentoffwithherfatherarminarm.Forhecertainlyisherfather,isnthe—theuglylittlemanwithacocksfeatherinhishat?",
+      "best_similarity": 0.9927,
+      "correct": true
+    },
+    {
+      "string": "Whatdoesitmatter?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dobequiet!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iliketounderstandthings.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bequiet!bequiet!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Takemeaway!carrymewithyou!letusgo!Thine,thine!allmyardourandallmydreams!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mafoi!IthoughtIshouldhavehadtostaythere.Thereissuchacrowd—SUCHacrowd!",
+      "best_similarity": 0.9784,
+      "correct": true
+    },
+    {
+      "string": "JustguesswhomImetupthere!MonsieurLeon!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leon?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Himself!Hescomingalongtopayhisrespects.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah,good-day!What!youhere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Silence!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SoyouareatRouen?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andsincewhen?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Turnthemout!turnthemout!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Doesthisamuseyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,dearme,no,notmuch.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,notyet;letusstay,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Herhairsundone;thisisgoingtobetragic.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shescreamstooloud,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes—alittle,",
+      "best_similarity": 0.88,
+      "correct": false
+    },
+    {
+      "string": "Doyoufeelunwell?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,Iamstifling;letusgo.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Obelange,maLucie!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yet,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "theysaythatheisquiteadmirableinthelastact.Iregretleavingbeforetheend,becauseitwasbeginningtoamuseme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "hewillsoongiveanotherperformance.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Unless,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youwouldliketostayalone,kitten?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YouwouldgetbackonSunday.Come,makeupyourmind.Youarewrongifyoufeelthatthisisdoingyoutheleastgood.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamreallysorry,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itissettled,isntit?To-morrowatsixoclock?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowthatyouareinourpartoftheworld,Ihopeyoullcomeandaskusforsomedinnernowandthen.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

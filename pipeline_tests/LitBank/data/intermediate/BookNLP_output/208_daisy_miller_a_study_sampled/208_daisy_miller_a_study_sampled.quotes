@@ -1,0 +1,39 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+89	92	63	64	every tourist	23	“ grand hotel ”
+252	254	246	256	a flitting hither and thither of “ stylish ” young girls	35	“ stylish ”
+298	301	285	285	You	36	“ Trois Couronnes ”
+319	323	349	351	secretaries of legation	40	“ Trois Couronnes , ”
+431	435	438	438	him	48	“ Trois Couronnes , ”
+581	584	573	573	they	57	“ studying . ”
+967	977	978	978	he	80	“ Will you give me a lump of sugar ? ”
+1024	1032	1033	1033	he	80	“ Yes , you may take one , ”
+1036	1049	1033	1033	he	80	“ but I do n’t think sugar is good for little boys . ”
+1110	1123	1124	1124	he	80	“ Oh , blazes ; it ’s har - r - d ! ”
+1153	1163	1164	1164	he	80	“ Take care you do n’t hurt your teeth , ”
+1169	1253	1254	1254	Winterbourne	13	“ I have n’t got any teeth to hurt . They have all come out . I have only got seven teeth . My mother counted them last night , and one came out right afterward . She said she ’d slap me if any more came out . I ca n’t help it . It ’s this old Europe . It ’s the climate that makes them come out . In America they did n’t come out . It ’s these hotels . ”
+1259	1275	1276	1276	he	13	“ If you eat three lumps of sugar , your mother will certainly slap you , ”
+1279	1291	1293	1293	his	13	“ She ’s got to give me some candy , then , ”
+1297	1317	1293	1293	his	13	“ I ca n’t get any candy here -- any American candy . American candy ’s the best candy . ”
+1318	1329	1331	1331	Winterbourne	13	“ And are American little boys the best little boys ? ”
+1333	1345	1347	1348	the child	80	“ I do n’t know . I ’m an American boy , ”
+1350	1360	1362	1362	Winterbourne	13	“ I see you are one of the best ! ”
+1364	1371	1373	1375	this vivacious infant	85	“ Are you an American man ? ”
+1384	1390	1391	1391	he	13	reply--“American men are the best , ”
+1454	1460	1462	1463	the child	80	“ Here comes my sister ! ”
+1468	1475	1462	1463	the child	80	“ She ’s an American girl . ”
+1489	1497	1498	1498	he	13	“ American girls are the best girls , ”
+1506	1514	1515	1516	the child	80	“ My sister ai n’t the best ! ”
+1519	1527	1515	1516	the child	80	“ She ’s always blowing at me . ”
+1528	1539	1541	1541	Winterbourne	13	“ I imagine that is your fault , not hers , ”
+1602	1608	1610	1610	Winterbourne	13	“ How pretty they are ! ”
+1681	1684	1686	1688	the young lady	93	“ Randolph , ”
+1690	1696	1686	1688	the young lady	93	“ what ARE you doing ? ”
+1697	1705	1707	1707	Randolph	14	“ I ’m going up the Alps , ”
+1709	1715	1717	1717	he	97	“ This is the way ! ”
+1731	1740	1742	1742	Winterbourne	13	“ That ’s the way they come down , ”
+1744	1751	1753	1753	Randolph	14	“ He ’s an American man ! ”
+1778	1789	1790	1790	she	93	“ Well , I guess you had better be quiet , ”
+1823	1833	1834	1834	he	13	“ This little boy and I have made acquaintance , ”
+1977	1989	1990	1990	she	93	“ I should like to know where you got that pole , ”
+1993	1998	2000	2000	Randolph	14	“ I bought it , ”
+2002	2018	1967	1969	the young lady	93	“ You do n’t mean to say you ’re going to take it to Italy ? ”

@@ -1,0 +1,335 @@
+COREF	start_token	end_token	prop	cat	text
+0	2	2	PRON	PER	I
+34	4	14	NOM	LOC	a hill by the Mississippi where Chippewas camped two generations ago
+1	7	8	PROP	LOC	the Mississippi
+19	10	10	PROP	PER	Chippewas
+35	16	17	NOM	PER	a girl
+35	29	29	PRON	PER	She
+36	31	32	NOM	PER	no Indians
+35	35	35	PRON	PER	she
+2	47	47	PROP	GPE	Minneapolis
+3	49	50	PROP	GPE	St. Paul
+35	54	54	PRON	PER	she
+37	62	68	NOM	PER	the Yankee fur - traders whose shadows
+35	72	72	PRON	PER	her
+35	74	74	PRON	PER	She
+20	84	84	PROP	PER	Brieux
+38	97	99	NOM	PER	the chemistry instructor
+35	108	108	PRON	PER	her
+39	120	122	NOM	LOC	wheat - lands
+35	124	124	PRON	PER	her
+40	149	151	NOM	FAC	the lower road
+35	156	156	PRON	PER	her
+35	162	162	PRON	PER	She
+35	164	164	PRON	PER	her
+35	167	167	PRON	PER	she
+35	174	174	PRON	PER	her
+35	185	186	NOM	PER	A girl
+42	188	189	NOM	LOC	a hilltop
+35	201	201	PRON	PER	she
+21	217	218	PROP	PER	Carol Milford
+4	225	226	PROP	GPE	Blodgett College
+22	251	251	PROP	PER	Camelot
+43	254	256	NOM	PER	a rebellious girl
+44	265	267	NOM	GPE	the American Middlewest
+5	269	271	PROP	FAC	II Blodgett College
+45	274	277	NOM	LOC	the edge of Minneapolis
+2	277	277	PROP	GPE	Minneapolis
+6	295	295	PROP	GPE	Voltaire
+23	297	297	PROP	PER	Darwin
+24	300	301	PROP	PER	Robert Ingersoll
+46	303	310	NOM	PER	Pious families in Minnesota , Iowa , Wisconsin
+7	306	306	PROP	GPE	Minnesota
+8	308	308	PROP	GPE	Iowa
+9	310	310	PROP	GPE	Wisconsin
+25	312	313	PROP	PER	the Dakotas
+46	315	315	PRON	PER	their
+47	315	316	NOM	PER	their children
+26	320	320	PROP	PER	Blodgett
+47	322	322	PRON	PER	them
+48	327	328	NOM	ORG	the universities
+49	333	334	NOM	PER	friendly girls
+50	336	350	NOM	PER	young men who sing , and one lady instructress who really likes Milton and Carlyle
+51	342	350	NOM	PER	one lady instructress who really likes Milton and Carlyle
+27	348	348	PROP	PER	Milton
+28	350	350	PROP	PER	Carlyle
+21	357	357	PROP	PER	Carol
+26	360	360	PROP	PER	Blodgett
+52	369	370	NOM	ORG	the school
+53	375	375	NOM	PER	rivals
+21	378	378	PRON	PER	her
+21	382	382	PRON	PER	her
+21	386	386	PRON	PER	She
+54	391	394	NOM	PER	chafing - dish parties
+21	433	433	PRON	PER	her
+55	437	441	NOM	PER	two or three prettier girls
+21	448	448	PRON	PER	She
+56	463	468	NOM	PER	the three hundred students of Blodgett
+26	468	468	PROP	GPE	Blodgett
+21	483	483	PRON	PER	her
+57	502	507	NOM	PER	The other girls in her dormitory
+21	506	506	PRON	PER	her
+58	506	507	NOM	FAC	her dormitory
+21	513	513	PRON	PER	her
+57	516	516	PRON	PER	they
+21	518	518	PRON	PER	her
+21	533	533	PRON	PER	She
+57	541	541	PRON	PER	they
+59	545	554	NOM	PER	a fragile child who must be cloaked with understanding kindness
+60	560	561	NOM	PER	the girls
+21	573	573	PRON	PER	her
+21	578	578	PRON	PER	her
+21	589	589	PRON	PER	she
+61	594	637	NOM	PER	any of the hulking young women who , with calves bulging in heavy - ribbed woolen stockings beneath decorous blue serge bloomers , thuddingly galloped across the floor of the “ gym ” in practise for the Blodgett Ladies ’ Basket - Ball Team
+121	623	626	NOM	FAC	the “ gym ”
+11	630	637	PROP	FAC	the Blodgett Ladies ’ Basket - Ball Team
+21	641	641	PRON	PER	she
+21	644	644	PRON	PER	her
+21	650	650	PRON	PER	She
+62	659	660	NOM	LOC	the world
+21	671	671	PRON	PER	she
+21	679	679	PRON	PER	her
+21	693	693	PRON	PER	her
+21	706	706	PRON	PER	she
+21	709	709	PROP	PER	Carol
+63	709	711	NOM	PER	Carol ’s acquaintances
+21	715	715	PRON	PER	her
+21	718	718	PRON	PER	she
+21	727	727	PRON	PER	she
+21	735	735	PRON	PER	She
+64	741	745	NOM	PER	a born hero - worshipper
+21	748	748	PRON	PER	she
+21	756	756	PRON	PER	she
+21	759	759	PRON	PER	she
+21	765	765	PRON	PER	Her
+21	768	768	PRON	PER	her
+21	772	772	PRON	PER	she
+21	777	777	PRON	PER	she
+21	802	802	PRON	PER	she
+21	808	808	PRON	PER	she
+65	813	829	NOM	PER	the Student Volunteers , who intended to become missionaries , over painting scenery for the dramatic club
+66	821	821	NOM	PER	missionaries
+67	827	829	NOM	FAC	the dramatic club
+21	839	839	PRON	PER	She
+21	848	848	PRON	PER	she
+68	851	851	NOM	FAC	chapel
+21	857	857	PRON	PER	her
+21	871	871	PRON	PER	her
+21	878	878	PRON	PER	her
+21	885	885	PRON	PER	her
+69	889	890	NOM	PER	Every man
+21	898	898	PROP	PER	Carol
+21	903	903	PRON	PER	she
+21	907	907	PRON	PER	her
+70	924	929	NOM	FAC	the hall of the Main Building
+71	927	929	NOM	FAC	the Main Building
+72	931	934	NOM	PER	the co - eds
+122	940	940	PRON	PER	we
+122	943	943	PRON	PER	we
+123	945	945	NOM	FAC	college
+73	949	959	NOM	PER	the girls who knew that they were going to be married
+73	954	954	PRON	PER	they
+73	969	969	PRON	PER	they
+73	973	973	PRON	PER	they
+74	980	981	NOM	PER	fabulous suitors
+21	985	985	PROP	PER	Carol
+21	987	987	PRON	PER	she
+75	989	990	NOM	PER	an orphan
+21	992	992	PRON	PER	her
+76	992	995	NOM	PER	her only near relative
+77	997	1008	NOM	PER	a vanilla - flavored sister married to an optician in St. Paul
+78	1004	1008	NOM	PER	an optician in St. Paul
+3	1007	1008	PROP	GPE	St. Paul
+21	1010	1010	PRON	PER	She
+21	1018	1018	PRON	PER	her
+79	1018	1019	NOM	PER	her father
+80	1018	1021	NOM	FAC	her father ’s estate
+21	1023	1023	PRON	PER	She
+21	1042	1042	PRON	PER	She
+21	1045	1045	PRON	PER	her
+21	1050	1050	PRON	PER	she
+21	1057	1057	PRON	PER	she
+62	1061	1062	NOM	LOC	the world
+62	1067	1068	NOM	LOC	the world
+21	1073	1073	PRON	PER	she
+83	1078	1089	NOM	PER	Most of the girls who were not betrothed meant to be teachers
+84	1080	1089	NOM	PER	the girls who were not betrothed meant to be teachers
+85	1089	1089	NOM	PER	teachers
+124	1098	1155	NOM	PER	careless young women who admitted that they intended to leave the “ beastly classroom and grubby children ” the minute they had a chance to marry ; and studious , sometimes bulbous - browed and pop - eyed maidens who at class prayer - meetings requested God to “ guide their feet along the paths of greatest usefulness
+83	1104	1104	PRON	PER	they
+125	1108	1111	NOM	FAC	the “ beastly classroom
+83	1118	1118	PRON	PER	they
+29	1144	1144	PROP	PER	God
+83	1148	1148	PRON	PER	their
+21	1161	1161	PROP	PER	Carol
+86	1163	1164	NOM	PER	The former
+21	1172	1172	PRON	PER	hers
+87	1178	1180	NOM	PER	The earnest virgins
+21	1183	1183	PRON	PER	she
+87	1196	1196	PRON	PER	their
+30	1202	1203	PROP	PER	parsing Caesar
+21	1211	1211	PROP	PER	Carol
+88	1229	1231	NOM	PER	an unidentified hero
+21	1234	1234	PRON	PER	she
+89	1241	1243	NOM	PER	The sociology instructor
+89	1247	1247	PRON	PER	He
+89	1256	1256	PRON	PER	he
+12	1260	1260	PROP	GPE	Boston
+89	1262	1262	PRON	PER	he
+90	1266	1266	NOM	PER	poets
+91	1268	1268	NOM	PER	socialists
+31	1270	1270	PROP	PER	Jews
+92	1272	1280	NOM	PER	millionaire uplifters at the University Settlement in New York
+93	1275	1280	NOM	FAC	the University Settlement in New York
+13	1279	1280	PROP	GPE	New York
+89	1283	1283	PRON	PER	he
+89	1291	1291	PRON	PER	He
+94	1297	1298	NOM	FAC	the prisons
+95	1304	1311	NOM	ORG	the employment agencies of Minneapolis and St. Paul
+2	1308	1308	PROP	GPE	Minneapolis
+3	1310	1311	PROP	GPE	St. Paul
+21	1320	1320	PROP	PER	Carol
+96	1328	1329	NOM	PER	the others
+96	1331	1331	PRON	PER	their
+97	1336	1337	NOM	PER	the poor
+98	1340	1341	NOM	FAC	a Zoo
+21	1343	1343	PRON	PER	She
+21	1345	1345	PRON	PER	herself
+21	1350	1350	PRON	PER	She
+21	1352	1352	PRON	PER	her
+21	1355	1355	PRON	PER	her
+21	1358	1358	PRON	PER	her
+21	1365	1365	PRON	PER	her
+99	1377	1381	NOM	PER	A classmate named Stewart Snyder
+32	1380	1381	PROP	PER	Stewart Snyder
+100	1383	1408	NOM	PER	a competent bulky young man in a gray flannel shirt , a rusty black bow tie , and the green - and - purple class cap
+21	1412	1412	PRON	PER	her
+101	1414	1414	PRON	PER	they
+102	1420	1427	NOM	FAC	the muck of the South St. Paul stockyards
+103	1423	1427	NOM	FAC	the South St. Paul stockyards
+126	1430	1432	NOM	PER	These college chumps
+101	1434	1434	PRON	PER	me
+126	1437	1437	PRON	PER	They
+126	1444	1444	PRON	PER	They
+127	1450	1451	NOM	FAC	the farm
+101	1455	1455	PRON	PER	I
+128	1458	1459	NOM	PER	These workmen
+128	1464	1464	PRON	PER	them
+21	1468	1468	PRON	PER	I
+129	1471	1472	NOM	PER	common workmen
+21	1476	1476	PROP	PER	Carol
+21	1480	1480	PRON	PER	you
+130	1486	1488	NOM	PER	that common workmen
+126	1492	1492	PRON	PER	they
+21	1498	1498	PRON	PER	You
+21	1502	1502	PRON	PER	I
+21	1506	1506	PROP	PER	Carol
+21	1522	1522	PRON	PER	Her
+62	1525	1526	NOM	LOC	the world
+32	1528	1529	PROP	PER	Stewart Snyder
+21	1532	1532	PRON	PER	her
+32	1534	1534	PRON	PER	He
+32	1536	1536	PRON	PER	his
+32	1541	1541	PRON	PER	his
+32	1544	1544	PRON	PER	he
+32	1549	1549	PRON	PER	he
+105	1554	1554	PRON	PER	them
+32	1557	1557	PRON	PER	his
+32	1560	1560	PRON	PER	him
+32	1563	1563	PRON	PER	he
+32	1567	1567	PRON	PER	I
+21	1570	1570	PRON	PER	You
+131	1573	1574	NOM	PER	_ people
+21	1584	1584	PROP	PER	Carol
+21	1586	1586	PRON	PER	you
+132	1592	1592	NOM	PER	people
+21	1601	1601	PRON	PER	you
+21	1609	1609	PRON	PER	you
+21	1613	1613	PRON	PER	you
+133	1615	1616	NOM	PER	a lawyer
+134	1615	1618	NOM	PER	a lawyer ’s wife
+21	1620	1620	PRON	PER	You
+134	1623	1623	PRON	PER	his
+135	1623	1624	NOM	PER	his clients
+32	1626	1626	PRON	PER	I
+133	1631	1632	NOM	PER	a lawyer
+32	1634	1634	PRON	PER	I
+32	1636	1636	PRON	PER	I
+32	1643	1643	PRON	PER	I
+132	1651	1651	NOM	PER	people
+21	1659	1659	PRON	PER	You
+138	1664	1669	NOM	PER	a fellow that was too serious
+138	1672	1672	PRON	PER	him
+21	1677	1677	PRON	PER	YOU
+106	1683	1683	PRON	PER	His
+106	1688	1688	PRON	PER	his
+106	1694	1694	PRON	PER	her
+106	1697	1697	PRON	PER	him
+106	1702	1702	PRON	PER	She
+106	1710	1710	PRON	PER	his
+106	1713	1713	PRON	PER	She
+107	1728	1728	PRON	PER	them
+106	1731	1731	PRON	PER	She
+32	1735	1735	PROP	PER	Stewart
+32	1740	1740	PRON	PER	He
+32	1749	1749	PRON	PER	he
+107	1754	1755	NOM	PER	celebrated reformers
+106	1757	1757	PRON	PER	She
+108	1765	1771	NOM	FAC	a cell in a settlement - house
+109	1768	1771	NOM	FAC	a settlement - house
+110	1774	1775	NOM	PER	a nun
+33	1790	1791	PROP	PER	Bernard Shaw
+111	1796	1800	NOM	PER	a horde of grateful poor
+106	1808	1808	PRON	PER	her
+112	1821	1821	NOM	GPE	town
+113	1824	1824	NOM	PER	girls
+114	1824	1826	NOM	FAC	girls ’ clubs
+14	1838	1838	PROP	GPE	France
+15	1840	1841	PROP	GPE	New England
+16	1843	1843	PROP	GPE	Pennsylvania
+106	1845	1845	PRON	PER	She
+106	1857	1857	PRON	PER	she
+106	1861	1861	PRON	PER	her
+106	1871	1871	PRON	PER	She
+106	1879	1879	PRON	PER	her
+106	1885	1885	PRON	PER	her
+106	1895	1895	PRON	PER	her
+106	1899	1899	PRON	PER	her
+106	1902	1902	PRON	PER	She
+106	1908	1908	PRON	PER	she
+106	1912	1912	PRON	PER	her
+115	1918	1921	NOM	FAC	a Blodgett College room
+113	1932	1932	NOM	PER	girls
+117	1938	1939	NOM	FAC	the Coliseum
+21	1974	1974	PROP	PER	Carol
+118	1976	1977	NOM	FAC	the room
+106	1979	1979	PRON	PER	She
+119	1985	1988	NOM	PER	generations of girl students
+120	1987	1988	NOM	PER	girl students
+106	2000	2000	PRON	PER	she
+106	2010	2010	PRON	PER	she
+106	2015	2015	PRON	PER	She
+106	2021	2021	PRON	PER	She
+106	2035	2035	PRON	PER	her
+106	2043	2043	PRON	PER	She
+106	2050	2050	PRON	PER	I
+123	2054	2054	NOM	FAC	college
+106	2056	2056	PRON	PER	I
+106	2059	2059	PRON	PER	my
+140	2064	2066	NOM	GPE	these prairie towns
+106	2076	2076	PRON	PER	I
+106	2078	2078	PRON	PER	I
+141	2082	2083	NOM	PER	a teacher
+106	2088	2088	PRON	PER	I
+141	2095	2096	NOM	PER	a teacher
+106	2098	2098	PRON	PER	I
+143	2105	2105	PRON	PER	they
+144	2108	2113	NOM	FAC	the garden suburbs on Long Island
+17	2112	2113	PROP	GPE	Long Island
+145	2115	2115	NOM	PER	Nobody
+146	2120	2126	NOM	GPE	the ugly towns here in the Northwest
+147	2125	2126	NOM	LOC	the Northwest
+106	2139	2139	PRON	PER	I
+148	2143	2143	PRON	PER	em
+149	2151	2152	NOM	FAC	darling cottages
+18	2157	2158	PROP	FAC	Main Street

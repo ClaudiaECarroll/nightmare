@@ -1,0 +1,244 @@
+{
+  "threshold": 0.9,
+  "TP": 45,
+  "FP": 1,
+  "FN": 0,
+  "n_pred": 46,
+  "n_gold": 45,
+  "matched_gold": 45,
+  "precision": 0.9782608695652174,
+  "recall": 1.0,
+  "f1": 0.989010989010989,
+  "predictions": [
+    {
+      "string": "Goodnighttee,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodnight,SirJohn,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Now,sir,beggingyourpardon;wemetlastmarket-dayonthisroadaboutthistime,andIsaidGoodnight,andyoumadereply_Goodnight,SirJohn_,asnow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idid,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andoncebeforethat--nearamonthago.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imayhave.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThenwhatmightyourmeaningbeincallingmeSirJohnthesedifferenttimes,whenIbeplainJackDurbeyfield,thehaggler?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itwasonlymywhim,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ItwasonaccountofadiscoveryImadesomelittletimeago,whilstIwashuntinguppedigreesforthenewcountyhistory.IamParsonTringham,theantiquary,ofStagfootLane.Dontyoureallyknow,Durbeyfield,thatyouarethelinealrepresentativeoftheancientandknightlyfamilyofthedUrbervilles,whoderivetheirdescentfromSirPagandUrberville,thatrenownedknightwhocamefromNormandywithWilliamtheConqueror,asappearsbyBattleAbbeyRoll?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Neverhearditbefore,sir!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wellitstrue.Throwupyourchinamoment,sothatImaycatchtheprofileofyourfacebetter.Yes,thatsthedUrbervillenoseandchin--alittledebased.YourancestorwasoneofthetwelveknightswhoassistedtheLordofEstremavillainNormandyinhisconquestofGlamorganshire.BranchesofyourfamilyheldmanorsoverallthispartofEngland;theirnamesappearinthePipeRollsinthetimeofKingStephen.InthereignofKingJohnoneofthemwasrichenoughtogiveamanortotheKnightsHospitallers;andinEdwardtheSecondstimeyourforefatherBrianwassummonedtoWestminstertoattendthegreatCouncilthere.YoudeclinedalittleinOliverCromwellstime,buttonoseriousextent,andinCharlestheSecondsreignyouweremadeKnightsoftheRoyalOakforyourloyalty.Aye,therehavebeengenerationsofSirJohnsamongyou,andifknighthoodwerehereditary,likeabaronetcy,asitpracticallywasinoldtimes,whenmenwereknightedfromfathertoson,youwouldbeSirJohnnow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yedontsayso!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inshort,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thereshardlysuchanotherfamilyinEngland.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dazemyeyes,andisntthere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndherehaveIbeenknockingabout,yearafteryear,frompillartopost,asifIwasnomorethanthecommonestfellerintheparish...Andhowlonghevthisnewsaboutmebeenknowed,PasonTringham?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AtfirstIresolvednottodisturbyouwithsuchauselesspieceofinformation,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "However,ourimpulsesaretoostrongforourjudgementsometimes.Ithoughtyoumightperhapsknowsomethingofitallthewhile.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Ihaveheardonceortwice,tistrue,thatmyfamilyhadseenbetterdaysaforetheycametoBlackmoor.ButItooknonoticeot,thinkingittomeanthatwehadoncekepttwohorseswherewenowkeeponlyone.Ivegotawoldsilverspoon,andawoldgravensealathome,too;but,Lord,whatsaspoonandseal?...AndtothinkthatIandthesenobledUrbervilleswereonefleshallthetime.Twassaidthatmygrt-granferhadsecrets,anddidntcaretotalkofwherehecamefrom...Andwheredoweraiseoursmoke,now,parson,ifImaymakesobold;Imean,wheredowedUrbervilleslive?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youdontliveanywhere.Youareextinct--asacountyfamily.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsbad.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes--whatthemendaciousfamilychroniclescallextinctinthemaleline--thatis,gonedown--goneunder.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thenwheredowelie?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AtKingsbere-sub-Greenhill:rowsandrowsofyouinyourvaults,withyoureffigiesunderPurbeck-marblecanopies.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andwherebeourfamilymansionsandestates?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhaventany.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh?Nolandsneither?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "None;thoughyouoncehademinabundance,asIsaid,foryoufamilyconsistedofnumerousbranches.InthiscountytherewasaseatofyoursatKingsbere,andanotheratSherton,andanotherinMillpond,andanotheratLullstead,andanotheratWellbridge.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andshallweevercomeintoourownagain?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah--thatIcanttell!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndwhathadIbetterdoaboutit,sir?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh--nothing,nothing;exceptchastenyourselfwiththethoughtofhowarethemightyfallen.Itisafactofsomeinteresttothelocalhistorianandgenealogist,nothingmore.Thereareseveralfamiliesamongthecottagersofthiscountyofalmostequallustre.Goodnight.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butyoullturnbackandhaveaquartofbeerwimeonthestrengthot,PasonTringham?TheresaveryprettybrewintapatThePureDrop--though,tobesure,notsogoodasatRollivers.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,thankyou--notthisevening,Durbeyfield.Youvehadenoughalready.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Boy,takeupthatbasket!Iwanteetogoonanerrandforme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whobeyou,then,JohnDurbeyfield,toordermeaboutandcallmeboy?YouknowmynameaswellasIknowyours!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Doyou,doyou?Thatsthesecret--thatsthesecret!Nowobeymyorders,andtakethemessageImgoingtochargeeewi...Well,Fred,IdontmindtellingyouthatthesecretisthatImoneofanoblerace--ithasbeenjustfoundoutbymethispresentafternoon,P.M.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SirJohndUrberville--thatswhoIam,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatisifknightswerebaronets--whichtheybe.Tisrecordedinhistoryallaboutme.Dostknowofsuchaplace,lad,asKingsbere-sub-Greenhill?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ees.IvebeentheretoGreenhillFair.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,underthechurchofthatcitytherelie--",
+      "best_similarity": 0.3871,
+      "correct": false
+    },
+    {
+      "string": "Tisntacity,theplaceImean;leastwisetwaddnwhenIwasthere--twasalittleone-eyed,blinkingsortoplace.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Neveryoumindtheplace,boy,thatsnotthequestionbeforeus.Underthechurchofthatthereparishliemyancestors--hundredsofem--incoatsofmailandjewels,ingrtleadcoffinsweighingtonsandtons.TheresnotamaninthecountyoSouth-WessexthatsgotgranderandnoblerskillentonsinhisfamilythanI.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowtakeupthatbasket,andgooontoMarlott,andwhenyouvecometoThePureDropInn,tellemtosendahorseandcarriagetomeimmedately,tocarrymehwome.Andinthebottomothecarriagetheybetoputanogginoruminasmallbottle,andchalkituptomyaccount.Andwhenyouvedonethatgooontomyhousewiththebasket,andtellmywifetoputawaythatwashing,becausesheneedntfinishit,andwaittillIcomehwome,asIvenewstotellher.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Heresforyourlabour,lad.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

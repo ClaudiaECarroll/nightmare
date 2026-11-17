@@ -1,0 +1,215 @@
+COREF	start_token	end_token	prop	cat	text
+19	2	3	PROP	PER	Mrs Gildea
+19	8	8	PRON	PER	her
+19	14	14	PRON	PER	she
+19	21	21	PRON	PER	her
+38	21	26	NOM	FAC	her cottage in Leichardt 's Town
+1	24	26	PROP	GPE	Leichardt 's Town
+38	28	28	PRON	FAC	It
+39	30	46	NOM	FAC	a primitive cottage of the old style , standing in a garden and built on the cliff
+40	40	41	NOM	FAC	a garden
+41	45	46	NOM	LOC	the cliff
+2	54	57	PROP	LOC	the broad Leichardt River
+42	59	60	NOM	FAC	The veranda
+43	76	77	NOM	FAC	the cottage
+44	90	91	NOM	FAC	a bathroom
+42	110	111	NOM	FAC	the veranda
+20	153	154	PROP	PER	Joan Gildea
+3	164	165	PROP	FAC	Covent Garden
+42	190	191	NOM	FAC	the veranda
+19	194	195	PROP	PER	Mrs Gildea
+19	198	198	PRON	PER	herself
+19	200	200	PRON	PER	her
+42	260	261	NOM	FAC	the veranda
+42	285	286	NOM	FAC	the veranda
+49	308	311	NOM	FAC	the veranda and garden
+50	325	328	NOM	FAC	the store - room
+51	343	345	NOM	FAC	miscellaneous garden produce
+52	373	374	NOM	FAC	The garden
+53	410	411	NOM	FAC	the gardenias
+52	459	460	NOM	FAC	the garden
+55	486	487	NOM	LOC	the river
+19	491	492	PROP	PER	Mrs Gildea
+19	495	495	PRON	PER	she
+55	505	506	NOM	LOC	the river
+55	508	508	PRON	LOC	it
+4	510	511	PROP	LOC	Emu Point
+1	522	524	PROP	GPE	Leichardt 's Town
+55	526	527	NOM	LOC	the river
+58	548	550	NOM	GPE	the whole town
+55	559	560	NOM	LOC	the river
+19	564	565	PROP	PER	Mrs Gildea
+60	571	577	NOM	FAC	the main street in the Middle Point
+61	575	577	NOM	FAC	the Middle Point
+62	582	584	NOM	FAC	shops and offices
+63	586	596	NOM	FAC	The busy wharves of the Leichardt 's Land Steam Navigation Company
+5	590	591	PROP	VEH	the Leichardt
+6	590	596	PROP	FAC	the Leichardt 's Land Steam Navigation Company
+19	605	605	PRON	PER	her
+64	612	613	NOM	LOC	the water
+19	615	615	PRON	PER	she
+65	632	634	NOM	FAC	the Botanical Gardens
+66	648	651	NOM	FAC	the big Parliamentary Buildings
+67	658	659	NOM	GPE	the town
+55	667	668	NOM	LOC	the river
+69	674	682	NOM	FAC	the shady veranda and over - grown old garden
+20	701	702	PROP	PER	Joan Gildea
+20	707	707	PRON	PER	her
+70	714	715	NOM	LOC	English soil
+20	745	745	PRON	PER	her
+71	745	746	NOM	PER	her youth
+72	748	749	NOM	PER	a widow
+73	751	753	NOM	PER	a working journalist
+20	759	759	PRON	PER	her
+20	763	763	PRON	PER	Her
+74	763	764	NOM	PER	Her typewriter
+20	771	771	PRON	PER	her
+21	776	777	PROP	PER	Australian Hansards
+20	797	797	PRON	PER	her
+20	810	810	PRON	PER	her
+20	822	822	PRON	PER	her
+20	881	881	PRON	PER	She
+20	893	893	PRON	PER	her
+75	897	898	NOM	PER	THE IMPERIALIST
+20	913	913	PRON	PER	she
+20	926	926	PRON	PER	her
+76	934	935	NOM	PER	the editor
+22	939	941	PROP	PER	the great Gibbs
+22	963	964	PROP	PER	Mr Gibbs
+20	967	968	PROP	PER	Joan Gildea
+22	971	971	PRON	PER	his
+77	971	972	NOM	PER	his staff
+7	990	990	PROP	GPE	Australia
+20	1004	1004	PRON	PER	her
+20	1011	1011	PRON	PER	she
+8	1038	1039	PROP	LOC	Canadian Pacific
+22	1041	1042	PROP	PER	Mr Gibbs
+7	1049	1049	PROP	GPE	Australia
+22	1051	1051	PRON	PER	his
+78	1051	1053	NOM	PER	his special correspondent
+23	1067	1069	PROP	PER	Mr Joseph Chamberlain
+24	1080	1081	PROP	PER	Yellow Labour
+79	1102	1106	NOM	PER	THE IMPERIALIST 's Special Correspondent
+79	1110	1110	PRON	PER	She
+79	1123	1123	PRON	PER	her
+79	1128	1128	PRON	PER	She
+19	1158	1158	PRON	PER	I
+19	1166	1166	PRON	PER	I
+19	1180	1180	PRON	PER	I
+22	1197	1197	PROP	PER	Gibbs
+100	1210	1212	NOM	PER	a local artist
+19	1214	1214	PRON	PER	I
+25	1217	1218	PROP	PER	Colin McKeith
+19	1221	1221	PRON	PER	me
+26	1227	1227	PROP	PER	goodness
+19	1230	1230	PROP	PER	Biddy
+19	1232	1232	PRON	PER	me
+19	1236	1236	PRON	PER	she
+19	1244	1244	PRON	PER	me
+19	1249	1249	PRON	PER	she
+19	1255	1255	PRON	PER	I
+101	1259	1260	NOM	PER	a Man
+19	1265	1265	PRON	PER	I
+19	1270	1270	PRON	PER	her
+19	1280	1280	PRON	PER	me
+19	1284	1285	PROP	PER	Mrs Gildea
+19	1289	1289	PRON	PER	she
+19	1320	1320	PRON	PER	she
+19	1322	1322	PRON	PER	her
+27	1331	1333	PROP	PER	Lady Bridget O'Hara
+28	1337	1340	PROP	PER	Eliza Countess of Gaverick
+9	1342	1344	PROP	FAC	Upper Brook Street
+10	1346	1346	PROP	GPE	London
+29	1348	1348	PROP	PER	W.
+28	1355	1355	PRON	PER	she
+28	1357	1357	PRON	PER	her
+80	1387	1388	NOM	PER	the postman
+81	1391	1394	NOM	FAC	the short garden path
+19	1404	1405	PROP	PER	Mrs Gildea
+19	1411	1411	PRON	PER	you
+80	1414	1414	PRON	PER	He
+82	1443	1450	NOM	PER	the porter of Mrs Gildea 's London flat
+19	1446	1447	PROP	PER	Mrs Gildea
+83	1446	1450	NOM	FAC	Mrs Gildea 's London flat
+10	1449	1449	PROP	GPE	London
+80	1468	1468	PRON	PER	he
+80	1472	1472	PRON	PER	his
+80	1476	1476	PRON	PER	My
+19	1479	1480	PROP	PER	Mrs Gildea
+102	1495	1495	PRON	PER	their
+102	1500	1500	PRON	PER	they
+11	1534	1538	PROP	FAC	British Legations and Government Houses
+84	1540	1542	NOM	PER	the Special Correspondent
+28	1552	1552	PRON	PER	her
+12	1570	1572	PROP	GPE	Leichardt 's Land
+19	1574	1575	PROP	PER	Mrs Gildea
+27	1585	1587	PROP	PER	Lady Bridget O'Hara
+27	1591	1591	PROP	PER	Biddy
+19	1596	1596	PRON	PER	she
+19	1619	1619	PRON	PER	she
+22	1627	1628	PROP	PER	Mr Gibbs
+19	1635	1635	PRON	PER	she
+22	1638	1638	PRON	PER	he
+22	1643	1643	PRON	PER	him
+19	1648	1648	PRON	PER	her
+85	1648	1650	NOM	FAC	her London flat
+10	1649	1649	PROP	GPE	London
+19	1664	1664	PRON	PER	she
+86	1670	1670	NOM	PER	One
+5	1677	1677	PROP	PER	Leichardt
+13	1688	1688	PROP	GPE	Rome
+14	1695	1695	PROP	GPE	Vancouver
+19	1702	1702	PRON	PER	her
+19	1724	1724	PRON	PER	she
+19	1732	1732	PRON	PER	her
+19	1741	1742	PROP	PER	Mrs Gildea
+87	1746	1750	NOM	PER	a freely paragraphed newspaper correspondent
+19	1765	1767	PROP	PER	BIDDY Mrs Gildea
+19	1776	1776	PRON	PER	her
+101	1792	1793	NOM	PER	a MAN
+19	1795	1795	PRON	PER	She
+19	1800	1800	PROP	PER	Biddy
+19	1821	1821	PRON	PER	she
+27	1826	1827	PROP	PER	Lady Bridget
+27	1862	1862	PRON	PER	she
+27	1872	1872	PRON	PER	she
+27	1883	1883	PRON	PER	her
+89	1883	1884	NOM	PER	her aunt
+28	1885	1888	PROP	PER	Eliza Countess of Gaverick
+19	1908	1909	PROP	PER	Mrs Gildea
+90	1921	1921	PRON	PER	their
+91	1930	1944	NOM	FAC	a house in South Belgravia , where lived Sir Luke Tallant of the Colonial Office
+15	1933	1934	PROP	GPE	South Belgravia
+31	1938	1940	PROP	PER	Sir Luke Tallant
+92	1942	1944	NOM	FAC	the Colonial Office
+32	1946	1946	PROP	PER	Rosamond
+31	1947	1947	PRON	PER	his
+93	1947	1948	NOM	PER	his wife
+33	1953	1954	PROP	PER	the Gavericks
+27	1956	1957	PROP	PER	Lady Bridget
+94	1983	1983	NOM	PER	author
+95	1991	1991	PRON	PER	them
+34	2021	2022	PROP	PER	Dearest Joan
+96	2024	2024	PRON	PER	You
+0	2028	2028	PRON	PER	my
+14	2031	2031	PROP	PER	Vancouver
+0	2035	2035	PRON	PER	I
+0	2038	2038	PRON	PER	I
+13	2042	2042	PROP	GPE	Rome
+0	2046	2046	PRON	PER	I
+16	2050	2050	PROP	GPE	Montreux
+36	2052	2052	PROP	PER	Chris
+37	2054	2054	PROP	PER	Molly
+0	2058	2058	PRON	PER	I
+17	2062	2062	PROP	GPE	England
+97	2064	2064	PRON	PER	them
+0	2066	2066	PRON	PER	I
+36	2082	2082	PROP	PER	Chris
+37	2084	2084	PROP	PER	Molly
+98	2110	2137	NOM	FAC	second - rate country houses and cadging on their London friends gets on my nerves to such an extent that Luke and Rosamond 's established " Colonial Office
+97	2118	2118	PRON	PER	their
+99	2118	2120	NOM	PER	their London friends
+0	2123	2123	PRON	PER	my
+31	2130	2130	PROP	PER	Luke
+32	2132	2132	PROP	PER	Rosamond
+18	2132	2137	PROP	FAC	Rosamond 's established " Colonial Office

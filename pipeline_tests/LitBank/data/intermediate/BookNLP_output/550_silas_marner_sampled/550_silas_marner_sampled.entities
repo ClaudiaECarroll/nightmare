@@ -1,0 +1,231 @@
+COREF	start_token	end_token	prop	cat	text
+0	1	1	PRON	PER	I
+12	13	14	NOM	FAC	the farmhouses
+13	18	19	NOM	PER	great ladies
+13	30	30	PRON	PER	their
+14	48	49	NOM	FAC	the lanes
+15	57	58	NOM	LOC	the hills
+16	60	75	NOM	PER	certain pallid undersized men , who , by the side of the brawny country - folk
+17	71	75	NOM	LOC	the brawny country - folk
+18	86	87	NOM	PER	The shepherd
+19	95	99	NOM	PER	these alien - looking men
+20	102	103	NOM	LOC	the upland
+21	116	125	NOM	PER	a figure bent under a heavy bag?--and these pale men
+18	136	136	PRON	PER	himself
+18	139	139	PRON	PER	he
+22	191	193	NOM	PER	the Evil One
+23	205	206	NOM	PER	every person
+24	234	235	NOM	PER	No one
+25	238	239	NOM	PER	wandering men
+25	241	241	PRON	PER	their
+26	241	242	NOM	FAC	their homes
+25	244	244	PRON	PER	their
+27	250	251	NOM	PER	a man
+28	256	256	PRON	PER	you
+29	260	266	NOM	PER	somebody who knew his father and mother
+29	263	263	PRON	PER	his
+30	263	266	NOM	PER	his father and mother
+31	266	266	NOM	PER	mother
+32	269	273	NOM	PER	the peasants of old times
+33	275	281	NOM	LOC	the world outside their own direct experience
+32	278	278	PRON	PER	their
+34	283	288	NOM	LOC	a region of vagueness and mystery
+32	291	291	PRON	PER	their
+35	319	320	NOM	PER	a settler
+35	323	323	PRON	PER	he
+35	355	355	PRON	PER	his
+35	368	368	PRON	PER	he
+36	404	404	NOM	PER	villagers
+37	411	420	NOM	PER	honest folk , born and bred in a visible manner
+37	464	464	PRON	PER	they
+38	488	489	NOM	GPE	the town
+39	491	492	NOM	LOC	the country
+32	502	502	PRON	PER	their
+40	502	504	NOM	PER	their rustic neighbours
+2	535	536	PROP	PER	Silas Marner
+2	540	540	PRON	PER	his
+41	543	556	NOM	FAC	a stone cottage that stood among the nutty hedgerows near the village of Raveloe
+42	553	556	NOM	GPE	the village of Raveloe
+1	556	556	PROP	GPE	Raveloe
+43	565	569	NOM	FAC	a deserted stone - pit
+2	575	575	PROP	PER	Silas
+44	606	628	NOM	PER	the Raveloe boys , who would often leave off their nutting or birds'-nesting to peep in at the window of the stone cottage
+44	615	615	PRON	PER	their
+45	626	628	NOM	FAC	the stone cottage
+46	669	670	NOM	PER	the weaver
+2	677	677	PROP	PER	Marner
+2	685	685	PRON	PER	his
+2	700	700	PRON	PER	his
+2	703	703	PRON	PER	he
+44	705	705	PRON	PER	their
+2	710	710	PRON	PER	he
+2	714	714	PRON	PER	his
+44	726	726	PRON	PER	them
+44	735	735	PRON	PER	them
+44	738	738	PRON	PER	their
+2	757	758	PROP	PER	Silas Marner
+44	772	772	PRON	PER	them
+44	778	778	PRON	PER	their
+47	793	801	NOM	PER	any boy who happened to be in the rear
+44	803	803	PRON	PER	They
+44	809	809	PRON	PER	their
+48	809	810	NOM	PER	their fathers
+49	812	812	NOM	PER	mothers
+2	815	816	PROP	PER	Silas Marner
+50	819	819	NOM	PER	folks
+2	823	823	PRON	PER	he
+51	837	837	PRON	PER	you
+2	846	846	PRON	PER	he
+51	849	849	PRON	PER	you
+52	853	854	NOM	PER	the doctor
+53	873	881	NOM	PER	the diligent listener among the grey - haired peasantry
+54	877	881	NOM	PER	the grey - haired peasantry
+55	931	958	NOM	PER	men who have always been pressed close by primitive wants , and to whom a life of hard toil has never been illuminated by any enthusiastic religious faith
+55	961	961	PRON	PER	them
+55	977	977	PRON	PER	their
+56	999	1001	NOM	LOC	a perpetual pasture
+113	1009	1009	PRON	PER	you
+113	1013	1013	PRON	PER	you
+0	1020	1020	PRON	PER	I
+57	1024	1034	NOM	PER	an old labouring man , who was in his last illness
+57	1032	1032	PRON	PER	his
+57	1043	1043	PRON	PER	his
+58	1043	1044	NOM	PER	his wife
+57	1047	1047	PRON	PER	him
+57	1053	1053	PRON	PER	he
+57	1057	1057	PRON	PER	I
+57	1069	1069	PRON	PER	I
+57	1082	1082	PRON	PER	him
+1	1092	1092	PROP	PER	Raveloe
+59	1094	1107	NOM	GPE	a village where many of the old echoes lingered , undrowned by new voices
+60	1113	1133	NOM	GPE	one of those barren parishes lying on the outskirts of civilization -- inhabited by meagre sheep and thinly - scattered shepherds
+61	1120	1133	NOM	LOC	the outskirts of civilization -- inhabited by meagre sheep and thinly - scattered shepherds
+62	1127	1133	NOM	PER	meagre sheep and thinly - scattered shepherds
+63	1148	1148	PRON	PER	we
+4	1153	1154	PROP	PER	Merry England
+64	1158	1167	NOM	LOC	farms which , speaking from a spiritual point of view
+65	1180	1185	NOM	LOC	a snug well - wooded hollow
+66	1195	1196	NOM	FAC	any turnpike
+65	1217	1217	PRON	FAC	It
+67	1219	1342	NOM	GPE	an important - looking village , with a fine old church and large churchyard in the heart of it , and two or three large brick - and - stone homesteads , with well - walled orchards and ornamental weathercocks , standing close upon the road , and lifting more imposing fronts than the rectory , which peeped from among the trees on the other side of the churchyard:--a village which showed at once the summits of its social life , and told the practised eye that there was no great park and manor - house in the vicinity , but that there were several chiefs in Raveloe who could farm badly quite at their ease , drawing enough money from their bad farming
+68	1226	1237	NOM	FAC	a fine old church and large churchyard in the heart of it
+65	1237	1237	PRON	FAC	it
+69	1242	1264	NOM	FAC	three large brick - and - stone homesteads , with well - walled orchards and ornamental weathercocks , standing close upon the road
+70	1263	1264	NOM	FAC	the road
+71	1272	1273	NOM	FAC	the rectory
+72	1286	1298	NOM	FAC	the churchyard:--a village which showed at once the summits of its social life
+72	1296	1296	PRON	GPE	its
+73	1308	1317	NOM	FAC	no great park and manor - house in the vicinity
+74	1316	1317	NOM	LOC	the vicinity
+75	1323	1342	NOM	PER	several chiefs in Raveloe who could farm badly quite at their ease , drawing enough money from their bad farming
+1	1326	1326	PROP	GPE	Raveloe
+75	1333	1333	PRON	PER	their
+75	1340	1340	PRON	PER	their
+5	1362	1362	PROP	PER	Whitsun
+2	1373	1374	PROP	PER	Silas Marner
+1	1379	1379	PROP	GPE	Raveloe
+2	1381	1381	PRON	PER	he
+76	1385	1388	NOM	PER	a pallid young man
+77	1406	1411	NOM	PER	people of average culture and experience
+78	1415	1436	NOM	PER	the villagers near whom he had come to settle it had mysterious peculiarities which corresponded with the exceptional nature of his occupation
+2	1419	1419	PRON	PER	he
+2	1435	1435	PRON	PER	his
+2	1439	1439	PRON	PER	his
+114	1442	1448	NOM	LOC	an unknown region called " North'ard "
+2	1452	1452	PRON	PER	his
+79	1457	1458	NOM	PER	no comer
+2	1462	1462	PRON	PER	his
+2	1468	1468	PRON	PER	he
+80	1472	1473	NOM	GPE	the village
+2	1490	1490	PRON	PER	he
+81	1492	1493	NOM	PER	no man
+82	1495	1495	NOM	PER	woman
+2	1502	1502	PRON	PER	his
+2	1510	1510	PRON	PER	himself
+1	1520	1521	PROP	PER	the Raveloe
+2	1524	1524	PRON	PER	he
+83	1530	1530	PRON	PER	them
+2	1533	1533	PRON	PER	him
+82	1535	1535	PRON	PER	her
+2	1541	1541	PRON	PER	he
+83	1544	1544	PRON	PER	them
+83	1547	1547	PRON	PER	they
+84	1551	1553	NOM	PER	a dead man
+2	1562	1562	PROP	PER	Marner
+2	1571	1571	PRON	PER	his
+6	1579	1580	PROP	PER	Jem Rodney
+85	1582	1585	NOM	PER	the mole - catcher
+6	1592	1592	PRON	PER	he
+86	1595	1595	NOM	FAC	homeward
+6	1597	1597	PRON	PER	he
+2	1599	1600	PROP	PER	Silas Marner
+2	1610	1610	PRON	PER	his
+87	1622	1626	NOM	PER	a man in his senses
+2	1625	1625	PRON	PER	his
+2	1638	1638	PRON	PER	him
+2	1640	1640	PRON	PER	he
+2	1643	1643	PROP	PER	Marner
+84	1649	1651	NOM	PER	a dead man
+2	1655	1655	PRON	PER	he
+2	1658	1658	PRON	PER	him
+2	1662	1662	PRON	PER	him
+2	1665	1665	PRON	PER	his
+2	1671	1671	PRON	PER	his
+89	1678	1678	PRON	PER	they
+2	1688	1688	PRON	PER	he
+2	1692	1692	PRON	PER	his
+46	1695	1696	NOM	PER	the weaver
+46	1700	1700	PRON	PER	he
+91	1709	1709	PRON	PER	you
+6	1734	1734	PROP	PER	Jem
+6	1736	1736	PRON	PER	he
+6	1749	1749	PRON	PER	he
+7	1756	1757	PROP	PER	Squire Cass
+92	1763	1767	NOM	FAC	the old saw - pit
+93	1769	1769	NOM	PER	Some
+2	1771	1771	PROP	PER	Marner
+8	1794	1795	PROP	PER	Mr. Macey
+94	1797	1800	NOM	PER	clerk of the parish
+95	1799	1800	NOM	FAC	the parish
+8	1803	1803	PRON	PER	his
+96	1809	1809	NOM	PER	anybody
+27	1850	1851	NOM	PER	a man
+27	1856	1856	PRON	PER	him
+95	1858	1859	NOM	FAC	the parish
+27	1862	1862	PRON	PER	he
+99	1865	1866	NOM	PER	no children
+27	1882	1883	NOM	PER	a man
+27	1886	1886	PRON	PER	his
+101	1903	1903	PRON	PER	you
+9	1907	1907	PROP	PER	Gee
+27	1918	1919	NOM	PER	a man
+27	1925	1925	PRON	PER	his
+50	1948	1948	NOM	PER	folks
+50	1955	1955	PRON	PER	they
+104	1958	1958	NOM	FAC	school
+105	1960	1974	NOM	GPE	this shell - less state to those who could teach them more than their neighbours
+50	1970	1970	PRON	PER	them
+50	1973	1973	PRON	PER	their
+106	1973	1974	NOM	PER	their neighbours
+50	1978	1978	PRON	PER	their
+107	1982	1983	NOM	PER	the parson
+10	1988	1989	PROP	PER	Master Marner
+10	1991	1991	PRON	PER	his
+10	2002	2002	PRON	PER	he
+50	2006	2006	PRON	PER	them
+6	2009	2010	PROP	PER	Jem Rodney
+108	2023	2032	NOM	PER	anybody who had seen how Marner had cured Sally Oates
+10	2028	2028	PROP	PER	Marner
+11	2031	2032	PROP	PER	Sally Oates
+11	2036	2036	PRON	PER	her
+109	2039	2040	NOM	PER	a baby
+11	2043	2043	PRON	PER	her
+11	2051	2051	PRON	PER	her
+11	2061	2061	PRON	PER	she
+52	2065	2066	NOM	PER	the doctor
+10	2070	2070	PRON	PER	He
+111	2073	2074	NOM	PER	more folks
+10	2076	2076	PRON	PER	he
+10	2080	2080	PRON	PER	he
+10	2092	2092	PRON	PER	him
+112	2095	2095	PRON	PER	you

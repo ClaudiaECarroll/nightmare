@@ -1,0 +1,1022 @@
+T1	Quotation 3773 3793	"Wedlock suits you,"
+T2	Entity 3794 3796	he
+T3	Cue 3797 3805	remarked
+T4	Quotation 3807 3887	"I think, Watson, that you have put on seven and a half pounds since I saw you."
+T5	Quotation 3888 3896	"Seven!"
+T6	Entity 3897 3898	I
+T7	Cue 3899 3907	answered
+T8	Quotation 3909 4084	"Indeed, I should have thought a little more. Just a trifle more, I fancy, Watson. And in practice again, I observe. You did not tell me that you intended to go into harness."
+T9	Quotation 4085 4109	"Then, how do you know?"
+T10	Quotation 4110 4260	"I see it, I deduce it. How do I know that you have been getting yourself very wet lately, and that you have a most clumsy and careless servant girl?"
+T11	Quotation 4261 4278	"My dear Holmes,"
+T12	Cue 4279 4283	said
+T13	Entity 4284 4285	I
+T14	Quotation 4287 4655	"this is too much. You would certainly have been burned, had you lived a few centuries ago. It is true that I had a country walk on Thursday and came home in a dreadful mess, but as I have changed my clothes I can't imagine how you deduce it. As to Mary Jane, she is incorrigible, and my wife has given her notice, but there, again, I fail to see how you work it out."
+T15	Quotation 4724 4750	"It is simplicity itself,"
+T16	Cue 4751 4755	said
+T17	Entity 4756 4758	he
+T18	Quotation 4760 5544	"my eyes tell me that on the inside of your left shoe, just where the firelight strikes it, the leather is scored by six almost parallel cuts. Obviously they have been caused by someone who has very carelessly scraped round the edges of the sole in order to remove crusted mud from it. Hence, you see, my double deduction that you had been out in vile weather, and that you had a particularly malignant boot-slitting specimen of the London slavey. As to your practice, if a gentleman walks into my rooms smelling of iodoform, with a black mark of nitrate of silver upon his right forefinger, and a bulge on the right side of his top-hat to show where he has secreted his stethoscope, I must be dull, indeed, if I do not pronounce him to be an active member of the medical profession."
+T19	Quotation 5633 5669	"When I hear you give your reasons,"
+T20	Entity 5670 5671	I
+T21	Cue 5672 5680	remarked
+T22	Quotation 5682 5928	"the thing always appears to me to be so ridiculously simple that I could easily do it myself, though at each successive instance of your reasoning I am baffled until you explain your process. And yet I believe that my eyes are as good as yours."
+T23	Quotation 5929 5940	"Quite so,"
+T24	Entity 5941 5943	he
+T25	Cue 5944 5952	answered
+T26	Quotation 6020 6170	"You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room."
+T27	Quotation 6171 6184	"Frequently."
+T28	Quotation 6185 6197	"How often?"
+T29	Quotation 6198 6229	"Well, some hundreds of times."
+T30	Quotation 6230 6256	"Then how many are there?"
+T31	Quotation 6257 6282	"How many? I don't know."
+T32	Quotation 6283 6622	"Quite so! You have not observed. And yet you have seen. That is just my point. Now, I know that there are seventeen steps, because I have both seen and observed. By-the-way, since you are interested in these little problems, and since you are good enough to chronicle one or two of my trifling experiences, you may be interested in this."
+T33	Quotation 6720 6747	"It came by the last post,"
+T34	Cue 6748 6752	said
+T35	Entity 6753 6755	he
+T36	Quotation 6757 6773	"Read it aloud."
+T37	Quotation 7330 7357	"This is indeed a mystery,"
+T38	Entity 7358 7359	I
+T39	Cue 7360 7368	remarked
+T40	Quotation 7370 7406	"What do you imagine that it means?"
+T41	Quotation 7407 7624	"I have no data yet. It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts. But the note itself. What do you deduce from it?"
+T42	Quotation 7700 7749	"The man who wrote it was presumably well to do,"
+T43	Entity 7750 7751	I
+T44	Cue 7752 7760	remarked
+T45	Quotation 7812 7908	"Such paper could not be bought under half a crown a packet. It is peculiarly strong and stiff."
+T46	Quotation 7909 7944	"Peculiar-- that is the very word,"
+T47	Cue 7945 7949	said
+T48	Entity 7950 7956	Holmes
+T49	Quotation 7958 8019	"It is not an English paper at all. Hold it up to the light."
+T50	Quotation 8145 8172	"What do you make of that?"
+T51	Cue 8173 8178	asked
+T52	Entity 8179 8185	Holmes
+T53	Quotation 8187 8246	"The name of the maker, no doubt; or his monogram, rather."
+T54	Quotation 8247 8493	"Not at all. The 'G' with the small 't' stands for 'Gesellschaft,' which is the German for 'Company.' It is a customary contraction like our 'Co.' 'P,' of course, stands for 'Papier.' Now for the 'Eg.' Let us glance at our Continental Gazetteer."
+T55	Quotation 8546 8814	"Eglow, Eglonitz-- here we are, Egria. It is in a German-speaking country-- in Bohemia, not far from Carlsbad. 'Remarkable as being the scene of the death of Wallenstein, and for its numerous glass-factories and paper-mills.' Ha, ha, my boy, what do you make of that?"
+T56	Quotation 8899 8931	"The paper was made in Bohemia,"
+T57	Entity 8932 8933	I
+T58	Cue 8934 8938	said
+T59	Quotation 8940 9432	"Precisely. And the man who wrote the note is a German. Do you note the peculiar construction of the sentence-- 'This account of you we have from all quarters received.' A Frenchman or Russian could not have written that. It is the German who is so uncourteous to his verbs. It only remains, therefore, to discover what is wanted by this German who writes upon Bohemian paper and prefers wearing a mask to showing his face. And here he comes, if I am not mistaken, to resolve all our doubts."
+T60	Quotation 9580 9603	"A pair, by the sound,"
+T61	Cue 9604 9608	said
+T62	Entity 9609 9611	he
+T63	Quotation 9613 9619	"Yes,"
+T64	Entity 9620 9622	he
+T65	Cue 9623 9632	continued
+T66	Quotation 9662 9808	"A nice little brougham and a pair of beauties. A hundred and fifty guineas apiece. There's money in this case, Watson, if there is nothing else."
+T67	Quotation 9809 9848	"I think that I had better go, Holmes."
+T68	Quotation 9849 9987	"Not a bit, Doctor. Stay where you are. I am lost without my Boswell. And this promises to be interesting. It would be a pity to miss it."
+T69	Quotation 9988 10009	"But your client -- "
+T70	Quotation 10010 10147	"Never mind him. I may want your help, and so may he. Here he comes. Sit down in that armchair, Doctor, and give us your best attention."
+T71	Quotation 10310 10320	"Come in!"
+T72	Cue 10321 10325	said
+T73	Entity 10326 10332	Holmes
+T74	Quotation 11461 11479	"You had my note?"
+T75	Entity 11480 11482	he
+T76	Cue 11483 11488	asked
+T77	Quotation 11550 11581	"I told you that I would call."
+T78	Quotation 11655 11674	"Pray take a seat,"
+T79	Cue 11675 11679	said
+T80	Entity 11680 11686	Holmes
+T81	Quotation 11688 11825	"This is my friend and colleague, Dr. Watson, who is occasionally good enough to help me in my cases. Whom have I the honour to address?"
+T82	Quotation 11826 12096	"You may address me as the Count Von Kramm, a Bohemian nobleman. I understand that this gentleman, your friend, is a man of honour and discretion, whom I may trust with a matter of the most extreme importance. If not, I should much prefer to communicate with you alone."
+T83	Quotation 12179 12201	"It is both, or none,"
+T84	Cue 12202 12206	said
+T85	Entity 12207 12209	he
+T86	Quotation 12211 12280	"You may say before this gentleman anything which you may say to me."
+T87	Quotation 12321 12341	"Then I must begin,"
+T88	Cue 12342 12346	said
+T89	Entity 12347 12349	he
+T90	Quotation 12351 12579	"by binding you both to absolute secrecy for two years; at the end of that time the matter will be of no importance. At present it is not too much to say that it is of such weight it may have an influence upon European history."
+T91	Quotation 12580 12592	"I promise,"
+T92	Cue 12593 12597	said
+T93	Entity 12598 12604	Holmes
+T94	Quotation 12606 12614	"And I."
+T95	Quotation 12615 12643	"You will excuse this mask,"
+T96	Cue 12644 12653	continued
+T97	Entity 12654 12673	our strange visitor
+T98	Quotation 12675 12847	"The august person who employs me wishes his agent to be unknown to you, and I may confess at once that the title by which I have just called myself is not exactly my own."
+T99	Quotation 12848 12868	"I was aware of it,"
+T100	Cue 12869 12873	said
+T101	Entity 12874 12880	Holmes
+T102	Quotation 12888 13181	"The circumstances are of great delicacy, and every precaution has to be taken to quench what might grow to be an immense scandal and seriously compromise one of the reigning families of Europe. To speak plainly, the matter implicates the great House of Ormstein, hereditary kings of Bohemia."
+T103	Quotation 13182 13209	"I was also aware of that,"
+T104	Cue 13210 13218	murmured
+T105	Entity 13219 13225	Holmes
+T106	Quotation 13561 13615	"If your Majesty would condescend to state your case,"
+T107	Entity 13616 13618	he
+T108	Cue 13619 13627	remarked
+T109	Quotation 13629 13669	"I should be better able to advise you."
+T110	Quotation 13859 13875	"You are right,"
+T111	Entity 13876 13878	he
+T112	Cue 13879 13884	cried
+T113	Quotation 13886 13938	"I am the King. Why should I attempt to conceal it?"
+T114	Quotation 13939 13953	"Why, indeed?"
+T115	Cue 13954 13962	murmured
+T116	Entity 13963 13969	Holmes
+T117	Quotation 13971 14147	"Your Majesty had not spoken before I was aware that I was addressing Wilhelm Gottsreich Sigismond von Ormstein, Grand Duke of Cassel-Felstein, and hereditary King of Bohemia."
+T118	Quotation 14148 14173	"But you can understand,"
+T119	Cue 14174 14178	said
+T120	Entity 14179 14198	our strange visitor
+T121	Quotation 14274 14537	"you can understand that I am not accustomed to doing such business in my own person. Yet the matter was so delicate that I could not confide it to an agent without putting myself in his power. I have come incognito from Prague for the purpose of consulting you."
+T122	Quotation 14538 14559	"Then, pray consult,"
+T123	Cue 14560 14564	said
+T124	Entity 14565 14571	Holmes
+T125	Quotation 14602 14793	"The facts are briefly these: Some five years ago, during a lengthy visit to Warsaw, I made the acquaintance of the well-known adventuress, Irene Adler. The name is no doubt familiar to you."
+T126	Quotation 14794 14835	"Kindly look her up in my index, Doctor,"
+T127	Cue 14836 14844	murmured
+T128	Entity 14845 14851	Holmes
+T129	Quotation 15242 15255	"Let me see!"
+T130	Cue 15256 15260	said
+T131	Entity 15261 15267	Holmes
+T132	Quotation 15269 15611	"Hum! Born in New Jersey in the year 1858. Contralto-- hum! La Scala, hum! Prima donna Imperial Opera of Warsaw-- yes! Retired from operatic stage-- ha! Living in London-- quite so! Your Majesty, as I understand, became entangled with this young person, wrote her some compromising letters, and is now desirous of getting those letters back."
+T133	Quotation 15612 15639	"Precisely so. But how -- "
+T134	Quotation 15640 15670	"Was there a secret marriage?"
+T135	Quotation 15671 15678	"None."
+T136	Quotation 15679 15713	"No legal papers or certificates?"
+T137	Quotation 15714 15721	"None."
+T138	Quotation 15722 15883	"Then I fail to follow your Majesty. If this young person should produce her letters for blackmailing or other purposes, how is she to prove their authenticity?"
+T139	Quotation 15884 15907	"There is the writing."
+T140	Quotation 15908 15930	"Pooh, pooh! Forgery."
+T141	Quotation 15931 15955	"My private note-paper."
+T142	Quotation 15956 15965	"Stolen."
+T143	Quotation 15966 15980	"My own seal."
+T144	Quotation 15981 15992	"Imitated."
+T145	Quotation 15993 16009	"My photograph."
+T146	Quotation 16010 16019	"Bought."
+T147	Quotation 16020 16053	"We were both in the photograph."
+T148	Quotation 16054 16134	"Oh, dear! That is very bad! Your Majesty has indeed committed an indiscretion."
+T149	Quotation 16135 16156	"I was mad-- insane."
+T150	Quotation 16157 16199	"You have compromised yourself seriously."
+T151	Quotation 16200 16264	"I was only Crown Prince then. I was young. I am but thirty now.
+T152	Quotation 16266 16289	"It must be recovered."
+T153	Quotation 16290 16317	"We have tried and failed."
+T154	Quotation 16318 16361	"Your Majesty must pay. It must be bought."
+T155	Quotation 16362 16382	"She will not sell."
+T156	Quotation 16383 16398	"Stolen, then."
+T157	Quotation 16399 16579	"Five attempts have been made. Twice burglars in my pay ransacked her house. Once we diverted her luggage when she travelled. Twice she has been waylaid. There has been no result."
+T158	Quotation 16580 16596	"No sign of it?"
+T159	Quotation 16597 16615	"Absolutely none."
+T160	Entity 16616 16622	Holmes
+T162	Quotation 16632 16670	"It is quite a pretty little problem,"
+T163	Cue 16671 16675	said
+T164	Entity 16676 16678	he
+T165	Quotation 16680 16711	"But a very serious one to me,"
+T166	Cue 16712 16720	returned
+T167	Entity 16721 16729	the King
+T168	Quotation 16745 16813	"Very, indeed. And what does she propose to do with the photograph?"
+T169	Quotation 16814 16827	"To ruin me."
+T170	Quotation 16828 16838	"But how?"
+T171	Quotation 16839 16866	"I am about to be married."
+T172	Quotation 16867 16885	"So I have heard."
+T173	Quotation 16886 17133	"To Clotilde Lothman von Saxe-Meningen, second daughter of the King of Scandinavia. You may know the strict principles of her family. She is herself the very soul of delicacy. A shadow of a doubt as to my conduct would bring the matter to an end."
+T174	Quotation 17134 17152	"And Irene Adler?"
+T175	Quotation 17153 17479	"Threatens to send them the photograph. And she will do it. I know that she will do it. You do not know her, but she has a soul of steel. She has the face of the most beautiful of women, and the mind of the most resolute of men. Rather than I should marry another woman, there are no lengths to which she would not go-- none."
+T176	Quotation 17480 17524	"You are sure that she has not sent it yet?"
+T177	Quotation 17525 17537	"I am sure."
+T178	Quotation 17538 17548	"And why?"
+T179	Quotation 17549 17675	"Because she has said that she would send it on the day when the betrothal was publicly proclaimed. That will be next Monday."
+T180	Quotation 17676 17710	"Oh, then we have three days yet,"
+T181	Cue 17711 17715	said
+T182	Entity 17716 17722	Holmes
+T183	Quotation 17736 17896	"That is very fortunate, as I have one or two matters of importance to look into just at present. Your Majesty will, of course, stay in London for the present?"
+T184	Quotation 17897 17980	"Certainly. You will find me at the Langham under the name of the Count Von Kramm."
+T185	Quotation 17981 18044	"Then I shall drop you a line to let you know how we progress."
+T186	Quotation 18045 18082	"Pray do so. I shall be all anxiety."
+T187	Quotation 18083 18103	"Then, as to money?"
+T188	Quotation 18104 18129	"You have carte blanche."
+T189	Quotation 18130 18143	"Absolutely?"
+T190	Quotation 18144 18234	"I tell you that I would give one of the provinces of my kingdom to have that photograph."
+T191	Quotation 18235 18262	"And for present expenses?"
+T192	Quotation 18352 18420	"There are three hundred pounds in gold and seven hundred in notes,"
+T193	Entity 18421 18423	he
+T194	Cue 18424 18428	said
+T195	Quotation 18509 18538	"And Mademoiselle's address?"
+T196	Entity 18539 18541	he
+T197	Cue 18542 18547	asked
+T198	Quotation 18549 18603	"Is Briony Lodge, Serpentine Avenue, St. John's Wood."
+T199	Quotation 18630 18651	"One other question,"
+T200	Cue 18652 18656	said
+T201	Entity 18657 18659	he
+T202	Quotation 18661 18692	"Was the photograph a cabinet?"
+T203	Quotation 18693 18702	"It was."
+T204	Quotation 18703 18820	"Then, good-night, your Majesty, and I trust that we shall soon have some good news for you. And good-night, Watson,"
+T205	Entity 18821 18823	he
+T206	Cue 18824 18829	added
+T207	Quotation 18891 19020	"If you will be good enough to call to-morrow afternoon at three o'clock I should like to chat this little matter over with you."
+T208	Quotation 20605 20620	"Well, really!"
+T209	Entity 20621 20623	he
+T210	Cue 20624 20629	cried
+T211	Quotation 20735 20748	"What is it?"
+T212	Quotation 20749 20857	"It's quite too funny. I am sure you could never guess how I employed my morning, or what I ended by doing."
+T213	Quotation 20858 20970	"I can't imagine. I suppose that you have been watching the habits, and perhaps the house, of Miss Irene Adler."
+T214	Quotation 20971 22319	"Quite so; but the sequel was rather unusual. I will tell you, however. I left the house a little after eight o'clock this morning in the character of a groom out of work. There is a wonderful sympathy and freemasonry among horsey men. Be one of them, and you will know all that there is to know. I soon found Briony Lodge. It is a bijou villa, with a garden at the back, but built out in front right up to the road, two stories. Chubb lock to the door. Large sitting-room on the right side, well furnished, with long windows almost to the floor, and those preposterous English window fasteners which a child could open. Behind there was nothing remarkable, save that the passage window could be reached from the top of the coach-house. I walked round it and examined it closely from every point of view, but without noting anything else of interest.  I then lounged down the street and found, as I expected, that there was a mews in a lane which runs down by one wall of the garden. I lent the ostlers a hand in rubbing down their horses, and received in exchange twopence, a glass of half and half, two fills of shag tobacco, and as much information as I could desire about Miss Adler, to say nothing of half a dozen other people in the neighbourhood in whom I was not in the least interested, but whose biographies I was compelled to listen to."
+T215	Quotation 22320 22346	"And what of Irene Adler?"
+T216	Entity 22347 22348	I
+T217	Cue 22349 22354	asked
+T218	Quotation 22356 23832	"Oh, she has turned all the men's heads down in that part. She is the daintiest thing under a bonnet on this planet. So say the Serpentine-mews, to a man. She lives quietly, sings at concerts, drives out at five every day, and returns at seven sharp for dinner. Seldom goes out at other times, except when she sings. Has only one male visitor, but a good deal of him. He is dark, handsome, and dashing, never calls less than once a day, and often twice. He is a Mr. Godfrey Norton, of the Inner Temple. See the advantages of a cabman as a confidant. They had driven him home a dozen times from Serpentine-mews, and knew all about him. When I had listened to all they had to tell, I began to walk up and down near Briony Lodge once more, and to think over my plan of campaign.  This Godfrey Norton was evidently an important factor in the matter. He was a lawyer. That sounded ominous. What was the relation between them, and what the object of his repeated visits? Was she his client, his friend, or his mistress? If the former, she had probably transferred the photograph to his keeping. If the latter, it was less likely. On the issue of this question depended whether I should continue my work at Briony Lodge, or turn my attention to the gentleman's chambers in the Temple. It was a delicate point, and it widened the field of my inquiry. I fear that I bore you with these details, but I have to let you see my little difficulties, if you are to understand the situation."
+T219	Quotation 23833 23862	"I am following you closely,"
+T220	Entity 23863 23864	I
+T221	Cue 23865 23873	answered
+T222	Quotation 23875 27527	"I was still balancing the matter in my mind when a hansom cab drove up to Briony Lodge, and a gentleman sprang out. He was a remarkably handsome man, dark, aquiline, and moustached-- evidently the man of whom I had heard. He appeared to be in a great hurry, shouted to the cabman to wait, and brushed past the maid who opened the door with the air of a man who was thoroughly at home.  He was in the house about half an hour, and I could catch glimpses of him in the windows of the sitting-room, pacing up and down, talking excitedly, and waving his arms. Of her I could see nothing. Presently he emerged, looking even more flurried than before. As he stepped up to the cab, he pulled a gold watch from his pocket and looked at it earnestly, 'Drive like the devil,' he shouted, 'first to Gross & Hankey's in Regent Street, and then to the Church of St. Monica in the Edgeware Road. Half a guinea if you do it in twenty minutes!'  Away they went, and I was just wondering whether I should not do well to follow them when up the lane came a neat little landau, the coachman with his coat only half-buttoned, and his tie under his ear, while all the tags of his harness were sticking out of the buckles. It hadn't pulled up before she shot out of the hall door and into it. I only caught a glimpse of her at the moment, but she was a lovely woman, with a face that a man might die for.  'The Church of St. Monica, John,' she cried, 'and half a sovereign if you reach it in twenty minutes.'  This was quite too good to lose, Watson. I was just balancing whether I should run for it, or whether I should perch behind her landau when a cab came through the street. The driver looked twice at such a shabby fare, but I jumped in before he could object. 'The Church of St. Monica,' said I, 'and half a sovereign if you reach it in twenty minutes.' It was twenty-five minutes to twelve, and of course it was clear enough what was in the wind.  My cabby drove fast. I don't think I ever drove faster, but the others were there before us. The cab and the landau with their steaming horses were in front of the door when I arrived. I paid the man and hurried into the church. There was not a soul there save the two whom I had followed and a surpliced clergyman, who seemed to be expostulating with them. They were all three standing in a knot in front of the altar. I lounged up the side aisle like any other idler who has dropped into a church. Suddenly, to my surprise, the three at the altar faced round to me, and Godfrey Norton came running as hard as he could towards me.  'Thank God,' he cried. 'You'll do. Come! Come!'  'What then?' I asked.  'Come, man, come, only three minutes, or it won't be legal.'  I was half-dragged up to the altar, and before I knew where I was I found myself mumbling responses which were whispered in my ear, and vouching for things of which I knew nothing, and generally assisting in the secure tying up of Irene Adler, spinster, to Godfrey Norton, bachelor. It was all done in an instant, and there was the gentleman thanking me on the one side and the lady on the other, while the clergyman beamed on me in front. It was the most preposterous position in which I ever found myself in my life, and it was the thought of it that started me laughing just now. It seems that there had been some informality about their license, that the clergyman absolutely refused to marry them without a witness of some sort, and that my lucky appearance saved the bridegroom from having to sally out into the streets in search of a best man. The bride gave me a sovereign, and I mean to wear it on my watch-chain in memory of the occasion."
+T223	Quotation 27528 27572	"This is a very unexpected turn of affairs,"
+T224	Cue 27573 27577	said
+T225	Entity 27578 27579	I
+T226	Quotation 27581 27597	"and what then?"
+T227	Quotation 27598 28052	"Well, I found my plans very seriously menaced. It looked as if the pair might take an immediate departure, and so necessitate very prompt and energetic measures on my part. At the church door, however, they separated, he driving back to the Temple, and she to her own house. 'I shall drive out in the park at five as usual,' she said as she left him. I heard no more. They drove away in different directions, and I went off to make my own arrangements."
+T228	Quotation 28053 28065	"Which are?"
+T229	Quotation 28066 28103	"Some cold beef and a glass of beer,"
+T230	Entity 28104 28106	he
+T231	Cue 28107 28115	answered
+T232	Quotation 28135 28276	"I have been too busy to think of food, and I am likely to be busier still this evening. By the way, Doctor, I shall want your co-operation."
+T233	Quotation 28277 28300	"I shall be delighted."
+T234	Quotation 28301 28335	"You don't mind breaking the law?"
+T235	Quotation 28336 28355	"Not in the least."
+T236	Quotation 28356 28389	"Nor running a chance of arrest?"
+T237	Quotation 28390 28412	"Not in a good cause."
+T238	Quotation 28413 28442	"Oh, the cause is excellent!"
+T239	Quotation 28443 28464	"Then I am your man."
+T240	Quotation 28465 28503	"I was sure that I might rely on you."
+T241	Quotation 28504 28530	"But what is it you wish?"
+T242	Quotation 28531 28607	"When Mrs. Turner has brought in the tray I will make it clear to you. Now,"
+T243	Entity 28608 28610	he
+T244	Cue 28611 28615	said
+T245	Quotation 28689 28922	"I must discuss it while I eat, for I have not much time. It is nearly five now. In two hours we must be on the scene of action. Miss Irene, or Madame, rather, returns from her drive at seven. We must be at Briony Lodge to meet her."
+T246	Quotation 28923 28939	"And what then?"
+T247	Quotation 28940 29113	"You must leave that to me. I have already arranged what is to occur. There is only one point on which I must insist. You must not interfere, come what may. You understand?"
+T248	Quotation 29114 29135	"I am to be neutral?"
+T249	Quotation 29136 29401	"To do nothing whatever. There will probably be some small unpleasantness. Do not join in it. It will end in my being conveyed into the house. Four or five minutes afterwards the sitting-room window will open. You are to station yourself close to that open window."
+T250	Quotation 29402 29408	"Yes."
+T251	Quotation 29409 29461	"You are to watch me, for I will be visible to you."
+T252	Quotation 29462 29468	"Yes."
+T253	Quotation 29469 29630	"And when I raise my hand-- so -- you will throw into the room what I give you to throw, and will, at the same time, raise the cry of fire. You quite follow me?"
+T254	Quotation 29631 29642	"Entirely."
+T255	Quotation 29643 29675	"It is nothing very formidable,"
+T256	Entity 29676 29678	he
+T257	Cue 29679 29683	said
+T258	Quotation 29735 30070	"It is an ordinary plumber's smoke- rocket, fitted with a cap at either end to make it self-lighting. Your task is confined to that. When you raise your cry of fire, it will be taken up by quite a number of people. You may then walk to the end of the street, and I will rejoin you in ten minutes. I hope that I have made myself clear?"
+T259	Quotation 30071 30253	"I am to remain neutral, to get near the window, to watch you, and at the signal to throw in this object, then to raise the cry of fire, and to wait you at the corner of the street."
+T260	Quotation 30254 30266	"Precisely."
+T261	Quotation 30303 30407	"That is excellent. I think, perhaps, it is almost time that I prepare for the new role I have to play."
+T262	Quotation 30267 30302	"Then you may entirely rely on me."
+T263	Quotation 31773 31783	"You see,"
+T264	Cue 31784 31792	remarked
+T265	Entity 31793 31799	Holmes
+T266	Quotation 31847 32142	"this marriage rather simplifies matters. The photograph becomes a double-edged weapon now. The chances are that she would be as averse to its being seen by Mr. Godfrey Norton, as our client is to its coming to the eyes of his princess. Now the question is, Where are we to find the photograph?"
+T267	Quotation 32143 32159	"Where, indeed?"
+T268	Quotation 32160 32476	"It is most unlikely that she carries it about with her. It is cabinet size. Too large for easy concealment about a woman's dress. She knows that the King is capable of having her waylaid and searched. Two attempts of the sort have already been made. We may take it, then, that she does not carry it about with her."
+T269	Quotation 32477 32491	"Where, then?"
+T270	Quotation 32492 32995	"Her banker or her lawyer. There is that double possibility. But I am inclined to think neither. Women are naturally secretive, and they like to do their own secreting. Why should she hand it over to anyone else? She could trust her own guardianship, but she could not tell what indirect or political influence might be brought to bear upon a business man. Besides, remember that she had resolved to use it within a few days. It must be where she can lay her hands upon it. It must be in her own house."
+T271	Quotation 32996 33028	"But it has twice been burgled."
+T272	Quotation 33029 33068	"Pshaw! They did not know how to look."
+T273	Quotation 33069 33093	"But how will you look?"
+T274	Quotation 33094 33112	"I will not look."
+T275	Quotation 33113 33125	"What then?"
+T276	Quotation 33126 33154	"I will get her to show me."
+T277	Quotation 33155 33177	"But she will refuse."
+T278	Quotation 33178 33296	"She will not be able to. But I hear the rumble of wheels. It is her carriage. Now carry out my orders to the letter."
+T279	Quotation 34653 34687	"Is the poor gentleman much hurt?"
+T280	Entity 34688 34691	she
+T281	Cue 34692 34697	asked
+T282	Quotation 34699 34712	"He is dead,"
+T283	Quotation 34735 34765	"No, no, there's life in him!"
+T284	Cue 34713 34718	cried
+T285	Entity 34719 34733	several voices
+T286	Cue 34766 34773	shouted
+T287	Entity 34774 34781	another
+T288	Quotation 34783 34838	"But he'll be gone before you can get him to hospital."
+T289	Quotation 34839 34861	"He's a brave fellow,"
+T290	Cue 34862 34866	said
+T291	Entity 34867 34874	a woman
+T292	Quotation 34876 35015	"They would have had the lady's purse and watch if it hadn't been for him. They were a gang, and a rough one, too. Ah, he's breathing now."
+T293	Quotation 35016 35072	"He can't lie in the street. May we bring him in, marm?"
+T294	Quotation 35073 35162	"Surely. Bring him into the sitting-room. There is a comfortable sofa. This way, please!"
+T295	Quotation 36266 36273	"Fire!"
+T296	Cue 36257 36265	a cry of
+T297	Entity 36219 36220	I
+T298	Quotation 36983 37016	"You did it very nicely, Doctor,"
+T299	Entity 37017 37019	he
+T300	Cue 37020 37028	remarked
+T301	Quotation 37030 37080	"Nothing could have been better. It is all right."
+T302	Quotation 37081 37107	"You have the photograph?"
+T303	Quotation 37108 37129	"I know where it is."
+T304	Quotation 37130 37157	"And how did you find out?"
+T305	Quotation 37158 37199	"She showed me, as I told you she would."
+T306	Quotation 37200 37225	"I am still in the dark."
+T307	Quotation 37226 37260	"I do not wish to make a mystery,"
+T308	Cue 37261 37265	said
+T309	Entity 37266 37268	he
+T310	Quotation 37280 37420	"The matter was perfectly simple. You, of course, saw that everyone in the street was an accomplice. They were all engaged for the evening."
+T311	Quotation 37421 37441	"I guessed as much."
+T312	Quotation 37442 37637	"Then, when the row broke out, I had a little moist red paint in the palm of my hand. I rushed forward, fell down, clapped my hand to my face, and became a piteous spectacle. It is an old trick."
+T313	Quotation 37638 37665	"That also I could fathom."
+T314	Quotation 37666 37997	"Then they carried me in. She was bound to have me in. What else could she do? And into her sitting-room, which was the very room which I suspected. It lay between that and her bedroom, and I was determined to see which. They laid me on a couch, I motioned for air, they were compelled to open the window, and you had your chance."
+T315	Quotation 37998 38022	"How did that help you?"
+T316	Quotation 38023 39279	"It was all-important. When a woman thinks that her house is on fire, her instinct is at once to rush to the thing which she values most. It is a perfectly overpowering impulse, and I have more than once taken advantage of it. In the case of the Darlington substitution scandal it was of use to me, and also in the Arnsworth Castle business. A married woman grabs at her baby; an unmarried one reaches for her jewel-box. Now it was clear to me that our lady of to-day had nothing in the house more precious to her than what we are in quest of. She would rush to secure it. The alarm of fire was admirably done. The smoke and shouting were enough to shake nerves of steel. She responded beautifully. The photograph is in a recess behind a sliding panel just above the right bell-pull. She was there in an instant, and I caught a glimpse of it as she half-drew it out. When I cried out that it was a false alarm, she replaced it, glanced at the rocket, rushed from the room, and I have not seen her since. I rose, and, making my excuses, escaped from the house. I hesitated whether to attempt to secure the photograph at once; but the coachman had come in, and as he was watching me narrowly it seemed safer to wait. A little over-precipitance may ruin all."
+T317	Quotation 39280 39290	"And now?"
+T318	Entity 39291 39292	I
+T319	Cue 39293 39298	asked
+T320	Quotation 39300 39636	"Our quest is practically finished. I shall call with the King to-morrow, and with you, if you care to come with us. We will be shown into the sitting-room to wait for the lady, but it is probable that when she comes she may find neither us nor the photograph. It might be a satisfaction to his Majesty to regain it with his own hands."
+T321	Quotation 39637 39662	"And when will you call?"
+T322	Quotation 39663 39882	"At eight in the morning. She will not be up, so that we shall have a clear field. Besides, we must be prompt, for this marriage may mean a complete change in her life and habits. I must wire to the King without delay."
+T323	Entity 39986 40001	someone passing
+T324	Cue 40002 40006	said
+T325	Quotation 40008 40045	"Good-night, Mister Sherlock Holmes."
+T326	Quotation 40186 40217	"I've heard that voice before,"
+T327	Cue 40218 40222	said
+T328	Entity 40223 40229	Holmes
+T329	Quotation 40266 40317	"Now, I wonder who the deuce that could have been."
+T330	Quotation 40467 40492	"You have really got it!"
+T331	Entity 40493 40495	he
+T332	Cue 40496 40501	cried
+T333	Entity 40512 40527	Sherlock Holmes
+T334	Quotation 40582 40592	"Not yet."
+T335	Quotation 40593 40614	"But you have hopes?"
+T336	Quotation 40615 40630	"I have hopes."
+T337	Quotation 40631 40676	"Then, come. I am all impatience to be gone."
+T338	Quotation 40677 40698	"We must have a cab."
+T339	Quotation 40699 40728	"No, my brougham is waiting."
+T340	Quotation 40729 40763	"Then that will simplify matters."
+T341	Quotation 40821 40846	"Irene Adler is married,"
+T342	Cue 40847 40855	remarked
+T343	Entity 40856 40862	Holmes
+T344	Quotation 40864 40880	"Married! When?"
+T345	Quotation 40881 40893	"Yesterday."
+T346	Quotation 40894 40908	"But to whom?"
+T347	Quotation 40909 40945	"To an English lawyer named Norton."
+T348	Quotation 40946 40975	"But she could not love him."
+T349	Quotation 40976 41006	"I am in hopes that she does."
+T350	Quotation 41007 41026	"And why in hopes?"
+T351	Quotation 41027 41262	"Because it would spare your Majesty all fear of future annoyance. If the lady loves her husband, she does not love your Majesty. If she does not love your Majesty, there is no reason why she should interfere with your Majesty's plan."
+T352	Quotation 41263 41365	"It is true. And yet-- Well! I wish she had been of my own station! What a queen she would have made!"
+T354	Quotation 41606 41639	"Mr. Sherlock Holmes, I believe?"
+T355	Cue 41640 41644	said
+T356	Entity 41645 41648	she
+T357	Quotation 41752 41906	"Indeed! My mistress told me that you were likely to call. She left this morning with her husband by the 5:15 train from Charing Cross for the Continent."
+T358	Cue 41669 41677	answered
+T359	Entity 41678 41690	my companion
+T360	Quotation 41650 41668	"I am Mr. Holmes,"
+T361	Quotation 41907 41914	"What!"
+T362	Entity 41915 41930	Sherlock Holmes
+T363	Quotation 41980 42020	"Do you mean that she has left England?"
+T364	Quotation 42021 42039	"Never to return."
+T365	Quotation 42040 42057	"And the papers?"
+T366	Cue 42058 42063	asked
+T367	Entity 42064 42072	the King
+T368	Quotation 42083 42097	"All is lost."
+T369	Quotation 42098 42113	"We shall see."
+T370	Quotation 44419 44453	"What a woman-- oh, what a woman!"
+T371	Cue 44454 44459	cried
+T372	Entity 44460 44479	the King of Bohemia
+T373	Quotation 44522 44665	"Did I not tell you how quick and resolute she was? Would she not have made an admirable queen? Is it not a pity that she was not on my level?"
+T374	Quotation 44666 44767	"From what I have seen of the lady she seems indeed to be on a very different level to your Majesty,"
+T375	Cue 44768 44772	said
+T376	Entity 44773 44779	Holmes
+T377	Quotation 44788 44892	"I am sorry that I have not been able to bring your Majesty's business to a more successful conclusion."
+T378	Quotation 44893 44924	"On the contrary, my dear sir,"
+T379	Cue 44925 44930	cried
+T380	Entity 44931 44939	the King
+T381	Quotation 44941 45068	"nothing could be more successful. I know that her word is inviolate. The photograph is now as safe as if it were in the fire."
+T382	Quotation 45069 45109	"I am glad to hear your Majesty say so."
+T383	Quotation 45110 45200	"I am immensely indebted to you. Pray tell me in what way I can reward you. This ring -- "
+T384	Entity 45201 45203	He
+T385	Quotation 45293 45360	"Your Majesty has something which I should value even more highly,"
+T386	Cue 45361 45365	said
+T387	Entity 45366 45372	Holmes
+T388	Quotation 45374 45400	"You have but to name it."
+T389	Quotation 45401 45419	"This photograph!"
+T390	Quotation 45457 45478	"Irene's photograph!"
+T391	Entity 45479 45481	he
+T392	Cue 45482 45487	cried
+T393	Quotation 45489 45517	"Certainly, if you wish it."
+T394	Quotation 45518 45640	"I thank your Majesty. Then there is no more to be done in the matter. I have the honour to wish you a very good-morning."
+R1	Speaker Arg1:T2 Arg2:T1	
+R2	Cueing Arg1:T3 Arg2:T1	
+T395	Entity 3726 3728	me
+R3	Addressee Arg1:T395 Arg2:T1	
+R4	Addressee Arg1:T395 Arg2:T4	
+R5	Cueing Arg1:T3 Arg2:T4	
+R6	Speaker Arg1:T2 Arg2:T4	
+R7	Cueing Arg1:T7 Arg2:T5	
+R8	Speaker Arg1:T6 Arg2:T5	
+R9	Addressee Arg1:T2 Arg2:T5	
+R10	Addressee Arg1:T2 Arg2:T11	
+R11	Speaker Arg1:T2 Arg2:T10	
+R12	Addressee Arg1:T2 Arg2:T9	
+R13	Speaker Arg1:T2 Arg2:T8	
+R14	Addressee Arg1:T6 Arg2:T8	
+R15	Addressee Arg1:T6 Arg2:T10	
+R16	Speaker Arg1:T6 Arg2:T9	
+R17	Cueing Arg1:T12 Arg2:T11	
+R18	Speaker Arg1:T13 Arg2:T11	
+R19	Cueing Arg1:T12 Arg2:T14	
+R20	Addressee Arg1:T2 Arg2:T14	
+R21	Cueing Arg1:T12 Arg2:T14	
+R22	Cueing Arg1:T16 Arg2:T15	
+R23	Speaker Arg1:T17 Arg2:T15	
+R24	Addressee Arg1:T13 Arg2:T18	
+R25	Addressee Arg1:T13 Arg2:T15	
+R26	Cueing Arg1:T16 Arg2:T18	
+R27	Speaker Arg1:T17 Arg2:T18	
+R28	Cueing Arg1:T21 Arg2:T19	
+R29	Addressee Arg1:T17 Arg2:T22	
+R30	Addressee Arg1:T17 Arg2:T19	
+R31	Cueing Arg1:T21 Arg2:T22	
+R32	Speaker Arg1:T20 Arg2:T19	
+R33	Speaker Arg1:T20 Arg2:T22	
+R34	Speaker Arg1:T24 Arg2:T23	
+R35	Cueing Arg1:T25 Arg2:T23	
+R36	Addressee Arg1:T20 Arg2:T32	
+R37	Speaker Arg1:T20 Arg2:T31	
+R38	Addressee Arg1:T20 Arg2:T30	
+R39	Speaker Arg1:T20 Arg2:T29	
+R40	Addressee Arg1:T20 Arg2:T28	
+R41	Speaker Arg1:T20 Arg2:T27	
+R42	Addressee Arg1:T20 Arg2:T26	
+R43	Addressee Arg1:T20 Arg2:T23	
+R44	Cueing Arg1:T25 Arg2:T26	
+R45	Speaker Arg1:T24 Arg2:T26	
+R46	Addressee Arg1:T24 Arg2:T27	
+R47	Speaker Arg1:T24 Arg2:T32	
+R48	Addressee Arg1:T24 Arg2:T36	
+R49	Addressee Arg1:T24 Arg2:T33	
+R50	Addressee Arg1:T24 Arg2:T31	
+R51	Speaker Arg1:T24 Arg2:T30	
+R52	Addressee Arg1:T24 Arg2:T29	
+R53	Speaker Arg1:T24 Arg2:T28	
+R54	Cueing Arg1:T34 Arg2:T33	
+R55	Cueing Arg1:T34 Arg2:T36	
+R56	Speaker Arg1:T35 Arg2:T33	
+R57	Speaker Arg1:T35 Arg2:T36	
+R58	Cueing Arg1:T39 Arg2:T37	
+R59	Speaker Arg1:T38 Arg2:T37	
+R60	Cueing Arg1:T39 Arg2:T40	
+R61	Addressee Arg1:T35 Arg2:T45	
+R62	Addressee Arg1:T35 Arg2:T42	
+R63	Cueing Arg1:T44 Arg2:T42	
+R64	Cueing Arg1:T44 Arg2:T45	
+R65	Speaker Arg1:T43 Arg2:T42	
+R66	Speaker Arg1:T43 Arg2:T45	
+R67	Speaker Arg1:T35 Arg2:T41	
+R68	Addressee Arg1:T35 Arg2:T40	
+R69	Addressee Arg1:T35 Arg2:T37	
+R70	Speaker Arg1:T38 Arg2:T40	
+R71	Addressee Arg1:T38 Arg2:T41	
+R72	Addressee Arg1:T43 Arg2:T49	
+R73	Addressee Arg1:T43 Arg2:T55	
+R74	Addressee Arg1:T43 Arg2:T54	
+R75	Speaker Arg1:T43 Arg2:T53	
+R76	Addressee Arg1:T43 Arg2:T50	
+R77	Addressee Arg1:T43 Arg2:T46	
+R78	Cueing Arg1:T47 Arg2:T46	
+R79	Cueing Arg1:T47 Arg2:T49	
+R80	Speaker Arg1:T48 Arg2:T46	
+R81	Speaker Arg1:T48 Arg2:T49	
+R82	Cueing Arg1:T51 Arg2:T50	
+R83	Speaker Arg1:T52 Arg2:T50	
+R84	Addressee Arg1:T52 Arg2:T53	
+R85	Speaker Arg1:T52 Arg2:T54	
+T396	Entity 8494 8496	He
+R86	Speaker Arg1:T396 Arg2:T55	
+R87	Cueing Arg1:T58 Arg2:T56	
+R88	Speaker Arg1:T57 Arg2:T56	
+T397	Entity 8838 8840	he
+R89	Speaker Arg1:T397 Arg2:T59	
+R90	Addressee Arg1:T57 Arg2:T59	
+R91	Addressee Arg1:T57 Arg2:T70	
+R92	Speaker Arg1:T57 Arg2:T69	
+R93	Addressee Arg1:T57 Arg2:T68	
+R94	Speaker Arg1:T57 Arg2:T67	
+R95	Addressee Arg1:T57 Arg2:T66	
+R96	Addressee Arg1:T57 Arg2:T63	
+R97	Addressee Arg1:T57 Arg2:T60	
+R98	Cueing Arg1:T61 Arg2:T60	
+R99	Speaker Arg1:T62 Arg2:T60	
+R100	Speaker Arg1:T64 Arg2:T63	
+R101	Cueing Arg1:T65 Arg2:T63	
+R102	Addressee Arg1:T64 Arg2:T67	
+R103	Cueing Arg1:T65 Arg2:T66	
+R104	Speaker Arg1:T64 Arg2:T66	
+R105	Speaker Arg1:T64 Arg2:T70	
+R106	Addressee Arg1:T64 Arg2:T69	
+R107	Speaker Arg1:T64 Arg2:T68	
+R108	Cueing Arg1:T72 Arg2:T71	
+R109	Speaker Arg1:T73 Arg2:T71	
+T398	Entity 10334 10339	A man
+R110	Addressee Arg1:T398 Arg2:T71	
+R111	Addressee Arg1:T73 Arg2:T74	
+R112	Addressee Arg1:T73 Arg2:T77	
+R113	Speaker Arg1:T75 Arg2:T74	
+R114	Cueing Arg1:T76 Arg2:T74	
+R115	Cueing Arg1:T76 Arg2:T77	
+R116	Speaker Arg1:T75 Arg2:T77	
+R117	Cueing Arg1:T79 Arg2:T78	
+R118	Speaker Arg1:T80 Arg2:T78	
+R119	Addressee Arg1:T75 Arg2:T78	
+R120	Speaker Arg1:T75 Arg2:T82	
+R121	Addressee Arg1:T75 Arg2:T81	
+R122	Cueing Arg1:T79 Arg2:T81	
+R123	Speaker Arg1:T80 Arg2:T81	
+R124	Addressee Arg1:T80 Arg2:T82	
+R125	Cueing Arg1:T84 Arg2:T83	
+R126	Speaker Arg1:T85 Arg2:T83	
+R127	Addressee Arg1:T75 Arg2:T83	
+R128	Speaker Arg1:T85 Arg2:T86	
+R129	Cueing Arg1:T84 Arg2:T86	
+R130	Addressee Arg1:T75 Arg2:T86	
+R131	Cueing Arg1:T88 Arg2:T87	
+R132	Speaker Arg1:T89 Arg2:T87	
+T399	Entity 12115 12121	Holmes
+T400	Entity 12129 12131	me
+R133	Addressee Arg1:T400 Arg2:T87	
+R134	Addressee Arg1:T399 Arg2:T87	
+R135	Addressee Arg1:T400 Arg2:T90	
+R136	Addressee Arg1:T399 Arg2:T90	
+R137	Cueing Arg1:T88 Arg2:T90	
+R138	Speaker Arg1:T89 Arg2:T90	
+R139	Cueing Arg1:T92 Arg2:T91	
+R140	Speaker Arg1:T93 Arg2:T91	
+R141	Speaker Arg1:T400 Arg2:T94	
+R142	Addressee Arg1:T89 Arg2:T94	
+R143	Addressee Arg1:T89 Arg2:T91	
+R144	Cueing Arg1:T96 Arg2:T95	
+R145	Speaker Arg1:T97 Arg2:T95	
+R146	Addressee Arg1:T93 Arg2:T95	
+R147	Addressee Arg1:T400 Arg2:T95	
+R148	Addressee Arg1:T400 Arg2:T98	
+R149	Cueing Arg1:T96 Arg2:T98	
+R150	Speaker Arg1:T97 Arg2:T98	
+R151	Addressee Arg1:T93 Arg2:T98	
+R152	Cueing Arg1:T100 Arg2:T99	
+R153	Speaker Arg1:T101 Arg2:T99	
+R154	Addressee Arg1:T97 Arg2:T99	
+R155	Speaker Arg1:T97 Arg2:T102	
+R156	Addressee Arg1:T101 Arg2:T102	
+R157	Cueing Arg1:T104 Arg2:T103	
+R158	Speaker Arg1:T105 Arg2:T103	
+R159	Addressee Arg1:T97 Arg2:T103	
+R160	Speaker Arg1:T107 Arg2:T106	
+R161	Speaker Arg1:T107 Arg2:T109	
+R162	Cueing Arg1:T108 Arg2:T106	
+R163	Cueing Arg1:T108 Arg2:T109	
+T401	Entity 13540 13559	his gigantic client
+R164	Addressee Arg1:T401 Arg2:T106	
+R165	Addressee Arg1:T401 Arg2:T109	
+R166	Speaker Arg1:T111 Arg2:T110	
+R167	Cueing Arg1:T112 Arg2:T110	
+R168	Cueing Arg1:T112 Arg2:T113	
+R169	Speaker Arg1:T111 Arg2:T113	
+R170	Addressee Arg1:T105 Arg2:T110	
+R171	Addressee Arg1:T105 Arg2:T113	
+R172	Cueing Arg1:T115 Arg2:T114	
+R173	Speaker Arg1:T116 Arg2:T114	
+R174	Addressee Arg1:T111 Arg2:T114	
+R175	Cueing Arg1:T115 Arg2:T117	
+R176	Speaker Arg1:T116 Arg2:T117	
+R177	Addressee Arg1:T111 Arg2:T117	
+R178	Cueing Arg1:T119 Arg2:T118	
+R179	Speaker Arg1:T120 Arg2:T118	
+R180	Cueing Arg1:T119 Arg2:T121	
+R181	Speaker Arg1:T120 Arg2:T121	
+R182	Addressee Arg1:T116 Arg2:T121	
+R183	Addressee Arg1:T116 Arg2:T118	
+R184	Cueing Arg1:T123 Arg2:T122	
+R185	Speaker Arg1:T124 Arg2:T122	
+R186	Addressee Arg1:T120 Arg2:T122	
+R187	Addressee Arg1:T120 Arg2:T126	
+R188	Speaker Arg1:T120 Arg2:T125	
+R189	Addressee Arg1:T124 Arg2:T125	
+R190	Cueing Arg1:T127 Arg2:T126	
+R191	Speaker Arg1:T128 Arg2:T126	
+R192	Cueing Arg1:T130 Arg2:T129	
+R193	Speaker Arg1:T131 Arg2:T129	
+R194	Speaker Arg1:T193 Arg2:T192	
+R195	Cueing Arg1:T194 Arg2:T192	
+R196	Addressee Arg1:T193 Arg2:T207	
+R197	Addressee Arg1:T193 Arg2:T204	
+R198	Speaker Arg1:T205 Arg2:T204	
+R199	Speaker Arg1:T205 Arg2:T207	
+R200	Cueing Arg1:T206 Arg2:T204	
+R201	Cueing Arg1:T206 Arg2:T207	
+T161	Entity 15091 15092	I
+R202	Addressee Arg1:T161 Arg2:T207	
+R203	Addressee Arg1:T161 Arg2:T204	
+R204	Speaker Arg1:T193 Arg2:T203	
+R205	Addressee Arg1:T193 Arg2:T202	
+R206	Addressee Arg1:T193 Arg2:T199	
+R207	Speaker Arg1:T193 Arg2:T198	
+R208	Addressee Arg1:T193 Arg2:T195	
+R209	Addressee Arg1:T201 Arg2:T203	
+R210	Speaker Arg1:T201 Arg2:T202	
+R211	Speaker Arg1:T201 Arg2:T199	
+R212	Cueing Arg1:T200 Arg2:T199	
+R213	Speaker Arg1:T196 Arg2:T195	
+R214	Cueing Arg1:T197 Arg2:T195	
+R215	Addressee Arg1:T196 Arg2:T198	
+R216	Addressee Arg1:T182 Arg2:T192	
+R217	Speaker Arg1:T182 Arg2:T191	
+R228	Cueing Arg1:T181 Arg2:T180	
+R229	Cueing Arg1:T181 Arg2:T183	
+R230	Speaker Arg1:T182 Arg2:T183	
+R231	Speaker Arg1:T182 Arg2:T180	
+R232	Addressee Arg1:T182 Arg2:T190	
+R233	Speaker Arg1:T182 Arg2:T189	
+R234	Addressee Arg1:T182 Arg2:T188	
+R235	Speaker Arg1:T182 Arg2:T187	
+R236	Addressee Arg1:T182 Arg2:T186	
+R237	Speaker Arg1:T182 Arg2:T185	
+R238	Addressee Arg1:T182 Arg2:T184	
+R218	Addressee Arg1:T167 Arg2:T191	
+R219	Speaker Arg1:T167 Arg2:T190	
+R220	Addressee Arg1:T167 Arg2:T189	
+R221	Speaker Arg1:T167 Arg2:T188	
+R222	Addressee Arg1:T167 Arg2:T187	
+R223	Speaker Arg1:T167 Arg2:T186	
+R224	Addressee Arg1:T167 Arg2:T185	
+R225	Speaker Arg1:T167 Arg2:T184	
+R226	Addressee Arg1:T167 Arg2:T183	
+R227	Addressee Arg1:T167 Arg2:T180	
+R239	Speaker Arg1:T167 Arg2:T179	
+R240	Addressee Arg1:T167 Arg2:T178	
+R241	Speaker Arg1:T167 Arg2:T177	
+R242	Addressee Arg1:T167 Arg2:T176	
+R243	Speaker Arg1:T167 Arg2:T175	
+R244	Addressee Arg1:T167 Arg2:T174	
+R245	Speaker Arg1:T167 Arg2:T173	
+R246	Addressee Arg1:T167 Arg2:T172	
+R247	Speaker Arg1:T167 Arg2:T171	
+R248	Addressee Arg1:T167 Arg2:T170	
+R249	Speaker Arg1:T167 Arg2:T169	
+R250	Addressee Arg1:T167 Arg2:T168	
+R251	Cueing Arg1:T166 Arg2:T165	
+R252	Speaker Arg1:T167 Arg2:T165	
+R253	Addressee Arg1:T164 Arg2:T179	
+R254	Speaker Arg1:T164 Arg2:T178	
+R255	Addressee Arg1:T164 Arg2:T177	
+R256	Speaker Arg1:T164 Arg2:T176	
+R257	Addressee Arg1:T164 Arg2:T175	
+R258	Speaker Arg1:T164 Arg2:T174	
+R259	Addressee Arg1:T164 Arg2:T173	
+R260	Speaker Arg1:T164 Arg2:T172	
+R261	Addressee Arg1:T164 Arg2:T171	
+R262	Speaker Arg1:T164 Arg2:T170	
+R263	Addressee Arg1:T164 Arg2:T169	
+R264	Speaker Arg1:T164 Arg2:T168	
+R265	Addressee Arg1:T164 Arg2:T165	
+R266	Cueing Arg1:T163 Arg2:T162	
+R267	Speaker Arg1:T164 Arg2:T162	
+R268	Addressee Arg1:T160 Arg2:T162	
+R269	Speaker Arg1:T120 Arg2:T159	
+R270	Addressee Arg1:T120 Arg2:T158	
+R271	Speaker Arg1:T120 Arg2:T157	
+R272	Addressee Arg1:T120 Arg2:T156	
+R273	Speaker Arg1:T120 Arg2:T155	
+R274	Addressee Arg1:T120 Arg2:T154	
+R275	Speaker Arg1:T120 Arg2:T153	
+R276	Addressee Arg1:T120 Arg2:T152	
+R277	Speaker Arg1:T120 Arg2:T151	
+R278	Addressee Arg1:T120 Arg2:T150	
+R279	Speaker Arg1:T120 Arg2:T149	
+R280	Addressee Arg1:T120 Arg2:T148	
+R281	Speaker Arg1:T120 Arg2:T147	
+R282	Addressee Arg1:T120 Arg2:T146	
+R283	Speaker Arg1:T120 Arg2:T145	
+R284	Addressee Arg1:T120 Arg2:T144	
+R285	Speaker Arg1:T120 Arg2:T143	
+R286	Addressee Arg1:T120 Arg2:T142	
+R287	Speaker Arg1:T120 Arg2:T141	
+R288	Addressee Arg1:T120 Arg2:T140	
+R289	Speaker Arg1:T120 Arg2:T139	
+R290	Addressee Arg1:T120 Arg2:T138	
+R291	Speaker Arg1:T120 Arg2:T137	
+R292	Addressee Arg1:T120 Arg2:T136	
+R293	Speaker Arg1:T120 Arg2:T135	
+R294	Addressee Arg1:T120 Arg2:T134	
+R295	Speaker Arg1:T120 Arg2:T133	
+R296	Addressee Arg1:T120 Arg2:T132	
+R297	Cueing Arg1:T130 Arg2:T132	
+R298	Speaker Arg1:T131 Arg2:T132	
+R299	Addressee Arg1:T120 Arg2:T129	
+R300	Addressee Arg1:T131 Arg2:T159	
+R301	Speaker Arg1:T131 Arg2:T158	
+R302	Addressee Arg1:T131 Arg2:T157	
+R303	Speaker Arg1:T131 Arg2:T156	
+R304	Addressee Arg1:T131 Arg2:T155	
+R305	Speaker Arg1:T131 Arg2:T154	
+R306	Addressee Arg1:T131 Arg2:T153	
+R307	Speaker Arg1:T131 Arg2:T152	
+R308	Addressee Arg1:T131 Arg2:T151	
+R309	Speaker Arg1:T131 Arg2:T150	
+R310	Addressee Arg1:T131 Arg2:T149	
+R311	Speaker Arg1:T131 Arg2:T148	
+R312	Addressee Arg1:T131 Arg2:T147	
+R313	Speaker Arg1:T131 Arg2:T146	
+R314	Addressee Arg1:T131 Arg2:T145	
+R315	Speaker Arg1:T131 Arg2:T144	
+R316	Addressee Arg1:T131 Arg2:T143	
+R317	Speaker Arg1:T131 Arg2:T142	
+R318	Addressee Arg1:T131 Arg2:T141	
+R319	Speaker Arg1:T131 Arg2:T140	
+R320	Addressee Arg1:T131 Arg2:T139	
+R321	Speaker Arg1:T131 Arg2:T138	
+R322	Addressee Arg1:T131 Arg2:T137	
+R323	Speaker Arg1:T131 Arg2:T136	
+R324	Addressee Arg1:T131 Arg2:T135	
+R325	Speaker Arg1:T131 Arg2:T134	
+R326	Addressee Arg1:T131 Arg2:T133	
+R327	Speaker Arg1:T209 Arg2:T208	
+R328	Cueing Arg1:T210 Arg2:T208	
+T402	Entity 20330 20331	I
+R329	Addressee Arg1:T402 Arg2:T214	
+R330	Speaker Arg1:T402 Arg2:T213	
+R331	Addressee Arg1:T402 Arg2:T212	
+R332	Speaker Arg1:T402 Arg2:T211	
+R333	Addressee Arg1:T402 Arg2:T208	
+R334	Addressee Arg1:T209 Arg2:T228	
+R335	Speaker Arg1:T209 Arg2:T227	
+R336	Addressee Arg1:T209 Arg2:T226	
+R337	Addressee Arg1:T209 Arg2:T223	
+R338	Speaker Arg1:T209 Arg2:T222	
+R339	Addressee Arg1:T209 Arg2:T219	
+R340	Speaker Arg1:T209 Arg2:T218	
+R341	Addressee Arg1:T209 Arg2:T215	
+R342	Speaker Arg1:T209 Arg2:T214	
+R343	Addressee Arg1:T209 Arg2:T213	
+R344	Speaker Arg1:T209 Arg2:T212	
+R345	Addressee Arg1:T209 Arg2:T211	
+R346	Speaker Arg1:T216 Arg2:T215	
+R347	Cueing Arg1:T217 Arg2:T215	
+R348	Addressee Arg1:T216 Arg2:T218	
+R349	Speaker Arg1:T220 Arg2:T219	
+R350	Cueing Arg1:T221 Arg2:T219	
+R351	Addressee Arg1:T220 Arg2:T222	
+R352	Cueing Arg1:T224 Arg2:T223	
+R353	Cueing Arg1:T224 Arg2:T226	
+R354	Speaker Arg1:T225 Arg2:T223	
+R355	Speaker Arg1:T225 Arg2:T226	
+R356	Addressee Arg1:T225 Arg2:T261	
+R357	Speaker Arg1:T225 Arg2:T262	
+R358	Addressee Arg1:T225 Arg2:T260	
+R359	Speaker Arg1:T225 Arg2:T259	
+R360	Addressee Arg1:T225 Arg2:T258	
+R361	Addressee Arg1:T225 Arg2:T255	
+R362	Speaker Arg1:T225 Arg2:T254	
+R363	Addressee Arg1:T225 Arg2:T253	
+R364	Speaker Arg1:T225 Arg2:T252	
+R365	Addressee Arg1:T225 Arg2:T251	
+R366	Speaker Arg1:T225 Arg2:T250	
+R367	Addressee Arg1:T225 Arg2:T249	
+R368	Speaker Arg1:T225 Arg2:T248	
+R369	Addressee Arg1:T225 Arg2:T247	
+R370	Speaker Arg1:T225 Arg2:T246	
+R371	Addressee Arg1:T225 Arg2:T245	
+R372	Addressee Arg1:T225 Arg2:T242	
+R373	Speaker Arg1:T225 Arg2:T241	
+R374	Addressee Arg1:T225 Arg2:T240	
+R375	Speaker Arg1:T225 Arg2:T239	
+R376	Addressee Arg1:T225 Arg2:T238	
+R377	Speaker Arg1:T225 Arg2:T237	
+R378	Addressee Arg1:T225 Arg2:T236	
+R379	Speaker Arg1:T225 Arg2:T235	
+R380	Addressee Arg1:T225 Arg2:T234	
+R381	Speaker Arg1:T225 Arg2:T233	
+R382	Addressee Arg1:T225 Arg2:T232	
+R383	Addressee Arg1:T225 Arg2:T229	
+R384	Speaker Arg1:T225 Arg2:T228	
+R385	Addressee Arg1:T225 Arg2:T227	
+R386	Speaker Arg1:T230 Arg2:T229	
+R387	Speaker Arg1:T230 Arg2:T232	
+R388	Cueing Arg1:T231 Arg2:T229	
+R389	Cueing Arg1:T231 Arg2:T232	
+R390	Addressee Arg1:T230 Arg2:T241	
+R391	Speaker Arg1:T230 Arg2:T240	
+R392	Addressee Arg1:T230 Arg2:T239	
+R393	Speaker Arg1:T230 Arg2:T238	
+R394	Addressee Arg1:T230 Arg2:T237	
+R395	Speaker Arg1:T230 Arg2:T236	
+R396	Addressee Arg1:T230 Arg2:T235	
+R397	Speaker Arg1:T230 Arg2:T234	
+R398	Addressee Arg1:T230 Arg2:T233	
+R399	Cueing Arg1:T244 Arg2:T242	
+R400	Speaker Arg1:T243 Arg2:T242	
+R401	Cueing Arg1:T244 Arg2:T245	
+R402	Speaker Arg1:T243 Arg2:T245	
+R403	Addressee Arg1:T243 Arg2:T254	
+R404	Speaker Arg1:T243 Arg2:T253	
+R405	Addressee Arg1:T243 Arg2:T252	
+R406	Speaker Arg1:T243 Arg2:T251	
+R407	Addressee Arg1:T243 Arg2:T250	
+R408	Speaker Arg1:T243 Arg2:T249	
+R409	Addressee Arg1:T243 Arg2:T248	
+R410	Speaker Arg1:T243 Arg2:T247	
+R411	Addressee Arg1:T243 Arg2:T246	
+R412	Speaker Arg1:T256 Arg2:T255	
+R413	Cueing Arg1:T257 Arg2:T255	
+R414	Cueing Arg1:T257 Arg2:T258	
+R415	Speaker Arg1:T256 Arg2:T258	
+R416	Speaker Arg1:T256 Arg2:T261	
+R417	Addressee Arg1:T256 Arg2:T262	
+R418	Speaker Arg1:T256 Arg2:T260	
+R419	Addressee Arg1:T256 Arg2:T259	
+R420	Cueing Arg1:T264 Arg2:T263	
+R421	Speaker Arg1:T265 Arg2:T263	
+T403	Entity 31415 31416	I
+R422	Addressee Arg1:T403 Arg2:T263	
+R423	Addressee Arg1:T403 Arg2:T266	
+R424	Addressee Arg1:T403 Arg2:T278	
+T404	Entity 33300 33302	he
+T405	Cue 33303 33308	spoke
+R425	Cueing Arg1:T405 Arg2:T278	
+R426	Speaker Arg1:T404 Arg2:T278	
+R427	Speaker Arg1:T403 Arg2:T277	
+R428	Addressee Arg1:T403 Arg2:T276	
+R429	Speaker Arg1:T403 Arg2:T275	
+R430	Addressee Arg1:T403 Arg2:T274	
+R431	Speaker Arg1:T403 Arg2:T273	
+R432	Addressee Arg1:T403 Arg2:T272	
+R433	Speaker Arg1:T403 Arg2:T271	
+R434	Addressee Arg1:T403 Arg2:T270	
+R435	Speaker Arg1:T403 Arg2:T269	
+R436	Addressee Arg1:T403 Arg2:T268	
+R437	Speaker Arg1:T403 Arg2:T267	
+R438	Speaker Arg1:T403 Arg2:T266	
+R439	Addressee Arg1:T265 Arg2:T277	
+R440	Speaker Arg1:T265 Arg2:T276	
+R441	Addressee Arg1:T265 Arg2:T275	
+R442	Speaker Arg1:T265 Arg2:T274	
+R443	Addressee Arg1:T265 Arg2:T273	
+R444	Speaker Arg1:T265 Arg2:T272	
+R445	Addressee Arg1:T265 Arg2:T271	
+R446	Speaker Arg1:T265 Arg2:T270	
+R447	Addressee Arg1:T265 Arg2:T269	
+R448	Speaker Arg1:T265 Arg2:T268	
+R449	Addressee Arg1:T265 Arg2:T267	
+R450	Speaker Arg1:T280 Arg2:T279	
+R451	Cueing Arg1:T281 Arg2:T279	
+R452	Cueing Arg1:T284 Arg2:T282	
+R453	Speaker Arg1:T285 Arg2:T282	
+R454	Addressee Arg1:T280 Arg2:T282	
+R455	Addressee Arg1:T285 Arg2:T279	
+R456	Cueing Arg1:T286 Arg2:T283	
+R457	Speaker Arg1:T287 Arg2:T283	
+R458	Addressee Arg1:T280 Arg2:T283	
+R459	Cueing Arg1:T286 Arg2:T288	
+R460	Speaker Arg1:T287 Arg2:T288	
+R461	Addressee Arg1:T280 Arg2:T288	
+R462	Cueing Arg1:T290 Arg2:T289	
+R463	Speaker Arg1:T291 Arg2:T289	
+R464	Cueing Arg1:T290 Arg2:T292	
+R465	Speaker Arg1:T291 Arg2:T292	
+R466	Addressee Arg1:T291 Arg2:T293	
+R467	Cueing Arg1:T296 Arg2:T295	
+R468	Speaker Arg1:T297 Arg2:T295	
+R469	Speaker Arg1:T299 Arg2:T298	
+R470	Cueing Arg1:T300 Arg2:T298	
+R471	Speaker Arg1:T299 Arg2:T301	
+R472	Cueing Arg1:T300 Arg2:T301	
+T406	Entity 36691 36692	I
+R473	Addressee Arg1:T406 Arg2:T316	
+R474	Speaker Arg1:T406 Arg2:T315	
+R475	Addressee Arg1:T406 Arg2:T314	
+R476	Speaker Arg1:T406 Arg2:T313	
+R477	Addressee Arg1:T406 Arg2:T312	
+R478	Speaker Arg1:T406 Arg2:T311	
+R479	Addressee Arg1:T406 Arg2:T310	
+R480	Addressee Arg1:T406 Arg2:T307	
+R481	Speaker Arg1:T406 Arg2:T306	
+R482	Addressee Arg1:T406 Arg2:T305	
+R483	Speaker Arg1:T406 Arg2:T304	
+R484	Addressee Arg1:T406 Arg2:T303	
+R485	Speaker Arg1:T406 Arg2:T302	
+R486	Addressee Arg1:T406 Arg2:T301	
+R487	Addressee Arg1:T406 Arg2:T298	
+R488	Addressee Arg1:T299 Arg2:T306	
+R489	Speaker Arg1:T299 Arg2:T305	
+R490	Addressee Arg1:T299 Arg2:T304	
+R491	Speaker Arg1:T299 Arg2:T303	
+R492	Addressee Arg1:T299 Arg2:T302	
+R493	Cueing Arg1:T308 Arg2:T307	
+R494	Speaker Arg1:T309 Arg2:T307	
+R495	Cueing Arg1:T308 Arg2:T310	
+R496	Speaker Arg1:T309 Arg2:T310	
+R497	Speaker Arg1:T309 Arg2:T322	
+T407	Entity 39940 39942	He
+R498	Addressee Arg1:T309 Arg2:T321	
+R499	Speaker Arg1:T309 Arg2:T320	
+R500	Addressee Arg1:T309 Arg2:T317	
+R501	Speaker Arg1:T309 Arg2:T316	
+R502	Addressee Arg1:T309 Arg2:T315	
+R503	Speaker Arg1:T309 Arg2:T314	
+R504	Addressee Arg1:T309 Arg2:T313	
+R505	Speaker Arg1:T309 Arg2:T312	
+R506	Addressee Arg1:T309 Arg2:T311	
+R507	Speaker Arg1:T318 Arg2:T317	
+R508	Cueing Arg1:T319 Arg2:T317	
+R509	Addressee Arg1:T318 Arg2:T322	
+R510	Speaker Arg1:T318 Arg2:T321	
+R511	Addressee Arg1:T318 Arg2:T320	
+R512	Cueing Arg1:T324 Arg2:T325	
+R513	Speaker Arg1:T323 Arg2:T325	
+R514	Addressee Arg1:T407 Arg2:T325	
+R515	Cueing Arg1:T327 Arg2:T326	
+R516	Speaker Arg1:T328 Arg2:T326	
+R517	Cueing Arg1:T327 Arg2:T329	
+R518	Speaker Arg1:T328 Arg2:T329	
+R519	Speaker Arg1:T331 Arg2:T330	
+R520	Cueing Arg1:T332 Arg2:T330	
+R521	Addressee Arg1:T333 Arg2:T330	
+R523	Addressee Arg1:T331 Arg2:T351	
+R525	Speaker Arg1:T331 Arg2:T350	
+R526	Addressee Arg1:T331 Arg2:T349	
+R529	Speaker Arg1:T331 Arg2:T348	
+R530	Addressee Arg1:T331 Arg2:T347	
+R522	Cueing Arg1:T342 Arg2:T341	
+R524	Speaker Arg1:T343 Arg2:T341	
+R527	Addressee Arg1:T343 Arg2:T352	
+R528	Speaker Arg1:T331 Arg2:T352	
+R531	Speaker Arg1:T343 Arg2:T351	
+R532	Addressee Arg1:T343 Arg2:T350	
+R533	Speaker Arg1:T343 Arg2:T349	
+R534	Addressee Arg1:T343 Arg2:T348	
+R535	Speaker Arg1:T343 Arg2:T347	
+R536	Speaker Arg1:T331 Arg2:T346	
+R537	Addressee Arg1:T343 Arg2:T346	
+R538	Speaker Arg1:T343 Arg2:T345	
+R539	Addressee Arg1:T331 Arg2:T345	
+R540	Speaker Arg1:T331 Arg2:T344	
+R541	Addressee Arg1:T343 Arg2:T344	
+R542	Addressee Arg1:T331 Arg2:T341	
+R543	Speaker Arg1:T331 Arg2:T340	
+R544	Addressee Arg1:T333 Arg2:T340	
+R545	Speaker Arg1:T333 Arg2:T339	
+R546	Addressee Arg1:T331 Arg2:T339	
+R547	Speaker Arg1:T331 Arg2:T338	
+R548	Addressee Arg1:T333 Arg2:T338	
+R549	Speaker Arg1:T333 Arg2:T337	
+R550	Addressee Arg1:T331 Arg2:T337	
+R551	Speaker Arg1:T331 Arg2:T336	
+R552	Addressee Arg1:T333 Arg2:T336	
+R553	Speaker Arg1:T333 Arg2:T335	
+R554	Addressee Arg1:T331 Arg2:T335	
+R555	Speaker Arg1:T331 Arg2:T334	
+R556	Addressee Arg1:T333 Arg2:T334	
+R557	Cueing Arg1:T355 Arg2:T354	
+R558	Speaker Arg1:T356 Arg2:T354	
+T353	Entity 41703 41706	her
+R559	Addressee Arg1:T359 Arg2:T354	
+R560	Cueing Arg1:T358 Arg2:T360	
+R561	Speaker Arg1:T359 Arg2:T360	
+R562	Addressee Arg1:T353 Arg2:T360	
+R563	Speaker Arg1:T353 Arg2:T357	
+R564	Addressee Arg1:T359 Arg2:T357	
+R565	Addressee Arg1:T353 Arg2:T361	
+R566	Speaker Arg1:T362 Arg2:T361	
+R567	Addressee Arg1:T353 Arg2:T369	
+R568	Speaker Arg1:T353 Arg2:T368	
+R569	Addressee Arg1:T353 Arg2:T365	
+R570	Speaker Arg1:T353 Arg2:T364	
+R571	Addressee Arg1:T353 Arg2:T363	
+R572	Speaker Arg1:T362 Arg2:T363	
+R573	Addressee Arg1:T362 Arg2:T364	
+R574	Cueing Arg1:T366 Arg2:T365	
+R575	Speaker Arg1:T367 Arg2:T365	
+R576	Speaker Arg1:T367 Arg2:T369	
+R577	Addressee Arg1:T367 Arg2:T368	
+R578	Cueing Arg1:T371 Arg2:T370	
+R579	Speaker Arg1:T372 Arg2:T370	
+T408	Entity 44486 44488	we
+R580	Addressee Arg1:T408 Arg2:T370	
+R581	Cueing Arg1:T371 Arg2:T373	
+R582	Speaker Arg1:T372 Arg2:T373	
+R583	Addressee Arg1:T408 Arg2:T373	
+R584	Cueing Arg1:T375 Arg2:T374	
+R585	Cueing Arg1:T375 Arg2:T377	
+R586	Speaker Arg1:T376 Arg2:T374	
+R587	Speaker Arg1:T376 Arg2:T377	
+R588	Addressee Arg1:T372 Arg2:T374	
+R589	Addressee Arg1:T372 Arg2:T377	
+R590	Cueing Arg1:T379 Arg2:T378	
+R591	Cueing Arg1:T379 Arg2:T381	
+R592	Speaker Arg1:T380 Arg2:T378	
+R593	Speaker Arg1:T380 Arg2:T381	
+R594	Addressee Arg1:T376 Arg2:T381	
+R595	Addressee Arg1:T376 Arg2:T378	
+R596	Speaker Arg1:T376 Arg2:T382	
+R597	Addressee Arg1:T380 Arg2:T382	
+R598	Speaker Arg1:T384 Arg2:T383	
+R599	Addressee Arg1:T376 Arg2:T383	
+R600	Cueing Arg1:T386 Arg2:T385	
+R601	Speaker Arg1:T387 Arg2:T385	
+R602	Addressee Arg1:T384 Arg2:T385	
+R603	Speaker Arg1:T387 Arg2:T394	
+R604	Speaker Arg1:T391 Arg2:T390	
+R605	Speaker Arg1:T391 Arg2:T393	
+R606	Cueing Arg1:T392 Arg2:T390	
+R607	Cueing Arg1:T392 Arg2:T393	
+R608	Addressee Arg1:T391 Arg2:T394	
+R609	Addressee Arg1:T387 Arg2:T393	
+R610	Addressee Arg1:T387 Arg2:T390	
+R611	Speaker Arg1:T387 Arg2:T389	
+R612	Addressee Arg1:T384 Arg2:T389	
+R613	Speaker Arg1:T384 Arg2:T388	
+R614	Addressee Arg1:T387 Arg2:T388	

@@ -1,0 +1,211 @@
+COREF	start_token	end_token	prop	cat	text
+14	7	11	NOM	PER	A throng of bearded men
+15	10	11	NOM	PER	bearded men
+16	29	29	NOM	PER	women
+17	31	33	NOM	PER	some wearing hoods
+18	64	69	NOM	PER	The founders of a new colony
+19	67	69	NOM	GPE	a new colony
+18	78	78	PRON	PER	they
+18	88	88	PRON	PER	their
+20	101	102	NOM	FAC	a cemetery
+21	111	112	NOM	FAC	a prison
+0	128	128	PROP	GPE	Boston
+22	131	160	NOM	FAC	the first prison - house somewhere in the Vicinity of Cornhill , almost as seasonably as they marked out the first burial - ground , on Isaac Johnson 's lot
+23	138	141	NOM	FAC	the Vicinity of Cornhill
+1	141	141	PROP	GPE	Cornhill
+18	147	147	PRON	PER	they
+24	150	154	NOM	FAC	the first burial - ground
+5	157	158	PROP	PER	Isaac Johnson
+25	157	160	NOM	FAC	Isaac Johnson 's lot
+5	165	165	PRON	PER	his
+26	179	185	NOM	FAC	the old churchyard of King 's Chapel
+2	183	185	PROP	FAC	King 's Chapel
+27	198	202	NOM	FAC	the settlement of the town
+28	201	202	NOM	GPE	the town
+29	204	206	NOM	FAC	the wooden jail
+29	244	244	PRON	FAC	its
+30	254	256	NOM	LOC	the New World
+31	289	290	NOM	FAC	the street
+21	336	337	NOM	FAC	a prison
+33	344	345	NOM	FAC	the portal
+34	380	380	PRON	PER	their
+35	386	387	NOM	PER	the prisoner
+35	389	389	PRON	PER	he
+36	395	397	NOM	PER	the condemned criminal
+35	399	399	PRON	PER	he
+35	403	403	PRON	PER	his
+35	420	420	PRON	PER	him
+37	447	450	NOM	LOC	the stern old wilderness
+38	462	466	NOM	FAC	oaks that originally overshadowed it
+6	489	490	PROP	PER	Ann Hutchinson
+6	492	492	PRON	PER	she
+39	494	495	NOM	FAC	the prison
+40	499	499	PRON	PER	we
+40	504	504	PRON	PER	us
+40	516	516	PRON	PER	our
+40	530	530	PRON	PER	we
+41	546	547	NOM	PER	the reader
+40	554	554	PRON	PER	us
+42	596	597	NOM	FAC	the jail
+3	600	601	PROP	FAC	Prison Lane
+43	619	627	NOM	PER	a pretty large number of the inhabitants of Boston
+44	624	627	NOM	PER	the inhabitants of Boston
+0	627	627	PROP	GPE	Boston
+43	631	631	PRON	PER	their
+45	644	646	NOM	PER	any other population
+4	657	658	PROP	GPE	New England
+46	669	671	NOM	PER	these good people
+47	692	703	NOM	PER	some noted culprit , on whom the sentence of a legal tribunal
+48	740	744	NOM	PER	a sluggish bond - servant
+49	747	760	NOM	PER	an undutiful child , whom his parents had given over to the civil authority
+49	752	752	PRON	PER	his
+50	752	753	NOM	PER	his parents
+51	758	760	NOM	PER	the civil authority
+52	776	777	NOM	PER	an Antinomian
+53	779	780	NOM	PER	a Quaker
+54	783	785	NOM	PER	other heterodox religionist
+28	793	794	NOM	GPE	the town
+56	797	801	NOM	PER	an idle or vagrant Indian
+57	804	806	NOM	PER	the white man
+58	813	814	NOM	FAC	the streets
+59	826	827	NOM	LOC	the forest
+60	836	837	NOM	PER	a witch
+7	840	842	PROP	PER	old Mistress Hibbins
+61	844	851	NOM	PER	the bitter - tempered widow of the magistrate
+62	850	851	NOM	PER	the magistrate
+63	877	878	NOM	PER	the spectators
+64	882	888	NOM	PER	a people among whom religion and law
+65	904	917	NOM	PER	the mildest and severest acts of public discipline were alike made venerable and awful
+8	919	919	PROP	PER	Meagre
+66	930	938	NOM	PER	a transgressor might look for , from such bystanders
+67	954	954	PRON	PER	our
+67	996	996	PRON	PER	our
+68	1003	1013	NOM	PER	the women , of whom there were several in the crowd
+69	1010	1013	NOM	PER	several in the crowd
+68	1061	1061	PRON	PER	their
+70	1061	1064	NOM	PER	their not unsubstantial persons
+71	1094	1108	NOM	PER	those wives and maidens of old English birth and breeding than in their fair descendants
+68	1106	1106	PRON	PER	their
+72	1106	1108	NOM	PER	their fair descendants
+71	1112	1112	PRON	PER	them
+73	1114	1120	NOM	PER	a series of six or seven generations
+74	1130	1132	NOM	PER	every successive mother
+74	1136	1136	PRON	PER	her
+75	1136	1137	NOM	PER	her child
+74	1164	1164	PRON	PER	her
+76	1167	1203	NOM	PER	The women who were now standing about the prison - door stood within less than half a century of the period when the man - like Elizabeth had been the not altogether unsuitable representative of the sex
+39	1174	1175	NOM	FAC	the prison
+78	1189	1190	NOM	PER	the man
+9	1193	1193	PROP	PER	Elizabeth
+76	1205	1205	PRON	PER	They
+9	1207	1207	PRON	PER	her
+79	1207	1208	NOM	PER	her countrywomen
+76	1216	1216	PRON	PER	their
+80	1216	1218	NOM	LOC	their native land
+76	1233	1233	PRON	PER	their
+81	1264	1268	NOM	LOC	the far - off island
+4	1282	1283	PROP	GPE	New England
+76	1303	1303	PRON	PER	them
+82	1311	1311	PRON	PER	us
+83	1334	1340	NOM	PER	a hard - featured dame of fifty
+83	1343	1343	PRON	PER	I
+83	1346	1346	PRON	PER	ye
+83	1350	1350	PRON	PER	my
+108	1362	1362	PRON	PER	we
+109	1370	1375	NOM	PER	church - members in good repute
+10	1385	1387	PROP	PER	this Hester Prynne
+83	1391	1391	PRON	PER	ye
+110	1393	1393	NOM	PER	gossips
+111	1396	1397	NOM	PER	the hussy
+82	1403	1403	PRON	PER	us
+111	1416	1416	PRON	PER	she
+112	1424	1426	NOM	PER	the worshipful magistrates
+83	1432	1432	PRON	PER	I
+113	1438	1438	NOM	PER	People
+11	1447	1450	PROP	PER	the Reverend Master Dimmesdale
+111	1452	1452	PRON	PER	her
+114	1452	1454	NOM	PER	her godly pastor
+11	1470	1470	PRON	PER	his
+115	1470	1471	NOM	FAC	his congregation
+116	1475	1476	NOM	PER	The magistrates
+117	1478	1481	NOM	PER	God - fearing gentlemen
+116	1505	1505	PRON	PER	they
+10	1516	1517	PROP	PER	Hester Prynne
+12	1521	1522	PROP	PER	Madame Hester
+83	1529	1529	PRON	PER	I
+83	1531	1531	PRON	PER	me
+12	1534	1534	PRON	PER	she
+118	1536	1538	NOM	PER	the naughty baggage
+12	1542	1542	PRON	PER	she
+116	1545	1545	PRON	PER	they
+12	1551	1551	PRON	PER	her
+12	1557	1557	PRON	PER	you
+12	1559	1559	PRON	PER	she
+58	1576	1577	NOM	FAC	the streets
+84	1595	1597	NOM	PER	a young wife
+85	1600	1604	NOM	PER	a child by the hand
+84	1608	1608	PRON	PER	her
+84	1613	1613	PRON	PER	she
+84	1624	1624	PRON	PER	her
+120	1631	1631	PRON	PER	we
+84	1643	1643	PRON	PER	her
+84	1649	1649	PRON	PER	her
+86	1654	1655	NOM	PER	another female
+87	1666	1670	NOM	PER	these self - constituted judges
+121	1673	1674	NOM	PER	This woman
+120	1679	1679	PRON	PER	us
+122	1710	1719	NOM	PER	the magistrates , who have made it of no effect
+122	1722	1722	PRON	PER	themselves
+122	1724	1724	PRON	PER	their
+123	1724	1726	NOM	PER	their own wives
+124	1728	1728	NOM	PER	daughters
+120	1736	1736	PRON	PER	us
+125	1738	1738	NOM	PER	goodwife
+88	1742	1746	NOM	PER	a man in the crowd
+126	1754	1754	NOM	PER	woman
+13	1792	1793	PROP	PER	Mistress Prynne
+13	1794	1794	PRON	PER	herself
+42	1800	1801	NOM	FAC	the jail
+28	1829	1830	NOM	GPE	the town
+88	1838	1838	PRON	PER	his
+88	1842	1842	PRON	PER	his
+88	1847	1847	PRON	PER	his
+88	1856	1856	PRON	PER	his
+88	1872	1872	PRON	PER	his
+91	1883	1884	NOM	PER	the offender
+92	1888	1894	NOM	PER	the official staff in his left hand
+88	1892	1892	PRON	PER	his
+88	1896	1896	PRON	PER	he
+88	1898	1898	PRON	PER	his
+93	1904	1906	NOM	PER	a young woman
+88	1909	1909	PRON	PER	he
+93	1925	1925	PRON	PER	she
+88	1927	1927	PRON	PER	him
+93	1950	1950	PRON	PER	her
+93	1955	1955	PRON	PER	She
+93	1958	1958	PRON	PER	her
+94	1960	1961	NOM	PER	a child
+95	1963	1969	NOM	PER	a baby of some three months old
+95	1976	1976	PRON	PER	its
+96	2003	2004	NOM	FAC	a dungeon
+97	2007	2012	NOM	FAC	other darksome apartment of the prison
+39	2011	2012	NOM	FAC	the prison
+99	2015	2017	NOM	PER	the young woman
+100	2019	2023	NOM	PER	the mother of this child
+101	2022	2023	NOM	PER	this child
+102	2029	2030	NOM	PER	the crowd
+99	2036	2036	PRON	PER	her
+103	2041	2042	NOM	PER	the infant
+99	2045	2045	PRON	PER	her
+99	2060	2060	PRON	PER	she
+99	2074	2074	PRON	PER	her
+99	2089	2089	PRON	PER	her
+99	2099	2099	PRON	PER	she
+104	2101	2102	NOM	PER	the baby
+99	2104	2104	PRON	PER	her
+99	2131	2131	PRON	PER	her
+105	2131	2132	NOM	PER	her townspeople
+106	2134	2134	NOM	PER	neighbours
+99	2140	2140	PRON	PER	her
+99	2197	2197	PRON	PER	she
+107	2226	2227	NOM	GPE	the colony

@@ -1,0 +1,89 @@
+{
+  "threshold": 0.9,
+  "TP": 12,
+  "FP": 3,
+  "FN": 0,
+  "n_pred": 15,
+  "n_gold": 12,
+  "matched_gold": 12,
+  "precision": 0.8,
+  "recall": 1.0,
+  "f1": 0.888888888888889,
+  "predictions": [
+    {
+      "string": "ran",
+      "best_similarity": 0.1905,
+      "correct": false
+    },
+    {
+      "string": "cottonwarp",
+      "best_similarity": 0.2759,
+      "correct": false
+    },
+    {
+      "string": "RachelLyndeshusband",
+      "best_similarity": 0.3158,
+      "correct": false
+    },
+    {
+      "string": "IlljuststepovertoGreenGablesafterteaandfindoutfromMarillawherehesgoneandwhy,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hedoesntgenerallygototownthistimeofyearandhe_never_visits;ifhedrunoutofturnipseedhewouldntdressupandtakethebuggytogoformore;hewasntdrivingfastenoughtobegoingforadoctor.Yetsomethingmusthavehappenedsincelastnighttostarthimoff.Imcleanpuzzled,thatswhat,andIwontknowaminutespeaceofmindorconscienceuntilIknowwhathastakenMatthewCuthbertoutofAvonleatoday.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsjust_staying_,thatswhat,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ItsnowonderMatthewandMarillaarebothalittleodd,livingawaybackherebythemselves.Treesarentmuchcompany,thoughdearknowsiftheyweretheredbeenoughofthem.Idrutherlookatpeople.Tobesure,theyseemcontentedenough;butthen,Isuppose,theyreusedtoit.Abodycangetusedtoanything,eventobeinghanged,astheIrishmansaid.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodevening,Rachel,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thisisarealfineevening,isntit?Wontyousitdown?Howareallyourfolks?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wereallprettywell,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwaskindofafraid_you_werent,though,whenIsawMatthewstartingofftoday.Ithoughtmaybehewasgoingtothedoctors.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,no,ImquitewellalthoughIhadabadheadacheyesterday,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MatthewwenttoBrightRiver.WeregettingalittleboyfromanorphanasyluminNovaScotiaandhescomingonthetraintonight.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyouinearnest,Marilla?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,ofcourse,",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

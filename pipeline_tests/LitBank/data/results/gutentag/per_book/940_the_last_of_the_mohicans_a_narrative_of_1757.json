@@ -1,0 +1,34 @@
+{
+  "threshold": 0.9,
+  "TP": 0,
+  "FP": 4,
+  "FN": 0,
+  "n_pred": 4,
+  "n_gold": 0,
+  "matched_gold": 0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "predictions": [
+    {
+      "string": "Mineearisopen,andmyheartprepared:Theworstiswordlylossthoucanstunfold:—Say,ismykingdomlost?—Shakespeare",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Horican.*",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "TheTailoftheLake.LakeGeorge,asitisvulgarly,andnow,indeed,legally,called,formsasortoftailtoLakeChamplain,whenviewedonthemap.Hence,thename.",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "holylake,foraspeedyandpowerfulreinforcement.Ithasalreadybeenmentionedthatthedistancebetweenthesetwopostswaslessthanfiveleagues.Therudepath,whichoriginallyformedtheirlineofcommunication,hadbeenwidenedforthepassageofwagons;sothatthedistancewhichhadbeentraveledbythesonoftheforestintwohours,mighteasilybeeffectedbyadetachmentoftroops,withtheirnecessarybaggage,betweentherisingandsettingofasummersun.TheloyalservantsoftheBritishcrownhadgiventooneoftheseforest-fastnessesthenameofWilliamHenry,andtotheotherthatofFortEdward,callingeachafterafavoriteprinceofthereigningfamily.TheveteranScotchmanjustnamedheldthefirst,witharegimentofregularsandafewprovincials;aforcereallybyfartoosmalltomakeheadagainsttheformidablepowerthatMontcalmwasleadingtothefootofhisearthenmounds.Atthelatter,however,layGeneralWebb,whocommandedthearmiesofthekinginthenorthernprovinces,withabodyofmorethanfivethousandmen.Byunitingtheseveraldetachmentsofhiscommand,thisofficermighthavearrayednearlydoublethatnumberofcombatantsagainsttheenterprisingFrenchman,whohadventuredsofarfromhisreinforcements,withanarmybutlittlesuperiorinnumbers.",
+      "best_similarity": 0.0,
+      "correct": false
+    }
+  ]
+}

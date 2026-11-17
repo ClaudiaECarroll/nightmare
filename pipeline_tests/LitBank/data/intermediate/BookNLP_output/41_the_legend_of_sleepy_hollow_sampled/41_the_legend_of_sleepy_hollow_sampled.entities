@@ -1,0 +1,231 @@
+COREF	start_token	end_token	prop	cat	text
+8	7	8	PROP	PER	DIEDRICH KNICKERBOCKER
+14	10	15	NOM	LOC	A pleasing land of drowsy head
+14	16	16	PRON	LOC	it
+15	47	49	NOM	FAC	CASTLE OF INDOLENCE
+16	55	67	NOM	GPE	one of those spacious coves which indent the eastern shore of the Hudson
+17	62	67	NOM	LOC	the eastern shore of the Hudson
+1	66	67	PROP	LOC	the Hudson
+18	74	75	NOM	LOC	the river
+19	78	80	NOM	PER	the ancient Dutch
+2	82	84	PROP	LOC	the Tappan Zee
+19	88	88	PRON	PER	they
+9	98	99	PROP	PER	St. Nicholas
+19	101	101	PRON	PER	they
+20	106	112	NOM	GPE	a small market town or rural port
+3	119	119	PROP	GPE	Greensburgh
+4	133	134	PROP	GPE	Tarry Town
+21	141	141	PRON	PER	we
+22	150	156	NOM	FAC	the good housewives of the adjacent country
+23	154	156	NOM	GPE	the adjacent country
+22	163	163	PRON	PER	their
+24	163	164	NOM	PER	their husbands
+25	168	169	NOM	GPE	the village
+0	181	181	PRON	PER	I
+26	207	208	NOM	GPE	this village
+27	217	227	NOM	LOC	a little valley or rather lap of land among high hills
+28	233	239	NOM	LOC	the quietest places in the whole world
+29	237	239	NOM	LOC	the whole world
+30	241	243	NOM	LOC	A small brook
+0	284	284	PRON	PER	I
+0	292	292	PRON	PER	my
+31	310	314	NOM	LOC	one side of the valley
+32	313	314	NOM	LOC	the valley
+0	316	316	PRON	PER	I
+27	320	320	PRON	LOC	it
+0	338	338	PRON	PER	my
+0	361	361	PRON	PER	I
+0	368	368	PRON	PER	I
+33	372	373	NOM	LOC	the world
+0	389	389	PRON	PER	I
+34	396	398	NOM	LOC	this little valley
+35	405	406	NOM	FAC	the place
+35	413	413	PRON	PER	its
+36	413	414	NOM	PER	its inhabitants
+37	418	423	NOM	PER	descendants from the original Dutch settlers
+38	420	423	NOM	PER	the original Dutch settlers
+39	425	427	NOM	LOC	this sequestered glen
+10	436	437	PROP	PER	SLEEPY HOLLOW
+40	440	442	NOM	PER	its rustic lads
+10	445	448	PROP	PER	the Sleepy Hollow Boys
+41	450	453	NOM	GPE	all the neighboring country
+42	464	465	NOM	LOC	the land
+43	474	474	NOM	PER	Some
+35	477	478	NOM	GPE	the place
+45	482	485	NOM	PER	a High German doctor
+46	492	493	NOM	GPE	the settlement
+47	498	501	NOM	PER	an old Indian chief
+48	503	509	NOM	PER	the prophet or wizard of his tribe
+47	508	508	PRON	PER	his
+49	508	509	NOM	PER	his tribe
+47	512	512	PRON	PER	his
+50	516	517	NOM	GPE	the country
+11	521	523	PROP	PER	Master Hendrick Hudson
+35	529	530	NOM	GPE	the place
+52	549	551	NOM	PER	the good people
+52	554	554	PRON	PER	them
+52	562	562	PRON	PER	They
+53	594	596	NOM	GPE	The whole neighborhood
+32	616	617	NOM	LOC	the valley
+55	620	625	NOM	LOC	any other part of the country
+50	624	625	NOM	GPE	the country
+35	632	632	PRON	PER	her
+35	644	644	PRON	PER	her
+57	655	657	NOM	LOC	this enchanted region
+58	663	674	NOM	PER	commander - in - chief of all the powers of the air
+59	680	683	NOM	PER	a figure on horseback
+60	699	713	NOM	PER	a Hessian trooper , whose head had been carried away by a cannon - ball
+60	752	752	PRON	PER	His
+32	758	759	NOM	LOC	the valley
+62	766	768	NOM	FAC	the adjacent roads
+63	776	777	NOM	FAC	a church
+64	787	808	NOM	PER	the most authentic historians of those parts , who have been careful in collecting and collating the floating facts concerning this spectre
+65	815	816	NOM	PER	the trooper
+66	821	822	NOM	FAC	the churchyard
+67	824	825	NOM	PER	the ghost
+65	837	837	PRON	PER	his
+65	847	847	PRON	PER	he
+5	851	852	PROP	LOC	the Hollow
+60	862	862	PRON	PER	his
+66	874	875	NOM	FAC	the churchyard
+69	899	902	NOM	LOC	that region of shadows
+70	910	912	NOM	LOC	all the country
+71	919	924	NOM	PER	the Headless Horseman of Sleepy Hollow
+10	923	924	PROP	LOC	Sleepy Hollow
+0	933	933	PRON	PER	I
+72	940	945	NOM	PER	the native inhabitants of the valley
+32	944	945	NOM	LOC	the valley
+74	952	959	NOM	PER	every one who resides there for a time
+74	964	964	PRON	PER	they
+74	969	969	PRON	PER	they
+75	971	973	NOM	LOC	that sleepy region
+74	975	975	PRON	PER	they
+0	1007	1007	PRON	PER	I
+76	1021	1025	NOM	LOC	such little retired Dutch valleys
+77	1033	1038	NOM	GPE	the great State of New York
+78	1066	1071	NOM	LOC	other parts of this restless country
+79	1069	1071	NOM	LOC	this restless country
+78	1075	1075	PRON	PER	them
+78	1078	1078	PRON	PER	They
+80	1090	1092	NOM	LOC	a rapid stream
+81	1095	1095	PRON	PER	we
+78	1111	1111	PRON	PER	their
+0	1130	1130	PRON	PER	I
+10	1136	1137	PROP	PER	Sleepy Hollow
+0	1140	1140	PRON	PER	I
+0	1143	1143	PRON	PER	I
+82	1152	1159	NOM	PER	the same families vegetating in its sheltered bosom
+83	1162	1169	NOM	GPE	this by - place of nature there abode
+84	1189	1226	NOM	PER	a worthy wight of the name of Ichabod Crane , who sojourned , or , as he expressed it , “ tarried , ” in Sleepy Hollow , for the purpose of instructing the children of the vicinity
+12	1196	1197	PROP	PER	Ichabod Crane
+12	1205	1205	PRON	PER	he
+10	1214	1215	PROP	LOC	Sleepy Hollow
+85	1222	1226	NOM	PER	the children of the vicinity
+86	1225	1226	NOM	GPE	the vicinity
+12	1228	1228	PRON	PER	He
+87	1230	1233	NOM	PER	a native of Connecticut
+7	1233	1233	PROP	GPE	Connecticut
+88	1235	1236	NOM	GPE	a State
+89	1239	1240	NOM	GPE	the Union
+90	1242	1242	NOM	PER	pioneers
+91	1250	1251	NOM	LOC	the forest
+92	1260	1261	NOM	PER	frontier woodmen
+93	1263	1264	NOM	PER	country schoolmasters
+94	1266	1269	NOM	PER	The cognomen of Crane
+12	1269	1269	PROP	PER	Crane
+94	1274	1274	PRON	PER	his
+95	1274	1275	NOM	PER	his person
+94	1277	1277	PRON	PER	He
+94	1301	1301	PRON	PER	his
+94	1313	1313	PRON	PER	his
+94	1321	1321	PRON	PER	His
+94	1357	1357	PRON	PER	his
+94	1370	1370	PRON	PER	him
+96	1376	1377	NOM	LOC	a hill
+94	1384	1384	PRON	PER	his
+94	1390	1390	PRON	PER	him
+94	1396	1396	PRON	PER	him
+97	1398	1405	NOM	PER	the genius of famine descending upon the earth
+94	1415	1415	PRON	PER	His
+98	1415	1416	NOM	FAC	His schoolhouse
+99	1418	1429	NOM	FAC	a low building of one large room , rudely constructed of logs
+100	1422	1424	NOM	FAC	one large room
+101	1476	1477	NOM	PER	a thief
+101	1485	1485	PRON	PER	he
+102	1498	1499	NOM	PER	the architect
+13	1501	1503	PROP	PER	Yost Van Houten
+103	1512	1513	NOM	FAC	The schoolhouse
+104	1528	1530	NOM	LOC	a woody hill
+94	1558	1558	PRON	PER	his
+105	1558	1559	NOM	PER	his pupils
+105	1565	1565	PRON	PER	their
+106	1594	1595	NOM	PER	the master
+94	1618	1618	PRON	PER	he
+107	1620	1628	NOM	PER	some tardy loiterer along the flowery path of knowledge
+94	1634	1634	PRON	PER	he
+108	1636	1638	NOM	PER	a conscientious man
+138	1655	1656	NOM	PER	the child
+12	1659	1660	PROP	PER	Ichabod Crane
+0	1668	1668	PRON	PER	I
+94	1678	1678	PRON	PER	he
+109	1680	1695	NOM	PER	one of those cruel potentates of the school who joy in the smart of their subjects
+110	1686	1695	NOM	ORG	the school who joy in the smart of their subjects
+110	1694	1694	PRON	PER	their
+94	1701	1701	PRON	PER	he
+111	1729	1729	PRON	PER	Your
+112	1763	1787	NOM	PER	some little tough wrong - headed , broad - skirted Dutch urchin , who sulked and swelled and grew dogged and sullen beneath the birch
+94	1791	1791	PRON	PER	he
+94	1795	1795	PRON	PER	his
+110	1798	1798	PRON	PER	their
+139	1798	1799	NOM	PER	their parents
+94	1803	1803	PRON	PER	he
+113	1818	1820	NOM	PER	the smarting urchin
+94	1824	1824	PRON	PER	he
+94	1830	1830	PRON	PER	him
+94	1836	1836	PRON	PER	he
+94	1848	1848	PRON	PER	he
+114	1851	1858	NOM	PER	the companion and playmate of the larger boys
+115	1856	1858	NOM	PER	the larger boys
+116	1866	1892	NOM	PER	some of the smaller ones home , who happened to have pretty sisters , or good housewives for mothers , noted for the comforts of the cupboard
+117	1868	1892	NOM	PER	the smaller ones home , who happened to have pretty sisters , or good housewives for mothers , noted for the comforts of the cupboard
+118	1871	1871	NOM	FAC	home
+119	1877	1878	NOM	PER	pretty sisters
+120	1881	1882	NOM	PER	good housewives
+121	1884	1884	NOM	PER	mothers
+122	1891	1892	NOM	FAC	the cupboard
+94	1898	1898	PRON	PER	him
+94	1905	1905	PRON	PER	his
+105	1905	1906	NOM	PER	his pupils
+94	1912	1912	PRON	PER	his
+124	1912	1913	NOM	FAC	his school
+94	1925	1925	PRON	PER	him
+94	1931	1931	PRON	PER	he
+94	1954	1954	PRON	PER	his
+94	1957	1957	PRON	PER	he
+125	1972	1980	NOM	FAC	the houses of the farmers whose children he instructed
+126	1975	1980	NOM	PER	the farmers whose children he instructed
+94	1979	1979	PRON	PER	he
+94	1984	1984	PRON	PER	he
+127	1998	1999	NOM	FAC	the neighborhood
+94	2003	2003	PRON	PER	his
+94	2025	2025	PRON	PER	his
+128	2025	2027	NOM	PER	his rustic patrons
+129	2043	2043	NOM	PER	schoolmasters
+130	2045	2046	NOM	PER	mere drones
+94	2048	2048	PRON	PER	he
+94	2054	2054	PRON	PER	himself
+94	2060	2060	PRON	PER	He
+131	2062	2063	NOM	PER	the farmers
+131	2070	2070	PRON	PER	their
+132	2070	2071	NOM	FAC	their farms
+94	2102	2102	PRON	PER	He
+94	2117	2117	PRON	PER	he
+94	2121	2121	PRON	PER	his
+133	2125	2126	NOM	FAC	the school
+94	2135	2135	PRON	PER	He
+134	2142	2143	NOM	PER	the mothers
+135	2146	2147	NOM	PER	the children
+136	2150	2151	NOM	PER	the youngest
+94	2168	2168	PRON	PER	he
+137	2172	2176	NOM	PER	a child on one knee
+94	2183	2183	PRON	PER	his

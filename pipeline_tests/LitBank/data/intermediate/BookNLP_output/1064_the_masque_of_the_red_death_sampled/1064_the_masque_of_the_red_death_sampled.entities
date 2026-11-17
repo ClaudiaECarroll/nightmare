@@ -1,0 +1,115 @@
+COREF	start_token	end_token	prop	cat	text
+4	8	9	NOM	GPE	the country
+5	71	72	NOM	PER	the victim
+5	80	80	PRON	PER	him
+5	90	90	PRON	PER	his
+6	90	93	NOM	PER	his fellow - men
+7	116	118	NOM	PER	the Prince Prospero
+7	127	127	PRON	PER	his
+7	133	133	PRON	PER	he
+7	136	136	PRON	PER	his
+8	138	154	NOM	PER	a thousand hale and light - hearted friends from among the knights and dames of his court
+7	153	153	PRON	PER	his
+9	153	154	NOM	FAC	his court
+10	165	169	NOM	FAC	one of his castellated abbeys
+7	167	167	PRON	PER	his
+11	167	169	NOM	FAC	his castellated abbeys
+12	182	183	NOM	PER	the prince
+13	207	208	NOM	PER	The courtiers
+13	223	223	PRON	PER	They
+14	245	246	NOM	FAC	The abbey
+13	254	255	NOM	PER	the courtiers
+16	262	264	NOM	LOC	The external world
+16	269	269	PRON	PER	itself
+12	284	285	NOM	PER	The prince
+18	304	306	NOM	PER	ballet - dancers
+19	310	310	NOM	PER	musicians
+7	347	347	PRON	PER	his
+7	360	362	NOM	PER	the Prince Prospero
+1	362	362	PROP	PER	Prospero
+7	364	364	PRON	PER	his
+21	364	366	NOM	PER	his thousand friends
+0	389	389	PRON	PER	me
+22	392	393	NOM	FAC	the rooms
+22	396	396	PRON	FAC	it
+23	404	406	NOM	FAC	an imperial suite
+24	409	410	NOM	FAC	many palaces
+25	414	415	NOM	FAC	such suites
+26	462	463	NOM	PER	the duke
+27	472	473	NOM	FAC	The apartments
+28	541	542	NOM	FAC	the suite
+22	567	567	PRON	FAC	it
+27	587	587	PRON	FAC	its
+29	590	592	NOM	FAC	The second chamber
+30	639	641	NOM	FAC	The seventh apartment
+31	676	677	NOM	FAC	this chamber
+32	705	710	NOM	FAC	no one of the seven apartments
+33	708	710	NOM	FAC	the seven apartments
+34	749	752	NOM	FAC	the suite of chambers
+35	752	752	NOM	FAC	chambers
+36	756	761	NOM	FAC	the corridors that followed the suite
+28	760	761	NOM	FAC	the suite
+38	793	794	NOM	FAC	the room
+39	810	814	NOM	FAC	the western or black chamber
+40	860	861	NOM	PER	the company
+28	868	868	PRON	FAC	its
+41	868	871	NOM	FAC	its precincts at all
+42	876	877	NOM	FAC	this apartment
+43	970	974	NOM	PER	the musicians of the orchestra
+44	973	974	NOM	PER	the orchestra
+43	983	983	PRON	PER	their
+43	998	998	PRON	PER	their
+45	1034	1038	NOM	PER	the more aged and sedate
+45	1040	1040	PRON	PER	their
+45	1043	1043	PRON	PER	their
+46	1070	1071	NOM	PER	the musicians
+46	1081	1081	PRON	PER	their
+46	1107	1107	PRON	PER	them
+26	1179	1180	NOM	PER	the duke
+26	1184	1184	PRON	PER	He
+26	1194	1194	PRON	PER	He
+26	1204	1204	PRON	PER	His
+26	1212	1212	PRON	PER	his
+26	1226	1226	PRON	PER	him
+26	1229	1229	PRON	PER	His
+48	1229	1230	NOM	PER	His followers
+26	1233	1233	PRON	PER	he
+26	1246	1246	PRON	PER	him
+26	1253	1253	PRON	PER	he
+26	1257	1257	PRON	PER	He
+49	1269	1271	NOM	FAC	the seven chambers
+26	1285	1285	PRON	PER	his
+50	1294	1295	NOM	PER	the masqueraders
+50	1299	1299	PRON	PER	they
+2	1323	1323	PROP	PER	Hernani
+51	1328	1334	NOM	PER	arabesque figures with unsuited limbs and appointments
+49	1386	1388	NOM	FAC	the seven chambers
+22	1413	1414	NOM	FAC	the rooms
+44	1422	1423	NOM	PER	the orchestra
+44	1430	1430	PRON	PER	their
+44	1480	1480	PRON	PER	they
+44	1492	1492	PRON	PER	they
+44	1509	1509	PRON	PER	them
+44	1511	1511	PRON	PER	they
+55	1567	1572	NOM	PER	none of the maskers who venture
+26	1605	1605	PRON	PER	him
+44	1633	1633	PRON	PER	their
+56	1639	1646	NOM	FAC	the more remote gaieties of the other apartments
+57	1644	1646	NOM	FAC	the other apartments
+58	1649	1651	NOM	FAC	these other apartments
+59	1667	1668	NOM	PER	the revel
+0	1693	1693	PRON	PER	I
+60	1701	1702	NOM	PER	the waltzers
+61	1792	1817	NOM	PER	the crowd who had found leisure to become aware of the presence of a masked figure which had arrested the attention of no single individual before
+62	1814	1816	NOM	PER	no single individual
+63	1837	1839	NOM	PER	the whole company
+0	1873	1873	PRON	PER	I
+64	1905	1906	NOM	PER	the figure
+3	1912	1913	PROP	PER	Heroded Herod
+12	1922	1923	NOM	PER	the prince
+66	1990	1991	NOM	PER	the stranger
+64	1998	1999	NOM	PER	The figure
+68	2063	2065	NOM	PER	the mad revellers
+69	2069	2070	NOM	PER	the mummer
+64	2085	2085	PRON	PER	His
+64	2092	2092	PRON	PER	his

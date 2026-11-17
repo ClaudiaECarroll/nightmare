@@ -1,0 +1,28 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+624	632	634	635	the doctor	22	“ Good - evening , Mr. Kronborg , ”
+638	642	634	635	the doctor	22	“ Sit down . ”
+709	736	758	759	the doctor	22	“ Good - evening , doctor . Can you step around to the house with me ? I think Mrs. Kronborg will need you this evening . ”
+753	757	758	759	the doctor	22	“ Any hurry ? ”
+812	845	800	800	He	8	“ Well , I think it would be as well to go immediately . Mrs. Kronborg will be more comfortable if you are there . She has been suffering for some time . ”
+877	881	882	882	he	8	“ All ready , ”
+1100	1105	1097	1098	Fay Templeton	10	“ See - Saw . ”
+1197	1210	1211	1211	he	22	“ Exactly as if he were going to give out a text , ”
+1226	1233	1234	1234	he	22	“ Have a troche , Kronborg , ”
+1240	1253	1234	1234	he	22	“ Sent me for samples . Very good for a rough throat . ”
+1254	1285	1286	1286	Kronborg	11	“ Ah , thank you , thank you . I was in something of a hurry . I neglected to put on my overshoes . Here we are , doctor . ”
+1509	1518	1519	1519	he	22	“ One of the children sick in there ? ”
+1539	1589	1527	1527	Kronborg	9	“ It must be Thea . I meant to ask you to look at her . She has a croupy cold . But in my excitement -- Mrs. Kronborg is doing finely , eh , doctor ? Not many of your patients with such a constitution , I expect . ”
+1590	1601	1602	1603	The doctor	22	“ Oh , yes . She 's a fine mother . ”
+1691	1698	1699	1699	he	22	“ Feel pretty sick , Thea ? ”
+1708	1716	1702	1702	he	22	“ Why did n't you call somebody ? ”
+1725	1732	1733	1733	she	88	“ I thought you were here , ”
+1739	1752	1733	1733	she	88	“ There is a new baby , is n't there ? Which ? ”
+1753	1756	1758	1759	the doctor	22	“ Which ? ”
+1761	1766	1733	1733	she	88	“ Brother or sister ? ”
+1779	1782	1783	1783	he	22	“ Brother , ”
+1790	1793	1783	1783	he	22	“ Open . ”
+1794	1801	1802	1802	she	88	“ Good . Brothers are better , ”
+1814	1825	1826	1827	Dr. Archie	5	“ Now , be still , I want to count . ”
+1883	1899	1900	1900	he	22	“ Keep under the covers ; I 'll come back to you in a moment , ”
+1974	2065	1963	1963	He	22	“ You 've got a very sick child in there . Why did n't you call me before ? It 's pneumonia , and she must have been sick for several days . Put the baby down somewhere , please , and help me make up the bed - lounge here in the parlor . She 's got to be in a warm room , and she 's got to be quiet . You must keep the other children out . Here , this thing opens up , I see , ”
+2075	2102	1963	1963	He	22	“ We can lift her mattress and carry her in just as she is . I do n't want to disturb her more than is necessary . ”

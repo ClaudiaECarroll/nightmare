@@ -1,0 +1,54 @@
+{
+  "threshold": 0.9,
+  "TP": 0,
+  "FP": 8,
+  "FN": 7,
+  "n_pred": 8,
+  "n_gold": 7,
+  "matched_gold": 0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "predictions": [
+    {
+      "string": "rags:thereweresomeofallsorts:CI-DEVANTcounts,marquises,evendukes,whowantedtoflyfromFrance,reachEnglandorsomeotherequallyaccursedcountry,andtheretrytorouseforeignfeelingsagainstthegloriousRevolution,ortoraiseanarmyinordertoliberatethewretchedprisonersintheTemple,whohadoncecalledthemselvessovereignsofFrance.",
+      "best_similarity": 0.2014,
+      "correct": false
+    },
+    {
+      "string": "Hasacartgonethrough?",
+      "best_similarity": 0.3889,
+      "correct": false
+    },
+    {
+      "string": "Yes,",
+      "best_similarity": 0.2,
+      "correct": false
+    },
+    {
+      "string": "nothalfanhourago.",
+      "best_similarity": 0.6061,
+      "correct": false
+    },
+    {
+      "string": "Andyouhaveletthemescape,",
+      "best_similarity": 0.35,
+      "correct": false
+    },
+    {
+      "string": "Youllgototheguillotineforthis,citoyensergeant!thatcartheldconcealedtheCI-DEVANTDucdeChalisandallhisfamily!",
+      "best_similarity": 0.4109,
+      "correct": false
+    },
+    {
+      "string": "What!",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "Aye!andthedriverwasnoneotherthanthatcursedEnglishman,theScarletPimpernel.",
+      "best_similarity": 0.3571,
+      "correct": false
+    }
+  ]
+}

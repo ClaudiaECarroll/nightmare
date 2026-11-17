@@ -1,0 +1,310 @@
+COREF	start_token	end_token	prop	cat	text
+0	1	1	PRON	PER	I
+0	2	2	PRON	PER	I
+0	8	8	PRON	PER	I
+36	13	13	PRON	PER	We
+22	16	17	PROP	PER	the Ashburnhams
+37	22	25	NOM	GPE	the town of Nauheim
+38	51	51	PRON	PER	your
+0	54	54	PRON	PER	My
+39	54	55	NOM	PER	My wife
+0	57	57	PRON	PER	I
+23	59	59	PROP	PER	Captain
+24	61	62	PROP	PER	Mrs Ashburnham
+40	71	71	NOM	PER	anybody
+36	80	80	PRON	PER	we
+40	86	86	PRON	PER	them
+0	91	91	PRON	PER	I
+41	101	104	NOM	PER	English people of whom
+0	110	110	PRON	PER	I
+0	117	117	PRON	PER	I
+0	124	124	PRON	PER	I
+0	132	132	PRON	PER	I
+1	137	137	PROP	GPE	England
+0	143	143	PRON	PER	I
+0	154	154	PRON	PER	I
+0	160	160	PRON	PER	I
+36	167	167	PRON	PER	we
+42	172	174	NOM	PER	many English people
+36	179	179	PRON	PER	we
+2	184	184	PROP	GPE	Europe
+36	190	190	PRON	PER	we
+36	205	205	PRON	PER	we
+36	211	211	PRON	PER	we
+43	217	222	NOM	ORG	the society of the nicer English
+3	224	224	PROP	GPE	Paris
+44	226	226	PRON	PER	you
+36	230	230	PRON	PER	our
+45	230	231	NOM	FAC	our home
+46	233	237	NOM	FAC	Somewhere between Nice and Bordighera
+4	235	235	PROP	GPE	Nice
+25	237	237	PROP	PER	Bordighera
+47	239	243	NOM	FAC	yearly winter quarters for us
+36	243	243	PRON	PER	us
+26	246	246	PROP	PER	Nauheim
+36	249	249	PRON	PER	us
+48	255	255	PRON	PER	You
+49	262	264	NOM	PER	one of us
+36	264	264	PRON	PER	us
+0	283	283	PRON	PER	my
+39	283	284	NOM	PER	my wife
+39	289	289	PRON	PER	she
+51	291	292	NOM	PER	the sufferer
+23	294	295	PROP	PER	Captain Ashburnham
+26	310	310	PROP	PER	Nauheim
+23	312	312	PRON	PER	him
+27	338	338	PROP	PER	Florence
+23	348	348	PRON	PER	his
+23	362	362	PRON	PER	his
+27	369	369	PROP	PER	Florence
+52	377	377	NOM	LOC	sea
+36	379	379	PRON	PER	our
+2	383	383	PROP	GPE	Europe
+36	390	390	PRON	PER	our
+53	393	394	NOM	LOC	that continent
+54	396	396	NOM	PER	doctor
+55	400	400	PRON	PER	They
+36	416	416	PRON	PER	we
+23	421	422	PROP	PER	Captain Ashburnham
+56	424	424	NOM	FAC	home
+57	429	437	NOM	GPE	an India to which he was never to return
+5	430	430	PROP	GPE	India
+23	433	433	PRON	PER	he
+24	444	446	PROP	PER	Mrs Ashburnham Leonora
+0	453	453	PRON	PER	I
+27	465	465	PROP	PER	Florence
+23	473	474	PROP	PER	Captain Ashburnham
+0	480	480	PRON	PER	I
+24	486	486	PROP	PER	Leonora
+58	489	489	PRON	PER	You
+36	496	496	PRON	PER	our
+36	509	509	PRON	PER	we
+36	513	513	PRON	PER	us
+22	519	520	PROP	PER	the Ashburnhams
+1	526	526	PROP	GPE	England
+130	534	536	NOM	PER	quite good people
+22	539	539	PRON	PER	They
+59	544	544	PRON	PER	you
+6	551	551	PROP	GPE	Ashburnham
+28	554	554	PROP	PER	Charles
+0	555	555	PRON	PER	I
+60	563	563	PRON	PER	you
+61	568	572	NOM	PER	this class of English people
+62	571	572	NOM	PER	English people
+63	574	574	PRON	PER	you
+24	581	582	PROP	PER	Mrs Ashburnham
+64	584	585	NOM	PER	a Powys
+27	587	587	PROP	PER	Florence
+65	589	615	NOM	GPE	a Hurlbird of Stamford , Connecticut , where , as you know , they are more old - fashioned than even the inhabitants of Cranford , England
+7	592	592	PROP	GPE	Stamford
+8	594	594	PROP	GPE	Connecticut
+66	599	599	PRON	PER	you
+67	602	602	PRON	PER	they
+68	610	615	NOM	PER	the inhabitants of Cranford , England
+9	613	613	PROP	GPE	Cranford
+1	615	615	PROP	GPE	England
+0	621	621	PRON	PER	I
+0	622	622	PRON	PER	myself
+69	624	654	NOM	GPE	a Dowell of Philadelphia , Pa. , where , it is historically true , there are more old English families than you would find in any six English counties taken together
+10	627	627	PROP	GPE	Philadelphia
+70	645	645	PRON	PER	you
+71	649	654	NOM	GPE	any six English counties taken together
+0	656	656	PRON	PER	I
+0	660	660	PRON	PER	me
+0	674	674	PRON	PER	me
+0	686	686	PRON	PER	my
+72	686	698	NOM	FAC	my farm , which once covered several blocks between Chestnut and Walnut Streets
+11	695	695	PROP	GPE	Chestnut
+12	697	698	PROP	FAC	Walnut Streets
+73	710	712	NOM	PER	an Indian chief
+74	714	727	NOM	PER	the first Dowell , who left Farnham in Surrey in company with William Penn
+13	720	720	PROP	GPE	Farnham
+14	722	722	PROP	GPE	Surrey
+29	726	727	PROP	PER	William Penn
+27	729	729	PROP	PER	Florence
+75	729	731	NOM	PER	Florence 's people
+76	740	743	NOM	PER	the inhabitants of Connecticut
+8	743	743	PROP	GPE	Connecticut
+77	747	750	NOM	FAC	the neighbourhood of Fordingbridge
+15	750	750	PROP	GPE	Fordingbridge
+22	753	754	PROP	PER	the Ashburnhams
+78	753	756	NOM	FAC	the Ashburnhams ' place
+0	766	766	PRON	PER	I
+79	771	771	PRON	PER	You
+0	776	776	PRON	PER	I
+0	781	781	PRON	PER	my
+80	793	830	NOM	PER	human beings who have witnessed the sack of a city or the falling to pieces of a people to desire to set down what they have witnessed for the benefit of unknown heirs or of generations infinitely remote
+81	801	802	NOM	GPE	a city
+82	809	810	NOM	PER	a people
+82	817	817	PRON	PER	they
+83	824	830	NOM	PER	unknown heirs or of generations infinitely remote
+84	835	835	PRON	PER	you
+82	845	845	PRON	PER	their
+85	848	849	NOM	PER	Some one
+16	865	865	PROP	GPE	Rome
+30	867	868	PROP	PER	the Goths
+0	871	871	PRON	PER	I
+86	874	874	PRON	PER	you
+87	880	880	PRON	PER	our
+88	894	894	PRON	PER	you
+87	898	898	PRON	PER	us
+89	910	912	NOM	FAC	the club house
+87	915	915	PRON	PER	us
+17	919	919	PROP	GPE	Homburg
+88	932	932	PRON	PER	you
+87	943	943	PRON	PER	we
+90	945	948	NOM	FAC	an extraordinarily safe castle
+87	950	950	PRON	PER	We
+91	954	954	PRON	PER	you
+92	957	969	NOM	VEH	one of those tall ships with the white sails upon a blue sea
+93	967	969	NOM	LOC	a blue sea
+31	990	990	PROP	PER	God
+94	996	996	NOM	PER	men
+95	1003	1003	NOM	PER	one
+32	1010	1010	PROP	PER	Permanence
+0	1014	1014	PRON	PER	I
+0	1022	1022	PRON	PER	I
+0	1056	1056	PRON	PER	my
+87	1061	1061	PRON	PER	our
+87	1079	1079	PRON	PER	we
+87	1091	1091	PRON	PER	we
+87	1097	1097	PRON	PER	we
+96	1111	1114	NOM	PER	any one of us
+87	1114	1114	PRON	PER	us
+97	1121	1123	NOM	PER	the Kur orchestra
+98	1138	1139	NOM	FAC	discreet shelters
+99	1151	1151	PRON	PER	You
+99	1161	1161	PRON	PER	You
+100	1188	1189	NOM	PER	The mob
+18	1192	1192	PROP	GPE	Versailles
+33	1194	1195	PROP	PER	the Trianon
+87	1218	1218	PRON	PER	our
+19	1221	1222	PROP	LOC	the Hessian
+101	1245	1245	PRON	PER	themselves
+34	1251	1251	PROP	PER	Nirvana
+31	1282	1282	PROP	PER	God
+87	1294	1294	PRON	PER	we
+102	1299	1300	NOM	FAC	a prison
+103	1302	1333	NOM	FAC	a prison full of screaming hysterics , tied down so that they might not outsound the rolling of our carriage wheels as we went along the shaded avenues of the Taunus Wald
+101	1313	1313	PRON	PER	they
+87	1320	1320	PRON	PER	our
+87	1324	1324	PRON	PER	we
+104	1327	1333	NOM	FAC	the shaded avenues of the Taunus Wald
+20	1331	1333	PROP	LOC	the Taunus Wald
+0	1337	1337	PRON	PER	I
+0	1344	1344	PRON	PER	my
+105	1344	1345	NOM	PER	my creator
+0	1377	1377	PRON	PER	me
+87	1378	1378	PRON	PER	we
+106	1380	1390	NOM	PER	four people with the same tastes , with the same desires
+0	1417	1417	PRON	PER	I
+0	1454	1454	PRON	PER	I
+35	1466	1467	PROP	PER	Edward Ashburnham
+24	1470	1470	PROP	PER	Leonora
+35	1471	1471	PRON	PER	his
+107	1471	1472	NOM	PER	his wife
+27	1475	1477	PROP	PER	poor dear Florence
+108	1482	1482	PRON	PER	you
+87	1505	1505	PRON	PER	our
+109	1505	1509	NOM	FAC	our four - square house
+0	1514	1514	PRON	PER	my
+110	1531	1534	NOM	PER	the two of them
+110	1534	1534	PRON	PER	them
+0	1539	1539	PRON	PER	I
+0	1544	1544	PRON	PER	I
+111	1550	1551	NOM	LOC	the world
+94	1557	1557	NOM	PER	men
+0	1559	1559	PRON	PER	I
+0	1563	1563	PRON	PER	I
+0	1578	1578	PRON	PER	me
+113	1583	1586	NOM	FAC	No smoking - room
+114	1592	1598	NOM	PER	peopled with incalculable simulacra amidst smoke wreaths
+31	1606	1606	PROP	PER	God
+0	1610	1610	PRON	PER	I
+0	1613	1613	PRON	PER	I
+115	1624	1627	NOM	FAC	the smoking - room
+0	1630	1630	PRON	PER	my
+27	1646	1646	PROP	PER	Florence
+0	1648	1648	PRON	PER	I
+27	1655	1655	PRON	PER	her
+27	1668	1668	PRON	PER	her
+0	1671	1671	PRON	PER	I
+27	1679	1679	PRON	PER	she
+0	1683	1683	PRON	PER	my
+27	1688	1688	PRON	PER	she
+0	1696	1696	PRON	PER	I
+116	1699	1699	NOM	FAC	downstairs
+117	1703	1705	NOM	PER	some good fellow
+118	1709	1714	NOM	FAC	some lounge or smoking - room
+0	1717	1717	PRON	PER	my
+0	1728	1728	PRON	PER	I
+119	1732	1732	PRON	PER	you
+27	1736	1736	PROP	PER	Florence
+27	1741	1741	PRON	PER	she
+27	1745	1745	PRON	PER	she
+27	1750	1750	PRON	PER	she
+0	1781	1781	PRON	PER	I
+0	1784	1784	PRON	PER	my
+0	1788	1788	PRON	PER	my
+0	1798	1798	PRON	PER	I
+120	1802	1806	NOM	PER	the sedulous , strained nurse
+0	1808	1808	PRON	PER	I
+0	1815	1815	PRON	PER	myself
+24	1844	1844	PROP	PER	Leonora
+0	1848	1848	PRON	PER	me
+121	1850	1850	PRON	PER	their
+122	1861	1861	PRON	PER	our
+26	1865	1865	PROP	GPE	Nauheim
+27	1869	1869	PRON	PER	she
+27	1879	1879	PRON	PER	she
+35	1884	1885	PROP	PER	Edward Ashburnham
+35	1887	1887	PRON	PER	his
+107	1887	1888	NOM	PER	his wife
+35	1900	1900	PROP	PER	Edward
+24	1902	1902	PROP	PER	Leonora
+0	1922	1922	PRON	PER	I
+124	1925	1925	PRON	PER	you
+125	1927	1927	PRON	PER	they
+126	1929	1931	NOM	PER	the model couple
+35	1933	1933	PRON	PER	He
+27	1970	1970	PRON	PER	she
+24	1986	1986	PROP	PER	Leonora
+24	1997	1997	PRON	PER	she
+127	2005	2005	PRON	PER	You
+0	2009	2009	PRON	PER	I
+128	2025	2027	NOM	PER	the county family
+128	2031	2033	NOM	PER	the county family
+24	2096	2096	PRON	PER	she
+0	2099	2099	PRON	PER	me
+24	2103	2103	PRON	PER	I
+131	2107	2108	NOM	PER	a lover
+24	2110	2110	PRON	PER	I
+24	2123	2123	PRON	PER	I
+131	2127	2127	PRON	PER	him
+0	2133	2133	PRON	PER	me
+0	2139	2139	PRON	PER	I
+24	2144	2144	PRON	PER	She
+24	2147	2147	PRON	PER	I
+132	2151	2152	NOM	PER	a man
+133	2162	2164	NOM	PER	a dear fellow
+24	2167	2167	PRON	PER	I
+24	2171	2171	PRON	PER	myself
+24	2178	2178	PRON	PER	my
+134	2182	2182	PRON	PER	they
+24	2193	2193	PRON	PER	I
+24	2197	2197	PRON	PER	myself
+24	2202	2202	PRON	PER	I
+24	2208	2208	PRON	PER	I
+24	2218	2218	PRON	PER	my
+24	2224	2224	PRON	PER	my
+135	2235	2236	NOM	VEH	a carriage
+136	2247	2247	PRON	PER	we
+24	2270	2270	PRON	PER	me
+24	2281	2281	PRON	PER	I
+24	2286	2286	PRON	PER	I
+24	2300	2300	PRON	PER	I
+24	2305	2305	PRON	PER	I
+24	2308	2308	PRON	PER	I
+24	2318	2318	PRON	PER	me
+24	2324	2324	PRON	PER	me
+137	2326	2334	NOM	PER	a fool of the poor dear chap like that

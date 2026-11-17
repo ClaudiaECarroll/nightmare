@@ -1,0 +1,149 @@
+{
+  "threshold": 0.9,
+  "TP": 27,
+  "FP": 0,
+  "FN": 0,
+  "n_pred": 27,
+  "n_gold": 27,
+  "matched_gold": 27,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "predictions": [
+    {
+      "string": "Well!—anhonestandindustriousfarmerisoneofthemostusefulmembersofsociety;andifIdevotemytalentstothecultivationofmyfarm,andtheimprovementofagricultureingeneral,Ishalltherebybenefit,notonlymyownimmediateconnectionsanddependants,but,insomedegree,mankindatlarge:—henceIshallnothavelivedinvain.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well!heretheybothare,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowshutthedoor,andcometothefire,whileRosegetstheteaready;Imsureyoumustbestarved;—andtellmewhatyouvebeenaboutallday;—Iliketoknowwhatmychildrenhavebeenabout.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ivebeenbreakinginthegreycolt—noeasybusinessthat—directingtheploughingofthelastwheatstubble—fortheploughboyhasnotthesensetodirecthimself—andcarryingoutaplanfortheextensiveandefficientdrainingofthelowmeadowlands.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsmybraveboy!—andFergus,whathaveyoubeendoing?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Badger-baiting.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itstimeyoushouldbedoingsomethingelse,Fergus,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhatcanIdo?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "mymotherwontletmegotoseaorenterthearmy;andImdeterminedtodonothingelse—exceptmakemyselfsuchanuisancetoyouall,thatyouwillbethankfultogetridofmeonanyterms.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowtakeyourtea,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andIlltellyouwhatIvebeendoing.IvebeentocallontheWilsons;anditsathousandpitiesyoudidntgowithme,Gilbert,forElizaMillwardwasthere!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well!whatofher?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,nothing!—Imnotgoingtotellyouabouther;—onlythatshesanice,amusinglittlething,whensheisinamerryhumour,andIshouldntmindcallingher—",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hush,hush,mydear!yourbrotherhasnosuchidea!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IwasgoingtotellyouanimportantpieceofnewsIheardthere—Ihavebeenburstingwithiteversince.Youknowitwasreportedamonthago,thatsomebodywasgoingtotakeWildfellHall—and—whatdoyouthink?Ithasactuallybeeninhabitedaboveaweek!—andweneverknew!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Impossible!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Preposterous!!!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithasindeed!—andbyasinglelady!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodgracious,mydear!Theplaceisinruins!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shehashadtwoorthreeroomsmadehabitable;andthereshelives,allalone—exceptanoldwomanforaservant!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,dear!thatspoilsit—Idhopedshewasawitch,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nonsense,Fergus!Butisntitstrange,mamma?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Strange!Icanhardlybelieveit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butyoumaybelieveit;forJaneWilsonhasseenher.Shewentwithhermother,who,ofcourse,whensheheardofastrangerbeingintheneighbourhood,wouldbeonpinsandneedlestillshehadseenherandgotallshecouldoutofher.SheiscalledMrs.Graham,andsheisinmourning—notwidowsweeds,butslightishmourning—andsheisquiteyoung,theysay,—notabovefiveorsixandtwenty,—butsoreserved!Theytriedalltheycouldtofindoutwhoshewasandwhereshecamefrom,and,allabouther,butneitherMrs.Wilson,withherpertinaciousandimpertinenthome-thrusts,norMissWilson,withherskilfulmanoeuvring,couldmanagetoelicitasinglesatisfactoryanswer,orevenacasualremark,orchanceexpressioncalculatedtoallaytheircuriosity,orthrowthefaintestrayoflightuponherhistory,circumstances,orconnections.Moreover,shewasbarelyciviltothem,andevidentlybetterpleasedtosaygood-by,thanhowdoyoudo.ButElizaMillwardsaysherfatherintendstocalluponhersoon,tooffersomepastoraladvice,whichhefearssheneeds,as,thoughsheisknowntohaveenteredtheneighbourhoodearlylastweek,shedidnotmakeherappearanceatchurchonSunday;andshe—Eliza,thatis—willbegtoaccompanyhim,andissureshecansucceedinwheedlingsomethingoutofher—youknow,Gilbert,shecandoanything.Andweshouldcallsometime,mamma;itsonlyproper,youknow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ofcourse,mydear.Poorthing!Howlonelyshemustfeel!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andpray,bequickaboutit;andmindyoubringmewordhowmuchsugarsheputsinhertea,andwhatsortofcapsandapronsshewears,andallaboutit;forIdontknowhowIcanlivetillIknow,",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

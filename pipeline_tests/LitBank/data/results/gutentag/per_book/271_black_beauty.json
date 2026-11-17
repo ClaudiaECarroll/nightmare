@@ -1,0 +1,84 @@
+{
+  "threshold": 0.9,
+  "TP": 4,
+  "FP": 10,
+  "FN": 12,
+  "n_pred": 14,
+  "n_gold": 16,
+  "matched_gold": 4,
+  "precision": 0.2857142857142857,
+  "recall": 0.25,
+  "f1": 0.26666666666666666,
+  "predictions": [
+    {
+      "string": "IwishyoutopayattentiontowhatIamgoingtosaytoyou.Thecoltswholivehereareverygoodcolts,buttheyarecart-horsecolts,andofcoursetheyhavenotlearnedmanners.Youhavebeenwell-bredandwell-born;yourfatherhasagreatnameintheseparts,andyourgrandfatherwonthecuptwoyearsattheNewmarketraces;yourgrandmotherhadthesweetesttemperofanyhorseIeverknew,andIthinkyouhaveneverseenmekickorbite.Ihopeyouwillgrowupgentleandgood,andneverlearnbadways;doyourworkwithagoodwill,liftyourfeetupwellwhenyoutrot,andneverbiteorkickeveninplay.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,oldPet,andhowisyourlittleDarkie?Iwasadullblack,sohecalledmeDarkie;thenhewouldgivemeapieceofbread,whichwasverygood,andsometimeshebroughtacarrotformymother.Allthehorseswouldcometohim,butIthinkwewerehisfavorites.Mymotheralwaystookhimtothetownonamarketdayinalightgig.",
+      "best_similarity": 0.2857,
+      "correct": false
+    },
+    {
+      "string": "badboy!tochasethecolts.Thisisnotthefirsttime,northesecond,butitshallbethelast.There—takeyourmoneyandgohome;Ishallnotwantyouonmyfarmagain.SoweneversawDickanymore.OldDaniel,themanwholookedafterthehorses,wasjustasgentleasourmaster,sowewerewelloff.",
+      "best_similarity": 0.712,
+      "correct": false
+    },
+    {
+      "string": "Therearethehounds!andimmediatelycanteredoff,followedbytherestofustotheupperpartofthefield,wherewecouldlookoverthehedgeandseeseveralfieldsbeyond.Mymotherandanoldridinghorseofourmasterswerealsostandingnear,andseemedtoknowallaboutit.",
+      "best_similarity": 0.2539,
+      "correct": false
+    },
+    {
+      "string": "andiftheycomethiswayweshallseethehunt.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "yo!yo,o,o!yo!yo,o,o!atthetopoftheirvoices.Afterthemcameanumberofmenonhorseback,someofthemingreencoats,allgallopingasfastastheycould.Theoldhorsesnortedandlookedeagerlyafterthem,andweyoungcoltswantedtobegallopingwiththem,buttheyweresoonawayintothefieldslowerdown;hereitseemedasiftheyhadcometoastand;thedogsleftoffbarking,andranabouteverywaywiththeirnosestotheground.",
+      "best_similarity": 0.2353,
+      "correct": false
+    },
+    {
+      "string": "perhapstheharewillgetoff.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whathare?Isaid.",
+      "best_similarity": 0.75,
+      "correct": false
+    },
+    {
+      "string": "yo!yo,o,o!again,andbacktheycamealtogetheratfullspeed,makingstraightforourmeadowatthepartwherethehighbankandhedgeoverhangthebrook.",
+      "best_similarity": 0.2994,
+      "correct": false
+    },
+    {
+      "string": "Nowweshallseethehare,saidmymother;andjustthenaharewildwithfrightrushedbyandmadeforthewoods.Oncamethedogs;theyburstoverthebank,leapedthestream,andcamedashingacrossthefieldfollowedbythehuntsmen.Sixoreightmenleapedtheirhorsescleanover,closeuponthedogs.Theharetriedtogetthroughthefence;itwastoothick,andsheturnedsharproundtomakefortheroad,butitwastoolate;thedogswereuponherwiththeirwildcries;weheardoneshriek,andthatwastheendofher.Oneofthehuntsmenrodeupandwhippedoffthedogs,whowouldsoonhavetornhertopieces.Heheldherupbythelegtornandbleeding,andallthegentlemenseemedwellpleased.",
+      "best_similarity": 0.1941,
+      "correct": false
+    },
+    {
+      "string": "Hisneckisbroke,saidmymother.",
+      "best_similarity": 0.6977,
+      "correct": false
+    },
+    {
+      "string": "Andservehimright,too,saidoneofthecolts.",
+      "best_similarity": 0.7,
+      "correct": false
+    },
+    {
+      "string": "youmustnotsaythat;butthoughIamanoldhorse,andhaveseenandheardagreatdeal,Ineveryetcouldmakeoutwhymenaresofondofthissport;theyoftenhurtthemselves,oftenspoilgoodhorses,andtearupthefields,andallforahareorafox,orastag,thattheycouldgetmoreeasilysomeotherway;butweareonlyhorses,anddontknow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "RobRoy;hewasagoodhorse,andtherewasnoviceinhim.Sheneverwouldgotothatpartofthefieldafterward.",
+      "best_similarity": 0.3125,
+      "correct": false
+    }
+  ]
+}

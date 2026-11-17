@@ -1,0 +1,284 @@
+COREF	start_token	end_token	prop	cat	text
+1	2	3	PROP	FAC	Chiswick Mall
+1	10	10	PRON	FAC	its
+6	30	31	PROP	PER	Miss Pinkerton
+33	30	33	NOM	FAC	Miss Pinkerton 's academy
+34	35	36	NOM	PER	young ladies
+1	39	40	PROP	FAC	Chiswick Mall
+35	57	67	NOM	PER	a fat coachman in a three - cornered hat and wig
+36	78	80	NOM	PER	A black servant
+37	88	90	NOM	PER	the fat coachman
+37	93	93	PRON	PER	his
+6	104	105	PROP	PER	Miss Pinkerton
+37	113	113	PRON	PER	he
+38	133	137	NOM	FAC	the stately old brick house
+7	139	139	PROP	PER	Nay
+39	141	143	NOM	PER	the acute observer
+6	155	157	PROP	PER	Miss Jemima Pinkerton
+6	158	158	PRON	PER	herself
+40	169	170	NOM	PER	that lady
+41	169	175	NOM	FAC	that lady 's own drawing - room
+8	180	181	PROP	PER	Mrs. Sedley
+117	180	183	NOM	PER	Mrs. Sedley 's coach
+118	185	185	NOM	PER	sister
+6	189	190	PROP	PER	Miss Jemima
+9	193	193	PROP	PER	Sambo
+119	195	197	NOM	PER	the black servant
+120	206	207	NOM	PER	the coachman
+121	217	217	PRON	PER	you
+10	225	226	PROP	PER	Miss Sedley
+6	230	231	PROP	PER	Miss Jemima
+6	235	236	PROP	PER	Miss Pinkerton
+6	237	237	PRON	PER	herself
+42	239	241	NOM	PER	that majestic lady
+43	243	246	NOM	PER	the Semiramis of Hammersmith
+2	246	246	PROP	GPE	Hammersmith
+44	248	252	NOM	PER	the friend of Doctor Johnson
+11	251	252	PROP	PER	Doctor Johnson
+45	254	259	NOM	PER	the correspondent of Mrs. Chapone herself
+12	257	258	PROP	PER	Mrs. Chapone
+6	259	259	PRON	PER	herself
+122	262	263	NOM	PER	The girls
+6	272	272	PRON	PER	her
+118	275	275	NOM	PER	sister
+6	279	280	PROP	PER	Miss Jemima
+122	283	283	PRON	PER	we
+6	286	286	PRON	PER	her
+6	298	299	PROP	PER	sister Jemima
+6	319	319	PRON	PER	I
+8	330	331	PROP	PER	Mrs. Sedley
+10	341	341	PROP	PER	Amelia
+43	348	348	PRON	PER	I
+6	351	352	PROP	PER	Miss Jemima
+6	354	354	PRON	PER	you
+10	360	361	PROP	PER	Miss Sedley
+13	390	391	PROP	PER	John Sedley
+14	393	393	PROP	PER	Esquire
+43	401	401	PRON	PER	I
+13	405	405	PRON	PER	his
+124	405	406	NOM	PER	his lady
+6	410	411	PROP	PER	Miss Jemima
+6	418	418	PRON	PER	her
+46	418	419	NOM	PER	her sister
+6	421	422	PROP	PER	Miss Pinkerton
+47	438	439	NOM	PER	a sovereign
+6	443	443	PRON	PER	her
+48	443	444	NOM	PER	her pupils
+48	451	451	PRON	PER	they
+15	463	464	PROP	PER	Miss Birch
+6	472	473	PROP	PER	Miss Pinkerton
+49	479	483	NOM	PER	the parents of her pupils
+15	482	482	PRON	PER	her
+48	482	483	NOM	PER	her pupils
+6	488	488	PROP	PER	Jemima
+16	496	497	PROP	PER	Mrs. Birch
+16	499	499	PRON	PER	her
+51	499	500	NOM	PER	her daughter
+6	514	515	PROP	PER	Miss Pinkerton
+6	524	525	PROP	PER	Miss Pinkerton
+52	535	536	NOM	FAC	The Mall
+3	538	538	PROP	GPE	Chiswick
+6	545	545	PRON	PER	her
+52	551	552	NOM	FAC	the Mall
+0	554	554	PRON	PER	I
+10	562	564	PROP	PER	Miss Amelia Sedley
+10	566	566	PRON	PER	her
+54	566	567	NOM	PER	her parents
+55	570	572	NOM	PER	a young lady
+54	581	581	PRON	PER	their
+56	591	594	NOM	PER	the young English gentlewoman
+10	600	600	PRON	PER	her
+10	613	614	PROP	PER	Miss Sedley
+17	619	619	PROP	PER	OBEDIENCE
+10	622	622	PRON	PER	her
+10	624	624	PRON	PER	her
+57	624	625	NOM	PER	her instructors
+10	635	635	PRON	PER	her
+10	638	638	PRON	PER	her
+58	638	640	NOM	PER	her YOUTHFUL companions
+10	659	659	PRON	PER	she
+10	666	666	PRON	PER	her
+59	666	667	NOM	PER	her friends
+60	710	714	NOM	FAC	that dignified DEPORTMENT AND CARRIAGE
+61	719	723	NOM	PER	every young lady of FASHION
+10	733	734	PROP	PER	Miss Sedley
+62	750	752	NOM	PER	THE GREAT LEXICOGRAPHER
+12	758	761	PROP	PER	the admirable Mrs. Chapone
+52	765	766	NOM	FAC	the Mall
+10	768	769	PROP	PER	Miss Amelia
+10	772	772	PRON	PER	her
+10	776	776	PRON	PER	her
+64	776	777	NOM	PER	her companions
+10	784	784	PRON	PER	her
+65	784	785	NOM	PER	her mistress
+10	793	793	PRON	PER	herself
+66	795	795	NOM	PER	Madam
+66	797	797	PRON	PER	Your
+67	797	801	NOM	PER	Your most obliged humble servant
+18	803	806	PROP	PER	BARBARA PINKERTON P.S.--Miss Sharp
+10	808	809	PROP	PER	Miss Sedley
+19	816	817	PROP	PER	Miss Sharp
+4	821	822	PROP	FAC	Russell Square
+68	829	837	NOM	PER	The family of distinction with whom she is engaged
+19	835	835	PRON	PER	she
+68	842	842	PRON	PER	themselves
+19	844	844	PRON	PER	her
+6	855	856	PROP	PER	Miss Pinkerton
+6	860	860	PRON	PER	her
+10	865	866	PROP	PER	Miss Sedley
+6	884	884	PRON	PER	she
+6	888	888	PRON	PER	her
+69	888	889	NOM	PER	her scholars
+69	892	892	PRON	PER	their
+52	895	896	NOM	FAC	the Mall
+125	910	918	NOM	PER	a young lady on quitting Miss Pinkerton 's school
+6	915	916	PROP	PER	Miss Pinkerton
+126	915	918	NOM	FAC	Miss Pinkerton 's school
+52	921	922	NOM	FAC	the Mall
+11	925	930	PROP	PER	the late revered Doctor Samuel Johnson
+71	936	937	NOM	PER	the Lexicographer
+72	946	948	NOM	PER	this majestic woman
+71	953	953	PRON	PER	he
+72	957	957	PRON	PER	her
+72	962	962	PRON	PER	her
+72	965	965	PRON	PER	her
+72	971	971	PRON	PER	her
+73	971	973	NOM	PER	her elder sister
+6	984	985	PROP	PER	Miss Jemima
+6	1000	1001	PROP	PER	Miss Pinkerton
+6	1010	1010	PROP	PER	Jemima
+6	1021	1021	PRON	PER	her
+6	1031	1032	PROP	PER	Miss Jemima
+6	1036	1037	PROP	PER	Miss Pinkerton
+20	1045	1046	PROP	PER	Becky Sharp
+6	1050	1050	PROP	PER	Jemima
+6	1059	1059	PRON	PER	her
+6	1066	1066	PRON	PER	she
+6	1068	1068	PRON	PER	her
+6	1071	1071	PRON	PER	her
+46	1071	1072	NOM	PER	her sister
+20	1076	1077	PROP	PER	Becky Sharp
+20	1079	1079	PRON	PER	she
+6	1086	1087	PROP	PER	MISS JEMIMA
+6	1091	1092	PROP	PER	Miss Pinkerton
+6	1101	1101	PRON	PER	you
+6	1103	1103	PRON	PER	your
+128	1110	1111	NOM	FAC	the closet
+118	1128	1128	NOM	PER	sister
+20	1140	1141	PROP	PER	poor Becky
+20	1146	1146	PRON	PER	she
+10	1155	1156	PROP	PER	Miss Sedley
+6	1159	1159	PRON	PER	me
+6	1163	1164	PROP	PER	Miss Pinkerton
+6	1176	1176	PROP	PER	Jemima
+10	1185	1186	PROP	PER	Miss Sedley
+75	1185	1188	NOM	PER	Miss Sedley 's papa
+76	1190	1193	NOM	PER	a merchant in London
+5	1193	1193	PROP	GPE	London
+77	1196	1200	NOM	PER	a man of some wealth
+19	1203	1204	PROP	PER	Miss Sharp
+78	1206	1208	NOM	PER	an articled pupil
+6	1212	1213	PROP	PER	Miss Pinkerton
+19	1218	1218	PRON	PER	she
+6	1227	1227	PRON	PER	her
+79	1234	1235	NOM	PER	the Dixonary
+80	1238	1238	NOM	PER	schoolmistresses
+81	1260	1261	NOM	PER	a person
+81	1278	1278	PRON	PER	his
+82	1283	1285	NOM	PER	a good Christian
+83	1287	1289	NOM	PER	a good parent
+84	1291	1291	NOM	PER	child
+85	1293	1293	NOM	PER	wife
+86	1296	1296	NOM	PER	husband
+87	1302	1304	NOM	PER	a disconsolate family
+81	1307	1307	PRON	PER	his
+88	1326	1327	NOM	PER	the pupil
+89	1336	1338	NOM	PER	the disinterested instructor
+10	1342	1344	PROP	PER	Miss Amelia Sedley
+90	1346	1352	NOM	PER	a young lady of this singular species
+6	1360	1361	PROP	PER	Miss Pinkerton
+10	1364	1364	PRON	PER	her
+91	1378	1379	NOM	PER	a woman
+10	1392	1392	PRON	PER	her
+92	1392	1393	NOM	PER	her pupil
+10	1395	1395	PRON	PER	herself
+10	1398	1398	PRON	PER	she
+21	1409	1410	PROP	PER	Mrs. Billington
+22	1415	1415	PROP	PER	Hillisberg
+23	1417	1417	PROP	PER	Parisot
+10	1433	1433	PRON	PER	she
+10	1448	1448	PRON	PER	her
+93	1456	1460	NOM	PER	everybody who came near her
+10	1460	1460	PRON	PER	her
+24	1463	1463	PROP	PER	Minerva
+24	1464	1464	PRON	PER	herself
+94	1467	1472	NOM	PER	the poor girl in the scullery
+95	1475	1501	NOM	PER	the one - eyed tart - woman 's daughter , who was permitted to vend her wares once a week to the young ladies in the Mall
+94	1490	1490	PRON	PER	her
+96	1496	1501	NOM	PER	the young ladies in the Mall
+52	1500	1501	NOM	FAC	the Mall
+94	1503	1503	PRON	PER	She
+98	1505	1517	NOM	PER	twelve intimate and bosom friends out of the twenty - four young ladies
+99	1512	1517	NOM	PER	the twenty - four young ladies
+25	1521	1522	PROP	PER	Miss Briggs
+94	1527	1527	PRON	PER	her
+26	1532	1533	PROP	PER	Miss Saltire
+27	1535	1536	PROP	PER	Lord Dexter
+100	1535	1538	NOM	PER	Lord Dexter 's granddaughter
+94	1542	1542	PRON	PER	her
+28	1550	1551	PROP	PER	Miss Swartz
+29	1560	1561	PROP	PER	St. Kitt
+10	1567	1567	PROP	PER	Amelia
+10	1571	1571	PRON	PER	she
+96	1580	1580	PRON	PER	they
+30	1586	1587	PROP	PER	Dr. Floss
+10	1592	1592	PRON	PER	her
+6	1596	1597	PROP	PER	Miss Pinkerton
+40	1614	1615	NOM	PER	that lady
+6	1622	1623	PROP	PER	Miss Jemima
+10	1633	1633	PROP	PER	Amelia
+6	1643	1643	PRON	PER	her
+46	1643	1644	NOM	PER	her sister
+29	1663	1664	PROP	PER	St. Kitt
+103	1678	1680	NOM	PER	parlour - boarders
+31	1682	1683	PROP	PER	Honest Jemima
+104	1708	1709	NOM	PER	the servants
+6	1717	1717	PRON	PER	her
+105	1723	1723	PRON	PER	we
+6	1728	1728	PRON	PER	her
+6	1751	1751	PRON	PER	her
+6	1753	1753	PRON	PER	she
+6	1755	1755	PRON	PER	her
+106	1755	1757	NOM	PER	her awful sister
+107	1763	1767	NOM	LOC	this little world of history
+105	1771	1771	PRON	PER	we
+10	1779	1779	PROP	PER	Amelia
+105	1792	1792	PRON	PER	our
+10	1796	1796	PRON	PER	she
+108	1798	1801	NOM	PER	a dear little creature
+109	1826	1831	NOM	PER	villains of the most sombre sort
+105	1834	1834	PRON	PER	we
+110	1839	1849	NOM	PER	a constant companion so guileless and good - natured a person
+10	1852	1852	PRON	PER	she
+111	1855	1856	NOM	PER	a heroine
+10	1864	1864	PRON	PER	her
+112	1864	1865	NOM	PER	her person
+0	1868	1868	PRON	PER	I
+10	1872	1872	PRON	PER	her
+10	1881	1881	PRON	PER	her
+111	1891	1892	NOM	PER	a heroine
+10	1895	1895	PRON	PER	her
+10	1903	1903	PRON	PER	her
+10	1912	1912	PRON	PER	she
+114	1932	1932	PRON	PER	they
+10	1994	1994	PRON	PER	her
+115	1997	2005	NOM	PER	any persons hard - hearted enough to do so
+114	2014	2014	PRON	PER	them
+6	2017	2018	PROP	PER	Miss Pinkerton
+116	2020	2024	NOM	PER	that austere and godlike woman
+6	2028	2028	PRON	PER	her
+6	2036	2036	PRON	PER	she
+6	2042	2042	PRON	PER	she
+32	2044	2044	PROP	PER	Algebra
+10	2055	2056	PROP	PER	Miss Sedley
+10	2068	2068	PRON	PER	her

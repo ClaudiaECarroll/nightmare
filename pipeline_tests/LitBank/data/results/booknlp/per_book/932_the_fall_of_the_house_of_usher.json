@@ -1,0 +1,19 @@
+{
+  "threshold": 0.9,
+  "TP": 0,
+  "FP": 1,
+  "FN": 0,
+  "n_pred": 1,
+  "n_gold": 0,
+  "matched_gold": 0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "predictions": [
+    {
+      "string": "HouseofUsher--an",
+      "best_similarity": 0.0,
+      "correct": false
+    }
+  ]
+}

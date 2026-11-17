@@ -1,0 +1,124 @@
+{
+  "threshold": 0.9,
+  "TP": 9,
+  "FP": 13,
+  "FN": 16,
+  "n_pred": 22,
+  "n_gold": 25,
+  "matched_gold": 9,
+  "precision": 0.4090909090909091,
+  "recall": 0.36,
+  "f1": 0.3829787234042554,
+  "predictions": [
+    {
+      "string": "HellRow.HellRowwasablockofthatched,bulgingcottagesthatstoodbythebrooksideonGreenhillLane.Therelivedthecollierswhoworkedinthelittlegin-pitstwofieldsaway.Thebrookranunderthealdertrees,scarcelysoiledbythesesmallmines,whosecoalwasdrawntothesurfacebydonkeysthatploddedwearilyinacircleroundagin.Andalloverthecountrysidewerethesesamepits,someofwhichhadbeenworkedinthetimeofCharlesII,thefewcolliersandthedonkeysburrowingdownlikeantsintotheearth,makingqueermoundsandlittleblackplacesamongthecorn-fieldsandthemeadows.Andthecottagesofthesecoal-miners,inblocksandpairshereandthere,togetherwithoddfarmsandhomesofthestockingers,strayingovertheparish,formedthevillageofBestwood.",
+      "best_similarity": 0.2145,
+      "correct": false
+    },
+    {
+      "string": "CanIhavemydinner,mother?hecried,rushinginwithhiscapon.Causeitbeginsathalf-pastone,themansaysso.",
+      "best_similarity": 0.6029,
+      "correct": false
+    },
+    {
+      "string": "Youcanhaveyourdinnerassoonasitsdone,repliedthemother.",
+      "best_similarity": 0.809,
+      "correct": false
+    },
+    {
+      "string": "ThenImgoinbe-outit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youlldonothingofthesort.Itwillbedoneinfiveminutes.Itisonlyhalf-pasttwelve.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theyllbebeginnin,theboyhalfcried,halfshouted.",
+      "best_similarity": 0.5484,
+      "correct": false
+    },
+    {
+      "string": "Besides,itsonlyhalf-pasttwelve,soyouveafullhour.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itoldyou!hesaid,runningtothedresserforhiscap.",
+      "best_similarity": 0.3656,
+      "correct": false
+    },
+    {
+      "string": "Takeyourpuddinginyourhand—anditsonlyfivepastone,soyouwerewrong—youhaventgotyourtwopence,criedthemotherinabreath.",
+      "best_similarity": 0.8515,
+      "correct": false
+    },
+    {
+      "string": "Iwanttogo,Iwanttogo,saidAnnie,beginningtocry.",
+      "best_similarity": 0.6154,
+      "correct": false
+    },
+    {
+      "string": "Well,andyoushallgo,whining,wizzeninglittlestick!saidthemother.Andlaterintheafternoonshetrudgedupthehillunderthetallhedgewithherchild.Thehaywasgatheredfromthefields,andcattlewereturnedontotheeddish.Itwaswarm,peaceful.",
+      "best_similarity": 0.3636,
+      "correct": false
+    },
+    {
+      "string": "Youneversaidyouwascoming—isntthealotofthings?—thatlionskilledthreemen—Ivespentmytuppence—anlookhere.",
+      "best_similarity": 0.9412,
+      "correct": true
+    },
+    {
+      "string": "Igotthesefromthatstallwhereyavetergetthemmarblesinthemholes.AnIgotthesetwointwogoes-aepennyago-theyvegotmoss-roseson,lookhere.Iwantedthese.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TheyAREpretty!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shallyoucarryem,causeImfrightenedobreakinem?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,areyoucomingnow,orlater?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyougoinaready?hecried,hisfacefullofreproach.",
+      "best_similarity": 0.5312,
+      "correct": false
+    },
+    {
+      "string": "Already?Itispastfour,Iknow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatareyougoinareadyfor?helamented.",
+      "best_similarity": 0.8136,
+      "correct": false
+    },
+    {
+      "string": "Youneedntcomeifyoudontwant,shesaid.",
+      "best_similarity": 0.871,
+      "correct": false
+    },
+    {
+      "string": "Hasmydadbeen?heasked.",
+      "best_similarity": 0.7647,
+      "correct": false
+    },
+    {
+      "string": "No,saidthemother.",
+      "best_similarity": 0.439,
+      "correct": false
+    }
+  ]
+}

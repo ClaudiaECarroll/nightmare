@@ -1,0 +1,287 @@
+COREF	start_token	end_token	prop	cat	text
+0	2	2	PRON	PER	I
+8	3	3	PROP	PER	Strether
+8	9	9	PRON	PER	he
+13	11	12	NOM	FAC	the hotel
+8	16	16	PRON	PER	his
+14	16	17	NOM	PER	his friend
+8	21	21	PRON	PER	his
+9	24	24	PROP	PER	Waymarsh
+9	32	32	PRON	PER	he
+9	41	41	PRON	PER	him
+15	43	44	NOM	FAC	a room
+16	61	62	NOM	FAC	the office
+17	68	68	PRON	PER	they
+1	72	72	PROP	GPE	Chester
+2	76	76	PROP	GPE	Liverpool
+8	93	93	PROP	PER	Strether
+9	98	98	PROP	PER	Waymarsh
+18	102	103	NOM	FAC	the dock
+8	108	108	PRON	PER	him
+8	116	116	PRON	PER	his
+8	125	125	PRON	PER	him
+8	127	127	PRON	PER	he
+17	134	134	PRON	PER	They
+9	148	150	PROP	PER	dear old Waymarsh
+9	161	161	PRON	PER	himself
+17	171	171	PRON	PER	they
+0	182	182	PRON	PER	I
+19	197	199	NOM	PER	the two men
+9	219	219	PRON	PER	himself
+9	228	228	PRON	PER	his
+20	228	229	NOM	PER	his comrade
+9	233	233	PRON	PER	his
+9	241	241	PRON	PER	he
+3	262	262	PROP	GPE	Europe
+8	274	274	PROP	PER	Strether
+3	291	291	PROP	GPE	Europe
+8	322	322	PRON	PER	he
+21	343	343	NOM	PER	nobody
+8	363	363	PRON	PER	his
+22	371	393	NOM	PER	people on the ship with whom he had easily consorted -- so far as ease could up to now be imputed to him
+23	373	374	NOM	VEH	the ship
+9	377	377	PRON	PER	he
+9	393	393	PRON	PER	him
+24	409	414	NOM	FAC	the landing - stage to London
+4	414	414	PROP	GPE	London
+25	418	445	NOM	PER	others who had invited him to a tryst at the inn and had even invoked his aid for a " look round " at the beauties of Liverpool
+9	422	422	PRON	PER	him
+26	427	428	NOM	FAC	the inn
+9	433	433	PRON	PER	his
+2	445	445	PROP	GPE	Liverpool
+9	448	448	PRON	PER	he
+27	453	455	NOM	PER	every one alike
+28	471	483	NOM	PER	the number of persons who esteemed themselves fortunate in being , unlike himself
+28	477	477	PRON	PER	themselves
+8	483	483	PRON	PER	himself
+77	485	506	NOM	PER	" met , " and had even independently , unsociably , alone , without encounter or relapse and by mere quiet evasion
+8	509	509	PRON	PER	his
+28	520	520	PRON	PER	They
+3	526	526	PROP	GPE	Europe
+29	534	538	NOM	LOC	the banks of the Mersey
+5	537	538	PROP	LOC	the Mersey
+9	545	545	PRON	PER	he
+9	547	547	PRON	PER	his
+9	553	553	PRON	PER	He
+9	564	564	PROP	PER	Waymarsh
+1	569	569	PROP	GPE	Chester
+9	571	571	PRON	PER	he
+9	576	576	PRON	PER	he
+9	580	580	PRON	PER	himself
+9	604	604	PRON	PER	he
+30	607	619	NOM	PER	a man who , elatedly finding in his pocket more money than usual
+9	614	614	PRON	PER	his
+9	633	633	PRON	PER	himself
+9	641	641	PRON	PER	he
+9	648	648	PROP	PER	Waymarsh
+23	653	654	NOM	VEH	the ship
+9	660	660	PRON	PER	he
+9	666	666	PRON	PER	him
+9	688	688	PRON	PER	him
+9	690	690	PRON	PER	his
+9	693	693	PRON	PER	his
+9	703	703	PRON	PER	He
+8	708	708	PROP	PER	Strether
+9	731	731	PRON	PER	his
+9	736	736	PRON	PER	his
+32	740	746	NOM	PER	the young woman in the glass cage
+9	751	751	PRON	PER	him
+32	753	753	PRON	PER	her
+9	761	761	PRON	PER	his
+14	761	762	NOM	PER	his friend
+32	767	767	PRON	PER	she
+9	771	771	PRON	PER	he
+14	776	776	PRON	PER	himself
+34	779	780	NOM	FAC	the hall
+35	783	814	NOM	PER	a lady who met his eyes as with an intention suddenly determined , and whose features -- not freshly young , not markedly fine , but on happy terms with each other
+9	787	787	PRON	PER	his
+9	819	819	PRON	PER	him
+36	829	829	PRON	PER	they
+32	837	837	PRON	PER	her
+9	839	839	PRON	PER	he
+32	842	842	PRON	PER	her
+32	848	848	PRON	PER	her
+9	850	850	PRON	PER	his
+37	850	852	NOM	FAC	his previous inn
+34	858	859	NOM	FAC	the hall
+32	861	861	PRON	PER	she
+9	870	870	PRON	PER	his
+39	870	872	NOM	VEH	his own ship
+36	881	881	PRON	PER	them
+9	884	884	PRON	PER	he
+32	899	899	PRON	PER	her
+9	902	902	PRON	PER	him
+9	913	913	PRON	PER	his
+32	925	925	PRON	PER	her
+32	941	941	PRON	PER	she
+9	947	947	PRON	PER	him
+9	956	956	PRON	PER	his
+32	959	959	PRON	PER	she
+9	966	966	PRON	PER	his
+9	976	977	PROP	PER	Mr. Waymarsh
+6	979	980	PROP	GPE	Milrose Connecticut
+9	982	983	PROP	PER	Mr. Waymarsh
+40	984	986	NOM	PER	the American lawyer
+9	993	993	PRON	PER	he
+8	997	997	PRON	PER	my
+78	997	1002	NOM	PER	my very well - known friend
+78	1004	1004	PRON	PER	He
+8	1008	1008	PRON	PER	me
+79	1009	1009	NOM	FAC	here
+7	1014	1014	PROP	GPE	Malvern
+8	1017	1017	PRON	PER	I
+78	1019	1019	PRON	PER	he
+78	1026	1026	PRON	PER	he
+8	1034	1034	PRON	PER	I
+78	1041	1041	PRON	PER	him
+78	1044	1044	PRON	PER	you
+78	1046	1046	PRON	PER	him
+8	1049	1049	PROP	PER	Strether
+8	1058	1058	PRON	PER	he
+8	1062	1062	PRON	PER	he
+8	1072	1072	PRON	PER	him
+41	1080	1080	PRON	PER	her
+41	1093	1093	PRON	PER	her
+8	1112	1112	PRON	PER	him
+8	1115	1115	PRON	PER	I
+8	1118	1118	PRON	PER	him
+10	1120	1120	PROP	PER	Milrose
+8	1123	1123	PRON	PER	I
+8	1135	1135	PRON	PER	I
+80	1137	1151	NOM	PER	friends there who were friends of his , and I 've been at his house
+81	1141	1143	NOM	PER	friends of his
+8	1143	1143	PRON	PER	his
+8	1146	1146	PRON	PER	I
+8	1150	1150	PRON	PER	his
+82	1150	1151	NOM	FAC	his house
+8	1153	1153	PRON	PER	I
+8	1160	1160	PRON	PER	he
+8	1163	1163	PRON	PER	me
+8	1166	1166	PROP	PER	Strether
+41	1174	1174	PRON	PER	I
+8	1180	1180	PRON	PER	him
+41	1185	1185	PRON	PER	she
+41	1189	1189	PRON	PER	I
+41	1193	1193	PRON	PER	I
+41	1199	1199	PRON	PER	She
+42	1202	1202	PRON	PER	our
+43	1202	1203	NOM	PER	our friend
+44	1223	1223	PRON	PER	They
+8	1231	1231	PROP	PER	Strether
+9	1235	1236	PROP	PER	Mr. Waymarsh
+45	1255	1256	NOM	PER	the lady
+45	1259	1259	PRON	PER	she
+45	1266	1266	PRON	PER	She
+45	1279	1279	PRON	PER	she
+8	1283	1283	PRON	PER	he
+45	1287	1287	PRON	PER	she
+45	1292	1292	PRON	PER	she
+8	1294	1294	PROP	PER	Strether
+11	1296	1297	PROP	PER	the Munsters
+11	1299	1300	PROP	PER	the Munsters
+46	1302	1310	NOM	PER	the people he had seen her with at Liverpool
+8	1304	1304	PRON	PER	he
+45	1307	1307	PRON	PER	her
+2	1310	1310	PROP	GPE	Liverpool
+8	1313	1313	PRON	PER	he
+11	1321	1322	PROP	PER	the Munsters
+11	1336	1336	PRON	PER	they
+45	1350	1350	PRON	PER	Her
+47	1353	1355	NOM	PER	the mentioned connexion
+11	1372	1372	PRON	PER	Their
+11	1397	1397	PRON	PER	them
+11	1413	1413	PRON	PER	They
+34	1416	1417	NOM	FAC	the hall
+8	1421	1421	PROP	PER	Strether
+49	1421	1423	NOM	PER	Strether 's companion
+13	1427	1428	NOM	FAC	the hotel
+51	1433	1434	NOM	FAC	a garden
+49	1436	1436	PRON	PER	He
+49	1443	1443	PRON	PER	his
+49	1447	1447	PRON	PER	he
+52	1453	1454	NOM	VEH	the steamer
+9	1461	1461	PROP	PER	Waymarsh
+49	1465	1465	PRON	PER	himself
+49	1480	1480	PRON	PER	He
+49	1489	1489	PRON	PER	he
+49	1497	1497	PRON	PER	his
+53	1497	1498	NOM	FAC	his room
+54	1501	1505	NOM	FAC	the garden of the hotel
+13	1504	1505	NOM	FAC	the hotel
+49	1524	1524	PRON	PER	he
+49	1528	1528	PRON	PER	himself
+49	1538	1538	PRON	PER	He
+56	1543	1544	NOM	GPE	the town
+57	1547	1547	PRON	PER	they
+49	1558	1558	PRON	PER	she
+49	1565	1565	PRON	PER	him
+58	1567	1568	NOM	PER	a guest
+49	1570	1570	PRON	PER	Her
+59	1573	1574	NOM	FAC	the place
+49	1576	1576	PRON	PER	her
+60	1581	1582	NOM	PER	a hostess
+8	1585	1585	PROP	PER	Strether
+45	1591	1592	NOM	PER	the lady
+62	1602	1603	NOM	PER	this personage
+45	1606	1606	PRON	PER	herself
+8	1617	1617	PRON	PER	he
+8	1622	1622	PRON	PER	his
+63	1622	1623	NOM	PER	his hostess
+45	1627	1627	PRON	PER	she
+64	1647	1735	NOM	PER	a man of the middle height and something more perhaps than the middle age -- a man of five - and - fifty , whose most immediate signs were a marked bloodless brownness of face , a thick dark moustache , of characteristically American cut , growing strong and falling low , a head of hair still abundant but irregularly streaked with grey , and a nose of bold free prominence , the even line , the high finish , as it might have been called , of which
+65	1751	1753	NOM	LOC	this fine ridge
+66	1791	1793	NOM	PER	an attentive observer
+8	1811	1811	PROP	PER	Strether
+49	1815	1815	PRON	PER	She
+49	1818	1818	PRON	PER	him
+67	1820	1821	NOM	FAC	the garden
+49	1841	1841	PRON	PER	herself
+49	1849	1849	PRON	PER	he
+49	1851	1851	PRON	PER	her
+68	1853	1856	NOM	FAC	the small smooth lawn
+69	1859	1862	NOM	LOC	the watery English sunshine
+49	1864	1864	PRON	PER	he
+49	1868	1868	PRON	PER	his
+49	1882	1882	PRON	PER	She
+70	1885	1886	NOM	PER	this lady
+70	1899	1899	PRON	PER	her
+71	1899	1900	NOM	PER	her companion
+71	1910	1910	PRON	PER	him
+71	1914	1914	PRON	PER	his
+71	1928	1928	PRON	PER	him
+70	1932	1932	PRON	PER	her
+71	1933	1933	PRON	PER	he
+71	1955	1955	PRON	PER	he
+71	1958	1958	PRON	PER	his
+8	1983	1983	PROP	PER	Strether
+8	1987	1987	PRON	PER	himself
+8	2007	2007	PRON	PER	his
+72	2024	2024	NOM	FAC	upstairs
+8	2032	2032	PRON	PER	him
+8	2046	2046	PRON	PER	his
+73	2046	2048	NOM	FAC	his dull bedroom
+8	2061	2061	PRON	PER	he
+8	2072	2072	PRON	PER	He
+8	2086	2086	PRON	PER	his
+8	2089	2089	PRON	PER	he
+74	2103	2103	PRON	PER	they
+8	2118	2118	PRON	PER	he
+8	2124	2124	PRON	PER	He
+4	2131	2131	PROP	GPE	London
+8	2147	2147	PRON	PER	him
+75	2171	2175	NOM	PER	the person of his friend
+75	2174	2174	PRON	PER	his
+14	2174	2175	NOM	PER	his friend
+8	2198	2198	PRON	PER	him
+14	2215	2215	PRON	PER	her
+8	2219	2219	PRON	PER	him
+8	2223	2223	PRON	PER	his
+8	2230	2230	PRON	PER	he
+8	2235	2235	PRON	PER	himself
+8	2236	2236	PRON	PER	his
+14	2239	2239	PRON	PER	her
+14	2245	2245	PRON	PER	she
+12	2257	2257	PROP	PER	WHOM
+8	2265	2265	PRON	PER	him
+8	2278	2278	PRON	PER	his
+8	2285	2285	PRON	PER	his

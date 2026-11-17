@@ -1,0 +1,54 @@
+{
+  "threshold": 0.9,
+  "TP": 6,
+  "FP": 2,
+  "FN": 0,
+  "n_pred": 8,
+  "n_gold": 6,
+  "matched_gold": 6,
+  "precision": 0.75,
+  "recall": 1.0,
+  "f1": 0.8571428571428571,
+  "predictions": [
+    {
+      "string": "negroball",
+      "best_similarity": 0.3571,
+      "correct": false
+    },
+    {
+      "string": "Howmuch,gentlemen,forthisrealAlbino!--fitfancy-girlforanyone!Sheenjoysgoodhealth,andhasasweettemper.Howmuchdoyousay?",
+      "best_similarity": 0.2902,
+      "correct": false
+    },
+    {
+      "string": "Fivehundreddollars.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Onlyfivehundredforsuchagirlasthis?Gentlemen,sheisworthadealmorethanthatsum.Youcertainlydonotknowthevalueofthearticleyouarebiddingon.Here,gentlemen,Iholdinmyhandapapercertifyingthatshehasagoodmoralcharacter.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sevenhundred.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah,gentlemen,thatissomethinglike.Thispaperalsostatesthatsheisveryintelligent.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Eighthundred.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shewasfirstsprinkled,thenimmersed,andisnowwarrantedtobeadevotedChristian,andperfectlytrustworthy.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

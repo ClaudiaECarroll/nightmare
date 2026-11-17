@@ -1,0 +1,164 @@
+{
+  "threshold": 0.9,
+  "TP": 20,
+  "FP": 10,
+  "FN": 1,
+  "n_pred": 30,
+  "n_gold": 21,
+  "matched_gold": 20,
+  "precision": 0.6666666666666666,
+  "recall": 0.9523809523809523,
+  "f1": 0.7843137254901961,
+  "predictions": [
+    {
+      "string": "takingcare",
+      "best_similarity": 0.3478,
+      "correct": false
+    },
+    {
+      "string": "DoandDare,",
+      "best_similarity": 0.3636,
+      "correct": false
+    },
+    {
+      "string": "FrankontheMississippi,",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "Amory.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,Beatrice.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dear,dont_think_ofgettingoutofbedyet.Ivealwayssuspectedthatearlyrisinginearlylifemakesonenervous.Clothildeishavingyourbreakfastbroughtup.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Allright.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamfeelingveryoldto-day,Amory,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mynervesareonedge--onedge.Wemustleavethisterrifyingplaceto-morrowandgosearchingforsunshine.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Amory.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,_yes_.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwantyoutotakeared-hotbathashotasyoucanbearit,andjustrelaxyournerves.Youcanreadinthetubifyouwish.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "FetesGalantes",
+      "best_similarity": 0.3846,
+      "correct": false
+    },
+    {
+      "string": "line.",
+      "best_similarity": 0.4286,
+      "correct": false
+    },
+    {
+      "string": "Thissonofmine,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "isentirelysophisticatedandquitecharming--butdelicate--werealldelicate;_here_,youknow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theyhaveaccents,mydear,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "notSouthernaccentsorBostonaccents,notanaccentattachedtoanylocality,justanaccent--she",
+      "best_similarity": 0.9693,
+      "correct": true
+    },
+    {
+      "string": "Theypickupold,moth-eatenLondonaccentsthataredownontheirluckandhavetobeusedbysomeone.TheytalkasanEnglishbutlermightafterseveralyearsinaChicagogrand-operacompany.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "incoherent--Suppose--timeineveryWesternwomanslife--shefeelsherhusbandisprosperousenoughforhertohave--accent--theytrytoimpress_me_,mydear--",
+      "best_similarity": 0.9545,
+      "correct": true
+    },
+    {
+      "string": "Ah,BishopWiston,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idonotwanttotalkofmyself.Icanimaginethestreamofhystericalwomenflutteringatyourdoors,beseechingyoutobesimpatico--then",
+      "best_similarity": 0.9735,
+      "correct": true
+    },
+    {
+      "string": "clergyman--butmymood--is--oddlydissimilar.",
+      "best_similarity": 0.8493,
+      "correct": false
+    },
+    {
+      "string": "Indeed,Mrs.Blaine,heisstilldelightfulcompany--quitethecardinalsright-handman.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Amorywillgotohimoneday,Iknow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andMonsignorDarcywillunderstandhimasheunderstoodme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "keepup,",
+      "best_similarity": 0.2,
+      "correct": false
+    },
+    {
+      "string": "takinguptheworkwhereheleftoff,",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "Iamgoingtohaveabobbingparty,",
+      "best_similarity": 0.4483,
+      "correct": false
+    },
+    {
+      "string": "onThursday,Decembertheseventeenth,atfiveoclock,andIwouldlikeitverymuchifyoucouldcome.",
+      "best_similarity": 0.3977,
+      "correct": false
+    }
+  ]
+}

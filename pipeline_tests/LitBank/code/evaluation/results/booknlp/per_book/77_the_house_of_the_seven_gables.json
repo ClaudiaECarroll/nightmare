@@ -1,0 +1,24 @@
+{
+  "threshold": 0.9,
+  "TP": 1,
+  "FP": 1,
+  "FN": 1,
+  "n_pred": 2,
+  "n_gold": 2,
+  "matched_gold": 1,
+  "precision": 0.5,
+  "recall": 0.5,
+  "f1": 0.5,
+  "predictions": [
+    {
+      "string": "God,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "enemy,--Godwillgivehimbloodtodrink!",
+      "best_similarity": 0.871,
+      "correct": false
+    }
+  ]
+}

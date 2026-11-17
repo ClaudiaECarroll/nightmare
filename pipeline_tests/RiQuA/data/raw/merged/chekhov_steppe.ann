@@ -1,0 +1,3408 @@
+T1	Entity 5045 5055	Yegorushka
+T2	Quotation 5155 5194	"Come, not done howling yet, cry-baby!"
+T3	Cue 5195 5200	cried
+T4	Entity 5201 5211	Kuzmitchov
+T5	Quotation 5213 5373	"You are blubbering again, little milksop! If you don't want to go, stay behind; no one is taking you by force!  Never mind, never mind, Yegor boy, never mind,"
+T6	Entity 5374 5392	Father Christopher
+T7	Cue 5393 5401	muttered
+T8	Quotation 5412 5601	"never mind, my boy. . . . Call upon God. . . . You are not going for your harm, but for your good. Learning is light, as the saying is, and ignorance is darkness. . . . That is so, truly."
+T9	Quotation 5602 5627	"Do you want to go back?"
+T10	Cue 5628 5633	asked
+T11	Entity 5634 5644	Kuzmitchov
+T12	Quotation 5646 5669	"Yes, . . . yes, . . ."
+T13	Cue 5670 5678	answered
+T14	Entity 5679 5689	Yegorushka
+T15	Quotation 5700 5818	"Well, you'd better go back then. Anyway, you are going for nothing; it's a day's journey for a spoonful of porridge."
+T16	Quotation 5819 5852	"Never mind, never mind, my boy,"
+T17	Entity 5853 5871	Father Christopher
+T18	Cue 5872 5879	went on
+T19	Quotation 5881 6232	"Call upon God. . . . Lomonosov set off with the fishermen in the same way, and he became a man famous all over Europe. Learning in conjunction with faith brings forth fruit pleasing to God. What are the words of the prayer? For the glory of our Maker, for the comfort of our parents, for the benefit of our Church and our country. . . . Yes, indeed!"
+T20	Quotation 6233 6276	"The benefit is not the same in all cases,"
+T21	Cue 6277 6281	said
+T22	Entity 6282 6292	Kuzmitchov
+T23	Quotation 6318 6374	"some will study twenty years and get no sense from it."
+T24	Quotation 6375 6394	"That does happen."
+T25	Quotation 6395 6857	"Learning is a benefit to some, but others only muddle their brains. My sister is a woman who does not understand; she is set upon refinement, and wants to turn Yegorka into a learned man, and she does not understand that with my business I could settle Yegorka happily for the rest of his life. I tell you this, that if everyone were to go in for being learned and refined there would be no one to sow the corn and do the trading; they would all die of hunger."
+T26	Quotation 6858 6946	"And if all go in for trading and sowing corn there will be no one to acquire learning."
+T27	Entity 10802 10820	Father Christopher
+T28	Quotation 10841 10877	"You are driving over folks, fatty!"
+T29	Cue 10878 10883	cried
+T30	Entity 10884 10891	Deniska
+T31	Quotation 10893 10962	"What a swollen lump of a face, as though a bumble-bee had stung it!"
+T32	Quotation 13957 14011	"Well, Deniska, shall we overtake the waggons to-day?"
+T33	Cue 14012 14017	asked
+T34	Entity 14018 14028	Kuzmitchov
+T35	Entity 14030 14037	Deniska
+T36	Cue 14105 14113	answered
+T37	Quotation 14115 14166	"By nightfall, please God, we shall overtake them."
+T38	Entity 15125 15132	Deniska
+T39	Quotation 15220 15227	"Stop!"
+T40	Cue 15228 15233	cried
+T41	Entity 15234 15244	Kuzmitchov
+T42	Quotation 15246 15261	"Pull up! Woa!"
+T43	Entity 15262 15269	Deniska
+T44	Quotation 15327 15339	"Come here!"
+T45	Entity 15340 15350	Kuzmitchov
+T46	Cue 15351 15358	shouted
+T47	Entity 15362 15374	the shepherd
+T48	Quotation 15376 15408	"Call off the dogs, curse them!"
+T49	Quotation 15781 15805	"Whose sheep are these?"
+T50	Cue 15806 15811	asked
+T51	Entity 15812 15822	Kuzmitchov
+T52	Quotation 15824 15837	"Varlamov's,"
+T53	Entity 15838 15849	the old man
+T54	Cue 15850 15858	answered
+T55	Quotation 15876 15889	"Varlamov's,"
+T56	Cue 15890 15898	repeated
+T57	Entity 15899 15911	the shepherd
+T58	Quotation 15952 15998	"Did Varlamov come this way yesterday or not?"
+T59	Quotation 15999 16034	"He did not; his clerk came. . . ."
+T60	Quotation 16035 16046	"Drive on!"
+T61	Quotation 16670 16718	"A fine windmill Boltva has put up for his son,"
+T62	Cue 16719 16727	observed
+T63	Entity 16728 16735	Deniska
+T64	Quotation 16737 16775	"And how is it we don't see his farm?"
+T65	Quotation 16776 16811	"It is that way, beyond the creek."
+T66	Entity 16930 16940	Yegorushka
+T67	Entity 18339 18341	He
+T68	Cue 18393 18398	began
+T69	Quotation 18400 20425	"I studied too, my boy; from the earliest age God instilled into me good sense and understanding, so that while I was just such a lad as you I was beyond others, a comfort to my parents and preceptors by my good sense. Before I was fifteen I could speak and make verses in Latin, just as in Russian. I was the crosier-bearer to his Holiness Bishop Christopher. After mass one day, as I remember it was the patron saint's day of His Majesty Tsar Alexandr Pavlovitch of blessed memory, he unrobed at the altar, looked kindly at me and asked, 'Puer bone, quam appelaris?' And I answered, 'Christopherus sum;' and he said, 'Ergo connominati sumus'-- that is, that we were namesakes. . . Then he asked in Latin, 'Whose son are you?' To which I answered, also in Latin, that I was the son of deacon Sireysky of the village of Lebedinskoe. Seeing my readiness and the clearness of my answers, his Holiness blessed me and said, 'Write to your father that I will not forget him, and that I will keep you in view.' The holy priests and fathers who were standing round the altar, hearing our discussion in Latin, were not a little surprised, and everyone expressed his pleasure in praise of me. Before I had moustaches, my boy, I could read Latin, Greek, and French; I knew philosophy, mathematics, secular history, and all the sciences. The Lord gave me a marvellous memory. Sometimes, if I read a thing once or twice, I knew it by heart. My preceptors and patrons were amazed, and so they expected I should make a learned man, a luminary of the Church. I did think of going to Kiev to continue my studies, but my parents did not approve. 'You'll be studying all your life,' said my father; 'when shall we see you finished?' Hearing such words, I gave up study and took a post. . . . Of course, I did not become a learned man, but then I did not disobey my parents; I was a comfort to them in their old age and gave them a creditable funeral. Obedience is more than fasting and prayer.  I suppose you have forgotten all your learning?"
+T70	Entity 18884 18886	he
+T71	Entity 18926 18928	me
+T72	Cue 18933 18938	asked
+T73	Quotation 18940 18968	'Puer bone, quam appelaris?'
+T74	Entity 18973 18974	I
+T75	Cue 18975 18983	answered
+T76	Quotation 18985 19005	'Christopherus sum;'
+T77	Entity 19010 19012	he
+T78	Cue 19013 19017	said
+T79	Quotation 19019 19043	'Ergo connominati sumus'
+T80	Entity 19088 19090	he
+T81	Cue 19091 19096	asked
+T82	Quotation 19107 19127	'Whose son are you?'
+T83	Entity 19137 19138	I
+T84	Cue 19139 19147	answered
+T85	Quotation 19164 19231	that I was the son of deacon Sireysky of the village of Lebedinskoe
+T86	Entity 19286 19298	his Holiness
+T87	Entity 19307 19309	me
+T88	Cue 19314 19318	said
+T89	Quotation 19320 19404	'Write to your father that I will not forget him, and that I will keep you in view.'
+T90	Entity 19944 19945	I
+T91	Quotation 20029 20064	'You'll be studying all your life,'
+T92	Cue 20065 20069	said
+T93	Entity 20070 20079	my father
+T94	Quotation 20081 20114	'when shall we see you finished?'
+T95	Entity 20435 20445	Kuzmitchov
+T96	Quotation 20447 20618	"I should think so! Thank God, I have reached my eightieth year! Something of philosophy and rhetoric I do remember, but languages and mathematics I have quite forgotten."
+T97	Entity 20619 20637	Father Christopher
+T98	Cue 20680 20684	said
+T99	Quotation 20702 20810	"What is a substance? A creature is a self-existing object, not requiring anything else for its completion."
+T100	Quotation 20855 20879	"Spiritual nourishment!"
+T101	Entity 20880 20882	he
+T102	Cue 20883 20887	said
+T103	Quotation 20889 20964	"Of a truth matter nourishes the flesh and spiritual nourishment the soul!"
+T104	Quotation 20965 20993	"Learning is all very well,"
+T105	Cue 20994 21000	sighed
+T106	Entity 21001 21011	Kuzmitchov
+T107	Quotation 21013 21080	"but if we don't overtake Varlamov, learning won't do much for us."
+T108	Quotation 21081 21168	"A man isn't a needle-- we shall find him. He must be going his rounds in these parts."
+T109	Entity 21739 21741	he
+T110	Quotation 21850 21889	"Deniska, where are you? Come and eat,"
+T111	Cue 21890 21894	said
+T112	Entity 21895 21905	Kuzmitchov
+T113	Quotation 22278 22301	"Take them, take them,"
+T114	Entity 22302 22312	Kuzmitchov
+T115	Cue 22313 22318	urged
+T116	Entity 22319 22322	him
+T117	Entity 22574 22584	Kuzmitchov
+T118	Cue 22640 22644	said
+T119	Entity 22648 22658	Yegorushka
+T120	Quotation 22660 22742	"I am going to sleep, and you mind that no one takes the sack from under my head."
+T121	Quotation 23448 23497	"You look out that no one takes away the horses!"
+T122	Entity 23498 23500	he
+T123	Cue 23501 23505	said
+T124	Entity 23509 23519	Yegorushka
+T125	Entity 29772 29774	he
+T126	Entity 29863 29873	Yegorushka
+T127	Cue 29874 29879	asked
+T128	Quotation 29881 29900	"What's your name?"
+T129	Entity 29950 29952	he
+T130	Cue 30030 30038	answered
+T131	Quotation 30056 30062	"Tit!"
+T132	Entity 31654 31663	Something
+T133	Entity 31690 31692	he
+T134	Cue 31739 31743	said
+T135	Quotation 31745 31780	"Plague take you, cursed idolater!"
+T136	Entity 31902 31909	The boy
+T137	Cue 32006 32011	asked
+T138	Quotation 32013 32038	"Shall we soon be going?"
+T139	Entity 32039 32046	Deniska
+T140	Cue 32083 32091	answered
+T141	Quotation 32093 32107	"I expect so."
+T142	Quotation 32204 32253	"I say, which of us will get to the sedge first?"
+T143	Entity 32254 32256	he
+T144	Cue 32257 32261	said
+T145	Entity 32263 32273	Yegorushka
+T146	Quotation 34058 34067	"Caught!"
+T147	Entity 34068 34070	he
+T148	Cue 34071 34078	wheezed
+T149	Entity 34138 34148	Yegorushka
+T150	Entity 34537 34544	Deniska
+T151	Quotation 35112 35162	"Father Christopher, get up; it is time to start,"
+T152	Entity 35163 35165	he
+T153	Cue 35166 35170	said
+T154	Quotation 35182 35251	"Wake up; we've slept too long as it is! Deniska, put the horses in."
+T155	Entity 35252 35270	Father Christopher
+T156	Quotation 35636 35657	"Father Christopher,"
+T157	Cue 35658 35662	said
+T158	Entity 35663 35673	Kuzmitchov
+T159	Quotation 35689 35770	"it's time to start; the horses are ready, and here are you, . . . upon my word."
+T160	Quotation 35771 35798	"In a minute, in a minute,"
+T161	Cue 35799 35807	muttered
+T162	Entity 35808 35826	Father Christopher
+T163	Quotation 35828 35887	"I must read the psalms. . . . I haven't read them to-day."
+T164	Quotation 35888 35910	"The psalms can wait."
+T165	Quotation 35911 35974	"Ivan Ivanitch, that is my rule every day. . . . I can't . . ."
+T166	Quotation 35975 35998	"God will overlook it."
+T167	Quotation 36229 36242	"Hallelujah,"
+T168	Entity 36243 36261	Father Christopher
+T169	Entity 36372 36382	the others
+T170	Quotation 36407 36470	"Hallelujah, hallelujah, hallelujah! Glory be to Thee, O Lord!"
+T171	Entity 36479 36481	he
+T172	Cue 36557 36561	said
+T173	Quotation 36563 36571	"Finis!"
+T174	Quotation 41971 41990	"Oh dear! oh dear!"
+T175	Entity 41991 41993	he
+T176	Cue 41994 41999	began
+T177	Entity 42068 42082	the travellers
+T178	Quotation 42129 42481	"What a happy day for me! Oh, what am I to do now? Ivan Ivanitch! Father Christopher! What a pretty little gentleman sitting on the box, God strike me dead! Oh, my goodness! why am I standing here instead of asking the visitors indoors? Please walk in, I humbly beg you. . . . You are kindly welcome! Give me all your things. . . . Oh, my goodness me!"
+T179	Entity 42482 42499	Moisey Moisevitch
+T180	Cue 42598 42605	shouted
+T181	Quotation 42689 42708	"Solomon! Solomon!"
+T182	Quotation 42709 42728	"Solomon! Solomon!"
+T183	Entity 42729 42736	a woman
+T184	Cue 42745 42753	repeated
+T185	Entity 43122 43129	Solomon
+T186	Quotation 43258 43307	"Ivan Ivanitch and Father Christopher have come,"
+T187	Cue 43308 43312	said
+T188	Entity 43313 43330	Moisey Moisevitch
+T189	Entity 43366 43377	his brother
+T190	Quotation 43401 43541	"Dear, dear! What a surprise! Such honoured guests to have come us so suddenly! Come, take their things, Solomon. Walk in, honoured guests."
+T191	Entity 45274 45291	Moisey Moisevitch
+T192	Quotation 45446 45475	"When did our waggons go by?"
+T193	Entity 45476 45486	Kuzmitchov
+T194	Cue 45487 45492	asked
+T195	Quotation 45494 45615	"One party went by early this morning, and the other, Ivan Ivanitch, put up here for dinner and went on towards evening."
+T196	Quotation 45616 45656	"Ah! . . . Has Varlamov been by or not?"
+T197	Quotation 45657 45790	"No, Ivan Ivanitch. His clerk, Grigory Yegoritch, went by yesterday morning and said that he had to be to-day at the Molokans' farm."
+T198	Quotation 45791 45869	"Good! so we will go after the waggons directly and then on to the Molokans'."
+T199	Quotation 45870 45899	"Mercy on us, Ivan Ivanitch!"
+T200	Entity 45900 45917	Moisey Moisevitch
+T201	Cue 45918 45933	cried in horror
+T202	Quotation 45958 46128	"Where are you going for the night? You will have a nice little supper and stay the night, and to-morrow morning, please God, you can go on and overtake anyone you like."
+T203	Quotation 46129 46322	"There is no time for that. . . . Excuse me, Moisey Moisevitch, another time; but now I must make haste. We'll stay a quarter of an hour and then go on; we can stay the night at the Molokans'."
+T204	Quotation 46323 46346	"A quarter of an hour!"
+T205	Cue 46347 46355	squealed
+T206	Entity 46356 46373	Moisey Moisevitch
+T207	Quotation 46375 46533	"Have you no fear of God, Ivan Ivanitch? You will compel me to hide your caps and lock the door! You must have a cup of tea and a snack of something, anyway."
+T208	Quotation 46534 46560	"We have no time for tea,"
+T209	Cue 46561 46565	said
+T210	Entity 46566 46576	Kuzmitchov
+T211	Entity 46747 46749	he
+T212	Cue 46750 46765	began imploring
+T213	Quotation 46767 46939	"Ivan Ivanitch! Father Christopher! Do be so good as to take a cup of tea with me. Surely I am not such a bad man that you can't even drink tea in my house? Ivan Ivanitch!"
+T214	Quotation 46940 46986	"Well, we may just as well have a cup of tea,"
+T215	Cue 46987 46991	said
+T216	Entity 46992 47010	Father Christopher
+T217	Quotation 47038 47064	"that won't keep us long."
+T218	Quotation 47065 47077	"Very well,"
+T219	Entity 47078 47088	Kuzmitchov
+T220	Cue 47089 47097	assented
+T221	Entity 47099 47116	Moisey Moisevitch
+T222	Cue 47257 47262	cried
+T223	Quotation 47321 47353	"Rosa! Rosa! Bring the samovar!"
+T224	Entity 47999 48002	his
+T225	Entity 48082 48092	Kuzmitchov
+T226	Cue 48115 48120	asked
+T227	Quotation 48122 48212	"Solomon, why did you not come to our fair at N. this summer, and act some Jewish scenes?"
+T228	Quotation 49140 49184	"I wish you a good appetite! Tea and sugar!"
+T229	Entity 49185 49187	he
+T230	Cue 49188 49193	began
+T231	Entity 49215 49227	his visitors
+T232	Quotation 49229 49398	"I hope you will enjoy it. Such rare guests, such rare ones; it is years since I last saw Father Christopher. And will no one tell me who is this nice little gentleman?"
+T233	Entity 49399 49401	he
+T234	Cue 49402 49407	asked
+T235	Quotation 49441 49485	"He is the son of my sister, Olga Ivanovna,"
+T236	Cue 49486 49494	answered
+T237	Entity 49495 49505	Kuzmitchov
+T238	Quotation 49507 49531	"And where is he going?"
+T239	Quotation 49532 49580	"To school. We are taking him to a high school."
+T240	Quotation 49676 49703	"Ah, that is a fine thing,"
+T241	Entity 49704 49706	he
+T242	Cue 49707 49711	said
+T243	Quotation 49748 49973	"That's a fine thing. You will come back from the high school such a gentleman that we shall all take off our hats to you. You will be wealthy and wise and so grand that your mamma will be delighted. Oh, that's a fine thing!"
+T244	Entity 49974 49976	He
+T245	Cue 50017 50028	began again
+T246	Quotation 50063 50361	"You must excuse me, Father Christopher, but I am thinking of writing to the bishop to tell him you are robbing the merchants of their living. I shall take a sheet of stamped paper and write that I suppose Father Christopher is short of pence, as he has taken up with trade and begun selling wool."
+T247	Quotation 50362 50413	"H'm, yes . . . it's a queer notion in my old age,"
+T248	Cue 50414 50418	said
+T249	Entity 50419 50437	Father Christopher
+T250	Quotation 50455 50633	"I have turned from priest to merchant, brother. I ought to be at home now saying my prayers, instead of galloping about the country like a Pharaoh in his chariot. . . . Vanity!"
+T251	Quotation 50634 50668	"But it will mean a lot of pence!"
+T252	Quotation 50669 50783	"Oh, I dare say! More kicks than halfpence, and serve me right. The wool's not mine, but my son-in-law MikhailÕs!"
+T253	Quotation 50784 50812	"Why doesn't he go himself?"
+T254	Quotation 50813 51625	"Why, because . . . His mother's milk is scarcely dry upon his lips. He can buy wool all right, but when it comes to selling, he has no sense; he is young yet. He has wasted all his money; he wanted to grow rich and cut a dash, but he tried here and there, and no one would give him his price. And so the lad went on like that for a year, and then he came to me and said, 'Daddy, you sell the wool for me; be kind and do it! I am no good at the business!' And that is true enough. As soon as there is anything wrong then it's 'Daddy,' but till then they could get on without their dad. When he was buying he did not consult me, but now when he is in difficulties it's Daddy's turn. And what does his dad know about it? If it were not for Ivan Ivanitch, his dad could do nothing. I have a lot of worry with them."
+T255	Entity 51161 51163	he
+T256	Entity 51172 51174	me
+T257	Cue 51179 51183	said
+T258	Quotation 51185 51268	'Daddy, you sell the wool for me; be kind and do it! I am no good at the business!'
+T259	Quotation 51626 51697	"Yes; one has a lot of worry with one's children, I can tell you that,"
+T260	Cue 51698 51704	sighed
+T261	Entity 51705 51722	Moisey Moisevitch
+T262	Quotation 51724 52022	"I have six of my own. One needs schooling, another needs doctoring, and a third needs nursing, and when they grow up they are more trouble still. It is not only nowadays, it was the same in Holy Scripture. When Jacob had little children he wept, and when they grew up he wept still more bitterly."
+T263	Quotation 52023 52039	"H'm, yes . . ."
+T264	Entity 52040 52058	Father Christopher
+T265	Cue 52059 52067	assented
+T266	Quotation 52101 52941	"I have no cause myself to rail against the Lord. I have lived to the end of my days as any man might be thankful to live. . . . I have married my daughters to good men, my sons I have set up in life, and now I am free; I have done my work and can go where I like. I live in peace with my wife. I eat and drink and sleep and rejoice in my grandchildren, and say my prayers and want nothing more. I live on the fat of the land, and don't need to curry favour with anyone. I have never had any trouble from childhood, and now suppose the Tsar were to ask me, 'What do you need? What would you like?' why, I don't need anything. I have everything I want and everything to be thankful for. In the whole town there is no happier man than I am. My only trouble is I have so many sins, but there --only God is without sin. That's right, isn't it?"
+T267	Quotation 52942 52959	"No doubt it is."
+T268	Quotation 52960 53230	"I have no teeth, of course; my poor old back aches; there is one thing and another, . . . asthma and that sort of thing. . . . I ache. . . . The flesh is weak, but then think of my age! I am in the eighties! One can't go on for ever; one mustn't outstay one's welcome."
+T269	Entity 53333 53350	Moisey Moisevitch
+T270	Quotation 53415 53426	"So funny!"
+T271	Cue 53427 53431	said
+T272	Entity 53432 53450	Father Christopher
+T273	Quotation 53475 53905	"My eldest son Gavrila came to pay me a visit. He is in the medical line, and is a district doctor in the province of Tchernigov. . . . 'Very well . . .' I said to him, 'here I have asthma and one thing and another. . . . You are a doctor; cure your father!' He undressed me on the spot, tapped me, listened, and all sorts of tricks, . . . kneaded my stomach, and then he said, 'Dad, you ought to be treated with compressed air.'"
+T274	Quotation 53611 53628	'Very well . . .'
+T275	Entity 53629 53630	I
+T276	Cue 53631 53635	said
+T277	Entity 53639 53642	him
+T278	Quotation 53644 53733	'here I have asthma and one thing and another. . . . You are a doctor; cure your father!'
+T279	Entity 53747 53749	me
+T280	Entity 53844 53846	he
+T281	Cue 53847 53851	said
+T282	Quotation 53853 53904	'Dad, you ought to be treated with compressed air.'
+T283	Quotation 53994 54047	"And I said to him, 'God bless your compressed air!'"
+T284	Entity 53999 54000	I
+T285	Cue 54001 54005	said
+T286	Entity 54009 54012	him
+T287	Quotation 54014 54046	'God bless your compressed air!'
+T288	Entity 54048 54050	he
+T289	Cue 54051 54083	brought out through his laughter
+T290	Quotation 54104 54136	"God bless your compressed air!"
+T291	Entity 54137 54154	Moisey Moisevitch
+T292	Quotation 54260 54291	"God bless the compressed air!"
+T293	Cue 54292 54300	repeated
+T294	Entity 54301 54319	Father Christopher
+T295	Quotation 54431 54441	"Oh dear!"
+T296	Entity 54442 54444	he
+T297	Cue 54445 54451	moaned
+T298	Quotation 54474 54531	"Let me get my breath . . . . You'll be the death of me."
+T299	Quotation 55288 55351	"While we have the time, Father Christopher, let us reckon up,"
+T300	Cue 55352 55356	said
+T301	Entity 55357 55367	Kuzmitchov
+T302	Quotation 55605 55650	"How many are there in the rolls of roubles?"
+T303	Entity 55651 55669	Father Christopher
+T304	Cue 55670 55675	began
+T305	Quotation 55677 55943	"The rouble notes are done up in fifties, . . . the three-rouble notes in nineties, the twenty-five and hundred roubles in thousands. You count out seven thousand eight hundred for Varlamov, and I will count out for Gusevitch. And mind you don't make a mistake. . ."
+T306	Quotation 57109 57128	"Ah, money, money!"
+T307	Cue 57129 57135	sighed
+T308	Entity 57136 57154	Father Christopher
+T309	Quotation 57165 57288	"You bring trouble! Now I expect my Mihailo is asleep and dreaming that I am going to bring him a heap of money like this."
+T310	Quotation 57289 57357	"Your Mihailo Timofevitch is a man who doesn't understand business,"
+T311	Cue 57358 57362	said
+T312	Entity 57363 57373	Kuzmitchov
+T313	Quotation 57391 57633	"he undertakes what isn't his work, but you understand and can judge. You had better hand over your wool to me, as I have said already, and I would give you half a rouble above my own price-- yes, I would, simply out of regard for you. . . ."
+T314	Quotation 57634 57654	"No, Ivan Ivanitch."
+T315	Entity 57655 57673	Father Christopher
+T316	Cue 57674 57680	sighed
+T317	Quotation 57682 57849	"I thank you for your kindness. . . . Of course, if it were for me to decide, I shouldn't think twice about it; but as it is, the wool is not mine, as you know. . . ."
+T318	Entity 57958 57968	Yegorushka
+T319	Quotation 58006 58037	"Come along, little gentleman,"
+T320	Entity 58038 58040	he
+T321	Cue 58041 58045	said
+T322	Quotation 58063 58149	"come and see the little bear I can show you! Such a queer, cross little bear. Oo-oo!"
+T323	Entity 59131 59133	he
+T324	Quotation 59211 59236	"Eat it, dearie, eat it!"
+T325	Entity 59237 59240	she
+T326	Cue 59241 59245	said
+T327	Quotation 59247 59322	"You are here without your mamma, and no one to look after you. Eat it up."
+T328	Quotation 59568 59598	"Where are you going, dearie?"
+T329	Cue 59599 59604	asked
+T330	Entity 59605 59615	the Jewess
+T331	Quotation 59617 59629	"To school,"
+T332	Cue 59630 59638	answered
+T333	Entity 59639 59649	Yegorushka
+T334	Quotation 59651 59700	"And how many brothers and sisters have you got?"
+T335	Quotation 59701 59742	"I am the only one; there are no others."
+T336	Quotation 59743 59750	"O-oh!"
+T337	Cue 59751 59757	sighed
+T338	Entity 59758 59768	the Jewess
+T339	Quotation 59798 59913	"Poor mamma, poor mamma! How she will weep and miss you! We are going to send our Nahum to school in a year. O-oh!"
+T340	Quotation 59914 59933	"Ah, Nahum, Nahum!"
+T341	Cue 59934 59940	sighed
+T342	Entity 59941 59958	Moisey Moisevitch
+T343	Quotation 60010 60034	"And he is so delicate."
+T344	Quotation 60841 60867	"Ghaal-ghaal-ghaal-ghaal!"
+T345	Cue 60868 60872	said
+T346	Entity 60873 60890	Moisey Moisevitch
+T347	Quotation 60892 60910	"Too-too-too-too!"
+T348	Cue 60911 60919	answered
+T349	Entity 60920 60930	the Jewess
+T350	Quotation 61126 61144	"Take it, dearie,"
+T351	Entity 61145 61148	she
+T352	Cue 61149 61153	said
+T353	Entity 61162 61172	Yegorushka
+T354	Quotation 61183 61240	"you have no mamma now-- no one to give you nice things."
+T355	Entity 61815 61822	Solomon
+T356	Quotation 61824 61849	"Well, Solomon the Wise!"
+T357	Entity 61850 61852	he
+T358	Cue 61853 61857	said
+T359	Quotation 61916 61934	"How is business?"
+T360	Quotation 61935 61981	"What sort of business are you talking about?"
+T361	Cue 61982 61987	asked
+T362	Entity 61988 61995	Solomon
+T363	Quotation 62076 62120	"Oh, things in general. What are you doing?"
+T364	Quotation 62121 62139	"What am I doing?"
+T365	Entity 62140 62147	Solomon
+T366	Cue 62148 62156	repeated
+T367	Quotation 62189 62411	"The same as everyone else. . . . You see, I am a menial, I am my brother's servant; my brother's the servant of the visitors; the visitors are Varlamov's servants; and if I had ten millions, Varlamov would be my servant."
+T368	Quotation 62412 62443	"Why would he be your servant?"
+T369	Quotation 62444 62752	"Why, because there isn't a gentleman or millionaire who isn't ready to lick the hand of a scabby Jew for the sake of making a kopeck. Now, I am a scabby Jew and a beggar. Everybody looks at me as though I were a dog, but if I had money Varlamov would play the fool before me just as Moisey does before you."
+T370	Entity 62753 62771	Father Christopher
+T371	Entity 62845 62855	Kuzmitchov
+T372	Entity 62866 62869	him
+T373	Cue 62893 62898	asked
+T374	Quotation 62900 62960	"How can you compare yourself with Varlamov, you blockhead?"
+T375	Quotation 62961 63026	"I am not such a fool as to put myself on a level with Varlamov,"
+T376	Cue 63027 63035	answered
+T377	Entity 63036 63043	Solomon
+T378	Entity 63070 63081	the speaker
+T379	Quotation 63083 63399	"Though Varlamov is a Russian, he is at heart a scabby Jew; money and gain are all he lives for, but I threw my money in the stove! I don't want money, or land, or sheep, and there is no need for people to be afraid of me and to take off their hats when I pass. So I am wiser than your Varlamov and more like a man!"
+T380	Quotation 63727 63740	"Stop! . . ."
+T381	Entity 63741 63759	Father Christopher
+T382	Cue 63760 63764	said
+T383	Entity 63768 63771	him
+T384	Quotation 63773 63929	"If you don't like your religion you had better change it, but to laugh at it is a sin; it is only the lowest of the low who will make fun of his religion."
+T385	Quotation 63930 63953	"You don't understand,"
+T386	Entity 63954 63961	Solomon
+T387	Cue 63962 63975	cut him short
+T388	Quotation 63984 64056	"I am talking of one thing and you are talking of something else. . . ."
+T389	Quotation 64057 64096	"One can see you are a foolish fellow,"
+T390	Cue 64097 64103	sighed
+T391	Entity 64104 64122	Father Christopher
+T392	Quotation 64124 64316	"I admonish you to the best of my ability, and you are angry. I speak to you like an old man quietly, and you answer like a turkeycock: 'Bla-- bla-- bla!' You really are a queer fellow. . . ."
+T393	Quotation 64974 65050	"What a ferocious fellow you've got here, Moisey Moisevitch! God bless him!"
+T394	Cue 65051 65055	said
+T395	Entity 65056 65074	Father Christopher
+T396	Quotation 65089 65196	"You ought to find him a place or a wife or something. . . . There's no knowing what to make of him. . . ."
+T397	Entity 65225 65242	Moisey Moisevitch
+T398	Quotation 65314 65333	"Solomon, go away!"
+T399	Entity 65334 65336	he
+T400	Cue 65337 65341	said
+T401	Quotation 65351 65361	"Go away!"
+T402	Entity 65366 65368	he
+T403	Cue 65369 65374	added
+T404	Quotation 65375 65395	something in Yiddish
+T405	Entity 65397 65404	Solomon
+T406	Quotation 65440 65454	"What was it?"
+T407	Entity 65455 65472	Moisey Moisevitch
+T408	Cue 65473 65478	asked
+T409	Entity 65479 65497	Father Christopher
+T410	Quotation 65509 65530	"He forgets himself,"
+T411	Cue 65531 65539	answered
+T412	Entity 65540 65550	Kuzmitchov
+T413	Quotation 65552 65595	"He's rude and thinks too much of himself."
+T414	Quotation 65596 65608	"I knew it!"
+T415	Entity 65609 65626	Moisey Moisevitch
+T416	Cue 65627 65632	cried
+T417	Quotation 65664 65683	"Oh dear, oh dear!"
+T418	Entity 65684 65686	he
+T419	Cue 65687 65695	muttered
+T420	Quotation 65712 65920	"Be so kind as to excuse it, and don't be angry. He is such a queer fellow, such a queer fellow! Oh dear, oh dear! He is my own brother, but I have never had anything but trouble from him. You know he's. . ."
+T421	Entity 65921 65938	Moisey Moisevitch
+T422	Cue 65978 65985	went on
+T423	Quotation 65987 66483	"He is not in his right mind; . . . he's hopeless. And I don't know what I am to do with him! He cares for nobody, he respects nobody, and is afraid of nobody. . . . You know he laughs at everybody, he says silly things, speaks familiarly to anyone. You wouldn't believe it, Varlamov came here one day and Solomon said such things to him that he gave us both a taste of his whip. . . . But why whip me? Was it my fault? God has robbed him of his wits, so it is God's will, and how am I to blame?"
+T424	Entity 66507 66524	Moisey Moisevitch
+T425	Cue 66535 66572	muttering in an undertone and sighing
+T426	Quotation 66574 67073	"He does not sleep at night, and is always thinking and thinking and thinking, and what he is thinking about God only knows. If you go to him at night he is angry and laughs. He doesn't like me either . . . . And there is nothing he wants! When our father died he left us each six thousand roubles. I bought myself an inn, married, and now I have children; and he burnt all his money in the stove. Such a pity, such a pity! Why burn it? If he didn't want it he could give it to me, but why burn it?"
+T427	Quotation 67872 67924	"Your Excellency must excuse us for not being tidy,"
+T428	Cue 67925 67931	moaned
+T429	Entity 67932 67949	Moisey Moisevitch
+T430	Quotation 68107 68145	"We are plain folks, your Excellency."
+T431	Entity 68256 68294	a young plump and very beautiful woman
+T432	Quotation 68491 68523	"Has Varlamov been here to-day?"
+T433	Entity 68524 68539	a woman's voice
+T434	Cue 68540 68548	inquired
+T435	Quotation 68550 68572	"No, your Excellency,"
+T436	Cue 68573 68577	said
+T437	Entity 68578 68595	Moisey Moisevitch
+T438	Quotation 68597 68665	"If you see him to-morrow, ask him to come and see me for a minute."
+T439	Entity 68699 68709	Yegorushka
+T440	Quotation 68916 68936	"What a pretty boy!"
+T441	Cue 68937 68941	said
+T442	Entity 68942 68950	the lady
+T443	Quotation 68952 69048	"Whose boy is it? Kazimir Mihalovitch, look what a charming fellow! Good heavens, he is asleep!"
+T444	Quotation 69257 69282	"Yegorushka, Yegorushka!"
+T445	Entity 69283 69285	he
+T446	Entity 69292 69307	two bass voices
+T447	Cue 69308 69315	whisper
+T448	Quotation 69317 69347	"Get up; it is time to start."
+T449	Quotation 69806 69812	"Woa!"
+T450	Entity 69813 69815	he
+T451	Quotation 70208 70233	"The Countess Dranitsky,"
+T452	Cue 70234 70243	whispered
+T453	Entity 70244 70262	Father Christopher
+T454	Quotation 70292 70318	"Yes, Countess Dranitsky,"
+T455	Cue 70319 70327	repeated
+T456	Entity 70328 70338	Kuzmitchov
+T457	Entity 71510 71523	Ivan Ivanitch
+T458	Entity 72587 72589	he
+T459	Cue 72590 72594	said
+T460	Quotation 72596 72787	"But doesn't that Kazimir Mihalovitch plunder her right and left! The year before last when, do you remember, I bought some wool from her, he made over three thousand from my purchase alone."
+T461	Quotation 72788 72837	"That is just what you would expect from a Pole,"
+T462	Cue 72838 72842	said
+T463	Entity 72843 72861	Father Christopher
+T464	Quotation 72863 72958	"And little does it trouble her. Young and foolish, as they say, her head is full of nonsense."
+T465	Quotation 78531 78586	"Woa! Good-evening, Panteley! Is everything all right?"
+T466	Quotation 78587 78649	"First-rate, Ivan Ivanitch!  Haven't you seen Varlamov, lads?"
+T467	Quotation 78650 78667	"No, we haven't."
+T468	Quotation 78984 79030	"Well, then, we shall go on to the Molokans'!"
+T469	Entity 79031 79041	Kuzmitchov
+T470	Cue 79042 79046	said
+T471	Quotation 79054 79169	"The Jew told us that Varlamov was putting up for the night at the Molokans'. So good-bye, lads! Good luck to you!"
+T472	Quotation 79170 79196	"Good-bye, Ivan Ivanitch,"
+T473	Entity 79197 79211	several voices
+T474	Cue 79212 79219	replied
+T475	Quotation 79221 79235	"I say, lads,"
+T476	Entity 79236 79246	Kuzmitchov
+T477	Cue 79247 79252	cried
+T478	Quotation 79262 79489	"you take my little lad along with you! Why should he go jolting off with us for nothing? You put him on the bales, Panteley, and let him come on slowly, and we shall overtake you. Get down, Yegor! Go on; it's all right. . . ."
+T479	Quotation 79735 79763	"Hey, take his little coat!"
+T480	Entity 79764 79771	Deniska
+T481	Cue 79772 79779	shouted
+T482	Quotation 80117 80154	"Don't be unkind to him, you devils!"
+T483	Entity 80164 80171	Deniska
+T484	Quotation 80187 80222	"Good-bye, lads; good luck to you,"
+T485	Cue 80223 80230	shouted
+T486	Entity 80231 80241	Kuzmitchov
+T487	Quotation 80243 80261	"I rely upon you!"
+T488	Quotation 80262 80299	"Don't you be uneasy, Ivan Ivanitch!"
+T489	Entity 80618 80652	someone at the head of the waggons
+T490	Cue 80653 80660	shouted
+T491	Quotation 80662 80680	"Kiruha! Sta-art!"
+T492	Entity 84561 84563	he
+T493	Entity 84574 84577	him
+T494	Cue 84582 84586	said
+T495	Quotation 84637 84705	"Ah, you are awake, youngster! So you are the son of Ivan Ivanitch?"
+T496	Quotation 84706 84729	"No; his nephew. . . ."
+T497	Quotation 84730 85148	"Nephew of Ivan Ivanitch? Here I have taken off my boots and am hopping along barefoot. My feet are bad; they are swollen, and it's easier without my boots . . . easier, youngster . . . without boots, I mean. . . . So you are his nephew? He is a good man; no harm in him. . . . God give him health. . . . No harm in him . . . I mean Ivan Ivanitch. . . . He has gone to the Molokans'. . . . O Lord, have mercy upon us!"
+T498	Quotation 87274 87296	"Where are you going?"
+T499	Entity 87297 87299	he
+T500	Cue 87300 87305	asked
+T501	Quotation 87331 87343	"To school,"
+T502	Cue 87344 87352	answered
+T503	Entity 87353 87363	Yegorushka
+T504	Quotation 87365 87856	"To school? Aha! . . . Well, may the Queen of Heaven help you. Yes. One brain is good, but two are better. To one man God gives one brain, to another two brains, and to another three. . . . To another three, that is true. . . . One brain you are born with, one you get from learning, and a third with a good life. So you see, my lad, it is a good thing if a man has three brains. Living is easier for him, and, what's more, dying is, too. Dying is, too. . . . And we shall all die for sure."
+T505	Entity 87857 87868	The old man
+T506	Entity 87912 87922	Yegorushka
+T507	Cue 87946 87953	went on
+T508	Quotation 87955 88493	"Maxim Nikolaitch, the gentleman from Slavyanoserbsk, brought a little lad to school, too, last year. I don't know how he is getting on there in studying the sciences, but he was a nice good little lad. . . . God give them help, they are nice gentlemen. Yes, he, too, brought his boy to school. . . . In Slavyanoserbsk there is no establishment, I suppose, for study. No. . . . But it is a nice town. . . . There's an ordinary school for simple folks, but for the higher studies there is nothing. No, that's true. What's your name? . . ."
+T509	Quotation 88494 88507	"Yegorushka."
+T510	Quotation 88508 89668	"Yegory, then. . . . The holy martyr Yegory, the Bearer of Victory, whose day is the twenty-third of April. And my christian name is Panteley, . . . Panteley Zaharov Holodov. . . . We are Holodovs . . . . I am a native of-- maybe you've heard of it-- Tim in the province of Kursk. My brothers are artisans and work at trades in the town, but I am a peasant. . . . I have remained a peasant. Seven years ago I went there-- home, I mean. I went to the village and to the town. . . . To Tim, I mean. Then, thank God, they were all alive and well; . . . but now I don't know. . . . Maybe some of them are dead. . . . And it's time they did die, for some of them are older than I am. Death is all right; it is good so long, of course, as one does not die without repentance. There is no worse evil than an impenitent death; an impenitent death is a joy to the devil. And if you want to die penitent, so that you may not be forbidden to enter the mansions of the Lord, pray to the holy martyr Varvara. She is the intercessor. She is, that's the truth. . . . For God has given her such a place in the heavens that everyone has the right to pray to her for penitence."
+T511	Entity 89669 89677	Panteley
+T512	Entity 89736 89746	Yegorushka
+T513	Entity 90021 90031	Yegorushka
+T514	Cue 90180 90187	talking
+T515	Quotation 90188 90201	of repentance
+T516	Entity 90203 90205	he
+T517	Cue 90206 90211	spoke
+T518	Quotation 90212 90264	about a certain Maxim Nikolaitch from Slavyanoserbsk
+T519	Quotation 90266 90333	"Yes, he took his little lad; . . . he took him, that's true . . ."
+T520	Entity 90840 90843	him
+T521	Entity 90845 90855	The latter
+T522	Cue 90910 90914	said
+T523	Quotation 90916 90956	"I say, lads, Dymov has killed a snake!"
+T524	Entity 91183 91206	The flaxen-headed Dymov
+T525	Quotation 91323 91364	"That's not a viper; it's a grass snake!"
+T526	Cue 91365 91372	shouted
+T527	Entity 91373 91380	someone
+T528	Quotation 91527 91543	"You jail-bird!"
+T529	Entity 91544 91546	he
+T530	Cue 91547 91552	cried
+T531	Quotation 91580 91736	"What have you killed a grass snake for? What had he done to you, you damned brute? Look, he has killed a grass snake; how would you like to be treated so?"
+T532	Quotation 91737 91788	"Grass snakes ought not to be killed, that's true,"
+T533	Entity 91789 91797	Panteley
+T534	Cue 91798 91806	muttered
+T535	Quotation 91817 91972	"they ought not. . . They are not vipers; though it looks like a snake, it is a gentle, innocent creature. . . . It's friendly to man, the grass snake is."
+T536	Entity 92193 92222	the man with his face tied up
+T537	Entity 92250 92258	Panteley
+T538	Cue 92263 92268	asked
+T539	Quotation 92289 92349	"Grandfather, what did he want to kill the grass snake for?"
+T540	Quotation 92521 92560	"Grandfather, what did he kill it for?"
+T541	Entity 92561 92563	he
+T542	Cue 92564 92572	repeated
+T543	Entity 92596 92604	Panteley
+T544	Quotation 92606 92676	"A stupid fellow. His hands itch to kill, and that is why he does it,"
+T545	Cue 92677 92685	answered
+T546	Entity 92686 92697	the old man
+T547	Quotation 92699 93387	"but he oughtn't to kill a grass snake, that's true. . . . Dymov is a ruffian, we all know, he kills everything he comes across, and Kiruha did not interfere. He ought to have taken its part, but instead of that, he goes off into 'Ha-ha-ha!' and 'Ho-ho-ho!' . . . But don't be angry, Vassya. . . . Why be angry? They've killed it-- well, never mind them. Dymov is a ruffian and Kiruha acted from foolishness-- never mind. . . . They are foolish people without understanding-- but there, don't mind them. Emelyan here never touches what he shouldn't; he never does; . . . that is true, . . . because he is a man of education, while they are stupid. . . . Emelyan, he doesn't touch things."
+T548	Entity 93544 93563	Panteley and Vassya
+T549	Quotation 93603 93632	"What are you talking about?"
+T550	Entity 93633 93635	he
+T551	Cue 93636 93641	asked
+T552	Quotation 93668 93696	"Why, Vassya here is angry,"
+T553	Cue 93697 93701	said
+T554	Entity 93702 93710	Panteley
+T555	Quotation 93712 93879	"So I have been saying things to him to stop his being angry. . . . Oh, how my swollen feet hurt! Oh, oh! They are more inflamed than ever for Sunday, God's holy day!"
+T556	Quotation 93880 93900	"It's from walking,"
+T557	Cue 93901 93909	observed
+T558	Entity 93910 93916	Vassya
+T559	Quotation 93918 94059	"No, lad, no. It's not from walking. When I walk it seems easier; when I lie down and get warm, . . . it's deadly. Walking is easier for me."
+T560	Entity 94199 94203	them
+T561	Entity 94219 94221	he
+T562	Cue 94240 94251	croaked out
+T563	Quotation 94264 94535	"I have no voice. It's a real misfortune. All last night and this morning I have been haunted by the trio 'Lord, have Mercy' that we sang at the wedding at Marionovsky's. It's in my head and in my throat. It seems as though I could sing it, but I can't; I have no voice."
+T564	Entity 94536 94538	He
+T565	Cue 94575 94582	went on
+T566	Quotation 94584 94882	"For fifteen years I was in the choir. In all the Lugansky works there was, maybe, no one with a voice like mine. But, confound it, I bathed two years ago in the Donets, and I can't get a single note true ever since. I took cold in my throat. And without a voice I am like a workman without hands."
+T567	Quotation 94883 94897	"That's true,"
+T568	Entity 94898 94906	Panteley
+T569	Cue 94907 94913	agreed
+T570	Quotation 94915 94968	"I think of myself as a ruined man and nothing more."
+T571	Quotation 95072 95117	"There's a little gentleman driving with us,"
+T572	Entity 95122 95124	he
+T573	Quotation 95185 95267	"What a grand driver! Stay with us and you shall drive the waggons and sell wool."
+T574	Entity 97288 97290	He
+T575	Cue 97291 97316	laughed aloud and shouted
+T576	Quotation 97318 97391	"I say, lads, the old man has been brought to bed of a boy in the night!"
+T577	Entity 97392 97398	Kiruha
+T578	Quotation 98805 98851	"Grandfather, why do you drink out of a lamp?"
+T579	Entity 98852 98862	Yegorushka
+T580	Cue 98863 98868	asked
+T581	Entity 98869 98872	him
+T582	Quotation 98885 98942	"One man drinks out of a pail and another out of a lamp,"
+T583	Entity 98943 98954	the old man
+T584	Cue 98955 98963	answered
+T585	Quotation 98975 99081	"Every man to his own taste. . . . You drink out of the pail-- well, drink, and may it do you good. . . ."
+T586	Quotation 99082 99108	"You darling, you beauty!"
+T587	Entity 99109 99115	Vassya
+T588	Cue 99116 99120	said
+T589	Quotation 99164 99178	"You darling!"
+T590	Quotation 99320 99351	"Who is it you are talking to?"
+T591	Cue 99352 99357	asked
+T592	Entity 99358 99364	Kiruha
+T593	Quotation 99366 99427	"A darling fox, . . . lying on her back, playing like a dog."
+T594	Quotation 102037 102048	"Ha-ha-ha!"
+T595	Entity 102049 102051	he
+T596	Cue 102052 102059	shouted
+T597	Quotation 102061 102083	"Catch him! Hold him!"
+T598	Entity 103734 103741	Styopka
+T599	Quotation 103776 103813	"A crayfish, look, lads! A crayfish!"
+T600	Entity 103814 103820	Kiruha
+T601	Cue 103821 103826	cried
+T602	Entity 104461 104471	Yegorushka
+T603	Entity 104570 104579	the bully
+T604	Cue 104601 104605	said
+T605	Quotation 104607 104642	"Fool! I'll punch you in the face."
+T606	Entity 104703 104705	he
+T607	Cue 104727 104732	added
+T608	Quotation 104734 104771	"You blackguard! You son of a bitch!"
+T609	Entity 104776 104781	Dymov
+T610	Entity 104872 104878	Kiruha
+T611	Cue 104880 104888	shouting
+T612	Quotation 104890 104946	"Ha-ha-ha! Let us catch fish! Mates, let us catch fish."
+T613	Quotation 104947 104960	"To be sure,"
+T614	Entity 104961 104967	Kiruha
+T615	Cue 104968 104974	agreed
+T616	Quotation 104976 105011	"there must be a lot of fish here."
+T617	Quotation 105012 105100	"Styopka, run to the village and ask the peasants for a net!  They won't give it to me."
+T618	Quotation 105101 105229	"They will, you ask them. Tell them that they should give it to us for Christ's sake, because we are just the same as pilgrims."
+T619	Quotation 105230 105244	"That's true."
+T620	Entity 105245 105252	Styopka
+T621	Quotation 106061 106087	"And why don't you bathe?"
+T622	Entity 106088 106098	Yegorushka
+T623	Cue 106099 106104	asked
+T624	Entity 106105 106111	Vassya
+T625	Quotation 106113 106145	"Oh, I don't care for it, . . ."
+T626	Cue 106146 106154	answered
+T627	Entity 106155 106161	Vassya
+T628	Quotation 106163 106196	"How is it your chin is swollen?"
+T629	Quotation 106197 106462	"It's bad. . . . I used to work at the match factory, little sir. . . . The doctor used to say that it would make my jaw rot. The air is not healthy there. There were three chaps beside me who had their jaws swollen, and with one of them it rotted away altogether."
+T630	Quotation 106978 106990	"It's deep,"
+T631	Cue 106991 106998	croaked
+T632	Entity 106999 107005	Kiruha
+T633	Quotation 107007 107034	"You won't catch anything."
+T634	Quotation 107035 107058	"Don't tug, you devil!"
+T635	Cue 107059 107066	shouted
+T636	Entity 107067 107072	Dymov
+T637	Quotation 107119 107132	"Hold it up."
+T638	Quotation 107133 107165	"You won't catch anything here,"
+T639	Entity 107166 107174	Panteley
+T640	Cue 107175 107182	shouted
+T641	Quotation 107198 107290	"You are only frightening the fish, you stupids! Go more to the left! It's shallower there!"
+T642	Quotation 107451 107457	"Ugh!"
+T643	Cue 107458 107463	cried
+T644	Entity 107464 107472	Panteley
+T645	Quotation 107499 107538	"You've let the perch slip! It's gone!"
+T646	Entity 107564 107569	Dymov
+T647	Entity 107574 107580	Kiruha
+T648	Entity 108458 108460	he
+T649	Cue 108515 108522	shouted
+T650	Quotation 108524 108567	"Look at this perch! We've five like that!"
+T651	Quotation 108868 108881	"What is it?"
+T652	Entity 108882 108886	they
+T653	Cue 108887 108894	shouted
+T654	Entity 108898 108902	them
+T655	Quotation 109107 109119	"It's full!"
+T656	Entity 109120 109122	he
+T657	Cue 109123 109130	shouted
+T658	Quotation 109148 109166	"Give us another!"
+T659	Quotation 109691 109699	"Mates,"
+T660	Cue 109700 109704	said
+T661	Entity 109705 109712	Styopka
+T662	Quotation 109727 109767	"Vassya is eating a live gudgeon! Phoo!"
+T663	Quotation 109768 109803	"It's not a gudgeon, but a minnow,"
+T664	Entity 109804 109810	Vassya
+T665	Cue 109811 109819	answered
+T666	Quotation 111340 111357	"I am here, too,"
+T667	Entity 111358 111360	he
+T668	Cue 111361 111365	said
+T669	Entity 111647 111657	Yegorushka
+T670	Entity 111659 111666	Emelyan
+T671	Cue 111706 111710	said
+T672	Quotation 111712 111735	"Don't play in church!"
+T673	Quotation 113118 113155	"Have they given out the holy bread?"
+T674	Entity 113156 113158	he
+T675	Cue 113159 113164	asked
+T676	Quotation 113166 113197	"There is none; there is none,"
+T677	Entity 113198 113208	the beadle
+T678	Cue 113209 113217	muttered
+T679	Quotation 113227 113251	"It is no use your. . ."
+T680	Quotation 114408 114456	"Give me a farthing's worth of sunflower seeds,"
+T681	Entity 114457 114467	Yegorushka
+T682	Cue 114468 114472	said
+T683	Entity 114485 114488	him
+T684	Entity 114490 114504	The shopkeeper
+T685	Entity 114712 114714	He
+T686	Cue 114785 114790	asked
+T687	Quotation 114854 114881	"How much are these cakes?"
+T688	Quotation 114882 114903	"Two for a farthing."
+T689	Entity 114904 114914	Yegorushka
+T690	Cue 114991 114996	asked
+T691	Entity 114997 115000	him
+T692	Quotation 115002 115051	"And how much do you charge for cakes like this?"
+T693	Quotation 115145 115157	"Like that?"
+T694	Entity 115158 115160	he
+T695	Cue 115161 115166	asked
+T696	Entity 115173 115175	he
+T697	Cue 115224 115232	answered
+T698	Quotation 115234 115266	"Two for three farthings. . . ."
+T699	Quotation 115287 115307	"Whose boy are you?"
+T700	Entity 115308 115319	the shopman
+T701	Cue 115320 115325	asked
+T702	Quotation 115382 115412	"The nephew of Ivan Ivanitch."
+T703	Quotation 115413 115453	"There are all sorts of Ivan Ivanitchs,"
+T704	Entity 115454 115468	the shopkeeper
+T705	Cue 115469 115475	sighed
+T706	Entity 115477 115479	He
+T707	Entity 115492 115502	Yegorushka
+T708	Cue 115548 115553	asked
+T709	Quotation 115555 115581	"Would you like some tea?"
+T710	Quotation 115582 115597	"Please. . . ."
+T711	Entity 115598 115608	Yegorushka
+T712	Cue 115609 115617	assented
+T713	Entity 116353 116367	The shopkeeper
+T714	Quotation 116456 116481	"Do you call those oats?"
+T715	Entity 116482 116494	the customer
+T716	Cue 116495 116499	said
+T717	Quotation 116510 116649	"Those are not oats, but chaff. It's a mockery to give that to the hens; enough to make the hens laugh. . . . No, I will go to Bondarenko."
+T718	Entity 117074 117081	Emelyan
+T719	Cue 117175 117182	humming
+T720	Quotation 117214 117238	"To Thee we sing. . . ."
+T721	Quotation 117463 117489	"Shall I put in some fat?"
+T722	Cue 117490 117495	asked
+T723	Entity 117496 117503	Styopka
+T724	Quotation 117529 117573	"No need. The fish will make its own gravy,"
+T725	Cue 117574 117582	answered
+T726	Entity 117583 117589	Kiruha
+T727	Quotation 117926 117967	"You there! Give the little lad a spoon!"
+T728	Entity 117968 117976	Panteley
+T729	Cue 117977 117985	observed
+T730	Quotation 117995 118025	"I dare say he is hungry too!"
+T731	Quotation 118026 118049	"Ours is peasant fare,"
+T732	Cue 118050 118056	sighed
+T733	Entity 118057 118063	Kiruha
+T734	Quotation 118065 118116	"Peasant fare is welcome, too, when one is hungry."
+T735	Quotation 118716 118753	"Grandfather, why aren't you eating?"
+T736	Entity 118754 118761	Emelyan
+T737	Cue 118762 118767	asked
+T738	Entity 118768 118771	him
+T739	Quotation 118773 118816	"I don't eat crayfish. . . . Nasty things,"
+T740	Entity 118817 118828	the old man
+T741	Cue 118829 118833	said
+T742	Entity 119517 119525	Panteley
+T743	Cue 119526 119530	told
+T744	Entity 119531 119535	them
+T745	Quotation 119541 119959	in the past, before there were railways, he used to go with trains of waggons to Moscow and to Nizhni, and used to earn so much that he did not know what to do with his money; and what merchants there used to be in those days! what fish! how cheap everything was! Now the roads were shorter, the merchants were stingier, the peasants were poorer, the bread was dearer, everything had shrunk and was on a smaller scale.
+T746	Entity 119960 119967	Emelyan
+T747	Cue 119968 119972	told
+T748	Entity 119973 119977	them
+T749	Quotation 119983 120240	in old days he had been in the choir in the Lugansky works, and that he had a remarkable voice and read music splendidly, while now he had become a peasant and lived on the charity of his brother, who sent him out with his horses and took half his earnings.
+T750	Entity 120972 120982	Yegorushka
+T751	Quotation 120984 121017	"You heathen, take off your cap,"
+T752	Entity 121018 121020	he
+T753	Cue 121021 121025	said
+T754	Quotation 121034 121092	"You can't eat with your cap on, and you a gentleman too!"
+T755	Quotation 121490 121532	"Are we going to start soon, grandfather?"
+T756	Entity 121533 121543	Yegorushka
+T757	Cue 121544 121549	asked
+T758	Entity 121550 121558	Panteley
+T759	Quotation 121560 121709	"In God's good time we shall set off. There's no starting yet; it is too hot. . . . O Lord, Thy will be done. Holy Mother. . . Lie down, little lad."
+T760	Quotation 124387 124428	"All right. . . . Nice gentlefolk, . . ."
+T761	Entity 124429 124431	he
+T762	Cue 124432 124440	muttered
+T763	Quotation 124442 125287	"Took his little lad to school-- but how he is doing now I haven't heard say --in Slavyanoserbsk. I say there is no establishment for teaching them to be very clever. . . . No, that's true -- a nice little lad, no harm in him. . . . He'll grow up and be a help to his father. . . . You, Yegory, are little now, but you'll grow big and will keep your father and mother. . . . So it is ordained of God, 'Honour your father and your mother.' . . . I had children myself, but they were burnt. . . . My wife was burnt and my children, . . . that's true. . . . The hut caught fire on the night of Epiphany. . . . I was not at home, I was driving in Oryol. In Oryol. . . . Marya dashed out into the street, but remembering that the children were asleep in the hut, ran back and was burnt with her children. . . . Next day they found nothing but bones."
+T764	Quotation 127752 127790	"Grandfather, what is that cross for?"
+T765	Cue 127791 127796	asked
+T766	Entity 127797 127807	Yegorushka
+T767	Entity 127809 127817	Panteley
+T768	Entity 127850 127855	Dymov
+T769	Cue 127860 127865	asked
+T770	Quotation 127867 127936	"Nikola, isn't this the place where the mowers killed the merchants?"
+T771	Entity 127937 127942	Dymov
+T772	Cue 128012 128016	said
+T773	Quotation 128018 128037	"Yes, it is. . . ."
+T774	Quotation 128306 128330	"Yes, they were killed,"
+T775	Entity 128331 128336	Dymov
+T776	Cue 128337 128341	said
+T777	Quotation 128355 128833	"Two merchants, father and son, were travelling, selling holy images. They put up in the inn not far from here that is now kept by Ignat Fomin. The old man had a drop too much, and began boasting that he had a lot of money with him. We all know merchants are a boastful set, God preserve us. . . . They can't resist showing off before the likes of us. And at the time some mowers were staying the night at the inn. So they overheard what the merchants said and took note of it."
+T778	Quotation 128834 128862	"O Lord! . . . Holy Mother!"
+T779	Cue 128863 128869	sighed
+T780	Entity 128870 128878	Panteley
+T781	Quotation 128880 128916	"Next day, as soon as it was light,"
+T782	Entity 128917 128922	Dymov
+T783	Cue 128923 128930	went on
+T784	Quotation 128932 129259	"the merchants were preparing to set off and the mowers tried to join them. 'Let us go together, your worships. It will be more cheerful and there will be less danger, for this is an out-of-the-way place. . . .' The merchants had to travel at a walking pace to avoid breaking the images, and that just suited the mowers. . . ."
+T785	Entity 128933 128946	the merchants
+T786	Entity 128977 128987	the mowers
+T787	Quotation 129008 129143	'Let us go together, your worships. It will be more cheerful and there will be less danger, for this is an out-of-the-way place. . . .'
+T788	Quotation 129311 129317	"Yes,"
+T789	Entity 129318 129320	he
+T790	Cue 129321 129328	went on
+T791	Quotation 129339 129969	"Everything went all right till they reached this spot, and then the mowers let fly at them with their scythes. The son, he was a fine young fellow, snatched the scythe from one of them, and he used it, too. . . . Well, of course, they got the best of it because there were eight of them. They hacked at the merchants so that there was not a sound place left on their bodies; when they had finished they dragged both of them off the road, the father to one side and the son to the other. Opposite that cross there is another cross on this side. . . . Whether it is still standing, I don't know. . . . I can't see from here. . . ."
+T792	Quotation 129970 129978	"It is,"
+T793	Cue 129979 129983	said
+T794	Entity 129984 129990	Kiruha
+T795	Quotation 129992 130043	"They say they did not find much money afterwards."
+T796	Quotation 130044 130049	"No,"
+T797	Entity 130050 130058	Panteley
+T798	Cue 130059 130068	confirmed
+T799	Quotation 130070 130106	"they only found a hundred roubles."
+T800	Quotation 130107 130530	"And three of them died afterwards, for the merchant had cut them badly with the scythe, too. They died from loss of blood. One had his hand cut off, so that they say he ran three miles without his hand, and they found him on a mound close to Kurikovo. He was squatting on his heels, with his head on his knees, as though he were lost in thought, but when they looked at him there was no life in him and he was dead. . . ."
+T801	Quotation 130531 130570	"They found him by the track of blood,"
+T802	Cue 130571 130575	said
+T803	Entity 130576 130584	Panteley
+T804	Entity 130586 130594	Everyone
+T805	Cue 130709 130712	cry
+T806	Entity 130716 130724	the bird
+T807	Quotation 130726 130748	"Sleep! sleep! sleep!"
+T808	Quotation 130749 130801	"There are a great many wicked people in the world,"
+T809	Cue 130802 130806	said
+T810	Entity 130807 130814	Emelyan
+T811	Quotation 130816 130831	"A great many,"
+T812	Cue 130832 130840	assented
+T813	Entity 130841 130849	Panteley
+T814	Quotation 130916 130931	"A great many,"
+T815	Entity 130932 130934	he
+T816	Cue 130935 130942	went on
+T817	Quotation 130959 132457	"I've seen lots and lots of them. . . . Wicked people! . . . I have seen a great many holy and just, too. . . . Queen of Heaven, save us and have mercy on us. I remember once thirty years ago, or maybe more, I was driving a merchant from Morshansk. The merchant was a jolly handsome fellow, with money, too . . . the merchant was . . . a nice man, no harm in him. . . . So we put up for the night at an inn. And in Russia the inns are not what they are in these parts. There the yards are roofed in and look like the ground floor, or let us say like barns in good farms. Only a barn would be a bit higher. So we put up there and were all right. My merchant was in a room, while I was with the horses, and everything was as it should be. So, lads, I said my prayers before going to sleep and began walking about the yard. And it was a dark night, I couldn't see anything; it was no good trying. So I walked about a bit up to the waggons, or nearly, when I saw a light gleaming. What could it mean? I thought the people of the inn had gone to bed long ago, and besides the merchant and me there were no other guests in the inn. . . . Where could the light have come from? I felt suspicious. . . . I went closer . . . towards the light. . . . The Lord have mercy upon me! and save me, Queen of Heaven! I looked and there was a little window with a grating, . . . close to the ground, in the house. . . I lay down on the ground and looked in; as soon as I looked in a cold chill ran all down me. . . ."
+T818	Entity 132592 132603	the old man
+T819	Cue 132604 132611	went on
+T820	Quotation 132613 135051	"I looked in and there was a big cellar, black and dark. . . . There was a lighted lantern on a tub. In the middle of the cellar were about a dozen men in red shirts with their sleeves turned up, sharpening long knives. . . . Ugh! So we had fallen into a nest of robbers. . . . What's to be done? I ran to the merchant, waked him up quietly, and said: 'Don't be frightened, merchant,' said I, 'but we are in a bad way. We have fallen into a nest of robbers,' I said. He turned pale and asked: 'What are we to do now, Panteley? I have a lot of money that belongs to orphans. As for my life,' he said, 'that's in God's hands. I am not afraid to die, but it's dreadful to lose the orphans' money,' said he. . . . What were we to do? The gates were locked; there was no getting out. If there had been a fence one could have climbed over it, but with the yard shut up! . . . 'Come, don't be frightened, merchant,' said I; 'but pray to God. Maybe the Lord will not let the orphans suffer. Stay still.' said I, 'and make no sign, and meanwhile, maybe, I shall think of something. . . .' Right! . . . I prayed to God and the Lord put the thought into my mind. . . . I clambered up on my chaise and softly, . . . softly so that no one should hear, began pulling out the straw in the thatch, made a hole and crept out, crept out. . . . Then I jumped off the roof and ran along the road as fast as I could. I ran and ran till I was nearly dead. . . . I ran maybe four miles without taking breath, if not more. Thank God I saw a village. I ran up to a hut and began tapping at a window. 'Good Christian people,' I said, and told them all about it, 'do not let a Christian soul perish. . . .' I waked them all up. . . . The peasants gathered together and went with me, . . one with a cord, one with an oakstick, others with pitchforks. . . . We broke in the gates of the inn-yard and went straight to the cellar. . . . And the robbers had just finished sharpening their knives and were going to kill the merchant. The peasants took them, every one of them, bound them and carried them to the police. The merchant gave them three hundred roubles in his joy, and gave me five gold pieces and put my name down. They said that they found human bones in the cellar afterwards, heaps and heaps of them. . . . Bones! . . . So they robbed people and then buried them, so that there should be no traces. . . . Well, afterwards they were punished at Morshansk."
+T821	Entity 132910 132911	I
+T822	Entity 132919 132931	the merchant
+T823	Cue 132959 132963	said
+T824	Quotation 132965 132997	'Don't be frightened, merchant,'
+T825	Quotation 133006 133071	'but we are in a bad way. We have fallen into a nest of robbers,'
+T828	Entity 133080 133082	He
+T829	Cue 133099 133104	asked
+T830	Quotation 133106 133203	'What are we to do now, Panteley? I have a lot of money that belongs to orphans. As for my life,'
+T833	Quotation 133213 133307	'that's in God's hands. I am not afraid to die, but it's dreadful to lose the orphans' money,'
+T836	Quotation 133483 133521	'Come, don't be frightened, merchant,'
+T837	Cue 133522 133526	said
+T838	Entity 133527 133528	I
+T839	Quotation 133530 133608	'but pray to God. Maybe the Lord will not let the orphans suffer. Stay still.'
+T842	Quotation 133617 133692	'and make no sign, and meanwhile, maybe, I shall think of something. . . .'
+T843	Quotation 134188 134212	'Good Christian people,'
+T844	Entity 134213 134214	I
+T845	Cue 134215 134219	said
+T847	Entity 134230 134234	them
+T848	Quotation 134249 134292	'do not let a Christian soul perish. . . .'
+T849	Entity 135108 135121	his listeners
+T850	Quotation 135228 135247	"Is the fat ready?"
+T851	Entity 135248 135254	Kiruha
+T852	Cue 135255 135260	asked
+T853	Entity 135261 135264	him
+T854	Quotation 135279 135311	"Wait a little. . . . Directly."
+T855	Quotation 135532 135584	"I went another journey with a merchant, too, . . ."
+T856	Entity 135585 135593	Panteley
+T857	Cue 135594 135601	went on
+T858	Quotation 135675 139608	"His name, as I remember now, was Pyotr Grigoritch. He was a nice man, . . . the merchant was. We stopped in the same way at an inn. . . . He indoors and me with the horses. . . . The people of the house, the innkeeper and his wife, seemed friendly good sort of people; the labourers, too, seemed all right; but yet, lads, I couldn't sleep. I had a queer feeling in my heart, . . . a queer feeling, that was just it. The gates were open and there were plenty of people about, and yet I felt afraid and not myself. Everyone had been asleep long ago. It was the middle of the night; it would soon be time to get up, and I was lying alone in my chaise and could not close my eyes, as though I were some owl. And then, lads, I heard this sound, 'Toop! toop! toop!' Someone was creeping up to the chaise. I poke my head out, and there was a peasant woman in nothing but her shift and with her feet bare. . . . 'What do you want, good woman?' I asked. And she was all of a tremble; her face was terror-stricken. . . 'Get up, good man,' said she; 'the people are plotting evil. . . . They mean to kill your merchant. With my own ears I heard the master whispering with his wife. . . .' So it was not for nothing, the foreboding of my heart! 'And who are you?' I asked. 'I am their cook,' she said. . . . Right! . . . So I got out of the chaise and went to the merchant. I waked him up and said: 'Things aren't quite right, Pyotr Grigoritch. . . . Make haste and rouse yourself from sleep, your worship, and dress now while there is still time,' I said; 'and to save our skins, let us get away from trouble.' He had no sooner begun dressing when the door opened and, mercy on us! I saw, Holy Mother! the innkeeper and his wife come into the room with three labourers. . . . So they had persuaded the labourers to join them. 'The merchant has a lot of money, and we'll go shares,' they told them. Every one of the five had a long knife in their hand each a knife. The innkeeper locked the door and said: 'Say your prayers, travellers, . . . and if you begin screaming,' they said, 'we won't let you say your prayers before you die. . . .' As though we could scream! I had such a lump in my throat I could not cry out. . . . The merchant wept and said: 'Good Christian people! you have resolved to kill me because my money tempts you. Well, so be it; I shall not be the first nor shall I be the last. Many of us merchants have been murdered at inns. But why, good Christian brothers,' says he, 'murder my driver? Why should he have to suffer for my money?' And he said that so pitifully! And the innkeeper answered him: 'If we leave him alive,' said he, 'he will be the first to bear witness against us. One may just as well kill two as one. You can but answer once for seven misdeeds. . . Say your prayers, that's all you can do, and it is no good talking!' The merchant and I knelt down side by side and wept and said our prayers. He thought of his children. I was young in those days; I wanted to live. . . . We looked at the images and prayed, and so pitifully that it brings a tear even now. . . . And the innkeeper's wife looks at us and says: 'Good people,' said she, 'don't bear a grudge against us in the other world and pray to God for our punishment, for it is want that drives us to it.' We prayed and wept and prayed and wept, and God heard us. He had pity on us, I suppose. . . . At the very minute when the innkeeper had taken the merchant by the beard to rip open his throat with his knife suddenly someone seemed to tap at the window from the yard! We all started, and the innkeeper's hands dropped. . . . Someone was tapping at the window and shouting: 'Pyotr Grigoritch,' he shouted, 'are you here? Get ready and let's go!' The people saw that someone had come for the merchant; they were terrified and took to their heels. . . . And we made haste into the yard, harnessed the horses, and were out of sight in a minute. . ."
+T859	Quotation 136580 136611	'What do you want, good woman?'
+T860	Entity 136612 136613	I
+T861	Cue 136614 136619	asked
+T862	Entity 136625 136628	she
+T863	Quotation 136685 136704	'Get up, good man,'
+T864	Cue 136705 136709	said
+T865	Entity 136710 136713	she
+T866	Quotation 136716 136853	the people are plotting evil. . . . They mean to kill your merchant. With my own ears I heard the master whispering with his wife. . . .'
+T867	Quotation 136909 136927	'And who are you?'
+T868	Entity 136928 136929	I
+T869	Cue 136930 136935	asked
+T870	Quotation 136937 136955	'I am their cook,'
+T871	Entity 136956 136959	she
+T872	Cue 136960 136964	said
+T873	Entity 137038 137039	I
+T874	Entity 137046 137049	him
+T875	Cue 137057 137061	said
+T876	Quotation 137063 137212	'Things aren't quite right, Pyotr Grigoritch. . . . Make haste and rouse yourself from sleep, your worship, and dress now while there is still time,'
+T877	Quotation 137221 137275	'and to save our skins, let us get away from trouble.'
+T878	Quotation 137491 137546	'The merchant has a lot of money, and we'll go shares,'
+T879	Entity 137547 137551	they
+T880	Cue 137552 137556	told
+T881	Entity 137557 137561	them
+T882	Entity 137630 137643	The innkeeper
+T883	Cue 137664 137668	said
+T884	Quotation 137670 137735	'Say your prayers, travellers, . . . and if you begin screaming,'
+T885	Quotation 137747 137804	'we won't let you say your prayers before you die. . . .'
+T886	Entity 137815 137817	we
+T887	Entity 137890 137902	The merchant
+T888	Cue 137912 137916	said
+T889	Quotation 137918 138149	'Good Christian people! you have resolved to kill me because my money tempts you. Well, so be it; I shall not be the first nor shall I be the last. Many of us merchants have been murdered at inns. But why, good Christian brothers,'
+T890	Quotation 138159 138221	'murder my driver? Why should he have to suffer for my money?'
+T891	Entity 138257 138270	the innkeeper
+T892	Cue 138271 138279	answered
+T893	Entity 138280 138283	him
+T894	Quotation 138285 138309	'If we leave him alive,'
+T895	Quotation 138319 138523	'he will be the first to bear witness against us. One may just as well kill two as one. You can but answer once for seven misdeeds. . . Say your prayers, that's all you can do, and it is no good talking!'
+T896	Entity 138772 138792	the innkeeper's wife
+T897	Entity 138802 138804	us
+T898	Cue 138809 138813	says
+T899	Quotation 138815 138829	'Good people,'
+T900	Quotation 138840 138964	'don't bear a grudge against us in the other world and pray to God for our punishment, for it is want that drives us to it.'
+T901	Entity 139107 139119	the merchant
+T902	Quotation 139336 139355	'Pyotr Grigoritch,'
+T903	Entity 139356 139358	he
+T904	Cue 139359 139366	shouted
+T905	Quotation 139368 139407	'are you here? Get ready and let's go!'
+T906	Quotation 139609 139644	"Who was it knocked at the window?"
+T907	Cue 139645 139650	asked
+T908	Entity 139651 139656	Dymov
+T909	Quotation 139658 139844	"At the window? It must have been a holy saint or angel, for there was no one else. . . . When we drove out of the yard there wasn't a soul in the street. . . . It was the Lord's doing."
+T910	Entity 139845 139853	Panteley
+T911	Cue 139854 139858	told
+T912	Quotation 139859 139914	other stories, and in all of them "long knives" figured
+T913	Entity 141723 141733	Yegorushka
+T914	Cue 141788 141793	asked
+T915	Entity 141794 141801	Styopka
+T916	Quotation 141810 141843	"Why does Grandfather sit apart?"
+T917	Quotation 141844 141868	"He is an Old Believer,"
+T918	Entity 141869 141887	Styopka and Vassya
+T919	Cue 141888 141896	answered
+T920	Quotation 142242 142255	"What is it?"
+T921	Entity 142256 142261	Dymov
+T922	Cue 142262 142267	asked
+T923	Entity 142268 142271	him
+T924	Quotation 142273 142293	"Someone is coming,"
+T925	Cue 142294 142302	answered
+T926	Entity 142303 142309	Vassya
+T927	Quotation 142311 142334	"Where do you see him?"
+T928	Quotation 142335 142376	"Yo-on-der! There's something white. . ."
+T929	Entity 142445 142451	Vassya
+T930	Quotation 142523 142554	"Is he coming by the highroad?"
+T931	Cue 142555 142560	asked
+T932	Entity 142561 142566	Dymov
+T933	Quotation 142568 142625	"No, over the open country. . . . He is coming this way."
+T934	Quotation 142654 142728	"And maybe it's the merchant who was buried here walking over the steppe,"
+T935	Cue 142729 142733	said
+T936	Entity 142734 142739	Dymov
+T937	Entity 142741 142744	All
+T938	Quotation 142860 142881	"Why should he walk?"
+T939	Cue 142882 142887	asked
+T940	Entity 142888 142896	Panteley
+T941	Quotation 142898 143060	"It's only those walk at night whom the earth will not take to herself. And the merchants were all right. . . . The merchants have received the crown of martyrs."
+T942	Entity 143077 143081	they
+T943	Quotation 143137 143163	"He's carrying something,"
+T944	Cue 143164 143168	said
+T945	Entity 143169 143175	Vassya
+T946	Entity 144745 144747	he
+T947	Cue 144810 144814	said
+T948	Quotation 144816 144842	"Bread and salt, friends!"
+T949	Quotation 144843 144866	"You are very welcome!"
+T950	Entity 144867 144875	Panteley
+T951	Cue 144876 144884	answered
+T952	Entity 144889 144897	them all
+T953	Entity 144899 144911	The stranger
+T954	Quotation 145076 145121	"A fine big bird; what did you kill it with?"
+T955	Cue 145122 145127	asked
+T956	Entity 145128 145133	Dymov
+T957	Quotation 145135 145277	"Grape-shot. You can't get him with small shot, he won't let you get near enough. Buy it, friends! I will let you have it for twenty kopecks."
+T958	Quotation 145278 145404	"What use would it be to us? It's good roast, but I bet it would be tough boiled; you could not get your teeth into it. . . ."
+T959	Quotation 145405 145549	"Oh, what a pity! I would take it to the gentry at the farm; they would give me half a rouble for it. But it's a long way to go-- twelve miles!"
+T960	Quotation 145793 145807	"Who are you?"
+T961	Entity 145808 145813	Dymov
+T962	Cue 145814 145819	asked
+T963	Entity 145820 145823	him
+T964	Entity 146134 146136	he
+T965	Quotation 146187 146211	"I ask you who you are?"
+T966	Cue 146212 146220	repeated
+T967	Entity 146221 146226	Dymov
+T968	Quotation 146228 146232	"I?"
+T969	Cue 146233 146237	said
+T970	Entity 146238 146249	the unknown
+T971	Quotation 146261 146320	"Konstantin Zvonik from Rovno. It's three miles from here."
+T972	Entity 146419 146429	Konstantin
+T973	Cue 146430 146445	hastened to add
+T974	Quotation 146447 146478	"We keep bees and fatten pigs."
+T975	Quotation 146479 146536	"Do you live with your father or in a house of your own?"
+T976	Quotation 146537 146718	"No; now I am living in a house of my own. I have parted. This month, just after St. Peter's Day, I got married. I am a married man now! . . . It's eighteen days since the wedding."
+T977	Quotation 146719 146741	"That's a good thing,"
+T978	Cue 146742 146746	said
+T979	Entity 146747 146755	Panteley
+T980	Quotation 146757 146816	"Marriage is a good thing . . . . God's blessing is on it."
+T981	Quotation 146817 146881	"His young wife sits at home while he rambles about the steppe,"
+T982	Cue 146882 146889	laughed
+T983	Entity 146890 146896	Kiruha
+T984	Quotation 146898 146911	"Queer chap!"
+T985	Quotation 147014 147046	"But, Lord, she is not at home!"
+T986	Entity 147047 147049	he
+T987	Cue 147050 147054	said
+T988	Quotation 147170 147307	"She is not; she has gone to her mother's for three days! Yes, indeed, she has gone away, and I feel as though I were not married. . . ."
+T989	Quotation 147666 147711	"She has gone to Demidovo to see her mother,"
+T990	Entity 147712 147714	he
+T991	Cue 147715 147719	said
+T992	Quotation 147750 147821	"She'll be back to-morrow. . . . She said she would be back to dinner."
+T993	Quotation 147822 147844	"And do you miss her?"
+T994	Cue 147845 147849	said
+T995	Entity 147850 147855	Dymov
+T996	Quotation 147857 148285	"Oh, Lord, yes; I should think so. We have only been married such a little while, and she has gone away. . . . Eh! Oh, but she is a tricky one, God strike me dead! She is such a fine, splendid girl, such a one for laughing and singing, full of life and fire! When she is there your brain is in a whirl, and now she is away I wander about the steppe like a fool, as though I had lost something. I have been walking since dinner."
+T997	Entity 148286 148296	Konstantin
+T998	Quotation 148346 148373	"You love her, then, . . ."
+T999	Cue 148374 148378	said
+T1000	Entity 148379 148387	Panteley
+T1001	Quotation 148389 148419	"She is so fine and splendid,"
+T1002	Entity 148420 148430	Konstantin
+T1003	Cue 148431 148439	repeated
+T1004	Entity 148453 148456	him
+T1005	Quotation 148458 148743	"such a housewife, clever and sensible. You wouldn't find another like her among simple folk in the whole province. She has gone away. . . . But she is missing me, I kno-ow! I know the little magpie. She said she would be back to-morrow by dinner-time. . . . And just think how queer!"
+T1006	Entity 148744 148754	Konstantin
+T1007	Cue 148755 148793	almost shouted, speaking a note higher
+T1008	Quotation 148821 148894	"Now she loves me and is sad without me, and yet she would not marry me."
+T1009	Quotation 148895 148905	"But eat,"
+T1010	Cue 148906 148910	said
+T1011	Entity 148911 148917	Kiruha
+T1012	Quotation 148919 148944	"She would not marry me,"
+T1013	Entity 148945 148955	Konstantin
+T1014	Cue 148956 148963	went on
+T1015	Entity 148977 148980	him
+T1016	Quotation 148982 150625	"I have been struggling with her for three years! I saw her at the Kalatchik fair; I fell madly in love with her, was ready to hang myself. . . . I live at Rovno, she at Demidovo, more than twenty miles apart, and there was nothing I could do. I sent match-makers to her, and all she said was: 'I won't!' Ah, the magpie! I sent her one thing and another, earrings and cakes, and twenty pounds of honey-- but still she said: 'I won't!' And there it was. If you come to think of it, I was not a match for her! She was young and lovely, full of fire, while I am old: I shall soon be thirty, and a regular beauty, too; a fine beard like a goat's, a clear complexion all covered with pimples-- how could I be compared with her! The only thing to be said is that we are well off, but then the Vahramenkys are well off, too. They've six oxen, and they keep a couple of labourers. I was in love, friends, as though I were plague-stricken. I couldn't sleep or eat; my brain was full of thoughts, and in such a maze, Lord preserve us! I longed to see her, and she was in Demidovo. What do you think? God be my witness, I am not lying, three times a week I walked over there on foot just to have a look at her. I gave up my work! I was so frantic that I even wanted to get taken on as a labourer in Demidovo, so as to be near her. I was in misery! My mother called in a witch a dozen times; my father tried thrashing me. For three years I was in this torment, and then I made up my mind. 'Damn my soul!' I said. 'I will go to the town and be a cabman. . . . It seems it is fated not to be.' At Easter I went to Demidovo to have a last look at her. . . ."
+T1017	Entity 149233 149245	match-makers
+T1018	Entity 149262 149265	she
+T1019	Cue 149266 149270	said
+T1020	Quotation 149276 149286	'I won't!'
+T1021	Entity 149303 149304	I
+T1022	Entity 149396 149399	she
+T1023	Cue 149400 149404	said
+T1024	Quotation 149406 149416	'I won't!'
+T1025	Quotation 150459 150474	'Damn my soul!'
+T1026	Entity 150475 150476	I
+T1027	Cue 150477 150481	said
+T1028	Quotation 150483 150561	'I will go to the town and be a cabman. . . . It seems it is fated not to be.'
+T1029	Quotation 150756 150795	"I saw her by the river with the lads,"
+T1030	Entity 150796 150798	he
+T1031	Cue 150799 150806	went on
+T1032	Quotation 150808 151041	"I was overcome with anger. . . . I called her aside and maybe for a full hour I said all manner of things to her. She fell in love with me! For three years she did not like me! she fell in love with me for what I said to her. . . ."
+T1033	Quotation 151042 151068	"What did you say to her?"
+T1034	Cue 151069 151074	asked
+T1035	Entity 151075 151080	Dymov
+T1036	Quotation 151082 151450	"What did I say? I don't remember. . . How could one remember? My words flowed at the time like water from a tap, without stopping to take breath. Ta-ta-ta! And now I can't utter a word. . . . Well, so she married me. . . . She's gone now to her mother's, the magpie, and while she is away here I wander over the steppe. I can't stay at home. It's more than I can do!"
+T1037	Quotation 153032 153039	"Lads,"
+T1038	Entity 153040 153042	he
+T1039	Cue 153043 153047	said
+T1040	Quotation 153071 153101	"let's sing something sacred!"
+T1041	Quotation 153128 153135	"Lads,"
+T1042	Entity 153136 153138	he
+T1043	Cue 153139 153147	repeated
+T1044	Quotation 153182 153212	"let's sing something sacred!"
+T1045	Quotation 153213 153237	"I don't know anything,"
+T1046	Cue 153238 153242	said
+T1047	Entity 153243 153253	Konstantin
+T1048	Entity 153255 153263	Everyone
+T1049	Quotation 153264 153271	refused
+T1050	Entity 153278 153285	Emelyan
+T1051	Quotation 155001 155051	"Our Mother Russia is the he-ad of all the world!"
+T1052	Entity 155052 155058	Kiruha
+T1053	Cue 155059 155067	sang out
+T1054	Quotation 155255 155273	"It's time to go,"
+T1055	Cue 155274 155278	said
+T1056	Entity 155279 155287	Panteley
+T1057	Quotation 155289 155304	"Get up, lads."
+T1058	Entity 155311 155315	they
+T1059	Entity 155344 155354	Konstantin
+T1060	Cue 155381 155387	talked
+T1061	Quotation 155400 155411	of his wife
+T1062	Quotation 155413 155431	"Good-bye, mates!"
+T1063	Entity 155432 155434	he
+T1064	Cue 155435 155440	cried
+T1065	Quotation 155467 155568	"Thank you for your hospitality. I shall go on again towards that light. It's more than I can stand."
+T1066	Quotation 156167 156203	"What village is that, Grandfather?"
+T1067	Cue 156204 156209	asked
+T1068	Entity 156210 156220	Yegorushka
+T1069	Quotation 156222 156266	"That's the Armenian Settlement, youngster,"
+T1070	Cue 156267 156275	answered
+T1071	Entity 156276 156284	Panteley
+T1072	Quotation 156286 156371	"The Armenians live there. They are a good sort of people, . . . the Arnienians are."
+T1073	Quotation 156505 156535	"What a business, only think!"
+T1074	Cue 156536 156542	sighed
+T1075	Entity 156543 156551	Panteley
+T1076	Quotation 156631 156742	"He has sent a man to the settlement for some papers, and he doesn't come . . . . He should have sent Styopka."
+T1077	Quotation 156743 156770	"Who is that, Grandfather?"
+T1078	Cue 156771 156776	asked
+T1079	Entity 156777 156787	Yegorushka
+T1080	Quotation 156789 156800	"Varlamov."
+T1081	Entity 156814 156824	Yegorushka
+T1082	Quotation 157220 157250	"He is all right, a good man,"
+T1083	Cue 157251 157255	said
+T1084	Entity 157256 157264	Panteley
+T1085	Quotation 157298 157696	"God give him health -- a splendid gentleman, Semyon Alexandritch. . . . It's people like that the earth rests upon. That's true. . . . The cocks are not crowing yet, and he is already up and about. . . . Another man would be asleep, or gallivanting with visitors at home, but he is on the steppe all day, . . . on his rounds. . . . He does not let things slip. . . . No-o! He's a fine fellow. . ."
+T1086	Quotation 157830 157852	"Semyon Alexandritch!"
+T1087	Cue 157853 157858	cried
+T1088	Entity 157859 157867	Panteley
+T1089	Quotation 157889 157963	"Allow us to send Styopka! Emelyan, call out that Styopka should be sent."
+T1090	Quotation 158255 158293	"That must be one of his circuit men,"
+T1091	Cue 158294 158298	said
+T1092	Entity 158299 158307	Panteley
+T1093	Quotation 158309 158362	"He must have a hundred such horsemen or maybe more."
+T1094	Entity 158469 158477	Varlamov
+T1095	Cue 158529 158534	cried
+T1096	Quotation 158536 158570	"And where is Ivantchuk's letter?"
+T1097	Entity 158571 158583	The horseman
+T1098	Quotation 158868 158879	"Go along!"
+T1099	Entity 158880 158882	he
+T1100	Cue 158883 158888	cried
+T1101	Entity 158923 158930	the man
+T1102	Entity 160249 160257	Panteley
+T1103	Entity 160267 160275	Varlamov
+T1104	Cue 160353 160365	said lisping
+T1105	Quotation 160367 160390	"How are you, old man?"
+T1106	Entity 160391 160399	Varlamov
+T1107	Quotation 160789 160817	"He is a harsh old man, . ."
+T1108	Cue 160818 160826	muttered
+T1109	Entity 160827 160835	Panteley
+T1110	Quotation 160837 160967	"It's a pity he is so harsh! But he is all right, a good man. . . . He doesn't abuse men for nothing. . . . It's no matter. . . ."
+T1111	Entity 162064 162070	Vassya
+T1112	Cue 162071 162081	complained
+T1113	Quotation 162082 162128	that his jaw ached, and prophesied bad weather
+T1114	Quotation 162443 162513	"Here he lolls, the lumpy face, and is the first to put his spoon in,"
+T1115	Entity 162514 162516	he
+T1116	Cue 162517 162521	said
+T1117	Entity 162545 162552	Emelyan
+T1118	Quotation 162554 162729	"Greedy! always contrives to sit next the cauldron. He's been a church-singer, so he thinks he is a gentleman! There are a lot of singers like you begging along the highroad!"
+T1119	Quotation 162730 162762	"What are you pestering me for?"
+T1120	Cue 162763 162768	asked
+T1121	Entity 162769 162776	Emelyan
+T1122	Entity 162789 162792	him
+T1123	Quotation 162802 162896	"To teach you not to be the first to dip into the cauldron. Don't think too much of yourself!"
+T1124	Quotation 162897 162940	"You are a fool, and that is all about it!"
+T1125	Cue 162941 162952	wheezed out
+T1126	Entity 162953 162960	Emelyan
+T1127	Entity 163022 163041	Panteley and Vassya
+T1128	Cue 163057 163074	tried to persuade
+T1129	Entity 163075 163080	Dymov
+T1130	Quotation 163081 163109	not to quarrel about nothing
+T1131	Quotation 163111 163129	"A church-singer!"
+T1132	Entity 163130 163139	The bully
+T1133	Quotation 163186 163311	"Anyone can sing like that-- sit in the church porch and sing 'Give me alms, for Christ's sake!' Ugh! you are a nice fellow!"
+T1134	Entity 163382 163384	He
+T1135	Entity 163421 163434	the ex-singer
+T1136	Cue 163439 163443	said
+T1137	Quotation 163445 163539	"I don't care to have anything to do with you, or I would show you what to think of yourself."
+T1138	Quotation 163540 163582	"But why are you pushing me, you Mazeppa?"
+T1139	Entity 163583 163590	Emelyan
+T1140	Cue 163591 163596	cried
+T1141	Quotation 163610 163638	"Am I interfering with you?"
+T1142	Quotation 163639 163662	"What did you call me?"
+T1143	Cue 163663 163668	asked
+T1144	Entity 163669 163674	Dymov
+T1145	Quotation 163735 163798	"Eh! I am a Mazeppa? Yes? Take that, then; go and look for it."
+T1146	Entity 164411 164413	he
+T1147	Entity 164434 164439	Dymov
+T1148	Cue 164444 164455	brought out
+T1149	Quotation 164477 164526	"You are the worst of the lot; I can't bear you!"
+T1150	Entity 164579 164581	he
+T1151	Cue 164615 164622	went on
+T1152	Quotation 164624 164729	"In the next world you will burn in hell! I'll complain to Ivan Ivanitch. Don't you dare insult Emelyan!"
+T1153	Quotation 164730 164753	"Say this too, please,"
+T1154	Cue 164754 164761	laughed
+T1155	Entity 164762 164768	Dyrnov
+T1156	Quotation 164770 164848	"'every little sucking-pig wants to lay down the law.' Shall I pull your ear?"
+T1157	Entity 164849 164859	Yegorushka
+T1158	Entity 164947 164949	he
+T1159	Cue 165005 165011	crying
+T1160	Quotation 165021 165042	"Beat him, beat him!"
+T1161	Entity 165231 165233	he
+T1162	Cue 165234 165243	whispered
+T1163	Quotation 165245 165262	"Mother, mother!"
+T1164	Entity 166110 166112	he
+T1165	Cue 166113 166122	whispered
+T1166	Quotation 166124 166141	"Mother, mother!"
+T1167	Entity 166692 166697	Dymov
+T1168	Entity 166709 166717	Panteley
+T1169	Cue 166722 166727	asked
+T1170	Quotation 166736 166754	"What's his name?"
+T1171	Quotation 166755 166764	"Yegory,"
+T1172	Cue 166765 166773	answered
+T1173	Entity 166774 166782	Panteley
+T1174	Entity 166895 166905	Yegorushka
+T1175	Quotation 167029 167036	"Yera!"
+T1176	Entity 167037 167039	he
+T1177	Cue 167040 167044	said
+T1178	Quotation 167053 167068	"here, hit me!"
+T1179	Quotation 167155 167180	"It's all right, hit me,"
+T1180	Cue 167181 167189	repeated
+T1181	Entity 167190 167195	Dymov
+T1182	Entity 167221 167231	Yegorushka
+T1183	Entity 167263 167265	he
+T1184	Cue 167282 167286	said
+T1185	Quotation 167288 167306	"How dreary I am!"
+T1186	Quotation 167481 167540	"How dreary I am! O Lord! Don't you take offence, Emelyan,"
+T1187	Entity 167541 167543	he
+T1188	Cue 167544 167548	said
+T1189	Entity 167562 167569	Emelyan
+T1190	Quotation 167571 167603	"Ours is a wretched cruel life!"
+T1191	Quotation 167734 167754	"Yegory, take this,"
+T1192	Cue 167755 167760	cried
+T1193	Entity 167761 167769	Panteley
+T1194	Quotation 167807 167820	"What is it?"
+T1195	Cue 167821 167826	asked
+T1196	Entity 167827 167837	Yegorushka
+T1197	Quotation 167839 167889	"A mat. There will be rain, so cover yourself up."
+T1198	Quotation 168110 168147	"Will there be a storm, Grandfather?"
+T1199	Cue 168148 168153	asked
+T1200	Entity 168154 168164	Yegorushka
+T1201	Quotation 168166 168200	"Ah, my poor feet, how they ache!"
+T1202	Entity 168201 168209	Panteley
+T1203	Cue 168210 168214	said
+T1204	Quotation 168527 168541	"It's set in!"
+T1205	Cue 168542 168547	cried
+T1206	Entity 168548 168554	Kiruha
+T1207	Quotation 169133 169147	"I am dreary!"
+T1208	Entity 169148 169153	Dymov
+T1209	Cue 169156 169161	shout
+T1210	Quotation 169280 169297	"I am so dreary!"
+T1211	Quotation 170400 170414	"Panteley-ey!"
+T1212	Entity 170415 170422	someone
+T1213	Cue 170423 170430	shouted
+T1214	Quotation 170445 170464	"A. . . a. . . va!"
+T1215	Quotation 170465 170475	"I can't!"
+T1216	Entity 170476 170484	Panteley
+T1217	Cue 170485 170493	answered
+T1218	Quotation 170516 170551	"A . . . a . . . va! Arya . . . a!"
+T1219	Quotation 170693 170729	"Holy, holy, holy, Lord of Sabaoth,"
+T1220	Cue 170730 170739	whispered
+T1221	Entity 170740 170750	Yegorushka
+T1222	Quotation 170770 170809	"Fill heaven and earth with Thy glory."
+T1223	Entity 171577 171585	Panteley
+T1224	Quotation 171863 171874	"Panteley!"
+T1225	Cue 171875 171881	called
+T1226	Entity 171882 171892	Yegorushka
+T1227	Quotation 173109 173128	"Holy, holy, holy!"
+T1228	Entity 173129 173131	he
+T1229	Cue 173132 173141	whispered
+T1230	Entity 174886 174896	Yegorushka
+T1231	Cue 174944 174949	cried
+T1232	Quotation 174951 174975	"Panteley! Grandfather!"
+T1233	Entity 175288 175296	Panteley
+T1234	Quotation 175513 175539	"Grandfather, the giants!"
+T1235	Entity 175540 175550	Yegorushka
+T1236	Cue 175551 175558	shouted
+T1237	Entity 175562 175565	him
+T1238	Quotation 176474 176499	"Yegory, are you asleep?"
+T1239	Entity 176500 176508	Panteley
+T1240	Cue 176509 176514	cried
+T1241	Quotation 176522 176575	"Get down! Is he deaf, the silly little thing? . . ."
+T1242	Quotation 176576 176601	"Something like a storm!"
+T1243	Cue 176602 176606	said
+T1244	Entity 176607 176631	an unfamiliar bass voice
+T1245	Entity 176725 176735	Yegorushka
+T1246	Entity 177161 177171	Yegorushka
+T1247	Quotation 177429 177468	"It was a good storm, all right, . . ."
+T1248	Entity 177469 177477	Panteley
+T1249	Cue 177478 177491	was muttering
+T1250	Quotation 177493 177651	"Thank God, . . . my feet are a little softened by the rain. It was all right. . . . Have you got down, Yegory? Well, go into the hut; it is all right. . . ."
+T1251	Quotation 177652 177671	"Holy, holy, holy!"
+T1252	Cue 177672 177679	wheezed
+T1253	Entity 177680 177687	Emelyan
+T1254	Quotation 177689 177752	"it must have struck something . . . . Are you of these parts?"
+T1255	Entity 177753 177755	he
+T1256	Entity 177762 177772	the giants
+T1257	Quotation 177774 177847	"No, from Glinovo. We belong to Glinovo. We are working at the Platers'."
+T1258	Quotation 177848 177860	"Threshing?"
+T1259	Quotation 177861 177990	"All sorts. Just now we are getting in the wheat. The lightning, the lightning! It is long since we have had such a storm. . . ."
+T1260	Entity 177991 178001	Yegorushka
+T1261	Quotation 178181 178212	"What a storm God has sent us!"
+T1262	Entity 178213 178216	she
+T1263	Cue 178217 178221	said
+T1264	Quotation 178223 178367	"And our lads are out for the night on the steppe; they'll have a bad time, poor dears! Take off your things, little sir, take off your things."
+T1265	Entity 178708 178711	his
+T1266	Quotation 178731 178800	"What's the use of standing there, with your legs apart, little lad?"
+T1267	Cue 178801 178805	said
+T1268	Entity 178806 178819	the old woman
+T1269	Quotation 178821 178838	"Come, sit down."
+T1270	Quotation 179238 179311	"Have something to eat, my dear! I have nothing else to offer you, . . ."
+T1271	Entity 179312 179315	she
+T1272	Cue 179316 179320	said
+T1273	Entity 179331 179334	She
+T1274	Quotation 179470 179491	"Have some, my dear!"
+T1275	Entity 179492 179502	Yegorushka
+T1276	Quotation 179658 179711	"Our lads are out on the steppe for the night, . . ."
+T1277	Cue 179712 179718	sighed
+T1278	Entity 179719 179732	the old woman
+T1279	Entity 179739 179741	he
+T1280	Quotation 179754 179911	"The terror of the Lord! I'd light the candle under the ikon, but I don't know where Stepanida has put it. Have some more, little sir, have some more. . . ."
+T1281	Quotation 180007 180036	"It must be two o'clock now,"
+T1282	Entity 180037 180040	she
+T1283	Cue 180041 180045	said
+T1284	Quotation 180047 180167	"it will soon be time to get up. Our lads are out on the steppe for the night; they are all wet through for sure. . . ."
+T1285	Quotation 180168 180177	"Granny,"
+T1286	Cue 180178 180182	said
+T1287	Entity 180183 180193	Yegorushka
+T1288	Quotation 180195 180209	"I am sleepy."
+T1289	Quotation 180210 180240	"Lie down, my dear, lie down,"
+T1290	Entity 180241 180254	the old woman
+T1291	Cue 180255 180261	sighed
+T1292	Quotation 180272 180479	"Lord Jesus Christ! I was asleep, when I heard a noise as though someone were knocking. I woke up and looked, and it was the storm God had sent us. . . . I'd have lighted the candle, but I couldn't find it."
+T1293	Entity 180644 180654	Yegorushka
+T1294	Quotation 180656 180686	"The storm doesn't grow less,"
+T1295	Entity 180687 180690	she
+T1296	Cue 180691 180699	muttered
+T1297	Quotation 180701 180934	"If only nothing's struck in an unlucky hour. Our lads are out on the steppe for the night. Lie down and sleep, my dear. . . . Christ be with you, my child. . . . I won't take away the melon; maybe you'll have a bit when you get up."
+T1298	Quotation 181229 181260	"Is the little lad lying down?"
+T1299	Entity 181270 181278	Panteley
+T1300	Cue 181279 181286	whisper
+T1301	Quotation 181303 181309	"Yes,"
+T1302	Cue 181310 181318	answered
+T1303	Entity 181319 181332	the old woman
+T1304	Quotation 181347 181425	"The terror of the Lord! It thunders and thunders, and there is no end to it."
+T1305	Quotation 181426 181449	"It will soon be over,"
+T1306	Cue 181450 181457	wheezed
+T1307	Entity 181458 181466	Panteley
+T1308	Quotation 181482 181763	"it's getting quieter. . . . The lads have gone into the huts, and two have stayed with the horses. The lads have. . . . They can't; . . . the horses would be taken away. . . . I'll sit here a bit and then go and take my turn. . . . We can't leave them; they would be taken. . . ."
+T1309	Entity 182186 182194	Panteley
+T1310	Quotation 182629 182654	"Grandfather, I am cold,"
+T1311	Entity 182655 182657	he
+T1312	Cue 182658 182662	said
+T1313	Quotation 182696 182733	"Go to sleep, my child, go to sleep,"
+T1314	Cue 182734 182740	sighed
+T1315	Entity 182741 182754	the old woman
+T1316	Quotation 183130 183144	"Grandfather,"
+T1317	Entity 183145 183147	he
+T1318	Cue 183148 183154	called
+T1319	Quotation 183156 183177	"give me some water."
+T1320	Quotation 184984 185011	"There are Varlamov's men!"
+T1321	Entity 185012 185019	someone
+T1322	Cue 185020 185027	shouted
+T1323	Quotation 185513 185537	"Grandfather, I'm cold,"
+T1324	Entity 185538 185540	he
+T1325	Cue 185541 185545	said
+T1326	Quotation 185597 185634	"Never mind, we shall soon be there,"
+T1327	Cue 185635 185641	yawned
+T1328	Entity 185642 185650	Panteley
+T1329	Quotation 185652 185684	"Never mind, you will get warm."
+T1330	Entity 186650 186654	them
+T1331	Quotation 187159 187188	"Our little lad's taken ill,"
+T1332	Entity 187189 187191	he
+T1333	Cue 187192 187196	said
+T1334	Quotation 187198 187301	"He must have got a chill to the stomach. The little lad must. . . away from home; it's a bad lookout!"
+T1335	Entity 187453 187460	Someone
+T1336	Entity 187473 187476	him
+T1337	Cue 187494 187500	saying
+T1338	Quotation 187502 187738	"We arrived yesterday evening. . . . We have been expecting you all day. We meant to overtake you yesterday, but it was out of our way; we came by the other road. I say, how you have crumpled your coat! You'll catch it from your uncle!"
+T1339	Entity 187739 187749	Yegorushka
+T1340	Entity 187818 187825	Deniska
+T1341	Quotation 187827 187908	"Your uncle and Father Christopher are in the inn now, drinking tea; come along!"
+T1342	Entity 188213 188220	the boy
+T1343	Quotation 188269 188297	"Aha! Yegor Ni-ko-la-aitch!"
+T1344	Cue 188298 188305	chanted
+T1345	Entity 188306 188324	Father Christopher
+T1346	Quotation 188326 188342	"Mr. Lomonosov!"
+T1347	Quotation 188343 188377	"Ah, our gentleman that is to be,"
+T1348	Cue 188378 188382	said
+T1349	Entity 188383 188393	Kuzmitchov
+T1350	Quotation 188395 188416	"pleased to see you!"
+T1351	Entity 188417 188427	Yegorushka
+T1352	Quotation 188530 188578	"Well, how did you like the journey, puer bone?"
+T1353	Entity 188579 188597	Father Christopher
+T1354	Entity 188605 188608	him
+T1355	Quotation 188679 189241	"Sick of it, I've no doubt? God save us all from having to travel by waggon or with oxen. You go on and on, God forgive us; you look ahead and the steppe is always lying stretched out the same as it was-- you can't see the end of it! It's not travelling but regular torture. Why don't you drink your tea? Drink it up; and in your absence, while you have been trailing along with the waggons, we have settled all our business capitally. Thank God we have sold our wool to Tcherepahin, and no one could wish to have done better. . . . We have made a good bargain."
+T1356	Entity 189578 189580	He
+T1357	Quotation 189668 189681	"Well, well,"
+T1358	Cue 189682 189686	said
+T1359	Entity 189687 189705	Father Christopher
+T1360	Quotation 189719 189741	"What about your tea?"
+T1361	Entity 189778 189788	Yegorushka
+T1362	Quotation 189843 189856	"Well, well!"
+T1363	Cue 189857 189865	repeated
+T1364	Entity 189866 189884	Father Christopher
+T1365	Quotation 189920 189978	"Yegory, what is the matter with you? Why are you crying?"
+T1366	Quotation 189979 189999	"I'm . . . I'm ill,"
+T1367	Entity 190000 190010	Yegorushka
+T1368	Cue 190011 190022	brought out
+T1369	Quotation 190024 190030	"Ill?"
+T1370	Cue 190031 190035	said
+T1371	Entity 190036 190054	Father Christopher
+T1372	Quotation 190069 190198	"That's not the right thing, my boy. . . . One mustn't be ill on a journey. Aie, aie, what are you thinking about, boy . . . eh?"
+T1373	Entity 190199 190201	He
+T1374	Entity 190218 190228	Yegorushka
+T1375	Cue 190259 190263	said
+T1376	Quotation 190265 190374	"Yes, your head's feverish. . . . You must have caught cold or else have eaten something. . . . Pray to God."
+T1377	Quotation 190375 190410	"Should we give him quinine? . . ."
+T1378	Cue 190411 190415	said
+T1379	Entity 190416 190429	Ivan Ivanitch
+T1380	Quotation 190441 190524	"No; he ought to have something hot. . . . Yegory, have a little drop of soup? Eh?"
+T1381	Quotation 190525 190549	"I. . . don't want any,"
+T1382	Cue 190550 190554	said
+T1383	Entity 190555 190565	Yegorushka
+T1384	Quotation 190567 190592	"Are you feeling chilly?"
+T1385	Quotation 190593 190670	"I was chilly before, but now . . . now I am hot. And I ache all over. . . ."
+T1387	Entity 190714 190724	Yegorushka
+T1388	Quotation 190807 190852	"I tell you what, you undress and go to bed,"
+T1389	Cue 190853 190857	said
+T1390	Entity 190858 190876	Father Christopher
+T1391	Quotation 190878 190907	"What you want is sleep now."
+T1392	Entity 191220 191227	Emelyan
+T1393	Quotation 191324 191345	"Beat him, beat him!"
+T1394	Cue 191346 191353	shouted
+T1395	Entity 191354 191364	Yegorushka
+T1396	Quotation 191366 191384	"He is delirious,"
+T1397	Cue 191385 191389	said
+T1398	Entity 191390 191408	Father Christopher
+T1399	Quotation 191426 191444	"It's a nuisance!"
+T1400	Cue 191445 191451	sighed
+T1401	Entity 191452 191465	Ivan Ivanitch
+T1402	Quotation 191467 191549	"He must be rubbed with oil and vinegar. Please God, he will be better to-morrow."
+T1403	Entity 192131 192133	he
+T1404	Entity 192161 192167	Mihail
+T1405	Cue 192191 192194	say
+T1406	Quotation 192196 192243	"Well, take it! that's the way to do business!"
+T1407	Quotation 192345 192410	"If I could have known that Tcherepahin would give such a price,"
+T1408	Entity 192411 192413	he
+T1409	Cue 192414 192418	said
+T1410	Quotation 192435 192564	"I wouldn't have sold Makarov those five tons at home. It is vexatious! But who could have told that the price had gone up here?"
+T1411	Entity 192896 192909	Ivan Ivanitch
+T1412	Quotation 193004 193050	"I think of going to the cathedral to-morrow,"
+T1413	Cue 193051 193055	said
+T1414	Entity 193056 193074	Father Christopher
+T1415	Quotation 193076 193174	"I know the sacristan there. I ought to go and see the bishop after mass, but they say he is ill."
+T1416	Quotation 193279 193316	"They say he can't receive visitors,"
+T1417	Entity 193317 193335	Father Christopher
+T1418	Cue 193336 193343	went on
+T1419	Quotation 193357 193397	"So I shall go away without seeing him."
+T1420	Entity 193470 193478	Robinson
+T1421	Entity 193521 193531	Yegorushka
+T1422	Cue 193536 193545	whispered
+T1423	Quotation 193547 193673	"Lomonosov, are you asleep? Sit up; I'm going to rub you with oil and vinegar. It's a good thing, only you must say a prayer."
+T1424	Entity 193860 193870	Yegorushka
+T1425	Quotation 193880 193937	"In the name of the Father, the Son, and the Holy Ghost,"
+T1426	Entity 193938 193940	he
+T1427	Cue 193941 193950	whispered
+T1428	Quotation 193952 194128	"lie with your back upwards-- that's it. . . . You'll be all right to-morrow, but don't do it again. . . . You are as hot as fire. I suppose you were on the road in the storm."
+T1429	Quotation 194129 194135	"Yes."
+T1430	Quotation 194136 194249	"You might well fall ill! In the name of the Father, the Son, and the Holy Ghost, . . . you might well fall ill!"
+T1431	Entity 196598 196600	he
+T1432	Cue 196694 196698	said
+T1433	Quotation 196700 196748	"God has sent us blessings-- well, how are you?"
+T1434	Quotation 196749 196766	"Quite well now,"
+T1435	Cue 196767 196775	answered
+T1436	Entity 196776 196786	Yegorushka
+T1437	Quotation 196806 196994	"Thank God. . . . I have come from mass. I've been to see a sacristan I know. He invited me to breakfast with him, but I didn't go. I don't like visiting people too early, God bless them!"
+T1438	Entity 197086 197096	Yegorushka
+T1439	Quotation 197170 197215	"See; I passed a fish-shop and brought this,"
+T1440	Cue 197216 197220	said
+T1441	Entity 197221 197239	Father Christopher
+T1442	Quotation 197241 197412	"There is no need to indulge in luxuries on an ordinary weekday; but I thought, I've an invalid at home, so it is excusable. And the caviare is good, real sturgeon. . . ."
+T1443	Quotation 197491 197502	"Eat some,"
+T1444	Cue 197503 197507	said
+T1445	Entity 197508 197526	Father Christopher
+T1446	Entity 197588 197598	Yegorushka
+T1447	Quotation 197600 198577	"Eat now and enjoy yourself, but the time will soon come for you to be studying. Mind you study with attention and application, so that good may come of it. What you have to learn by heart, learn by heart, but when you have to tell the inner sense in your own words, without regard to the outer form, then say it in your own words. And try to master all subjects. One man knows mathematics excellently, but has never heard of Pyotr Mogila; another knows about Pyotr Mogila, but cannot explain about the moon. But you study so as to understand everything. Study Latin, French, German, . . . geography, of course, history, theology, philosophy, mathematics, . . . and when you have mastered everything, not with haste but with prayer and with zeal, then go into the service. When you know everything it will be easy for you in any line of life. . . . You study and strive for the divine blessing, and God will show you what to be. Whether a doctor, a judge or an engineer. . . ."
+T1448	Entity 198578 198596	Father Christopher
+T1449	Cue 198666 198670	said
+T1450	Quotation 198672 199236	"The Apostle Paul says: 'Do not apply yourself to strange and diverse studies.' Of course, if it is black magic, unlawful arts, or calling up spirits from the other world, like Saul, or studying subjects that can be of no use to yourself or others, better not learn them. You must undertake only what God has blessed. Take example . . . the Holy Apostles spoke in all languages, so you study languages. Basil the Great studied mathematics and philosophy-- so you study them; St. Nestor wrote history-- so you study and write history. Take example from the saints."
+T1451	Quotation 199330 199337	"Good!"
+T1452	Entity 199338 199340	he
+T1453	Cue 199341 199345	said
+T1454	Quotation 199347 200193	"I was educated in the old-fashioned way; I have forgotten a great deal by now, but still I live differently from other people. Indeed, there is no comparison. For instance, in company at a dinner, or at an assembly, one says something in Latin, or makes some allusion from history or philosophy, and it pleases people, and it pleases me myself. . . . Or when the circuit court comes and one has to take the oath, all the other priests are shy, but I am quite at home with the judges, the prosecutors, and the lawyers. I talk intellectually, drink a cup of tea with them, laugh, ask them what I don't know, . . . and they like it. So that's how it is, my boy. Learning is light and ignorance is darkness. Study! It's hard, of course; nowadays study is expensive. . . . Your mother is a widow; she lives on her pension, but there, of course . . ."
+T1455	Entity 200194 200212	Father Christopher
+T1456	Cue 200258 200278	went on in a whisper
+T1457	Quotation 200280 200399	"Ivan Ivanitch will assist. He won't desert you. He has no children of his own, and he will help you. Don't be uneasy."
+T1458	Entity 200400 200402	He
+T1459	Cue 200421 200430	whispered
+T1460	Quotation 200450 200806	"Only mind, Yegory, don't forget your mother and Ivan Ivanitch, God preserve you from it. The commandment bids you honour your mother, and Ivan Ivanitch is your benefactor and takes the place of a father to you. If you become learned, God forbid you should be impatient and scornful with people because they are not so clever as you, then woe, woe to you!"
+T1461	Entity 200807 200825	Father Christopher
+T1462	Cue 200846 200854	repeated
+T1463	Quotation 200872 200897	"Woe to you! Woe to you!"
+T1464	Quotation 201174 201214	"Well, I have settled all our business,"
+T1465	Entity 201215 201217	he
+T1466	Cue 201218 201222	said
+T1467	Quotation 201224 201450	"We might have gone home to-day, but we have still to think about Yegor. We must arrange for him. My sister told me that Nastasya Petrovna, a friend of hers, lives somewhere here, so perhaps she will take him in as a boarder."
+T1468	Entity 201451 201453	He
+T1469	Cue 201509 201513	read
+T1470	Quotation 201515 201654	"'Little Lower Street: Nastasya Petrovna Toskunov, living in a house of her own.' We must go at once and try to find her. It's a nuisance!"
+T1471	Entity 201694 201704	Yegorushka
+T1472	Quotation 201719 201737	"It's a nuisance,"
+T1473	Cue 201738 201746	muttered
+T1474	Entity 201747 201756	his uncle
+T1475	Quotation 201758 201905	"You are sticking to me like a burr. You and your mother want education and gentlemanly breeding and I have nothing but worry with you both. . . ."
+T1476	Entity 202237 202250	Ivan Ivanitch
+T1477	Cue 202251 202256	asked
+T1478	Entity 202257 202268	a policeman
+T1479	Quotation 202269 202292	for Little Lower Street
+T1480	Quotation 202294 202302	"I say,"
+T1481	Cue 202303 202307	said
+T1482	Entity 202308 202321	the policeman
+T1483	Quotation 202336 202404	"it's a long way off, out that way towards the town grazing ground."
+T1484	Quotation 202934 202952	"Tell me, please,"
+T1485	Cue 202953 202957	said
+T1486	Entity 202958 202971	Ivan Ivanitch
+T1487	Entity 202984 202994	an old man
+T1488	Quotation 203032 203078	"where is Nastasya Petrovna Toskunov's house?"
+T1489	Quotation 203079 203118	"There is no one called Toskunov here,"
+T1490	Cue 203119 203123	said
+T1491	Entity 203124 203135	the old man
+T1492	Quotation 203163 203198	"Perhaps it's Timoshenko you want."
+T1493	Quotation 203199 203220	"No, Toskunov. . . ."
+T1494	Quotation 203221 203271	"Excuse me, there's no one called Toskunov. . . ."
+T1495	Quotation 203333 203352	"You needn't look,"
+T1496	Entity 203353 203364	the old man
+T1497	Cue 203365 203377	called after
+T1498	Entity 203378 203382	them
+T1499	Quotation 203384 203426	"I tell you there isn't, and there isn't."
+T1500	Quotation 203427 203444	"Listen, auntie,"
+T1501	Cue 203445 203449	said
+T1502	Entity 203450 203463	Ivan Ivanitch
+T1503	Entity 203476 203488	an old woman
+T1504	Quotation 203559 203605	"where is Nastasya Petrovna Toskunov's house?"
+T1505	Entity 203630 203633	him
+T1506	Quotation 203661 203712	"Why, Nastasya Petrovna live in her own house now!"
+T1507	Entity 203713 203716	she
+T1508	Cue 203717 203722	cried
+T1509	Quotation 203724 203858	"Lord! it is eight years since she married her daughter and gave up the house to her son-in-law! It's her son-in-law lives there now."
+T1510	Quotation 203948 203978	"And where does she live now?"
+T1511	Entity 203979 203992	Ivan Ivanitch
+T1512	Cue 203993 203998	asked
+T1513	Quotation 204000 204011	"Oh, Lord!"
+T1514	Cue 204012 204017	cried
+T1515	Entity 204018 204031	the old woman
+T1516	Quotation 204068 204175	"She moved ever so long ago! It's eight years since she gave up her house to her son-in-law! Upon my word!"
+T1517	Entity 204176 204179	She
+T1518	Entity 204274 204287	Ivan Ivanitch
+T1519	Cue 204288 204293	asked
+T1520	Quotation 204307 204333	"Where does she live now?"
+T1521	Entity 204334 204347	The old woman
+T1522	Cue 204413 204420	shouted
+T1523	Quotation 204449 204652	"Go straight on, straight on, straight on. You will pass a little red house, then you will see a little alley on your left. Turn down that little alley, and it will be the third gate on the right. . . ."
+T1524	Entity 205352 205365	A stout woman
+T1525	Cue 205495 205503	shouting
+T1526	Quotation 205561 205595	"Chick! . . . Chick! . . . Chick!"
+T1527	Entity 205647 205660	the strangers
+T1528	Quotation 205750 205769	"Whom do you want?"
+T1529	Cue 205770 205775	asked
+T1530	Entity 205776 205785	the woman
+T1531	Quotation 205839 205854	"Good-morning!"
+T1532	Entity 205855 205868	Ivan Ivanitch
+T1533	Cue 205869 205876	shouted
+T1534	Quotation 205922 205983	"Tell me, please, does Nastasya Petrovna Toskunov live here?"
+T1535	Quotation 205984 206021	"Yes! But what do you want with her?"
+T1536	Quotation 206022 206058	"Perhaps you are Nastasya Petrovna?"
+T1537	Quotation 206059 206077	"Well, yes, I am!"
+T1538	Quotation 206078 206348	"Very pleased to see you. . . . You see, your old friend Olga Ivanovna Knyasev sends her love to you. This is her little son. And I, perhaps you remember, am her brother Ivan Ivanitch. . . . You are one of us from N.. . . You were born among us and married there. . . ."
+T1539	Entity 206403 206416	Ivan Ivanitch
+T1540	Quotation 206593 206609	"Olga Ivanovna!"
+T1541	Entity 206610 206613	she
+T1542	Cue 206614 206622	screamed
+T1543	Quotation 206652 206752	"My own darling! Ah, holy saints, why am I standing here like a fool? My pretty little angel. . . ."
+T1544	Entity 206766 206776	Yegorushka
+T1545	Quotation 206837 206847	"Heavens!"
+T1546	Entity 206848 206851	she
+T1547	Cue 206852 206856	said
+T1548	Quotation 206878 207018	"Olga's little boy! How delightful! He is his mother all over! The image of his mother! But why are you standing in the yard? Come indoors."
+T1549	Quotation 207134 207167	"The room has not been done yet,"
+T1550	Entity 207168 207171	she
+T1551	Cue 207172 207176	said
+T1552	Entity 207187 207199	the visitors
+T1553	Quotation 207279 207428	"Oh, Mother of God! Vassilisa, go and open the shutters anyway! My little angel! My little beauty! I did not know that Olitchka had a boy like that!"
+T1554	Entity 207896 207906	Yegorushka
+T1555	Entity 207917 207920	her
+T1556	Cue 207939 207944	asked
+T1557	Quotation 207946 207965	"What's your name?"
+T1558	Entity 207966 207981	The little girl
+T1559	Cue 208038 208046	answered
+T1560	Quotation 208055 208068	"Atka. . . ."
+T1561	Quotation 208087 208111	"He will live with you,"
+T1562	Entity 208112 208125	Ivan Ivanitch
+T1563	Cue 208126 208140	was whispering
+T1564	Quotation 208162 208280	"if you will be so kind, and we will pay ten roubles a month for his keep. He is not a spoilt boy; he is quiet. . . ."
+T1565	Quotation 208281 208330	"I really don't know what to say, Ivan Ivanitch!"
+T1566	Entity 208331 208348	Nastasya Petrovna
+T1567	Cue 208349 208355	sighed
+T1568	Quotation 208367 208497	"Ten roubles a month is very good, but it is a dreadful thing to take another person's child! He may fall ill or something. . . ."
+T1569	Entity 208503 208513	Yegorushka
+T1570	Entity 208552 208565	Ivan Ivanitch
+T1571	Cue 208606 208612	saying
+T1572	Quotation 208613 208621	good-bye
+T1573	Quotation 208623 208663	"Well, let him stay with you now, then,"
+T1574	Entity 208664 208666	he
+T1575	Cue 208667 208671	said
+T1576	Quotation 208673 208701	"Good-bye! You stay, Yegor!"
+T1577	Entity 208702 208704	he
+T1578	Cue 208705 208709	said
+T1579	Entity 208722 208732	his nephew
+T1580	Quotation 208734 208835	"Don't be troublesome; mind you obey Nastasya Petrovna. . . . Good-bye; I am coming again to-morrow."
+T1581	Entity 208998 209008	Yegorushka
+T1582	Entity 209247 209250	she
+T1583	Cue 209251 209257	talked
+T1584	Quotation 209261 209316	his mother's young days, her own marriage, her children
+T1585	Entity 210068 210085	Nastasya Petrovna
+T1586	Entity 210151 210164	Ivan Ivanitch
+T1587	Cue 210212 210216	said
+T1588	Quotation 210218 210269	"We have no time for tea! We are just setting off."
+T1589	Entity 210333 210350	Nastasya Petrovna
+T1590	Quotation 210422 210429	"Well,"
+T1591	Cue 210430 210435	began
+T1592	Entity 210436 210449	Ivan Ivanitch
+T1593	Quotation 210463 210488	"so you will stay. . . ."
+T1594	Entity 210559 210561	he
+T1595	Cue 210583 210587	said
+T1596	Quotation 210611 210755	"Mind you work hard. . . . Don't forget your mother, and obey Nastasya Petrovna. . . . If you are diligent at school, Yegor, I'll stand by you."
+T1597	Entity 210812 210822	Yegorushka
+T1598	Entity 210972 210982	Yegorushka
+T1599	Quotation 210984 211054	"In the name of the Father, the Son, and the Holy Ghost. . . . Study,"
+T1600	Entity 211055 211057	he
+T1601	Cue 211058 211062	said
+T1602	Quotation 211064 211170	"Work hard, my lad. If I die, remember me in your prayers. Here is a ten-kopeck piece from me, too. . . ."
+T1603	Quotation 211291 211335	"I have applied at the high school already,"
+T1604	Cue 211336 211340	said
+T1605	Entity 211341 211354	Ivan Ivanitch
+T1606	Quotation 211409 211537	"You will take him for the entrance examination on the seventh of August. . . . Well, good-bye; God bless you, good-bye, Yegor!"
+T1607	Quotation 211538 211581	"You might at least have had a cup of tea,"
+T1608	Cue 211582 211588	wailed
+T1609	Entity 211589 211606	Nastasya Petrovna
+R1	Speaker Arg1:T22 Arg2:T23
+R2	Speaker Arg1:T17 Arg2:T19
+R3	Speaker Arg1:T22 Arg2:T25
+R4	Addressee Arg1:T22 Arg2:T24
+R5	Addressee Arg1:T14 Arg2:T16
+R6	Addressee Arg1:T17 Arg2:T20
+R7	Cueing Arg1:T21 Arg2:T20
+R8	Addressee Arg1:T17 Arg2:T23
+R9	Addressee Arg1:T1 Arg2:T5
+R10	Cueing Arg1:T10 Arg2:T9
+R11	Speaker Arg1:T14 Arg2:T12
+R12	Addressee Arg1:T14 Arg2:T19
+R13	Cueing Arg1:T18 Arg2:T16
+R14	Speaker Arg1:T11 Arg2:T15
+R15	Speaker Arg1:T17 Arg2:T16
+R16	Cueing Arg1:T18 Arg2:T19
+R17	Addressee Arg1:T14 Arg2:T15
+R18	Speaker Arg1:T17 Arg2:T26
+R19	Cueing Arg1:T7 Arg2:T8
+R20	Cueing Arg1:T3 Arg2:T2
+R21	Speaker Arg1:T22 Arg2:T20
+R22	Speaker Arg1:T6 Arg2:T5
+R23	Addressee Arg1:T11 Arg2:T12
+R24	Cueing Arg1:T7 Arg2:T5
+R25	Speaker Arg1:T6 Arg2:T8
+R26	Cueing Arg1:T13 Arg2:T12
+R27	Speaker Arg1:T11 Arg2:T9
+R28	Addressee Arg1:T1 Arg2:T8
+R29	Cueing Arg1:T21 Arg2:T23
+R30	Addressee Arg1:T17 Arg2:T25
+R31	Speaker Arg1:T17 Arg2:T24
+R32	Speaker Arg1:T4 Arg2:T2
+R33	Addressee Arg1:T22 Arg2:T26
+R34	Addressee Arg1:T1 Arg2:T2
+R35	Addressee Arg1:T14 Arg2:T9
+R36	Speaker Arg1:T30 Arg2:T31
+R37	Cueing Arg1:T29 Arg2:T28
+R38	Speaker Arg1:T30 Arg2:T28
+R39	Speaker Arg1:T35 Arg2:T37
+R40	Cueing Arg1:T36 Arg2:T37
+R41	Cueing Arg1:T29 Arg2:T31
+R42	Speaker Arg1:T34 Arg2:T32
+R43	Addressee Arg1:T35 Arg2:T32
+R44	Cueing Arg1:T33 Arg2:T32
+R45	Addressee Arg1:T34 Arg2:T37
+R46	Addressee Arg1:T27 Arg2:T28
+R47	Cueing Arg1:T105 Arg2:T104
+R48	Cueing Arg1:T102 Arg2:T103
+R49	Speaker Arg1:T95 Arg2:T96
+R50	Cueing Arg1:T105 Arg2:T107
+R51	Speaker Arg1:T53 Arg2:T52
+R52	Cueing Arg1:T50 Arg2:T49
+R53	Speaker Arg1:T41 Arg2:T42
+R54	Speaker Arg1:T63 Arg2:T61
+R55	Speaker Arg1:T101 Arg2:T103
+R56	Speaker Arg1:T51 Arg2:T58
+R57	Addressee Arg1:T51 Arg2:T52
+R58	Speaker Arg1:T45 Arg2:T48
+R59	Cueing Arg1:T98 Arg2:T99
+R60	Addressee Arg1:T106 Arg2:T108
+R61	Cueing Arg1:T54 Arg2:T52
+R62	Speaker Arg1:T57 Arg2:T59
+R63	Cueing Arg1:T102 Arg2:T100
+R64	Cueing Arg1:T56 Arg2:T55
+R65	Cueing Arg1:T46 Arg2:T48
+R66	Speaker Arg1:T41 Arg2:T39
+R67	Cueing Arg1:T62 Arg2:T61
+R68	Addressee Arg1:T47 Arg2:T48
+R69	Speaker Arg1:T51 Arg2:T60
+R70	Speaker Arg1:T97 Arg2:T99
+R71	Speaker Arg1:T45 Arg2:T44
+R72	Speaker Arg1:T106 Arg2:T107
+R73	Addressee Arg1:T57 Arg2:T58
+R74	Cueing Arg1:T40 Arg2:T39
+R75	Addressee Arg1:T51 Arg2:T59
+R76	Speaker Arg1:T67 Arg2:T69
+R77	Cueing Arg1:T68 Arg2:T69
+R78	Addressee Arg1:T47 Arg2:T44
+R79	Speaker Arg1:T51 Arg2:T49
+R80	Cueing Arg1:T40 Arg2:T42
+R81	Speaker Arg1:T57 Arg2:T55
+R82	Addressee Arg1:T101 Arg2:T107
+R83	Addressee Arg1:T101 Arg2:T104
+R84	Addressee Arg1:T51 Arg2:T55
+R85	Speaker Arg1:T101 Arg2:T100
+R86	Speaker Arg1:T101 Arg2:T108
+R87	Cueing Arg1:T46 Arg2:T44
+R88	Speaker Arg1:T106 Arg2:T104
+R89	Addressee Arg1:T57 Arg2:T60
+R90	Addressee Arg1:T95 Arg2:T99
+R91	Speaker Arg1:T63 Arg2:T65
+R92	Addressee Arg1:T95 Arg2:T100
+R93	Addressee Arg1:T95 Arg2:T69
+R94	Addressee Arg1:T63 Arg2:T64
+R95	Speaker Arg1:T83 Arg2:T85
+R96	Cueing Arg1:T84 Arg2:T85
+R97	Addressee Arg1:T66 Arg2:T65
+R98	Cueing Arg1:T92 Arg2:T91
+R99	Speaker Arg1:T70 Arg2:T73
+R100	Cueing Arg1:T92 Arg2:T94
+R101	Addressee Arg1:T53 Arg2:T49
+R102	Speaker Arg1:T93 Arg2:T94
+R103	Speaker Arg1:T77 Arg2:T79
+R104	Addressee Arg1:T90 Arg2:T91
+R105	Addressee Arg1:T80 Arg2:T85
+R106	Addressee Arg1:T97 Arg2:T96
+R107	Addressee Arg1:T106 Arg2:T103
+R108	Speaker Arg1:T86 Arg2:T89
+R109	Addressee Arg1:T43 Arg2:T42
+R110	Cueing Arg1:T78 Arg2:T79
+R111	Addressee Arg1:T71 Arg2:T73
+R112	Addressee Arg1:T74 Arg2:T79
+R113	Cueing Arg1:T81 Arg2:T82
+R114	Addressee Arg1:T70 Arg2:T76
+R115	Speaker Arg1:T93 Arg2:T91
+R116	Speaker Arg1:T80 Arg2:T82
+R117	Addressee Arg1:T38 Arg2:T39
+R118	Addressee Arg1:T83 Arg2:T82
+R119	Cueing Arg1:T72 Arg2:T73
+R120	Cueing Arg1:T88 Arg2:T89
+R121	Speaker Arg1:T74 Arg2:T76
+R122	Addressee Arg1:T90 Arg2:T94
+R123	Addressee Arg1:T87 Arg2:T89
+R124	Addressee Arg1:T66 Arg2:T61
+R125	Cueing Arg1:T75 Arg2:T76
+R126	Speaker Arg1:T66 Arg2:T64
+R127	Speaker Arg1:T112 Arg2:T110
+R128	Speaker Arg1:T114 Arg2:T113
+R129	Cueing Arg1:T118 Arg2:T120
+R130	Cueing Arg1:T111 Arg2:T110
+R131	Cueing Arg1:T123 Arg2:T121
+R132	Cueing Arg1:T115 Arg2:T113
+R133	Addressee Arg1:T109 Arg2:T110
+R134	Addressee Arg1:T124 Arg2:T121
+R135	Addressee Arg1:T119 Arg2:T120
+R136	Speaker Arg1:T122 Arg2:T121
+R137	Speaker Arg1:T117 Arg2:T120
+R138	Addressee Arg1:T116 Arg2:T113
+R139	Addressee Arg1:T155 Arg2:T154
+R140	Speaker Arg1:T133 Arg2:T135
+R141	Speaker Arg1:T129 Arg2:T131
+R142	Cueing Arg1:T144 Arg2:T142
+R143	Speaker Arg1:T136 Arg2:T138
+R144	Cueing Arg1:T134 Arg2:T135
+R145	Addressee Arg1:T125 Arg2:T128
+R146	Speaker Arg1:T143 Arg2:T142
+R147	Speaker Arg1:T139 Arg2:T141
+R148	Cueing Arg1:T140 Arg2:T141
+R149	Cueing Arg1:T148 Arg2:T146
+R150	Cueing Arg1:T137 Arg2:T138
+R151	Speaker Arg1:T152 Arg2:T151
+R152	Speaker Arg1:T152 Arg2:T154
+R153	Cueing Arg1:T153 Arg2:T154
+R154	Cueing Arg1:T153 Arg2:T151
+R155	Speaker Arg1:T147 Arg2:T146
+R156	Cueing Arg1:T127 Arg2:T128
+R157	Addressee Arg1:T149 Arg2:T146
+R158	Addressee Arg1:T136 Arg2:T141
+R159	Addressee Arg1:T155 Arg2:T151
+R160	Speaker Arg1:T126 Arg2:T128
+R161	Cueing Arg1:T130 Arg2:T131
+R162	Addressee Arg1:T139 Arg2:T138
+R163	Addressee Arg1:T132 Arg2:T135
+R164	Addressee Arg1:T150 Arg2:T154
+R165	Addressee Arg1:T145 Arg2:T142
+R166	Addressee Arg1:T126 Arg2:T131
+R167	Speaker Arg1:T162 Arg2:T163
+R168	Speaker Arg1:T179 Arg2:T181
+R169	Addressee Arg1:T185 Arg2:T181
+R170	Speaker Arg1:T175 Arg2:T174
+R171	Speaker Arg1:T158 Arg2:T156
+R172	Cueing Arg1:T180 Arg2:T181
+R173	Speaker Arg1:T168 Arg2:T170
+R174	Addressee Arg1:T185 Arg2:T182
+R175	Speaker Arg1:T162 Arg2:T160
+R176	Cueing Arg1:T161 Arg2:T163
+R177	Cueing Arg1:T157 Arg2:T159
+R178	Cueing Arg1:T176 Arg2:T174
+R179	Cueing Arg1:T157 Arg2:T156
+R180	Addressee Arg1:T158 Arg2:T160
+R181	Speaker Arg1:T171 Arg2:T173
+R182	Speaker Arg1:T158 Arg2:T159
+R183	Cueing Arg1:T172 Arg2:T173
+R184	Cueing Arg1:T184 Arg2:T182
+R185	Cueing Arg1:T161 Arg2:T160
+R186	Addressee Arg1:T158 Arg2:T163
+R187	Cueing Arg1:T176 Arg2:T178
+R188	Speaker Arg1:T175 Arg2:T178
+R189	Speaker Arg1:T168 Arg2:T167
+R190	Speaker Arg1:T183 Arg2:T182
+R191	Speaker Arg1:T158 Arg2:T164
+R192	Addressee Arg1:T158 Arg2:T165
+R193	Addressee Arg1:T162 Arg2:T164
+R194	Addressee Arg1:T162 Arg2:T166
+R195	Speaker Arg1:T162 Arg2:T165
+R196	Addressee Arg1:T177 Arg2:T178
+R197	Addressee Arg1:T162 Arg2:T159
+R198	Speaker Arg1:T158 Arg2:T166
+R199	Addressee Arg1:T162 Arg2:T156
+R200	Addressee Arg1:T177 Arg2:T174
+R201	Addressee Arg1:T169 Arg2:T170
+R202	Addressee Arg1:T169 Arg2:T173
+R203	Addressee Arg1:T169 Arg2:T167
+R204	Speaker Arg1:T188 Arg2:T186
+R205	Cueing Arg1:T187 Arg2:T190
+R206	Addressee Arg1:T231 Arg2:T228
+R207	Cueing Arg1:T245 Arg2:T246
+R208	Cueing Arg1:T187 Arg2:T186
+R209	Speaker Arg1:T206 Arg2:T207
+R210	Cueing Arg1:T248 Arg2:T250
+R211	Addressee Arg1:T193 Arg2:T199
+R212	Addressee Arg1:T191 Arg2:T192
+R213	Speaker Arg1:T200 Arg2:T202
+R214	Addressee Arg1:T261 Arg2:T268
+R215	Addressee Arg1:T191 Arg2:T198
+R216	Speaker Arg1:T206 Arg2:T204
+R217	Cueing Arg1:T260 Arg2:T259
+R218	Cueing Arg1:T248 Arg2:T247
+R219	Cueing Arg1:T215 Arg2:T217
+R220	Cueing Arg1:T226 Arg2:T227
+R221	Speaker Arg1:T219 Arg2:T218
+R222	Addressee Arg1:T249 Arg2:T246
+R223	Cueing Arg1:T209 Arg2:T208
+R224	Speaker Arg1:T237 Arg2:T239
+R225	Addressee Arg1:T244 Arg2:T252
+R226	Addressee Arg1:T200 Arg2:T203
+R227	Speaker Arg1:T261 Arg2:T262
+R228	Speaker Arg1:T249 Arg2:T254
+R229	Speaker Arg1:T264 Arg2:T266
+R230	Speaker Arg1:T229 Arg2:T228
+R231	Cueing Arg1:T242 Arg2:T240
+R232	Cueing Arg1:T242 Arg2:T243
+R233	Addressee Arg1:T249 Arg2:T259
+R234	Speaker Arg1:T200 Arg2:T199
+R235	Speaker Arg1:T241 Arg2:T243
+R236	Cueing Arg1:T215 Arg2:T214
+R237	Speaker Arg1:T210 Arg2:T208
+R238	Speaker Arg1:T264 Arg2:T268
+R239	Speaker Arg1:T249 Arg2:T247
+R240	Cueing Arg1:T265 Arg2:T266
+R241	Speaker Arg1:T241 Arg2:T240
+R242	Speaker Arg1:T188 Arg2:T190
+R243	Addressee Arg1:T233 Arg2:T235
+R244	Speaker Arg1:T221 Arg2:T223
+R245	Speaker Arg1:T193 Arg2:T198
+R246	Cueing Arg1:T236 Arg2:T235
+R247	Speaker Arg1:T216 Arg2:T217
+R248	Addressee Arg1:T193 Arg2:T195
+R249	Speaker Arg1:T237 Arg2:T235
+R250	Speaker Arg1:T233 Arg2:T238
+R251	Addressee Arg1:T249 Arg2:T251
+R252	Addressee Arg1:T191 Arg2:T196
+R253	Cueing Arg1:T194 Arg2:T192
+R254	Speaker Arg1:T264 Arg2:T263
+R255	Cueing Arg1:T220 Arg2:T218
+R256	Cueing Arg1:T265 Arg2:T263
+R257	Speaker Arg1:T233 Arg2:T232
+R258	Speaker Arg1:T244 Arg2:T246
+R259	Speaker Arg1:T261 Arg2:T267
+R260	Speaker Arg1:T261 Arg2:T259
+R261	Speaker Arg1:T216 Arg2:T214
+R262	Speaker Arg1:T191 Arg2:T197
+R263	Speaker Arg1:T244 Arg2:T251
+R264	Addressee Arg1:T210 Arg2:T213
+R265	Speaker Arg1:T193 Arg2:T192
+R266	Speaker Arg1:T249 Arg2:T252
+R267	Addressee Arg1:T237 Arg2:T240
+R268	Addressee Arg1:T237 Arg2:T243
+R269	Speaker Arg1:T249 Arg2:T250
+R270	Speaker Arg1:T193 Arg2:T196
+R271	Addressee Arg1:T193 Arg2:T197
+R272	Addressee Arg1:T244 Arg2:T254
+R273	Addressee Arg1:T244 Arg2:T250
+R274	Addressee Arg1:T249 Arg2:T253
+R275	Addressee Arg1:T231 Arg2:T232
+R276	Addressee Arg1:T233 Arg2:T239
+R277	Addressee Arg1:T237 Arg2:T238
+R278	Speaker Arg1:T244 Arg2:T253
+R279	Speaker Arg1:T193 Arg2:T203
+R280	Addressee Arg1:T193 Arg2:T202
+R281	Cueing Arg1:T205 Arg2:T204
+R282	Cueing Arg1:T205 Arg2:T207
+R283	Speaker Arg1:T225 Arg2:T227
+R284	Cueing Arg1:T260 Arg2:T262
+R285	Addressee Arg1:T264 Arg2:T267
+R286	Speaker Arg1:T191 Arg2:T195
+R287	Addressee Arg1:T206 Arg2:T208
+R288	Cueing Arg1:T230 Arg2:T228
+R289	Cueing Arg1:T234 Arg2:T232
+R290	Addressee Arg1:T216 Arg2:T218
+R291	Cueing Arg1:T212 Arg2:T213
+R292	Cueing Arg1:T201 Arg2:T202
+R293	Cueing Arg1:T201 Arg2:T199
+R294	Speaker Arg1:T211 Arg2:T213
+R295	Addressee Arg1:T264 Arg2:T262
+R296	Addressee Arg1:T224 Arg2:T227
+R297	Addressee Arg1:T206 Arg2:T217
+R298	Addressee Arg1:T206 Arg2:T214
+R299	Addressee Arg1:T210 Arg2:T207
+R300	Addressee Arg1:T256 Arg2:T258
+R301	Cueing Arg1:T257 Arg2:T258
+R302	Speaker Arg1:T255 Arg2:T258
+R303	Addressee Arg1:T261 Arg2:T263
+R304	Addressee Arg1:T189 Arg2:T186
+R305	Addressee Arg1:T210 Arg2:T204
+R306	Addressee Arg1:T261 Arg2:T266
+R307	Addressee Arg1:T244 Arg2:T247
+R308	Addressee Arg1:T189 Arg2:T190
+R309	Cueing Arg1:T222 Arg2:T223
+R310	Speaker Arg1:T296 Arg2:T298
+R311	Addressee Arg1:T308 Arg2:T313
+R312	Speaker Arg1:T325 Arg2:T324
+R313	Addressee Arg1:T294 Arg2:T298
+R314	Cueing Arg1:T271 Arg2:T273
+R315	Speaker Arg1:T312 Arg2:T313
+R316	Addressee Arg1:T333 Arg2:T334
+R317	Cueing Arg1:T304 Arg2:T302
+R318	Addressee Arg1:T330 Arg2:T331
+R319	Cueing Arg1:T329 Arg2:T328
+R320	Speaker Arg1:T333 Arg2:T335
+R321	Addressee Arg1:T269 Arg2:T270
+R322	Speaker Arg1:T301 Arg2:T305
+R323	Speaker Arg1:T330 Arg2:T328
+R324	Cueing Arg1:T311 Arg2:T313
+R325	Speaker Arg1:T342 Arg2:T340
+R326	Speaker Arg1:T303 Arg2:T302
+R327	Cueing Arg1:T321 Arg2:T322
+R328	Speaker Arg1:T320 Arg2:T322
+R329	Addressee Arg1:T312 Arg2:T314
+R330	Addressee Arg1:T330 Arg2:T335
+R331	Cueing Arg1:T307 Arg2:T306
+R332	Cueing Arg1:T293 Arg2:T292
+R333	Speaker Arg1:T296 Arg2:T295
+R334	Addressee Arg1:T303 Arg2:T305
+R335	Speaker Arg1:T333 Arg2:T331
+R336	Speaker Arg1:T342 Arg2:T343
+R337	Addressee Arg1:T291 Arg2:T292
+R338	Cueing Arg1:T271 Arg2:T270
+R339	Speaker Arg1:T320 Arg2:T319
+R340	Addressee Arg1:T294 Arg2:T295
+R341	Cueing Arg1:T311 Arg2:T310
+R342	Cueing Arg1:T321 Arg2:T319
+R343	Speaker Arg1:T312 Arg2:T310
+R344	Speaker Arg1:T308 Arg2:T306
+R345	Cueing Arg1:T332 Arg2:T331
+R346	Cueing Arg1:T297 Arg2:T298
+R347	Cueing Arg1:T337 Arg2:T336
+R348	Speaker Arg1:T325 Arg2:T327
+R349	Speaker Arg1:T288 Arg2:T290
+R350	Addressee Arg1:T333 Arg2:T336
+R351	Speaker Arg1:T338 Arg2:T336
+R352	Speaker Arg1:T315 Arg2:T314
+R353	Speaker Arg1:T315 Arg2:T317
+R354	Speaker Arg1:T294 Arg2:T292
+R355	Cueing Arg1:T326 Arg2:T327
+R356	Speaker Arg1:T308 Arg2:T309
+R357	Speaker Arg1:T301 Arg2:T299
+R358	Addressee Arg1:T308 Arg2:T310
+R359	Cueing Arg1:T326 Arg2:T324
+R360	Cueing Arg1:T341 Arg2:T340
+R361	Addressee Arg1:T312 Arg2:T317
+R362	Speaker Arg1:T272 Arg2:T270
+R363	Speaker Arg1:T330 Arg2:T334
+R364	Cueing Arg1:T297 Arg2:T295
+R365	Cueing Arg1:T316 Arg2:T314
+R366	Addressee Arg1:T333 Arg2:T339
+R367	Speaker Arg1:T338 Arg2:T339
+R368	Cueing Arg1:T307 Arg2:T309
+R369	Cueing Arg1:T300 Arg2:T299
+R370	Speaker Arg1:T272 Arg2:T273
+R371	Cueing Arg1:T316 Arg2:T317
+R372	Addressee Arg1:T323 Arg2:T327
+R373	Cueing Arg1:T341 Arg2:T343
+R374	Cueing Arg1:T289 Arg2:T283
+R375	Addressee Arg1:T323 Arg2:T324
+R376	Cueing Arg1:T289 Arg2:T290
+R377	Speaker Arg1:T288 Arg2:T283
+R378	Cueing Arg1:T337 Arg2:T339
+R379	Addressee Arg1:T277 Arg2:T278
+R380	Cueing Arg1:T285 Arg2:T287
+R381	Cueing Arg1:T276 Arg2:T274
+R382	Speaker Arg1:T275 Arg2:T274
+R383	Addressee Arg1:T269 Arg2:T273
+R384	Addressee Arg1:T338 Arg2:T343
+R385	Addressee Arg1:T277 Arg2:T274
+R386	Cueing Arg1:T276 Arg2:T278
+R387	Addressee Arg1:T338 Arg2:T340
+R388	Speaker Arg1:T275 Arg2:T278
+R389	Addressee Arg1:T279 Arg2:T282
+R390	Cueing Arg1:T281 Arg2:T282
+R391	Speaker Arg1:T280 Arg2:T282
+R392	Addressee Arg1:T318 Arg2:T319
+R393	Addressee Arg1:T291 Arg2:T290
+R394	Addressee Arg1:T286 Arg2:T287
+R395	Addressee Arg1:T333 Arg2:T328
+R396	Addressee Arg1:T318 Arg2:T322
+R397	Speaker Arg1:T284 Arg2:T287
+R398	Addressee Arg1:T291 Arg2:T283
+R399	Addressee Arg1:T303 Arg2:T299
+R400	Cueing Arg1:T382 Arg2:T380
+R401	Cueing Arg1:T358 Arg2:T356
+R402	Addressee Arg1:T407 Arg2:T410
+R403	Cueing Arg1:T352 Arg2:T354
+R404	Speaker Arg1:T399 Arg2:T398
+R405	Speaker Arg1:T412 Arg2:T413
+R406	Cueing Arg1:T419 Arg2:T417
+R407	Addressee Arg1:T412 Arg2:T414
+R408	Addressee Arg1:T386 Arg2:T392
+R409	Cueing Arg1:T382 Arg2:T384
+R410	Speaker Arg1:T357 Arg2:T356
+R411	Speaker Arg1:T351 Arg2:T350
+R412	Cueing Arg1:T408 Arg2:T406
+R413	Speaker Arg1:T407 Arg2:T406
+R414	Speaker Arg1:T377 Arg2:T379
+R415	Speaker Arg1:T418 Arg2:T417
+R416	Addressee Arg1:T357 Arg2:T367
+R417	Cueing Arg1:T348 Arg2:T347
+R418	Speaker Arg1:T371 Arg2:T374
+R419	Speaker Arg1:T365 Arg2:T369
+R420	Cueing Arg1:T422 Arg2:T423
+R421	Cueing Arg1:T411 Arg2:T410
+R422	Speaker Arg1:T424 Arg2:T426
+R423	Speaker Arg1:T391 Arg2:T389
+R424	Cueing Arg1:T390 Arg2:T389
+R425	Cueing Arg1:T394 Arg2:T393
+R426	Addressee Arg1:T357 Arg2:T364
+R427	Addressee Arg1:T409 Arg2:T406
+R428	Cueing Arg1:T345 Arg2:T344
+R429	Speaker Arg1:T346 Arg2:T344
+R430	Addressee Arg1:T381 Arg2:T388
+R431	Speaker Arg1:T412 Arg2:T410
+R432	Speaker Arg1:T349 Arg2:T347
+R433	Addressee Arg1:T383 Arg2:T380
+R434	Cueing Arg1:T394 Arg2:T396
+R435	Addressee Arg1:T353 Arg2:T350
+R436	Speaker Arg1:T418 Arg2:T420
+R437	Speaker Arg1:T357 Arg2:T359
+R438	Addressee Arg1:T412 Arg2:T420
+R439	Cueing Arg1:T411 Arg2:T413
+R440	Addressee Arg1:T362 Arg2:T363
+R441	Addressee Arg1:T412 Arg2:T426
+R442	Speaker Arg1:T421 Arg2:T423
+R443	Speaker Arg1:T386 Arg2:T388
+R444	Speaker Arg1:T362 Arg2:T360
+R445	Speaker Arg1:T395 Arg2:T393
+R446	Speaker Arg1:T415 Arg2:T414
+R447	Addressee Arg1:T407 Arg2:T413
+R448	Addressee Arg1:T412 Arg2:T417
+R449	Speaker Arg1:T351 Arg2:T354
+R450	Addressee Arg1:T412 Arg2:T423
+R451	Cueing Arg1:T352 Arg2:T350
+R452	Speaker Arg1:T395 Arg2:T396
+R453	Speaker Arg1:T365 Arg2:T367
+R454	Cueing Arg1:T376 Arg2:T375
+R455	Speaker Arg1:T365 Arg2:T364
+R456	Cueing Arg1:T416 Arg2:T414
+R457	Cueing Arg1:T366 Arg2:T364
+R458	Cueing Arg1:T373 Arg2:T374
+R459	Addressee Arg1:T357 Arg2:T360
+R460	Cueing Arg1:T361 Arg2:T360
+R461	Addressee Arg1:T383 Arg2:T384
+R462	Addressee Arg1:T381 Arg2:T385
+R463	Cueing Arg1:T358 Arg2:T359
+R464	Cueing Arg1:T390 Arg2:T392
+R465	Speaker Arg1:T377 Arg2:T375
+R466	Addressee Arg1:T353 Arg2:T354
+R467	Addressee Arg1:T405 Arg2:T401
+R468	Addressee Arg1:T365 Arg2:T368
+R469	Speaker Arg1:T357 Arg2:T363
+R470	Speaker Arg1:T381 Arg2:T384
+R471	Speaker Arg1:T357 Arg2:T368
+R472	Addressee Arg1:T386 Arg2:T389
+R473	Speaker Arg1:T391 Arg2:T392
+R474	Cueing Arg1:T400 Arg2:T398
+R475	Speaker Arg1:T381 Arg2:T380
+R476	Addressee Arg1:T405 Arg2:T398
+R477	Speaker Arg1:T386 Arg2:T385
+R478	Cueing Arg1:T366 Arg2:T367
+R479	Cueing Arg1:T387 Arg2:T385
+R480	Addressee Arg1:T378 Arg2:T375
+R481	Cueing Arg1:T425 Arg2:T426
+R482	Cueing Arg1:T419 Arg2:T420
+R483	Cueing Arg1:T403 Arg2:T404
+R484	Cueing Arg1:T376 Arg2:T379
+R485	Addressee Arg1:T378 Arg2:T379
+R486	Cueing Arg1:T387 Arg2:T388
+R487	Addressee Arg1:T372 Arg2:T374
+R488	Addressee Arg1:T355 Arg2:T356
+R489	Speaker Arg1:T402 Arg2:T404
+R490	Addressee Arg1:T355 Arg2:T359
+R491	Speaker Arg1:T402 Arg2:T401
+R492	Addressee Arg1:T405 Arg2:T404
+R493	Addressee Arg1:T397 Arg2:T396
+R494	Addressee Arg1:T346 Arg2:T347
+R495	Addressee Arg1:T370 Arg2:T369
+R496	Addressee Arg1:T397 Arg2:T393
+R497	Addressee Arg1:T349 Arg2:T344
+R498	Cueing Arg1:T474 Arg2:T472
+R499	Addressee Arg1:T469 Arg2:T472
+R500	Speaker Arg1:T506 Arg2:T509
+R501	Cueing Arg1:T500 Arg2:T498
+R502	Cueing Arg1:T477 Arg2:T478
+R503	Cueing Arg1:T470 Arg2:T471
+R504	Cueing Arg1:T481 Arg2:T479
+R505	Addressee Arg1:T506 Arg2:T508
+R506	Addressee Arg1:T445 Arg2:T444
+R507	Speaker Arg1:T469 Arg2:T471
+R508	Speaker Arg1:T476 Arg2:T478
+R509	Cueing Arg1:T452 Arg2:T451
+R510	Speaker Arg1:T493 Arg2:T496
+R511	Addressee Arg1:T473 Arg2:T478
+R512	Cueing Arg1:T434 Arg2:T432
+R513	Cueing Arg1:T485 Arg2:T484
+R514	Addressee Arg1:T505 Arg2:T509
+R515	Addressee Arg1:T437 Arg2:T438
+R516	Speaker Arg1:T458 Arg2:T460
+R517	Cueing Arg1:T441 Arg2:T443
+R518	Cueing Arg1:T436 Arg2:T435
+R519	Speaker Arg1:T492 Arg2:T495
+R520	Addressee Arg1:T503 Arg2:T504
+R521	Speaker Arg1:T469 Arg2:T468
+R522	Speaker Arg1:T433 Arg2:T432
+R523	Cueing Arg1:T462 Arg2:T464
+R524	Speaker Arg1:T486 Arg2:T484
+R525	Cueing Arg1:T462 Arg2:T461
+R526	Speaker Arg1:T499 Arg2:T504
+R527	Speaker Arg1:T442 Arg2:T440
+R528	Addressee Arg1:T433 Arg2:T435
+R529	Cueing Arg1:T494 Arg2:T495
+R530	Cueing Arg1:T490 Arg2:T491
+R531	Speaker Arg1:T463 Arg2:T464
+R532	Speaker Arg1:T476 Arg2:T475
+R533	Speaker Arg1:T456 Arg2:T454
+R534	Cueing Arg1:T441 Arg2:T440
+R535	Addressee Arg1:T503 Arg2:T498
+R536	Speaker Arg1:T499 Arg2:T498
+R537	Cueing Arg1:T507 Arg2:T508
+R538	Speaker Arg1:T429 Arg2:T430
+R539	Cueing Arg1:T502 Arg2:T501
+R540	Cueing Arg1:T428 Arg2:T427
+R541	Speaker Arg1:T429 Arg2:T427
+R542	Cueing Arg1:T459 Arg2:T460
+R543	Cueing Arg1:T455 Arg2:T454
+R544	Cueing Arg1:T477 Arg2:T475
+R545	Speaker Arg1:T473 Arg2:T472
+R546	Speaker Arg1:T437 Arg2:T435
+R547	Addressee Arg1:T493 Arg2:T495
+R548	Speaker Arg1:T453 Arg2:T451
+R549	Addressee Arg1:T499 Arg2:T501
+R550	Speaker Arg1:T492 Arg2:T497
+R551	Cueing Arg1:T447 Arg2:T444
+R552	Speaker Arg1:T433 Arg2:T438
+R553	Speaker Arg1:T446 Arg2:T444
+R554	Speaker Arg1:T505 Arg2:T508
+R555	Speaker Arg1:T480 Arg2:T479
+R556	Cueing Arg1:T470 Arg2:T468
+R557	Addressee Arg1:T493 Arg2:T497
+R558	Speaker Arg1:T463 Arg2:T461
+R559	Speaker Arg1:T442 Arg2:T443
+R560	Speaker Arg1:T503 Arg2:T501
+R561	Speaker Arg1:T511 Arg2:T466
+R562	Speaker Arg1:T483 Arg2:T482
+R563	Cueing Arg1:T428 Arg2:T430
+R564	Addressee Arg1:T511 Arg2:T467
+R565	Cueing Arg1:T447 Arg2:T448
+R566	Addressee Arg1:T511 Arg2:T465
+R567	Addressee Arg1:T450 Arg2:T449
+R568	Speaker Arg1:T457 Arg2:T465
+R569	Speaker Arg1:T457 Arg2:T467
+R570	Speaker Arg1:T489 Arg2:T491
+R571	Addressee Arg1:T457 Arg2:T466
+R572	Addressee Arg1:T473 Arg2:T475
+R573	Speaker Arg1:T446 Arg2:T448
+R574	Addressee Arg1:T445 Arg2:T448
+R575	Addressee Arg1:T473 Arg2:T484
+R576	Addressee Arg1:T473 Arg2:T479
+R577	Addressee Arg1:T439 Arg2:T443
+R578	Speaker Arg1:T505 Arg2:T510
+R579	Addressee Arg1:T439 Arg2:T440
+R580	Addressee Arg1:T437 Arg2:T432
+R581	Speaker Arg1:T486 Arg2:T487
+R582	Addressee Arg1:T458 Arg2:T461
+R583	Cueing Arg1:T485 Arg2:T487
+R584	Addressee Arg1:T463 Arg2:T460
+R585	Addressee Arg1:T492 Arg2:T496
+R586	Addressee Arg1:T506 Arg2:T510
+R587	Addressee Arg1:T473 Arg2:T482
+R588	Addressee Arg1:T431 Arg2:T427
+R589	Addressee Arg1:T458 Arg2:T464
+R590	Addressee Arg1:T431 Arg2:T430
+R591	Addressee Arg1:T473 Arg2:T487
+R592	Addressee Arg1:T473 Arg2:T468
+R593	Addressee Arg1:T473 Arg2:T471
+R594	Speaker Arg1:T486 Arg2:T488
+R595	Addressee Arg1:T457 Arg2:T488
+R596	Cueing Arg1:T562 Arg2:T563
+R597	Cueing Arg1:T545 Arg2:T544
+R598	Speaker Arg1:T541 Arg2:T540
+R599	Speaker Arg1:T554 Arg2:T555
+R600	Speaker Arg1:T558 Arg2:T559
+R601	Speaker Arg1:T572 Arg2:T571
+R602	Speaker Arg1:T550 Arg2:T549
+R603	Speaker Arg1:T554 Arg2:T552
+R604	Cueing Arg1:T553 Arg2:T555
+R605	Cueing Arg1:T557 Arg2:T556
+R606	Addressee Arg1:T550 Arg2:T552
+R607	Cueing Arg1:T569 Arg2:T567
+R608	Addressee Arg1:T564 Arg2:T567
+R609	Cueing Arg1:T553 Arg2:T552
+R610	Cueing Arg1:T534 Arg2:T532
+R611	Speaker Arg1:T572 Arg2:T573
+R612	Cueing Arg1:T530 Arg2:T528
+R613	Cueing Arg1:T565 Arg2:T566
+R614	Addressee Arg1:T543 Arg2:T540
+R615	Speaker Arg1:T561 Arg2:T563
+R616	Cueing Arg1:T542 Arg2:T540
+R617	Addressee Arg1:T541 Arg2:T547
+R618	Cueing Arg1:T545 Arg2:T547
+R619	Cueing Arg1:T538 Arg2:T539
+R620	Addressee Arg1:T554 Arg2:T559
+R621	Cueing Arg1:T526 Arg2:T525
+R622	Cueing Arg1:T534 Arg2:T535
+R623	Cueing Arg1:T551 Arg2:T549
+R624	Cueing Arg1:T522 Arg2:T523
+R625	Speaker Arg1:T568 Arg2:T567
+R626	Addressee Arg1:T537 Arg2:T539
+R627	Cueing Arg1:T530 Arg2:T531
+R628	Speaker Arg1:T564 Arg2:T566
+R629	Speaker Arg1:T529 Arg2:T528
+R630	Speaker Arg1:T546 Arg2:T547
+R631	Speaker Arg1:T546 Arg2:T544
+R632	Speaker Arg1:T533 Arg2:T535
+R633	Cueing Arg1:T557 Arg2:T559
+R634	Speaker Arg1:T516 Arg2:T519
+R635	Speaker Arg1:T527 Arg2:T525
+R636	Addressee Arg1:T541 Arg2:T544
+R637	Speaker Arg1:T533 Arg2:T532
+R638	Speaker Arg1:T529 Arg2:T531
+R639	Speaker Arg1:T536 Arg2:T539
+R640	Speaker Arg1:T558 Arg2:T556
+R641	Addressee Arg1:T512 Arg2:T518
+R642	Speaker Arg1:T521 Arg2:T523
+R643	Addressee Arg1:T560 Arg2:T563
+R644	Addressee Arg1:T529 Arg2:T535
+R645	Addressee Arg1:T548 Arg2:T549
+R646	Cueing Arg1:T514 Arg2:T515
+R647	Speaker Arg1:T516 Arg2:T515
+R648	Addressee Arg1:T529 Arg2:T532
+R649	Cueing Arg1:T517 Arg2:T518
+R650	Speaker Arg1:T516 Arg2:T518
+R651	Addressee Arg1:T512 Arg2:T515
+R652	Addressee Arg1:T568 Arg2:T570
+R653	Addressee Arg1:T568 Arg2:T566
+R654	Addressee Arg1:T554 Arg2:T556
+R655	Addressee Arg1:T558 Arg2:T555
+R656	Addressee Arg1:T520 Arg2:T523
+R657	Addressee Arg1:T524 Arg2:T525
+R658	Speaker Arg1:T564 Arg2:T570
+R659	Addressee Arg1:T513 Arg2:T519
+R660	Addressee Arg1:T524 Arg2:T528
+R661	Cueing Arg1:T588 Arg2:T589
+R662	Speaker Arg1:T595 Arg2:T594
+R663	Cueing Arg1:T580 Arg2:T578
+R664	Speaker Arg1:T595 Arg2:T597
+R665	Addressee Arg1:T587 Arg2:T590
+R666	Speaker Arg1:T600 Arg2:T599
+R667	Speaker Arg1:T592 Arg2:T590
+R668	Addressee Arg1:T579 Arg2:T585
+R669	Speaker Arg1:T579 Arg2:T578
+R670	Speaker Arg1:T583 Arg2:T582
+R671	Addressee Arg1:T592 Arg2:T593
+R672	Cueing Arg1:T591 Arg2:T590
+R673	Cueing Arg1:T588 Arg2:T586
+R674	Addressee Arg1:T581 Arg2:T578
+R675	Cueing Arg1:T596 Arg2:T597
+R676	Speaker Arg1:T587 Arg2:T586
+R677	Cueing Arg1:T601 Arg2:T599
+R678	Speaker Arg1:T587 Arg2:T589
+R679	Cueing Arg1:T596 Arg2:T594
+R680	Addressee Arg1:T579 Arg2:T582
+R681	Speaker Arg1:T574 Arg2:T576
+R682	Speaker Arg1:T587 Arg2:T593
+R683	Addressee Arg1:T598 Arg2:T599
+R684	Speaker Arg1:T583 Arg2:T585
+R685	Cueing Arg1:T575 Arg2:T576
+R686	Cueing Arg1:T584 Arg2:T582
+R687	Cueing Arg1:T584 Arg2:T585
+R688	Addressee Arg1:T577 Arg2:T576
+R689	Cueing Arg1:T615 Arg2:T613
+R690	Speaker Arg1:T632 Arg2:T630
+R691	Addressee Arg1:T603 Arg2:T608
+R692	Speaker Arg1:T661 Arg2:T662
+R693	Addressee Arg1:T609 Arg2:T613
+R694	Speaker Arg1:T620 Arg2:T618
+R695	Cueing Arg1:T653 Arg2:T651
+R696	Addressee Arg1:T603 Arg2:T605
+R697	Addressee Arg1:T609 Arg2:T616
+R698	Addressee Arg1:T610 Arg2:T612
+R699	Speaker Arg1:T636 Arg2:T637
+R700	Cueing Arg1:T631 Arg2:T630
+R701	Speaker Arg1:T639 Arg2:T638
+R702	Speaker Arg1:T609 Arg2:T612
+R703	Speaker Arg1:T627 Arg2:T629
+R704	Addressee Arg1:T620 Arg2:T617
+R705	Speaker Arg1:T661 Arg2:T659
+R706	Cueing Arg1:T611 Arg2:T612
+R707	Cueing Arg1:T657 Arg2:T658
+R708	Speaker Arg1:T614 Arg2:T613
+R709	Cueing Arg1:T615 Arg2:T616
+R710	Addressee Arg1:T632 Arg2:T637
+R711	Addressee Arg1:T661 Arg2:T663
+R712	Speaker Arg1:T664 Arg2:T663
+R713	Speaker Arg1:T656 Arg2:T655
+R714	Addressee Arg1:T632 Arg2:T634
+R715	Addressee Arg1:T636 Arg2:T638
+R716	Speaker Arg1:T636 Arg2:T634
+R717	Speaker Arg1:T614 Arg2:T616
+R718	Cueing Arg1:T607 Arg2:T608
+R719	Cueing Arg1:T660 Arg2:T662
+R720	Speaker Arg1:T639 Arg2:T641
+R721	Cueing Arg1:T623 Arg2:T621
+R722	Addressee Arg1:T622 Arg2:T629
+R723	Speaker Arg1:T648 Arg2:T650
+R724	Cueing Arg1:T640 Arg2:T638
+R725	Speaker Arg1:T602 Arg2:T605
+R726	Cueing Arg1:T660 Arg2:T659
+R727	Cueing Arg1:T626 Arg2:T625
+R728	Speaker Arg1:T606 Arg2:T608
+R729	Addressee Arg1:T627 Arg2:T628
+R730	Addressee Arg1:T654 Arg2:T651
+R731	Addressee Arg1:T636 Arg2:T641
+R732	Speaker Arg1:T644 Arg2:T645
+R733	Speaker Arg1:T644 Arg2:T642
+R734	Speaker Arg1:T627 Arg2:T625
+R735	Speaker Arg1:T652 Arg2:T651
+R736	Cueing Arg1:T665 Arg2:T663
+R737	Speaker Arg1:T656 Arg2:T658
+R738	Cueing Arg1:T649 Arg2:T650
+R739	Cueing Arg1:T643 Arg2:T645
+R740	Addressee Arg1:T624 Arg2:T621
+R741	Speaker Arg1:T632 Arg2:T633
+R742	Speaker Arg1:T622 Arg2:T628
+R743	Addressee Arg1:T622 Arg2:T625
+R744	Cueing Arg1:T643 Arg2:T642
+R745	Cueing Arg1:T631 Arg2:T633
+R746	Cueing Arg1:T640 Arg2:T641
+R747	Cueing Arg1:T657 Arg2:T655
+R748	Cueing Arg1:T604 Arg2:T605
+R749	Speaker Arg1:T622 Arg2:T621
+R750	Cueing Arg1:T635 Arg2:T634
+R751	Cueing Arg1:T635 Arg2:T637
+R752	Addressee Arg1:T632 Arg2:T638
+R753	Addressee Arg1:T632 Arg2:T641
+R754	Addressee Arg1:T647 Arg2:T645
+R755	Addressee Arg1:T636 Arg2:T630
+R756	Addressee Arg1:T647 Arg2:T642
+R757	Addressee Arg1:T646 Arg2:T642
+R758	Addressee Arg1:T614 Arg2:T618
+R759	Speaker Arg1:T614 Arg2:T617
+R760	Addressee Arg1:T646 Arg2:T645
+R761	Addressee Arg1:T636 Arg2:T633
+R762	Speaker Arg1:T614 Arg2:T619
+R763	Addressee Arg1:T620 Arg2:T619
+R764	Speaker Arg1:T715 Arg2:T717
+R765	Cueing Arg1:T708 Arg2:T709
+R766	Speaker Arg1:T733 Arg2:T731
+R767	Cueing Arg1:T705 Arg2:T703
+R768	Cueing Arg1:T729 Arg2:T727
+R769	Addressee Arg1:T683 Arg2:T680
+R770	Cueing Arg1:T716 Arg2:T714
+R771	Addressee Arg1:T689 Arg2:T693
+R772	Cueing Arg1:T722 Arg2:T721
+R773	Cueing Arg1:T729 Arg2:T730
+R774	Addressee Arg1:T674 Arg2:T676
+R775	Addressee Arg1:T728 Arg2:T731
+R776	Speaker Arg1:T694 Arg2:T693
+R777	Addressee Arg1:T685 Arg2:T688
+R778	Speaker Arg1:T728 Arg2:T730
+R779	Addressee Arg1:T691 Arg2:T692
+R780	Speaker Arg1:T700 Arg2:T699
+R781	Cueing Arg1:T725 Arg2:T724
+R782	Speaker Arg1:T677 Arg2:T679
+R783	Speaker Arg1:T667 Arg2:T666
+R784	Speaker Arg1:T723 Arg2:T721
+R785	Speaker Arg1:T728 Arg2:T734
+R786	Addressee Arg1:T707 Arg2:T709
+R787	Cueing Arg1:T678 Arg2:T679
+R788	Speaker Arg1:T684 Arg2:T688
+R789	Cueing Arg1:T712 Arg2:T710
+R790	Cueing Arg1:T686 Arg2:T687
+R791	Speaker Arg1:T677 Arg2:T676
+R792	Speaker Arg1:T728 Arg2:T727
+R793	Speaker Arg1:T711 Arg2:T710
+R794	Cueing Arg1:T668 Arg2:T666
+R795	Speaker Arg1:T706 Arg2:T709
+R796	Cueing Arg1:T675 Arg2:T673
+R797	Speaker Arg1:T715 Arg2:T714
+R798	Speaker Arg1:T685 Arg2:T687
+R799	Cueing Arg1:T716 Arg2:T717
+R800	Addressee Arg1:T700 Arg2:T702
+R801	Cueing Arg1:T682 Arg2:T680
+R802	Addressee Arg1:T706 Arg2:T710
+R803	Cueing Arg1:T697 Arg2:T698
+R804	Cueing Arg1:T671 Arg2:T672
+R805	Cueing Arg1:T719 Arg2:T720
+R806	Speaker Arg1:T696 Arg2:T698
+R807	Speaker Arg1:T718 Arg2:T720
+R808	Cueing Arg1:T732 Arg2:T731
+R809	Cueing Arg1:T701 Arg2:T699
+R810	Speaker Arg1:T674 Arg2:T673
+R811	Speaker Arg1:T689 Arg2:T692
+R812	Cueing Arg1:T695 Arg2:T693
+R813	Addressee Arg1:T723 Arg2:T724
+R814	Speaker Arg1:T681 Arg2:T680
+R815	Cueing Arg1:T690 Arg2:T692
+R816	Cueing Arg1:T678 Arg2:T676
+R817	Speaker Arg1:T704 Arg2:T703
+R818	Addressee Arg1:T684 Arg2:T687
+R819	Speaker Arg1:T726 Arg2:T724
+R820	Addressee Arg1:T674 Arg2:T679
+R821	Addressee Arg1:T694 Arg2:T699
+R822	Addressee Arg1:T694 Arg2:T703
+R823	Speaker Arg1:T694 Arg2:T702
+R824	Speaker Arg1:T670 Arg2:T672
+R825	Addressee Arg1:T669 Arg2:T672
+R826	Addressee Arg1:T694 Arg2:T698
+R827	Addressee Arg1:T677 Arg2:T673
+R828	Addressee Arg1:T713 Arg2:T714
+R829	Addressee Arg1:T726 Arg2:T721
+R830	Addressee Arg1:T713 Arg2:T717
+R831	Addressee Arg1:T733 Arg2:T734
+R832	Speaker Arg1:T761 Arg2:T760
+R833	Speaker Arg1:T736 Arg2:T735
+R834	Addressee Arg1:T750 Arg2:T751
+R835	Speaker Arg1:T740 Arg2:T739
+R836	Addressee Arg1:T758 Arg2:T755
+R837	Speaker Arg1:T756 Arg2:T755
+R838	Speaker Arg1:T761 Arg2:T763
+R839	Cueing Arg1:T741 Arg2:T739
+R840	Cueing Arg1:T753 Arg2:T751
+R841	Speaker Arg1:T752 Arg2:T751
+R842	Cueing Arg1:T737 Arg2:T735
+R843	Speaker Arg1:T752 Arg2:T754
+R844	Cueing Arg1:T762 Arg2:T760
+R845	Addressee Arg1:T750 Arg2:T754
+R846	Cueing Arg1:T753 Arg2:T754
+R847	Cueing Arg1:T762 Arg2:T763
+R848	Speaker Arg1:T758 Arg2:T759
+R849	Cueing Arg1:T757 Arg2:T755
+R850	Addressee Arg1:T738 Arg2:T735
+R851	Addressee Arg1:T756 Arg2:T759
+R852	Speaker Arg1:T746 Arg2:T749
+R853	Addressee Arg1:T744 Arg2:T745
+R854	Addressee Arg1:T736 Arg2:T739
+R855	Cueing Arg1:T747 Arg2:T749
+R856	Speaker Arg1:T742 Arg2:T745
+R857	Cueing Arg1:T743 Arg2:T745
+R858	Addressee Arg1:T748 Arg2:T749
+R859	Cueing Arg1:T790 Arg2:T788
+R860	Addressee Arg1:T780 Arg2:T788
+R861	Cueing Arg1:T793 Arg2:T792
+R862	Cueing Arg1:T765 Arg2:T764
+R863	Addressee Arg1:T767 Arg2:T777
+R864	Addressee Arg1:T797 Arg2:T800
+R865	Cueing Arg1:T812 Arg2:T811
+R866	Speaker Arg1:T813 Arg2:T811
+R867	Speaker Arg1:T789 Arg2:T788
+R868	Cueing Arg1:T857 Arg2:T858
+R869	Speaker Arg1:T782 Arg2:T781
+R870	Addressee Arg1:T767 Arg2:T774
+R871	Speaker Arg1:T815 Arg2:T817
+R872	Addressee Arg1:T853 Arg2:T850
+R873	Addressee Arg1:T794 Arg2:T796
+R874	Speaker Arg1:T908 Arg2:T906
+R875	Speaker Arg1:T851 Arg2:T850
+R876	Cueing Arg1:T776 Arg2:T774
+R877	Speaker Arg1:T853 Arg2:T854
+R878	Speaker Arg1:T766 Arg2:T764
+R879	Cueing Arg1:T852 Arg2:T850
+R880	Addressee Arg1:T789 Arg2:T792
+R881	Speaker Arg1:T767 Arg2:T770
+R882	Speaker Arg1:T815 Arg2:T814
+R883	Speaker Arg1:T775 Arg2:T774
+R884	Speaker Arg1:T771 Arg2:T773
+R885	Speaker Arg1:T794 Arg2:T792
+R886	Speaker Arg1:T803 Arg2:T801
+R887	Addressee Arg1:T851 Arg2:T854
+R888	Cueing Arg1:T907 Arg2:T909
+R889	Addressee Arg1:T768 Arg2:T770
+R890	Addressee Arg1:T767 Arg2:T764
+R891	Speaker Arg1:T794 Arg2:T795
+R892	Addressee Arg1:T780 Arg2:T781
+R893	Cueing Arg1:T790 Arg2:T791
+R894	Addressee Arg1:T794 Arg2:T799
+R895	Addressee Arg1:T775 Arg2:T778
+R896	Speaker Arg1:T775 Arg2:T777
+R897	Speaker Arg1:T789 Arg2:T791
+R898	Addressee Arg1:T780 Arg2:T784
+R899	Speaker Arg1:T780 Arg2:T778
+R900	Cueing Arg1:T907 Arg2:T906
+R901	Speaker Arg1:T797 Arg2:T796
+R902	Cueing Arg1:T802 Arg2:T801
+R903	Cueing Arg1:T798 Arg2:T799
+R904	Speaker Arg1:T810 Arg2:T808
+R905	Cueing Arg1:T779 Arg2:T778
+R906	Cueing Arg1:T816 Arg2:T817
+R907	Cueing Arg1:T809 Arg2:T808
+R908	Addressee Arg1:T789 Arg2:T795
+R909	Cueing Arg1:T783 Arg2:T781
+R910	Cueing Arg1:T776 Arg2:T777
+R911	Speaker Arg1:T782 Arg2:T784
+R912	Cueing Arg1:T857 Arg2:T855
+R913	Speaker Arg1:T856 Arg2:T858
+R914	Speaker Arg1:T797 Arg2:T799
+R915	Cueing Arg1:T793 Arg2:T795
+R916	Speaker Arg1:T794 Arg2:T800
+R917	Cueing Arg1:T772 Arg2:T773
+R918	Addressee Arg1:T767 Arg2:T773
+R919	Cueing Arg1:T816 Arg2:T814
+R920	Speaker Arg1:T856 Arg2:T855
+R921	Cueing Arg1:T769 Arg2:T770
+R922	Cueing Arg1:T783 Arg2:T784
+R923	Speaker Arg1:T806 Arg2:T807
+R924	Addressee Arg1:T794 Arg2:T801
+R925	Addressee Arg1:T810 Arg2:T814
+R926	Cueing Arg1:T805 Arg2:T807
+R927	Cueing Arg1:T911 Arg2:T912
+R928	Addressee Arg1:T908 Arg2:T912
+R929	Addressee Arg1:T810 Arg2:T817
+R930	Speaker Arg1:T910 Arg2:T912
+R931	Addressee Arg1:T803 Arg2:T808
+R932	Cueing Arg1:T904 Arg2:T905
+R933	Addressee Arg1:T828 Arg2:T839
+R934	Cueing Arg1:T872 Arg2:T870
+R935	Speaker Arg1:T865 Arg2:T863
+R936	Addressee Arg1:T882 Arg2:T889
+R937	Addressee Arg1:T862 Arg2:T859
+R938	Speaker Arg1:T821 Arg2:T825
+R939	Speaker Arg1:T865 Arg2:T866
+R940	Speaker Arg1:T903 Arg2:T905
+R941	Addressee Arg1:T821 Arg2:T830
+R942	Addressee Arg1:T881 Arg2:T878
+R943	Speaker Arg1:T896 Arg2:T900
+R944	Cueing Arg1:T888 Arg2:T889
+R945	Speaker Arg1:T896 Arg2:T899
+R946	Cueing Arg1:T883 Arg2:T884
+R947	Cueing Arg1:T875 Arg2:T877
+R948	Addressee Arg1:T822 Arg2:T824
+R949	Cueing Arg1:T798 Arg2:T796
+R950	Speaker Arg1:T838 Arg2:T839
+R951	Addressee Arg1:T893 Arg2:T895
+R952	Speaker Arg1:T879 Arg2:T878
+R953	Speaker Arg1:T891 Arg2:T895
+R954	Addressee Arg1:T860 Arg2:T866
+R955	Speaker Arg1:T887 Arg2:T890
+R956	Speaker Arg1:T844 Arg2:T843
+R957	Speaker Arg1:T910 Arg2:T909
+R958	Addressee Arg1:T804 Arg2:T858
+R959	Cueing Arg1:T837 Arg2:T839
+R960	Addressee Arg1:T897 Arg2:T900
+R961	Speaker Arg1:T882 Arg2:T884
+R962	Cueing Arg1:T819 Arg2:T820
+R963	Addressee Arg1:T901 Arg2:T902
+R964	Cueing Arg1:T904 Arg2:T902
+R965	Addressee Arg1:T868 Arg2:T870
+R966	Cueing Arg1:T845 Arg2:T843
+R967	Cueing Arg1:T837 Arg2:T836
+R968	Speaker Arg1:T821 Arg2:T824
+R969	Cueing Arg1:T892 Arg2:T894
+R970	Speaker Arg1:T868 Arg2:T867
+R971	Speaker Arg1:T882 Arg2:T885
+R972	Speaker Arg1:T871 Arg2:T870
+R973	Cueing Arg1:T864 Arg2:T863
+R974	Addressee Arg1:T874 Arg2:T876
+R975	Speaker Arg1:T903 Arg2:T902
+R976	Addressee Arg1:T910 Arg2:T906
+R977	Addressee Arg1:T822 Arg2:T825
+R978	Speaker Arg1:T844 Arg2:T848
+R979	Addressee Arg1:T886 Arg2:T884
+R980	Speaker Arg1:T786 Arg2:T787
+R981	Addressee Arg1:T874 Arg2:T877
+R982	Addressee Arg1:T886 Arg2:T885
+R983	Cueing Arg1:T837 Arg2:T842
+R984	Addressee Arg1:T821 Arg2:T833
+R985	Cueing Arg1:T823 Arg2:T825
+R986	Addressee Arg1:T847 Arg2:T848
+R987	Speaker Arg1:T891 Arg2:T894
+R988	Addressee Arg1:T785 Arg2:T787
+R989	Speaker Arg1:T838 Arg2:T842
+R990	Cueing Arg1:T864 Arg2:T866
+R991	Cueing Arg1:T883 Arg2:T885
+R992	Addressee Arg1:T882 Arg2:T890
+R993	Cueing Arg1:T829 Arg2:T830
+R994	Speaker Arg1:T828 Arg2:T830
+R995	Cueing Arg1:T880 Arg2:T878
+R996	Speaker Arg1:T860 Arg2:T859
+R997	Cueing Arg1:T892 Arg2:T895
+R998	Speaker Arg1:T838 Arg2:T836
+R999	Addressee Arg1:T804 Arg2:T855
+R1000	Addressee Arg1:T847 Arg2:T843
+R1001	Addressee Arg1:T908 Arg2:T909
+R1002	Addressee Arg1:T828 Arg2:T842
+R1003	Cueing Arg1:T888 Arg2:T890
+R1004	Speaker Arg1:T818 Arg2:T820
+R1005	Cueing Arg1:T898 Arg2:T899
+R1006	Speaker Arg1:T873 Arg2:T877
+R1007	Addressee Arg1:T860 Arg2:T863
+R1008	Cueing Arg1:T875 Arg2:T876
+R1009	Addressee Arg1:T871 Arg2:T867
+R1010	Addressee Arg1:T893 Arg2:T894
+R1011	Cueing Arg1:T898 Arg2:T900
+R1012	Speaker Arg1:T873 Arg2:T876
+R1013	Addressee Arg1:T897 Arg2:T899
+R1014	Cueing Arg1:T861 Arg2:T859
+R1015	Speaker Arg1:T887 Arg2:T889
+R1016	Addressee Arg1:T828 Arg2:T836
+R1017	Speaker Arg1:T828 Arg2:T833
+R1018	Cueing Arg1:T869 Arg2:T867
+R1019	Cueing Arg1:T845 Arg2:T848
+R1020	Cueing Arg1:T823 Arg2:T824
+R1021	Addressee Arg1:T901 Arg2:T905
+R1022	Cueing Arg1:T829 Arg2:T833
+R1023	Addressee Arg1:T780 Arg2:T791
+R1024	Addressee Arg1:T810 Arg2:T811
+R1025	Addressee Arg1:T849 Arg2:T820
+R1026	Cueing Arg1:T955 Arg2:T954
+R1027	Speaker Arg1:T979 Arg2:T977
+R1028	Cueing Arg1:T987 Arg2:T985
+R1029	Cueing Arg1:T991 Arg2:T992
+R1030	Cueing Arg1:T935 Arg2:T934
+R1031	Addressee Arg1:T956 Arg2:T957
+R1032	Addressee Arg1:T1006 Arg2:T1009
+R1033	Cueing Arg1:T1010 Arg2:T1009
+R1034	Speaker Arg1:T945 Arg2:T943
+R1035	Speaker Arg1:T972 Arg2:T974
+R1036	Addressee Arg1:T953 Arg2:T954
+R1037	Addressee Arg1:T921 Arg2:T924
+R1038	Speaker Arg1:T1006 Arg2:T1008
+R1039	Addressee Arg1:T964 Arg2:T965
+R1040	Speaker Arg1:T986 Arg2:T985
+R1041	Addressee Arg1:T1035 Arg2:T1036
+R1042	Addressee Arg1:T967 Arg2:T968
+R1043	Speaker Arg1:T972 Arg2:T976
+R1044	Cueing Arg1:T919 Arg2:T917
+R1045	Speaker Arg1:T956 Arg2:T958
+R1046	Addressee Arg1:T972 Arg2:T975
+R1047	Speaker Arg1:T921 Arg2:T927
+R1048	Cueing Arg1:T1014 Arg2:T1012
+R1049	Cueing Arg1:T978 Arg2:T980
+R1050	Addressee Arg1:T967 Arg2:T976
+R1051	Speaker Arg1:T1030 Arg2:T1036
+R1052	Cueing Arg1:T966 Arg2:T965
+R1053	Speaker Arg1:T990 Arg2:T992
+R1054	Cueing Arg1:T925 Arg2:T924
+R1055	Addressee Arg1:T997 Arg2:T998
+R1056	Speaker Arg1:T953 Arg2:T959
+R1057	Addressee Arg1:T926 Arg2:T927
+R1058	Cueing Arg1:T1031 Arg2:T1032
+R1059	Addressee Arg1:T923 Arg2:T920
+R1060	Speaker Arg1:T990 Arg2:T989
+R1061	Speaker Arg1:T1011 Arg2:T1009
+R1062	Cueing Arg1:T991 Arg2:T989
+R1063	Cueing Arg1:T982 Arg2:T984
+R1064	Cueing Arg1:T999 Arg2:T998
+R1065	Addressee Arg1:T963 Arg2:T960
+R1066	Speaker Arg1:T1002 Arg2:T1005
+R1067	Addressee Arg1:T990 Arg2:T993
+R1068	Cueing Arg1:T973 Arg2:T974
+R1069	Speaker Arg1:T967 Arg2:T975
+R1070	Speaker Arg1:T953 Arg2:T957
+R1071	Addressee Arg1:T979 Arg2:T981
+R1072	Speaker Arg1:T1013 Arg2:T1012
+R1073	Speaker Arg1:T995 Arg2:T993
+R1074	Speaker Arg1:T946 Arg2:T948
+R1075	Speaker Arg1:T983 Arg2:T984
+R1076	Cueing Arg1:T939 Arg2:T941
+R1077	Speaker Arg1:T1030 Arg2:T1029
+R1078	Addressee Arg1:T983 Arg2:T985
+R1079	Cueing Arg1:T994 Arg2:T993
+R1080	Addressee Arg1:T979 Arg2:T984
+R1081	Speaker Arg1:T926 Arg2:T924
+R1082	Speaker Arg1:T983 Arg2:T981
+R1083	Addressee Arg1:T967 Arg2:T974
+R1084	Cueing Arg1:T939 Arg2:T938
+R1085	Speaker Arg1:T970 Arg2:T968
+R1086	Cueing Arg1:T982 Arg2:T981
+R1087	Speaker Arg1:T1035 Arg2:T1033
+R1088	Cueing Arg1:T962 Arg2:T960
+R1089	Speaker Arg1:T936 Arg2:T934
+R1090	Speaker Arg1:T926 Arg2:T928
+R1091	Addressee Arg1:T972 Arg2:T980
+R1092	Speaker Arg1:T961 Arg2:T960
+R1093	Speaker Arg1:T986 Arg2:T988
+R1094	Addressee Arg1:T1030 Arg2:T1033
+R1095	Speaker Arg1:T940 Arg2:T941
+R1096	Cueing Arg1:T1031 Arg2:T1029
+R1097	Cueing Arg1:T987 Arg2:T988
+R1098	Cueing Arg1:T978 Arg2:T977
+R1099	Cueing Arg1:T1003 Arg2:T1001
+R1100	Speaker Arg1:T940 Arg2:T938
+R1101	Speaker Arg1:T956 Arg2:T954
+R1102	Cueing Arg1:T931 Arg2:T930
+R1103	Cueing Arg1:T922 Arg2:T920
+R1104	Cueing Arg1:T1034 Arg2:T1033
+R1105	Cueing Arg1:T951 Arg2:T949
+R1106	Speaker Arg1:T932 Arg2:T930
+R1107	Speaker Arg1:T1002 Arg2:T1001
+R1108	Cueing Arg1:T1014 Arg2:T1016
+R1109	Speaker Arg1:T1013 Arg2:T1016
+R1110	Cueing Arg1:T1003 Arg2:T1005
+R1111	Speaker Arg1:T1000 Arg2:T998
+R1112	Addressee Arg1:T932 Arg2:T933
+R1113	Addressee Arg1:T972 Arg2:T977
+R1114	Cueing Arg1:T947 Arg2:T948
+R1115	Addressee Arg1:T983 Arg2:T988
+R1116	Addressee Arg1:T953 Arg2:T958
+R1117	Speaker Arg1:T921 Arg2:T920
+R1118	Addressee Arg1:T921 Arg2:T928
+R1119	Speaker Arg1:T979 Arg2:T980
+R1120	Cueing Arg1:T914 Arg2:T916
+R1121	Addressee Arg1:T952 Arg2:T948
+R1122	Speaker Arg1:T950 Arg2:T949
+R1123	Cueing Arg1:T969 Arg2:T968
+R1124	Addressee Arg1:T956 Arg2:T959
+R1125	Speaker Arg1:T967 Arg2:T965
+R1126	Speaker Arg1:T1030 Arg2:T1032
+R1127	Cueing Arg1:T944 Arg2:T943
+R1128	Addressee Arg1:T967 Arg2:T971
+R1129	Speaker Arg1:T918 Arg2:T917
+R1130	Cueing Arg1:T994 Arg2:T996
+R1131	Cueing Arg1:T1007 Arg2:T1008
+R1132	Addressee Arg1:T942 Arg2:T943
+R1133	Addressee Arg1:T983 Arg2:T992
+R1134	Addressee Arg1:T1004 Arg2:T1001
+R1135	Addressee Arg1:T952 Arg2:T949
+R1136	Addressee Arg1:T929 Arg2:T930
+R1137	Addressee Arg1:T937 Arg2:T941
+R1138	Speaker Arg1:T913 Arg2:T916
+R1139	Addressee Arg1:T1015 Arg2:T1032
+R1140	Speaker Arg1:T1018 Arg2:T1020
+R1141	Cueing Arg1:T1027 Arg2:T1028
+R1142	Addressee Arg1:T1015 Arg2:T1012
+R1143	Cueing Arg1:T969 Arg2:T971
+R1144	Addressee Arg1:T915 Arg2:T916
+R1145	Speaker Arg1:T1022 Arg2:T1024
+R1146	Speaker Arg1:T1026 Arg2:T1028
+R1147	Addressee Arg1:T1021 Arg2:T1024
+R1148	Addressee Arg1:T1017 Arg2:T1020
+R1149	Cueing Arg1:T1019 Arg2:T1020
+R1150	Addressee Arg1:T1015 Arg2:T1016
+R1151	Addressee Arg1:T1004 Arg2:T1005
+R1152	Cueing Arg1:T1023 Arg2:T1024
+R1153	Cueing Arg1:T1027 Arg2:T1025
+R1154	Speaker Arg1:T1026 Arg2:T1025
+R1155	Addressee Arg1:T1015 Arg2:T1029
+R1156	Speaker Arg1:T929 Arg2:T933
+R1157	Addressee Arg1:T937 Arg2:T938
+R1158	Speaker Arg1:T997 Arg2:T996
+R1159	Addressee Arg1:T995 Arg2:T996
+R1160	Addressee Arg1:T1004 Arg2:T1008
+R1161	Addressee Arg1:T913 Arg2:T917
+R1162	Addressee Arg1:T929 Arg2:T934
+R1163	Speaker Arg1:T970 Arg2:T971
+R1164	Speaker Arg1:T1092 Arg2:T1090
+R1165	Addressee Arg1:T1068 Arg2:T1072
+R1166	Cueing Arg1:T1070 Arg2:T1072
+R1167	Speaker Arg1:T1071 Arg2:T1069
+R1168	Cueing Arg1:T1091 Arg2:T1090
+R1169	Speaker Arg1:T1038 Arg2:T1037
+R1170	Speaker Arg1:T1094 Arg2:T1096
+R1171	Addressee Arg1:T1058 Arg2:T1054
+R1172	Speaker Arg1:T1063 Arg2:T1065
+R1173	Cueing Arg1:T1091 Arg2:T1093
+R1174	Cueing Arg1:T1055 Arg2:T1054
+R1175	Addressee Arg1:T1058 Arg2:T1061
+R1176	Speaker Arg1:T1056 Arg2:T1057
+R1177	Speaker Arg1:T1088 Arg2:T1089
+R1178	Cueing Arg1:T1055 Arg2:T1057
+R1179	Cueing Arg1:T1046 Arg2:T1045
+R1180	Cueing Arg1:T1095 Arg2:T1096
+R1181	Cueing Arg1:T1064 Arg2:T1062
+R1182	Addressee Arg1:T1058 Arg2:T1057
+R1183	Speaker Arg1:T1056 Arg2:T1054
+R1184	Addressee Arg1:T1081 Arg2:T1082
+R1185	Speaker Arg1:T1092 Arg2:T1093
+R1186	Speaker Arg1:T1084 Arg2:T1085
+R1187	Speaker Arg1:T1088 Arg2:T1086
+R1188	Cueing Arg1:T1060 Arg2:T1061
+R1189	Cueing Arg1:T1074 Arg2:T1076
+R1190	Speaker Arg1:T1071 Arg2:T1072
+R1191	Addressee Arg1:T1075 Arg2:T1077
+R1192	Addressee Arg1:T1058 Arg2:T1062
+R1193	Addressee Arg1:T1081 Arg2:T1085
+R1194	Speaker Arg1:T1038 Arg2:T1040
+R1195	Addressee Arg1:T1058 Arg2:T1065
+R1196	Cueing Arg1:T1083 Arg2:T1085
+R1197	Speaker Arg1:T1042 Arg2:T1041
+R1198	Speaker Arg1:T1075 Arg2:T1080
+R1199	Cueing Arg1:T1067 Arg2:T1066
+R1200	Cueing Arg1:T1043 Arg2:T1044
+R1201	Speaker Arg1:T1079 Arg2:T1077
+R1202	Addressee Arg1:T1071 Arg2:T1066
+R1203	Cueing Arg1:T1087 Arg2:T1089
+R1204	Cueing Arg1:T1039 Arg2:T1040
+R1205	Speaker Arg1:T1063 Arg2:T1062
+R1206	Speaker Arg1:T1084 Arg2:T1082
+R1207	Speaker Arg1:T1068 Arg2:T1066
+R1208	Speaker Arg1:T1075 Arg2:T1076
+R1209	Addressee Arg1:T1042 Arg2:T1045
+R1210	Cueing Arg1:T1064 Arg2:T1065
+R1211	Cueing Arg1:T1078 Arg2:T1077
+R1212	Cueing Arg1:T1087 Arg2:T1086
+R1213	Cueing Arg1:T1053 Arg2:T1051
+R1214	Addressee Arg1:T1068 Arg2:T1069
+R1215	Speaker Arg1:T1047 Arg2:T1045
+R1216	Speaker Arg1:T1075 Arg2:T1073
+R1217	Speaker Arg1:T1059 Arg2:T1061
+R1218	Cueing Arg1:T1083 Arg2:T1082
+R1219	Cueing Arg1:T1039 Arg2:T1037
+R1220	Cueing Arg1:T1043 Arg2:T1041
+R1221	Speaker Arg1:T1052 Arg2:T1051
+R1222	Cueing Arg1:T1074 Arg2:T1073
+R1223	Addressee Arg1:T1079 Arg2:T1080
+R1224	Speaker Arg1:T1042 Arg2:T1044
+R1225	Cueing Arg1:T1070 Arg2:T1069
+R1226	Speaker Arg1:T1048 Arg2:T1049
+R1227	Addressee Arg1:T1050 Arg2:T1049
+R1228	Addressee Arg1:T1068 Arg2:T1073
+R1229	Addressee Arg1:T1048 Arg2:T1037
+R1230	Addressee Arg1:T1048 Arg2:T1044
+R1231	Addressee Arg1:T1097 Arg2:T1096
+R1232	Addressee Arg1:T1068 Arg2:T1076
+R1233	Addressee Arg1:T1081 Arg2:T1090
+R1234	Addressee Arg1:T1081 Arg2:T1093
+R1235	Addressee Arg1:T1048 Arg2:T1041
+R1236	Addressee Arg1:T1048 Arg2:T1040
+R1237	Cueing Arg1:T1140 Arg2:T1138
+R1238	Speaker Arg1:T1139 Arg2:T1138
+R1239	Addressee Arg1:T1139 Arg2:T1142
+R1240	Cueing Arg1:T1120 Arg2:T1119
+R1241	Cueing Arg1:T1143 Arg2:T1145
+R1242	Addressee Arg1:T1121 Arg2:T1123
+R1243	Speaker Arg1:T1132 Arg2:T1131
+R1244	Speaker Arg1:T1155 Arg2:T1153
+R1245	Cueing Arg1:T1116 Arg2:T1114
+R1246	Speaker Arg1:T1099 Arg2:T1098
+R1247	Speaker Arg1:T1144 Arg2:T1142
+R1248	Cueing Arg1:T1108 Arg2:T1110
+R1249	Addressee Arg1:T1117 Arg2:T1118
+R1250	Speaker Arg1:T1103 Arg2:T1105
+R1251	Cueing Arg1:T1136 Arg2:T1137
+R1252	Cueing Arg1:T1154 Arg2:T1156
+R1253	Cueing Arg1:T1140 Arg2:T1141
+R1254	Cueing Arg1:T1100 Arg2:T1098
+R1255	Cueing Arg1:T1154 Arg2:T1153
+R1256	Addressee Arg1:T1135 Arg2:T1137
+R1257	Speaker Arg1:T1134 Arg2:T1137
+R1258	Speaker Arg1:T1115 Arg2:T1114
+R1259	Addressee Arg1:T1139 Arg2:T1145
+R1260	Cueing Arg1:T1151 Arg2:T1152
+R1261	Speaker Arg1:T1144 Arg2:T1145
+R1262	Cueing Arg1:T1108 Arg2:T1107
+R1263	Addressee Arg1:T1147 Arg2:T1149
+R1264	Speaker Arg1:T1158 Arg2:T1160
+R1265	Cueing Arg1:T1125 Arg2:T1124
+R1266	Speaker Arg1:T1155 Arg2:T1156
+R1267	Speaker Arg1:T1132 Arg2:T1133
+R1268	Cueing Arg1:T1116 Arg2:T1118
+R1269	Cueing Arg1:T1159 Arg2:T1160
+R1270	Speaker Arg1:T1115 Arg2:T1118
+R1271	Speaker Arg1:T1150 Arg2:T1152
+R1272	Addressee Arg1:T1117 Arg2:T1114
+R1273	Speaker Arg1:T1139 Arg2:T1141
+R1274	Speaker Arg1:T1121 Arg2:T1119
+R1275	Speaker Arg1:T1146 Arg2:T1149
+R1276	Cueing Arg1:T1162 Arg2:T1163
+R1277	Cueing Arg1:T1148 Arg2:T1149
+R1278	Addressee Arg1:T1134 Arg2:T1141
+R1279	Speaker Arg1:T1109 Arg2:T1107
+R1280	Addressee Arg1:T1147 Arg2:T1152
+R1281	Cueing Arg1:T1143 Arg2:T1142
+R1282	Speaker Arg1:T1126 Arg2:T1124
+R1283	Addressee Arg1:T1102 Arg2:T1105
+R1284	Speaker Arg1:T1161 Arg2:T1163
+R1285	Speaker Arg1:T1109 Arg2:T1110
+R1286	Addressee Arg1:T1134 Arg2:T1138
+R1287	Addressee Arg1:T1155 Arg2:T1160
+R1288	Addressee Arg1:T1129 Arg2:T1130
+R1289	Speaker Arg1:T1127 Arg2:T1130
+R1290	Addressee Arg1:T1106 Arg2:T1110
+R1291	Cueing Arg1:T1104 Arg2:T1105
+R1292	Addressee Arg1:T1106 Arg2:T1107
+R1293	Cueing Arg1:T1128 Arg2:T1130
+R1294	Addressee Arg1:T1122 Arg2:T1124
+R1295	Speaker Arg1:T1111 Arg2:T1113
+R1296	Addressee Arg1:T1157 Arg2:T1156
+R1297	Addressee Arg1:T1157 Arg2:T1153
+R1298	Cueing Arg1:T1112 Arg2:T1113
+R1299	Speaker Arg1:T1122 Arg2:T1123
+R1300	Addressee Arg1:T1126 Arg2:T1133
+R1301	Addressee Arg1:T1122 Arg2:T1119
+R1302	Addressee Arg1:T1126 Arg2:T1131
+R1303	Addressee Arg1:T1101 Arg2:T1098
+R1304	Speaker Arg1:T1183 Arg2:T1185
+R1305	Speaker Arg1:T1181 Arg2:T1179
+R1306	Cueing Arg1:T1184 Arg2:T1185
+R1307	Speaker Arg1:T1167 Arg2:T1170
+R1308	Cueing Arg1:T1177 Arg2:T1178
+R1309	Addressee Arg1:T1189 Arg2:T1190
+R1310	Addressee Arg1:T1216 Arg2:T1211
+R1311	Cueing Arg1:T1220 Arg2:T1222
+R1312	Speaker Arg1:T1221 Arg2:T1219
+R1313	Speaker Arg1:T1176 Arg2:T1178
+R1314	Addressee Arg1:T1193 Arg2:T1194
+R1315	Cueing Arg1:T1205 Arg2:T1204
+R1316	Cueing Arg1:T1172 Arg2:T1171
+R1317	Cueing Arg1:T1217 Arg2:T1215
+R1318	Addressee Arg1:T1216 Arg2:T1214
+R1319	Cueing Arg1:T1199 Arg2:T1198
+R1320	Speaker Arg1:T1176 Arg2:T1175
+R1321	Cueing Arg1:T1195 Arg2:T1194
+R1322	Cueing Arg1:T1188 Arg2:T1190
+R1323	Cueing Arg1:T1213 Arg2:T1214
+R1324	Speaker Arg1:T1164 Arg2:T1166
+R1325	Speaker Arg1:T1226 Arg2:T1224
+R1326	Cueing Arg1:T1180 Arg2:T1179
+R1327	Speaker Arg1:T1212 Arg2:T1211
+R1328	Cueing Arg1:T1192 Arg2:T1191
+R1329	Speaker Arg1:T1187 Arg2:T1190
+R1330	Speaker Arg1:T1173 Arg2:T1171
+R1331	Cueing Arg1:T1169 Arg2:T1170
+R1332	Addressee Arg1:T1193 Arg2:T1198
+R1333	Speaker Arg1:T1193 Arg2:T1191
+R1334	Speaker Arg1:T1206 Arg2:T1204
+R1335	Addressee Arg1:T1189 Arg2:T1186
+R1336	Addressee Arg1:T1174 Arg2:T1175
+R1337	Speaker Arg1:T1196 Arg2:T1194
+R1338	Speaker Arg1:T1212 Arg2:T1214
+R1339	Cueing Arg1:T1213 Arg2:T1211
+R1340	Addressee Arg1:T1174 Arg2:T1178
+R1341	Cueing Arg1:T1225 Arg2:T1224
+R1342	Speaker Arg1:T1200 Arg2:T1198
+R1343	Addressee Arg1:T1212 Arg2:T1215
+R1344	Addressee Arg1:T1168 Arg2:T1170
+R1345	Speaker Arg1:T1202 Arg2:T1201
+R1346	Cueing Arg1:T1165 Arg2:T1166
+R1347	Speaker Arg1:T1216 Arg2:T1215
+R1348	Cueing Arg1:T1203 Arg2:T1201
+R1349	Cueing Arg1:T1177 Arg2:T1175
+R1350	Speaker Arg1:T1221 Arg2:T1222
+R1351	Cueing Arg1:T1220 Arg2:T1219
+R1352	Addressee Arg1:T1182 Arg2:T1185
+R1353	Cueing Arg1:T1209 Arg2:T1207
+R1354	Cueing Arg1:T1209 Arg2:T1210
+R1355	Addressee Arg1:T1200 Arg2:T1201
+R1356	Speaker Arg1:T1208 Arg2:T1210
+R1357	Addressee Arg1:T1223 Arg2:T1224
+R1358	Speaker Arg1:T1208 Arg2:T1207
+R1359	Speaker Arg1:T1212 Arg2:T1218
+R1360	Addressee Arg1:T1196 Arg2:T1191
+R1361	Addressee Arg1:T1196 Arg2:T1197
+R1362	Cueing Arg1:T1188 Arg2:T1186
+R1363	Addressee Arg1:T1216 Arg2:T1218
+R1364	Addressee Arg1:T1182 Arg2:T1179
+R1365	Speaker Arg1:T1187 Arg2:T1186
+R1366	Speaker Arg1:T1193 Arg2:T1197
+R1367	Addressee Arg1:T1167 Arg2:T1171
+R1368	Cueing Arg1:T1252 Arg2:T1251
+R1369	Speaker Arg1:T1248 Arg2:T1247
+R1370	Cueing Arg1:T1229 Arg2:T1227
+R1371	Cueing Arg1:T1240 Arg2:T1241
+R1372	Speaker Arg1:T1253 Arg2:T1254
+R1373	Cueing Arg1:T1240 Arg2:T1238
+R1374	Cueing Arg1:T1267 Arg2:T1266
+R1375	Addressee Arg1:T1279 Arg2:T1276
+R1376	Speaker Arg1:T1278 Arg2:T1276
+R1377	Cueing Arg1:T1263 Arg2:T1264
+R1378	Addressee Arg1:T1265 Arg2:T1269
+R1379	Cueing Arg1:T1231 Arg2:T1232
+R1380	Addressee Arg1:T1260 Arg2:T1264
+R1381	Speaker Arg1:T1248 Arg2:T1250
+R1382	Speaker Arg1:T1268 Arg2:T1266
+R1383	Cueing Arg1:T1252 Arg2:T1254
+R1384	Speaker Arg1:T1239 Arg2:T1241
+R1385	Cueing Arg1:T1236 Arg2:T1234
+R1386	Cueing Arg1:T1243 Arg2:T1242
+R1387	Addressee Arg1:T1246 Arg2:T1250
+R1388	Speaker Arg1:T1271 Arg2:T1270
+R1389	Speaker Arg1:T1262 Arg2:T1261
+R1390	Speaker Arg1:T1244 Arg2:T1242
+R1391	Speaker Arg1:T1228 Arg2:T1227
+R1392	Cueing Arg1:T1277 Arg2:T1276
+R1393	Speaker Arg1:T1278 Arg2:T1280
+R1394	Addressee Arg1:T1279 Arg2:T1280
+R1395	Speaker Arg1:T1230 Arg2:T1232
+R1396	Speaker Arg1:T1268 Arg2:T1269
+R1397	Speaker Arg1:T1239 Arg2:T1238
+R1398	Cueing Arg1:T1272 Arg2:T1270
+R1399	Speaker Arg1:T1235 Arg2:T1234
+R1400	Addressee Arg1:T1265 Arg2:T1266
+R1401	Speaker Arg1:T1253 Arg2:T1251
+R1402	Addressee Arg1:T1260 Arg2:T1261
+R1403	Cueing Arg1:T1267 Arg2:T1269
+R1404	Addressee Arg1:T1237 Arg2:T1234
+R1405	Speaker Arg1:T1262 Arg2:T1264
+R1406	Addressee Arg1:T1248 Arg2:T1251
+R1407	Addressee Arg1:T1255 Arg2:T1257
+R1408	Addressee Arg1:T1245 Arg2:T1238
+R1409	Cueing Arg1:T1277 Arg2:T1280
+R1410	Speaker Arg1:T1273 Arg2:T1274
+R1411	Cueing Arg1:T1249 Arg2:T1250
+R1412	Addressee Arg1:T1248 Arg2:T1254
+R1413	Cueing Arg1:T1249 Arg2:T1247
+R1414	Addressee Arg1:T1255 Arg2:T1259
+R1415	Cueing Arg1:T1263 Arg2:T1261
+R1416	Addressee Arg1:T1246 Arg2:T1247
+R1417	Addressee Arg1:T1256 Arg2:T1258
+R1418	Addressee Arg1:T1245 Arg2:T1241
+R1419	Speaker Arg1:T1256 Arg2:T1257
+R1420	Addressee Arg1:T1275 Arg2:T1274
+R1421	Speaker Arg1:T1256 Arg2:T1259
+R1422	Addressee Arg1:T1233 Arg2:T1232
+R1423	Addressee Arg1:T1239 Arg2:T1242
+R1424	Speaker Arg1:T1255 Arg2:T1258
+R1425	Addressee Arg1:T1275 Arg2:T1270
+R1426	Speaker Arg1:T1282 Arg2:T1281
+R1427	Cueing Arg1:T1322 Arg2:T1320
+R1428	Addressee Arg1:T1293 Arg2:T1297
+R1429	Cueing Arg1:T1300 Arg2:T1298
+R1430	Cueing Arg1:T1283 Arg2:T1281
+R1431	Speaker Arg1:T1287 Arg2:T1288
+R1432	Cueing Arg1:T1333 Arg2:T1331
+R1433	Speaker Arg1:T1315 Arg2:T1313
+R1434	Speaker Arg1:T1317 Arg2:T1319
+R1435	Cueing Arg1:T1314 Arg2:T1313
+R1436	Speaker Arg1:T1307 Arg2:T1308
+R1437	Speaker Arg1:T1290 Arg2:T1289
+R1438	Speaker Arg1:T1332 Arg2:T1331
+R1439	Speaker Arg1:T1299 Arg2:T1298
+R1440	Cueing Arg1:T1296 Arg2:T1297
+R1441	Addressee Arg1:T1293 Arg2:T1294
+R1442	Cueing Arg1:T1306 Arg2:T1305
+R1443	Addressee Arg1:T1282 Arg2:T1288
+R1444	Speaker Arg1:T1311 Arg2:T1310
+R1445	Addressee Arg1:T1287 Arg2:T1292
+R1446	Speaker Arg1:T1307 Arg2:T1305
+R1447	Speaker Arg1:T1321 Arg2:T1320
+R1448	Cueing Arg1:T1302 Arg2:T1304
+R1449	Cueing Arg1:T1302 Arg2:T1301
+R1450	Speaker Arg1:T1317 Arg2:T1316
+R1451	Cueing Arg1:T1291 Arg2:T1292
+R1452	Cueing Arg1:T1286 Arg2:T1285
+R1453	Cueing Arg1:T1306 Arg2:T1308
+R1454	Addressee Arg1:T1309 Arg2:T1319
+R1455	Addressee Arg1:T1303 Arg2:T1305
+R1456	Addressee Arg1:T1311 Arg2:T1313
+R1457	Cueing Arg1:T1296 Arg2:T1294
+R1458	Speaker Arg1:T1332 Arg2:T1334
+R1459	Cueing Arg1:T1333 Arg2:T1334
+R1460	Cueing Arg1:T1327 Arg2:T1326
+R1461	Cueing Arg1:T1318 Arg2:T1316
+R1462	Cueing Arg1:T1291 Arg2:T1289
+R1463	Speaker Arg1:T1290 Arg2:T1292
+R1464	Addressee Arg1:T1299 Arg2:T1301
+R1465	Speaker Arg1:T1295 Arg2:T1297
+R1466	Cueing Arg1:T1318 Arg2:T1319
+R1467	Addressee Arg1:T1287 Arg2:T1289
+R1468	Speaker Arg1:T1328 Arg2:T1326
+R1469	Addressee Arg1:T1324 Arg2:T1326
+R1470	Speaker Arg1:T1303 Arg2:T1301
+R1471	Speaker Arg1:T1303 Arg2:T1304
+R1472	Cueing Arg1:T1286 Arg2:T1288
+R1473	Cueing Arg1:T1283 Arg2:T1284
+R1474	Speaker Arg1:T1282 Arg2:T1284
+R1475	Speaker Arg1:T1328 Arg2:T1329
+R1476	Addressee Arg1:T1309 Arg2:T1316
+R1477	Speaker Arg1:T1287 Arg2:T1285
+R1478	Speaker Arg1:T1295 Arg2:T1294
+R1479	Cueing Arg1:T1325 Arg2:T1323
+R1480	Cueing Arg1:T1312 Arg2:T1310
+R1481	Addressee Arg1:T1309 Arg2:T1310
+R1482	Speaker Arg1:T1324 Arg2:T1323
+R1483	Addressee Arg1:T1303 Arg2:T1308
+R1484	Addressee Arg1:T1324 Arg2:T1329
+R1485	Addressee Arg1:T1299 Arg2:T1304
+R1486	Cueing Arg1:T1327 Arg2:T1329
+R1487	Addressee Arg1:T1282 Arg2:T1285
+R1488	Addressee Arg1:T1287 Arg2:T1284
+R1489	Addressee Arg1:T1330 Arg2:T1331
+R1490	Addressee Arg1:T1330 Arg2:T1334
+R1491	Addressee Arg1:T1328 Arg2:T1323
+R1492	Addressee Arg1:T1287 Arg2:T1281
+R1493	Addressee Arg1:T1303 Arg2:T1298
+R1494	Cueing Arg1:T1382 Arg2:T1381
+R1495	Cueing Arg1:T1358 Arg2:T1360
+R1496	Speaker Arg1:T1414 Arg2:T1412
+R1497	Cueing Arg1:T1418 Arg2:T1419
+R1498	Cueing Arg1:T1409 Arg2:T1410
+R1499	Addressee Arg1:T1411 Arg2:T1419
+R1500	Addressee Arg1:T1354 Arg2:T1355
+R1501	Speaker Arg1:T1345 Arg2:T1343
+R1502	Speaker Arg1:T1420 Arg2:T1423
+R1503	Speaker Arg1:T1335 Arg2:T1338
+R1504	Cueing Arg1:T1422 Arg2:T1423
+R1505	Cueing Arg1:T1363 Arg2:T1362
+R1506	Addressee Arg1:T1398 Arg2:T1402
+R1507	Speaker Arg1:T1390 Arg2:T1388
+R1508	Speaker Arg1:T1426 Arg2:T1425
+R1509	Cueing Arg1:T1389 Arg2:T1391
+R1510	Cueing Arg1:T1358 Arg2:T1357
+R1511	Cueing Arg1:T1409 Arg2:T1407
+R1512	Speaker Arg1:T1408 Arg2:T1410
+R1513	Addressee Arg1:T1367 Arg2:T1369
+R1514	Addressee Arg1:T1354 Arg2:T1352
+R1515	Speaker Arg1:T1408 Arg2:T1407
+R1516	Addressee Arg1:T1361 Arg2:T1362
+R1517	Addressee Arg1:T1411 Arg2:T1416
+R1518	Speaker Arg1:T1383 Arg2:T1385
+R1519	Speaker Arg1:T1359 Arg2:T1357
+R1520	Speaker Arg1:T1349 Arg2:T1350
+R1521	Cueing Arg1:T1427 Arg2:T1425
+R1522	Cueing Arg1:T1389 Arg2:T1388
+R1523	Speaker Arg1:T1359 Arg2:T1360
+R1524	Cueing Arg1:T1348 Arg2:T1347
+R1525	Addressee Arg1:T1398 Arg2:T1399
+R1526	Addressee Arg1:T1411 Arg2:T1412
+R1527	Addressee Arg1:T1421 Arg2:T1423
+R1528	Cueing Arg1:T1397 Arg2:T1396
+R1529	Cueing Arg1:T1378 Arg2:T1377
+R1530	Addressee Arg1:T1424 Arg2:T1430
+R1531	Cueing Arg1:T1344 Arg2:T1343
+R1532	Speaker Arg1:T1426 Arg2:T1428
+R1533	Addressee Arg1:T1404 Arg2:T1406
+R1534	Addressee Arg1:T1411 Arg2:T1415
+R1535	Speaker Arg1:T1401 Arg2:T1402
+R1536	Addressee Arg1:T1374 Arg2:T1376
+R1537	Cueing Arg1:T1427 Arg2:T1428
+R1538	Addressee Arg1:T1426 Arg2:T1429
+R1539	Addressee Arg1:T1356 Arg2:T1360
+R1540	Addressee Arg1:T1361 Arg2:T1365
+R1541	Addressee Arg1:T1383 Arg2:T1384
+R1542	Speaker Arg1:T1364 Arg2:T1365
+R1543	Speaker Arg1:T1417 Arg2:T1416
+R1544	Speaker Arg1:T1390 Arg2:T1391
+R1545	Addressee Arg1:T1379 Arg2:T1380
+R1546	Speaker Arg1:T1383 Arg2:T1381
+R1547	Speaker Arg1:T1371 Arg2:T1369
+R1548	Speaker Arg1:T1379 Arg2:T1377
+R1549	Cueing Arg1:T1337 Arg2:T1338
+R1550	Speaker Arg1:T1401 Arg2:T1399
+R1551	Speaker Arg1:T1353 Arg2:T1355
+R1552	Speaker Arg1:T1398 Arg2:T1396
+R1553	Speaker Arg1:T1353 Arg2:T1352
+R1554	Cueing Arg1:T1363 Arg2:T1365
+R1555	Addressee Arg1:T1336 Arg2:T1338
+R1556	Cueing Arg1:T1405 Arg2:T1406
+R1557	Cueing Arg1:T1413 Arg2:T1412
+R1558	Speaker Arg1:T1349 Arg2:T1347
+R1559	Cueing Arg1:T1375 Arg2:T1376
+R1560	Cueing Arg1:T1370 Arg2:T1372
+R1561	Speaker Arg1:T1364 Arg2:T1362
+R1562	Speaker Arg1:T1426 Arg2:T1430
+R1563	Speaker Arg1:T1395 Arg2:T1393
+R1564	Cueing Arg1:T1368 Arg2:T1366
+R1565	Addressee Arg1:T1356 Arg2:T1357
+R1566	Cueing Arg1:T1418 Arg2:T1416
+R1567	Speaker Arg1:T1424 Arg2:T1429
+R1568	Cueing Arg1:T1413 Arg2:T1415
+R1569	Cueing Arg1:T1394 Arg2:T1393
+R1570	Speaker Arg1:T1403 Arg2:T1406
+R1571	Addressee Arg1:T1424 Arg2:T1428
+R1572	Speaker Arg1:T1417 Arg2:T1419
+R1573	Cueing Arg1:T1348 Arg2:T1350
+R1574	Speaker Arg1:T1414 Arg2:T1415
+R1575	Speaker Arg1:T1367 Arg2:T1366
+R1576	Cueing Arg1:T1400 Arg2:T1399
+R1577	Speaker Arg1:T1371 Arg2:T1372
+R1578	Cueing Arg1:T1370 Arg2:T1369
+R1579	Addressee Arg1:T1367 Arg2:T1372
+R1580	Speaker Arg1:T1373 Arg2:T1376
+R1581	Addressee Arg1:T1340 Arg2:T1341
+R1582	Cueing Arg1:T1400 Arg2:T1402
+R1583	Addressee Arg1:T1392 Arg2:T1393
+R1584	Speaker Arg1:T1339 Arg2:T1341
+R1585	Addressee Arg1:T1364 Arg2:T1366
+R1586	Addressee Arg1:T1351 Arg2:T1347
+R1587	Addressee Arg1:T1387 Arg2:T1391
+R1588	Speaker Arg1:T1373 Arg2:T1380
+R1589	Addressee Arg1:T1379 Arg2:T1385
+R1590	Addressee Arg1:T1424 Arg2:T1425
+R1591	Addressee Arg1:T1342 Arg2:T1343
+R1592	Addressee Arg1:T1387 Arg2:T1388
+R1593	Speaker Arg1:T1379 Arg2:T1384
+R1594	Addressee Arg1:T1345 Arg2:T1346
+R1595	Speaker Arg1:T1342 Arg2:T1346
+R1596	Addressee Arg1:T1379 Arg2:T1381
+R1597	Addressee Arg1:T1403 Arg2:T1407
+R1598	Addressee Arg1:T1351 Arg2:T1350
+R1599	Addressee Arg1:T1403 Arg2:T1410
+R1600	Addressee Arg1:T1401 Arg2:T1396
+R1601	Addressee Arg1:T1374 Arg2:T1377
+R1602	Addressee Arg1:T1446 Arg2:T1443
+R1603	Addressee Arg1:T1446 Arg2:T1454
+R1604	Cueing Arg1:T1432 Arg2:T1433
+R1605	Speaker Arg1:T1468 Arg2:T1470
+R1606	Addressee Arg1:T1438 Arg2:T1439
+R1607	Speaker Arg1:T1448 Arg2:T1450
+R1608	Addressee Arg1:T1431 Arg2:T1434
+R1609	Speaker Arg1:T1436 Arg2:T1434
+R1610	Cueing Arg1:T1466 Arg2:T1464
+R1611	Cueing Arg1:T1440 Arg2:T1439
+R1612	Addressee Arg1:T1436 Arg2:T1433
+R1613	Addressee Arg1:T1446 Arg2:T1447
+R1614	Cueing Arg1:T1435 Arg2:T1434
+R1615	Cueing Arg1:T1444 Arg2:T1447
+R1616	Addressee Arg1:T1446 Arg2:T1451
+R1617	Cueing Arg1:T1444 Arg2:T1443
+R1618	Speaker Arg1:T1431 Arg2:T1433
+R1619	Cueing Arg1:T1453 Arg2:T1454
+R1620	Addressee Arg1:T1446 Arg2:T1463
+R1621	Speaker Arg1:T1458 Arg2:T1460
+R1622	Addressee Arg1:T1436 Arg2:T1437
+R1623	Cueing Arg1:T1466 Arg2:T1467
+R1624	Cueing Arg1:T1440 Arg2:T1442
+R1625	Speaker Arg1:T1461 Arg2:T1463
+R1626	Speaker Arg1:T1445 Arg2:T1447
+R1627	Cueing Arg1:T1469 Arg2:T1470
+R1628	Speaker Arg1:T1465 Arg2:T1467
+R1629	Speaker Arg1:T1455 Arg2:T1457
+R1630	Speaker Arg1:T1452 Arg2:T1454
+R1631	Cueing Arg1:T1462 Arg2:T1463
+R1632	Addressee Arg1:T1438 Arg2:T1442
+R1633	Speaker Arg1:T1465 Arg2:T1464
+R1634	Speaker Arg1:T1445 Arg2:T1443
+R1635	Speaker Arg1:T1441 Arg2:T1439
+R1636	Cueing Arg1:T1449 Arg2:T1450
+R1637	Cueing Arg1:T1459 Arg2:T1460
+R1638	Addressee Arg1:T1446 Arg2:T1460
+R1639	Speaker Arg1:T1452 Arg2:T1451
+R1640	Cueing Arg1:T1453 Arg2:T1451
+R1641	Speaker Arg1:T1441 Arg2:T1442
+R1642	Addressee Arg1:T1446 Arg2:T1450
+R1643	Speaker Arg1:T1431 Arg2:T1437
+R1644	Addressee Arg1:T1446 Arg2:T1464
+R1645	Addressee Arg1:T1446 Arg2:T1467
+R1646	Addressee Arg1:T1446 Arg2:T1470
+R1647	Addressee Arg1:T1446 Arg2:T1457
+R1648	Cueing Arg1:T1456 Arg2:T1457
+R1649	Speaker Arg1:T1486 Arg2:T1488
+R1650	Addressee Arg1:T1532 Arg2:T1535
+R1651	Addressee Arg1:T1503 Arg2:T1500
+R1652	Speaker Arg1:T1532 Arg2:T1534
+R1653	Addressee Arg1:T1518 Arg2:T1523
+R1654	Cueing Arg1:T1575 Arg2:T1573
+R1655	Cueing Arg1:T1525 Arg2:T1526
+R1656	Speaker Arg1:T1558 Arg2:T1560
+R1657	Speaker Arg1:T1566 Arg2:T1565
+R1658	Addressee Arg1:T1511 Arg2:T1513
+R1659	Cueing Arg1:T1490 Arg2:T1489
+R1660	Cueing Arg1:T1556 Arg2:T1557
+R1661	Speaker Arg1:T1482 Arg2:T1483
+R1662	Cueing Arg1:T1567 Arg2:T1565
+R1663	Speaker Arg1:T1474 Arg2:T1475
+R1664	Addressee Arg1:T1527 Arg2:T1528
+R1665	Speaker Arg1:T1541 Arg2:T1540
+R1666	Speaker Arg1:T1530 Arg2:T1535
+R1667	Speaker Arg1:T1524 Arg2:T1526
+R1668	Speaker Arg1:T1541 Arg2:T1543
+R1669	Speaker Arg1:T1515 Arg2:T1516
+R1670	Cueing Arg1:T1481 Arg2:T1483
+R1671	Addressee Arg1:T1505 Arg2:T1506
+R1672	Addressee Arg1:T1555 Arg2:T1557
+R1673	Speaker Arg1:T1546 Arg2:T1548
+R1674	Cueing Arg1:T1551 Arg2:T1549
+R1675	Speaker Arg1:T1530 Arg2:T1528
+R1676	Speaker Arg1:T1532 Arg2:T1531
+R1677	Cueing Arg1:T1542 Arg2:T1543
+R1678	Addressee Arg1:T1503 Arg2:T1504
+R1679	Cueing Arg1:T1551 Arg2:T1553
+R1680	Addressee Arg1:T1486 Arg2:T1492
+R1681	Speaker Arg1:T1507 Arg2:T1509
+R1682	Speaker Arg1:T1486 Arg2:T1493
+R1683	Speaker Arg1:T1532 Arg2:T1538
+R1684	Addressee Arg1:T1530 Arg2:T1534
+R1685	Speaker Arg1:T1518 Arg2:T1520
+R1686	Cueing Arg1:T1508 Arg2:T1509
+R1687	Cueing Arg1:T1490 Arg2:T1492
+R1688	Speaker Arg1:T1507 Arg2:T1506
+R1689	Cueing Arg1:T1481 Arg2:T1480
+R1690	Cueing Arg1:T1473 Arg2:T1472
+R1691	Cueing Arg1:T1485 Arg2:T1488
+R1692	Speaker Arg1:T1532 Arg2:T1536
+R1693	Speaker Arg1:T1566 Arg2:T1568
+R1694	Speaker Arg1:T1515 Arg2:T1513
+R1695	Speaker Arg1:T1502 Arg2:T1500
+R1696	Addressee Arg1:T1562 Arg2:T1565
+R1697	Cueing Arg1:T1567 Arg2:T1568
+R1698	Addressee Arg1:T1532 Arg2:T1537
+R1699	Speaker Arg1:T1491 Arg2:T1489
+R1700	Cueing Arg1:T1508 Arg2:T1506
+R1701	Cueing Arg1:T1501 Arg2:T1504
+R1702	Speaker Arg1:T1474 Arg2:T1472
+R1703	Addressee Arg1:T1530 Arg2:T1531
+R1704	Addressee Arg1:T1487 Arg2:T1488
+R1705	Speaker Arg1:T1491 Arg2:T1494
+R1706	Addressee Arg1:T1517 Arg2:T1520
+R1707	Addressee Arg1:T1554 Arg2:T1560
+R1708	Addressee Arg1:T1486 Arg2:T1489
+R1709	Speaker Arg1:T1482 Arg2:T1480
+R1710	Addressee Arg1:T1562 Arg2:T1568
+R1711	Addressee Arg1:T1487 Arg2:T1484
+R1712	Cueing Arg1:T1519 Arg2:T1520
+R1713	Speaker Arg1:T1574 Arg2:T1573
+R1714	Cueing Arg1:T1533 Arg2:T1531
+R1715	Speaker Arg1:T1546 Arg2:T1545
+R1716	Cueing Arg1:T1512 Arg2:T1510
+R1717	Addressee Arg1:T1476 Arg2:T1483
+R1718	Cueing Arg1:T1473 Arg2:T1475
+R1719	Addressee Arg1:T1530 Arg2:T1538
+R1720	Speaker Arg1:T1496 Arg2:T1499
+R1721	Cueing Arg1:T1501 Arg2:T1500
+R1722	Addressee Arg1:T1552 Arg2:T1553
+R1723	Speaker Arg1:T1577 Arg2:T1576
+R1724	Cueing Arg1:T1578 Arg2:T1576
+R1725	Addressee Arg1:T1552 Arg2:T1549
+R1726	Addressee Arg1:T1530 Arg2:T1536
+R1727	Cueing Arg1:T1529 Arg2:T1528
+R1728	Speaker Arg1:T1562 Arg2:T1564
+R1729	Speaker Arg1:T1550 Arg2:T1553
+R1730	Speaker Arg1:T1491 Arg2:T1492
+R1731	Addressee Arg1:T1539 Arg2:T1543
+R1732	Addressee Arg1:T1579 Arg2:T1576
+R1733	Addressee Arg1:T1579 Arg2:T1580
+R1734	Speaker Arg1:T1550 Arg2:T1549
+R1735	Cueing Arg1:T1547 Arg2:T1548
+R1736	Addressee Arg1:T1505 Arg2:T1509
+R1737	Speaker Arg1:T1511 Arg2:T1510
+R1738	Speaker Arg1:T1554 Arg2:T1557
+R1739	Addressee Arg1:T1491 Arg2:T1493
+R1740	Addressee Arg1:T1476 Arg2:T1480
+R1741	Speaker Arg1:T1496 Arg2:T1495
+R1742	Cueing Arg1:T1578 Arg2:T1580
+R1743	Cueing Arg1:T1542 Arg2:T1540
+R1744	Speaker Arg1:T1577 Arg2:T1580
+R1745	Speaker Arg1:T1521 Arg2:T1523
+R1746	Cueing Arg1:T1522 Arg2:T1523
+R1747	Cueing Arg1:T1559 Arg2:T1560
+R1748	Speaker Arg1:T1502 Arg2:T1504
+R1749	Speaker Arg1:T1562 Arg2:T1561
+R1750	Addressee Arg1:T1486 Arg2:T1494
+R1751	Addressee Arg1:T1511 Arg2:T1516
+R1752	Cueing Arg1:T1514 Arg2:T1516
+R1753	Cueing Arg1:T1514 Arg2:T1513
+R1754	Cueing Arg1:T1485 Arg2:T1484
+R1755	Speaker Arg1:T1486 Arg2:T1484
+R1756	Addressee Arg1:T1569 Arg2:T1573
+R1757	Speaker Arg1:T1476 Arg2:T1479
+R1758	Cueing Arg1:T1547 Arg2:T1545
+R1759	Addressee Arg1:T1569 Arg2:T1572
+R1760	Addressee Arg1:T1498 Arg2:T1499
+R1761	Speaker Arg1:T1570 Arg2:T1572
+R1762	Cueing Arg1:T1563 Arg2:T1564
+R1763	Addressee Arg1:T1544 Arg2:T1545
+R1764	Cueing Arg1:T1563 Arg2:T1561
+R1765	Cueing Arg1:T1477 Arg2:T1479
+R1766	Addressee Arg1:T1544 Arg2:T1548
+R1767	Addressee Arg1:T1498 Arg2:T1495
+R1768	Cueing Arg1:T1497 Arg2:T1499
+R1769	Cueing Arg1:T1571 Arg2:T1572
+R1770	Cueing Arg1:T1497 Arg2:T1495
+R1771	Addressee Arg1:T1478 Arg2:T1479
+R1772	Addressee Arg1:T1566 Arg2:T1561
+R1773	Speaker Arg1:T1530 Arg2:T1537
+R1774	Addressee Arg1:T1566 Arg2:T1564
+R1775	Addressee Arg1:T1539 Arg2:T1540
+R1776	Addressee Arg1:T1471 Arg2:T1472
+R1777	Cueing Arg1:T1533 Arg2:T1534
+R1778	Addressee Arg1:T1471 Arg2:T1475
+R1779	Addressee Arg1:T1515 Arg2:T1510
+R1780	Cueing Arg1:T1591 Arg2:T1590
+R1781	Cueing Arg1:T1591 Arg2:T1593
+R1782	Cueing Arg1:T1608 Arg2:T1607
+R1783	Speaker Arg1:T1605 Arg2:T1603
+R1784	Cueing Arg1:T1587 Arg2:T1588
+R1785	Speaker Arg1:T1586 Arg2:T1588
+R1786	Speaker Arg1:T1592 Arg2:T1593
+R1787	Cueing Arg1:T1601 Arg2:T1602
+R1788	Addressee Arg1:T1598 Arg2:T1602
+R1789	Speaker Arg1:T1592 Arg2:T1590
+R1790	Cueing Arg1:T1595 Arg2:T1596
+R1791	Addressee Arg1:T1598 Arg2:T1599
+R1792	Cueing Arg1:T1601 Arg2:T1599
+R1793	Speaker Arg1:T1600 Arg2:T1599
+R1794	Addressee Arg1:T1585 Arg2:T1588
+R1795	Speaker Arg1:T1609 Arg2:T1607
+R1796	Cueing Arg1:T1604 Arg2:T1603
+R1797	Speaker Arg1:T1600 Arg2:T1602
+R1798	Speaker Arg1:T1605 Arg2:T1606
+R1799	Cueing Arg1:T1604 Arg2:T1606
+R1800	Speaker Arg1:T1594 Arg2:T1596
+R1801	Addressee Arg1:T1589 Arg2:T1590
+R1802	Addressee Arg1:T1589 Arg2:T1593
+R1803	Addressee Arg1:T1581 Arg2:T1584
+R1804	Addressee Arg1:T1605 Arg2:T1607
+R1805	Addressee Arg1:T1609 Arg2:T1606
+R1806	Addressee Arg1:T1609 Arg2:T1603
+R1807	Speaker Arg1:T1582 Arg2:T1584
+R1808	Addressee Arg1:T1597 Arg2:T1596
+R1809	Cueing Arg1:T1583 Arg2:T1584

@@ -1,0 +1,59 @@
+{
+  "threshold": 0.9,
+  "TP": 9,
+  "FP": 0,
+  "FN": 4,
+  "n_pred": 9,
+  "n_gold": 13,
+  "matched_gold": 9,
+  "precision": 1.0,
+  "recall": 0.6923076923076923,
+  "f1": 0.8181818181818181,
+  "predictions": [
+    {
+      "string": "Icantellyounothing,AuntJuley.Iknownomorethanyoudo.Wemet--weonlymetthefatherandmotherabroadlastspring.IknowsolittlethatIdidntevenknowtheirsonsname.Itsallso--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inthatcaseitisfartoosudden.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whoknows,AuntJuley,whoknows?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "But,Margaretdear,Imeanwemustntbeunpracticalnowthatwevecometofacts.Itistoosudden,surely.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whoknows!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButMargaretdear--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illgoforherotherletters,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,Iwont,Illfinishmybreakfast.Infact,Ihaventthem.WemettheWilcoxesonanawfulexpeditionthatwemadefromHeidelbergtoSpeyer.HelenandIhadgotitintoourheadsthattherewasagrandoldcathedralatSpeyer--theArchbishopofSpeyerwasoneofthesevenelectors--youknow--Speyer,Maintz,andKoln.ThosethreeseesoncecommandedtheRhineValleyandgotitthenameofPriestStreet.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Istillfeelquiteuneasyaboutthisbusiness,Margaret.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

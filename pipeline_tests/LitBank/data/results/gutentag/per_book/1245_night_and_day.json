@@ -1,0 +1,99 @@
+{
+  "threshold": 0.9,
+  "TP": 7,
+  "FP": 10,
+  "FN": 13,
+  "n_pred": 17,
+  "n_gold": 20,
+  "matched_gold": 7,
+  "precision": 0.4117647058823529,
+  "recall": 0.35,
+  "f1": 0.37837837837837834,
+  "predictions": [
+    {
+      "string": "Mr.Denham,mother,shesaidaloud,forshesawthathermotherhadforgottenhisname.",
+      "best_similarity": 0.382,
+      "correct": false
+    },
+    {
+      "string": "Now,whatwouldyoudoifyouweremarriedtoanengineer,andhadtoliveinManchester,Mr.Denham?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IstherenoretiredschoolmasterormanoflettersinManchesterwithwhomshecouldreadPersian?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AcousinofourshasmarriedandgonetoliveinManchester,Katharineexplained.Mr.Denhammutteredsomething,whichwasindeedallthatwasrequiredofhim,andthenovelistwentonwherehehadleftoff.Privately,Mr.Denhamcursedhimselfverysharplyforhavingexchangedthefreedomofthestreetforthissophisticateddrawing-room,where,amongotherdisagreeables,hecertainlywouldnotappearathisbest.Heglancedroundhim,andsawthat,saveforKatharine,theywerealloverforty,theonlyconsolationbeingthatMr.Fortescuewasaconsiderablecelebrity,sothatto-morrowonemightbegladtohavemethim.",
+      "best_similarity": 0.2046,
+      "correct": false
+    },
+    {
+      "string": "HaveyoueverbeentoManchester?heaskedKatharine.",
+      "best_similarity": 0.7671,
+      "correct": false
+    },
+    {
+      "string": "Never,shereplied.",
+      "best_similarity": 0.5217,
+      "correct": false
+    },
+    {
+      "string": "Whydoyouobjecttoit,then?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IshouldthinktherewouldbenoonetotalktoinManchester,sherepliedatrandom.Mr.Fortescuehadbeenobservingherforamomentortwo,asnovelistsareinclinedtoobserve,andatthisremarkhesmiled,andmadeitthetextforalittlefurtherspeculation.",
+      "best_similarity": 0.3745,
+      "correct": false
+    },
+    {
+      "string": "Inspiteofaslighttendencytoexaggeration,Katharinedecidedlyhitsthemark,hesaid,andlyingbackinhischair,withhisopaquecontemplativeeyesfixedontheceiling,andthetipsofhisfingerspressedtogether,hedepicted,firstthehorrorsofthestreetsofManchester,andthenthebare,immensemoorsontheoutskirtsofthetown,andthenthescrubbylittlehouseinwhichthegirlwouldlive,andthentheprofessorsandthemiserableyoungstudentsdevotedtothemorestrenuousworksofouryoungerdramatists,whowouldvisither,andhowherappearancewouldchangebydegrees,andhowshewouldflytoLondon,andhowKatharinewouldhavetoleadherabout,asoneleadsaneagerdogonachain,pastrowsofclamorousbutchersshops,poordearcreature.",
+      "best_similarity": 0.2511,
+      "correct": false
+    },
+    {
+      "string": "Spectator,andsnuffthecandles.HavetheyALLdisappeared?ItoldhershewouldfindthenicethingsofLondonwithoutthehorridstreetsthatdepressoneso.",
+      "best_similarity": 0.7074,
+      "correct": false
+    },
+    {
+      "string": "ThereistheUniversity,saidthethingentleman,whohadpreviouslyinsistedupontheexistenceofpeopleknowingPersian.",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "Iknowtherearemoorsthere,becauseIreadabouttheminabooktheotherday,saidKatharine.",
+      "best_similarity": 0.9014,
+      "correct": true
+    },
+    {
+      "string": "Iamgrievedandamazedattheignoranceofmyfamily,Mr.Hilberyremarked.Hewasanelderlyman,withapairofoval,hazeleyeswhichwereratherbrightforhistimeoflife,andrelievedtheheavinessofhisface.Heplayedconstantlywithalittlegreenstoneattachedtohiswatch-chain,thusdisplayinglongandverysensitivefingers,andhadahabitofmovinghisheadhitherandthitherveryquicklywithoutalteringthepositionofhislargeandrathercorpulentbody,sothatheseemedtobeprovidinghimselfincessantlywithfoodforamusementandreflectionwiththeleastpossibleexpenditureofenergy.Onemightsupposethathehadpassedthetimeoflifewhenhisambitionswerepersonal,orthathehadgratifiedthemasfarashewaslikelytodo,andnowemployedhisconsiderableacutenessrathertoobserveandreflectthantoattainanyresult.",
+      "best_similarity": 0.216,
+      "correct": false
+    },
+    {
+      "string": "WoulditbetheBattleofTrafalgarortheSpanishArmada,Katharine?hermotherdemanded.",
+      "best_similarity": 0.8657,
+      "correct": false
+    },
+    {
+      "string": "Trafalgar,mother.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Trafalgar,ofcourse!Howstupidofme!Anothercupoftea,withathinsliceoflemoninit,andthen,dearMr.Fortescue,pleaseexplainmyabsurdlittlepuzzle.OnecanthelpbelievinggentlemenwithRomannoses,evenifonemeetstheminomnibuses.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dyouknow,Mr.Denham,youremindmesomuchofdearMr.Ruskin....Isithistie,Katharine,orhishair,orthewayhesitsinhischair?Dotellme,Mr.Denham,areyouanadmirerofRuskin?Someone,theotherday,saidtome,Oh,no,wedontreadRuskin,Mrs.Hilbery.WhatDOyouread,Iwonder?—foryoucantspendallyourtimegoingupinaeroplanesandburrowingintothebowelsoftheearth.",
+      "best_similarity": 0.9953,
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+=== quoteannotator: character-level dialogue match (threshold=0.9) ===
+
+Dialogue is the positive class. A predicted quote is correct (TP) when its best character-level
+similarity to any gold quote in the same novel is >= threshold. FN = gold quotes nothing matched.
+
+=== Per-Novel Results ===
+Book                                                                         Pred  Gold   TP   FP   FN    Prec    Rec     F1
+----------------------------------------------------------------------------------------------------------------------------
+1023_bleak_house                                                                5     0    0    5    0   0.000  0.000  0.000
+105_persuasion                                                                  4     0    0    4    0   0.000  0.000  0.000
+1064_the_masque_of_the_red_death                                                3     0    0    3    0   0.000  0.000  0.000
+110_tess_of_the_durbervilles_a_pure_woman                                      46    45   45    1    0   0.978  1.000  0.989
+11231_bartleby_the_scrivener_a_story_of_wallstreet                              5     4    4    1    0   0.800  1.000  0.889
+113_the_secret_garden                                                          25    25   25    0    0   1.000  1.000  1.000
+1155_the_secret_adversary                                                      57    51   51    6    0   0.895  1.000  0.944
+11_alices_adventures_in_wonderland                                             32    19   19   13    0   0.594  1.000  0.745
+1206_the_flying_u_ranch                                                        30    29   29    1    0   0.967  1.000  0.983
+120_treasure_island                                                            16     9    9    7    0   0.562  1.000  0.720
+1245_night_and_day                                                             22    20   20    2    0   0.909  1.000  0.952
+1260_jane_eyre_an_autobiography                                                21    16   14    7    2   0.667  0.875  0.757
+12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock     35    29   29    6    0   0.829  1.000  0.906
+1327_elizabeth_and_her_german_garden                                            0     0    0    0    0   0.000  0.000  0.000
+1342_pride_and_prejudice                                                       62    62   62    0    0   1.000  1.000  1.000
+1400_great_expectations                                                        47    46   46    1    0   0.979  1.000  0.989
+145_middlemarch                                                                 3     1    1    2    0   0.333  1.000  0.500
+15265_the_quest_of_the_silver_fleece_a_novel                                   51    47   47    4    0   0.922  1.000  0.959
+155_the_moonstone                                                               9     9    9    0    0   1.000  1.000  1.000
+158_emma                                                                       11    10   10    1    0   0.909  1.000  0.952
+160_the_awakening_and_selected_short_stories                                   16     8    8    8    0   0.500  1.000  0.667
+16357_mary_a_fiction                                                            0     0    0    0    0   0.000  0.000  0.000
+1661_the_adventures_of_sherlock_holmes                                         42    37   37    5    0   0.881  1.000  0.937
+1695_the_man_who_was_thursday_a_nightmare                                      20    16   16    4    0   0.800  1.000  0.889
+171_charlotte_temple                                                           27    26   26    1    0   0.963  1.000  0.981
+174_the_picture_of_dorian_gray                                                 32    32   32    0    0   1.000  1.000  1.000
+18581_adrift_in_new_york_tom_and_florence_braving_the_world                    75    75   75    0    0   1.000  1.000  1.000
+2005_piccadilly_jim                                                            40    40   40    0    0   1.000  1.000  1.000
+2084_the_way_of_all_flesh                                                      16    16   16    0    0   1.000  1.000  1.000
+208_daisy_miller_a_study                                                       38    31   31    7    0   0.816  1.000  0.899
+2095_clotelle_a_tale_of_the_southern_states                                     8     6    6    2    0   0.750  1.000  0.857
+209_the_turn_of_the_screw                                                      51    50   50    1    0   0.980  1.000  0.990
+215_the_call_of_the_wild                                                       15    14   14    1    0   0.933  1.000  0.966
+2166_king_solomons_mines                                                        3     1    1    2    0   0.333  1.000  0.500
+217_sons_and_lovers                                                            28    25   25    3    0   0.893  1.000  0.943
+219_heart_of_darkness                                                           7     3    3    4    0   0.429  1.000  0.600
+233_sister_carrie_a_novel                                                      21    17   17    4    0   0.810  1.000  0.895
+238_dear_enemy                                                                  4     2    2    2    0   0.500  1.000  0.667
+2489_moby_dick                                                                  0     0    0    0    0   0.000  0.000  0.000
+24_o_pioneers                                                                  15    13   13    2    0   0.867  1.000  0.929
+2641_a_room_with_a_view                                                        57    52   52    5    0   0.912  1.000  0.954
+271_black_beauty                                                               19    16   16    3    0   0.842  1.000  0.914
+2775_the_good_soldier                                                           4     2    2    2    0   0.500  1.000  0.667
+27_far_from_the_madding_crowd                                                  20    17   17    3    0   0.850  1.000  0.919
+2807_to_have_and_to_hold                                                       41    41   41    0    0   1.000  1.000  1.000
+2814_dubliners                                                                 22    22   22    0    0   1.000  1.000  1.000
+2852_the_hound_of_the_baskervilles                                             54    43   43   11    0   0.796  1.000  0.887
+2891_howards_end                                                                9    13    9    0    4   1.000  0.692  0.818
+3268_the_mysteries_of_udolpho                                                   0     0    0    0    0   0.000  0.000  0.000
+32_herland                                                                     24    20   20    4    0   0.833  1.000  0.909
+33_the_scarlet_letter                                                          12    12   12    0    0   1.000  1.000  1.000
+3457_the_man_of_the_forest                                                     32    33   31    1    1   0.969  0.969  0.969
+345_dracula                                                                    12    10    9    3    1   0.750  0.900  0.818
+351_of_human_bondage                                                           52    52   52    0    0   1.000  1.000  1.000
+367_country_of_the_pointed_firs                                                 7     4    4    3    0   0.571  1.000  0.727
+36_the_war_of_the_worlds                                                        1     0    0    1    0   0.000  0.000  0.000
+4051_lady_bridget_in_the_nevernever_land_a_story_of_australian_life             1     4    0    1    4   0.000  0.000  0.000
+41286_miss_marjoribanks                                                        12     7    7    5    0   0.583  1.000  0.737
+41_the_legend_of_sleepy_hollow                                                  4     3    3    1    0   0.750  1.000  0.857
+4217_a_portrait_of_the_artist_as_a_young_man                                    0    16    0    0   16   0.000  0.000  0.000
+4276_north_and_south                                                            0    12    0    0   12   0.000  0.000  0.000
+4300_ulysses                                                                    0    55    0    0   55   0.000  0.000  0.000
+432_the_ambassadors                                                            14     8    6    8    2   0.429  0.750  0.545
+434_the_circular_staircase                                                      8     6    6    2    0   0.750  1.000  0.857
+44_the_song_of_the_lark                                                        27    26   26    1    0   0.963  1.000  0.981
+45_anne_of_green_gables                                                        15    12   12    3    0   0.800  1.000  0.889
+472_the_house_behind_the_cedars                                                11    10    8    3    2   0.727  0.800  0.762
+502_desert_gold                                                                20    20   20    0    0   1.000  1.000  1.000
+514_little_women                                                               40    38   38    2    0   0.950  1.000  0.974
+521_the_life_and_adventures_of_robinson_crusoe                                  1     1    1    0    0   1.000  1.000  1.000
+5230_the_invisible_man_a_grotesque_romance                                     37    34   35    2    0   0.946  1.000  0.972
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks                54    54   54    0    0   1.000  1.000  1.000
+541_the_age_of_innocence                                                       24    11   11   13    0   0.458  1.000  0.629
+543_main_street                                                                16    11   11    5    0   0.688  1.000  0.815
+550_silas_marner                                                                7     3    3    4    0   0.429  1.000  0.600
+599_vanity_fair                                                                18    15   15    3    0   0.833  1.000  0.909
+6053_evelina_or_the_history_of_a_young_ladys_entrance_into_the_world            2     1    1    1    0   0.500  1.000  0.667
+60_the_scarlet_pimpernel                                                        7     7    7    0    0   1.000  1.000  1.000
+62_a_princess_of_mars                                                           0     0    0    0    0   0.000  0.000  0.000
+6593_history_of_tom_jones_a_foundling                                           1     1    1    0    0   1.000  1.000  1.000
+711_allan_quatermain                                                           46    45   45    1    0   0.978  1.000  0.989
+730_oliver_twist                                                                0    14    0    0   14   0.000  0.000  0.000
+73_the_red_badge_of_courage_an_episode_of_the_american_civil_war               12    14   12    0    2   1.000  0.857  0.923
+74_the_adventures_of_tom_sawyer                                                32    30   30    2    0   0.938  1.000  0.968
+766_david_copperfield                                                          14    10   10    4    0   0.714  1.000  0.833
+768_wuthering_heights                                                           0    17    0    0   17   0.000  0.000  0.000
+76_adventures_of_huckleberry_finn                                               7     7    7    0    0   1.000  1.000  1.000
+77_the_house_of_the_seven_gables                                                2     2    2    0    0   1.000  1.000  1.000
+78_tarzan_of_the_apes                                                           0     0    0    0    0   0.000  0.000  0.000
+805_this_side_of_paradise                                                      29    21   21    8    0   0.724  1.000  0.840
+829_gullivers_travels_into_several_remote_nations_of_the_world                  0     6    0    0    6   0.000  0.000  0.000
+84_frankenstein_or_the_modern_prometheus                                        1     0    0    1    0   0.000  0.000  0.000
+876_life_in_the_ironmills_or_the_korl_woman                                     6     6    6    0    0   1.000  1.000  1.000
+8867_the_magnificent_ambersons                                                 37     0    0   37    0   0.000  0.000  0.000
+932_the_fall_of_the_house_of_usher                                              1     0    0    1    0   0.000  0.000  0.000
+940_the_last_of_the_mohicans_a_narrative_of_1757                                7     0    0    7    0   0.000  0.000  0.000
+95_the_prisoner_of_zenda                                                       38    37   37    1    0   0.974  1.000  0.987
+969_the_tenant_of_wildfell_hall                                                27    27   27    0    0   1.000  1.000  1.000
+974_the_secret_agent_a_simple_tale                                              2     1    1    1    0   0.500  1.000  0.667
+9830_the_beautiful_and_damned                                                   9     2    2    7    0   0.222  1.000  0.364
+
+=== Corpus Totals (micro-averaged over all quotes) ===
+Predicted quotes: 1897   Gold quotes: 1765
+TP=1627  FP=270  FN=138
+Precision: 0.858   Recall: 0.922   F1: 0.889
+Unmatched gold quotes (missed dialogue): 138
+
+=== Excluding 14 books with empty gold annotations ===
+(These books have a 0-byte .ann file, so every prediction there is a forced false
+ positive with no chance of a true positive — they only depress precision.)
+Books excluded: 1023_bleak_house, 105_persuasion, 1064_the_masque_of_the_red_death, 1327_elizabeth_and_her_german_garden, 16357_mary_a_fiction, 2489_moby_dick, 3268_the_mysteries_of_udolpho, 36_the_war_of_the_worlds, 62_a_princess_of_mars, 78_tarzan_of_the_apes, 84_frankenstein_or_the_modern_prometheus, 8867_the_magnificent_ambersons, 932_the_fall_of_the_house_of_usher, 940_the_last_of_the_mohicans_a_narrative_of_1757
+TP=1627  FP=211  FN=138
+Precision: 0.885   Recall: 0.922   F1: 0.903

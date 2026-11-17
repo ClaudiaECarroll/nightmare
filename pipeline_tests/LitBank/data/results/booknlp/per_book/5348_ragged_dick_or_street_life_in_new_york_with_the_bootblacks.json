@@ -1,0 +1,284 @@
+{
+  "threshold": 0.9,
+  "TP": 54,
+  "FP": 0,
+  "FN": 0,
+  "n_pred": 54,
+  "n_gold": 54,
+  "matched_gold": 54,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "predictions": [
+    {
+      "string": "Wakeupthere,youngster,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wakeup,youyoungvagabond!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isupposeyoudlaythereallday,ifIhadntcalledyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whattimeisit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sevenoclock.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sevenoclock!Ioughtervebeenupanhourago.Iknowwhattwasmademesoprecioussleepy.IwenttotheOldBowerylastnight,anddidntturnintillpasttwelve.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YouwenttotheOldBowery?Wheredyougetyourmoney?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Madeitbyshines,incourse.Myguardiandontallowmenomoneyfortheatres,soIhavetoearnit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Someboysgetiteasierthanthat,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youdontcatchmestealin,ifthatswhatyoumean,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontyoueversteal,then?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,andIwouldnt.Lotsofboysdoesit,butIwouldnt.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Imgladtohearyousaythat.Ibelievetheressomegoodinyou,Dick,afterall.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Imaroughcustomer!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButIwouldntsteal.Itsmean.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imgladyouthinkso,Dick,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Haveyougotanymoneytobuyyourbreakfast?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,butIllsoongetsome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shineyerboots,sir?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howmuch?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tencents,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tencents!Isntthatalittlesteep?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,youknowtaintallclearprofit,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theresthe_blacking_costssomething,andIhavetogetanewbrushprettyoften.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andyouhavealargerenttoo,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IhavetopaysuchabigrentformymanshunuponFifthAvenoo,thatIcantaffordtotakelessthantencentsashine.Illgiveyouabullyshine,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bequickaboutit,forIaminahurry.SoyourhouseisonFifthAvenue,isit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisntanywhereelse,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whattailordoyoupatronize?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wouldyouliketogotothesameone?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,no;itstrikesmethathedidntgiveyouaverygoodfit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThiscoatoncebelongedtoGeneralWashington,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HeworeitallthroughtheRevolution,anditgottornsome,causehefitsohard.Whenhediedhetoldhiswiddertogiveittosomesmartyoungfellerthathadntgotnoneofhisown;soshegaveittome.Butifyoudlikeit,sir,torememberGeneralWashingtonby,Illletyouhaveitreasonable.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thankyou,butIwouldntwanttodepriveyouofit.AnddidyourpantscomefromGeneralWashingtontoo?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,theywasagiftfromLewisNapoleon.Lewishadoutgrownemandsentemtome,--hesbiggerthanme,andthatswhytheydontfit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itseemsyouhavedistinguishedfriends.Now,mylad,Isupposeyouwouldlikeyourmoney.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishouldnthaveanyobjection,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ibelieve,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihaventgotanythingshortoftwenty-fivecents.Haveyougotanychange?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Notacent,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AllmymoneysinvestedintheErieRailroad.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsunfortunate.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ShallIgetthemoneychanged,sir?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icantwait;Ivegottomeetanappointmentimmediately.Illhandyoutwenty-fivecents,andyoucanleavethechangeatmyofficeanytimeduringtheday.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Allright,sir.Whereisit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No.125FultonStreet.Shallyouremember?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,sir.Whatname?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Greyson,--officeonsecondfloor.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Allright,sir;Illbringit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwonderwhetherthelittlescampwillprovehonest,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifhedoes,Illgivehimmycustomregularly.Ifhedontasismostlikely,Ishantmindthelossoffifteencents.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iguesshewouldntwanttostaylongifhedidgetin,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "LeastwaysIshouldnt.Theyresopreciousgladtoseeyouthattheywontletyougo,butboardyougratooitous,andneversendinnobills.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

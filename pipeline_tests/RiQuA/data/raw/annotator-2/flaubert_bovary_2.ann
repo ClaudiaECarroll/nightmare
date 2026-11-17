@@ -1,0 +1,3726 @@
+T1	Quotation 2254 2279	"The gentleman isn't in,"
+T2	Cue 2280 2288	answered
+T3	Entity 2289 2298	a servant
+T4	Entity 2108 2110	he
+R1	Cueing Arg1:T2 Arg2:T1	
+R2	Addressee Arg1:T4 Arg2:T1	
+R3	Speaker Arg1:T3 Arg2:T1	
+T5	Entity 2406 2409	she
+T6	Cue 2410 2420	apologised
+T7	Quotation 2421 2477	for having neglected to tell him where they were staying
+T8	Entity 2375 2378	his
+R4	Addressee Arg1:T8 Arg2:T7	
+R5	Speaker Arg1:T5 Arg2:T7	
+R6	Cueing Arg1:T6 Arg2:T7	
+T9	Quotation 2479 2498	"Oh, I divined it!"
+T10	Cue 2499 2503	said
+T11	Entity 2504 2508	Leon
+R7	Cueing Arg1:T10 Arg2:T9	
+R8	Speaker Arg1:T11 Arg2:T9	
+R9	Addressee Arg1:T5 Arg2:T9	
+T12	Entity 2633 2637	Leon
+T13	Cue 2638 2642	told
+T14	Entity 2643 2646	her
+T15	Quotation 2652 2745	he had spent his morning in looking for her in all the hotels in the town one after the other
+R10	Speaker Arg1:T12 Arg2:T15	
+R11	Cueing Arg1:T13 Arg2:T15	
+R12	Addressee Arg1:T14 Arg2:T15	
+T16	Quotation 2747 2787	"So you have made up your mind to stay?"
+T17	Entity 2788 2790	he
+T18	Cue 2791 2796	added
+R13	Speaker Arg1:T17 Arg2:T16	
+R14	Cueing Arg1:T18 Arg2:T16	
+T19	Quotation 2798 2804	"Yes,"
+T20	Entity 2805 2808	she
+T21	Cue 2809 2813	said
+T22	Quotation 2815 2934	"and I am wrong. One ought not to accustom oneself to impossible pleasures when there are a thousand demands upon one."
+R15	Speaker Arg1:T20 Arg2:T19	
+R16	Speaker Arg1:T20 Arg2:T22	
+R17	Cueing Arg1:T21 Arg2:T19	
+R18	Cueing Arg1:T21 Arg2:T22	
+R19	Addressee Arg1:T17 Arg2:T19	
+R20	Addressee Arg1:T17 Arg2:T22	
+T23	Quotation 2935 2955	"Oh, I can imagine!"
+R21	Addressee Arg1:T20 Arg2:T23	
+R22	Speaker Arg1:T17 Arg2:T23	
+T24	Quotation 2956 2989	"Ah! no; for you, you are a man!"
+R23	Speaker Arg1:T20 Arg2:T24	
+R24	Addressee Arg1:T17 Arg2:T24	
+T25	Quotation 4520 4536	"But pardon me!"
+T26	Entity 4537 4540	she
+T27	Cue 4541 4545	said
+T28	Quotation 4547 4607	"It is wrong of me. I weary you with my eternal complaints."
+R25	Speaker Arg1:T26 Arg2:T25	
+R26	Cueing Arg1:T27 Arg2:T25	
+R27	Speaker Arg1:T26 Arg2:T28	
+R28	Cueing Arg1:T27 Arg2:T28	
+T29	Quotation 4608 4627	"No, never, never!"
+T30	Entity 3844 3846	he
+R29	Addressee Arg1:T30 Arg2:T25	
+R30	Addressee Arg1:T30 Arg2:T28	
+R31	Speaker Arg1:T30 Arg2:T29	
+R32	Addressee Arg1:T26 Arg2:T29	
+T31	Quotation 4628 4642	"If you knew,"
+T32	Entity 4643 4646	she
+T33	Cue 4647 4654	went on
+T34	Quotation 4730 4755	"all that I had dreamed!"
+R33	Speaker Arg1:T32 Arg2:T31	
+R34	Cueing Arg1:T33 Arg2:T31	
+R35	Speaker Arg1:T32 Arg2:T34	
+R36	Cueing Arg1:T33 Arg2:T34	
+R37	Addressee Arg1:T26 Arg2:T31	
+R38	Addressee Arg1:T26 Arg2:T34	
+T35	Quotation 4756 5219	"And I! Oh, I too have suffered! Often I went out; I went away. I dragged myself along the quays, seeking distraction amid the din of the crowd without being able to banish the heaviness that weighed upon me. In an engraver's shop on the boulevard there is an Italian print of one of the Muses. She is draped in a tunic, and she is looking at the moon, with forget-me-nots in her flowing hair. Something drove me there continually; I stayed there hours together."
+R39	Addressee Arg1:T32 Arg2:T35	
+T36	Quotation 5247 5276	"She resembled you a little."
+R40	Addressee Arg1:T32 Arg2:T36	
+T37	Entity 5317 5319	he
+R41	Speaker Arg1:T37 Arg2:T36	
+T38	Quotation 5387 5395	"Often,"
+T39	Entity 5396 5398	he
+T40	Cue 5399 5406	went on
+T41	Quotation 5408 5445	"I wrote you letters that I tore up."
+R42	Speaker Arg1:T39 Arg2:T38	
+R43	Speaker Arg1:T39 Arg2:T41	
+R44	Cueing Arg1:T40 Arg2:T38	
+R45	Cueing Arg1:T40 Arg2:T41	
+T42	Entity 5277 5290	Madame Bovary
+R46	Addressee Arg1:T42 Arg2:T38	
+R47	Addressee Arg1:T42 Arg2:T41	
+T43	Entity 5466 5468	He
+T44	Cue 5469 5478	continued
+T45	Quotation 5481 5683	"I sometimes fancied that some chance would bring you. I thought I recognised you at street-corners, and I ran after all the carriages through whose windows I saw a shawl fluttering, a veil like yours."
+R48	Speaker Arg1:T43 Arg2:T45	
+R49	Cueing Arg1:T44 Arg2:T45	
+T46	Entity 5684 5687	She
+R50	Addressee Arg1:T46 Arg2:T45	
+T47	Quotation 5940 6135	"But the most wretched thing, is it not-- is to drag out, as I do, a useless existence. If our pains were only of some use to someone, we should find consolation in the thought of the sacrifice."
+T48	Entity 6136 6138	He
+R51	Speaker Arg1:T48 Arg2:T47	
+T49	Entity 5928 5931	she
+R52	Addressee Arg1:T49 Arg2:T47	
+T50	Quotation 6284 6305	"I should much like,"
+T51	Entity 6306 6309	she
+T52	Cue 6310 6314	said
+T53	Quotation 6316 6346	"to be a nurse at a hospital."
+R53	Speaker Arg1:T51 Arg2:T50	
+R54	Speaker Arg1:T51 Arg2:T53	
+R55	Cueing Arg1:T52 Arg2:T50	
+R56	Cueing Arg1:T52 Arg2:T53	
+T54	Entity 6262 6264	he
+R57	Addressee Arg1:T54 Arg2:T50	
+R58	Addressee Arg1:T54 Arg2:T53	
+T55	Quotation 6347 6457	"Alas! men have none of these holy missions, and I see nowhere any calling-- unless perhaps that of a doctor."
+T56	Entity 6513 6516	him
+R59	Addressee Arg1:T51 Arg2:T55	
+R60	Speaker Arg1:T56 Arg2:T55	
+T57	Entity 7015 7018	she
+T58	Cue 7019 7024	asked
+T59	Quotation 7026 7036	"But why?"
+R61	Speaker Arg1:T57 Arg2:T59	
+R62	Cueing Arg1:T58 Arg2:T59	
+T60	Quotation 7037 7043	"Why?"
+T61	Entity 7044 7046	He
+R63	Addressee Arg1:T61 Arg2:T59	
+R64	Speaker Arg1:T61 Arg2:T60	
+R65	Addressee Arg1:T57 Arg2:T60	
+T62	Quotation 7058 7083	"Because I loved you so!"
+R66	Addressee Arg1:T61 Arg2:T62	
+R67	Speaker Arg1:T57 Arg2:T62	
+T63	Entity 7392 7395	she
+T64	Cue 7396 7403	replied
+T65	Quotation 7406 7430	"I always suspected it."
+R68	Speaker Arg1:T63 Arg2:T65	
+R69	Cueing Arg1:T64 Arg2:T65	
+T66	Entity 7373 7375	He
+R70	Addressee Arg1:T66 Arg2:T65	
+T67	Quotation 7679 7719	"And our poor cactuses, where are they?"
+T68	Entity 7668 7671	her
+R71	Addressee Arg1:T68 Arg2:T67	
+R72	Speaker Arg1:T66 Arg2:T67	
+T69	Quotation 7720 7755	"The cold killed them this winter."
+R73	Speaker Arg1:T68 Arg2:T69	
+R74	Addressee Arg1:T66 Arg2:T69	
+T70	Quotation 7756 7963	"Ah! how I have thought of them, do you know? I often saw them again as of yore, when on the summer mornings the sun beat down upon your blinds, and I saw your two bare arms passing out amongst the flowers."
+T71	Quotation 7964 7978	"Poor friend!"
+T72	Entity 7979 7982	she
+R75	Addressee Arg1:T72 Arg2:T70	
+T73	Entity 8013 8016	him
+R76	Speaker Arg1:T73 Arg2:T70	
+R77	Speaker Arg1:T72 Arg2:T71	
+R78	Addressee Arg1:T73 Arg2:T71	
+T74	Entity 8066 8068	he
+T75	Quotation 8095 8268	"At that time you were to me I know not what incomprehensible force that took captive my life. Once, for instance, I went to see you; but you, no doubt, do not remember it."
+T76	Quotation 8269 8276	"I do,"
+T77	Entity 8277 8280	she
+T78	Cue 8281 8285	said
+T79	Quotation 8287 8295	"go on."
+R79	Speaker Arg1:T74 Arg2:T75	
+R80	Addressee Arg1:T77 Arg2:T75	
+R81	Cueing Arg1:T78 Arg2:T79	
+R82	Cueing Arg1:T78 Arg2:T76	
+R83	Speaker Arg1:T77 Arg2:T76	
+R84	Speaker Arg1:T77 Arg2:T79	
+R85	Addressee Arg1:T74 Arg2:T76	
+R86	Addressee Arg1:T74 Arg2:T79	
+T80	Quotation 8296 8956	"You were downstairs in the ante-room, ready to go out, standing on the last stair; you were wearing a bonnet with small blue flowers; and without any invitation from you, in spite of myself, I went with you. Every moment, however, I grew more and more conscious of my folly, and I went on walking by you, not daring to follow you completely, and unwilling to leave you. When you went into a shop, I waited in the street, and I watched you through the window taking off your gloves and counting the change on the counter. Then you rang at Madame Tuvache's; you were let in, and I stood like an idiot in front of the great heavy door that had closed after you."
+R87	Addressee Arg1:T77 Arg2:T80	
+T81	Entity 8991 8994	him
+R88	Speaker Arg1:T81 Arg2:T80	
+T82	Quotation 9228 9260	"Yes, it is true-- true-- true!"
+T83	Entity 9180 9183	she
+T84	Cue 9184 9188	said
+R89	Speaker Arg1:T83 Arg2:T82	
+R90	Cueing Arg1:T84 Arg2:T82	
+R91	Addressee Arg1:T81 Arg2:T82	
+T85	Quotation 10071 10078	"Well!"
+T86	Cue 10079 10083	said
+T87	Entity 10084 10088	Leon
+T88	Quotation 10090 10097	"Well!"
+T89	Entity 10098 10101	she
+T90	Cue 10102 10109	replied
+R92	Cueing Arg1:T86 Arg2:T85	
+R93	Speaker Arg1:T87 Arg2:T85	
+R94	Addressee Arg1:T89 Arg2:T85	
+R95	Speaker Arg1:T89 Arg2:T88	
+R96	Cueing Arg1:T90 Arg2:T88	
+R97	Addressee Arg1:T87 Arg2:T88	
+T91	Entity 10176 10179	she
+T92	Cue 10180 10184	said
+T93	Entity 10188 10191	him
+T94	Quotation 10194 10269	"How is it that no one until now has ever expressed such sentiments to me?"
+R98	Speaker Arg1:T91 Arg2:T94	
+R99	Cueing Arg1:T92 Arg2:T94	
+R100	Addressee Arg1:T93 Arg2:T94	
+T95	Entity 10270 10279	The clerk
+T96	Cue 10280 10284	said
+T97	Quotation 10290 10332	ideal natures were difficult to understand
+R101	Speaker Arg1:T95 Arg2:T97	
+R102	Cueing Arg1:T96 Arg2:T97	
+T98	Entity 10369 10372	her
+R103	Addressee Arg1:T98 Arg2:T97	
+T99	Quotation 10545 10578	"I have sometimes thought of it,"
+T100	Entity 10579 10582	she
+T101	Cue 10583 10590	went on
+R104	Speaker Arg1:T100 Arg2:T99	
+R105	Cueing Arg1:T101 Arg2:T99	
+T102	Quotation 10592 10607	"What a dream!"
+T103	Cue 10608 10616	murmured
+T104	Entity 10617 10621	Leon
+R106	Addressee Arg1:T104 Arg2:T99	
+R107	Cueing Arg1:T103 Arg2:T102	
+R108	Speaker Arg1:T104 Arg2:T102	
+R109	Addressee Arg1:T100 Arg2:T102	
+T105	Quotation 10695 10736	"And who prevents us from beginning now?"
+T106	Entity 10685 10687	he
+T107	Cue 10688 10693	added
+R110	Speaker Arg1:T106 Arg2:T105	
+R111	Cueing Arg1:T107 Arg2:T105	
+T108	Entity 10664 10667	her
+R112	Addressee Arg1:T108 Arg2:T105	
+T109	Quotation 10737 10753	"No, my friend,"
+T110	Entity 10754 10757	she
+T111	Cue 10758 10765	replied
+T112	Quotation 10767 10854	"I am too old; you are too young. Forget me! Others will love you; you will love them."
+R113	Speaker Arg1:T110 Arg2:T109	
+R114	Speaker Arg1:T110 Arg2:T112	
+R115	Cueing Arg1:T111 Arg2:T109	
+R116	Cueing Arg1:T111 Arg2:T112	
+R117	Addressee Arg1:T106 Arg2:T109	
+R118	Addressee Arg1:T106 Arg2:T112	
+T113	Quotation 10855 10868	"Not as you!"
+T114	Entity 10869 10871	he
+T115	Cue 10872 10877	cried
+R119	Speaker Arg1:T114 Arg2:T113	
+R120	Cueing Arg1:T115 Arg2:T113	
+R121	Addressee Arg1:T110 Arg2:T113	
+T116	Quotation 10879 10939	"What a child you are! Come, let us be sensible. I wish it."
+R122	Addressee Arg1:T114 Arg2:T116	
+T117	Entity 10940 10943	She
+R123	Speaker Arg1:T117 Arg2:T116	
+T118	Quotation 11375 11392	"Ah! forgive me!"
+T119	Entity 11393 11395	he
+T120	Cue 11396 11401	cried
+R124	Speaker Arg1:T119 Arg2:T118	
+R125	Cueing Arg1:T120 Arg2:T118	
+T121	Entity 11300 11303	she
+R126	Addressee Arg1:T121 Arg2:T118	
+T122	Quotation 11900 11921	"Ah! how late it is!"
+T123	Entity 11922 11925	she
+T124	Cue 11926 11930	said
+T125	Quotation 11932 11952	"how we do chatter!"
+R127	Speaker Arg1:T123 Arg2:T122	
+R128	Speaker Arg1:T123 Arg2:T125	
+R129	Cueing Arg1:T124 Arg2:T122	
+R130	Cueing Arg1:T124 Arg2:T125	
+T126	Entity 11953 11955	He
+R131	Addressee Arg1:T126 Arg2:T122	
+R132	Addressee Arg1:T126 Arg2:T125	
+T127	Quotation 11997 12163	"It has even made me forget the theatre. And poor Bovary has left me here especially for that. Monsieur Lormeaux, of the Rue Grand-Pont, was to take me and his wife."
+R133	Addressee Arg1:T126 Arg2:T127	
+T128	Entity 12197 12200	she
+R134	Speaker Arg1:T128 Arg2:T127	
+T129	Quotation 12228 12237	"Really!"
+T130	Cue 12238 12242	said
+T131	Entity 12243 12247	Leon
+R135	Cueing Arg1:T130 Arg2:T129	
+R136	Speaker Arg1:T131 Arg2:T129	
+R137	Addressee Arg1:T128 Arg2:T129	
+T132	Quotation 12249 12255	"Yes."
+T133	Quotation 12256 12283	"But I must see you again,"
+T134	Entity 12284 12286	he
+T135	Cue 12287 12294	went on
+R138	Speaker Arg1:T128 Arg2:T132	
+R139	Addressee Arg1:T131 Arg2:T132	
+R140	Speaker Arg1:T134 Arg2:T133	
+R141	Cueing Arg1:T135 Arg2:T133	
+R142	Addressee Arg1:T128 Arg2:T133	
+T136	Quotation 12296 12322	"I wanted to tell you -- "
+R143	Speaker Arg1:T134 Arg2:T136	
+R144	Cueing Arg1:T135 Arg2:T136	
+T137	Quotation 12323 12330	"What?"
+R145	Addressee Arg1:T128 Arg2:T136	
+R146	Addressee Arg1:T134 Arg2:T137	
+R147	Speaker Arg1:T128 Arg2:T137	
+T138	Quotation 12331 12505	"Something-- important-- serious. Oh, no! Besides, you will not go; it is impossible. If you should-- listen to me. Then you have not understood me; you have not guessed -- "
+T139	Quotation 12506 12530	"Yet you speak plainly,"
+T140	Cue 12531 12535	said
+T141	Entity 12536 12540	Emma
+R148	Speaker Arg1:T134 Arg2:T138	
+R149	Addressee Arg1:T141 Arg2:T138	
+R150	Cueing Arg1:T140 Arg2:T139	
+R151	Speaker Arg1:T141 Arg2:T139	
+R152	Addressee Arg1:T134 Arg2:T139	
+T142	Quotation 12542 12631	"Ah! you can jest. Enough! enough! Oh, for pity's sake, let me see you once-- only once!"
+R153	Addressee Arg1:T141 Arg2:T142	
+R154	Speaker Arg1:T134 Arg2:T142	
+T143	Quotation 12632 12642	"Well -- "
+T144	Entity 12643 12646	She
+T145	Quotation 12691 12706	"Oh, not here!"
+R155	Speaker Arg1:T144 Arg2:T143	
+R156	Speaker Arg1:T144 Arg2:T145	
+T146	Entity 12846 12848	he
+R157	Addressee Arg1:T146 Arg2:T143	
+R158	Addressee Arg1:T146 Arg2:T145	
+T147	Quotation 12707 12724	"Where you will."
+R159	Addressee Arg1:T144 Arg2:T147	
+R160	Speaker Arg1:T146 Arg2:T147	
+T148	Quotation 12725 12739	"Will you -- "
+T149	Entity 12740 12743	She
+T150	Quotation 12778 12825	"To-morrow at eleven o'clock in the cathedral."
+R161	Speaker Arg1:T149 Arg2:T148	
+R162	Speaker Arg1:T149 Arg2:T150	
+R163	Addressee Arg1:T146 Arg2:T148	
+R164	Addressee Arg1:T146 Arg2:T150	
+T151	Quotation 12826 12845	"I shall be there,"
+R165	Speaker Arg1:T146 Arg2:T151	
+T152	Cue 12849 12854	cried
+R166	Cueing Arg1:T152 Arg2:T151	
+T153	Entity 12864 12867	her
+R167	Addressee Arg1:T153 Arg2:T151	
+T154	Quotation 13033 13064	"You are mad! Ah! you are mad!"
+T155	Entity 13065 13068	she
+T156	Cue 13069 13073	said
+R168	Speaker Arg1:T155 Arg2:T154	
+R169	Cueing Arg1:T156 Arg2:T154	
+T157	Entity 12951 12955	Emma
+R170	Addressee Arg1:T157 Arg2:T154	
+T158	Entity 13322 13324	he
+T159	Cue 13325 13334	whispered
+T160	Quotation 13359 13370	"Tomorrow!"
+T161	Entity 13371 13374	She
+R171	Speaker Arg1:T158 Arg2:T160	
+R172	Cueing Arg1:T159 Arg2:T160	
+R173	Addressee Arg1:T161 Arg2:T160	
+T162	Quotation 15663 15784	"The gentleman, no doubt, does not belong to these parts? The gentleman would like to see the curiosities of the church?"
+T163	Entity 15542 15544	He
+T164	Entity 15558 15562	Leon
+R174	Speaker Arg1:T163 Arg2:T162	
+R175	Addressee Arg1:T164 Arg2:T162	
+T165	Quotation 15785 15790	"No!"
+T166	Cue 15791 15795	said
+T167	Entity 15796 15805	the other
+R176	Cueing Arg1:T166 Arg2:T165	
+R177	Speaker Arg1:T167 Arg2:T165	
+R178	Addressee Arg1:T163 Arg2:T165	
+T168	Quotation 18005 18012	"Read!"
+T169	Entity 18013 18016	she
+T170	Cue 18017 18021	said
+T171	Entity 18046 18049	him
+R179	Speaker Arg1:T169 Arg2:T168	
+R180	Cueing Arg1:T170 Arg2:T168	
+R181	Addressee Arg1:T171 Arg2:T168	
+T172	Quotation 18051 18060	"Oh, no!"
+R182	Addressee Arg1:T169 Arg2:T172	
+R183	Speaker Arg1:T171 Arg2:T172	
+T173	Entity 18852 18862	the beadle
+T174	Cue 18887 18893	saying
+T175	Quotation 18896 19003	"Madame, no doubt, does not belong to these parts? Madame would like to see the curiosities of the church?"
+R184	Speaker Arg1:T173 Arg2:T175	
+R185	Cueing Arg1:T174 Arg2:T175	
+T176	Entity 18821 18825	they
+R186	Addressee Arg1:T176 Arg2:T175	
+T177	Quotation 19004 19013	"Oh, no!"
+T178	Cue 19014 19019	cried
+T179	Entity 19020 19029	the clerk
+R187	Cueing Arg1:T178 Arg2:T177	
+R188	Speaker Arg1:T179 Arg2:T177	
+R189	Addressee Arg1:T173 Arg2:T177	
+T180	Quotation 19031 19041	"Why not?"
+T181	Cue 19042 19046	said
+T182	Entity 19047 19050	she
+R190	Cueing Arg1:T181 Arg2:T180	
+R191	Speaker Arg1:T182 Arg2:T180	
+R192	Addressee Arg1:T179 Arg2:T180	
+T183	Quotation 19344 19351	"This,"
+T184	Entity 19352 19354	he
+T185	Cue 19355 19359	said
+T186	Quotation 19374 19548	"is the circumference of the beautiful bell of Ambroise. It weighed forty thousand pounds. There was not its equal in all Europe. The workman who cast it died of the joy -- "
+R193	Speaker Arg1:T184 Arg2:T183	
+R194	Cueing Arg1:T185 Arg2:T183	
+R195	Speaker Arg1:T184 Arg2:T186	
+R196	Cueing Arg1:T185 Arg2:T186	
+T187	Entity 19202 19206	them
+R197	Addressee Arg1:T187 Arg2:T183	
+R198	Addressee Arg1:T187 Arg2:T186	
+T188	Quotation 19549 19564	"Let us go on,"
+T189	Cue 19565 19569	said
+T190	Entity 19570 19574	Leon
+R199	Cueing Arg1:T189 Arg2:T188	
+R200	Speaker Arg1:T190 Arg2:T188	
+R201	Addressee Arg1:T184 Arg2:T188	
+T191	Quotation 19808 19997	"This simple stone covers Pierre de Breze, lord of Varenne and of Brissac, grand marshal of Poitou, and governor of Normandy, who died at the battle of Montlhery on the 16th of July, 1465."
+T192	Cue 19798 19805	went on
+T193	Entity 19576 19590	The old fellow
+R202	Speaker Arg1:T193 Arg2:T191	
+R203	Cueing Arg1:T192 Arg2:T191	
+R204	Addressee Arg1:T187 Arg2:T191	
+T194	Quotation 20025 20522	"And on the right, this gentleman all encased in iron, on the prancing horse, is his grandson, Louis de Breze, lord of Breval and of Montchauvet, Count de Maulevrier, Baron de Mauny, chamberlain to the king, Knight of the Order, and also governor of Normandy; died on the 23rd of July, 1531 -- a Sunday, as the inscription specifies; and below, this figure, about to descend into the tomb, portrays the same person. It is not possible, is it, to see a more perfect representation of annihilation?"
+T195	Entity 19998 20002	Leon
+T196	Entity 20523 20536	Madame Bovary
+R205	Addressee Arg1:T195 Arg2:T194	
+R206	Addressee Arg1:T196 Arg2:T194	
+R207	Speaker Arg1:T193 Arg2:T194	
+T197	Entity 20739 20760	THE EVERLASTING GUIDE
+T198	Cue 20761 20768	WENT ON
+T199	Quotation 20771 21227	"Near him, this kneeling woman who weeps is his spouse, Diane de Poitiers, Countess de Breze, Duchess de Valentinois, born in 1499, died in 1566, and to the left, the one with the child is the Holy Virgin. Now turn to this side; here are the tombs of the Ambroise. They were both cardinals and archbishops of Rouen. That one was minister under Louis XII. He did a great deal for the cathedral. In his will he left thirty thousand gold crowns for the poor."
+R208	Speaker Arg1:T197 Arg2:T199	
+R209	Cueing Arg1:T198 Arg2:T199	
+T200	Entity 20560 20564	Leon
+R210	Addressee Arg1:T200 Arg2:T199	
+R211	Addressee Arg1:T196 Arg2:T199	
+T201	Quotation 21416 21424	"Truly,"
+T202	Entity 21425 21427	he
+T203	Cue 21428 21432	said
+T204	Quotation 21447 21790	"it adorned the tomb of Richard Coeur de Lion, King of England and Duke of Normandy. It was the Calvinists, sir, who reduced it to this condition. They had buried it for spite in the earth, under the episcopal seat of Monsignor. See! this is the door by which Monsignor passes to his house. Let us pass on quickly to see the gargoyle windows."
+R212	Speaker Arg1:T202 Arg2:T201	
+R213	Cueing Arg1:T203 Arg2:T201	
+R214	Speaker Arg1:T202 Arg2:T204	
+R215	Cueing Arg1:T203 Arg2:T204	
+T205	Entity 21795 21799	Leon
+T206	Entity 21852 21858	Emma's
+R216	Addressee Arg1:T205 Arg2:T201	
+R217	Addressee Arg1:T206 Arg2:T201	
+R218	Addressee Arg1:T205 Arg2:T204	
+R219	Addressee Arg1:T206 Arg2:T204	
+T207	Entity 22025 22027	he
+T208	Cue 22028 22033	cried
+T209	Quotation 22036 22073	"Sir! sir! The steeple! the steeple!"
+R220	Speaker Arg1:T207 Arg2:T209	
+R221	Cueing Arg1:T208 Arg2:T209	
+T210	Quotation 22074 22090	"No, thank you!"
+T211	Cue 22091 22095	said
+T212	Entity 22096 22100	Leon
+R222	Cueing Arg1:T211 Arg2:T210	
+R223	Speaker Arg1:T212 Arg2:T210	
+R224	Addressee Arg1:T207 Arg2:T210	
+R225	Addressee Arg1:T212 Arg2:T209	
+T213	Quotation 22102 22229	"You are wrong, sir! It is four hundred and forty feet high, nine less than the great pyramid of Egypt. It is all cast; it -- "
+R226	Addressee Arg1:T212 Arg2:T213	
+R227	Speaker Arg1:T207 Arg2:T213	
+T214	Quotation 22565 22590	"But where are we going?"
+T215	Entity 22591 22594	she
+T216	Cue 22595 22599	said
+R228	Speaker Arg1:T215 Arg2:T214	
+R229	Cueing Arg1:T216 Arg2:T214	
+T217	Entity 22230 22234	Leon
+R230	Addressee Arg1:T217 Arg2:T214	
+T218	Quotation 22826 22832	"Sir!"
+T219	Entity 22808 22812	Leon
+T220	Entity 22865 22875	the beadle
+T221	Quotation 22833 22846	"What is it?"
+R231	Addressee Arg1:T219 Arg2:T218	
+R232	Speaker Arg1:T219 Arg2:T221	
+R233	Speaker Arg1:T220 Arg2:T218	
+R234	Addressee Arg1:T220 Arg2:T221	
+T222	Quotation 22982 23015	"which treated of the cathedral."
+R235	Speaker Arg1:T220 Arg2:T222	
+T223	Quotation 23016 23024	"Idiot!"
+T224	Cue 23025 23032	growled
+T225	Entity 23033 23037	Leon
+R236	Cueing Arg1:T224 Arg2:T223	
+R237	Speaker Arg1:T225 Arg2:T223	
+R238	Addressee Arg1:T225 Arg2:T222	
+R239	Addressee Arg1:T220 Arg2:T223	
+T226	Quotation 23101 23123	"Go and get me a cab!"
+R240	Speaker Arg1:T225 Arg2:T226	
+T227	Entity 23124 23133	The child
+R241	Addressee Arg1:T227 Arg2:T226	
+T228	Quotation 23259 23307	"Ah! Leon! Really -- I don't know-- if I ought,"
+T229	Entity 23308 23311	she
+T230	Cue 23312 23321	whispered
+R242	Speaker Arg1:T229 Arg2:T228	
+R243	Cueing Arg1:T230 Arg2:T228	
+T231	Quotation 23353 23391	"Do you know, it is very improper -- "
+R244	Speaker Arg1:T229 Arg2:T231	
+R245	Cueing Arg1:T230 Arg2:T231	
+T232	Quotation 23392 23401	"How so?"
+T233	Cue 23402 23409	replied
+T234	Entity 23410 23419	the clerk
+R246	Addressee Arg1:T234 Arg2:T231	
+R247	Addressee Arg1:T234 Arg2:T228	
+R248	Cueing Arg1:T233 Arg2:T232	
+R249	Speaker Arg1:T234 Arg2:T232	
+T235	Quotation 23421 23443	"It is done at Paris."
+R250	Addressee Arg1:T229 Arg2:T232	
+R251	Cueing Arg1:T233 Arg2:T235	
+R252	Speaker Arg1:T234 Arg2:T235	
+T236	Entity 23491 23494	her
+R253	Addressee Arg1:T236 Arg2:T235	
+T237	Quotation 23601 23644	"At all events, go out by the north porch,"
+T238	Cue 23645 23650	cried
+T239	Entity 23651 23661	the beadle
+T240	Quotation 23700 23807	"so as to see the Resurrection, the Last Judgment, Paradise, King David, and the Condemned in Hell-flames."
+R254	Cueing Arg1:T238 Arg2:T237	
+R255	Speaker Arg1:T239 Arg2:T237	
+R256	Cueing Arg1:T238 Arg2:T240	
+R257	Speaker Arg1:T239 Arg2:T240	
+T241	Entity 23524 23528	Leon
+R258	Addressee Arg1:T241 Arg2:T237	
+R259	Addressee Arg1:T241 Arg2:T240	
+T242	Quotation 23808 23824	"Where to, sir?"
+T243	Cue 23825 23830	asked
+T244	Entity 23831 23843	the coachman
+R260	Cueing Arg1:T243 Arg2:T242	
+R261	Speaker Arg1:T244 Arg2:T242	
+T245	Quotation 23845 23862	"Where you like,"
+T246	Cue 23863 23867	said
+T247	Entity 23868 23872	Leon
+R262	Cueing Arg1:T246 Arg2:T245	
+R263	Speaker Arg1:T247 Arg2:T245	
+R264	Addressee Arg1:T247 Arg2:T242	
+R265	Addressee Arg1:T244 Arg2:T245	
+T248	Quotation 24088 24096	"Go on,"
+T249	Cue 24097 24102	cried
+T250	Entity 24103 24110	a voice
+R266	Cueing Arg1:T249 Arg2:T248	
+R267	Speaker Arg1:T250 Arg2:T248	
+R268	Addressee Arg1:T244 Arg2:T248	
+T251	Quotation 24264 24282	"No, straight on!"
+T252	Cue 24283 24288	cried
+T253	Entity 24289 24303	the same voice
+R269	Cueing Arg1:T252 Arg2:T251	
+R270	Speaker Arg1:T253 Arg2:T251	
+R271	Addressee Arg1:T250 Arg2:T251	
+T254	Entity 24409 24421	The coachman
+T255	Quotation 24873 24892	"Get on, will you?"
+T256	Cue 24893 24898	cried
+T257	Entity 24899 24908	the voice
+R272	Cueing Arg1:T256 Arg2:T255	
+R273	Speaker Arg1:T257 Arg2:T255	
+R274	Addressee Arg1:T254 Arg2:T255	
+T258	Quotation 28004 28083	"Madame, you must go at once to Monsieur Homais. It's for something important."
+T259	Entity 27944 27955	the servant
+T260	Cue 27984 27988	said
+R275	Speaker Arg1:T259 Arg2:T258	
+R276	Cueing Arg1:T260 Arg2:T258	
+T261	Entity 27724 27727	she
+R277	Addressee Arg1:T261 Arg2:T258	
+T262	Quotation 29005 29057	"Who told you to go and fetch it in the Capharnaum."
+T263	Entity 28977 28988	the chemist
+T264	Entity 28933 28939	Justin
+R278	Addressee Arg1:T264 Arg2:T262	
+R279	Speaker Arg1:T263 Arg2:T262	
+T265	Quotation 29058 29091	"What is it? What is the matter?"
+T266	Cue 28993 29002	screaming
+R280	Cueing Arg1:T266 Arg2:T262	
+R281	Addressee Arg1:T263 Arg2:T265	
+T267	Entity 28626 28629	She
+R282	Speaker Arg1:T267 Arg2:T265	
+T268	Quotation 29092 29105	"What is it?"
+T269	Cue 29106 29113	replied
+T270	Entity 29114 29126	the druggist
+R283	Cueing Arg1:T269 Arg2:T268	
+R284	Speaker Arg1:T270 Arg2:T268	
+T271	Quotation 29128 29388	"We are making preserves; they are simmering; but they were about to boil over, because there is too much juice, and I ordered another pan. Then he, from indolence, from laziness, went and took, hanging on its nail in my laboratory, the key of the Capharnaum."
+R285	Cueing Arg1:T269 Arg2:T271	
+R286	Speaker Arg1:T270 Arg2:T271	
+R287	Addressee Arg1:T267 Arg2:T268	
+R288	Addressee Arg1:T267 Arg2:T271	
+T272	Entity 30234 30236	he
+T273	Cue 30237 30245	repeated
+T274	Quotation 30248 30685	"Yes, from the Capharnaum! The key that locks up the acids and caustic alkalies! To go and get a spare pan! a pan with a lid! and that I shall perhaps never use! Everything is of importance in the delicate operations of our art! But, devil take it! one must make distinctions, and not employ for almost domestic purposes that which is meant for pharmaceutical! It is as if one were to carve a fowl with a scalpel; as if a magistrate -- "
+R289	Speaker Arg1:T272 Arg2:T274	
+R290	Cueing Arg1:T273 Arg2:T274	
+T275	Entity 30130 30138	Justin's
+R291	Addressee Arg1:T275 Arg2:T274	
+T276	Quotation 30686 30700	"Now be calm,"
+T277	Cue 30701 30705	said
+T278	Entity 30706 30719	Madame Homais
+R292	Cueing Arg1:T277 Arg2:T276	
+R293	Speaker Arg1:T278 Arg2:T276	
+R294	Addressee Arg1:T272 Arg2:T276	
+T279	Entity 30725 30732	Athalie
+T280	Cue 30755 30760	cried
+T281	Quotation 30761 30774	"Papa! papa!"
+R295	Cueing Arg1:T280 Arg2:T281	
+R296	Speaker Arg1:T279 Arg2:T281	
+T282	Quotation 30775 30794	"No, let me alone,"
+T283	Cue 30795 30802	went on
+T284	Entity 30803 30815	the druggist
+T285	Quotation 30816 31045	"let me alone, hang it! My word! One might as well set up for a grocer. That's it! go it! respect nothing! break, smash, let loose the leeches, burn the mallow-paste, pickle the gherkins in the window jars, tear up the bandages!"
+R297	Cueing Arg1:T283 Arg2:T282	
+R298	Speaker Arg1:T284 Arg2:T282	
+R299	Addressee Arg1:T284 Arg2:T281	
+R300	Cueing Arg1:T283 Arg2:T285	
+R301	Speaker Arg1:T284 Arg2:T285	
+R302	Addressee Arg1:T279 Arg2:T282	
+R303	Addressee Arg1:T279 Arg2:T285	
+T286	Quotation 31046 31069	"I thought you had -- "
+T287	Cue 31070 31074	said
+T288	Entity 31075 31079	Emma
+R304	Cueing Arg1:T287 Arg2:T286	
+R305	Speaker Arg1:T288 Arg2:T286	
+R306	Addressee Arg1:T284 Arg2:T286	
+T289	Quotation 31081 31244	"Presently! Do you know to what you exposed yourself? Didn't you see anything in the corner, on the left, on the third shelf? Speak, answer, articulate something."
+R307	Addressee Arg1:T288 Arg2:T289	
+R308	Speaker Arg1:T284 Arg2:T289	
+T290	Quotation 31245 31264	"I-- don't-- know,"
+T291	Cue 31265 31274	stammered
+T292	Entity 31275 31291	the young fellow
+R309	Cueing Arg1:T291 Arg2:T290	
+R310	Speaker Arg1:T292 Arg2:T290	
+R311	Addressee Arg1:T284 Arg2:T290	
+R312	Addressee Arg1:T292 Arg2:T289	
+T293	Quotation 31293 31566	"Ah! you don't know! Well, then, I do know! You saw a bottle of blue glass, sealed with yellow wax, that contains a white powder, on which I have even written 'Dangerous!' And do you know what is in it? Arsenic! And you go and touch it! You take a pan that was next to it!"
+R313	Addressee Arg1:T292 Arg2:T293	
+R314	Speaker Arg1:T284 Arg2:T293	
+T294	Quotation 31567 31580	"Next to it!"
+T295	Cue 31581 31586	cried
+T296	Entity 31587 31600	Madame Homais
+R315	Cueing Arg1:T295 Arg2:T294	
+R316	Speaker Arg1:T296 Arg2:T294	
+R317	Addressee Arg1:T284 Arg2:T294	
+T297	Quotation 31622 31664	"Arsenic! You might have poisoned us all."
+R318	Cueing Arg1:T295 Arg2:T297	
+R319	Speaker Arg1:T296 Arg2:T297	
+R320	Addressee Arg1:T292 Arg2:T297	
+T298	Quotation 31754 31776	"Or poison a patient!"
+T299	Cue 31777 31786	continued
+T300	Entity 31787 31799	the druggist
+R321	Cueing Arg1:T299 Arg2:T298	
+R322	Speaker Arg1:T300 Arg2:T298	
+R323	Addressee Arg1:T292 Arg2:T298	
+T301	Quotation 31801 32198	"Do you want to see me in the prisoner's dock with criminals, in a court of justice? To see me dragged to the scaffold? Don't you know what care I take in managing things, although I am so thoroughly used to it? Often I am horrified myself when I think of my responsibility; for the Government persecutes us, and the absurd legislation that rules us is a veritable Damocles' sword over our heads."
+R324	Cueing Arg1:T299 Arg2:T301	
+R325	Speaker Arg1:T300 Arg2:T301	
+R326	Addressee Arg1:T292 Arg2:T301	
+T302	Quotation 32307 32779	"That is your return for all the kindness we have shown you! That is how you recompense me for the really paternal care that I lavish on you! For without me where would you be? What would you be doing? Who provides you with food, education, clothes, and all the means of figuring one day with honour in the ranks of society? But you must pull hard at the oar if you're to do that, and get, as, people say, callosities upon your hands. Fabricando fit faber, age quod agis."
+R327	Cueing Arg1:T299 Arg2:T302	
+R328	Speaker Arg1:T300 Arg2:T302	
+R329	Addressee Arg1:T292 Arg2:T302	
+T303	Entity 33159 33161	HE
+T304	Cue 33162 33169	WENT ON
+T305	Quotation 33172 33578	"I am beginning to repent terribly of having taken you up! I should certainly have done better to have left you to rot in your poverty and the dirt in which you were born. Oh, you'll never be fit for anything but to herd animals with horns! You have no aptitude for science! You hardly know how to stick on a label! And there you are, dwelling with me snug as a parson, living in clover, taking your ease!"
+R330	Speaker Arg1:T303 Arg2:T305	
+R331	Cueing Arg1:T304 Arg2:T305	
+R332	Addressee Arg1:T292 Arg2:T305	
+T306	Quotation 33615 33644	"I was told to come here -- "
+T307	Entity 33583 33587	Emma
+T308	Entity 33600 33613	Madame Homais
+R333	Speaker Arg1:T307 Arg2:T306	
+R334	Addressee Arg1:T308 Arg2:T306	
+T309	Quotation 33645 33659	"Oh, dear me!"
+T310	Cue 33660 33671	interrupted
+T311	Entity 33672 33686	the good woman
+T312	Quotation 33704 33747	"how am I to tell you? It is a misfortune!"
+R335	Cueing Arg1:T310 Arg2:T309	
+R336	Speaker Arg1:T311 Arg2:T309	
+R337	Cueing Arg1:T310 Arg2:T312	
+R338	Speaker Arg1:T311 Arg2:T312	
+R339	Addressee Arg1:T307 Arg2:T309	
+R340	Addressee Arg1:T307 Arg2:T312	
+T313	Quotation 33800 33845	"Empty it! Clean it! Take it back! Be quick!"
+T314	Entity 33770 33782	the druggist
+R341	Speaker Arg1:T314 Arg2:T313	
+T315	Entity 33858 33864	Justin
+R342	Addressee Arg1:T315 Arg2:T313	
+T316	Cue 33787 33797	thundering
+R343	Cueing Arg1:T316 Arg2:T313	
+T317	Quotation 34058 34076	"CONJUGAL-- LOVE!"
+T318	Entity 34077 34079	he
+T319	Cue 34080 34084	said
+R344	Speaker Arg1:T318 Arg2:T317	
+R345	Cueing Arg1:T319 Arg2:T317	
+T320	Quotation 34119 34200	"Ah! very good! very good! very pretty! And illustrations! Oh, this is too much!"
+T321	Entity 33929 33936	The lad
+R346	Addressee Arg1:T321 Arg2:T317	
+R347	Speaker Arg1:T318 Arg2:T320	
+R348	Cueing Arg1:T319 Arg2:T320	
+R349	Addressee Arg1:T321 Arg2:T320	
+T322	Quotation 34229 34251	"No, do not touch it!"
+T323	Entity 34201 34214	Madame Homais
+R350	Addressee Arg1:T323 Arg2:T322	
+R351	Speaker Arg1:T318 Arg2:T322	
+T324	Quotation 34297 34314	"Leave the room,"
+T325	Entity 34315 34317	he
+T326	Cue 34318 34322	said
+R352	Speaker Arg1:T325 Arg2:T324	
+R353	Cueing Arg1:T326 Arg2:T324	
+T327	Entity 34340 34344	they
+R354	Addressee Arg1:T327 Arg2:T324	
+T328	Quotation 34557 34918	"Have you every vice, then, little wretch? Take care! you are on a downward path. Did not you reflect that this infamous book might fall in the hands of my children, kindle a spark in their minds, tarnish the purity of Athalie, corrupt Napoleon. He is already formed like a man. Are you quite sure, anyhow, that they have not read it? Can you certify to me -- "
+T329	Entity 34468 34470	he
+T330	Entity 34488 34497	his pupil
+R355	Addressee Arg1:T330 Arg2:T328	
+R356	Speaker Arg1:T329 Arg2:T328	
+T331	Quotation 34919 34937	"But really, sir,"
+T332	Cue 34938 34942	said
+T333	Entity 34943 34947	Emma
+T334	Quotation 34949 34976	"you wished to tell me -- "
+R357	Cueing Arg1:T332 Arg2:T331	
+R358	Speaker Arg1:T333 Arg2:T331	
+R359	Cueing Arg1:T332 Arg2:T334	
+R360	Speaker Arg1:T333 Arg2:T334	
+R361	Addressee Arg1:T329 Arg2:T331	
+R362	Addressee Arg1:T329 Arg2:T334	
+T335	Quotation 34977 35023	"Ah, yes! madame. Your father-in-law is dead."
+R363	Addressee Arg1:T333 Arg2:T335	
+R364	Speaker Arg1:T329 Arg2:T335	
+T336	Quotation 35748 36052	"It is not that I entirely disapprove of the work. Its author was a doctor! There are certain scientific points in it that it is not ill a man should know, and I would even venture to say that a man must know. But later-- later! At any rate, not till you are man yourself and your temperament is formed."
+T337	Entity 35710 35712	he
+R365	Speaker Arg1:T337 Arg2:T336	
+R366	Addressee Arg1:T330 Arg2:T336	
+T338	Cue 36150 36154	said
+T339	Entity 36158 36161	her
+T340	Entity 36084 36091	Charles
+T341	Quotation 36188 36202	"Ah! my dear!"
+R367	Speaker Arg1:T340 Arg2:T341	
+R368	Cueing Arg1:T338 Arg2:T341	
+R369	Addressee Arg1:T339 Arg2:T341	
+T342	Entity 36365 36368	she
+T343	Cue 36374 36380	answer
+T344	Quotation 36382 36404	"Yes, I know, I know!"
+R370	Cueing Arg1:T343 Arg2:T344	
+R371	Speaker Arg1:T342 Arg2:T344	
+T345	Entity 36266 36269	his
+R372	Addressee Arg1:T345 Arg2:T344	
+T346	Entity 37001 37003	he
+T347	Cue 37004 37010	sighed
+T348	Quotation 37012 37051	"I should have liked to see him again!"
+T349	Entity 36962 36965	her
+R373	Cueing Arg1:T347 Arg2:T348	
+R374	Speaker Arg1:T346 Arg2:T348	
+R375	Addressee Arg1:T349 Arg2:T348	
+T350	Quotation 37120 37146	"How old was your father?"
+T351	Entity 37147 37150	she
+T352	Cue 37151 37156	asked
+R376	Speaker Arg1:T351 Arg2:T350	
+R377	Cueing Arg1:T352 Arg2:T350	
+R378	Addressee Arg1:T346 Arg2:T350	
+T353	Quotation 37158 37172	"Fifty-eight."
+R379	Addressee Arg1:T351 Arg2:T353	
+R380	Speaker Arg1:T346 Arg2:T353	
+T354	Quotation 37173 37178	"Ah!"
+R381	Speaker Arg1:T351 Arg2:T354	
+R382	Addressee Arg1:T346 Arg2:T354	
+T355	Entity 37224 37226	he
+T356	Cue 37227 37232	added
+T357	Quotation 37234 37280	"My poor mother! what will become of her now?"
+R383	Speaker Arg1:T355 Arg2:T357	
+R384	Cueing Arg1:T356 Arg2:T357	
+T358	Entity 37281 37284	She
+R385	Addressee Arg1:T358 Arg2:T357	
+T359	Quotation 37500 37535	"Did you enjoy yourself yesterday?"
+T360	Entity 37536 37538	he
+T361	Cue 37539 37544	asked
+R386	Speaker Arg1:T360 Arg2:T359	
+R387	Cueing Arg1:T361 Arg2:T359	
+T362	Quotation 37546 37552	"Yes."
+T363	Entity 37340 37343	her
+R388	Addressee Arg1:T363 Arg2:T359	
+R389	Addressee Arg1:T360 Arg2:T362	
+R390	Speaker Arg1:T363 Arg2:T362	
+T364	Quotation 38493 38526	"Hallo! you've a pretty bouquet,"
+T365	Entity 38527 38529	he
+T366	Cue 38530 38534	said
+R391	Speaker Arg1:T365 Arg2:T364	
+R392	Cueing Arg1:T366 Arg2:T364	
+T367	Quotation 38576 38582	"Yes,"
+T368	Entity 38583 38586	she
+T369	Cue 38587 38594	replied
+T370	Quotation 38610 38659	"it's a bouquet I bought just now from a beggar."
+R393	Speaker Arg1:T368 Arg2:T367	
+R394	Speaker Arg1:T368 Arg2:T370	
+R395	Cueing Arg1:T369 Arg2:T367	
+R396	Cueing Arg1:T369 Arg2:T370	
+R397	Addressee Arg1:T368 Arg2:T364	
+R398	Addressee Arg1:T365 Arg2:T367	
+R399	Addressee Arg1:T365 Arg2:T370	
+T371	Entity 40523 40527	Emma
+T372	Cue 40528 40536	answered
+T373	Quotation 40542 40574	she thought she could do without
+R400	Speaker Arg1:T371 Arg2:T373	
+R401	Cueing Arg1:T372 Arg2:T373	
+T374	Entity 40462 40464	He
+R402	Addressee Arg1:T374 Arg2:T373	
+T375	Quotation 40613 40633	"I beg your pardon,"
+T376	Entity 40634 40636	he
+T377	Cue 40637 40641	said
+T378	Quotation 40643 40695	"but I should like to have a private talk with you."
+T379	Quotation 40717 40753	"It's about that affair-- you know."
+R403	Speaker Arg1:T376 Arg2:T375	
+R404	Cueing Arg1:T377 Arg2:T375	
+R405	Speaker Arg1:T376 Arg2:T378	
+R406	Cueing Arg1:T377 Arg2:T378	
+R407	Speaker Arg1:T376 Arg2:T379	
+R408	Cueing Arg1:T377 Arg2:T379	
+R409	Addressee Arg1:T371 Arg2:T375	
+R410	Addressee Arg1:T371 Arg2:T378	
+R411	Addressee Arg1:T371 Arg2:T379	
+T380	Quotation 40785 40806	"Oh, yes! certainly."
+T381	Entity 40814 40817	his
+R412	Addressee Arg1:T376 Arg2:T380	
+R413	Speaker Arg1:T381 Arg2:T380	
+T382	Entity 40840 40848	his wife
+T383	Quotation 40850 40877	"Couldn't you, my darling?"
+R414	Speaker Arg1:T381 Arg2:T383	
+R415	Addressee Arg1:T382 Arg2:T383	
+T384	Quotation 40954 41014	"It is nothing particular. No doubt, some household trifle."
+T385	Entity 40926 40933	Charles
+T386	Cue 40934 40938	said
+T387	Entity 40942 40952	his mother
+R416	Speaker Arg1:T385 Arg2:T384	
+R417	Cueing Arg1:T386 Arg2:T384	
+R418	Addressee Arg1:T387 Arg2:T384	
+T388	Quotation 41567 41600	"And so you're quite well again?"
+T389	Entity 41601 41603	he
+T390	Cue 41604 41611	went on
+R419	Speaker Arg1:T389 Arg2:T388	
+R420	Cueing Arg1:T390 Arg2:T388	
+T391	Quotation 41613 41723	"Ma foi! I saw your husband in a sad state. He's a good fellow, though we did have a little misunderstanding."
+R421	Speaker Arg1:T389 Arg2:T391	
+R422	Cueing Arg1:T390 Arg2:T391	
+T392	Entity 41510 41513	She
+R423	Addressee Arg1:T392 Arg2:T388	
+R424	Addressee Arg1:T392 Arg2:T391	
+T393	Entity 41724 41727	She
+T394	Cue 41728 41733	asked
+T395	Quotation 41734 41755	what misunderstanding
+R425	Speaker Arg1:T393 Arg2:T395	
+R426	Cueing Arg1:T394 Arg2:T395	
+R427	Addressee Arg1:T389 Arg2:T395	
+T396	Quotation 41834 41862	"Why, you know well enough,"
+T397	Cue 41863 41868	cried
+T398	Entity 41869 41877	Lheureux
+T399	Quotation 41879 41938	"It was about your little fancies-- the travelling trunks."
+R428	Cueing Arg1:T397 Arg2:T396	
+R429	Speaker Arg1:T398 Arg2:T396	
+R430	Cueing Arg1:T397 Arg2:T399	
+R431	Speaker Arg1:T398 Arg2:T399	
+R432	Addressee Arg1:T393 Arg2:T396	
+R433	Addressee Arg1:T393 Arg2:T399	
+T400	Entity 42173 42175	he
+T401	Cue 42176 42183	went on
+T402	Quotation 42186 42268	"We made it up, all the same, and I've come again to propose another arrangement."
+R434	Speaker Arg1:T400 Arg2:T402	
+R435	Cueing Arg1:T401 Arg2:T402	
+T403	Entity 42111 42114	She
+R436	Addressee Arg1:T403 Arg2:T402	
+T404	Quotation 42449 42659	"And he would do better to give it over to someone else-- to you, for example. With a power of attorney it could be easily managed, and then we (you and I) would have our little business transactions together."
+T405	Entity 42660 42663	She
+T406	Entity 42684 42686	He
+R437	Addressee Arg1:T405 Arg2:T404	
+R438	Speaker Arg1:T406 Arg2:T404	
+T407	Quotation 42857 43010	"The one you've on is good enough for the house, but you want another for calls. I saw that the very moment that I came in. I've the eye of an American!"
+T408	Entity 42781 42783	He
+T409	Entity 42795 42798	her
+R439	Speaker Arg1:T408 Arg2:T407	
+R440	Addressee Arg1:T409 Arg2:T407	
+T410	Entity 44351 44358	Charles
+T411	Cue 44367 44372	asked
+T412	Entity 44373 44376	her
+T413	Quotation 44377 44403	where this paper came from
+R441	Speaker Arg1:T410 Arg2:T413	
+R442	Cueing Arg1:T411 Arg2:T413	
+R443	Addressee Arg1:T412 Arg2:T413	
+T414	Quotation 44405 44426	"Monsieur Guillaumin"
+T415	Entity 44457 44460	she
+T416	Cue 44461 44466	added
+T417	Quotation 44468 44587	"I don't trust him overmuch. Notaries have such a bad reputation. Perhaps we ought to consult-- we only know-- no one."
+R444	Speaker Arg1:T415 Arg2:T414	
+R445	Cueing Arg1:T416 Arg2:T414	
+R446	Speaker Arg1:T415 Arg2:T417	
+R447	Cueing Arg1:T416 Arg2:T417	
+R448	Addressee Arg1:T410 Arg2:T414	
+R449	Addressee Arg1:T410 Arg2:T417	
+T418	Quotation 44588 44605	"Unless Leon -- "
+T419	Cue 44606 44613	replied
+T420	Entity 44614 44621	Charles
+R450	Cueing Arg1:T419 Arg2:T418	
+R451	Speaker Arg1:T420 Arg2:T418	
+R452	Addressee Arg1:T415 Arg2:T418	
+T421	Quotation 44860 44876	"No, I will go!"
+T422	Entity 44822 44825	she
+T423	Cue 44826 44831	cried
+T424	Quotation 44877 44896	"How good you are!"
+T425	Entity 44897 44899	he
+T426	Cue 44900 44904	said
+R453	Speaker Arg1:T422 Arg2:T421	
+R454	Cueing Arg1:T423 Arg2:T421	
+R455	Addressee Arg1:T425 Arg2:T421	
+R456	Speaker Arg1:T425 Arg2:T424	
+R457	Cueing Arg1:T426 Arg2:T424	
+R458	Addressee Arg1:T422 Arg2:T424	
+T427	Entity 47120 47123	She
+T428	Cue 47138 47142	sing
+T429	Quotation 47145 47191	"One night, do you remember, we were sailing,"
+R459	Speaker Arg1:T427 Arg2:T429	
+R460	Cueing Arg1:T428 Arg2:T429	
+T430	Entity 47830 47841	The boatman
+T431	Cue 47868 47872	said
+T432	Quotation 47875 48197	"Perhaps it belongs to the party I took out the other day. A lot of jolly folk, gentlemen and ladies, with cakes, champagne, cornets-- everything in style! There was one especially, a tall handsome man with small moustaches, who was that funny! And they all kept saying, 'Now tell us something, Adolphe-- Dolpe,' I think."
+R461	Cueing Arg1:T431 Arg2:T432	
+R462	Speaker Arg1:T430 Arg2:T432	
+T433	Entity 47751 47755	Leon
+R463	Addressee Arg1:T433 Arg2:T432	
+T434	Quotation 48212 48230	"You are in pain?"
+T435	Cue 48231 48236	asked
+T436	Entity 48237 48241	Leon
+T437	Entity 48260 48263	her
+R464	Cueing Arg1:T435 Arg2:T434	
+R465	Speaker Arg1:T436 Arg2:T434	
+R466	Addressee Arg1:T437 Arg2:T434	
+T438	Quotation 48265 48320	"Oh, it's nothing! No doubt, it is only the night air."
+T439	Quotation 48321 48362	"And who doesn't want for women, either,"
+R467	Speaker Arg1:T437 Arg2:T438	
+R468	Addressee Arg1:T436 Arg2:T438	
+T440	Cue 48370 48375	added
+T441	Entity 48376 48386	the sailor
+R469	Cueing Arg1:T440 Arg2:T439	
+R470	Speaker Arg1:T441 Arg2:T439	
+T442	Entity 48411 48423	the stranger
+R471	Addressee Arg1:T442 Arg2:T439	
+T443	Quotation 48692 48731	"So you can assure me it is all right?"
+T444	Entity 48732 48735	she
+T445	Cue 48736 48740	said
+R472	Speaker Arg1:T444 Arg2:T443	
+R473	Cueing Arg1:T445 Arg2:T443	
+T446	Quotation 48761 48778	"Yes, certainly."
+T447	Entity 48790 48792	he
+R474	Addressee Arg1:T447 Arg2:T443	
+R475	Speaker Arg1:T447 Arg2:T446	
+R476	Addressee Arg1:T444 Arg2:T446	
+T448	Quotation 50652 50673	"I would rather die!"
+T449	Cue 50674 50678	said
+T450	Entity 50679 50683	Emma
+R477	Cueing Arg1:T449 Arg2:T448	
+R478	Speaker Arg1:T450 Arg2:T448	
+T451	Entity 50705 50708	his
+R479	Addressee Arg1:T451 Arg2:T448	
+T452	Quotation 50724 50767	"Adieu! adieu! When shall I see you again?"
+T453	Entity 50685 50688	She
+R480	Speaker Arg1:T453 Arg2:T452	
+R481	Addressee Arg1:T451 Arg2:T452	
+T454	Entity 51255 51263	Lheureux
+T455	Cue 51265 51274	declaring
+T456	Quotation 51290 51309	"drinking the sea,"
+R482	Cueing Arg1:T455 Arg2:T456	
+R483	Speaker Arg1:T454 Arg2:T456	
+T457	Entity 51218 51221	she
+R484	Addressee Arg1:T457 Arg2:T456	
+T458	Entity 51738 51745	Charles
+T459	Entity 51768 51771	she
+T460	Cue 51879 51884	cried
+T461	Quotation 51887 51936	"Bravo! very goodl You are wrong to stop. Go on!"
+R485	Cueing Arg1:T460 Arg2:T461	
+R486	Speaker Arg1:T458 Arg2:T461	
+R487	Addressee Arg1:T459 Arg2:T461	
+T462	Quotation 51937 51991	"Oh, no; it is execrable! My fingers are quite rusty."
+R488	Speaker Arg1:T459 Arg2:T462	
+R489	Addressee Arg1:T458 Arg2:T462	
+T463	Quotation 52048 52075	"Very well; to please you!"
+T464	Entity 52015 52018	her
+T465	Entity 52005 52007	he
+R490	Addressee Arg1:T465 Arg2:T463	
+R491	Speaker Arg1:T464 Arg2:T463	
+T466	Quotation 52186 52243	"Ah! it is no use. I ought to take some lessons; but -- "
+T468	Quotation 52272 52314	"Twenty francs a lesson, that's too dear!"
+T469	Entity 52244 52247	She
+R492	Speaker Arg1:T469 Arg2:T466	
+R493	Speaker Arg1:T469 Arg2:T468	
+T467	Cue 52265 52270	added
+R494	Cueing Arg1:T467 Arg2:T468	
+T470	Quotation 52315 52340	"Yes, so it is-- rather,"
+T471	Cue 52341 52345	said
+T472	Entity 52346 52353	Charles
+R495	Cueing Arg1:T471 Arg2:T470	
+R496	Addressee Arg1:T472 Arg2:T470	
+R497	Addressee Arg1:T472 Arg2:T466	
+R498	Addressee Arg1:T472 Arg2:T468	
+T473	Quotation 52374 52523	"But it seems to me that one might be able to do it for less; for there are artists of no reputation, and who are often better than the celebrities."
+R499	Cueing Arg1:T471 Arg2:T473	
+R500	Speaker Arg1:T472 Arg2:T473	
+R501	Addressee Arg1:T469 Arg2:T470	
+R502	Addressee Arg1:T469 Arg2:T473	
+T474	Quotation 52524 52536	"Find them!"
+T475	Cue 52537 52541	said
+T476	Entity 52542 52546	Emma
+R503	Cueing Arg1:T475 Arg2:T474	
+R504	Speaker Arg1:T476 Arg2:T474	
+R505	Addressee Arg1:T472 Arg2:T474	
+T477	Quotation 52652 52874	"How obstinate you are sometimes! I went to Barfucheres to-day. Well, Madame Liegard assured me that her three young ladies who are at La Misericorde have lessons at fifty sous apiece, and that from an excellent mistress!"
+T478	Entity 52579 52581	he
+T479	Entity 52592 52595	her
+R506	Speaker Arg1:T478 Arg2:T477	
+R507	Addressee Arg1:T479 Arg2:T477	
+T480	Entity 52986 52989	she
+T481	Cue 52990 52996	sighed
+T482	Quotation 52999 53019	"Ah! my poor piano!"
+R508	Speaker Arg1:T480 Arg2:T482	
+R509	Cueing Arg1:T481 Arg2:T482	
+T483	Entity 52966 52972	Bovary
+R510	Addressee Arg1:T483 Arg2:T482	
+T484	Quotation 53193 53231	"What a pity! she had so much talent!"
+T485	Entity 53167 53173	PEOPLE
+R511	Speaker Arg1:T485 Arg2:T484	
+T486	Quotation 53319 53791	"You are wrong. One should never let any of the faculties of nature lie fallow. Besides, just think, my good friend, that by inducing madame to study; you are economising on the subsequent musical education of your child. For my own part, I think that mothers ought themselves to instruct their children. That is an idea of Rousseau's, still rather new perhaps, but that will end by triumphing, I am certain of it, like mothers nursing their own children and vaccination."
+T487	Entity 53277 53280	him
+T488	Entity 53268 53272	They
+R512	Speaker Arg1:T487 Arg2:T486	
+R513	Addressee Arg1:T488 Arg2:T486	
+T489	Quotation 54055 54070	"If you liked,"
+T490	Entity 54071 54073	he
+T491	Cue 54074 54078	said
+T492	Quotation 54080 54150	"a lesson from time to time, that wouldn't after all be very ruinous."
+R514	Speaker Arg1:T490 Arg2:T489	
+R515	Speaker Arg1:T490 Arg2:T492	
+R516	Cueing Arg1:T491 Arg2:T489	
+R517	Cueing Arg1:T491 Arg2:T492	
+T493	Entity 53943 53946	her
+R518	Addressee Arg1:T493 Arg2:T489	
+R519	Addressee Arg1:T493 Arg2:T492	
+T494	Quotation 54151 54165	"But lessons,"
+T495	Entity 54166 54169	she
+T496	Cue 54170 54177	replied
+T497	Quotation 54179 54214	"are only of use when followed up."
+R520	Speaker Arg1:T495 Arg2:T494	
+R521	Speaker Arg1:T495 Arg2:T497	
+R522	Cueing Arg1:T496 Arg2:T494	
+R523	Cueing Arg1:T496 Arg2:T497	
+T498	Entity 61534 61538	They
+T499	Cue 61539 61543	said
+T500	Quotation 61544 61555	"our room,"
+T501	Quotation 61556 61569	"our carpet,"
+T502	Entity 61570 61573	she
+T503	Cue 61579 61583	said
+T504	Quotation 61584 61598	"my slippers,"
+R524	Cueing Arg1:T499 Arg2:T500	
+R525	Speaker Arg1:T498 Arg2:T500	
+R526	Addressee Arg1:T498 Arg2:T500	
+R527	Cueing Arg1:T499 Arg2:T501	
+R528	Speaker Arg1:T498 Arg2:T501	
+R529	Addressee Arg1:T498 Arg2:T501	
+R530	Cueing Arg1:T503 Arg2:T504	
+R531	Speaker Arg1:T502 Arg2:T504	
+T505	Entity 61609 61615	Leon's
+R532	Addressee Arg1:T505 Arg2:T504	
+T506	Entity 62972 62975	She
+T507	Entity 62986 62989	him
+T508	Cue 62995 63003	murmured
+T509	Quotation 63039 63146	"Oh, do not move! do not speak! look at me! Something so sweet comes from your eyes that helps me so much!"
+R533	Cueing Arg1:T508 Arg2:T509	
+R534	Addressee Arg1:T507 Arg2:T509	
+R535	Speaker Arg1:T506 Arg2:T509	
+T510	Entity 63147 63150	She
+T511	Cue 63151 63157	called
+T512	Entity 63158 63161	him
+T513	Quotation 63162 63170	"child."
+T514	Quotation 63171 63195	"Child, do you love me?"
+R536	Addressee Arg1:T512 Arg2:T513	
+R537	Addressee Arg1:T512 Arg2:T514	
+R538	Cueing Arg1:T511 Arg2:T513	
+R539	Cueing Arg1:T511 Arg2:T514	
+R540	Speaker Arg1:T510 Arg2:T513	
+R541	Speaker Arg1:T510 Arg2:T514	
+T515	Entity 63515 63519	they
+T516	Cue 63525 63534	repeating
+T517	Quotation 63536 63567	"Till Thursday, till Thursday."
+R542	Cueing Arg1:T516 Arg2:T517	
+R543	Speaker Arg1:T515 Arg2:T517	
+R544	Addressee Arg1:T515 Arg2:T517	
+T518	Entity 63577 63580	she
+T519	Entity 63623 63626	him
+T520	Quotation 63662 63670	"Adieu!"
+T521	Cue 63654 63660	crying
+R545	Cueing Arg1:T521 Arg2:T520	
+R546	Addressee Arg1:T519 Arg2:T520	
+R547	Speaker Arg1:T518 Arg2:T520	
+T522	Entity 65480 65482	He
+T523	Quotation 65533 65604	"Maids an the warmth of a summer day Dream of love, and of love always"
+T524	Cue 65483 65487	sang
+R548	Speaker Arg1:T522 Arg2:T523	
+R549	Cueing Arg1:T524 Arg2:T523	
+T525	Entity 65779 65781	He
+T526	Cue 65788 65794	advise
+T527	Entity 65795 65798	him
+T528	Quotation 65802 65838	get a booth at the Saint Romain fair
+T529	Cue 65848 65851	ask
+T530	Entity 65852 65855	him
+T531	Quotation 65867 65890	how his young woman was
+R550	Speaker Arg1:T525 Arg2:T528	
+R551	Cueing Arg1:T526 Arg2:T528	
+R552	Addressee Arg1:T527 Arg2:T528	
+R553	Cueing Arg1:T529 Arg2:T531	
+R554	Addressee Arg1:T530 Arg2:T531	
+R555	Speaker Arg1:T525 Arg2:T531	
+T532	Entity 67491 67502	her husband
+T533	Cue 67523 67528	asked
+T534	Entity 67511 67514	her
+T535	Quotation 67529 67547	if she were unwell
+R556	Speaker Arg1:T532 Arg2:T535	
+R557	Addressee Arg1:T534 Arg2:T535	
+R558	Cueing Arg1:T533 Arg2:T535	
+T536	Quotation 67549 67554	"No,"
+T537	Cue 67555 67559	said
+T538	Entity 67560 67564	Emma
+R559	Addressee Arg1:T532 Arg2:T536	
+R560	Cueing Arg1:T537 Arg2:T536	
+R561	Speaker Arg1:T538 Arg2:T536	
+T539	Quotation 67566 67572	"But,"
+T540	Entity 67573 67575	he
+T541	Cue 67576 67583	replied
+T542	Quotation 67585 67620	"you seem so strange this evening."
+R562	Speaker Arg1:T540 Arg2:T539	
+R563	Cueing Arg1:T541 Arg2:T539	
+R564	Speaker Arg1:T540 Arg2:T542	
+R565	Cueing Arg1:T541 Arg2:T542	
+R566	Addressee Arg1:T538 Arg2:T539	
+R567	Addressee Arg1:T538 Arg2:T542	
+T543	Quotation 67621 67649	"Oh, it's nothing! nothing!"
+R568	Addressee Arg1:T540 Arg2:T543	
+R569	Speaker Arg1:T538 Arg2:T543	
+T544	Quotation 67942 67949	"Come!"
+T545	Cue 67950 67954	said
+T546	Entity 67955 67958	she
+T547	Quotation 67960 67991	"that will do. Now you can go."
+R570	Cueing Arg1:T545 Arg2:T544	
+R571	Cueing Arg1:T545 Arg2:T547	
+R572	Speaker Arg1:T546 Arg2:T544	
+R573	Speaker Arg1:T546 Arg2:T547	
+T548	Entity 67839 67841	He
+R574	Addressee Arg1:T548 Arg2:T544	
+R575	Addressee Arg1:T548 Arg2:T547	
+T549	Entity 68627 68630	She
+T550	Cue 68637 68641	said
+T551	Entity 68645 68648	him
+T552	Quotation 68685 68767	"Ah! you too, you will leave me! You will marry! You will be like all the others."
+R576	Speaker Arg1:T549 Arg2:T552	
+R577	Cueing Arg1:T550 Arg2:T552	
+R578	Addressee Arg1:T551 Arg2:T552	
+T553	Entity 68768 68770	He
+T554	Cue 68771 68776	asked
+T555	Quotation 68778 68792	"What others?"
+R579	Speaker Arg1:T553 Arg2:T555	
+R580	Cueing Arg1:T554 Arg2:T555	
+T556	Quotation 68793 68813	"Why, like all men,"
+T557	Entity 68814 68817	she
+T558	Cue 68818 68825	replied
+R581	Speaker Arg1:T557 Arg2:T556	
+R582	Cueing Arg1:T558 Arg2:T556	
+R583	Addressee Arg1:T557 Arg2:T555	
+R584	Addressee Arg1:T553 Arg2:T556	
+T559	Cue 68832 68837	added
+T560	Entity 68849 68852	him
+T561	Quotation 68879 68898	"You are all evil!"
+R585	Cueing Arg1:T559 Arg2:T561	
+R586	Addressee Arg1:T560 Arg2:T561	
+R587	Speaker Arg1:T557 Arg2:T561	
+T562	Entity 69069 69072	she
+T563	Cue 69073 69077	told
+T564	Entity 69078 69081	him
+T565	Quotation 69087 69130	formerly, before him, she had loved someone
+R588	Speaker Arg1:T562 Arg2:T565	
+R589	Cueing Arg1:T563 Arg2:T565	
+R590	Addressee Arg1:T564 Arg2:T565	
+T566	Quotation 69132 69147	"Not like you,"
+T567	Entity 69148 69151	she
+T568	Cue 69152 69159	went on
+T569	Quotation 69210 69244	"nothing had passed between them."
+R591	Speaker Arg1:T567 Arg2:T566	
+R592	Cueing Arg1:T568 Arg2:T566	
+R593	Speaker Arg1:T567 Arg2:T569	
+R594	Cueing Arg1:T568 Arg2:T569	
+R595	Addressee Arg1:T564 Arg2:T566	
+R596	Addressee Arg1:T564 Arg2:T569	
+T570	Quotation 69331 69366	"He was a ship's captain, my dear."
+T571	Entity 69245 69258	The young man
+T572	Entity 69268 69271	her
+T573	Cue 69291 69301	questioned
+R597	Speaker Arg1:T571 Arg2:T570	
+R598	Addressee Arg1:T572 Arg2:T570	
+R599	Cueing Arg1:T573 Arg2:T570	
+T574	Entity 70247 70250	she
+T575	Cue 70260 70269	murmuring
+T576	Quotation 70271 70306	"Ah! how happy we should be there!"
+T577	Quotation 70307 70326	"Are we not happy?"
+T578	Cue 70334 70342	answered
+T579	Entity 70343 70356	the young man
+R600	Cueing Arg1:T575 Arg2:T576	
+R601	Speaker Arg1:T574 Arg2:T576	
+R602	Addressee Arg1:T579 Arg2:T576	
+R603	Cueing Arg1:T578 Arg2:T577	
+R604	Speaker Arg1:T579 Arg2:T577	
+R605	Addressee Arg1:T574 Arg2:T577	
+T580	Quotation 70390 70410	"Yes, that is true,"
+T581	Entity 70411 70414	she
+T582	Cue 70415 70419	said
+R606	Speaker Arg1:T581 Arg2:T580	
+R607	Cueing Arg1:T582 Arg2:T580	
+T583	Quotation 70421 70441	"I am mad. Kiss me!"
+R608	Speaker Arg1:T581 Arg2:T583	
+R609	Cueing Arg1:T582 Arg2:T583	
+R610	Addressee Arg1:T579 Arg2:T580	
+R611	Addressee Arg1:T579 Arg2:T583	
+T584	Entity 70666 70668	he
+T585	Cue 70669 70673	said
+T586	Quotation 70676 70740	"It is Mademoiselle Lempereur, isn't it, who gives you lessons?"
+R612	Speaker Arg1:T584 Arg2:T586	
+R613	Cueing Arg1:T585 Arg2:T586	
+T587	Entity 70610 70614	Emma
+R614	Addressee Arg1:T587 Arg2:T586	
+T588	Quotation 70741 70747	"Yes."
+R615	Speaker Arg1:T587 Arg2:T588	
+R616	Addressee Arg1:T584 Arg2:T588	
+T589	Quotation 70748 70775	"Well, I saw her just now,"
+T590	Entity 70776 70783	Charles
+T591	Cue 70784 70791	went on
+T592	Quotation 70793 70868	"at Madame Liegeard's. I spoke to her about you, and she doesn't know you."
+R617	Speaker Arg1:T590 Arg2:T589	
+R618	Cueing Arg1:T591 Arg2:T589	
+R619	Speaker Arg1:T590 Arg2:T592	
+R620	Cueing Arg1:T591 Arg2:T592	
+T593	Entity 70907 70910	she
+R621	Addressee Arg1:T593 Arg2:T589	
+R622	Addressee Arg1:T593 Arg2:T592	
+T594	Cue 70911 70918	replied
+T595	Quotation 70937 70971	"Ah! no doubt she forgot my name."
+R623	Speaker Arg1:T593 Arg2:T595	
+R624	Cueing Arg1:T594 Arg2:T595	
+T596	Quotation 70972 70986	"But perhaps,"
+T597	Cue 70987 70991	said
+T598	Entity 70992 71002	the doctor
+T599	Quotation 71004 71080	"there are several Demoiselles Lempereur at Rouen who are music-mistresses."
+R625	Cueing Arg1:T597 Arg2:T596	
+R626	Cueing Arg1:T597 Arg2:T599	
+R627	Speaker Arg1:T598 Arg2:T596	
+R628	Speaker Arg1:T598 Arg2:T599	
+R629	Addressee Arg1:T598 Arg2:T595	
+R630	Addressee Arg1:T593 Arg2:T596	
+R631	Addressee Arg1:T593 Arg2:T599	
+T600	Quotation 71081 71092	"Possibly!"
+T601	Quotation 71108 71143	"But I have my receipts here. See!"
+T602	Entity 71148 71151	she
+R632	Speaker Arg1:T602 Arg2:T600	
+R633	Speaker Arg1:T602 Arg2:T601	
+R634	Addressee Arg1:T598 Arg2:T600	
+R635	Addressee Arg1:T598 Arg2:T601	
+T603	Quotation 71360 71383	"Oh, I will find them,"
+T604	Entity 71384 71387	she
+T605	Cue 71388 71392	said
+R636	Speaker Arg1:T604 Arg2:T603	
+R637	Cueing Arg1:T605 Arg2:T603	
+T606	Entity 71272 71279	Charles
+R638	Addressee Arg1:T606 Arg2:T603	
+T607	Quotation 71301 71358	not to take so much trouble about those wretched receipts
+T608	Cue 71290 71296	begged
+R639	Cueing Arg1:T608 Arg2:T607	
+T609	Entity 71297 71300	her
+R640	Addressee Arg1:T609 Arg2:T607	
+R641	Speaker Arg1:T606 Arg2:T607	
+T610	Quotation 71749 71790	"How the devil did it get into my boots?"
+T611	Entity 71584 71586	He
+R642	Speaker Arg1:T611 Arg2:T610	
+T612	Quotation 71791 71801	"It must,"
+T613	Entity 71802 71805	she
+R643	Addressee Arg1:T613 Arg2:T610	
+T614	Cue 71806 71813	replied
+T615	Quotation 71815 71888	"have fallen from the old box of bills that is on the edge of the shelf."
+R644	Speaker Arg1:T613 Arg2:T612	
+R645	Speaker Arg1:T613 Arg2:T615	
+R646	Cueing Arg1:T614 Arg2:T612	
+R647	Cueing Arg1:T614 Arg2:T615	
+R648	Addressee Arg1:T611 Arg2:T612	
+R649	Addressee Arg1:T611 Arg2:T615	
+T616	Entity 73434 73436	he
+T617	Entity 73445 73448	her
+T618	Cue 73474 73478	said
+T619	Quotation 73480 73505	"I must have some money."
+R650	Speaker Arg1:T616 Arg2:T619	
+R651	Addressee Arg1:T617 Arg2:T619	
+R652	Cueing Arg1:T618 Arg2:T619	
+T620	Entity 73506 73509	She
+T621	Cue 73510 73518	declared
+T622	Quotation 73519 73545	she could not give him any
+R653	Cueing Arg1:T621 Arg2:T622	
+R654	Speaker Arg1:T620 Arg2:T622	
+R655	Addressee Arg1:T616 Arg2:T622	
+T623	Entity 73547 73555	Lheureux
+T624	Cue 73584 73592	reminded
+T625	Entity 73593 73596	her
+T626	Quotation 73597 73635	of all the kindnesses he had shown her
+R656	Speaker Arg1:T623 Arg2:T626	
+R657	Cueing Arg1:T624 Arg2:T626	
+R658	Addressee Arg1:T625 Arg2:T626	
+T627	Entity 74111 74113	He
+T628	Cue 74114 74121	went on
+T629	Quotation 74124 74181	"But if you haven't any ready money, you have an estate."
+R659	Speaker Arg1:T627 Arg2:T629	
+R660	Cueing Arg1:T628 Arg2:T629	
+T630	Entity 74198 74201	her
+R661	Addressee Arg1:T630 Arg2:T629	
+T631	Quotation 74464 74490	"If I were in your place,"
+T632	Entity 74491 74493	he
+T633	Cue 74494 74498	said
+T634	Quotation 74500 74562	"I should clear myself of my debts, and have money left over."
+R662	Speaker Arg1:T632 Arg2:T631	
+R663	Speaker Arg1:T632 Arg2:T634	
+R664	Cueing Arg1:T633 Arg2:T631	
+R665	Cueing Arg1:T633 Arg2:T634	
+T635	Entity 74563 74566	She
+R666	Addressee Arg1:T635 Arg2:T631	
+R667	Addressee Arg1:T635 Arg2:T634	
+T636	Quotation 74707 74744	"Haven't you your power of attorney?"
+T637	Entity 74659 74662	she
+T638	Cue 74663 74668	asked
+T639	Entity 74669 74672	him
+T640	Quotation 74673 74705	how she should manage to sell it
+R668	Speaker Arg1:T637 Arg2:T640	
+R669	Cueing Arg1:T638 Arg2:T640	
+R670	Addressee Arg1:T639 Arg2:T640	
+T641	Entity 74745 74747	he
+T642	Cue 74748 74755	replied
+R671	Speaker Arg1:T641 Arg2:T636	
+R672	Cueing Arg1:T642 Arg2:T636	
+R673	Addressee Arg1:T637 Arg2:T636	
+T643	Quotation 74808 74828	"Leave me the bill,"
+T644	Cue 74829 74833	said
+T645	Entity 74834 74838	Emma
+R674	Cueing Arg1:T644 Arg2:T643	
+R675	Speaker Arg1:T645 Arg2:T643	
+R676	Addressee Arg1:T641 Arg2:T643	
+T646	Quotation 74840 74867	"Oh, it isn't worth while,"
+T647	Cue 74868 74876	answered
+T648	Entity 74877 74885	Lheureux
+R677	Cueing Arg1:T647 Arg2:T646	
+R678	Speaker Arg1:T648 Arg2:T646	
+R679	Addressee Arg1:T645 Arg2:T646	
+T649	Quotation 75089 75112	"Never mind the price!"
+T650	Entity 75113 75116	she
+T651	Cue 75117 75122	cried
+R680	Speaker Arg1:T650 Arg2:T649	
+R681	Cueing Arg1:T651 Arg2:T649	
+T652	Entity 74887 74889	He
+R682	Addressee Arg1:T652 Arg2:T649	
+T653	Entity 75339 75341	he
+T654	Cue 75342 75351	announced
+T655	Quotation 75357 75400	the purchaser proposed four thousand francs
+R683	Speaker Arg1:T653 Arg2:T655	
+R684	Cueing Arg1:T654 Arg2:T655	
+T656	Entity 75402 75406	Emma
+R685	Addressee Arg1:T656 Arg2:T655	
+T657	Quotation 75433 75443	"Frankly,"
+T658	Entity 75444 75446	he
+T659	Cue 75447 75452	added
+T660	Quotation 75454 75476	"that's a good price."
+R686	Speaker Arg1:T658 Arg2:T657	
+R687	Cueing Arg1:T659 Arg2:T657	
+R688	Speaker Arg1:T658 Arg2:T660	
+R689	Cueing Arg1:T659 Arg2:T660	
+R690	Addressee Arg1:T656 Arg2:T657	
+R691	Addressee Arg1:T656 Arg2:T660	
+T661	Entity 75550 75564	the shopkeeper
+T662	Cue 75565 75569	said
+T663	Entity 75517 75520	she
+T664	Quotation 75572 75676	"It really grieves me, on my word! to see you depriving yourself all at once of such a big sum as that."
+R692	Addressee Arg1:T663 Arg2:T664	
+R693	Speaker Arg1:T661 Arg2:T664	
+R694	Cueing Arg1:T662 Arg2:T664	
+T665	Quotation 75821 75834	"What! what!"
+T666	Entity 75805 75808	she
+T667	Cue 75809 75818	stammered
+R695	Cueing Arg1:T667 Arg2:T665	
+R696	Speaker Arg1:T666 Arg2:T665	
+R697	Addressee Arg1:T661 Arg2:T665	
+T668	Quotation 75835 75840	"Oh!"
+T669	Entity 75841 75843	he
+T670	Cue 75844 75851	went on
+T671	Quotation 75878 75971	"one puts anything one likes on receipts. Don't you think I know what household affairs are?"
+R698	Speaker Arg1:T669 Arg2:T668	
+R699	Cueing Arg1:T670 Arg2:T668	
+R700	Speaker Arg1:T669 Arg2:T671	
+R701	Cueing Arg1:T670 Arg2:T671	
+R702	Addressee Arg1:T666 Arg2:T668	
+R703	Addressee Arg1:T666 Arg2:T671	
+T672	Quotation 76186 76199	"Sign these,"
+T673	Entity 76200 76202	he
+T674	Cue 76203 76207	said
+T675	Quotation 76209 76227	"and keep it all!"
+R704	Speaker Arg1:T673 Arg2:T672	
+R705	Cueing Arg1:T674 Arg2:T672	
+R706	Speaker Arg1:T673 Arg2:T675	
+R707	Cueing Arg1:T674 Arg2:T675	
+T676	Entity 76228 76231	She
+R708	Addressee Arg1:T676 Arg2:T672	
+R709	Addressee Arg1:T676 Arg2:T675	
+T677	Quotation 76256 76288	"But if I give you the surplus,"
+T678	Cue 76289 76296	replied
+T679	Entity 76297 76314	Monsieur Lheureux
+T680	Quotation 76327 76353	"is that not helping you?"
+R710	Cueing Arg1:T678 Arg2:T677	
+R711	Cueing Arg1:T678 Arg2:T680	
+R712	Speaker Arg1:T679 Arg2:T677	
+R713	Speaker Arg1:T679 Arg2:T680	
+R714	Addressee Arg1:T676 Arg2:T677	
+R715	Addressee Arg1:T676 Arg2:T680	
+T681	Quotation 76460 76612	"Now who can trouble you, since in six months you'll draw the arrears for your cottage, and I don't make the last bill due till after you've been paid?"
+T682	Entity 76371 76373	he
+R716	Speaker Arg1:T682 Arg2:T681	
+T683	Entity 76613 76617	Emma
+R717	Addressee Arg1:T683 Arg2:T681	
+T684	Quotation 77186 77278	"You understand-- in business-- sometimes. And with the date, if you please, with the date."
+T685	Entity 77151 77153	he
+T686	Cue 77165 77170	asked
+R718	Cueing Arg1:T686 Arg2:T684	
+R719	Speaker Arg1:T685 Arg2:T684	
+T687	Entity 77327 77331	Emma
+R720	Addressee Arg1:T687 Arg2:T684	
+T688	Quotation 77818 77890	"Really, you must confess, considering the quantity, it isn't too dear."
+T689	Entity 77734 77737	him
+T690	Entity 77679 77682	she
+R721	Addressee Arg1:T689 Arg2:T688	
+R722	Speaker Arg1:T690 Arg2:T688	
+T691	Quotation 78286 78292	"Yes,"
+T692	Entity 78293 78295	he
+T693	Cue 78296 78303	replied
+T694	Entity 78226 78230	Emma
+R723	Speaker Arg1:T692 Arg2:T691	
+R724	Cueing Arg1:T693 Arg2:T691	
+R725	Addressee Arg1:T694 Arg2:T691	
+T695	Quotation 78305 78340	"but she wants to see the account."
+R726	Cueing Arg1:T693 Arg2:T695	
+R727	Speaker Arg1:T692 Arg2:T695	
+R728	Addressee Arg1:T694 Arg2:T695	
+T696	Quotation 78835 79374	"Couldn't you do without a carpet? Why have recovered the arm-chairs? In my time there was a single arm-chair in a house, for elderly persons-- at any rate it was so at my mother's, who was a good woman, I can tell you. Everybody can't be rich! No fortune can hold out against waste! I should be ashamed to coddle myself as you do! And yet I am old. I need looking after. And there! there! fitting up gowns! fallals! What! silk for lining at two francs, when you can get jaconet for ten sous, or even for eight, that would do well enough!"
+T697	Entity 78765 78785	Madame Bovary senior
+R729	Speaker Arg1:T697 Arg2:T696	
+T698	Entity 79375 79379	Emma
+T699	Quotation 79433 79462	"Ah! Madame, enough! enough!"
+T700	Cue 79400 79407	replied
+R730	Addressee Arg1:T698 Arg2:T696	
+R731	Cueing Arg1:T700 Arg2:T699	
+R732	Speaker Arg1:T698 Arg2:T699	
+R733	Addressee Arg1:T697 Arg2:T699	
+T701	Quotation 79626 79633	"What?"
+T702	Entity 79463 79472	The other
+R734	Addressee Arg1:T702 Arg2:T701	
+R735	Speaker Arg1:T698 Arg2:T701	
+T703	Quotation 79634 79658	"Ah! he swore he would,"
+T704	Cue 79659 79666	went on
+T705	Entity 79667 79681	the good woman
+R736	Cueing Arg1:T704 Arg2:T703	
+R737	Speaker Arg1:T705 Arg2:T703	
+T706	Entity 79683 79687	Emma
+R738	Addressee Arg1:T706 Arg2:T703	
+T707	Quotation 79901 79913	"Thank you,"
+T708	Cue 79914 79918	said
+T709	Entity 79919 79932	the old woman
+R739	Cueing Arg1:T708 Arg2:T707	
+R740	Speaker Arg1:T709 Arg2:T707	
+T710	Entity 79938 79941	she
+R741	Addressee Arg1:T710 Arg2:T707	
+T711	Quotation 80078 80091	"Oh, my God!"
+T712	Cue 80092 80097	cried
+T713	Entity 80098 80105	Charles
+R742	Cueing Arg1:T712 Arg2:T711	
+R743	Speaker Arg1:T713 Arg2:T711	
+T714	Quotation 80107 80174	"Ah! you really are wrong! You come here and make scenes with her!"
+T715	Entity 79985 79989	Emma
+R744	Addressee Arg1:T715 Arg2:T711	
+R745	Speaker Arg1:T715 Arg2:T714	
+R746	Addressee Arg1:T713 Arg2:T714	
+T716	Entity 80175 80185	His mother
+T717	Cue 80212 80220	declared
+T718	Quotation 80228 80241	"all put on."
+R747	Cueing Arg1:T717 Arg2:T718	
+R748	Speaker Arg1:T716 Arg2:T718	
+T719	Entity 80246 80253	Charles
+R749	Addressee Arg1:T719 Arg2:T718	
+T720	Entity 80442 80445	she
+T721	Cue 80446 80453	replied
+T722	Quotation 80456 80654	"No, no! You love her better than me, and you are right. It is natural. For the rest, so much the worse! You will see. Good day-- for I am not likely to come soon again, as you say, to make scenes."
+R750	Speaker Arg1:T720 Arg2:T722	
+R751	Cueing Arg1:T721 Arg2:T722	
+T723	Entity 80655 80662	Charles
+R752	Addressee Arg1:T723 Arg2:T722	
+T724	Quotation 80971 80986	"I understand,"
+T725	Cue 80987 80991	said
+T726	Entity 80992 81002	the notary
+T727	Quotation 81004 81075	"a man of science can't be worried with the practical details of life."
+R753	Cueing Arg1:T725 Arg2:T724	
+R754	Speaker Arg1:T726 Arg2:T724	
+R755	Speaker Arg1:T726 Arg2:T727	
+R756	Cueing Arg1:T725 Arg2:T727	
+T728	Entity 80871 80873	He
+R757	Addressee Arg1:T728 Arg2:T727	
+R758	Addressee Arg1:T728 Arg2:T724	
+T729	Quotation 82947 82958	"I am mad,"
+T730	Entity 82959 82961	he
+T731	Cue 82962 82966	said
+T732	Quotation 82968 83025	"no doubt they kept her to dinner at Monsieur Lormeaux'."
+R759	Speaker Arg1:T730 Arg2:T729	
+R760	Cueing Arg1:T731 Arg2:T729	
+R761	Speaker Arg1:T730 Arg2:T732	
+R762	Cueing Arg1:T731 Arg2:T732	
+T733	Quotation 83069 83192	"She probably stayed to look after Madame Dubreuil. Why, Madame Dubreuil has been dead these ten months! Where can she be?"
+R763	Speaker Arg1:T730 Arg2:T733	
+R764	Cueing Arg1:T731 Arg2:T733	
+T734	Entity 83452 83454	He
+T735	Cue 83504 83510	crying
+T736	Quotation 83513 83539	"What kept you yesterday?"
+R765	Speaker Arg1:T734 Arg2:T736	
+R766	Cueing Arg1:T735 Arg2:T736	
+T737	Entity 83474 83477	her
+R767	Addressee Arg1:T737 Arg2:T736	
+T738	Quotation 83540 83557	"I was not well."
+R768	Speaker Arg1:T737 Arg2:T738	
+R769	Addressee Arg1:T734 Arg2:T738	
+T739	Quotation 83558 83584	"What was it? Where? How?"
+R770	Speaker Arg1:T734 Arg2:T739	
+R771	Addressee Arg1:T737 Arg2:T739	
+T740	Quotation 83637 83667	"At Mademoiselle Lempereur's."
+T741	Cue 83627 83635	answered
+T742	Entity 83585 83588	She
+R772	Cueing Arg1:T741 Arg2:T740	
+R773	Speaker Arg1:T742 Arg2:T740	
+R774	Addressee Arg1:T734 Arg2:T740	
+T743	Quotation 83668 83706	"I was sure of it! I was going there."
+R775	Addressee Arg1:T742 Arg2:T743	
+R776	Speaker Arg1:T734 Arg2:T743	
+T744	Quotation 83707 83734	"Oh, it isn't worth while,"
+T745	Cue 83735 83739	said
+T746	Entity 83740 83744	Emma
+R777	Cueing Arg1:T745 Arg2:T744	
+R778	Speaker Arg1:T746 Arg2:T744	
+R779	Addressee Arg1:T734 Arg2:T744	
+T747	Quotation 83746 83884	"She went out just now; but for the future don't worry. I do not feel free, you see, if I know that the least delay upsets you like this."
+R780	Cueing Arg1:T745 Arg2:T747	
+R781	Speaker Arg1:T746 Arg2:T747	
+R782	Addressee Arg1:T734 Arg2:T747	
+T748	Quotation 84335 84355	"Pshaw! come along,"
+T749	Entity 84356 84359	she
+T750	Cue 84360 84364	said
+R783	Speaker Arg1:T749 Arg2:T748	
+R784	Cueing Arg1:T750 Arg2:T748	
+T751	Entity 84370 84372	he
+R785	Addressee Arg1:T751 Arg2:T748	
+T752	Quotation 84677 84711	"Ah! ah! you care for your money,"
+T753	Entity 84712 84715	she
+T754	Cue 84716 84720	said
+T755	Entity 84543 84545	He
+R786	Speaker Arg1:T753 Arg2:T752	
+R787	Cueing Arg1:T754 Arg2:T752	
+R788	Addressee Arg1:T755 Arg2:T752	
+T756	Entity 84816 84819	She
+T757	Cue 84820 84825	asked
+T758	Entity 84826 84829	him
+T759	Quotation 84830 84845	for some verses
+R789	Speaker Arg1:T756 Arg2:T759	
+R790	Cueing Arg1:T757 Arg2:T759	
+R791	Addressee Arg1:T758 Arg2:T759	
+T760	Quotation 85524 85540	"With pleasure!"
+T761	Entity 85541 85556	Monsieur Homais
+T762	Cue 85557 85564	replied
+T763	Quotation 85566 85702	"besides, I must invigorate my mind, for I am getting rusty here. We'll go to the theatre, to the restaurant; we'll make a night of it."
+R792	Speaker Arg1:T761 Arg2:T760	
+R793	Cueing Arg1:T762 Arg2:T760	
+R794	Speaker Arg1:T761 Arg2:T763	
+R795	Cueing Arg1:T762 Arg2:T763	
+T764	Entity 85426 85430	Leon
+R796	Addressee Arg1:T764 Arg2:T760	
+R797	Addressee Arg1:T764 Arg2:T763	
+T765	Quotation 85703 85717	"Oh, my dear!"
+T766	Cue 85727 85735	murmured
+T767	Entity 85736 85749	Madame Homais
+R798	Cueing Arg1:T766 Arg2:T765	
+R799	Speaker Arg1:T767 Arg2:T765	
+T768	Quotation 85806 86169	"Well, what? Do you think I'm not sufficiently ruining my health living here amid the continual emanations of the pharmacy? But there! that is the way with women! They are jealous of science, and then are opposed to our taking the most legitimate distractions. No matter! Count upon me. One of these days I shall turn up at Rouen, and we'll go the pace together."
+R800	Cueing Arg1:T766 Arg2:T768	
+R801	Speaker Arg1:T767 Arg2:T768	
+R802	Addressee Arg1:T764 Arg2:T765	
+R803	Addressee Arg1:T764 Arg2:T768	
+T769	Entity 86439 86441	he
+T770	Cue 86485 86491	saying
+T771	Quotation 86492 86498	bender
+T772	Quotation 86500 86506	crummy
+T773	Quotation 86508 86513	dandy
+T774	Quotation 86515 86523	macaroni
+T775	Quotation 86525 86535	the cheese
+T776	Quotation 86537 86549	cut my stick
+T777	Quotation 86554 86569	"I'll hook it,"
+T778	Quotation 86574 86587	"I am going."
+R804	Cueing Arg1:T770 Arg2:T771	
+R805	Cueing Arg1:T770 Arg2:T772	
+R806	Cueing Arg1:T770 Arg2:T773	
+R807	Cueing Arg1:T770 Arg2:T774	
+R808	Cueing Arg1:T770 Arg2:T775	
+R809	Cueing Arg1:T770 Arg2:T776	
+R810	Cueing Arg1:T770 Arg2:T777	
+R811	Cueing Arg1:T770 Arg2:T778	
+R812	Speaker Arg1:T769 Arg2:T771	
+R813	Speaker Arg1:T769 Arg2:T772	
+R814	Speaker Arg1:T769 Arg2:T773	
+R815	Speaker Arg1:T769 Arg2:T774	
+R816	Speaker Arg1:T769 Arg2:T775	
+R817	Speaker Arg1:T769 Arg2:T776	
+R818	Speaker Arg1:T769 Arg2:T777	
+R819	Speaker Arg1:T769 Arg2:T778	
+T779	Entity 86470 86483	the bourgeois
+R820	Addressee Arg1:T779 Arg2:T771	
+R821	Addressee Arg1:T779 Arg2:T772	
+R822	Addressee Arg1:T779 Arg2:T773	
+R823	Addressee Arg1:T779 Arg2:T774	
+R824	Addressee Arg1:T779 Arg2:T775	
+R825	Addressee Arg1:T779 Arg2:T776	
+R826	Addressee Arg1:T779 Arg2:T777	
+R827	Addressee Arg1:T779 Arg2:T778	
+T780	Quotation 88634 88660	"You must be very lonely,"
+T781	Entity 88661 88663	he
+T782	Cue 88664 88668	said
+T783	Quotation 88679 88744	"here at Rouen. To be sure your lady-love doesn't live far away."
+T784	Entity 88749 88758	THE OTHER
+R828	Speaker Arg1:T781 Arg2:T780	
+R829	Speaker Arg1:T781 Arg2:T783	
+R830	Cueing Arg1:T782 Arg2:T780	
+R831	Cueing Arg1:T782 Arg2:T783	
+R832	Addressee Arg1:T784 Arg2:T780	
+R833	Addressee Arg1:T784 Arg2:T783	
+T785	Quotation 88769 88824	"Come now, be frank. Can you deny that at Yonville -- "
+T786	Entity 88825 88838	The young man
+R834	Speaker Arg1:T786 Arg2:T785	
+R835	Addressee Arg1:T781 Arg2:T785	
+T787	Quotation 88860 88911	"At Madame Bovary's, you're not making love to -- "
+R836	Addressee Arg1:T786 Arg2:T787	
+R837	Speaker Arg1:T781 Arg2:T787	
+T788	Quotation 88912 88922	"To whom?"
+R838	Speaker Arg1:T786 Arg2:T788	
+R839	Addressee Arg1:T781 Arg2:T788	
+T789	Quotation 88923 88937	"The servant!"
+T790	Entity 88938 88940	He
+T791	Entity 89004 89008	Leon
+R840	Speaker Arg1:T790 Arg2:T789	
+R841	Addressee Arg1:T791 Arg2:T789	
+T792	Quotation 89076 89096	"I approve of that,"
+T793	Cue 89097 89101	said
+T794	Entity 89102 89113	the chemist
+T795	Quotation 89115 89140	"they have more passion."
+R842	Cueing Arg1:T793 Arg2:T792	
+R843	Cueing Arg1:T793 Arg2:T795	
+R844	Speaker Arg1:T794 Arg2:T792	
+R845	Speaker Arg1:T794 Arg2:T795	
+T796	Entity 89050 89052	he
+R846	Addressee Arg1:T796 Arg2:T792	
+R847	Addressee Arg1:T796 Arg2:T795	
+T797	Quotation 89388 89404	"And negresses?"
+T798	Cue 89405 89410	asked
+T799	Entity 89411 89420	the clerk
+R848	Cueing Arg1:T798 Arg2:T797	
+R849	Speaker Arg1:T799 Arg2:T797	
+T800	Entity 89259 89261	He
+R850	Addressee Arg1:T800 Arg2:T797	
+T801	Quotation 89422 89451	"They are an artistic taste!"
+T802	Cue 89452 89456	said
+T803	Entity 89457 89463	Homais
+R851	Cueing Arg1:T802 Arg2:T801	
+R852	Speaker Arg1:T803 Arg2:T801	
+R853	Addressee Arg1:T799 Arg2:T801	
+T804	Quotation 89465 89494	"Waiter! two cups of coffee!"
+R854	Speaker Arg1:T803 Arg2:T804	
+R855	Cueing Arg1:T802 Arg2:T804	
+T805	Quotation 89495 89510	"Are we going?"
+T806	Cue 89519 89524	asked
+T807	Entity 89525 89529	Leon
+R856	Cueing Arg1:T806 Arg2:T805	
+R857	Speaker Arg1:T807 Arg2:T805	
+R858	Addressee Arg1:T803 Arg2:T805	
+T808	Quotation 89543 89548	"Ja!"
+R859	Addressee Arg1:T807 Arg2:T808	
+R860	Speaker Arg1:T803 Arg2:T808	
+T809	Quotation 89727 89751	"Ah! I will escort you,"
+T810	Cue 89752 89756	said
+T811	Entity 89757 89763	Homais
+R861	Cueing Arg1:T810 Arg2:T809	
+R862	Speaker Arg1:T811 Arg2:T809	
+T812	Entity 89658 89671	the young man
+R863	Addressee Arg1:T812 Arg2:T809	
+T813	Entity 89827 89829	he
+T814	Quotation 89840 89900	his wife, his children; of their future, and of his business
+T815	Entity 89907 89910	him
+T816	Cue 89830 89836	talked
+T817	Cue 89902 89906	told
+R864	Cueing Arg1:T816 Arg2:T814	
+T818	Entity 89823 89826	him
+R865	Speaker Arg1:T813 Arg2:T814	
+R866	Addressee Arg1:T818 Arg2:T814	
+T819	Quotation 89911 90012	in what a decayed condition it had formerly been, and to what a degree of perfection he had raised it
+R867	Cueing Arg1:T817 Arg2:T819	
+R868	Addressee Arg1:T815 Arg2:T819	
+R869	Speaker Arg1:T813 Arg2:T819	
+T820	Entity 90698 90707	a servant
+T821	Cue 90720 90724	tell
+T822	Entity 90725 90738	the gentleman
+T823	Quotation 90744 90757	he was wanted
+R870	Speaker Arg1:T820 Arg2:T823	
+R871	Addressee Arg1:T822 Arg2:T823	
+R872	Cueing Arg1:T821 Arg2:T823	
+T824	Quotation 90759 90780	"You will come back?"
+T825	Entity 90781 90784	she
+T826	Cue 90785 90789	said
+R873	Speaker Arg1:T825 Arg2:T824	
+R874	Cueing Arg1:T826 Arg2:T824	
+R875	Addressee Arg1:T822 Arg2:T824	
+T827	Quotation 90791 90797	"Yes."
+R876	Addressee Arg1:T825 Arg2:T827	
+R877	Speaker Arg1:T822 Arg2:T827	
+T828	Quotation 90798 90809	"But when?"
+R878	Speaker Arg1:T825 Arg2:T828	
+R879	Addressee Arg1:T822 Arg2:T828	
+T829	Quotation 90810 90824	"Immediately."
+R880	Addressee Arg1:T825 Arg2:T829	
+R881	Speaker Arg1:T822 Arg2:T829	
+T830	Quotation 90825 90840	"It's a trick,"
+T831	Cue 90841 90845	said
+T832	Entity 90846 90857	the chemist
+T833	Entity 90871 90875	Leon
+R882	Cueing Arg1:T831 Arg2:T830	
+R883	Speaker Arg1:T832 Arg2:T830	
+R884	Addressee Arg1:T833 Arg2:T830	
+T834	Quotation 90877 90992	"I wanted to interrupt this visit, that seemed to me to annoy you. Let's go and have a glass of garus at Bridoux'."
+R885	Speaker Arg1:T832 Arg2:T834	
+R886	Cueing Arg1:T831 Arg2:T834	
+R887	Addressee Arg1:T833 Arg2:T834	
+T835	Quotation 91102 91244	"Leave Cujas and Barthole alone a bit. Who the devil prevents you? Be a man! Let's go to Bridoux'. You'll see his dog. It's very interesting."
+T836	Entity 90993 90997	Leon
+R888	Addressee Arg1:T836 Arg2:T835	
+T837	Entity 91046 91058	the druggist
+R889	Speaker Arg1:T837 Arg2:T835	
+T838	Cue 90998 91003	vowed
+T839	Quotation 91009 91039	he must get back to his office
+R890	Speaker Arg1:T836 Arg2:T839	
+R891	Cueing Arg1:T838 Arg2:T839	
+R892	Addressee Arg1:T837 Arg2:T839	
+T840	Quotation 91279 91375	"I'll go with you. I'll read a paper while I wait for you, or turn over the leaves of a 'Code.'"
+T841	Entity 91252 91261	THE CLERK
+R893	Addressee Arg1:T841 Arg2:T840	
+R894	Speaker Arg1:T837 Arg2:T840	
+T842	Quotation 91564 91626	"Let's go to Bridoux'. It's just by here, in the Rue Malpalu."
+T843	Entity 91530 91541	the chemist
+T844	Cue 91552 91561	repeating
+T845	Entity 91376 91380	Leon
+R895	Cueing Arg1:T844 Arg2:T842	
+R896	Speaker Arg1:T843 Arg2:T842	
+R897	Addressee Arg1:T845 Arg2:T842	
+T846	Entity 92033 92037	Leon
+T847	Entity 92059 92068	the other
+T849	Cue 92091 92097	saying
+T848	Quotation 92100 92217	"Presently! I'm coming! We'll go to the 'Fanal de Rouen' to see the fellows there. I'll introduce you to Thornassin."
+R898	Addressee Arg1:T846 Arg2:T848	
+R899	Speaker Arg1:T847 Arg2:T848	
+R900	Cueing Arg1:T849 Arg2:T848	
+T850	Entity 94867 94870	She
+T851	Cue 94871 94875	said
+T852	Entity 94879 94882	him
+T853	Quotation 94885 94950	"Don't see them; don't go out; think only of ourselves; love me!"
+R901	Speaker Arg1:T850 Arg2:T853	
+R902	Cueing Arg1:T851 Arg2:T853	
+R903	Addressee Arg1:T852 Arg2:T853	
+T854	Entity 96922 96944	a wretched-looking man
+T855	Entity 96973 96976	her
+T856	Cue 96984 96990	saying
+T857	Quotation 96994 97036	had been sent by Monsieur Vincart of Rouen
+R904	Cueing Arg1:T856 Arg2:T857	
+R905	Addressee Arg1:T855 Arg2:T857	
+R906	Speaker Arg1:T854 Arg2:T857	
+T858	Quotation 97513 97557	"What answer am I to take Monsieur Vincart?"
+T859	Cue 97488 97493	asked
+T860	Entity 97372 97384	the stranger
+T861	Entity 97569 97573	Emma
+R907	Speaker Arg1:T860 Arg2:T858	
+R908	Cueing Arg1:T859 Arg2:T858	
+R909	Addressee Arg1:T861 Arg2:T858	
+T862	Quotation 97558 97563	"Oh,"
+T863	Cue 97564 97568	said
+T864	Quotation 97575 97662	"tell him that I haven't it. I will send next week; he must wait; yes, till next week."
+R910	Cueing Arg1:T863 Arg2:T862	
+R911	Speaker Arg1:T861 Arg2:T862	
+R912	Cueing Arg1:T863 Arg2:T864	
+R913	Speaker Arg1:T861 Arg2:T864	
+R914	Addressee Arg1:T860 Arg2:T862	
+R915	Addressee Arg1:T860 Arg2:T864	
+T865	Quotation 98000 98016	"Your obedient!"
+T866	Entity 98017 98019	he
+T867	Cue 98020 98024	said
+T868	Quotation 98026 98049	"I am at your service."
+R916	Speaker Arg1:T866 Arg2:T865	
+R917	Cueing Arg1:T867 Arg2:T865	
+R918	Speaker Arg1:T866 Arg2:T868	
+R919	Cueing Arg1:T867 Arg2:T868	
+T869	Entity 97954 97957	She
+R920	Addressee Arg1:T869 Arg2:T865	
+R921	Addressee Arg1:T869 Arg2:T868	
+T870	Entity 98942 98950	Lheureux
+T871	Cue 98987 98993	saying
+T872	Quotation 98995 99007	"What news?"
+R922	Speaker Arg1:T870 Arg2:T872	
+R923	Cueing Arg1:T871 Arg2:T872	
+T873	Entity 98692 98707	Madame Bovary's
+R924	Addressee Arg1:T873 Arg2:T872	
+T874	Quotation 99008 99014	"See!"
+R925	Addressee Arg1:T870 Arg2:T874	
+T875	Entity 99019 99022	she
+R926	Speaker Arg1:T875 Arg2:T874	
+T876	Entity 99030 99033	him
+T877	Quotation 99045 99070	"Well how can I help it?"
+R927	Addressee Arg1:T875 Arg2:T877	
+R928	Speaker Arg1:T876 Arg2:T877	
+T878	Quotation 99181 99240	"But I was pressed myself; the knife was at my own throat."
+T879	Entity 99076 99079	she
+T880	Entity 99102 99105	him
+R929	Addressee Arg1:T879 Arg2:T878	
+R930	Speaker Arg1:T880 Arg2:T878	
+T881	Cue 99092 99101	reminding
+T882	Quotation 99109 99159	the promise he had given not to pay away her bills
+R931	Cueing Arg1:T881 Arg2:T882	
+R932	Speaker Arg1:T879 Arg2:T882	
+R933	Addressee Arg1:T880 Arg2:T882	
+T883	Quotation 99241 99268	"And what will happen now?"
+T884	Entity 99269 99272	she
+T885	Cue 99273 99280	went on
+T886	Quotation 99282 99356	"Oh, it's very simple; a judgment and then a distraint-- that's about it!"
+R934	Speaker Arg1:T884 Arg2:T883	
+R935	Cueing Arg1:T885 Arg2:T883	
+R936	Addressee Arg1:T880 Arg2:T883	
+R937	Addressee Arg1:T884 Arg2:T886	
+R938	Speaker Arg1:T880 Arg2:T886	
+T887	Quotation 99463 99545	"I dare say! Quiet Vincart! You don't know him; he's more ferocious than an Arab!"
+T888	Entity 99357 99361	Emma
+T889	Cue 99400 99405	asked
+T890	Quotation 99416 99461	there was no way of quieting Monsieur Vincart
+R939	Speaker Arg1:T888 Arg2:T890	
+R940	Cueing Arg1:T889 Arg2:T890	
+T891	Entity 99391 99394	him
+R941	Speaker Arg1:T891 Arg2:T890	
+R942	Speaker Arg1:T891 Arg2:T887	
+R943	Addressee Arg1:T888 Arg2:T887	
+T892	Quotation 99586 99651	"Well, listen. It seems to me so far I've been very good to you."
+T893	Quotation 99684 99690	"See,"
+T894	Entity 99691 99693	he
+T895	Cue 99694 99698	said
+R944	Speaker Arg1:T894 Arg2:T893	
+R945	Cueing Arg1:T895 Arg2:T893	
+R946	Speaker Arg1:T894 Arg2:T892	
+T896	Quotation 99742 99863	"Let's see! let's see! August 3d, two hundred francs; June 17th, a hundred and fifty; March 23d, forty-six. In April -- "
+R947	Speaker Arg1:T894 Arg2:T896	
+R948	Cueing Arg1:T895 Arg2:T896	
+R949	Addressee Arg1:T888 Arg2:T892	
+R950	Addressee Arg1:T888 Arg2:T893	
+R951	Addressee Arg1:T888 Arg2:T896	
+T897	Entity 99864 99866	He
+T898	Quotation 99913 100178	"Not to speak of the bills signed by Monsieur Bovary, one for seven hundred francs, and another for three hundred. As to your little installments, with the interest, why, there's no end to 'em; one gets quite muddled over 'em. I'll have nothing more to do with it."
+R952	Speaker Arg1:T897 Arg2:T898	
+T899	Entity 100179 100182	She
+R953	Addressee Arg1:T899 Arg2:T898	
+T900	Entity 100189 100192	she
+T901	Cue 100198 100204	called
+T902	Entity 100205 100208	him
+T903	Quotation 100209 100238	"her good Monsieur Lheureux."
+T904	Entity 100243 100245	he
+T905	Quotation 100268 100290	"that rascal Vincart."
+R954	Addressee Arg1:T902 Arg2:T903	
+R955	Cueing Arg1:T901 Arg2:T903	
+R956	Speaker Arg1:T900 Arg2:T903	
+R957	Speaker Arg1:T904 Arg2:T905	
+R958	Addressee Arg1:T900 Arg2:T905	
+T906	Entity 100576 100578	he
+T907	Cue 100579 100586	went on
+T908	Quotation 100589 100655	"Unless one of these days I have something coming in, I might -- "
+T909	Entity 100453 100457	Emma
+R959	Addressee Arg1:T909 Arg2:T908	
+R960	Speaker Arg1:T906 Arg2:T908	
+R961	Cueing Arg1:T907 Arg2:T908	
+T910	Quotation 100656 100666	"Besides,"
+T911	Cue 100667 100671	said
+T912	Entity 100672 100675	she
+T913	Quotation 100677 100719	"as soon as the balance of Barneville -- "
+R962	Cueing Arg1:T911 Arg2:T910	
+R963	Speaker Arg1:T912 Arg2:T910	
+R964	Cueing Arg1:T911 Arg2:T913	
+R965	Speaker Arg1:T912 Arg2:T913	
+R966	Addressee Arg1:T906 Arg2:T910	
+R967	Addressee Arg1:T906 Arg2:T913	
+T914	Quotation 100720 100727	"What!"
+R968	Addressee Arg1:T912 Arg2:T914	
+T915	Entity 100774 100776	he
+R969	Speaker Arg1:T915 Arg2:T914	
+T916	Quotation 100825 100849	"And we agree, you say?"
+T917	Quotation 100850 100877	"Oh! to anything you like."
+R970	Speaker Arg1:T915 Arg2:T916	
+R971	Addressee Arg1:T915 Arg2:T917	
+R972	Addressee Arg1:T912 Arg2:T916	
+R973	Speaker Arg1:T912 Arg2:T917	
+T918	Cue 100947 100956	declaring
+T919	Quotation 100957 101137	it would be very difficult for him, that the affair was shady, and that he was being bled, he wrote out four bills for two hundred and fifty francs each, to fall due month by month
+T920	Entity 100886 100888	he
+R974	Cueing Arg1:T918 Arg2:T919	
+R975	Speaker Arg1:T920 Arg2:T919	
+T921	Quotation 101139 101248	"Provided that Vincart will listen to me! However, it's settled. I don't play the fool; I'm straight enough."
+T922	Entity 101254 101256	he
+T923	Entity 101275 101278	her
+R976	Speaker Arg1:T922 Arg2:T921	
+R977	Addressee Arg1:T923 Arg2:T919	
+R978	Addressee Arg1:T923 Arg2:T921	
+T924	Quotation 101362 101557	"When I think that there's a dress at threepence-halfpenny a yard, and warranted fast colours! And yet they actually swallow it! Of course you understand one doesn't tell them what it really is!"
+R979	Speaker Arg1:T922 Arg2:T924	
+R980	Addressee Arg1:T923 Arg2:T924	
+T925	Quotation 101756 101774	"Isn't it lovely?"
+T926	Cue 101775 101779	said
+T927	Entity 101780 101788	Lheureux
+R981	Cueing Arg1:T926 Arg2:T925	
+R982	Speaker Arg1:T927 Arg2:T925	
+T928	Entity 101670 101673	her
+R983	Addressee Arg1:T928 Arg2:T925	
+T929	Quotation 101790 101866	"It is very much used now for the backs of arm-chairs. It's quite the rage."
+T930	Quotation 101972 102002	"But at least let me know -- "
+R984	Cueing Arg1:T926 Arg2:T929	
+R985	Speaker Arg1:T927 Arg2:T929	
+R986	Addressee Arg1:T928 Arg2:T929	
+T931	Entity 101899 101901	he
+T932	Entity 101958 101964	Emma's
+R987	Addressee Arg1:T931 Arg2:T930	
+R988	Speaker Arg1:T932 Arg2:T930	
+T933	Quotation 102003 102023	"Yes, another time,"
+T934	Entity 102024 102026	he
+T935	Cue 102027 102034	replied
+R989	Speaker Arg1:T934 Arg2:T933	
+R990	Cueing Arg1:T935 Arg2:T933	
+T936	Entity 102075 102078	she
+R991	Addressee Arg1:T936 Arg2:T933	
+T937	Quotation 104159 104168	"Ah, no!"
+T938	Entity 104169 104171	he
+T939	Cue 104172 104176	said
+T940	Quotation 104189 104210	"I should worry her."
+R992	Speaker Arg1:T938 Arg2:T937	
+R993	Cueing Arg1:T939 Arg2:T937	
+R994	Speaker Arg1:T938 Arg2:T940	
+R995	Cueing Arg1:T939 Arg2:T940	
+T941	Quotation 104797 104816	"Call the servant,"
+T942	Cue 104817 104821	said
+T943	Entity 104822 104829	Charles
+T944	Quotation 104831 104892	"You know, dearie, that mamma does not like to be disturbed."
+T945	Entity 104751 104760	the child
+R996	Addressee Arg1:T945 Arg2:T941	
+R997	Cueing Arg1:T942 Arg2:T941	
+R998	Speaker Arg1:T943 Arg2:T941	
+R999	Cueing Arg1:T942 Arg2:T944	
+R1000	Speaker Arg1:T943 Arg2:T944	
+R1001	Addressee Arg1:T945 Arg2:T944	
+T946	Quotation 105598 105612	"Oh, go away!"
+T947	Entity 105613 105616	she
+T948	Cue 105623 105626	say
+R1002	Speaker Arg1:T947 Arg2:T946	
+R1003	Cueing Arg1:T948 Arg2:T946	
+T949	Entity 105574 105581	Charles
+R1004	Addressee Arg1:T949 Arg2:T946	
+T950	Entity 113688 113691	She
+T951	Entity 113713 113716	his
+T952	Quotation 113744 113801	"You know what has happened to me? No doubt it's a joke!"
+R1005	Speaker Arg1:T950 Arg2:T952	
+R1006	Addressee Arg1:T951 Arg2:T952	
+T953	Quotation 113802 113811	"How so?"
+T954	Entity 113812 113814	He
+T955	Cue 113858 113862	said
+T956	Entity 113866 113869	her
+R1007	Speaker Arg1:T954 Arg2:T953	
+R1008	Addressee Arg1:T956 Arg2:T953	
+T957	Quotation 113872 114047	"My good lady, did you think I should go on to all eternity being your purveyor and banker, for the love of God? Now be just. I must get back what I've laid out. Now be just."
+R1009	Speaker Arg1:T954 Arg2:T957	
+R1010	Cueing Arg1:T955 Arg2:T957	
+R1011	Addressee Arg1:T956 Arg2:T957	
+T958	Entity 114048 114051	She
+T960	Quotation 114080 114222	"Ah! so much the worse. The court has admitted it. There's a judgment. It's been notified to you. Besides, it isn't my fault. It's Vincart's."
+R1012	Addressee Arg1:T958 Arg2:T960	
+R1013	Speaker Arg1:T954 Arg2:T960	
+T959	Quotation 114223 114242	"Could you not-- ?"
+R1014	Speaker Arg1:T958 Arg2:T959	
+R1015	Addressee Arg1:T954 Arg2:T959	
+T961	Quotation 114243 114266	"Oh, nothing whatever."
+R1016	Addressee Arg1:T958 Arg2:T961	
+R1017	Speaker Arg1:T954 Arg2:T961	
+T962	Quotation 114267 114297	"But still, now talk it over."
+R1018	Speaker Arg1:T958 Arg2:T962	
+R1019	Addressee Arg1:T954 Arg2:T962	
+T963	Quotation 114387 114409	"Whose fault is that?"
+T964	Cue 114410 114414	said
+T965	Entity 114415 114423	Lheureux
+T966	Quotation 114444 114505	"While I'm slaving like a nigger, you go gallivanting about."
+R1020	Cueing Arg1:T964 Arg2:T963	
+R1021	Speaker Arg1:T965 Arg2:T963	
+R1022	Cueing Arg1:T964 Arg2:T966	
+R1023	Speaker Arg1:T965 Arg2:T966	
+T967	Quotation 114506 114525	"Ah! no lecturing."
+T968	Entity 114302 114305	she
+R1024	Addressee Arg1:T968 Arg2:T963	
+R1025	Addressee Arg1:T968 Arg2:T966	
+R1026	Speaker Arg1:T968 Arg2:T967	
+T969	Quotation 114526 114551	"It never does any harm,"
+T970	Entity 114552 114554	he
+T971	Cue 114555 114562	replied
+R1027	Addressee Arg1:T970 Arg2:T967	
+R1028	Speaker Arg1:T970 Arg2:T969	
+R1029	Cueing Arg1:T971 Arg2:T969	
+T972	Entity 114564 114567	She
+R1030	Addressee Arg1:T972 Arg2:T969	
+T973	Quotation 114683 114743	"There, that'll do! Anyone'd think you wanted to seduce me!"
+T974	Entity 114660 114676	the shopkeeper's
+R1031	Speaker Arg1:T974 Arg2:T973	
+T975	Entity 114601 114604	she
+R1032	Addressee Arg1:T975 Arg2:T973	
+T976	Quotation 114744 114763	"You are a wretch!"
+T977	Entity 114764 114767	she
+T978	Cue 114768 114773	cried
+R1033	Speaker Arg1:T977 Arg2:T976	
+R1034	Cueing Arg1:T978 Arg2:T976	
+R1035	Addressee Arg1:T974 Arg2:T976	
+T979	Quotation 114775 114798	"Oh, oh! go it! go it!"
+R1036	Addressee Arg1:T977 Arg2:T979	
+R1037	Speaker Arg1:T974 Arg2:T979	
+T980	Quotation 114799 114845	"I will show you up. I shall tell my husband."
+R1038	Speaker Arg1:T977 Arg2:T980	
+R1039	Addressee Arg1:T974 Arg2:T980	
+T981	Quotation 114846 114899	"All right! I too. I'll show your husband something."
+T982	Entity 114904 114912	Lheureux
+R1040	Speaker Arg1:T982 Arg2:T981	
+R1041	Addressee Arg1:T977 Arg2:T981	
+T983	Quotation 115040 115055	"Do you think,"
+T984	Entity 115056 115058	he
+T985	Cue 115059 115064	added
+T986	Quotation 115066 115131	"that he'll not understand your little theft, the poor dear man?"
+R1042	Speaker Arg1:T984 Arg2:T983	
+R1043	Speaker Arg1:T984 Arg2:T986	
+R1044	Cueing Arg1:T985 Arg2:T983	
+R1045	Cueing Arg1:T985 Arg2:T986	
+T987	Entity 115132 115135	She
+R1046	Addressee Arg1:T987 Arg2:T983	
+R1047	Addressee Arg1:T987 Arg2:T986	
+T988	Entity 115203 115205	He
+T989	Cue 115261 115270	repeating
+T990	Quotation 115287 115322	"Ah! I'll show him! I'll show him!"
+R1048	Speaker Arg1:T988 Arg2:T990	
+R1049	Cueing Arg1:T989 Arg2:T990	
+T991	Cue 115367 115371	said
+T992	Quotation 115374 115517	"It isn't pleasant, I know; but, after all, no bones are broken, and, since that is the only way that is left for you paying back my money -- "
+R1050	Cueing Arg1:T991 Arg2:T992	
+R1051	Speaker Arg1:T988 Arg2:T992	
+T993	Entity 115342 115345	her
+R1052	Addressee Arg1:T993 Arg2:T992	
+T994	Quotation 115518 115546	"But where am I to get any?"
+T995	Cue 115547 115551	said
+T996	Entity 115552 115556	Emma
+T997	Quotation 115578 115615	"Bah! when one has friends like you!"
+R1053	Cueing Arg1:T995 Arg2:T994	
+R1054	Speaker Arg1:T996 Arg2:T994	
+T998	Entity 115620 115622	he
+R1055	Addressee Arg1:T998 Arg2:T994	
+R1056	Speaker Arg1:T998 Arg2:T997	
+R1057	Addressee Arg1:T996 Arg2:T997	
+T999	Quotation 115710 115726	"I promise you,"
+T1000	Entity 115727 115730	she
+T1001	Cue 115731 115735	said
+T1002	Quotation 115737 115750	"to sign -- "
+R1058	Speaker Arg1:T1000 Arg2:T999	
+R1059	Cueing Arg1:T1001 Arg2:T999	
+R1060	Speaker Arg1:T1000 Arg2:T1002	
+R1061	Cueing Arg1:T1001 Arg2:T1002	
+R1062	Addressee Arg1:T998 Arg2:T999	
+R1063	Addressee Arg1:T998 Arg2:T1002	
+T1003	Quotation 115751 115784	"I've enough of your signatures."
+R1064	Speaker Arg1:T998 Arg2:T1003	
+R1065	Addressee Arg1:T1000 Arg2:T1003	
+T1004	Quotation 115785 115809	"I will sell something."
+R1066	Speaker Arg1:T1000 Arg2:T1004	
+T1005	Quotation 115810 115822	"Get along!"
+T1006	Entity 115823 115825	he
+T1007	Cue 115826 115830	said
+R1067	Addressee Arg1:T1006 Arg2:T1004	
+R1068	Speaker Arg1:T1006 Arg2:T1005	
+R1069	Cueing Arg1:T1007 Arg2:T1005	
+T1008	Quotation 115857 115883	"you've not got anything."
+R1070	Speaker Arg1:T1006 Arg2:T1008	
+R1071	Cueing Arg1:T1007 Arg2:T1008	
+R1072	Addressee Arg1:T1000 Arg2:T1005	
+R1073	Addressee Arg1:T1000 Arg2:T1008	
+T1009	Quotation 115953 116005	"Annette, don't forget the three coupons of No. 14."
+T1010	Entity 115888 115890	he
+T1011	Cue 115891 115897	called
+R1074	Speaker Arg1:T1010 Arg2:T1009	
+R1075	Cueing Arg1:T1011 Arg2:T1009	
+T1012	Entity 116006 116017	The servant
+R1076	Addressee Arg1:T1012 Arg2:T1009	
+T1013	Quotation 116120 116137	"It is too late."
+T1014	Entity 116028 116032	Emma
+T1015	Cue 116049 116054	asked
+T1016	Quotation 116055 116118	how much money would be wanted to put a stop to the proceedings
+R1077	Speaker Arg1:T1014 Arg2:T1016	
+R1078	Cueing Arg1:T1015 Arg2:T1016	
+R1079	Addressee Arg1:T1010 Arg2:T1016	
+R1080	Addressee Arg1:T1014 Arg2:T1013	
+T1017	Quotation 116138 116240	"But if I brought you several thousand francs -- a quarter of the sum -- a third-- perhaps the whole?"
+R1081	Speaker Arg1:T1010 Arg2:T1013	
+R1082	Addressee Arg1:T1010 Arg2:T1017	
+R1083	Speaker Arg1:T1014 Arg2:T1017	
+T1018	Quotation 116241 116259	"No; it's no use!"
+T1019	Entity 116264 116266	he
+T1020	Entity 116274 116277	her
+R1084	Speaker Arg1:T1019 Arg2:T1018	
+R1085	Addressee Arg1:T1020 Arg2:T1018	
+T1021	Quotation 116308 116365	"I implore you, Monsieur Lheureux, just a few days more!"
+T1022	Entity 116366 116369	She
+R1086	Speaker Arg1:T1022 Arg2:T1021	
+T1023	Quotation 116383 116402	"There! tears now!"
+T1024	Quotation 116403 116435	"You are driving me to despair!"
+T1025	Quotation 116436 116453	"What do I care?"
+T1026	Cue 116454 116458	said
+T1027	Entity 116459 116461	he
+R1087	Cueing Arg1:T1026 Arg2:T1025	
+R1088	Speaker Arg1:T1027 Arg2:T1025	
+R1089	Addressee Arg1:T1019 Arg2:T1021	
+R1090	Speaker Arg1:T1019 Arg2:T1023	
+R1091	Addressee Arg1:T1022 Arg2:T1023	
+R1092	Addressee Arg1:T1027 Arg2:T1024	
+R1093	Speaker Arg1:T1022 Arg2:T1024	
+R1094	Addressee Arg1:T1022 Arg2:T1025	
+T1028	Entity 117149 117162	Maitre Hareng
+T1029	Cue 117251 117259	repeated
+T1030	Quotation 117280 117313	"Allow me, madame. You allow me?"
+R1095	Speaker Arg1:T1028 Arg2:T1030	
+R1096	Cueing Arg1:T1029 Arg2:T1030	
+T1031	Entity 117003 117006	her
+R1097	Addressee Arg1:T1031 Arg2:T1030	
+T1032	Quotation 117345 117369	"Charming! very pretty."
+T1033	Entity 117320 117322	he
+R1098	Speaker Arg1:T1033 Arg2:T1032	
+T1034	Quotation 117601 117624	"Ah! a correspondence,"
+T1035	Cue 117625 117629	said
+T1036	Entity 117630 117643	Maitre Hareng
+R1099	Cueing Arg1:T1035 Arg2:T1034	
+R1100	Speaker Arg1:T1036 Arg2:T1034	
+T1037	Entity 117517 117520	She
+R1101	Addressee Arg1:T1037 Arg2:T1034	
+T1038	Quotation 117668 117735	"But allow me, for I must make sure the box contains nothing else."
+T1039	Entity 117808 117811	she
+R1102	Addressee Arg1:T1039 Arg2:T1038	
+R1103	Cueing Arg1:T1035 Arg2:T1038	
+R1104	Speaker Arg1:T1036 Arg2:T1038	
+T1040	Quotation 118735 118764	"Is anyone walking upstairs?"
+T1041	Cue 118765 118769	said
+T1042	Entity 118770 118777	Charles
+R1105	Cueing Arg1:T1041 Arg2:T1040	
+R1106	Speaker Arg1:T1042 Arg2:T1040	
+T1043	Quotation 118779 118784	"No,"
+T1044	Entity 118785 118788	she
+T1045	Cue 118789 118796	replied
+T1046	Quotation 118798 118868	"it is a window that has been left open, and is rattling in the wind."
+R1107	Speaker Arg1:T1044 Arg2:T1043	
+R1108	Cueing Arg1:T1045 Arg2:T1043	
+R1109	Speaker Arg1:T1044 Arg2:T1046	
+R1110	Cueing Arg1:T1045 Arg2:T1046	
+R1111	Addressee Arg1:T1044 Arg2:T1040	
+R1112	Addressee Arg1:T1042 Arg2:T1043	
+R1113	Addressee Arg1:T1042 Arg2:T1046	
+T1047	Entity 119037 119069	those whom she did manage to see
+T1048	Entity 119070 119073	she
+T1049	Cue 119074 119079	asked
+T1050	Quotation 119080 119151	for money, declaring she must have some, and that she would pay it back
+R1114	Addressee Arg1:T1047 Arg2:T1050	
+R1115	Speaker Arg1:T1048 Arg2:T1050	
+R1116	Cueing Arg1:T1049 Arg2:T1050	
+T1051	Quotation 119293 119316	"What brings you here?"
+T1052	Entity 119207 119210	she
+T1053	Entity 119222 119226	Leon
+R1117	Addressee Arg1:T1052 Arg2:T1051	
+R1118	Speaker Arg1:T1053 Arg2:T1051	
+T1054	Quotation 119317 119336	"Do I disturb you?"
+R1119	Speaker Arg1:T1052 Arg2:T1054	
+R1120	Addressee Arg1:T1053 Arg2:T1054	
+T1055	Quotation 119337 119350	"No; but -- "
+R1121	Addressee Arg1:T1052 Arg2:T1055	
+R1122	Speaker Arg1:T1053 Arg2:T1055	
+T1056	Quotation 119372 119421	his landlord didn't like his having "women" there
+T1057	Entity 119355 119357	he
+T1058	Cue 119358 119366	admitted
+R1123	Speaker Arg1:T1057 Arg2:T1056	
+R1124	Cueing Arg1:T1058 Arg2:T1056	
+T1059	Quotation 119423 119445	"I must speak to you,"
+T1060	Entity 119446 119449	she
+T1061	Cue 119450 119457	went on
+R1125	Speaker Arg1:T1060 Arg2:T1059	
+R1126	Cueing Arg1:T1061 Arg2:T1059	
+R1127	Addressee Arg1:T1060 Arg2:T1056	
+R1128	Addressee Arg1:T1057 Arg2:T1059	
+T1062	Entity 119464 119466	he
+T1063	Entity 119490 119493	she
+T1064	Quotation 119507 119541	"No, no! Down there, in our home!"
+R1129	Addressee Arg1:T1062 Arg2:T1064	
+R1130	Speaker Arg1:T1063 Arg2:T1064	
+T1065	Entity 119665 119668	She
+T1066	Cue 119669 119673	said
+T1067	Entity 119677 119680	him
+T1068	Quotation 119683 119716	"Leon, you will do me a service?"
+R1131	Speaker Arg1:T1065 Arg2:T1068	
+R1132	Cueing Arg1:T1066 Arg2:T1068	
+R1133	Addressee Arg1:T1067 Arg2:T1068	
+T1069	Entity 119730 119733	him
+T1070	Entity 119774 119777	she
+T1071	Cue 119778 119783	added
+T1072	Quotation 119786 119825	"Listen, I want eight thousand francs."
+R1134	Addressee Arg1:T1069 Arg2:T1072	
+R1135	Speaker Arg1:T1070 Arg2:T1072	
+R1136	Cueing Arg1:T1071 Arg2:T1072	
+T1073	Quotation 119826 119844	"But you are mad!"
+R1137	Addressee Arg1:T1070 Arg2:T1073	
+R1138	Speaker Arg1:T1069 Arg2:T1073	
+T1074	Quotation 119845 119855	"Not yet."
+R1139	Speaker Arg1:T1070 Arg2:T1074	
+R1140	Addressee Arg1:T1069 Arg2:T1074	
+T1075	Quotation 120105 120126	"How on earth can I?"
+T1076	Entity 120048 120052	Leon
+T1077	Entity 120005 120008	her
+R1141	Speaker Arg1:T1076 Arg2:T1075	
+R1142	Addressee Arg1:T1077 Arg2:T1075	
+T1078	Quotation 120127 120151	"What a coward you are!"
+T1079	Entity 120152 120155	she
+T1080	Cue 120156 120161	cried
+R1143	Speaker Arg1:T1079 Arg2:T1078	
+R1144	Cueing Arg1:T1080 Arg2:T1078	
+T1081	Entity 120168 120170	he
+T1082	Cue 120171 120175	said
+T1083	Quotation 120186 120291	"You are exaggerating the difficulty. Perhaps, with a thousand crowns or so the fellow could be stopped."
+R1145	Addressee Arg1:T1081 Arg2:T1078	
+R1146	Speaker Arg1:T1081 Arg2:T1083	
+R1147	Cueing Arg1:T1082 Arg2:T1083	
+R1148	Addressee Arg1:T1079 Arg2:T1083	
+T1084	Quotation 120455 120490	"Go, try, try! I will love you so!"
+T1085	Entity 120415 120419	Leon
+T1086	Entity 120450 120453	her
+R1149	Addressee Arg1:T1085 Arg2:T1084	
+R1150	Speaker Arg1:T1086 Arg2:T1084	
+T1087	Quotation 120568 120614	"I have been to three people with no success."
+T1088	Entity 120491 120493	He
+T1089	Cue 120541 120547	saying
+R1151	Speaker Arg1:T1088 Arg2:T1087	
+R1152	Cueing Arg1:T1089 Arg2:T1087	
+R1153	Addressee Arg1:T1086 Arg2:T1087	
+T1090	Entity 120760 120762	He
+T1091	Entity 120769 120772	her
+T1092	Cue 120773 120782	murmuring
+T1093	Quotation 120785 120834	"If I were in your place I should soon get some."
+R1154	Cueing Arg1:T1092 Arg2:T1093	
+R1155	Speaker Arg1:T1091 Arg2:T1093	
+R1156	Addressee Arg1:T1090 Arg2:T1093	
+T1094	Quotation 120835 120847	"But where?"
+R1157	Speaker Arg1:T1090 Arg2:T1094	
+R1158	Addressee Arg1:T1091 Arg2:T1094	
+T1095	Quotation 120848 120865	"At your office."
+T1096	Entity 120870 120873	she
+T1097	Entity 120884 120887	him
+R1159	Speaker Arg1:T1096 Arg2:T1095	
+R1160	Addressee Arg1:T1097 Arg2:T1095	
+T1098	Quotation 121215 121278	"Morel is to come back to-night; he will not refuse me, I hope"
+T1099	Cue 121206 121212	crying
+T1100	Entity 121183 121185	he
+R1161	Speaker Arg1:T1100 Arg2:T1098	
+R1162	Cueing Arg1:T1099 Arg2:T1098	
+T1101	Quotation 121343 121379	"and I will bring it you to-morrow,"
+T1102	Entity 121380 121382	he
+T1103	Entity 121092 121102	this woman
+T1104	Cue 121383 121388	added
+R1163	Addressee Arg1:T1103 Arg2:T1098	
+T1105	Entity 121390 121394	Emma
+R1164	Addressee Arg1:T1105 Arg2:T1101	
+R1165	Speaker Arg1:T1102 Arg2:T1101	
+R1166	Cueing Arg1:T1104 Arg2:T1101	
+T1106	Quotation 121511 121630	"However, if you don't see me by three o'clock do not wait for me, my darling. I must be off now; forgive me! Goodbye!"
+T1107	Entity 121488 121490	He
+T1108	Cue 121491 121498	went on
+T1109	Entity 121642 121645	her
+R1167	Speaker Arg1:T1107 Arg2:T1106	
+R1168	Cueing Arg1:T1108 Arg2:T1106	
+R1169	Addressee Arg1:T1109 Arg2:T1106	
+T1110	Quotation 122501 122513	"Take care!"
+T1111	Cue 122514 122519	cried
+T1112	Entity 122520 122527	a voice
+T1113	Entity 122587 122590	She
+R1170	Cueing Arg1:T1111 Arg2:T1110	
+R1171	Speaker Arg1:T1112 Arg2:T1110	
+R1172	Addressee Arg1:T1113 Arg2:T1110	
+T1114	Quotation 124036 124057	"Charmed to see you,"
+T1115	Entity 124058 124060	he
+T1116	Cue 124061 124065	said
+R1173	Speaker Arg1:T1115 Arg2:T1114	
+T1117	Entity 124076 124080	Emma
+R1174	Cueing Arg1:T1116 Arg2:T1114	
+R1175	Addressee Arg1:T1117 Arg2:T1114	
+T1118	Entity 124311 124313	he
+T1119	Cue 124314 124323	exclaimed
+T1120	Quotation 124326 124548	"I can't understand why the authorities tolerate such culpable industries. Such unfortunates should be locked up and forced to work. Progress, my word! creeps at a snail's pace. We are floundering about in mere barbarism."
+R1176	Speaker Arg1:T1118 Arg2:T1120	
+R1177	Cueing Arg1:T1119 Arg2:T1120	
+T1121	Quotation 124671 124678	"This,"
+T1122	Cue 124679 124683	said
+T1123	Entity 124684 124695	the chemist
+T1124	Quotation 124697 124725	"is a scrofulous affection."
+R1178	Addressee Arg1:T1123 Arg2:T1120	
+R1179	Cueing Arg1:T1122 Arg2:T1121	
+R1180	Speaker Arg1:T1123 Arg2:T1121	
+R1181	Cueing Arg1:T1122 Arg2:T1124	
+R1182	Speaker Arg1:T1123 Arg2:T1124	
+T1125	Entity 124549 124562	The blind man
+R1183	Addressee Arg1:T1125 Arg2:T1121	
+R1184	Addressee Arg1:T1125 Arg2:T1124	
+T1126	Entity 124761 124763	he
+T1127	Entity 124781 124784	him
+T1128	Quotation 124830 124839	"cornea,"
+T1129	Quotation 124840 124856	"opaque cornea,"
+T1130	Quotation 124857 124869	"sclerotic,"
+T1131	Quotation 124870 124879	"facies,"
+R1185	Speaker Arg1:T1126 Arg2:T1128	
+T1132	Cue 124805 124813	murmured
+R1186	Speaker Arg1:T1126 Arg2:T1129	
+R1187	Speaker Arg1:T1126 Arg2:T1130	
+R1188	Speaker Arg1:T1126 Arg2:T1131	
+R1189	Addressee Arg1:T1127 Arg2:T1128	
+R1190	Addressee Arg1:T1127 Arg2:T1129	
+R1191	Addressee Arg1:T1127 Arg2:T1130	
+R1192	Addressee Arg1:T1127 Arg2:T1131	
+R1193	Cueing Arg1:T1132 Arg2:T1128	
+R1194	Cueing Arg1:T1132 Arg2:T1129	
+R1195	Cueing Arg1:T1132 Arg2:T1130	
+R1196	Cueing Arg1:T1132 Arg2:T1131	
+T1133	Cue 124885 124890	asked
+T1134	Entity 124891 124894	him
+T1135	Quotation 124916 125044	"My friend, have you long had this terrible infirmity? Instead of getting drunk at the public, you'd do better to die yourself."
+R1197	Cueing Arg1:T1133 Arg2:T1135	
+R1198	Addressee Arg1:T1134 Arg2:T1135	
+R1199	Speaker Arg1:T1126 Arg2:T1135	
+T1136	Quotation 125224 125326	"Now there's a sou; give me back two lairds, and don't forget my advice: you'll be the better for it."
+T1137	Entity 125189 125204	MONSIEUR HOMAIS
+R1200	Speaker Arg1:T1137 Arg2:T1136	
+T1138	Entity 125107 125120	The blind man
+R1201	Addressee Arg1:T1138 Arg2:T1136	
+T1139	Entity 125384 125396	the druggist
+T1140	Cue 125397 125401	said
+T1141	Quotation 125407 125481	he would cure himself with an antiphlogistic pomade of his own composition
+R1202	Cueing Arg1:T1140 Arg2:T1141	
+R1203	Speaker Arg1:T1139 Arg2:T1141	
+T1142	Entity 125487 125489	he
+T1143	Cue 125490 125494	gave
+T1144	Quotation 125509 125563	"Monsieur Homais, near the market, pretty well known."
+R1204	Speaker Arg1:T1142 Arg2:T1144	
+R1205	Cueing Arg1:T1143 Arg2:T1144	
+T1145	Entity 125327 125333	Hivert
+R1206	Addressee Arg1:T1145 Arg2:T1141	
+R1207	Addressee Arg1:T1145 Arg2:T1144	
+T1146	Quotation 125564 125570	"Now,"
+T1147	Cue 125571 125575	said
+T1148	Entity 125576 125582	Hivert
+T1149	Quotation 125584 125639	"for all this trouble you'll give us your performance."
+R1208	Cueing Arg1:T1147 Arg2:T1146	
+R1209	Cueing Arg1:T1147 Arg2:T1149	
+R1210	Speaker Arg1:T1148 Arg2:T1146	
+R1211	Speaker Arg1:T1148 Arg2:T1149	
+T1150	Entity 125640 125653	The blind man
+R1212	Addressee Arg1:T1150 Arg2:T1146	
+R1213	Addressee Arg1:T1150 Arg2:T1149	
+T1151	Quotation 126109 126227	"No farinaceous or milk food, wear wool next the skin, and expose the diseased parts to the smoke of juniper berries."
+T1152	Entity 126054 126069	Monsieur Homais
+T1153	Cue 126100 126106	crying
+R1214	Speaker Arg1:T1152 Arg2:T1151	
+R1215	Cueing Arg1:T1153 Arg2:T1151	
+T1154	Entity 125896 125899	him
+R1216	Addressee Arg1:T1154 Arg2:T1151	
+T1155	Quotation 127017 127034	"Madame! madame!"
+T1156	Cue 127035 127040	cried
+T1157	Entity 127041 127049	Felicite
+T1158	Quotation 127063 127081	"it's abominable!"
+R1217	Cueing Arg1:T1156 Arg2:T1155	
+R1218	Cueing Arg1:T1156 Arg2:T1158	
+R1219	Speaker Arg1:T1157 Arg2:T1155	
+R1220	Speaker Arg1:T1157 Arg2:T1158	
+T1159	Entity 127122 127125	her
+R1221	Addressee Arg1:T1159 Arg2:T1155	
+R1222	Addressee Arg1:T1159 Arg2:T1158	
+T1160	Quotation 127366 127426	"If I were you, madame, I should go to Monsieur Guillaumin."
+T1161	Entity 127348 127356	Felicite
+T1162	Entity 127297 127305	mistress
+R1223	Speaker Arg1:T1161 Arg2:T1160	
+R1224	Addressee Arg1:T1162 Arg2:T1160	
+T1163	Quotation 127427 127445	"Do you think -- "
+R1225	Addressee Arg1:T1161 Arg2:T1163	
+R1226	Speaker Arg1:T1162 Arg2:T1163	
+T1164	Quotation 127564 127597	"Yes, you'd do well to go there."
+R1227	Speaker Arg1:T1161 Arg2:T1164	
+T1165	Entity 127598 127601	She
+R1228	Addressee Arg1:T1165 Arg2:T1164	
+T1166	Quotation 128976 128990	"I have come,"
+T1167	Entity 128991 128994	she
+T1168	Cue 128995 128999	said
+T1169	Quotation 129001 129022	"to beg you, sir -- "
+R1229	Speaker Arg1:T1167 Arg2:T1166	
+R1230	Speaker Arg1:T1167 Arg2:T1169	
+R1231	Cueing Arg1:T1168 Arg2:T1166	
+R1232	Cueing Arg1:T1168 Arg2:T1169	
+T1170	Entity 128884 128886	he
+R1233	Addressee Arg1:T1170 Arg2:T1166	
+R1234	Addressee Arg1:T1170 Arg2:T1169	
+T1171	Quotation 129023 129054	"What, madame? I am listening."
+R1235	Addressee Arg1:T1167 Arg2:T1171	
+T1172	Entity 129096 129099	him
+R1236	Speaker Arg1:T1172 Arg2:T1171	
+T1173	Entity 130054 130056	he
+T1174	Cue 130057 130061	said
+T1175	Quotation 130064 130133	"Do get closer to the stove; put your feet up against the porcelain."
+R1237	Speaker Arg1:T1173 Arg2:T1175	
+R1238	Cueing Arg1:T1174 Arg2:T1175	
+T1176	Entity 130034 130037	her
+R1239	Addressee Arg1:T1176 Arg2:T1175	
+T1177	Quotation 130204 130237	"Beautiful things spoil nothing."
+T1178	Entity 130165 130175	The notary
+T1179	Cue 130176 130183	replied
+R1240	Speaker Arg1:T1178 Arg2:T1177	
+R1241	Cueing Arg1:T1179 Arg2:T1177	
+T1180	Entity 130243 130246	she
+R1242	Addressee Arg1:T1180 Arg2:T1177	
+T1181	Quotation 131094 131107	"How was it,"
+T1182	Entity 131108 131110	he
+T1183	Cue 131111 131118	went on
+T1184	Quotation 131120 131149	"that you didn't come to me?"
+R1243	Speaker Arg1:T1182 Arg2:T1181	
+R1244	Speaker Arg1:T1182 Arg2:T1184	
+R1245	Cueing Arg1:T1183 Arg2:T1181	
+R1246	Cueing Arg1:T1183 Arg2:T1184	
+T1185	Entity 131063 131066	she
+R1247	Addressee Arg1:T1185 Arg2:T1181	
+R1248	Addressee Arg1:T1185 Arg2:T1184	
+T1186	Quotation 131150 131166	"I hardly know,"
+T1187	Entity 131167 131170	she
+T1188	Cue 131171 131175	said
+R1249	Speaker Arg1:T1187 Arg2:T1186	
+R1250	Cueing Arg1:T1188 Arg2:T1186	
+R1251	Addressee Arg1:T1182 Arg2:T1186	
+T1189	Quotation 131177 131354	"Why, hey? Did I frighten you so much? It is I, on the contrary, who ought to complain. We hardly know one another; yet I am very devoted to you. You do not doubt that, I hope?"
+R1252	Addressee Arg1:T1187 Arg2:T1189	
+T1190	Entity 131355 131357	He
+R1253	Speaker Arg1:T1190 Arg2:T1189	
+T1191	Entity 131791 131794	SHE
+T1192	Cue 131809 131813	SAID
+T1193	Entity 131817 131820	HIM
+T1194	Quotation 131823 131843	"Sir, I am waiting."
+R1254	Speaker Arg1:T1191 Arg2:T1194	
+R1255	Cueing Arg1:T1192 Arg2:T1194	
+R1256	Addressee Arg1:T1193 Arg2:T1194	
+T1195	Quotation 131844 131855	"For what?"
+T1196	Cue 131856 131860	said
+T1197	Entity 131861 131871	the notary
+R1257	Cueing Arg1:T1196 Arg2:T1195	
+R1258	Speaker Arg1:T1197 Arg2:T1195	
+R1259	Addressee Arg1:T1191 Arg2:T1195	
+T1198	Quotation 131904 131917	"This money."
+R1260	Addressee Arg1:T1197 Arg2:T1198	
+R1261	Speaker Arg1:T1191 Arg2:T1198	
+T1199	Quotation 131918 131927	"But -- "
+T1200	Quotation 131985 131997	"Well, yes!"
+T1201	Entity 131998 132000	He
+R1262	Speaker Arg1:T1201 Arg2:T1199	
+R1263	Speaker Arg1:T1201 Arg2:T1200	
+R1264	Addressee Arg1:T1191 Arg2:T1199	
+R1265	Addressee Arg1:T1191 Arg2:T1200	
+T1202	Quotation 132076 132112	"For pity's sake, stay. I love you!"
+T1203	Entity 132025 132028	her
+R1266	Speaker Arg1:T1201 Arg2:T1202	
+R1267	Addressee Arg1:T1203 Arg2:T1202	
+T1204	Quotation 132222 132317	"You are taking a shameless advantage of my distress, sir! I am to be pitied-- not to be sold."
+T1205	Entity 132178 132181	She
+T1206	Cue 132213 132219	crying
+R1268	Speaker Arg1:T1205 Arg2:T1204	
+R1269	Cueing Arg1:T1206 Arg2:T1204	
+T1207	Entity 132336 132346	The notary
+R1270	Addressee Arg1:T1207 Arg2:T1204	
+T1208	Entity 133373 133381	Felicite
+T1209	Entity 133398 133401	her
+T1210	Quotation 133415 133422	"Well?"
+R1271	Speaker Arg1:T1208 Arg2:T1210	
+R1272	Addressee Arg1:T1209 Arg2:T1210	
+T1211	Quotation 133423 133428	"No!"
+T1212	Cue 133429 133433	said
+T1213	Entity 133434 133438	Emma
+R1273	Cueing Arg1:T1212 Arg2:T1211	
+R1274	Speaker Arg1:T1213 Arg2:T1211	
+R1275	Addressee Arg1:T1208 Arg2:T1211	
+T1214	Entity 133612 133616	Emma
+T1215	Cue 133617 133624	replied
+T1216	Entity 133589 133597	Felicite
+T1217	Quotation 133627 133655	"Impossible! they will not!"
+R1276	Addressee Arg1:T1216 Arg2:T1217	
+R1277	Speaker Arg1:T1214 Arg2:T1217	
+R1278	Cueing Arg1:T1215 Arg2:T1217	
+T1218	Quotation 133656 133687	"And the master'll soon be in."
+R1279	Speaker Arg1:T1216 Arg2:T1218	
+R1280	Addressee Arg1:T1214 Arg2:T1218	
+T1219	Quotation 133688 133730	"I know that well enough. Leave me alone."
+R1281	Addressee Arg1:T1216 Arg2:T1219	
+R1282	Speaker Arg1:T1214 Arg2:T1219	
+T1220	Quotation 134143 134149	"Yes,"
+T1221	Entity 134150 134153	she
+T1222	Cue 134154 134162	murmured
+T1223	Quotation 134184 134291	"he will forgive me, he who would give a million if I would forgive him for having known me! Never! never!"
+R1283	Speaker Arg1:T1221 Arg2:T1220	
+R1284	Cueing Arg1:T1222 Arg2:T1220	
+R1285	Speaker Arg1:T1221 Arg2:T1223	
+R1286	Cueing Arg1:T1222 Arg2:T1223	
+T1224	Quotation 136020 136039	"Ah! there she is!"
+T1225	Cue 136040 136049	exclaimed
+T1226	Entity 136050 136064	Madame Tuvache
+R1287	Cueing Arg1:T1225 Arg2:T1224	
+R1288	Speaker Arg1:T1226 Arg2:T1224	
+T1227	Quotation 136246 136305	"She is begging him to give her time for paying her taxes."
+T1228	Entity 136146 136158	these ladies
+R1289	Speaker Arg1:T1228 Arg2:T1227	
+R1290	Addressee Arg1:T1228 Arg2:T1227	
+T1229	Quotation 136306 136319	"Apparently!"
+T1230	Cue 136320 136327	replied
+T1231	Entity 136328 136337	the other
+R1291	Cueing Arg1:T1230 Arg2:T1229	
+R1292	Speaker Arg1:T1231 Arg2:T1229	
+T1232	Entity 136339 136343	They
+R1293	Addressee Arg1:T1232 Arg2:T1229	
+T1233	Quotation 136506 136557	"Do you think she wants to order something of him?"
+T1234	Cue 136558 136562	said
+T1235	Entity 136563 136577	Madame Tuvache
+R1294	Cueing Arg1:T1234 Arg2:T1233	
+R1295	Speaker Arg1:T1235 Arg2:T1233	
+T1236	Quotation 136579 136611	"Why, he doesn't sell anything,"
+T1237	Cue 136612 136620	objected
+T1238	Entity 136621 136634	her neighbour
+R1296	Cueing Arg1:T1237 Arg2:T1236	
+R1297	Speaker Arg1:T1238 Arg2:T1236	
+R1298	Addressee Arg1:T1235 Arg2:T1236	
+R1299	Addressee Arg1:T1238 Arg2:T1233	
+T1239	Quotation 136836 136865	"Is she making him advances?"
+T1240	Cue 136866 136870	said
+T1241	Entity 136871 136885	Madame Tuvache
+R1300	Cueing Arg1:T1240 Arg2:T1239	
+R1301	Speaker Arg1:T1241 Arg2:T1239	
+R1302	Addressee Arg1:T1238 Arg2:T1239	
+T1242	Entity 136923 136926	She
+T1243	Entity 136940 136943	his
+T1244	Quotation 136951 136971	"Oh, it's too much!"
+R1303	Speaker Arg1:T1242 Arg2:T1244	
+R1304	Addressee Arg1:T1243 Arg2:T1244	
+T1245	Entity 137255 137257	he
+T1246	Entity 137269 137272	her
+T1247	Cue 137274 137280	crying
+T1248	Quotation 137283 137310	"Madame! what do you mean?"
+R1305	Speaker Arg1:T1245 Arg2:T1248	
+R1306	Addressee Arg1:T1246 Arg2:T1248	
+R1307	Cueing Arg1:T1247 Arg2:T1248	
+T1249	Quotation 137311 137349	"Women like that ought to be whipped,"
+T1250	Cue 137350 137354	said
+T1251	Entity 137355 137369	Madame Tuvache
+T1252	Quotation 137371 137390	"But where is she?"
+T1253	Cue 137391 137400	continued
+T1254	Entity 137401 137413	Madame Caron
+R1308	Cueing Arg1:T1250 Arg2:T1249	
+R1309	Speaker Arg1:T1251 Arg2:T1249	
+R1310	Cueing Arg1:T1253 Arg2:T1252	
+R1311	Speaker Arg1:T1254 Arg2:T1252	
+R1312	Addressee Arg1:T1254 Arg2:T1249	
+R1313	Addressee Arg1:T1251 Arg2:T1252	
+T1255	Quotation 137597 137612	"Nurse Rollet,"
+T1256	Entity 137613 137616	she
+T1257	Cue 137617 137621	said
+T1258	Entity 137634 137645	the nurse's
+T1259	Quotation 137647 137673	"I am choking; unlace me!"
+R1314	Speaker Arg1:T1256 Arg2:T1255	
+R1315	Cueing Arg1:T1257 Arg2:T1255	
+R1316	Addressee Arg1:T1258 Arg2:T1255	
+R1317	Speaker Arg1:T1256 Arg2:T1259	
+R1318	Cueing Arg1:T1257 Arg2:T1259	
+R1319	Addressee Arg1:T1258 Arg2:T1259	
+T1260	Quotation 137874 137890	"Oh, leave off!"
+T1261	Entity 137891 137894	she
+T1262	Cue 137895 137903	murmured
+T1263	Entity 137809 137823	the good woman
+R1320	Speaker Arg1:T1261 Arg2:T1260	
+R1321	Cueing Arg1:T1262 Arg2:T1260	
+R1322	Addressee Arg1:T1263 Arg2:T1260	
+T1264	Quotation 138627 138645	"What time is it?"
+T1265	Entity 138646 138649	she
+T1266	Cue 138650 138655	asked
+R1323	Speaker Arg1:T1265 Arg2:T1264	
+R1324	Cueing Arg1:T1266 Arg2:T1264	
+T1267	Entity 138657 138668	Mere Rollet
+R1325	Addressee Arg1:T1267 Arg2:T1264	
+T1268	Cue 138782 138788	saying
+T1269	Quotation 138791 138806	"Nearly three."
+T1270	Quotation 138807 138828	"Ahl thanks, thanks!"
+R1326	Cueing Arg1:T1268 Arg2:T1269	
+R1327	Speaker Arg1:T1267 Arg2:T1269	
+R1328	Addressee Arg1:T1265 Arg2:T1269	
+R1329	Addressee Arg1:T1267 Arg2:T1270	
+R1330	Speaker Arg1:T1265 Arg2:T1270	
+T1271	Entity 138950 138953	she
+T1272	Cue 138954 138958	told
+T1273	Entity 138959 138968	the nurse
+T1274	Quotation 138972 139001	run to her house to fetch him
+R1331	Speaker Arg1:T1271 Arg2:T1274	
+R1332	Cueing Arg1:T1272 Arg2:T1274	
+R1333	Addressee Arg1:T1273 Arg2:T1274	
+T1275	Quotation 139003 139014	"Be quick!"
+T1276	Quotation 139015 139057	"But, my dear lady, I'm going, I'm going!"
+R1334	Speaker Arg1:T1271 Arg2:T1275	
+R1335	Addressee Arg1:T1273 Arg2:T1275	
+R1336	Speaker Arg1:T1273 Arg2:T1276	
+R1337	Addressee Arg1:T1271 Arg2:T1276	
+T1277	Entity 139932 139943	MERE ROLLET
+T1278	Cue 139944 139948	SAID
+T1279	Entity 139952 139955	HER
+T1280	Quotation 139958 139990	"There is no one at your house!"
+R1338	Addressee Arg1:T1279 Arg2:T1280	
+R1339	Cueing Arg1:T1278 Arg2:T1280	
+R1340	Speaker Arg1:T1277 Arg2:T1280	
+T1281	Quotation 139991 139998	"What?"
+R1341	Speaker Arg1:T1279 Arg2:T1281	
+R1342	Addressee Arg1:T1277 Arg2:T1281	
+T1282	Quotation 139999 140086	"Oh, no one! And the doctor is crying. He is calling for you; they're looking for you."
+T1283	Entity 140087 140091	Emma
+R1343	Addressee Arg1:T1283 Arg2:T1282	
+R1344	Speaker Arg1:T1277 Arg2:T1282	
+T1284	Quotation 142098 142116	"What! it is you!"
+T1285	Entity 142117 142119	he
+T1286	Cue 142120 142124	said
+R1345	Speaker Arg1:T1285 Arg2:T1284	
+R1346	Cueing Arg1:T1286 Arg2:T1284	
+T1287	Quotation 142148 142207	"Yes, it is I, Rodolphe. I should like to ask your advice."
+T1288	Entity 142225 142228	her
+T1289	Entity 141903 141906	She
+R1347	Addressee Arg1:T1289 Arg2:T1284	
+R1348	Speaker Arg1:T1288 Arg2:T1287	
+T1290	Quotation 142282 142331	"You have not changed; you are charming as ever!"
+R1349	Addressee Arg1:T1285 Arg2:T1287	
+R1350	Speaker Arg1:T1285 Arg2:T1290	
+T1291	Entity 142260 142263	her
+R1351	Addressee Arg1:T1291 Arg2:T1290	
+T1292	Quotation 142332 142337	"Oh,"
+T1293	Entity 142338 142341	she
+T1294	Cue 142342 142349	replied
+T1295	Quotation 142360 142408	"they are poor charms since you disdained them."
+R1352	Speaker Arg1:T1293 Arg2:T1292	
+R1353	Cueing Arg1:T1294 Arg2:T1292	
+R1354	Speaker Arg1:T1293 Arg2:T1295	
+R1355	Cueing Arg1:T1294 Arg2:T1295	
+T1296	Entity 142414 142416	he
+R1356	Addressee Arg1:T1296 Arg2:T1292	
+R1357	Addressee Arg1:T1296 Arg2:T1295	
+T1297	Quotation 142785 142797	"No matter!"
+T1298	Entity 142798 142801	she
+T1299	Cue 142802 142806	said
+T1300	Entity 142819 142822	him
+R1358	Speaker Arg1:T1298 Arg2:T1297	
+R1359	Cueing Arg1:T1299 Arg2:T1297	
+R1360	Addressee Arg1:T1300 Arg2:T1297	
+T1301	Quotation 142830 142853	"I have suffered much."
+R1361	Speaker Arg1:T1298 Arg2:T1301	
+R1362	Cueing Arg1:T1299 Arg2:T1301	
+R1363	Addressee Arg1:T1300 Arg2:T1301	
+T1302	Entity 142854 142856	HE
+T1303	Cue 142857 142864	REPLIED
+T1304	Quotation 142883 142898	"Such is life!"
+R1364	Speaker Arg1:T1302 Arg2:T1304	
+R1365	Cueing Arg1:T1303 Arg2:T1304	
+T1305	Quotation 142899 142910	"Has life,"
+T1306	Entity 142911 142915	Emma
+T1307	Cue 142916 142923	went on
+T1308	Quotation 142925 142975	"been good to you at least, since our separation?"
+R1366	Addressee Arg1:T1306 Arg2:T1304	
+R1367	Speaker Arg1:T1306 Arg2:T1305	
+R1368	Cueing Arg1:T1307 Arg2:T1305	
+R1369	Speaker Arg1:T1306 Arg2:T1308	
+R1370	Cueing Arg1:T1307 Arg2:T1308	
+R1371	Addressee Arg1:T1302 Arg2:T1305	
+R1372	Addressee Arg1:T1302 Arg2:T1308	
+T1309	Quotation 142976 143003	"Oh, neither good nor bad."
+R1373	Addressee Arg1:T1306 Arg2:T1309	
+R1374	Speaker Arg1:T1302 Arg2:T1309	
+T1310	Quotation 143004 143061	"Perhaps it would have been better never to have parted."
+R1375	Speaker Arg1:T1306 Arg2:T1310	
+R1376	Addressee Arg1:T1302 Arg2:T1310	
+T1311	Quotation 143062 143077	"Yes, perhaps."
+R1377	Speaker Arg1:T1302 Arg2:T1311	
+T1312	Quotation 143078 143093	"You think so?"
+T1313	Entity 143094 143097	she
+R1378	Addressee Arg1:T1313 Arg2:T1311	
+T1314	Cue 143098 143102	said
+R1379	Speaker Arg1:T1313 Arg2:T1312	
+R1380	Cueing Arg1:T1314 Arg2:T1312	
+T1315	Quotation 143136 143184	"Oh, Rodolphe! if you but knew! I loved you so!"
+R1381	Speaker Arg1:T1313 Arg2:T1315	
+R1382	Cueing Arg1:T1314 Arg2:T1315	
+T1316	Entity 143211 143214	his
+R1383	Addressee Arg1:T1316 Arg2:T1315	
+R1384	Addressee Arg1:T1316 Arg2:T1312	
+T1317	Entity 143397 143400	she
+T1318	Cue 143401 143405	said
+T1319	Entity 143409 143412	him
+T1320	Quotation 143415 143617	"How did you think I could live without you? One cannot lose the habit of happiness. I was desolate. I thought I should die. I will tell you about all that and you will see. And you-- you fled from me!"
+R1385	Speaker Arg1:T1317 Arg2:T1320	
+R1386	Cueing Arg1:T1318 Arg2:T1320	
+R1387	Addressee Arg1:T1319 Arg2:T1320	
+T1321	Quotation 143828 144113	"You love others, confess it! Oh, I understand them, dear! I excuse them. You probably seduced them as you seduced me. You are indeed a man; you have everything to make one love you. But we'll begin again, won't we? We will love one another. See! I am laughing; I am happy! Oh, speak!"
+T1322	Entity 143751 143755	Emma
+T1323	Cue 143756 143763	went on
+R1388	Speaker Arg1:T1322 Arg2:T1321	
+R1389	Cueing Arg1:T1323 Arg2:T1321	
+T1324	Entity 144228 144230	He
+R1390	Addressee Arg1:T1324 Arg2:T1321	
+T1325	Entity 144402 144405	She
+T1326	Entity 144434 144436	he
+T1327	Quotation 144503 144541	"Why, you have been crying! What for?"
+R1391	Addressee Arg1:T1325 Arg2:T1327	
+R1392	Speaker Arg1:T1326 Arg2:T1327	
+T1328	Entity 144701 144703	he
+T1329	Cue 144704 144713	cried out
+T1330	Quotation 144716 144853	"Oh, forgive me! You are the only one who pleases me. I was imbecile and cruel. I love you. I will love you always. What is it. Tell me!"
+R1393	Speaker Arg1:T1328 Arg2:T1330	
+R1394	Cueing Arg1:T1329 Arg2:T1330	
+T1331	Entity 144618 144621	she
+R1395	Addressee Arg1:T1331 Arg2:T1330	
+T1332	Quotation 144878 144948	"Well, I am ruined, Rodolphe! You must lend me three thousand francs."
+T1333	Entity 144854 144856	He
+T1334	Entity 144873 144876	her
+R1396	Speaker Arg1:T1334 Arg2:T1332	
+R1397	Addressee Arg1:T1333 Arg2:T1332	
+T1335	Quotation 144949 144964	"But-- but -- "
+T1336	Cue 144965 144969	said
+T1337	Entity 144970 144972	he
+R1398	Cueing Arg1:T1336 Arg2:T1335	
+R1399	Speaker Arg1:T1337 Arg2:T1335	
+R1400	Addressee Arg1:T1334 Arg2:T1335	
+T1338	Quotation 145036 145047	"You know,"
+T1339	Entity 145048 145051	she
+T1340	Cue 145052 145059	went on
+T1341	Quotation 145069 145438	"that my husband had placed his whole fortune at a notary's. He ran away. So we borrowed; the patients don't pay us. Moreover, the settling of the estate is not yet done; we shall have the money later on. But to-day, for want of three thousand francs, we are to be sold up. It is to be at once, this very moment, and, counting upon your friendship, I have come to you."
+R1401	Speaker Arg1:T1339 Arg2:T1338	
+R1402	Cueing Arg1:T1340 Arg2:T1338	
+R1403	Speaker Arg1:T1339 Arg2:T1341	
+R1404	Cueing Arg1:T1340 Arg2:T1341	
+R1405	Addressee Arg1:T1337 Arg2:T1341	
+T1342	Entity 145520 145522	HE
+T1343	Cue 145523 145527	SAID
+T1344	Quotation 145546 145581	"Dear madame, I have not got them."
+R1406	Speaker Arg1:T1342 Arg2:T1344	
+R1407	Cueing Arg1:T1343 Arg2:T1344	
+R1408	Addressee Arg1:T1339 Arg2:T1344	
+T1345	Quotation 145857 145881	"You have not got them!"
+T1346	Entity 145882 145885	she
+T1347	Cue 145886 145894	repeated
+R1409	Speaker Arg1:T1346 Arg2:T1345	
+R1410	Cueing Arg1:T1347 Arg2:T1345	
+T1348	Quotation 145910 146036	"You have not got them! I ought to have spared myself this last shame. You never loved me. You are no better than the others."
+R1411	Speaker Arg1:T1346 Arg2:T1348	
+R1412	Cueing Arg1:T1347 Arg2:T1348	
+T1349	Entity 145835 145838	him
+R1413	Addressee Arg1:T1349 Arg2:T1345	
+R1414	Addressee Arg1:T1349 Arg2:T1348	
+T1350	Quotation 146135 146152	"Ah! I pity you,"
+T1351	Cue 146153 146157	said
+T1352	Entity 146158 146162	Emma
+T1353	Quotation 146164 146182	"Yes-- very much."
+R1415	Cueing Arg1:T1351 Arg2:T1350	
+R1416	Speaker Arg1:T1352 Arg2:T1350	
+R1417	Cueing Arg1:T1351 Arg2:T1353	
+R1418	Speaker Arg1:T1352 Arg2:T1353	
+T1354	Entity 146073 146081	Rodolphe
+R1419	Addressee Arg1:T1354 Arg2:T1350	
+R1420	Addressee Arg1:T1354 Arg2:T1353	
+T1355	Quotation 146262 146389	"But when one is so poor one doesn't have silver on the butt of one's gun. One doesn't buy a clock inlaid with tortoise shell,"
+T1356	Entity 146390 146393	she
+T1357	Cue 146394 146401	went on
+T1358	Quotation 146433 146476	"nor silver-gilt whistles for one's whips,"
+R1421	Speaker Arg1:T1356 Arg2:T1355	
+R1422	Cueing Arg1:T1357 Arg2:T1355	
+R1423	Speaker Arg1:T1356 Arg2:T1358	
+R1424	Cueing Arg1:T1357 Arg2:T1358	
+R1425	Addressee Arg1:T1354 Arg2:T1355	
+R1426	Addressee Arg1:T1354 Arg2:T1358	
+T1359	Quotation 146499 146726	"nor charms for one's watch. Oh, he wants for nothing! even to a liqueur-stand in his room! For you love yourself; you live well. You have a chateau, farms, woods; you go hunting; you travel to Paris. Why, if it were but that,"
+T1360	Entity 146727 146730	she
+T1361	Cue 146731 146736	cried
+T1362	Quotation 146780 146876	"but the least of these trifles, one can get money for them. Oh, I do not want them, keep them!"
+R1427	Speaker Arg1:T1360 Arg2:T1359	
+R1428	Cueing Arg1:T1361 Arg2:T1359	
+R1429	Speaker Arg1:T1360 Arg2:T1362	
+R1430	Cueing Arg1:T1361 Arg2:T1362	
+R1431	Addressee Arg1:T1354 Arg2:T1359	
+R1432	Addressee Arg1:T1354 Arg2:T1362	
+T1364	Quotation 148007 148028	"I haven't got them,"
+T1363	Quotation 146977 148006	"But I! I would have given you everything. I would have sold all, worked for you with my hands, I would have begged on the highroads for a smile, for a look, to hear you say 'Thanks!' And you sit there quietly in your arm-chair, as if you had not made me suffer enough already! But for you, and you know it, I might have lived happily. What made you do it? Was it a bet? Yet you loved me-- you said so. And but a moment since-- Ah! it would have been better to have driven me away. My hands are hot with your kisses, and there is the spot on the carpet where at my knees you swore an eternity of love! You made me believe you; for two years you held me in the most magnificent, the sweetest dream! Eh! Our plans for the journey, do you remember? Oh, your letter! your letter! it tore my heart! And then when I come back to him-- to him, rich, happy, free-- to implore the help the first stranger would give, a suppliant, and bringing back to him all my tenderness, he repulses me because it would cost him three thousand francs!"
+R1433	Speaker Arg1:T1360 Arg2:T1363	
+T1365	Cue 148029 148036	replied
+T1366	Entity 148037 148045	Rodolphe
+R1434	Cueing Arg1:T1365 Arg2:T1364	
+R1435	Speaker Arg1:T1366 Arg2:T1364	
+R1436	Addressee Arg1:T1366 Arg2:T1363	
+T1367	Entity 148127 148130	She
+R1437	Addressee Arg1:T1367 Arg2:T1364	
+T1368	Quotation 150646 150700	"The key! the one for upstairs where he keeps the -- "
+T1369	Quotation 150701 150708	"What?"
+T1370	Entity 150633 150635	He
+R1438	Addressee Arg1:T1370 Arg2:T1368	
+T1371	Entity 150713 150715	he
+T1372	Entity 150726 150729	her
+R1439	Speaker Arg1:T1372 Arg2:T1368	
+R1440	Speaker Arg1:T1371 Arg2:T1369	
+R1441	Addressee Arg1:T1372 Arg2:T1369	
+T1373	Quotation 151058 151085	"I want it; give it to me."
+T1374	Entity 150994 150997	she
+T1375	Cue 150998 151005	went on
+R1442	Speaker Arg1:T1374 Arg2:T1373	
+R1443	Cueing Arg1:T1375 Arg2:T1373	
+T1376	Entity 150943 150945	he
+R1444	Addressee Arg1:T1376 Arg2:T1373	
+T1377	Quotation 151269 151290	"I must tell master."
+T1378	Entity 151212 151215	she
+T1379	Quotation 151291 151302	"No, stay!"
+T1380	Quotation 151333 151410	"Oh, it's not worth while; I'll tell him presently. Come, light me upstairs."
+R1445	Addressee Arg1:T1378 Arg2:T1377	
+R1446	Speaker Arg1:T1378 Arg2:T1379	
+R1447	Speaker Arg1:T1378 Arg2:T1380	
+R1448	Speaker Arg1:T1376 Arg2:T1377	
+R1449	Addressee Arg1:T1376 Arg2:T1379	
+R1450	Addressee Arg1:T1376 Arg2:T1380	
+T1381	Quotation 151523 151532	"Justin!"
+T1382	Cue 151533 151539	called
+T1383	Entity 151540 151552	the druggist
+T1384	Quotation 151566 151581	"Let us go up."
+R1451	Cueing Arg1:T1382 Arg2:T1381	
+R1452	Speaker Arg1:T1383 Arg2:T1381	
+T1385	Entity 151586 151588	he
+T1386	Entity 151598 151601	her
+R1453	Addressee Arg1:T1385 Arg2:T1381	
+R1454	Addressee Arg1:T1385 Arg2:T1384	
+R1455	Speaker Arg1:T1386 Arg2:T1384	
+T1387	Quotation 151832 151839	"Stop!"
+T1388	Entity 151840 151842	he
+T1389	Cue 151843 151848	cried
+T1390	Entity 151861 151864	her
+R1456	Speaker Arg1:T1388 Arg2:T1387	
+R1457	Cueing Arg1:T1389 Arg2:T1387	
+R1458	Addressee Arg1:T1390 Arg2:T1387	
+T1391	Quotation 151866 151892	"Hush! someone will come."
+R1459	Addressee Arg1:T1388 Arg2:T1391	
+R1460	Speaker Arg1:T1390 Arg2:T1391	
+T1392	Quotation 151929 151986	"Say nothing, or all the blame will fall on your master."
+T1393	Entity 151992 151995	she
+T1394	Entity 151893 151895	He
+R1461	Speaker Arg1:T1393 Arg2:T1392	
+R1462	Addressee Arg1:T1394 Arg2:T1392	
+T1395	Quotation 152710 152752	"What was the matter? Why? Explain to me."
+T1396	Entity 152600 152602	he
+T1397	Entity 152691 152694	She
+R1463	Speaker Arg1:T1396 Arg2:T1395	
+R1464	Addressee Arg1:T1397 Arg2:T1395	
+T1398	Entity 152867 152870	she
+T1399	Cue 152871 152875	said
+T1400	Quotation 152894 152994	"You are to read it to-morrow; till then, I pray you, do not ask me a single question. No, not one!"
+R1465	Speaker Arg1:T1398 Arg2:T1400	
+R1466	Cueing Arg1:T1399 Arg2:T1400	
+R1467	Addressee Arg1:T1396 Arg2:T1400	
+T1401	Quotation 152995 153004	"But -- "
+R1468	Addressee Arg1:T1398 Arg2:T1401	
+T1402	Entity 153122 153129	Charles
+R1469	Speaker Arg1:T1402 Arg2:T1401	
+T1403	Quotation 153005 153020	"Oh, leave me!"
+T1404	Entity 153021 153024	She
+R1470	Speaker Arg1:T1404 Arg2:T1403	
+R1471	Addressee Arg1:T1402 Arg2:T1403	
+T1405	Quotation 153557 153588	"I am thirsty; oh! so thirsty,"
+T1406	Entity 153589 153592	she
+T1407	Cue 153593 153599	sighed
+R1472	Speaker Arg1:T1406 Arg2:T1405	
+R1473	Cueing Arg1:T1407 Arg2:T1405	
+T1408	Quotation 153601 153614	"What is it?"
+T1409	Cue 153615 153619	said
+T1410	Entity 153620 153627	Charles
+R1474	Cueing Arg1:T1409 Arg2:T1408	
+R1475	Speaker Arg1:T1410 Arg2:T1408	
+R1476	Addressee Arg1:T1410 Arg2:T1405	
+T1411	Quotation 153658 153705	"It is nothing! Open the window; I am choking."
+T1412	Entity 153645 153648	her
+R1477	Addressee Arg1:T1412 Arg2:T1408	
+R1478	Speaker Arg1:T1412 Arg2:T1411	
+R1479	Addressee Arg1:T1410 Arg2:T1411	
+T1413	Quotation 153824 153839	"Take it away,"
+T1414	Entity 153840 153843	she
+T1415	Cue 153844 153848	said
+T1416	Quotation 153858 153874	"throw it away."
+R1480	Speaker Arg1:T1414 Arg2:T1413	
+R1481	Cueing Arg1:T1415 Arg2:T1413	
+R1482	Speaker Arg1:T1414 Arg2:T1416	
+R1483	Cueing Arg1:T1415 Arg2:T1416	
+T1417	Entity 153875 153877	He
+R1484	Addressee Arg1:T1417 Arg2:T1413	
+R1485	Addressee Arg1:T1417 Arg2:T1416	
+T1418	Quotation 154051 154073	"Ah! it is beginning,"
+T1419	Entity 154074 154077	she
+T1420	Cue 154078 154086	murmured
+R1486	Speaker Arg1:T1419 Arg2:T1418	
+R1487	Cueing Arg1:T1420 Arg2:T1418	
+R1488	Addressee Arg1:T1417 Arg2:T1418	
+T1421	Quotation 154088 154107	"What did you say?"
+T1422	Entity 154320 154327	Charles
+R1489	Speaker Arg1:T1422 Arg2:T1421	
+R1490	Addressee Arg1:T1419 Arg2:T1421	
+T1423	Quotation 154443 154483	"This is extraordinary-- very singular,"
+T1424	Entity 154484 154486	he
+T1425	Cue 154487 154495	repeated
+R1491	Speaker Arg1:T1424 Arg2:T1423	
+R1492	Cueing Arg1:T1425 Arg2:T1423	
+T1426	Entity 154501 154504	she
+T1427	Cue 154505 154509	said
+T1428	Quotation 154527 154550	"No, you are mistaken."
+R1493	Cueing Arg1:T1427 Arg2:T1428	
+R1494	Speaker Arg1:T1426 Arg2:T1428	
+R1495	Addressee Arg1:T1424 Arg2:T1428	
+R1496	Addressee Arg1:T1426 Arg2:T1423	
+T1429	Entity 155322 155325	she
+T1430	Cue 155358 155367	cried out
+T1431	Quotation 155370 155399	"Ah! my God! It is horrible!"
+R1497	Speaker Arg1:T1429 Arg2:T1431	
+R1498	Cueing Arg1:T1430 Arg2:T1431	
+T1432	Entity 155400 155402	He
+R1499	Addressee Arg1:T1432 Arg2:T1431	
+T1433	Quotation 155442 155500	"Tell me! what have you eaten? Answer, for heaven's sake!"
+T1434	Entity 155433 155436	her
+R1500	Speaker Arg1:T1432 Arg2:T1433	
+R1501	Addressee Arg1:T1434 Arg2:T1433	
+T1435	Quotation 155580 155602	"Well, there-- there!"
+T1436	Entity 155603 155606	she
+T1437	Cue 155607 155611	said
+R1502	Speaker Arg1:T1436 Arg2:T1435	
+R1503	Cueing Arg1:T1437 Arg2:T1435	
+T1438	Entity 155505 155507	he
+R1504	Addressee Arg1:T1438 Arg2:T1435	
+T1439	Entity 155630 155632	He
+T1440	Cue 155684 155694	read aloud
+T1441	Quotation 155696 155712	"Accuse no one."
+R1505	Speaker Arg1:T1439 Arg2:T1441	
+R1506	Cueing Arg1:T1440 Arg2:T1441	
+R1507	Addressee Arg1:T1436 Arg2:T1441	
+T1442	Quotation 155783 155803	"What! help-- help!"
+R1508	Speaker Arg1:T1439 Arg2:T1442	
+R1509	Addressee Arg1:T1436 Arg2:T1442	
+T1443	Quotation 155843 155864	"Poisoned! poisoned!"
+T1444	Entity 155804 155806	He
+T1445	Cue 155823 155832	repeating
+R1510	Speaker Arg1:T1444 Arg2:T1443	
+R1511	Cueing Arg1:T1445 Arg2:T1443	
+T1446	Quotation 156621 156631	"Be calm,"
+T1447	Cue 156632 156636	said
+T1448	Entity 156637 156649	the druggist
+T1449	Quotation 156651 156720	"we have only to administer a powerful antidote. What is the poison?"
+R1512	Cueing Arg1:T1447 Arg2:T1446	
+R1513	Cueing Arg1:T1447 Arg2:T1449	
+R1514	Speaker Arg1:T1448 Arg2:T1446	
+R1515	Speaker Arg1:T1448 Arg2:T1449	
+T1450	Entity 156525 156532	Charles
+R1516	Addressee Arg1:T1450 Arg2:T1446	
+R1517	Addressee Arg1:T1450 Arg2:T1449	
+T1451	Quotation 156768 156780	"Very well,"
+T1452	Cue 156781 156785	said
+T1453	Entity 156786 156792	Homais
+T1454	Quotation 156794 156821	"we must make an analysis."
+R1518	Cueing Arg1:T1452 Arg2:T1451	
+R1519	Speaker Arg1:T1453 Arg2:T1451	
+R1520	Cueing Arg1:T1452 Arg2:T1454	
+R1521	Speaker Arg1:T1453 Arg2:T1454	
+T1455	Entity 156891 156900	the other
+R1522	Addressee Arg1:T1455 Arg2:T1451	
+R1523	Addressee Arg1:T1455 Arg2:T1454	
+T1456	Cue 156926 156934	answered
+T1457	Quotation 156937 156965	"Oh, do anything! save her!"
+R1524	Speaker Arg1:T1455 Arg2:T1457	
+R1525	Cueing Arg1:T1456 Arg2:T1457	
+T1458	Entity 156826 156828	he
+R1526	Addressee Arg1:T1458 Arg2:T1457	
+T1459	Quotation 157089 157101	"Don't cry,"
+T1460	Entity 157102 157105	she
+T1461	Cue 157106 157110	said
+T1462	Entity 157114 157117	him
+R1527	Speaker Arg1:T1460 Arg2:T1459	
+R1528	Cueing Arg1:T1461 Arg2:T1459	
+R1529	Addressee Arg1:T1462 Arg2:T1459	
+T1463	Quotation 157119 157159	"Soon I shall not trouble you any more."
+R1530	Speaker Arg1:T1460 Arg2:T1463	
+R1531	Cueing Arg1:T1461 Arg2:T1463	
+R1532	Addressee Arg1:T1462 Arg2:T1463	
+T1464	Quotation 157160 157194	"Why was it? Who drove you to it?"
+T1465	Entity 157195 157198	She
+R1533	Addressee Arg1:T1465 Arg2:T1464	
+T1466	Cue 157199 157206	replied
+T1467	Quotation 157208 157232	"It had to be, my dear!"
+R1534	Speaker Arg1:T1465 Arg2:T1467	
+R1535	Cueing Arg1:T1466 Arg2:T1467	
+R1536	Speaker Arg1:T1462 Arg2:T1464	
+T1468	Quotation 157233 157288	"Weren't you happy? Is it my fault? I did all I could!"
+R1537	Addressee Arg1:T1462 Arg2:T1467	
+T1469	Quotation 157289 157330	"Yes, that is true-- you are good-- you."
+T1470	Entity 157335 157338	she
+T1471	Entity 157367 157370	his
+R1538	Addressee Arg1:T1470 Arg2:T1468	
+R1539	Speaker Arg1:T1471 Arg2:T1468	
+R1540	Speaker Arg1:T1470 Arg2:T1469	
+R1541	Addressee Arg1:T1471 Arg2:T1469	
+T1472	Quotation 158084 158105	"Bring me the child,"
+T1473	Entity 158106 158109	she
+T1474	Cue 158110 158114	said
+T1475	Quotation 158146 158175	"You are not worse, are you?"
+T1476	Cue 158176 158181	asked
+T1477	Entity 158182 158189	Charles
+R1542	Speaker Arg1:T1473 Arg2:T1472	
+R1543	Cueing Arg1:T1474 Arg2:T1472	
+R1544	Cueing Arg1:T1476 Arg2:T1475	
+R1545	Speaker Arg1:T1477 Arg2:T1475	
+R1546	Addressee Arg1:T1477 Arg2:T1472	
+R1547	Addressee Arg1:T1473 Arg2:T1475	
+T1478	Quotation 158191 158200	"No, no!"
+R1548	Addressee Arg1:T1477 Arg2:T1478	
+R1549	Speaker Arg1:T1473 Arg2:T1478	
+T1479	Entity 158637 158640	she
+T1480	Cue 158647 158653	saying
+T1481	Quotation 158656 158681	"But where is it, mamma?"
+R1550	Speaker Arg1:T1479 Arg2:T1481	
+R1551	Cueing Arg1:T1480 Arg2:T1481	
+T1482	Quotation 158711 158748	"But I can't see my little stocking."
+R1552	Speaker Arg1:T1479 Arg2:T1482	
+R1553	Cueing Arg1:T1480 Arg2:T1482	
+T1483	Entity 158593 158605	her mother's
+R1554	Addressee Arg1:T1483 Arg2:T1481	
+R1555	Addressee Arg1:T1483 Arg2:T1482	
+T1484	Quotation 158834 158855	"Has nurse taken it?"
+T1485	Entity 158856 158859	she
+T1486	Cue 158860 158865	asked
+R1556	Speaker Arg1:T1485 Arg2:T1484	
+R1557	Cueing Arg1:T1486 Arg2:T1484	
+R1558	Addressee Arg1:T1483 Arg2:T1484	
+T1487	Entity 159069 159075	Berthe
+T1488	Quotation 159105 159175	"Oh, how big your eyes are, mamma! How pale you are! how hot you are!"
+R1559	Speaker Arg1:T1487 Arg2:T1488	
+T1489	Entity 159176 159186	Her mother
+R1560	Addressee Arg1:T1489 Arg2:T1488	
+T1490	Quotation 159202 159220	"I am frightened!"
+T1491	Cue 159221 159226	cried
+T1492	Entity 159227 159236	the child
+R1561	Cueing Arg1:T1491 Arg2:T1490	
+R1562	Speaker Arg1:T1492 Arg2:T1490	
+R1563	Addressee Arg1:T1489 Arg2:T1490	
+T1493	Quotation 159301 159331	"That will do. Take her away,"
+T1494	Cue 159332 159337	cried
+T1495	Entity 159338 159345	Charles
+R1564	Cueing Arg1:T1494 Arg2:T1493	
+R1565	Speaker Arg1:T1495 Arg2:T1493	
+T1496	Entity 158749 158757	Felicite
+R1566	Addressee Arg1:T1496 Arg2:T1493	
+T1497	Quotation 159598 159673	"Ah! it is you. Thanks! You are good! But she is better. See! look at her."
+T1498	Entity 159549 159556	Canivet
+T1499	Entity 159566 159568	he
+R1567	Addressee Arg1:T1498 Arg2:T1497	
+R1568	Speaker Arg1:T1499 Arg2:T1497	
+T1500	Entity 159729 159731	he
+T1501	Cue 159732 159736	said
+T1502	Quotation 159749 159780	"never beating about the bush,"
+R1569	Speaker Arg1:T1500 Arg2:T1502	
+R1570	Cueing Arg1:T1501 Arg2:T1502	
+R1571	Addressee Arg1:T1499 Arg2:T1502	
+T1503	Quotation 160618 160701	"The devil! yet she has been purged, and from the moment that the cause ceases -- "
+T1504	Entity 160485 160491	Homais
+T1505	Entity 160530 160546	Monsieur Canivet
+T1506	Entity 160235 160242	Charles
+R1572	Speaker Arg1:T1505 Arg2:T1503	
+R1573	Addressee Arg1:T1506 Arg2:T1503	
+R1574	Addressee Arg1:T1504 Arg2:T1503	
+T1507	Quotation 160702 160726	"The effect must cease,"
+T1508	Cue 160727 160731	said
+T1509	Entity 160732 160738	Homais
+T1510	Quotation 160740 160758	"that is evident."
+R1575	Cueing Arg1:T1508 Arg2:T1507	
+R1576	Speaker Arg1:T1509 Arg2:T1507	
+R1577	Cueing Arg1:T1508 Arg2:T1510	
+R1578	Speaker Arg1:T1509 Arg2:T1510	
+R1579	Addressee Arg1:T1505 Arg2:T1507	
+R1580	Addressee Arg1:T1505 Arg2:T1510	
+T1511	Quotation 160759 160774	"Oh, save her!"
+T1512	Cue 160775 160780	cried
+T1513	Entity 160781 160787	Bovary
+R1581	Cueing Arg1:T1512 Arg2:T1511	
+R1582	Speaker Arg1:T1513 Arg2:T1511	
+R1583	Addressee Arg1:T1505 Arg2:T1511	
+T1514	Quotation 160868 160904	"It is perhaps a salutary paroxysm,"
+T1515	Entity 160905 160912	Canivet
+R1584	Speaker Arg1:T1515 Arg2:T1514	
+R1585	Addressee Arg1:T1513 Arg2:T1514	
+T1516	Entity 162807 162809	he
+T1517	Entity 162798 162805	Canivet
+T1518	Cue 162867 162875	repeated
+T1519	Quotation 162878 162891	"Good! good!"
+R1586	Addressee Arg1:T1517 Arg2:T1519	
+R1587	Speaker Arg1:T1516 Arg2:T1519	
+R1588	Cueing Arg1:T1518 Arg2:T1519	
+T1520	Quotation 163168 163283	"She is very ill, isn't she? If we put on sinapisms? Anything! Oh, think of something, you who have saved so many!"
+T1522	Entity 163163 163166	him
+R1589	Speaker Arg1:T1522 Arg2:T1520	
+T1523	Quotation 163393 163459	"Come, my poor fellow, courage! There is nothing more to be done."
+T1524	Entity 163284 163291	Charles
+T1525	Entity 163299 163302	him
+R1590	Speaker Arg1:T1525 Arg2:T1523	
+R1591	Addressee Arg1:T1524 Arg2:T1523	
+T1526	Quotation 163494 163510	"You are going?"
+T1527	Entity 163464 163480	Doctor Lariviere
+R1592	Addressee Arg1:T1527 Arg2:T1526	
+R1593	Speaker Arg1:T1524 Arg2:T1526	
+T1528	Quotation 163511 163530	"I will come back."
+R1594	Speaker Arg1:T1527 Arg2:T1528	
+R1595	Addressee Arg1:T1524 Arg2:T1528	
+T1529	Quotation 164145 164242	"You must excuse us, sir, for in this poor place, when one hasn't been told the night before -- "
+T1530	Entity 164069 164082	Madame Homais
+T1531	Cue 164087 164093	saying
+R1596	Cueing Arg1:T1531 Arg2:T1529	
+R1597	Speaker Arg1:T1530 Arg2:T1529	
+T1532	Quotation 164243 164258	"Wine glasses!"
+T1533	Cue 164259 164268	whispered
+T1534	Entity 164269 164275	Homais
+R1598	Cueing Arg1:T1533 Arg2:T1532	
+R1599	Speaker Arg1:T1534 Arg2:T1532	
+R1600	Addressee Arg1:T1534 Arg2:T1529	
+R1601	Addressee Arg1:T1530 Arg2:T1532	
+T1535	Quotation 164277 164345	"If only we were in town, we could fall back upon stuffed trotters."
+T1536	Quotation 164346 164375	"Be quiet! Sit down, doctor!"
+T1537	Entity 164376 164378	He
+R1602	Speaker Arg1:T1537 Arg2:T1536	
+R1603	Addressee Arg1:T1537 Arg2:T1535	
+R1604	Speaker Arg1:T1534 Arg2:T1535	
+R1605	Addressee Arg1:T1534 Arg2:T1536	
+T1538	Quotation 164467 164584	"We first had a feeling of siccity in the pharynx, then intolerable pains at the epigastrium, super purgation, coma."
+R1606	Speaker Arg1:T1537 Arg2:T1538	
+R1607	Addressee Arg1:T1534 Arg2:T1538	
+T1539	Quotation 164585 164618	"But how did she poison herself?"
+R1608	Speaker Arg1:T1537 Arg2:T1539	
+R1609	Addressee Arg1:T1534 Arg2:T1539	
+T1540	Quotation 164619 164712	"I don't know, doctor, and I don't even know where she can have procured the arsenious acid."
+R1610	Addressee Arg1:T1537 Arg2:T1540	
+T1541	Entity 164713 164719	Justin
+T1542	Quotation 164782 164802	"What's the matter?"
+T1543	Cue 164803 164807	said
+T1544	Entity 164808 164819	the chemist
+R1611	Cueing Arg1:T1543 Arg2:T1542	
+R1612	Speaker Arg1:T1544 Arg2:T1542	
+R1613	Speaker Arg1:T1544 Arg2:T1540	
+R1614	Addressee Arg1:T1541 Arg2:T1542	
+T1545	Quotation 164902 164913	"Imbecile!"
+T1546	Cue 164914 164919	cried
+T1547	Entity 164920 164926	Homais
+T1548	Quotation 164928 164971	"awkward lout! block-head! confounded ass!"
+R1615	Cueing Arg1:T1546 Arg2:T1545	
+R1616	Speaker Arg1:T1547 Arg2:T1545	
+R1617	Cueing Arg1:T1546 Arg2:T1548	
+R1618	Speaker Arg1:T1547 Arg2:T1548	
+R1619	Addressee Arg1:T1541 Arg2:T1545	
+R1620	Addressee Arg1:T1541 Arg2:T1548	
+T1549	Entity 164997 165004	HIMSELF
+T1550	Quotation 165007 165092	"I wished, doctor, to make an analysis, and primo I delicately introduced a tube -- "
+T1551	Quotation 165093 165122	"You would have done better,"
+T1552	Cue 165123 165127	said
+T1553	Entity 165128 165141	the physician
+T1554	Quotation 165143 165187	"to introduce your fingers into her throat."
+R1621	Speaker Arg1:T1549 Arg2:T1550	
+R1622	Addressee Arg1:T1553 Arg2:T1550	
+R1623	Cueing Arg1:T1552 Arg2:T1551	
+R1624	Cueing Arg1:T1552 Arg2:T1554	
+R1625	Speaker Arg1:T1553 Arg2:T1551	
+R1626	Speaker Arg1:T1553 Arg2:T1554	
+R1627	Addressee Arg1:T1549 Arg2:T1551	
+R1628	Addressee Arg1:T1549 Arg2:T1554	
+T1555	Quotation 165734 166080	"I have even read that various persons have found themselves under toxicological symptoms, and, as it were, thunderstricken by black-pudding that had been subjected to a too vehement fumigation. At least, this was stated in a very fine report drawn up by one of our pharmaceutical chiefs, one of our masters, the illustrious Cadet de Gassicourt!"
+T1556	Entity 165647 165649	He
+T1557	Entity 165305 165312	Canivet
+R1629	Addressee Arg1:T1557 Arg2:T1555	
+R1630	Speaker Arg1:T1556 Arg2:T1555	
+T1558	Quotation 166297 166317	"Saccharum, doctor?"
+T1559	Cue 166318 166322	said
+T1560	Entity 166323 166325	he
+R1631	Cueing Arg1:T1559 Arg2:T1558	
+R1632	Speaker Arg1:T1560 Arg2:T1558	
+T1561	Entity 166462 166480	Monsieur Lariviere
+T1562	Entity 166506 166519	Madame Homais
+R1633	Addressee Arg1:T1561 Arg2:T1558	
+T1563	Cue 166520 166525	asked
+T1564	Quotation 166526 166562	for a consultation about her husband
+R1634	Cueing Arg1:T1563 Arg2:T1564	
+R1635	Speaker Arg1:T1562 Arg2:T1564	
+R1636	Addressee Arg1:T1561 Arg2:T1564	
+T1565	Quotation 166644 166686	"Oh, it isn't his blood that's too thick,"
+T1566	Cue 166687 166691	said
+T1567	Entity 166692 166705	the physician
+R1637	Cueing Arg1:T1566 Arg2:T1565	
+R1638	Speaker Arg1:T1567 Arg2:T1565	
+R1639	Addressee Arg1:T1562 Arg2:T1565	
+T1568	Entity 170567 170569	he
+T1569	Cue 170575 170584	explained
+T1570	Entity 170588 170594	Bovary
+T1571	Quotation 170600 170692	the Lord sometimes prolonged the life of persons when he thought it meet for their salvation
+R1640	Speaker Arg1:T1568 Arg2:T1571	
+R1641	Cueing Arg1:T1569 Arg2:T1571	
+R1642	Addressee Arg1:T1570 Arg2:T1571	
+T1572	Cue 172287 172291	sang
+T1573	Entity 172264 172279	a raucous voice
+T1574	Quotation 172294 172364	"Maids in the warmth of a summer day Dream of love and of love always"
+R1643	Cueing Arg1:T1572 Arg2:T1574	
+R1644	Speaker Arg1:T1573 Arg2:T1574	
+T1575	Quotation 172453 172589	"Where the sickle blades have been, Nannette, gathering ears of corn, Passes bending down, my queen, To the earth where they were born."
+R1645	Cueing Arg1:T1572 Arg2:T1575	
+R1646	Speaker Arg1:T1573 Arg2:T1575	
+T1576	Quotation 172590 172606	"The blind man!"
+T1577	Entity 172607 172610	she
+T1578	Cue 172611 172616	cried
+R1647	Speaker Arg1:T1577 Arg2:T1576	
+R1648	Cueing Arg1:T1578 Arg2:T1576	
+T1579	Quotation 172793 172860	"The wind is strong this summer day, Her petticoat has flown away."
+R1649	Speaker Arg1:T1573 Arg2:T1579	
+R1650	Cueing Arg1:T1572 Arg2:T1579	
+T1580	Entity 173166 173173	Charles
+T1581	Entity 173193 173196	her
+T1582	Cue 173198 173204	crying
+T1583	Quotation 173207 173228	"Farewell! farewell!"
+R1651	Speaker Arg1:T1580 Arg2:T1583	
+R1652	Addressee Arg1:T1581 Arg2:T1583	
+R1653	Cueing Arg1:T1582 Arg2:T1583	
+T1584	Quotation 173275 173295	"Restrain yourself!"
+T1585	Entity 173240 173247	Canivet
+T1586	Entity 173256 173259	him
+R1654	Speaker Arg1:T1585 Arg2:T1584	
+R1655	Addressee Arg1:T1586 Arg2:T1584	
+T1587	Quotation 173296 173302	"Yes."
+T1588	Cue 173303 173307	said
+T1589	Entity 173308 173310	he
+T1590	Quotation 173324 173417	"I'll be quiet. I'll not do anything. But leave me alone. I want to see her. She is my wife!"
+R1656	Cueing Arg1:T1588 Arg2:T1587	
+R1657	Speaker Arg1:T1589 Arg2:T1587	
+R1658	Cueing Arg1:T1588 Arg2:T1590	
+R1659	Speaker Arg1:T1589 Arg2:T1590	
+R1660	Addressee Arg1:T1585 Arg2:T1587	
+R1661	Addressee Arg1:T1586 Arg2:T1590	
+T1591	Quotation 173431 173437	"Cry,"
+T1592	Cue 173438 173442	said
+T1593	Entity 173443 173454	the chemist
+T1594	Quotation 173456 173507	"let nature take her course; that will solace you."
+T1595	Entity 173422 173424	he
+R1662	Cueing Arg1:T1592 Arg2:T1591	
+R1663	Speaker Arg1:T1593 Arg2:T1591	
+R1664	Cueing Arg1:T1592 Arg2:T1594	
+R1665	Speaker Arg1:T1593 Arg2:T1594	
+R1666	Addressee Arg1:T1595 Arg2:T1591	
+R1667	Addressee Arg1:T1595 Arg2:T1594	
+T1596	Quotation 173824 173923	"There now! as if I hadn't got other fish to fry. Well, so much the worse; you must come later on."
+T1597	Entity 173782 173797	every passer-by
+T1598	Entity 173658 173671	the blind man
+T1599	Cue 173775 173781	asking
+R1668	Speaker Arg1:T1598 Arg2:T1596	
+R1669	Cueing Arg1:T1599 Arg2:T1596	
+R1670	Addressee Arg1:T1597 Arg2:T1596	
+T1600	Quotation 174507 174513	"Now,"
+T1601	Cue 174514 174518	said
+T1602	Entity 174519 174530	the chemist
+T1603	Quotation 174532 174586	"you ought yourself to fix the hour for the ceremony."
+T1604	Entity 174371 174374	him
+R1671	Cueing Arg1:T1601 Arg2:T1600	
+R1672	Speaker Arg1:T1602 Arg2:T1600	
+R1673	Speaker Arg1:T1602 Arg2:T1603	
+R1674	Cueing Arg1:T1601 Arg2:T1603	
+R1675	Addressee Arg1:T1604 Arg2:T1600	
+R1676	Addressee Arg1:T1604 Arg2:T1603	
+T1605	Quotation 174587 174608	"Why? What ceremony?"
+T1606	Quotation 174650 174697	"Oh, no! not that. No! I want to see her here."
+R1677	Addressee Arg1:T1602 Arg2:T1605	
+R1678	Addressee Arg1:T1602 Arg2:T1606	
+R1679	Speaker Arg1:T1604 Arg2:T1605	
+R1680	Speaker Arg1:T1604 Arg2:T1606	
+T1607	Quotation 174800 174813	"Ah! thanks,"
+T1608	Cue 174814 174818	said
+T1609	Entity 174819 174826	Charles
+T1610	Quotation 174828 174843	"you are good."
+R1681	Cueing Arg1:T1608 Arg2:T1607	
+R1682	Cueing Arg1:T1608 Arg2:T1610	
+R1683	Speaker Arg1:T1609 Arg2:T1607	
+R1684	Speaker Arg1:T1609 Arg2:T1610	
+T1611	Entity 174698 174704	Homais
+R1685	Addressee Arg1:T1611 Arg2:T1607	
+R1686	Addressee Arg1:T1611 Arg2:T1610	
+T1612	Quotation 175098 175147	"Besides, the fine days will soon be here again."
+T1613	Entity 175051 175058	Charles
+T1614	Entity 174977 174983	Homais
+R1687	Speaker Arg1:T1614 Arg2:T1612	
+R1688	Addressee Arg1:T1613 Arg2:T1612	
+T1615	Quotation 175148 175153	"Ah!"
+T1616	Cue 175154 175158	said
+T1617	Entity 175159 175165	Bovary
+R1689	Cueing Arg1:T1616 Arg2:T1615	
+R1690	Speaker Arg1:T1617 Arg2:T1615	
+T1618	Entity 175167 175179	The druggist
+T1619	Quotation 175252 175294	"Hallo! there's Monsieur Tuvache passing."
+R1691	Addressee Arg1:T1618 Arg2:T1615	
+R1692	Speaker Arg1:T1618 Arg2:T1619	
+R1693	Addressee Arg1:T1617 Arg2:T1619	
+T1620	Entity 175295 175302	CHARLES
+T1621	Cue 175303 175311	REPEATED
+T1622	Quotation 175329 175356	"Monsieur Tuvache passing!"
+R1694	Speaker Arg1:T1620 Arg2:T1622	
+R1695	Cueing Arg1:T1621 Arg2:T1622	
+T1623	Entity 175357 175363	Homais
+R1696	Addressee Arg1:T1623 Arg2:T1622	
+T1624	Entity 175987 175998	The chemist
+T1625	Entity 176015 176018	him
+T1626	Cue 176023 176027	said
+T1627	Quotation 176030 176097	"This velvet seems to me a superfetation. Besides, the expense -- "
+R1697	Speaker Arg1:T1624 Arg2:T1627	
+R1698	Addressee Arg1:T1625 Arg2:T1627	
+R1699	Cueing Arg1:T1626 Arg2:T1627	
+T1628	Quotation 176098 176119	"What's that to you?"
+T1629	Cue 176120 176125	cried
+T1630	Entity 176126 176133	Charles
+R1700	Cueing Arg1:T1629 Arg2:T1628	
+R1701	Speaker Arg1:T1630 Arg2:T1628	
+T1631	Quotation 176135 176172	"Leave me! You did not love her. Go!"
+R1702	Cueing Arg1:T1629 Arg2:T1631	
+R1703	Speaker Arg1:T1630 Arg2:T1631	
+R1704	Addressee Arg1:T1624 Arg2:T1628	
+R1705	Addressee Arg1:T1624 Arg2:T1631	
+T1632	Entity 176387 176394	Charles
+T1633	Cue 176395 176404	burst out
+T1634	Quotation 176423 176441	"I hate your God!"
+R1706	Cueing Arg1:T1633 Arg2:T1634	
+R1707	Speaker Arg1:T1632 Arg2:T1634	
+T1635	Entity 176173 176183	The priest
+R1708	Addressee Arg1:T1635 Arg2:T1634	
+T1636	Quotation 176442 176486	"The spirit of rebellion is still upon you,"
+T1637	Cue 176487 176493	sighed
+T1638	Entity 176494 176510	the ecclesiastic
+R1709	Cueing Arg1:T1637 Arg2:T1636	
+R1710	Speaker Arg1:T1638 Arg2:T1636	
+R1711	Addressee Arg1:T1632 Arg2:T1636	
+T1639	Entity 177646 177656	the priest
+T1640	Cue 177657 177664	replied
+T1641	Quotation 177670 177714	there was nothing to do now but pray for her
+R1712	Speaker Arg1:T1639 Arg2:T1641	
+R1713	Cueing Arg1:T1640 Arg2:T1641	
+T1642	Entity 177507 177519	The druggist
+R1714	Addressee Arg1:T1642 Arg2:T1641	
+T1643	Quotation 177716 177722	"Yet,"
+T1644	Entity 177723 177729	Homais
+T1645	Cue 177730 177737	went on
+T1646	Quotation 177739 177959	"one of two things; either she died in a state of grace (as the Church has it), and then she has no need of our prayers; or else she departed impertinent (that is, I believe, the ecclesiastical expression), and then -- "
+R1715	Speaker Arg1:T1644 Arg2:T1643	
+R1716	Speaker Arg1:T1644 Arg2:T1646	
+R1717	Cueing Arg1:T1645 Arg2:T1643	
+R1718	Cueing Arg1:T1645 Arg2:T1646	
+R1719	Addressee Arg1:T1639 Arg2:T1643	
+R1720	Addressee Arg1:T1639 Arg2:T1646	
+T1647	Entity 177960 177970	Bournisien
+T1648	Entity 177983 177986	him
+T1649	Cue 177988 177996	replying
+T1650	Quotation 178010 178048	it was none the less necessary to pray
+R1721	Speaker Arg1:T1647 Arg2:T1650	
+R1722	Cueing Arg1:T1649 Arg2:T1650	
+R1723	Addressee Arg1:T1648 Arg2:T1650	
+T1651	Quotation 178050 178056	"But,"
+T1652	Cue 178057 178065	objected
+T1653	Entity 178066 178077	the chemist
+T1654	Quotation 178079 178143	"since God knows all our needs, what can be the good of prayer?"
+R1724	Cueing Arg1:T1652 Arg2:T1651	
+R1725	Cueing Arg1:T1652 Arg2:T1654	
+R1726	Speaker Arg1:T1653 Arg2:T1651	
+R1727	Speaker Arg1:T1653 Arg2:T1654	
+R1728	Addressee Arg1:T1647 Arg2:T1651	
+R1729	Addressee Arg1:T1647 Arg2:T1654	
+T1655	Quotation 178144 178151	"What!"
+T1656	Cue 178152 178157	cried
+T1657	Entity 178158 178174	the ecclesiastic
+T1658	Quotation 178176 178214	"prayer! Why, aren't you a Christian?"
+R1730	Cueing Arg1:T1656 Arg2:T1655	
+R1731	Cueing Arg1:T1656 Arg2:T1658	
+R1732	Speaker Arg1:T1657 Arg2:T1655	
+R1733	Speaker Arg1:T1657 Arg2:T1658	
+R1734	Addressee Arg1:T1653 Arg2:T1655	
+R1735	Addressee Arg1:T1653 Arg2:T1658	
+T1659	Quotation 178215 178227	"Excuse me,"
+T1660	Cue 178228 178232	said
+T1661	Entity 178233 178239	Homais
+T1662	Quotation 178241 178349	"I admire Christianity. To begin with, it enfranchised the slaves, introduced into the world a morality -- "
+R1736	Cueing Arg1:T1660 Arg2:T1659	
+R1737	Speaker Arg1:T1661 Arg2:T1659	
+R1738	Cueing Arg1:T1660 Arg2:T1662	
+R1739	Speaker Arg1:T1661 Arg2:T1662	
+T1663	Quotation 178350 178391	"That isn't the question. All the texts-"
+R1740	Addressee Arg1:T1657 Arg2:T1659	
+R1741	Addressee Arg1:T1657 Arg2:T1662	
+R1742	Addressee Arg1:T1661 Arg2:T1663	
+R1743	Speaker Arg1:T1657 Arg2:T1663	
+T1664	Quotation 178392 178499	"Oh! oh! As to texts, look at history; it, is known that all the texts have been falsified by the Jesuits."
+R1744	Speaker Arg1:T1661 Arg2:T1664	
+R1745	Addressee Arg1:T1657 Arg2:T1664	
+T1665	Quotation 179355 179378	"Come, my good friend,"
+T1666	Entity 179379 179381	he
+T1667	Cue 179382 179386	said
+T1668	Quotation 179388 179440	"withdraw; this spectacle is tearing you to pieces."
+R1746	Speaker Arg1:T1666 Arg2:T1665	
+R1747	Speaker Arg1:T1666 Arg2:T1668	
+R1748	Cueing Arg1:T1667 Arg2:T1665	
+R1749	Cueing Arg1:T1667 Arg2:T1668	
+T1669	Entity 179441 179448	Charles
+R1750	Addressee Arg1:T1669 Arg2:T1665	
+R1751	Addressee Arg1:T1669 Arg2:T1668	
+T1670	Quotation 179516 179532	"Read Voltaire,"
+T1671	Cue 179533 179537	said
+T1672	Entity 179538 179545	the one
+T1673	Quotation 179547 179590	"read D'Holbach, read the 'Encyclopaedia'!"
+R1752	Cueing Arg1:T1671 Arg2:T1670	
+R1753	Cueing Arg1:T1671 Arg2:T1673	
+R1754	Speaker Arg1:T1672 Arg2:T1670	
+R1755	Speaker Arg1:T1672 Arg2:T1673	
+T1674	Entity 179476 179484	the cure
+R1756	Addressee Arg1:T1674 Arg2:T1670	
+R1757	Addressee Arg1:T1674 Arg2:T1673	
+T1675	Quotation 179591 179636	"Read the 'Letters of some Portuguese Jews,'"
+T1676	Cue 179637 179641	said
+T1677	Entity 179642 179651	the other
+T1678	Quotation 179653 179725	"read 'The Meaning of Christianity,' by Nicolas, formerly a magistrate."
+R1758	Cueing Arg1:T1676 Arg2:T1675	
+R1759	Speaker Arg1:T1677 Arg2:T1675	
+R1760	Cueing Arg1:T1676 Arg2:T1678	
+R1761	Speaker Arg1:T1677 Arg2:T1678	
+R1762	Addressee Arg1:T1672 Arg2:T1675	
+R1763	Addressee Arg1:T1672 Arg2:T1678	
+T1679	Entity 180334 180336	he
+T1680	Entity 180355 180357	he
+T1681	Cue 180363 180368	cried
+T1682	Quotation 180385 180398	"Emma! Emma!"
+R1764	Speaker Arg1:T1679 Arg2:T1682	
+R1765	Addressee Arg1:T1680 Arg2:T1682	
+R1766	Cueing Arg1:T1681 Arg2:T1682	
+T1683	Entity 181745 181753	Felicite
+T1684	Cue 181758 181765	sobbing
+T1685	Quotation 181768 181809	"Ah! my poor mistress! my poor mistress!"
+T1686	Quotation 181810 181824	"Look at her,"
+R1767	Cueing Arg1:T1684 Arg2:T1685	
+R1768	Speaker Arg1:T1683 Arg2:T1685	
+T1687	Cue 181825 181829	said
+T1688	Entity 181830 181842	the landlady
+T1689	Quotation 181853 181940	"how pretty she still is! Now, couldn't you swear she was going to get up in a minute?"
+R1769	Cueing Arg1:T1687 Arg2:T1686	
+R1770	Speaker Arg1:T1688 Arg2:T1686	
+R1771	Cueing Arg1:T1687 Arg2:T1689	
+R1772	Speaker Arg1:T1688 Arg2:T1689	
+R1773	Addressee Arg1:T1683 Arg2:T1686	
+R1774	Addressee Arg1:T1683 Arg2:T1689	
+T1690	Quotation 182100 182137	"Oh, goodness! The dress; take care!"
+T1691	Cue 182138 182143	cried
+T1692	Entity 182144 182161	Madame Lefrancois
+T1693	Entity 181987 181991	They
+R1775	Addressee Arg1:T1693 Arg2:T1690	
+R1776	Cueing Arg1:T1691 Arg2:T1690	
+R1777	Speaker Arg1:T1692 Arg2:T1690	
+T1694	Quotation 182163 182189	"Now, just come and help,"
+T1695	Entity 182190 182193	she
+T1696	Cue 182194 182198	said
+T1697	Entity 182202 182213	the chemist
+R1778	Speaker Arg1:T1695 Arg2:T1694	
+R1779	Cueing Arg1:T1696 Arg2:T1694	
+R1780	Addressee Arg1:T1697 Arg2:T1694	
+T1698	Quotation 182215 182239	"Perhaps you're afraid?"
+R1782	Speaker Arg1:T1695 Arg2:T1698	
+R1781	Cueing Arg1:T1696 Arg2:T1698	
+R1783	Addressee Arg1:T1697 Arg2:T1698	
+T1699	Quotation 182240 182251	"I afraid?"
+T1700	Cue 182252 182259	replied
+T1701	Entity 182260 182262	he
+R1784	Cueing Arg1:T1700 Arg2:T1699	
+R1785	Speaker Arg1:T1701 Arg2:T1699	
+R1786	Addressee Arg1:T1695 Arg2:T1699	
+T1702	Quotation 182289 182576	"I dare say! I've seen all sorts of things at the hospital when I was studying pharmacy. We used to make punch in the dissecting room! Nothingness does not terrify a philosopher; and, as I often say, I even intend to leave my body to the hospitals, in order, later on, to serve science."
+R1787	Cueing Arg1:T1700 Arg2:T1702	
+R1788	Speaker Arg1:T1701 Arg2:T1702	
+R1789	Addressee Arg1:T1695 Arg2:T1702	
+T1703	Entity 182577 182585	The cure
+T1704	Cue 182601 182609	inquired
+T1705	Quotation 182610 182633	how Monsieur Bovary was
+R1790	Speaker Arg1:T1703 Arg2:T1705	
+R1791	Cueing Arg1:T1704 Arg2:T1705	
+T1706	Entity 182656 182668	the druggist
+R1792	Addressee Arg1:T1706 Arg2:T1705	
+T1707	Cue 182670 182677	went on
+T1708	Quotation 182680 182721	"The blow, you see, is still too recent."
+R1793	Speaker Arg1:T1703 Arg2:T1708	
+R1794	Cueing Arg1:T1707 Arg2:T1708	
+R1795	Addressee Arg1:T1706 Arg2:T1708	
+T1709	Quotation 182892 182898	"For,"
+T1710	Cue 182899 182903	said
+T1711	Entity 182904 182915	the chemist
+T1712	Quotation 182917 182997	"it is unnatural that a man should do without women! There have been crimes -- "
+R1796	Cueing Arg1:T1710 Arg2:T1709	
+R1797	Cueing Arg1:T1710 Arg2:T1712	
+R1798	Speaker Arg1:T1711 Arg2:T1709	
+R1799	Speaker Arg1:T1711 Arg2:T1712	
+T1713	Quotation 182998 183017	"But, good heaven!"
+T1714	Cue 183018 183023	cried
+T1715	Entity 183024 183040	the ecclesiastic
+R1800	Addressee Arg1:T1715 Arg2:T1709	
+R1801	Addressee Arg1:T1715 Arg2:T1712	
+R1802	Cueing Arg1:T1714 Arg2:T1713	
+R1803	Speaker Arg1:T1715 Arg2:T1713	
+T1716	Quotation 183042 183144	"how do you expect an individual who is married to keep the secrets of the confessional, for example?"
+R1804	Cueing Arg1:T1714 Arg2:T1716	
+R1805	Speaker Arg1:T1715 Arg2:T1716	
+R1806	Addressee Arg1:T1711 Arg2:T1713	
+R1807	Addressee Arg1:T1711 Arg2:T1716	
+T1717	Quotation 183617 183647	"Come, take a pinch of snuff,"
+T1718	Entity 183648 183650	he
+T1719	Cue 183651 183655	said
+T1720	Entity 183659 183662	him
+R1808	Speaker Arg1:T1718 Arg2:T1717	
+R1809	Cueing Arg1:T1719 Arg2:T1717	
+R1810	Addressee Arg1:T1720 Arg2:T1717	
+T1721	Quotation 183664 183693	"Take it; it'll relieve you."
+R1811	Speaker Arg1:T1718 Arg2:T1721	
+R1812	Cueing Arg1:T1719 Arg2:T1721	
+R1813	Addressee Arg1:T1720 Arg2:T1721	
+T1722	Quotation 183741 183772	"Do you hear that dog howling?"
+T1723	Cue 183773 183777	said
+T1724	Entity 183778 183789	the chemist
+R1814	Cueing Arg1:T1723 Arg2:T1722	
+R1815	Speaker Arg1:T1724 Arg2:T1722	
+T1725	Quotation 183791 183813	"They smell the dead,"
+T1726	Cue 183814 183821	replied
+T1727	Entity 183822 183832	the priest
+R1816	Cueing Arg1:T1726 Arg2:T1725	
+R1817	Speaker Arg1:T1727 Arg2:T1725	
+R1818	Addressee Arg1:T1727 Arg2:T1722	
+R1819	Addressee Arg1:T1724 Arg2:T1725	
+T1728	Quotation 183834 183904	"It's like bees; they leave their hives on the decease of any person."
+R1820	Cueing Arg1:T1726 Arg2:T1728	
+R1821	Speaker Arg1:T1727 Arg2:T1728	
+R1822	Addressee Arg1:T1724 Arg2:T1728	
+T1729	Entity 185918 185926	Felicite
+T1730	Cue 185938 185941	say
+T1731	Quotation 185947 185973	he wanted some of her hair
+T1732	Entity 185999 186011	the druggist
+R1823	Speaker Arg1:T1729 Arg2:T1731	
+R1824	Cueing Arg1:T1730 Arg2:T1731	
+R1825	Addressee Arg1:T1732 Arg2:T1731	
+T1733	Quotation 185975 185990	"Cut some off,"
+T1734	Cue 185991 185998	replied
+R1826	Cueing Arg1:T1734 Arg2:T1733	
+R1827	Speaker Arg1:T1732 Arg2:T1733	
+R1828	Addressee Arg1:T1729 Arg2:T1733	
+T1735	Entity 186727 186739	the druggist
+T1736	Cue 186802 186808	sighed
+T1737	Quotation 186811 186860	"My word! I should like to take some sustenance."
+R1829	Cueing Arg1:T1736 Arg2:T1737	
+R1830	Speaker Arg1:T1735 Arg2:T1737	
+T1738	Entity 186861 186871	The priest
+R1831	Addressee Arg1:T1738 Arg2:T1737	
+T1739	Entity 187113 187123	the priest
+T1740	Cue 187124 187128	said
+T1741	Entity 187132 187144	the druggist
+T1742	Quotation 187182 187226	"We shall end by understanding one another."
+R1832	Speaker Arg1:T1739 Arg2:T1742	
+R1833	Cueing Arg1:T1740 Arg2:T1742	
+R1834	Addressee Arg1:T1741 Arg2:T1742	
+T1743	Entity 189947 189949	he
+T1744	Quotation 190052 190095	"I don't know! I don't know! It's a curse!"
+T1745	Entity 190024 190033	The other
+T1746	Cue 190034 190041	replied
+R1835	Cueing Arg1:T1746 Arg2:T1744	
+R1836	Speaker Arg1:T1745 Arg2:T1744	
+T1747	Quotation 189985 190023	"My girl! Emma! my child! tell me -- "
+T1748	Entity 189970 189978	Bovary's
+R1837	Speaker Arg1:T1743 Arg2:T1747	
+R1838	Addressee Arg1:T1748 Arg2:T1747	
+R1839	Addressee Arg1:T1743 Arg2:T1744	
+T1749	Quotation 190125 190262	"These horrible details are useless. I will tell this gentleman all about it. Here are the people coming. Dignity! Come now! Philosophy!"
+T1750	Entity 190096 190108	The druggist
+T1751	Entity 190119 190123	them
+R1840	Speaker Arg1:T1750 Arg2:T1749	
+R1841	Addressee Arg1:T1751 Arg2:T1749	
+T1752	Quotation 190336 190351	"Yes! courage!"
+T1753	Entity 190263 190278	The poor fellow
+T1754	Cue 190312 190320	repeated
+R1842	Speaker Arg1:T1753 Arg2:T1752	
+R1843	Cueing Arg1:T1754 Arg2:T1752	
+R1844	Addressee Arg1:T1750 Arg2:T1752	
+T1755	Quotation 190352 190357	"Oh,"
+T1756	Cue 190358 190363	cried
+T1757	Entity 190364 190375	the old man
+T1758	Quotation 190377 190435	"so I will have, by God! I'll go along o' her to the end!"
+R1845	Cueing Arg1:T1756 Arg2:T1755	
+R1846	Speaker Arg1:T1757 Arg2:T1755	
+R1847	Cueing Arg1:T1756 Arg2:T1758	
+R1848	Speaker Arg1:T1757 Arg2:T1758	
+T1759	Quotation 191961 191992	"Oh, make haste! I am in pain!"
+T1760	Cue 191993 191998	cried
+T1761	Entity 191999 192005	Bovary
+R1849	Cueing Arg1:T1760 Arg2:T1759	
+R1850	Speaker Arg1:T1761 Arg2:T1759	
+T1762	Entity 192024 192027	him
+R1851	Addressee Arg1:T1762 Arg2:T1759	
+T1763	Entity 195021 195028	Charles
+T1764	Cue 195094 195100	crying
+T1765	Quotation 195102 195110	"Adieu!"
+T1766	Entity 195119 195122	her
+R1852	Speaker Arg1:T1763 Arg2:T1765	
+R1853	Addressee Arg1:T1766 Arg2:T1765	
+R1854	Cueing Arg1:T1764 Arg2:T1765	
+T1767	Entity 195802 195810	Lheureux
+T1768	Quotation 195855 195907	"Poor little woman! What a trouble for her husband!"
+T1769	Entity 195757 195761	They
+R1855	Addressee Arg1:T1769 Arg2:T1768	
+R1856	Speaker Arg1:T1767 Arg2:T1768	
+T1770	Entity 195908 195920	The druggist
+T1771	Cue 195921 195930	continued
+T1772	Quotation 195932 196018	"Do you know that but for me he would have committed some fatal attempt upon himself?"
+R1857	Cueing Arg1:T1771 Arg2:T1772	
+R1858	Speaker Arg1:T1770 Arg2:T1772	
+R1859	Addressee Arg1:T1769 Arg2:T1772	
+T1773	Quotation 196019 196094	"Such a good woman! To think that I saw her only last Saturday in my shop."
+R1860	Cueing Arg1:T1771 Arg2:T1773	
+R1861	Speaker Arg1:T1770 Arg2:T1773	
+T1774	Quotation 196095 196119	"I haven't had leisure,"
+T1775	Cue 196120 196124	said
+T1776	Entity 196125 196131	Homais
+T1777	Quotation 196133 196195	"to prepare a few words that I would have cast upon her tomb."
+R1862	Cueing Arg1:T1775 Arg2:T1774	
+R1863	Cueing Arg1:T1775 Arg2:T1777	
+R1864	Speaker Arg1:T1776 Arg2:T1774	
+R1865	Speaker Arg1:T1776 Arg2:T1777	
+R1866	Addressee Arg1:T1770 Arg2:T1774	
+R1867	Addressee Arg1:T1770 Arg2:T1777	
+T1778	Entity 196529 196543	the old fellow
+T1779	Cue 196544 196550	sighed
+T1780	Quotation 196553 196730	"Do you remember, my friend, that I went to Tostes once when you had just lost your first deceased? I consoled you at that time. I thought of something to say then, but now -- "
+R1868	Speaker Arg1:T1778 Arg2:T1780	
+R1869	Cueing Arg1:T1779 Arg2:T1780	
+T1781	Cue 196749 196754	groan
+T1782	Quotation 196783 196888	"Ah! this is the end for me, do you see! I saw my wife go, then my son, and now to-day it's my daughter."
+T1783	Entity 196766 196769	his
+R1870	Cueing Arg1:T1781 Arg2:T1782	
+R1871	Speaker Arg1:T1783 Arg2:T1782	
+T1784	Entity 196492 196496	them
+R1872	Addressee Arg1:T1784 Arg2:T1780	
+R1873	Addressee Arg1:T1784 Arg2:T1782	
+T1785	Entity 196889 196891	He
+T1786	Cue 196930 196936	saying
+T1787	Quotation 196942 196974	he could not sleep in this house
+R1874	Speaker Arg1:T1785 Arg2:T1787	
+R1875	Cueing Arg1:T1786 Arg2:T1787	
+R1876	Addressee Arg1:T1784 Arg2:T1787	
+T1788	Quotation 197018 197164	"No, no! It would grieve me too much. Only you'll kiss her many times for me. Good-bye! you're a good fellow! And then I shall never forget that,"
+T1789	Entity 197165 197167	he
+T1790	Cue 197168 197172	said
+T1791	Quotation 197194 197242	"Never fear, you shall always have your turkey."
+R1877	Speaker Arg1:T1789 Arg2:T1791	
+R1878	Cueing Arg1:T1790 Arg2:T1791	
+R1879	Addressee Arg1:T1784 Arg2:T1791	
+T1792	Entity 198867 198870	She
+T1793	Cue 198871 198876	asked
+T1794	Quotation 198881 198890	her mamma
+R1880	Speaker Arg1:T1792 Arg2:T1794	
+R1881	Cueing Arg1:T1793 Arg2:T1794	
+T1795	Entity 198892 198896	They
+T1796	Cue 198897 198901	told
+T1797	Entity 198902 198905	her
+T1798	Quotation 198906 198965	she was away; that she would bring her back some playthings
+R1882	Speaker Arg1:T1795 Arg2:T1798	
+R1883	Cueing Arg1:T1796 Arg2:T1798	
+R1884	Addressee Arg1:T1797 Arg2:T1798	
+T1799	Entity 199934 199937	she
+T1800	Cue 199958 199963	reply
+T1801	Quotation 199966 200018	"Oh, I don't know. It was for her business affairs."
+R1885	Speaker Arg1:T1799 Arg2:T1801	
+R1886	Cueing Arg1:T1800 Arg2:T1801	
+T1802	Entity 199900 199907	Charles
+R1887	Addressee Arg1:T1802 Arg2:T1801	
+T1803	Entity 200438 200445	Charles
+T1804	Entity 200454 200457	her
+T1805	Cue 200504 200513	cried out
+T1806	Quotation 200516 200533	"Oh, stay, stay!"
+R1888	Speaker Arg1:T1803 Arg2:T1806	
+R1889	Addressee Arg1:T1804 Arg2:T1806	
+R1890	Cueing Arg1:T1805 Arg2:T1806	
+T1807	Entity 212332 212336	they
+T1808	Cue 212337 212341	said
+T1809	Quotation 212342 212372	"he shut himself up to drink."
+R1891	Speaker Arg1:T1807 Arg2:T1809	
+R1892	Cueing Arg1:T1808 Arg2:T1809	
+R1893	Addressee Arg1:T1807 Arg2:T1809	
+T1810	Quotation 214384 214404	"I don't blame you,"
+T1811	Entity 214405 214407	he
+T1812	Cue 214408 214412	said
+R1894	Speaker Arg1:T1811 Arg2:T1810	
+R1895	Cueing Arg1:T1812 Arg2:T1810	
+T1813	Entity 214414 214422	Rodolphe
+R1896	Addressee Arg1:T1813 Arg2:T1810	
+T1814	Quotation 214546 214574	"No, I don't blame you now."
+T1815	Entity 214437 214444	Charles
+R1897	Speaker Arg1:T1815 Arg2:T1814	
+R1898	Addressee Arg1:T1813 Arg2:T1814	
+T1816	Cue 214469 214476	went on
+R1899	Cueing Arg1:T1816 Arg2:T1814	
+T1817	Entity 214617 214619	he
+T1818	Quotation 214632 214662	"It is the fault of fatality!"
+T1819	Entity 214663 214671	Rodolphe
+R1900	Speaker Arg1:T1817 Arg2:T1818	
+R1901	Addressee Arg1:T1819 Arg2:T1818	
+T1820	Quotation 215389 215408	"Come along, papa,"
+T1821	Entity 215409 215412	she
+T1822	Cue 215413 215417	said
+T1823	Entity 215348 215351	his
+R1902	Addressee Arg1:T1823 Arg2:T1820	
+R1903	Speaker Arg1:T1821 Arg2:T1820	
+R1904	Cueing Arg1:T1822 Arg2:T1820	

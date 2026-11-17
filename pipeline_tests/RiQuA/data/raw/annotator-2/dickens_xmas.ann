@@ -1,0 +1,3629 @@
+T1	Entity 3299 3305	Nobody
+T2	Entity 3319 3322	him
+T3	Cue 3340 3343	say
+T4	Quotation 3364 3425	"My dear Scrooge, how are you? When will you come to see me?"
+T5	Entity 3430 3437	beggars
+T6	Cue 3438 3446	implored
+T7	Entity 3447 3450	him
+T8	Quotation 3451 3469	to bestow a trifle
+T9	Entity 3474 3482	children
+T10	Cue 3483 3488	asked
+T11	Entity 3489 3492	him
+T12	Quotation 3493 3512	what it was o'clock
+T13	Entity 3517 3520	man
+T14	Entity 3524 3529	woman
+T15	Cue 3556 3564	inquired
+T16	Quotation 3565 3597	the way to such and such a place
+T17	Entity 3602 3609	Scrooge
+T18	Entity 3702 3714	their owners
+T19	Entity 3785 3789	they
+T20	Cue 3790 3794	said
+T21	Quotation 3795 3851	"No eye at all is better than an evil eye, dark master!"
+T22	Entity 4026 4042	the knowing ones
+T23	Cue 4043 4047	call
+T24	Quotation 4048 4054	"nuts"
+T25	Entity 4058 4065	Scrooge
+T26	Quotation 5587 5628	"A merry Christmas, uncle! God save you!"
+T27	Cue 5630 5635	cried
+T28	Entity 5636 5652	a cheerful voice
+T29	Entity 5674 5690	Scrooge's nephew
+T30	Quotation 5787 5793	"Bah!"
+T31	Cue 5795 5799	said
+T32	Entity 5800 5807	Scrooge
+T33	Quotation 5809 5818	"Humbug!"
+T34	Quotation 6033 6061	"Christmas a humbug, uncle?"
+T35	Cue 6063 6067	said
+T36	Entity 6068 6084	Scrooge's nephew
+T37	Quotation 6086 6119	"You don't mean that, I am sure?"
+T38	Quotation 6127 6133	"I do"
+T39	Cue 6135 6139	said
+T40	Entity 6140 6147	Scrooge
+T41	Quotation 6149 6256	"'Merry Christmas'! What right have you to be merry? What reason have you to be merry? You're poor enough."
+T42	Quotation 6264 6276	"Come, then"
+T43	Cue 6278 6286	returned
+T44	Entity 6287 6297	the nephew
+T45	Quotation 6305 6395	"What right have you to be dismal? What reason have you to be morose? You're rich enough."
+T46	Entity 6403 6410	Scrooge
+T47	Cue 6469 6473	said
+T48	Quotation 6474 6480	"Bah!"
+T49	Quotation 6511 6520	"Humbug!"
+T50	Quotation 6529 6553	"Don't be cross, uncle!"
+T51	Cue 6555 6559	said
+T52	Entity 6560 6570	the nephew
+T53	Quotation 6579 6599	"What else can I be"
+T54	Cue 6601 6609	returned
+T55	Entity 6610 6619	the uncle
+T56	Quotation 6621 6994	"when I live in such a world of fools as this? Merry Christmas! Out upon merry Christmas! What's Christmas time to you but a time for paying bills without money; a time for finding yourself a year older, but not an hour richer; a time for balancing your books and having every item in 'em through a round dozen of months presented dead against you? If I could work my will"
+T57	Cue 6996 7000	said
+T58	Entity 7001 7008	Scrooge
+T59	Quotation 7022 7187	"every idiot who goes about with 'Merry Christmas' on his lips should be boiled with his own pudding, and buried with a stake of holly through his heart. He should!"
+T60	Quotation 7195 7203	"Uncle!"
+T61	Cue 7205 7212	pleaded
+T62	Entity 7213 7223	the nephew
+T63	Quotation 7232 7241	"Nephew!"
+T64	Cue 7243 7251	returned
+T65	Entity 7252 7261	the uncle
+T66	Quotation 7271 7332	"Keep Christmas in your own way, and let me keep it in mine."
+T67	Quotation 7340 7350	"Keep it!"
+T68	Cue 7352 7360	repeated
+T69	Entity 7361 7377	Scrooge's nephew
+T70	Quotation 7379 7403	"But you don't keep it."
+T71	Quotation 7411 7440	"Let me leave it alone, then"
+T72	Cue 7442 7446	said
+T73	Entity 7447 7454	Scrooge
+T74	Quotation 7456 7514	"Much good may it do you! Much good it has ever done you!"
+T75	Quotation 7522 7624	"There are many things from which I might have derived good, by which I have not profited, I dare say"
+T76	Cue 7626 7634	returned
+T77	Entity 7635 7645	the nephew
+T78	Quotation 7647 8377	"Christmas among the rest. But I am sure I have always thought of Christmas time, when it has come round—apart from the veneration due to its sacred name and origin, if anything belonging to it can be apart from that—as a good time; a kind, forgiving, charitable, pleasant time; the only time I know of, in the long calendar of the year, when men and women seem by one consent to open their shut–up hearts freely, and to think of people below them as if they really were fellow–passengers to the grave, and not another race of creatures bound on other journeys. And therefore, uncle, though it has never put a scrap of gold or silver in my pocket, I believe that it has done me good, and will do me good; and I say, God bless it!"
+T79	Entity 8385 8394	The clerk
+T80	Quotation 8556 8592	"Let me hear another sound from you"
+T81	Cue 8594 8598	said
+T82	Entity 8599 8606	Scrooge
+T83	Quotation 8608 8703	"and you'll keep your Christmas by losing your situation! You're quite a powerful speaker, sir"
+T84	Entity 8705 8707	he
+T85	Cue 8708 8713	added
+T86	Entity 8726 8736	his nephew
+T87	Quotation 8738 8778	"I wonder you don't go into Parliament."
+T88	Quotation 8786 8839	"Don't be angry, uncle. Come! Dine with us tomorrow."
+T89	Entity 8847 8854	Scrooge
+T90	Cue 8855 8859	said
+T91	Quotation 8860 8881	that he would see him
+T92	Entity 8902 8904	He
+T93	Cue 8950 8954	said
+T94	Quotation 8955 9001	that he would see him in that extremity first.
+T95	Quotation 9009 9019	"But why?"
+T96	Cue 9021 9026	cried
+T97	Entity 9027 9043	Scrooge's nephew
+T98	Quotation 9045 9051	"Why?"
+T99	Quotation 9059 9085	"Why did you get married?"
+T100	Cue 9087 9091	said
+T101	Entity 9092 9099	Scrooge
+T102	Quotation 9108 9133	"Because I fell in love."
+T103	Quotation 9141 9168	"Because you fell in love!"
+T104	Cue 9170 9177	growled
+T105	Entity 9178 9185	Scrooge
+T106	Quotation 9275 9292	"Good afternoon!"
+T107	Quotation 9300 9408	"Nay, uncle, but you never came to see me before that happened. Why give it as a reason for not coming now?"
+T108	Quotation 9416 9432	"Good afternoon"
+T109	Cue 9434 9438	said
+T110	Entity 9439 9446	Scrooge
+T111	Quotation 9455 9529	"I want nothing from you; I ask nothing of you; why cannot we be friends?"
+T112	Quotation 9537 9553	"Good afternoon"
+T113	Cue 9555 9559	said
+T114	Entity 9560 9567	Scrooge
+T115	Quotation 9576 9820	"I am sorry, with all my heart, to find you so resolute. We have never had any quarrel, to which I have been a party. But I have made the trial in homage to Christmas, and I'll keep my Christmas humour to the last. So a merry Christmas, uncle!"
+T116	Quotation 9828 9845	"Good afternoon!"
+T117	Cue 9847 9851	said
+T118	Entity 9852 9859	Scrooge
+T119	Quotation 9868 9891	"And a happy New Year!"
+T120	Quotation 9899 9916	"Good afternoon!"
+T121	Cue 9918 9922	said
+T122	Entity 9923 9930	Scrooge
+T123	Entity 9939 9949	His nephew
+T124	Quotation 10169 10193	"There's another fellow"
+T125	Cue 10195 10203	muttered
+T126	Entity 10204 10211	Scrooge
+T127	Entity 10227 10230	him
+T128	Quotation 10232 10353	"My clerk, with fifteen shillings a week, and a wife and family, talking about a merry Christmas. I'll retire to Bedlam."
+T129	Quotation 10609 10642	"Scrooge and Marley's, I believe"
+T130	Cue 10644 10648	said
+T131	Entity 10649 10669	one of the gentlemen
+T132	Quotation 10694 10756	"Have I the pleasure of addressing Mr. Scrooge or Mr. Marley?"
+T133	Quotation 10764 10808	"Mr. Marley has been dead these seven years"
+T134	Entity 10810 10817	Scrooge
+T135	Cue 10818 10825	replied
+T136	Quotation 10827 10870	"He died seven years ago, this very night."
+T137	Quotation 10878 10956	"We have no doubt his liberality is well represented by his surviving partner"
+T138	Cue 10958 10962	said
+T139	Entity 10963 10976	the gentleman
+T140	Entity 11104 11111	Scrooge
+T141	Quotation 11181 11230	"At this festive season of the year, Mr. Scrooge"
+T142	Cue 11232 11236	said
+T143	Entity 11237 11250	the gentleman
+T144	Quotation 11269 11523	"it is more than usually desirable that we should make some slight provision for the poor and destitute, who suffer greatly at the present time. Many thousands are in want of common necessaries; hundreds of thousands are in want of common comforts, sir."
+T145	Quotation 11531 11554	"Are there no prisons?"
+T146	Cue 11556 11561	asked
+T147	Entity 11562 11569	Scrooge
+T148	Quotation 11578 11597	"Plenty of prisons"
+T149	Cue 11599 11603	said
+T150	Entity 11604 11617	the gentleman
+T151	Quotation 11653 11680	"And the Union workhouses?"
+T152	Cue 11682 11690	demanded
+T153	Entity 11691 11698	Scrooge
+T154	Quotation 11700 11730	"Are they still in operation?"
+T155	Quotation 11738 11755	"They are. Still"
+T156	Cue 11757 11765	returned
+T157	Entity 11766 11779	the gentleman
+T158	Quotation 11781 11816	"I wish I could say they were not."
+T159	Quotation 11823 11881	"The Treadmill and the Poor Law are in full vigour, then?"
+T160	Cue 11883 11887	said
+T161	Entity 11888 11895	Scrooge
+T162	Quotation 11904 11926	"Both very busy, sir."
+T163	Quotation 11934 12046	"Oh! I was afraid, from what you said at first, that something had occurred to stop them in their useful course"
+T164	Cue 12048 12052	said
+T165	Entity 12053 12060	Scrooge
+T166	Quotation 12062 12089	"I'm very glad to hear it."
+T167	Quotation 12097 12195	"Under the impression that they scarcely furnish Christian cheer of mind or body to the multitude"
+T168	Cue 12197 12205	returned
+T169	Entity 12206 12219	the gentleman
+T170	Quotation 12221 12464	"a few of us are endeavouring to raise a fund to buy the poor some meat and drink, and means of warmth. We choose this time, because it is a time, of all others, when want is keenly felt, and abundance rejoices. What shall I put you down for?"
+T171	Quotation 12472 12482	"Nothing!"
+T172	Entity 12484 12491	Scrooge
+T173	Cue 12492 12499	replied
+T174	Quotation 12508 12535	"You wish to be anonymous?"
+T175	Quotation 12543 12568	"I wish to be left alone"
+T176	Cue 12570 12574	said
+T177	Entity 12575 12582	Scrooge
+T178	Quotation 12584 12845	"Since you ask me what I wish, gentlemen, that is my answer. I don't make merry myself at Christmas and I can't afford to make idle people merry. I help to support the establishments I have mentioned—they cost enough; and those who are badly off must go there."
+T179	Quotation 12853 12902	"Many can't go there; and many would rather die."
+T180	Quotation 12910 12936	"If they would rather die"
+T181	Cue 12938 12942	said
+T182	Entity 12943 12950	Scrooge
+T183	Quotation 12952 13050	"they had better do it, and decrease the surplus population. Besides—excuse me—I don't know that."
+T184	Quotation 13058 13081	"But you might know it"
+T185	Cue 13083 13091	observed
+T186	Entity 13092 13105	the gentleman
+T187	Quotation 13114 13136	"It's not my business"
+T188	Entity 13138 13145	Scrooge
+T189	Cue 13146 13154	returned
+T190	Quotation 13156 13309	"It's enough for a man to understand his own business, and not to interfere with other people's. Mine occupies me constantly. Good afternoon, gentlemen!"
+T191	Entity 15390 15490	The owner of one scant young nose, gnawed and mumbled by the hungry cold as bones are gnawed by dogs
+T192	Cue 15529 15535	regale
+T193	Entity 15536 15539	him
+T194	Quotation 15598 15655	"God bless you, merry gentlemen! May nothing you dismay!"
+T195	Entity 15965 15996	the expectant clerk in the tank
+T196	Quotation 16063 16105	"You'll want all day tomorrow, I suppose?"
+T197	Cue 16107 16111	said
+T198	Entity 16112 16119	Scrooge
+T199	Quotation 16128 16155	"If quite convenient, sir."
+T200	Quotation 16163 16184	"It’s not convenient"
+T201	Cue 16186 16190	said
+T202	Entity 16191 16198	Scrooge
+T203	Quotation 16200 16308	"and it's not fair. If I was to stop you half–a–crown for it, you'd think yourself ill–used, I'll be bound?"
+T204	Quotation 16349 16358	"And yet"
+T205	Cue 16360 16364	said
+T206	Entity 16365 16372	Scrooge
+T207	Quotation 16374 16442	"you don't think me ill–used, when I pay a day's wages for no work."
+T208	Entity 16450 16459	The clerk
+T209	Cue 16460 16468	observed
+T210	Quotation 16469 16497	that it was only once a year
+T211	Quotation 16506 16580	"A poor excuse for picking a man's pocket every twenty–fifth of December!"
+T212	Cue 16582 16586	said
+T213	Entity 16587 16594	Scrooge
+T214	Quotation 16634 16716	"But I suppose you must have the whole day. Be here all the earlier next morning."
+T215	Entity 16724 16733	The clerk
+T216	Cue 16734 16742	promised
+T217	Quotation 16743 16756	that he would
+T218	Entity 16762 16769	Scrooge
+T219	Entity 20131 20133	he
+T220	Cue 20134 20138	said
+T221	Quotation 20139 20152	"Pooh, pooh!"
+T222	Quotation 23112 23121	"Humbug!"
+T223	Cue 23123 23127	said
+T224	Entity 23128 23135	Scrooge
+T225	Quotation 24256 24276	"It's humbug still!"
+T226	Cue 24278 24282	said
+T227	Entity 24283 24290	Scrooge
+T228	Quotation 24292 24313	"I won't believe it."
+T229	Entity 24505 24507	it
+T230	Cue 24508 24513	cried
+T231	Quotation 24514 24543	"I know him; Marley’s Ghost!"
+T232	Quotation 25605 25615	"How now!"
+T233	Cue 25617 25621	said
+T234	Entity 25622 25629	Scrooge
+T235	Quotation 25657 25684	"What do you want with me?"
+T236	Quotation 25692 25699	"Much!"
+T237	Entity 25700 25714	Marley's voice
+T238	Quotation 25742 25756	"Who are you?"
+T239	Quotation 25764 25783	"Ask me who I was."
+T240	Quotation 25791 25811	"Who were you then?"
+T241	Cue 25813 25817	said
+T242	Entity 25818 25825	Scrooge
+T243	Quotation 25846 25879	"You're particular, for a shade."
+T244	Entity 25880 25882	He
+T245	Cue 25896 25899	say
+T246	Quotation 25900 25912	"to a shade"
+T247	Quotation 25964 26007	"In life I was your partner, Jacob Marley."
+T248	Quotation 26015 26042	"Can you—can you sit down?"
+T249	Cue 26044 26049	asked
+T250	Entity 26050 26057	Scrooge
+T251	Entity 26081 26084	him
+T252	Quotation 26093 26101	"I can."
+T253	Quotation 26109 26123	"Do it, then."
+T254	Entity 26131 26138	Scrooge
+T255	Quotation 26480 26505	"You don't believe in me"
+T256	Cue 26507 26515	observed
+T257	Entity 26516 26525	the Ghost
+T258	Quotation 26534 26543	"I don't"
+T259	Cue 26545 26549	said
+T260	Entity 26550 26557	Scrooge
+T261	Quotation 26566 26638	"What evidence would you have of my reality beyond that of your senses?"
+T262	Quotation 26645 26659	"I don't know"
+T263	Cue 26661 26665	said
+T264	Entity 26666 26673	Scrooge
+T265	Quotation 26682 26713	"Why do you doubt your senses?"
+T266	Quotation 26721 26730	"Because"
+T267	Cue 26732 26736	said
+T268	Entity 26737 26744	Scrooge
+T269	Quotation 26746 27004	"a little thing affects them. A slight disorder of the stomach makes them cheats. You may be an undigested bit of beef, a blot of mustard, a crumb of cheese, a fragment of an underdone potato. There's more of gravy than of grave about you, whatever you are!"
+T270	Quotation 27748 27773	"You see this toothpick?"
+T271	Cue 27775 27779	said
+T272	Entity 27780 27787	Scrooge
+T273	Quotation 27954 27960	"I do"
+T274	Cue 27962 27969	replied
+T275	Entity 27970 27979	the Ghost
+T276	Quotation 27988 28015	"You are not looking at it"
+T277	Cue 28017 28021	said
+T278	Entity 28022 28029	Scrooge
+T279	Quotation 28038 28052	"But I see it"
+T280	Cue 28054 28058	said
+T281	Entity 28059 28068	the Ghost
+T282	Quotation 28070 28088	"notwithstanding."
+T283	Quotation 28096 28103	"Well!"
+T284	Cue 28105 28113	returned
+T285	Entity 28114 28121	Scrooge
+T286	Quotation 28123 28270	"I have but to swallow this, and be for the rest of my days persecuted by a legion of goblins, all of my own creation. Humbug, I tell you! humbug!"
+T287	Entity 28281 28285	this
+T288	Entity 28286 28296	the spirit
+T289	Cue 28297 28303	raised
+T290	Quotation 28304 28319	a frightful cry
+T291	Quotation 28722 28730	"Mercy!"
+T292	Entity 28732 28734	he
+T293	Cue 28735 28739	said
+T294	Quotation 28741 28786	"Dreadful apparition, why do you trouble me?"
+T295	Quotation 28794 28820	"Man of the worldly mind!"
+T296	Cue 28822 28829	replied
+T297	Entity 28830 28839	the Ghost
+T298	Quotation 28841 28871	"Do you believe in me or not?"
+T299	Quotation 28879 28885	"I do"
+T300	Cue 28887 28891	said
+T301	Entity 28892 28899	Scrooge
+T302	Quotation 28901 28973	"I must. But why do spirits walk the earth, and why do they come to me?"
+T303	Quotation 28981 29010	"It is required of every man"
+T304	Entity 29012 29021	the Ghost
+T305	Cue 29022 29030	returned
+T306	Quotation 29032 29353	"that the spirit within him should walk abroad among his fellowmen, and travel far and wide; and if that spirit goes not forth in life, it is condemned to do so after death. It is doomed to wander through the world—oh, woe is me!—and witness what it cannot share, but might have shared on earth, and turned to happiness!"
+T307	Entity 29367 29378	the spectre
+T308	Cue 29379 29385	raised
+T309	Quotation 29386 29391	a cry
+T310	Quotation 29449 29467	"You are fettered"
+T311	Cue 29469 29473	said
+T312	Entity 29474 29481	Scrooge
+T313	Quotation 29494 29508	"Tell me why?"
+T314	Quotation 29516 29551	"I wear the chain I forged in life"
+T315	Cue 29553 29560	replied
+T316	Entity 29561 29570	the Ghost
+T317	Quotation 29572 29717	"I made it link by link, and yard by yard; I girded it on of my own free will, and of my own free will I wore it. Is its pattern strange to you?"
+T318	Quotation 29764 29783	"Or would you know"
+T319	Cue 29785 29792	pursued
+T320	Entity 29793 29802	the Ghost
+T321	Quotation 29804 29990	"the weight and length of the strong coil you bear yourself? It was full as heavy and as long as this, seven Christmas Eves ago. You have laboured on it, since. It is a ponderous chain!"
+T322	Quotation 30166 30173	"Jacob"
+T323	Entity 30175 30177	he
+T324	Cue 30178 30182	said
+T325	Quotation 30197 30258	"Old Jacob Marley, tell me more. Speak comfort to me, Jacob!"
+T326	Quotation 30266 30287	"I have none to give"
+T327	Entity 30289 30298	the Ghost
+T328	Cue 30299 30306	replied
+T329	Quotation 30308 30722	"It comes from other regions, Ebenezer Scrooge, and is conveyed by other ministers, to other kinds of men. Nor can I tell you what I would. A very little more is all permitted to me. I cannot rest, I cannot stay, I cannot linger anywhere. My spirit never walked beyond our counting–house—mark me!—in life my spirit never roved beyond the narrow limits of our money–changing hole; and weary journeys lie before me!"
+T330	Quotation 30951 30997	"You must have been very slow about it, Jacob"
+T331	Entity 30999 31006	Scrooge
+T332	Cue 31007 31015	observed
+T333	Quotation 31087 31094	"Slow!"
+T334	Entity 31096 31105	the Ghost
+T335	Cue 31106 31114	repeated
+T336	Quotation 31123 31141	"Seven years dead"
+T337	Cue 31143 31148	mused
+T338	Entity 31149 31156	Scrooge
+T339	Quotation 31158 31188	"And travelling all the time!"
+T340	Quotation 31196 31212	"The whole time"
+T341	Cue 31214 31218	said
+T342	Entity 31219 31228	the Ghost
+T343	Quotation 31230 31280	"No rest, no peace. Incessant torture of remorse."
+T344	Quotation 31288 31306	"You travel fast?"
+T345	Cue 31308 31312	said
+T346	Entity 31313 31320	Scrooge
+T347	Quotation 31329 31355	"On the wings of the wind"
+T348	Cue 31357 31364	replied
+T349	Entity 31365 31374	the Ghost
+T350	Quotation 31383 31450	"You might have got over a great quantity of ground in seven years"
+T351	Cue 31452 31456	said
+T352	Entity 31457 31464	Scrooge
+T353	Entity 31473 31482	The Ghost
+T354	Cue 31501 31507	set up
+T355	Quotation 31508 31519	another cry
+T356	Quotation 31669 31708	"Oh, captive, bound, and double–ironed"
+T357	Cue 31710 31715	cried
+T358	Entity 31716 31727	the phantom
+T359	Quotation 31729 32181	"not to know, that ages of incessant labour by immortal creatures, for this earth must pass into eternity before the good of which it is susceptible is all developed. Not to know that any Christian spirit working kindly in its little sphere, whatever it may be, will find its mortal life too short for its vast means of usefulness. Not to know that no space of regret can make amends for one life's opportunity misused! Yet such was I! Oh! such was I!"
+T360	Quotation 32189 32240	"But you were always a good man of business, Jacob"
+T361	Cue 32242 32250	faltered
+T362	Entity 32251 32258	Scrooge
+T363	Quotation 32307 32318	"Business!"
+T364	Cue 32320 32325	cried
+T365	Entity 32326 32335	the Ghost
+T366	Quotation 32363 32588	"Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence, were, all, my business. The dealings of my trade were but a drop of water in the comprehensive ocean of my business!"
+T367	Quotation 32740 32774	"At this time of the rolling year"
+T368	Entity 32776 32787	the spectre
+T369	Cue 32788 32792	said
+T370	Quotation 32794 33034	"I suffer most. Why did I walk through crowds of fellow–beings with my eyes turned down, and never raise them to that blessed Star which led the Wise Men to a poor abode! Were there no poor homes to which its light would have conducted me!"
+T371	Quotation 33155 33165	"Hear me!"
+T372	Cue 33167 33172	cried
+T373	Entity 33173 33182	the Ghost
+T374	Quotation 33184 33209	"My time is nearly gone."
+T375	Quotation 33217 33225	"I will"
+T376	Cue 33227 33231	said
+T377	Entity 33232 33239	Scrooge
+T378	Quotation 33241 33300	"But don't be hard upon me! Don't be flowery, Jacob! Pray!"
+T379	Quotation 33308 33442	"How it is that I appear before you in a shape that you can see, I may not tell. I have sat invisible beside you many and many a day."
+T380	Quotation 33547 33584	"That is no light part of my penance"
+T381	Cue 33586 33593	pursued
+T382	Entity 33594 33603	the Ghost
+T383	Quotation 33605 33739	"I am here tonight to warn you, that you have yet a chance and hope of escaping my fate. A chance and hope of my procuring, Ebenezer."
+T384	Quotation 33747 33784	"You were always a good friend to me"
+T385	Cue 33786 33790	said
+T386	Entity 33791 33798	Scrooge
+T387	Quotation 33800 33811	"Thank'ee!"
+T388	Quotation 33819 33840	"You will be haunted"
+T389	Cue 33842 33849	resumed
+T390	Entity 33850 33859	the Ghost
+T391	Quotation 33861 33880	"by three spirits."
+T392	Quotation 33961 34012	"Is that the chance and hope you mentioned, Jacob?"
+T393	Entity 34014 34016	he
+T394	Cue 34017 34025	demanded
+T395	Quotation 34056 34064	"It is."
+T396	Quotation 34072 34098	"I—I think I'd rather not"
+T397	Cue 34100 34104	said
+T398	Entity 34105 34112	Scrooge
+T399	Quotation 34121 34143	"Without their visits"
+T400	Cue 34145 34149	said
+T401	Entity 34150 34159	the Ghost
+T402	Quotation 34161 34256	"you cannot hope to shun the path I tread. Expect the first tomorrow, when the bell tolls one."
+T403	Quotation 34264 34323	"Couldn't I take 'em all at once, and have it over, Jacob?"
+T404	Cue 34325 34331	hinted
+T405	Entity 34332 34339	Scrooge
+T406	Quotation 34348 34586	"Expect the second on the next night at the same hour. The third upon the next night when the last stroke of twelve has ceased to vibrate. Look to see me no more; and look that, for your own sake, you remember what has passed between us!"
+T407	Entity 36086 36171	one old ghost, in a white waistcoat, with a monstrous iron safe attached to its ankle
+T408	Cue 36177 36192	cried piteously
+T409	Quotation 36196 36287	being unable to assist a wretched woman with an infant, whom it saw below, upon a door–step
+T410	Quotation 37833 37858	"Why, it isn't possible,"
+T411	Cue 37859 37863	said
+T412	Entity 37864 37871	Scrooge
+T413	Quotation 37873 38028	"that I can have slept through a whole day and far into another night. It isn't possible that anything has happened to the sun, and this is twelve at noon!
+T414	Quotation 39809 39826	"A quarter past,"
+T415	Cue 39827 39831	said
+T416	Entity 39832 39839	Scrooge
+T417	Quotation 39865 39877	"Half past!"
+T418	Cue 39878 39882	said
+T419	Entity 39883 39890	Scrooge
+T420	Quotation 39906 39924	"A quarter to it,"
+T421	Cue 39925 39929	said
+T422	Entity 39930 39937	Scrooge
+T423	Quotation 39953 39971	"The hour itself,"
+T424	Cue 39972 39976	said
+T425	Entity 39977 39984	Scrooge
+T426	Quotation 40000 40019	"and nothing else!"
+T427	Quotation 42360 42419	"Are you the Spirit, sir, whose coming was foretold to me?"
+T428	Cue 42420 42425	asked
+T429	Entity 42426 42433	Scrooge
+T430	Quotation 42435 42442	"I am!"
+T431	Entity 42443 42452	The voice
+T432	Quotation 42557 42581	"Who, and what are you?"
+T433	Entity 42582 42589	Scrooge
+T434	Cue 42590 42598	demanded
+T435	Quotation 42600 42635	"I am the Ghost of Christmas Past."
+T436	Quotation 42636 42648	"Long past?"
+T437	Cue 42649 42657	inquired
+T438	Entity 42658 42665	Scrooge
+T439	Quotation 42702 42718	"No. Your past."
+T440	Entity 42728 42735	Scrooge
+T441	Quotation 42890 42897	"What!"
+T442	Cue 42898 42907	exclaimed
+T443	Entity 42908 42917	the Ghost
+T444	Quotation 42919 43130	"would you so soon put out, with worldly hands, the light I give? Is it not enough that you are one of those whose passions made this cap, and force me through whole trains of years to wear it low upon my brow!"
+T445	Entity 43271 43273	He
+T446	Cue 43292 43299	inquire
+T447	Quotation 43300 43331	what business brought him there
+T448	Quotation 43333 43348	"Your welfare!"
+T449	Cue 43349 43353	said
+T450	Entity 43354 43363	the Ghost
+T451	Entity 43507 43517	The Spirit
+T452	Entity 43534 43537	him
+T453	Cue 43555 43559	said
+T454	Quotation 43574 43609	Your reclamation, then. Take heed!"
+T455	Entity 43640 43642	it
+T456	Cue 43643 43648	spoke
+T457	Entity 43662 43665	him
+T458	Quotation 43685 43710	"Rise! and walk with me!"
+T459	Entity 44111 44121	the Spirit
+T460	Quotation 44181 44197	"I am a mortal,"
+T461	Entity 44198 44205	Scrooge
+T462	Cue 44206 44218	remonstrated
+T463	Quotation 44220 44241	"and liable to fall."
+T464	Quotation 44242 44278	"Bear but a touch of my hand there,"
+T465	Cue 44279 44283	said
+T466	Entity 44284 44294	the Spirit
+T467	Quotation 44322 44366	"and you shall be upheld in more than this!"
+T468	Quotation 44669 44683	"Good Heaven!"
+T469	Cue 44684 44688	said
+T470	Entity 44689 44696	Scrooge
+T471	Quotation 44751 44796	"I was bred in this place. I was a boy here!"
+T472	Entity 44797 44807	The Spirit
+T473	Quotation 45109 45133	"Your lip is trembling,"
+T474	Cue 45134 45138	said
+T475	Entity 45139 45148	the Ghost
+T476	Quotation 45150 45185	"And what is that upon your cheek?"
+T477	Entity 45186 45193	Scrooge
+T478	Cue 45194 45202	muttered
+T479	Quotation 45243 45312	that it was a pimple; and begged the Ghost to lead him where he would
+T480	Quotation 45314 45338	"You recollect the way?"
+T481	Cue 45339 45347	inquired
+T482	Entity 45348 45358	the Spirit
+T483	Quotation 45360 45374	"Remember it!"
+T484	Cue 45375 45380	cried
+T485	Entity 45381 45388	Scrooge
+T486	Quotation 45402 45430	"I could walk it blindfold."
+T487	Quotation 45431 45480	"Strange to have forgotten it for so many years!"
+T488	Cue 45481 45489	observed
+T489	Entity 45490 45499	the Ghost
+T490	Quotation 45501 45516	"Let us go on."
+T491	Quotation 46008 46061	"These are but shadows of the things that have been,"
+T492	Cue 46062 46066	said
+T493	Entity 46067 46076	the Ghost
+T494	Quotation 46078 46113	"They have no consciousness of us."
+T495	Entity 46163 46170	Scrooge
+T496	Quotation 46576 46611	"The school is not quite deserted,"
+T497	Cue 46612 46616	said
+T498	Entity 46617 46626	the Ghost
+T499	Quotation 46628 46694	"A solitary child, neglected by his friends, is left there still."
+T500	Entity 46695 46702	Scrooge
+T501	Cue 46703 46707	said
+T502	Quotation 46708 46718	he knew it
+T503	Entity 48327 48337	The Spirit
+T504	Quotation 48606 48627	"Why, it's Ali Baba!"
+T505	Entity 48628 48635	Scrooge
+T506	Cue 48636 48645	exclaimed
+T507	Quotation 48658 48854	"It's dear old honest Ali Baba! Yes, yes, I know! One Christmas time, when yonder solitary child was left here all alone, he did come, for the first time, just like that. Poor boy! And Valentine,"
+T508	Cue 48855 48859	said
+T509	Entity 48860 48867	Scrooge
+T510	Quotation 48869 49188	"and his wild brother, Orson; there they go! And what's his name, who was put down in his drawers, asleep, at the Gate of Damascus; don't you see him! And the Sultan's Groom turned upside-down by the Genii; there he is upon his head! Serve him right. I'm glad of it. What business had he to be married to the Princess!"
+T511	Quotation 49442 49463	"There's the Parrot!"
+T512	Cue 49464 49469	cried
+T513	Entity 49470 49477	Scrooge
+T514	Quotation 49479 49891	"Green body and yellow tail, with a thing like a lettuce growing out of the top of his head; there he is! Poor Robin Crusoe, he called him, when he came home again after sailing round the island. 'Poor Robin Crusoe, where have you been, Robin Crusoe?' The man thought he was dreaming, but he wasn't. It was the Parrot, you know. There goes Friday, running for his life to the little creek! Halloa! Hoop! Halloo!"
+T515	Entity 49965 49967	he
+T516	Cue 49968 49972	said
+T517	Entity 49986 50001	his former self
+T518	Quotation 50003 50014	"Poor boy!"
+T519	Quotation 50032 50041	"I wish,"
+T520	Entity 50042 50049	Scrooge
+T521	Cue 50050 50058	muttered
+T522	Entity 50110 50113	him
+T523	Quotation 50152 50176	"but it's too late now."
+T524	Quotation 50177 50198	"What is the matter?"
+T525	Cue 50199 50204	asked
+T526	Entity 50205 50215	the Spirit
+T527	Quotation 50217 50227	"Nothing,"
+T528	Cue 50228 50232	said
+T529	Entity 50233 50240	Scrooge
+T530	Quotation 50242 50372	"Nothing. There was a boy singing a Christmas Carol at my door last night. I should like to have given him something: that's all."
+T531	Entity 50373 50382	The Ghost
+T532	Cue 50424 50430	saying
+T533	Quotation 50445 50476	"Let us see another Christmas!"
+T534	Entity 51253 51256	him
+T535	Quotation 51286 51332	"I have come to bring you home, dear brother!"
+T536	Cue 51333 51337	said
+T537	Entity 51338 51347	the child
+T538	Quotation 51401 51433	"To bring you home, home, home!"
+T539	Quotation 51434 51453	"Home, little Fan?"
+T540	Cue 51454 51462	returned
+T541	Entity 51463 51470	the boy
+T542	Quotation 51472 51478	"Yes!"
+T543	Cue 51479 51483	said
+T544	Entity 51484 51493	the child
+T545	Quotation 51512 51854	"Home, for good and all. Home, for ever and ever. Father is so much kinder than he used to be, that home's like Heaven! He spoke so gently to me one dear night when I was going to bed, that I was not afraid to ask him once more if you might come home; and he said Yes, you should; and sent me in a coach to bring you. And you're to be a man!"
+T546	Cue 51855 51859	said
+T547	Entity 51860 51869	the child
+T548	Quotation 51889 52024	"and are never to come back here; but first, we're to be together all the Christmas long, and have the merriest time in all the world."
+T549	Quotation 52025 52061	"You are quite a woman, little Fan!"
+T550	Cue 52062 52071	exclaimed
+T551	Entity 52072 52079	the boy
+T552	Entity 52223 52226	she
+T553	Entity 52336 52352	A terrible voice
+T554	Cue 52365 52370	cried
+T555	Quotation 52372 52413	"Bring down Master Scrooge's box, there!"
+T556	Quotation 53480 53544	"Always a delicate creature, whom a breath might have withered,"
+T557	Cue 53545 53549	said
+T558	Entity 53550 53559	the Ghost
+T559	Quotation 53561 53589	"But she had a large heart!"
+T560	Quotation 53590 53603	"So she had,"
+T561	Cue 53604 53609	cried
+T562	Entity 53610 53617	Scrooge
+T563	Quotation 53619 53675	"You're right. I'll not gainsay it, Spirit. God forbid!"
+T564	Quotation 53676 53695	"She died a woman,"
+T565	Cue 53696 53700	said
+T566	Entity 53701 53710	the Ghost
+T567	Quotation 53711 53744	" and had, as I think, children."
+T568	Quotation 53745 53757	"One child,"
+T569	Entity 53758 53765	Scrooge
+T570	Cue 53766 53774	returned
+T571	Quotation 53776 53783	"True,"
+T572	Cue 53784 53788	said
+T573	Entity 53789 53798	the Ghost
+T574	Quotation 53800 53814	"Your nephew!"
+T575	Entity 53815 53822	Scrooge
+T576	Cue 53854 53862	answered
+T577	Quotation 53872 53878	"Yes."
+T578	Entity 54295 54304	The Ghost
+T579	Cue 54346 54351	asked
+T580	Entity 54352 54359	Scrooge
+T581	Quotation 54360 54373	if he knew it
+T582	Quotation 54375 54385	"Know it!"
+T583	Cue 54386 54390	said
+T584	Entity 54391 54398	Scrooge
+T585	Quotation 54400 54425	"Was I apprenticed here!"
+T586	Entity 54607 54614	Scrooge
+T587	Cue 54615 54620	cried
+T588	Quotation 54642 54711	"Why, it's old Fezziwig! Bless his heart; it's Fezziwig alive again!"
+T589	Entity 54807 54809	He
+T590	Cue 54936 54946	called out
+T591	Quotation 54996 55027	"Yo ho, there! Ebenezer! Dick!"
+T592	Entity 55028 55049	Scrooge's former self
+T593	Quotation 55128 55155	"Dick Wilkins, to be sure!"
+T594	Cue 55156 55160	said
+T595	Entity 55161 55168	Scrooge
+T596	Entity 55172 55181	the Ghost
+T597	Quotation 55183 55278	"Bless me, yes. There he is. He was very much attached to me, was Dick. Poor Dick! Dear, dear!"
+T598	Quotation 55279 55296	"Yo ho, my boys!"
+T599	Cue 55297 55301	said
+T600	Entity 55302 55310	Fezziwig
+T601	Quotation 55312 55406	"No more work to-night. Christmas Eve, Dick. Christmas, Ebenezer! Let's have the shutters up,"
+T602	Cue 55407 55412	cried
+T603	Entity 55413 55425	old Fezziwig
+T604	Quotation 55459 55497	"before a man can say, Jack Robinson!"
+T605	Entity 55553 55557	They
+T606	Quotation 55781 55792	"Hilli-ho!"
+T607	Cue 55793 55798	cried
+T608	Entity 55799 55811	old Fezziwig
+T609	Quotation 55871 55962	"Clear away, my lads, and let's have lots of room here! Hilli-ho, Dick! Chirrup, Ebenezer!"
+T610	Entity 57619 57623	them
+T611	Entity 57661 57673	old Fezziwig
+T612	Cue 57713 57722	cried out
+T613	Quotation 57724 57736	"Well done!"
+T614	Entity 58395 58406	the fiddler
+T615	Cue 58513 58522	struck up
+T616	Quotation 58523 58547	"Sir Roger de Coverley."
+T617	Quotation 60493 60510	"A small matter,"
+T618	Cue 60511 60515	said
+T619	Entity 60516 60525	the Ghost
+T620	Quotation 60527 60576	"to make these silly folks so full of gratitude."
+T621	Quotation 60577 60585	"Small!"
+T622	Cue 60586 60592	echoed
+T623	Entity 60593 60600	Scrooge
+T624	Entity 60623 60626	him
+T625	Entity 60727 60729	he
+T626	Cue 60743 60747	said
+T627	Quotation 60749 60888	"Why! Is it not? he has spent but a few pounds of your mortal money: three or four, perhaps. Is that so much that he deserves this praise?"
+T628	Quotation 60889 60905	"It isn't that,"
+T629	Cue 60906 60910	said
+T630	Entity 60911 60918	Scrooge
+T631	Quotation 61008 61350	"It isn't that, Spirit, He has the power to render us happy or unhappy; to make our service light or burdensome; a pleasure or a toil. Say that his power lies in words and looks; in things so slight and insignificant that it is impossible to add and count 'em up: what then? The happiness he gives, is quite as great as if it cost a fortune."
+T632	Entity 61351 61353	He
+T633	Quotation 61393 61414	"What is the matter?"
+T634	Cue 61415 61420	asked
+T635	Entity 61421 61430	the Ghost
+T636	Quotation 61432 61453	"Nothing particular,"
+T637	Cue 61454 61458	said
+T638	Entity 61459 61466	Scrooge
+T639	Quotation 61468 61489	"Something, I think?"
+T640	Entity 61490 61499	the Ghost
+T641	Cue 61500 61508	insisted
+T642	Quotation 61510 61515	"No,"
+T643	Cue 61516 61520	said
+T644	Entity 61521 61528	Scrooge
+T645	Quotation 61530 61615	"No. I should like to be able to say a word or two to my clerk just now! That's all."
+T646	Quotation 61756 61778	"My time grows short,"
+T647	Cue 61779 61787	observed
+T648	Entity 61788 61798	the Spirit
+T649	Quotation 61800 61808	"Quick!"
+T650	Entity 61945 61947	He
+T651	Quotation 62448 62468	"It matters little,"
+T652	Entity 62469 62472	she
+T653	Cue 62473 62477	said
+T654	Quotation 62487 62654	"To you, very little. Another idol has displaced me; and if it can cheer and comfort you in time to come, as I would have tried to do, I have no just cause to grieve."
+T655	Quotation 62655 62685	"What Idol has displaced you?"
+T656	Entity 62686 62688	he
+T657	Cue 62689 62697	rejoined
+T658	Quotation 62699 62714	"A golden one."
+T659	Quotation 62715 62762	"This is the even-handed dealing of the world!"
+T660	Entity 62763 62765	he
+T661	Cue 62766 62770	said
+T662	Quotation 62772 62915	"There is nothing on which it is so hard as poverty; and there is nothing it professes to condemn with such severity as the pursuit of wealth!"
+T663	Quotation 62916 62946	"You fear the world too much,"
+T664	Entity 62947 62950	she
+T665	Cue 62951 62959	answered
+T666	Quotation 62969 63184	"All your other hopes have merged into the hope of being beyond the chance of its sordid reproach. I have seen your nobler aspirations fall off one by one, until the master-passion, Gain, engrosses you. Have I not?"
+T667	Quotation 63185 63197	"What then?"
+T668	Entity 63198 63200	he
+T669	Cue 63201 63209	retorted
+T670	Quotation 63211 63289	"Even if I have grown so much wiser, what then? I am not changed towards you."
+T671	Entity 63290 63293	She
+T672	Quotation 63310 63317	"Am I?"
+T673	Quotation 63318 63546	"Our contract is an old one. It was made when we were both poor and content to be so, until, in good season, we could improve our worldly fortune by our patient industry. You are changed. When it was made, you were another man."
+T674	Quotation 63547 63561	"I was a boy,"
+T675	Entity 63562 63564	he
+T676	Cue 63565 63569	said
+T677	Quotation 63583 63643	"Your own feeling tells you that you were not what you are,"
+T678	Entity 63644 63647	she
+T679	Cue 63648 63656	returned
+T680	Quotation 63658 63892	"I am. That which promised happiness when we were one in heart, is fraught with misery now that we are two. How often and how keenly I have thought of this, I will not say. It is enough that I have thought of it, and can release you."
+T681	Quotation 63893 63922	"Have I ever sought release?"
+T682	Quotation 63923 63945	"In words. No. Never."
+T683	Quotation 63946 63962	"In what, then?"
+T684	Quotation 63963 64173	"In a changed nature; in an altered spirit; in another atmosphere of life; another Hope as its great end. In everything that made my love of any worth or value in your sight. If this had never been between us,"
+T685	Cue 64174 64178	said
+T686	Entity 64179 64187	the girl
+T687	Entity 64231 64234	him
+T688	Quotation 64236 64299	"tell me, would you seek me out and try to win me now? Ah, no!"
+T689	Entity 64380 64382	he
+T690	Cue 64383 64387	said
+T691	Quotation 64406 64422	"You think not."
+T692	Quotation 64423 64467	"O would gladly think otherwise if I could,"
+T693	Entity 64468 64471	she
+T694	Cue 64472 64480	answered
+T695	Quotation 64482 65003	"Heaven knows! When I have learned a Truth like this, I know how strong and irresistible it must be. But if you were free to-day, to-morrow, yesterday, can even I believe that you would choose a dowerless girl—you who, in your very confidence with her, weigh everything by Gain: or, choosing her, if for a moment you were false enough to your one guiding principle to do so, do I not know that your repentance and regret would surely follow? I do; and I release you. With a full heart, for the love of him you once were."
+T696	Quotation 65075 65352	"You may—the memory of what is past half makes me hope you will—have pain in this. A very, very brief time, and you will dismiss the recollection of it, gladly, as an unprofitable dream, from which it happened well that you awoke. May you be happy in the life you have chosen!"
+T697	Entity 65353 65356	She
+T698	Entity 65362 65365	him
+T699	Quotation 65384 65393	"Spirit!"
+T700	Cue 65394 65398	said
+T701	Entity 65399 65406	Scrooge
+T702	Quotation 65408 65477	"show me no more! Conduct me home. Why do you delight to torture me?"
+T703	Quotation 65478 65496	"One shadow more!"
+T704	Cue 65497 65506	exclaimed
+T705	Entity 65507 65516	the Ghost
+T706	Quotation 65518 65528	"No more!"
+T707	Cue 65529 65534	cried
+T708	Entity 65535 65542	Scrooge
+T709	Quotation 65544 65595	"No more. I don't wish to see it. Show me no more!"
+T710	Quotation 69051 69059	"Belle,"
+T711	Cue 69060 69064	said
+T712	Entity 69065 69076	the husband
+T713	Entity 69089 69097	his wife
+T714	Quotation 69112 69158	"I saw an old friend of yours this afternoon."
+T715	Quotation 69159 69172	"Who was it?"
+T716	Quotation 69173 69181	"Guess!"
+T717	Quotation 69182 69213	"How can I? Tut, don't I know,"
+T718	Entity 69214 69217	she
+T719	Cue 69218 69223	added
+T720	Entity 69256 69258	he
+T721	Quotation 69268 69282	"Mr. Scrooge."
+T722	Quotation 69283 69535	"Mr. Scrooge it was. I passed his office window; and as it was not shut up, and he had a candle inside, I could scarcely help seeing him. His partner lies upon the point of death, I hear; and there he sat alone. Quite alone in the world, I do believe."
+T723	Quotation 69536 69545	"Spirit!"
+T724	Cue 69546 69550	said
+T725	Entity 69551 69558	Scrooge
+T726	Quotation 69578 69606	"remove me from this place."
+T727	Quotation 69607 69668	"I told you these were shadows of the things that have been,"
+T728	Cue 69669 69673	said
+T729	Entity 69674 69683	the Ghost
+T730	Quotation 69685 69732	"That they are what they are, do not blame me!"
+T731	Quotation 69733 69745	"Remove me!"
+T732	Entity 69746 69753	Scrooge
+T733	Cue 69754 69763	exclaimed
+T734	Quotation 69765 69784	"I cannot bear it!"
+T735	Quotation 69962 70007	"Leave me! Take me back. Haunt me no longer!"
+T736	Entity 73479 73486	Scrooge
+T737	Entity 73511 73526	a strange voice
+T738	Cue 73527 73533	called
+T739	Quotation 73555 73569	bade him enter
+T740	Entity 74703 74710	Scrooge
+T741	Quotation 74748 74758	"Come in!"
+T742	Cue 74759 74768	exclaimed
+T743	Entity 74769 74778	the Ghost
+T744	Quotation 74780 74815	"Come in! and know me better, man!"
+T745	Entity 74902 74909	Scrooge
+T746	Quotation 75004 75042	"I am the Ghost of Christmas Present,"
+T747	Cue 75043 75047	said
+T748	Entity 75048 75058	the Spirit
+T749	Quotation 75060 75075	"Look upon me!"
+T750	Quotation 75790 75834	"You have never seen the like of me before!"
+T751	Cue 75835 75844	exclaimed
+T752	Entity 75845 75855	the Spirit
+T753	Quotation 75858 75866	"Never,"
+T754	Entity 75867 75874	Scrooge
+T755	Cue 75875 75886	made answer
+T756	Quotation 75895 76034	"Have never walked forth with the younger members of my family; meaning (for I am very young) my elder brothers born in these later years?"
+T757	Cue 76035 76042	pursued
+T758	Entity 76043 76054	the Phantom
+T759	Quotation 76057 76080	"I don't think I have,"
+T760	Cue 76081 76085	said
+T761	Entity 76086 76093	Scrooge
+T762	Quotation 76095 76156	"I am afraid I have not. Have you had many brothers, Spirit?"
+T763	Quotation 76158 76187	"More than eighteen hundred,"
+T764	Cue 76188 76192	said
+T765	Entity 76193 76202	the Ghost
+T766	Quotation 76205 76242	"A tremendous family to provide for!"
+T767	Cue 76243 76251	muttered
+T768	Entity 76252 76259	Scrooge
+T769	Entity 76262 76292	The Ghost of Christmas Present
+T770	Quotation 76300 76309	"Spirit,"
+T771	Cue 76310 76314	said
+T772	Entity 76315 76322	Scrooge
+T773	Quotation 76337 76510	"conduct me where you will. I went forth last night on compulsion, and I learnt a lesson which is working now. To-night, if you have aught to teach me, let me profit by it."
+T774	Quotation 76512 76528	"Touch my robe!"
+T775	Entity 76530 76537	Scrooge
+T776	Cue 76552 76556	told
+T777	Quotation 82031 82042	angry words
+T778	Entity 82051 82071	some dinner-carriers
+T779	Entity 82195 82199	they
+T780	Cue 82200 82204	said
+T781	Quotation 82206 82251	it was a shame to quarrel upon Christmas Day.
+T782	Quotation 82561 82628	"Is there a peculiar flavour in what you sprinkle from your torch?"
+T783	Cue 82629 82634	asked
+T784	Entity 82635 82642	Scrooge
+T785	Quotation 82645 82664	"There is. My own."
+T786	Quotation 82666 82717	"Would it apply to any kind of dinner on this day?"
+T787	Cue 82718 82723	asked
+T788	Entity 82724 82731	Scrooge
+T789	Quotation 82734 82776	"To any kindly given. To a poor one most."
+T790	Quotation 82778 82803	"Why to a poor one most?"
+T791	Cue 82804 82809	asked
+T792	Entity 82810 82817	Scrooge
+T793	Quotation 82820 82847	"Because it needs it most."
+T794	Quotation 82849 82858	"Spirit,"
+T795	Cue 82859 82863	said
+T796	Entity 82864 82871	Scrooge
+T797	Quotation 82899 83036	"I wonder you, of all the beings in the many worlds about us, should desire to cramp these people's opportunities of innocent enjoyment."
+T798	Quotation 83038 83042	"I!"
+T799	Cue 83043 83048	cried
+T800	Entity 83049 83059	the Spirit
+T801	Quotation 83062 83191	"You would deprive them of their means of dining every seventh day, often the only day on which they can be said to dine at all,"
+T802	Cue 83192 83196	said
+T803	Entity 83197 83204	Scrooge
+T804	Quotation 83206 83221	"Wouldn't you?"
+T805	Quotation 83223 83227	"I!"
+T806	Cue 83228 83233	cried
+T807	Entity 83234 83244	the Spirit
+T808	Quotation 83247 83299	"You seek to close these places on the Seventh Day?"
+T809	Cue 83300 83304	said
+T810	Entity 83305 83312	Scrooge
+T811	Quotation 83314 83347	"And it comes to the same thing."
+T812	Quotation 83349 83358	"I seek!"
+T813	Cue 83359 83368	exclaimed
+T814	Entity 83369 83379	the Spirit
+T815	Quotation 83382 83476	"Forgive me if I am wrong. It has been done in your name, or at least in that of your family,"
+T816	Cue 83477 83481	said
+T817	Entity 83482 83489	Scrooge
+T818	Quotation 83492 83534	"There are some upon this earth of yours,"
+T819	Cue 83535 83543	returned
+T820	Entity 83544 83554	the Spirit
+T821	Quotation 83556 83828	"who lay claim to know us, and who do their deeds of passion, pride, ill-will, hatred, envy, bigotry, and selfishness in our name, who are as strange to us and all our kith and kin, as if they had never lived. Remember that, and charge their doings on themselves, not us."
+T822	Entity 83830 83837	Scrooge
+T823	Cue 83838 83846	promised
+T824	Quotation 83847 83860	that he would
+T825	Entity 85490 85525	two smaller Cratchits, boy and girl
+T826	Cue 85544 85553	screaming
+T827	Quotation 85554 85631	that outside the baker's they had smelt the goose, and known it for their own
+T828	Entity 85744 85765	Master Peter Cratchit
+T829	Quotation 85955 86001	"What has ever got your precious father then?"
+T830	Cue 86002 86006	said
+T831	Entity 86007 86020	Mrs. Cratchit
+T832	Quotation 86022 86113	"And your brother, Tiny Tim! And Martha warn't as late last Christmas Day by half-an-hour?"
+T833	Quotation 86115 86139	"Here's Martha, mother!"
+T834	Cue 86140 86144	said
+T835	Entity 86145 86151	a girl
+T836	Quotation 86178 86202	"Here's Martha, mother!"
+T837	Cue 86203 86208	cried
+T838	Entity 86209 86232	the two young Cratchits
+T839	Quotation 86234 86273	"Hurrah! There's such a goose, Martha!"
+T840	Quotation 86275 86332	"Why, bless your heart alive, my dear, how late you are!"
+T841	Cue 86333 86337	said
+T842	Entity 86338 86351	Mrs. Cratchit
+T843	Quotation 86446 86492	"We'd a deal of work to finish up last night,"
+T844	Cue 86493 86500	replied
+T845	Entity 86501 86509	the girl
+T846	Quotation 86511 86556	"and had to clear away this morning, mother!"
+T847	Quotation 86558 86601	"Well! Never mind so long as you are come,"
+T848	Cue 86602 86606	said
+T849	Entity 86607 86620	Mrs. Cratchit
+T850	Quotation 86622 86693	"Sit ye down before the fire, my dear, and have a warm, Lord bless ye!"
+T851	Quotation 86695 86727	"No, no! There's father coming,"
+T852	Cue 86728 86733	cried
+T853	Entity 86734 86757	the two young Cratchits
+T854	Quotation 86788 86809	"Hide, Martha, hide!"
+T855	Entity 86814 86820	Martha
+T856	Quotation 87151 87177	"Why, where's our Martha?"
+T857	Cue 87178 87183	cried
+T858	Entity 87184 87196	Bob Cratchit
+T859	Quotation 87214 87227	"Not coming,"
+T860	Cue 87228 87232	said
+T861	Entity 87233 87246	Mrs. Cratchit
+T862	Quotation 87249 87262	"Not coming!"
+T863	Cue 87263 87267	said
+T864	Entity 87268 87271	Bob
+T865	Quotation 87405 87437	"Not coming upon Christmas Day!"
+T866	Quotation 87729 87761	"And how did little Tim behave?"
+T867	Cue 87762 87767	asked
+T868	Entity 87768 87781	Mrs. Cratchit
+T869	Entity 87804 87807	Bob
+T870	Quotation 87883 87901	"As good as gold,"
+T871	Cue 87902 87906	said
+T872	Entity 87907 87910	Bob
+T873	Quotation 87912 88240	"and better. Somehow he gets thoughtful, sitting by himself so much, and thinks the strangest things you ever heard. He told me, coming home, that he hoped the people saw him in the church, because he was a cripple, and it might be pleasant to them to remember upon Christmas Day, who made lame beggars walk, and blind men see."
+T874	Entity 88242 88253	Bob's voice
+T875	Cue 88276 88280	told
+T876	Quotation 88281 88290	them this
+T877	Cue 88318 88322	said
+T878	Quotation 88323 88367	that Tiny Tim was growing strong and hearty.
+T879	Entity 89528 89532	they
+T880	Quotation 89630 89635	grace
+T881	Cue 89640 89644	said
+T882	Entity 89919 89927	Tiny Tim
+T883	Cue 90024 90029	cried
+T884	Quotation 90030 90037	Hurrah!
+T885	Quotation 90266 90313	it was a sufficient dinner for the whole family
+T886	Entity 90326 90339	Mrs. Cratchit
+T887	Cue 90340 90344	said
+T888	Quotation 91509 91533	Oh, a wonderful pudding!
+T889	Entity 91534 91546	Bob Cratchit
+T890	Cue 91547 91551	said
+T891	Entity 91625 91638	Mrs. Cratchit
+T892	Entity 91661 91674	Mrs. Cratchit
+T893	Cue 91675 91679	said
+T894	Quotation 91680 91787	that now the weight was off her mind, she would confess she had had her doubts about the quantity of flour.
+T895	Entity 91788 91797	Everybody
+T896	Quotation 91798 91827	had something to say about it
+T897	Entity 92395 92405	the family
+T898	Entity 92676 92679	Bob
+T899	Cue 92680 92688	proposed
+T900	Quotation 92691 92745	"A Merry Christmas to us all, my dears. God bless us!"
+T901	Entity 92753 92767	all the family
+T902	Quotation 92768 92777	re-echoed
+T903	Quotation 92780 92805	"God bless us every one!"
+T904	Cue 92806 92810	said
+T905	Entity 92811 92819	Tiny Tim
+T906	Quotation 93051 93060	"Spirit,"
+T907	Cue 93061 93065	said
+T908	Entity 93066 93073	Scrooge
+T909	Quotation 93118 93150	"tell me if Tiny Tim will live."
+T910	Quotation 93152 93174	"I see a vacant seat,"
+T911	Cue 93175 93182	replied
+T912	Entity 93183 93192	the Ghost
+T913	Quotation 93194 93344	"in the poor chimney-corner, and a crutch without an owner, carefully preserved. If these shadows remain unaltered by the Future, the child will die."
+T914	Quotation 93346 93355	"No, no,"
+T915	Cue 93356 93360	said
+T916	Entity 93361 93368	Scrooge
+T917	Quotation 93370 93415	"Oh, no, kind Spirit! say he will be spared."
+T918	Quotation 93417 93490	"If these shadows remain unaltered by the Future, none other of my race,"
+T919	Cue 93491 93499	returned
+T920	Entity 93500 93509	the Ghost
+T921	Quotation 93511 93623	"will find him here. What then? If he be like to die, he had better do it, and decrease the surplus population."
+T922	Quotation 93735 93741	"Man,"
+T923	Cue 93742 93746	said
+T924	Entity 93747 93756	the Ghost
+T925	Quotation 93758 94179	"if man you be in heart, not adamant, forbear that wicked cant until you have discovered What the surplus is, and Where it is. Will you decide what men shall live, what men shall die? It may be, that in the sight of Heaven, you are more worthless and less fit to live than millions like this poor man's child. Oh God! to hear the Insect on the leaf pronouncing on the too much life among his hungry brothers in the dust!"
+T926	Quotation 94321 94335	"Mr. Scrooge!"
+T927	Cue 94336 94340	said
+T928	Entity 94341 94344	Bob
+T929	Quotation 94346 94400	"I'll give you Mr. Scrooge, the Founder of the Feast!"
+T930	Quotation 94402 94436	"The Founder of the Feast indeed!"
+T931	Cue 94437 94442	cried
+T932	Entity 94443 94456	Mrs. Cratchit
+T933	Quotation 94469 94585	"I wish I had him here. I'd give him a piece of my mind to feast upon, and I hope he'd have a good appetite for it."
+T934	Quotation 94587 94597	"My dear,"
+T935	Cue 94598 94602	said
+T936	Entity 94603 94606	Bob
+T937	Quotation 94608 94638	"the children! Christmas Day."
+T938	Quotation 94640 94680	"It should be Christmas Day, I am sure,"
+T939	Cue 94681 94685	said
+T940	Quotation 94691 94859	"on which one drinks the health of such an odious, stingy, hard, unfeeling man as Mr. Scrooge. You know he is, Robert! Nobody knows it better than you do, poor fellow!"
+T941	Quotation 94861 94871	"My dear,"
+T942	Entity 94876 94879	Bob
+T943	Cue 94887 94893	answer
+T944	Quotation 94895 94911	"Christmas Day."
+T945	Quotation 94913 94965	"I'll drink his health for your sake and the Day's,"
+T946	Cue 94966 94970	said
+T947	Entity 94971 94984	Mrs. Cratchit
+T948	Quotation 94986 95111	"not for his. Long life to him! A merry Christmas and a happy new year! He'll be very merry and very happy, I have no doubt!"
+T949	Entity 95307 95317	the family
+T950	Entity 95552 95564	Bob Cratchit
+T951	Cue 95565 95569	told
+T952	Quotation 95575 95692	how he had a situation in his eye for Master Peter, which would bring in, if obtained, full five-and-sixpence weekly.
+T953	Entity 95992 95998	Martha
+T954	Cue 96048 96052	told
+T955	Quotation 96058 96468	what kind of work she had to do, and how many hours she worked at a stretch, and how she meant to lie abed to-morrow morning for a good long rest; to-morrow being a holiday she passed at home. Also how she had seen a countess and a lord some days before, and how the lord "was much about as tall as Peter;" at which Peter pulled up his collars so high that you couldn't have seen his head if you had been there
+T956	Entity 96547 96551	they
+T957	Quotation 96552 96605	had a song, about a lost child travelling in the snow
+T958	Entity 96612 96620	Tiny Tim
+T959	Quotation 99418 99439	"What place is this?"
+T960	Cue 99440 99445	asked
+T961	Entity 99446 99453	Scrooge
+T962	Quotation 99456 99523	"A place where Miners live, who labour in the bowels of the earth,"
+T963	Cue 99524 99532	returned
+T964	Entity 99533 99543	the Spirit
+T965	Quotation 99545 99569	"But they know me. See!"
+T966	Entity 99754 99866	An old, old man and woman, with their children and their children's children, and another generation beyond that
+T967	Entity 99914 99925	The old man
+T968	Cue 99927 100006	in a voice that seldom rose above the howling of the wind upon the barren waste
+T969	Quotation 100008 100041	was singing them a Christmas song
+T970	Quotation 100117 100141	all joined in the chorus
+T971	Entity 100182 100193	the old man
+T972	Cue 100194 100197	got
+T973	Quotation 100198 100274	quite blithe and loud; and so surely as they stopped, his vigour sank again.
+T974	Entity 101045 101052	two men
+T975	Quotation 101260 101293	wished each other Merry Christmas
+T976	Entity 101333 101342	the elder
+T977	Quotation 101450 101473	struck up a sturdy song
+T978	Entity 101513 101522	the Ghost
+T979	Cue 101603 101607	told
+T980	Entity 101608 101615	Scrooge
+T981	Quotation 101633 101655	they lighted on a ship
+T982	Entity 101812 101832	every man among them
+T983	Cue 101833 101839	hummed
+T984	Quotation 101840 101857	a Christmas tune,
+T985	Cue 101889 101911	spoke below his breath
+T986	Entity 101915 101928	his companion
+T987	Quotation 101932 101994	some bygone Christmas Day, with homeward hopes belonging to it
+T988	Quotation 102577 102591	a hearty laugh
+T989	Entity 102654 102669	his own nephew'
+T990	Quotation 102830 102839	"Ha, ha!"
+T991	Cue 102840 102847	laughed
+T992	Entity 102848 102864	Scrooge's nephew
+T993	Quotation 102866 102879	"Ha, ha, ha!"
+T994	Entity 103490 103513	their assembled friends
+T995	Quotation 103542 103560	roared out lustily
+T996	Quotation 103563 103588	"Ha, ha! Ha, ha, ha, ha!"
+T997	Quotation 103590 103639	"He said that Christmas was a humbug, as I live!"
+T998	Cue 103640 103645	cried
+T999	Entity 103646 103662	Scrooge's nephew
+T1000	Quotation 103664 103685	"He believed it too!"
+T1001	Quotation 103687 103714	"More shame for him, Fred!"
+T1002	Cue 103715 103719	said
+T1003	Entity 103720 103735	Scrooge's niece
+T1004	Quotation 104280 104308	"He's a comical old fellow,"
+T1005	Cue 104309 104313	said
+T1006	Entity 104314 104330	Scrooge's nephew
+T1007	Quotation 104332 104476	"that's the truth: and not so pleasant as he might be. However, his offences carry their own punishment, and I have nothing to say against him."
+T1008	Quotation 104478 104511	"I'm sure he is very rich, Fred,"
+T1009	Cue 104512 104518	hinted
+T1010	Entity 104519 104534	Scrooge's niece
+T1011	Quotation 104536 104569	"At least you always tell me so."
+T1012	Quotation 104571 104595	"What of that, my dear!"
+T1013	Cue 104596 104600	said
+T1014	Entity 104601 104617	Scrooge's nephew
+T1015	Quotation 104619 104823	"His wealth is of no use to him. He don't do any good with it. He don't make himself comfortable with it. He hasn't the satisfaction of thinking--ha, ha, ha!--that he is ever going to benefit US with it."
+T1016	Quotation 104825 104855	"I have no patience with him,"
+T1017	Cue 104856 104864	observed
+T1018	Entity 104865 104880	Scrooge's niece
+T1019	Entity 104882 104933	Scrooge's niece's sisters, and all the other ladies
+T1020	Cue 104935 104944	expressed
+T1021	Quotation 104945 104961	the same opinion
+T1022	Quotation 104964 104977	"Oh, I have!"
+T1023	Cue 104978 104982	said
+T1024	Entity 104983 104999	Scrooge's nephew
+T1025	Quotation 105001 105249	"I am sorry for him; I couldn't be angry with him if I tried. Who suffers by his ill whims! Himself, always. Here, he takes it into his head to dislike us, and he won't come and dine with us. What's the consequence? He don't lose much of a dinner."
+T1026	Quotation 105251 105297	"Indeed, I think he loses a very good dinner,"
+T1027	Cue 105298 105309	interrupted
+T1028	Entity 105310 105325	Scrooge's niece
+T1029	Entity 105327 105341	Everybody else
+T1030	Cue 105342 105346	said
+T1031	Quotation 105347 105355	the same
+T1032	Quotation 105531 105564	"Well! I'm very glad to hear it,"
+T1033	Cue 105565 105569	said
+T1034	Entity 105570 105586	Scrooge's nephew
+T1035	Quotation 105588 105673	"because I haven't great faith in these young housekeepers. What do you say, Topper?"
+T1036	Entity 105675 105681	Topper
+T1037	Quotation 105964 105981	"Do go on, Fred,"
+T1038	Cue 105982 105986	said
+T1039	Entity 105987 106002	Scrooge's niece
+T1040	Quotation 106024 106098	"He never finishes what he begins to say! He is such a ridiculous fellow!"
+T1041	Entity 106100 106116	Scrooge's nephew
+T1042	Quotation 106302 106328	"I was only going to say,"
+T1043	Cue 106329 106333	said
+T1044	Entity 106334 106350	Scrooge's nephew
+T1045	Quotation 106352 107057	"that the consequence of his taking a dislike to us, and not making merry with us, is, as I think, that he loses some pleasant moments, which could do him no harm. I am sure he loses pleasanter companions than he can find in his own thoughts, either in his mouldy old office, or his dusty chambers. I mean to give him the same chance every year, whether he likes it or not, for I pity him. He may rail at Christmas till he dies, but he can't help thinking better of it--I defy him--if he finds me going there, in good temper, year after year, and saying Uncle Scrooge, how are you? If it only puts him in the vein to leave his poor clerk fifty pounds, that's something; and I think I shook him yesterday."
+T1046	Entity 107357 107373	a musical family
+T1047	Cue 107416 107420	sung
+T1048	Quotation 107421 107436	a Glee or Catch
+T1049	Entity 108553 108559	Topper
+T1050	Entity 109318 109334	the plump sister
+T1051	Cue 109340 109355	often cried out
+T1052	Quotation 109356 109375	that it wasn't fair
+T1053	Cue 109865 109869	told
+T1054	Quotation 109870 109891	him her opinion of it
+T1055	Entity 109997 110012	Scrooge's niece
+T1056	Entity 110578 110585	Scrooge
+T1057	Quotation 110711 110786	came out with his guess quite loud, and very often guessed quite right, too
+T1058	Entity 110934 110943	The Ghost
+T1059	Quotation 111036 111101	begged like a boy to be allowed to stay until the guests departed
+T1060	Entity 111112 111122	the Spirit
+T1061	Cue 111123 111127	said
+T1062	Quotation 111128 111145	could not be done
+T1063	Quotation 111148 111169	"Here is a new game,"
+T1064	Cue 111170 111174	said
+T1065	Entity 111175 111182	Scrooge
+T1066	Quotation 111184 111218	"One half hour, Spirit, only one!"
+T1067	Entity 112106 112122	the plump sister
+T1068	Cue 112154 112163	cried out
+T1069	Quotation 112166 112232	"I have found it out! I know what it is, Fred! I know what it is!"
+T1070	Quotation 112234 112247	"What is it?"
+T1071	Cue 112248 112253	cried
+T1072	Entity 112254 112258	Fred
+T1073	Quotation 112261 112294	"It's your Uncle Scro-o-o-o-oge!"
+T1074	Quotation 112596 112645	"He has given us plenty of merriment, I am sure,"
+T1075	Cue 112646 112650	said
+T1076	Entity 112651 112655	Fred
+T1077	Quotation 112657 112802	"and it would be ungrateful not to drink his health. Here is a glass of mulled wine ready to our hand at the moment; and I say, 'Uncle Scrooge!'"
+T1078	Quotation 112804 112826	"Well! Uncle Scrooge!"
+T1079	Entity 112827 112831	they
+T1080	Cue 112832 112837	cried
+T1081	Quotation 112840 112912	"A Merry Christmas and a Happy New Year to the old man, whatever he is!"
+T1082	Cue 112913 112917	said
+T1083	Entity 112918 112934	Scrooge's nephew
+T1084	Quotation 112936 113015	"He wouldn't take it from me, but may he have it, nevertheless. Uncle Scrooge!"
+T1085	Quotation 114376 114406	"Are spirits' lives so short?"
+T1086	Cue 114407 114412	asked
+T1087	Entity 114413 114420	Scrooge
+T1088	Quotation 114423 114464	"My life upon this globe, is very brief,"
+T1089	Cue 114465 114472	replied
+T1090	Entity 114473 114482	the Ghost
+T1091	Quotation 114484 114503	"It ends to-night."
+T1092	Quotation 114505 114516	"To-night!"
+T1093	Cue 114517 114522	cried
+T1094	Entity 114523 114530	Scrooge
+T1095	Quotation 114533 114588	"To-night at midnight. Hark! The time is drawing near."
+T1096	Quotation 114662 114711	"Forgive me if I am not justified in what I ask,"
+T1097	Cue 114712 114716	said
+T1098	Entity 114717 114724	Scrooge
+T1099	Quotation 114765 114879	"but I see something strange, and not belonging to yourself, protruding from your skirts. Is it a foot or a claw?"
+T1100	Quotation 114881 114934	"It might be a claw, for the flesh there is upon it,"
+T1101	Entity 114939 114949	the Spirit
+T1102	Cue 114962 114967	reply
+T1103	Quotation 114969 114981	"Look here."
+T1104	Quotation 115161 115205	"Oh, Man! look here. Look, look, down here!"
+T1105	Cue 115206 115215	exclaimed
+T1106	Entity 115216 115225	the Ghost
+T1107	Quotation 115988 116013	"Spirit! are they yours?"
+T1108	Entity 116014 116021	Scrooge
+T1109	Quotation 116042 116059	"They are Man's,"
+T1110	Cue 116060 116064	said
+T1111	Entity 116065 116075	the Spirit
+T1112	Quotation 116101 116361	"And they cling to me, appealing from their fathers. This boy is Ignorance. This girl is Want. Beware them both, and all of their degree, but most of all beware this boy, for on his brow I see that written which is Doom, unless the writing be erased. Deny it!"
+T1113	Cue 116362 116367	cried
+T1114	Entity 116368 116378	the Spirit
+T1115	Quotation 116422 116527	"Slander those who tell it ye! Admit it for your factious purposes, and make it worse. And bide the end!"
+T1116	Quotation 116529 116563	"Have they no refuge or resource?"
+T1117	Cue 116564 116569	cried
+T1118	Entity 116570 116577	Scrooge
+T1119	Quotation 116580 116603	"Are there no prisons?"
+T1120	Cue 116604 116608	said
+T1121	Entity 116609 116619	the Spirit
+T1122	Quotation 116674 116700	"Are there no workhouses?"
+T1123	Quotation 117664 117725	"I am in the presence of the Ghost of Christmas Yet To Come?"
+T1124	Cue 117726 117730	said
+T1125	Entity 117731 117738	Scrooge
+T1126	Entity 117741 117751	The Spirit
+T1127	Quotation 117803 117914	"You are about to show me shadows of the things that have not happened, but will happen in the time before us,"
+T1128	Entity 117915 117922	Scrooge
+T1129	Cue 117923 117930	pursued
+T1130	Quotation 117932 117953	"Is that so, Spirit?"
+T1131	Entity 118310 118320	The Spirit
+T1132	Entity 118403 118410	Scrooge
+T1133	Quotation 118693 118715	"Ghost of the Future!"
+T1134	Cue 118719 118728	exclaimed
+T1135	Quotation 118730 118974	"I fear you more than any Spectre I have seen. But, as I know your purpose is to do me good, and as I hope to live to be another man from what I was, I am prepared to bear you company, and do it with a thankful heart. Will you not speak to me?"
+T1136	Quotation 119042 119052	"Lead on!"
+T1137	Cue 119053 119057	said
+T1138	Entity 119058 119065	Scrooge
+T1139	Quotation 119067 119159	"Lead on! The night is waning fast, and it is precious time to me, I know. Lead on, Spirit!"
+T1140	Entity 119161 119172	The Phantom
+T1141	Quotation 119882 119887	"No,"
+T1142	Cue 119888 119892	said
+T1143	Entity 119893 119930	a great fat man with a monstrous chin
+T1144	Quotation 119932 119996	"I don't know much about it, either way. I only know he's dead."
+T1145	Quotation 119998 120016	"When did he die?"
+T1146	Cue 120017 120025	inquired
+T1147	Entity 120026 120033	another
+T1148	Quotation 120036 120060	"Last night, I believe."
+T1149	Quotation 120062 120098	"Why, what was the matter with him?"
+T1150	Cue 120099 120104	asked
+T1151	Entity 120105 120112	a third
+T1152	Quotation 120177 120204	"I thought he'd never die."
+T1153	Quotation 120206 120218	"God knows,"
+T1154	Cue 120219 120223	said
+T1155	Entity 120224 120233	the first
+T1156	Quotation 120249 120283	"What has he done with his money?"
+T1157	Cue 120284 120289	asked
+T1158	Entity 120290 120407	a red-faced gentleman with a pendulous excrescence on the end of his nose, that shook like the gills of a turkey-cock
+T1159	Quotation 120410 120428	"I haven't heard,"
+T1160	Cue 120429 120433	said
+T1161	Entity 120434 120461	the man with the large chin
+T1162	Quotation 120478 120554	"Left it to his Company, perhaps. He hasn't left it to me. That's all know."
+T1163	Quotation 120608 120649	"It's likely to be a very cheap funeral,"
+T1164	Cue 120650 120654	said
+T1165	Quotation 120673 120770	"for upon my life I don't know of anybody to go to it. Suppose we make up a party and volunteer?"
+T1166	Quotation 120772 120816	"I don't mind going if a lunch is provided,"
+T1167	Cue 120817 120825	observed
+T1168	Entity 120826 120839	the gentleman
+T1169	Quotation 120874 120909	"But I must be fed, if I make one."
+T1170	Quotation 120927 120984	"Well, I am the most disinterested among you, after all,"
+T1171	Cue 120985 120989	said
+T1172	Entity 120990 121007	the first speaker
+T1173	Quotation 121009 121255	"for I never wear black gloves, and I never eat lunch. But I'll offer to go, if anybody else will. When I come to think of it, I'm not at all sure that I wasn't his most particular friend; for we used to stop and speak whenever we met. Bye, bye!"
+T1174	Quotation 121788 121802	"How are you?"
+T1175	Cue 121803 121807	said
+T1176	Entity 121808 121811	one
+T1177	Quotation 121814 121828	"How are you?"
+T1178	Cue 121829 121837	returned
+T1179	Entity 121838 121847	the other
+T1180	Quotation 121850 121857	"Well!"
+T1181	Cue 121858 121862	said
+T1182	Entity 121864 121872	he first
+T1183	Quotation 121874 121917	"Old Scratch has got his own at last, hey?"
+T1184	Quotation 121919 121934	"So I am told,"
+T1185	Cue 121935 121943	returned
+T1186	Entity 121944 121954	the second
+T1187	Quotation 121956 121973	"Cold, isn't it?"
+T1188	Quotation 121975 122040	"Seasonable for Christmas time. You're not a skaiter, I suppose?"
+T1189	Quotation 122042 122093	"No. No. Something else to think of. Good morning!"
+T1190	Quotation 125504 125546	"Let the charwoman alone to be the first!"
+T1191	Cue 125547 125552	cried
+T1192	Entity 125553 125578	she who had entered first
+T1193	Quotation 125580 125765	"Let the laundress alone to be the second; and let the undertaker's man alone to be the third. Look here, old Joe, here's a chance! If we haven't all three met here without meaning it!"
+T1194	Quotation 125767 125809	"You couldn't have met in a better place,"
+T1195	Cue 125810 125814	said
+T1196	Entity 125815 125822	old Joe
+T1197	Quotation 125858 126263	"Come into the parlour. You were made free of it long ago, you know; and the other two an't strangers. Stop till I shut the door of the shop. Ah! How it skreeks! There an't such a rusty bit of metal in the place as its own hinges, I believe; and I'm sure there's no such old bones here, as mine. Ha, ha! We're all suitable to our calling, we're well matched. Come into the parlour. Come into the parlour."
+T1198	Quotation 126702 126743	"What odds then! What odds, Mrs. Dilber?"
+T1199	Cue 126744 126748	said
+T1200	Entity 126749 126758	the woman
+T1201	Quotation 126760 126829	"Every person has a right to take care of themselves. He always did!"
+T1202	Quotation 126831 126853	"That's true, indeed!"
+T1203	Cue 126854 126858	said
+T1204	Entity 126859 126872	the laundress
+T1205	Quotation 126874 126891	"No man more so."
+T1206	Quotation 126893 127035	"Why, then, don't stand staring as if you was afraid, woman; who's the wiser? We're not going to pick holes in each other's coats, I suppose?"
+T1207	Quotation 127037 127050	"No, indeed!"
+T1208	Cue 127051 127055	said
+T1209	Entity 127056 127067	Mrs. Dilber
+T1210	Quotation 127090 127111	"We should hope not."
+T1211	Quotation 127113 127131	"Very well, then!"
+T1212	Cue 127132 127137	cried
+T1213	Entity 127138 127147	the woman
+T1214	Quotation 127149 127249	"That's enough. Who's the worse for the loss of a few things like these? Not a dead man, I suppose."
+T1215	Quotation 127251 127264	"No, indeed,"
+T1216	Cue 127265 127269	said
+T1217	Entity 127270 127281	Mrs. Dilber
+T1218	Quotation 127294 127359	"If he wanted to keep 'em after he was dead, a wicked old screw,"
+T1219	Cue 127360 127367	pursued
+T1220	Entity 127368 127377	the woman
+T1221	Quotation 127379 127570	"why wasn't he natural in his lifetime? If he had been, he'd have had somebody to look after him when he was struck with Death, instead of lying gasping out his last there, alone by himself."
+T1222	Quotation 127572 127615	"It's the truest word that ever was spoke,"
+T1223	Cue 127616 127620	said
+T1224	Entity 127621 127632	Mrs. Dilber
+T1225	Quotation 127634 127659	"It's a judgment on him."
+T1226	Quotation 127661 127698	"I wish it was a little heavier one,"
+T1227	Cue 127699 127706	replied
+T1228	Entity 127707 127716	the woman
+T1229	Quotation 127718 128074	"and it should have been, you may depend upon it, if I could have laid my hands on anything else. Open that bundle, old Joe, and let me know the value of it. Speak out plain. I'm not afraid to be the first, nor afraid for them to see it. We knew pretty well that we were helping ourselves, before we met here, I believe. It's no sin. Open the bundle, Joe."
+T1230	Quotation 128538 128560	"That's your account,"
+T1231	Cue 128561 128565	said
+T1232	Entity 128566 128569	Joe
+T1233	Quotation 128571 128662	"and I wouldn't give another sixpence, if I was to be boiled for not doing it. Who's next?"
+T1234	Entity 128664 128675	Mrs. Dilber
+T1235	Quotation 128863 128957	"I always give too much to ladies. It's a weakness of mine, and that's the way I ruin myself,"
+T1236	Cue 128958 128962	said
+T1237	Entity 128963 128970	old Joe
+T1238	Quotation 128972 129119	"That's your account. If you asked me for another penny, and made it an open question, I'd repent of being so liberal, and knock off half-a-crown."
+T1239	Quotation 129121 129151	"And now undo my bundle, Joe,"
+T1240	Cue 129152 129156	said
+T1241	Entity 129157 129172	the first woman
+T1242	Quotation 129343 129367	"What do you call this?"
+T1243	Cue 129368 129372	said
+T1244	Entity 129373 129376	Joe
+T1245	Quotation 129378 129393	"Bed-curtains!"
+T1246	Quotation 129395 129400	"Ah!"
+T1247	Cue 129401 129409	returned
+T1248	Entity 129410 129419	the woman
+T1249	Quotation 129471 129486	"Bed-curtains!"
+T1250	Quotation 129488 129567	"You don't mean to say you took 'em down, rings and all, with him lying there?"
+T1251	Cue 129568 129572	said
+T1252	Entity 129573 129576	Joe
+T1253	Quotation 129579 129590	"Yes I do,"
+T1254	Cue 129591 129598	replied
+T1255	Entity 129599 129608	the woman
+T1256	Quotation 129610 129620	"Why not?"
+T1257	Quotation 129622 129659	"You were born to make your fortune,"
+T1258	Cue 129660 129664	said
+T1259	Entity 129665 129668	Joe
+T1260	Quotation 129670 129699	"and you'll certainly do it."
+T1261	Quotation 129701 129843	"I certainly shan't hold my hand, when I can get anything in it by reaching it out, for the sake of such a man as He was, I promise you, Joe,"
+T1262	Cue 129844 129852	returned
+T1263	Entity 129853 129862	the woman
+T1264	Quotation 129871 129916	"Don't drop that oil upon the blankets, now."
+T1265	Quotation 129918 129933	"His blankets?"
+T1266	Cue 129934 129939	asked
+T1267	Entity 129940 129943	Joe
+T1268	Quotation 129946 129974	"Whose else's do you think?"
+T1269	Cue 129975 129982	replied
+T1270	Entity 129983 129992	the woman
+T1271	Quotation 129994 130049	"He isn't likely to take cold without 'em, I dare say."
+T1272	Quotation 130051 130099	"I hope he didn't die of anything catching? Eh?"
+T1273	Cue 130100 130104	said
+T1274	Entity 130105 130112	old Joe
+T1275	Quotation 130153 130183	"Don't you be afraid of that,"
+T1276	Cue 130184 130192	returned
+T1277	Entity 130193 130202	the woman
+T1278	Quotation 130204 130494	"I an't so fond of his company that I'd loiter about him for such things, if he did. Ah! You may look through that shirt till your eyes ache; but you won't find a hole in it, nor a threadbare place. It's the best he had, and a fine one too. They'd have wasted it, if it hadn't been for me."
+T1279	Quotation 130496 130529	"What do you call wasting of it?"
+T1280	Cue 130530 130535	asked
+T1281	Entity 130536 130543	old Joe
+T1282	Quotation 130546 130594	"Putting it on him to be buried in, to be sure,"
+T1283	Cue 130595 130602	replied
+T1284	Entity 130603 130612	the woman
+T1285	Quotation 130627 130852	"Somebody was fool enough to do it, but I took it off again. If calico an't good enough for such a purpose, it isn't good enough for anything. It's quite as becoming to the body. He can't look uglier than he did in that one."
+T1286	Quotation 131142 131151	"Ha, ha!"
+T1287	Cue 131152 131159	laughed
+T1288	Entity 131160 131174	the same woman
+T1289	Entity 131181 131188	old Joe
+T1290	Quotation 131278 131411	"This is the end of it, you see! He frightened every one away from him when he was alive, to profit us when he was dead! Ha, ha, ha!"
+T1291	Quotation 131413 131422	"Spirit!"
+T1292	Cue 131423 131427	said
+T1293	Entity 131428 131435	Scrooge
+T1294	Quotation 131467 131588	"I see, I see. The case of this unhappy man might be my own. My life tends that way, now. Merciful Heaven, what is this!"
+T1295	Entity 132188 132199	the Phantom
+T1296	Quotation 133802 133811	"Spirit!"
+T1297	Cue 133815 133819	said
+T1298	Quotation 133821 133913	"this is a fearful place. In leaving it, I shall not leave its lesson, trust me. Let us go!"
+T1299	Entity 133921 133930	the Ghost
+T1300	Quotation 133976 133995	"I understand you,"
+T1301	Entity 133996 134003	Scrooge
+T1302	Cue 134004 134012	returned
+T1303	Quotation 134014 134102	"and I would do it, if I could. But I have not the power, Spirit. I have not the power."
+T1304	Quotation 134139 134222	"If there is any person in the town, who feels emotion caused by this man's death,"
+T1305	Cue 134223 134227	said
+T1306	Entity 134228 134235	Scrooge
+T1307	Quotation 134252 134300	"show that person to me, Spirit, I beseech you!"
+T1308	Entity 134816 134827	her husband
+T1309	Quotation 135224 135237	"Is it good,"
+T1310	Entity 135238 135241	she
+T1311	Cue 135242 135246	said
+T1312	Quotation 135248 135257	"or bad?"
+T1313	Quotation 135272 135278	"Bad,"
+T1314	Cue 135282 135290	answered
+T1315	Quotation 135293 135315	"We are quite ruined?"
+T1316	Quotation 135317 135351	"No. There is hope yet, Caroline."
+T1317	Quotation 135353 135369	"If he relents,"
+T1318	Entity 135370 135373	she
+T1319	Cue 135374 135378	said
+T1320	Quotation 135388 135453	"there is! Nothing is past hope, if such a miracle has happened."
+T1321	Quotation 135455 135478	"He is past relenting,"
+T1322	Cue 135479 135483	said
+T1323	Entity 135484 135495	her husband
+T1324	Quotation 135497 135510	"He is dead."
+T1325	Quotation 135755 136006	"What the half-drunken woman whom I told you of last night, said to me, when I tried to see him and obtain a week's delay; and what I thought was a mere excuse to avoid me; turns out to have been quite true. He was not only very ill, but dying, then."
+T1326	Quotation 136008 136047	"To whom will our debt be transferred?"
+T1327	Quotation 136049 136280	"I don't know. But before that time we shall be ready with the money; and even though we were not, it would be bad fortune indeed to find so merciless a creditor in his successor. We may sleep to-night with light hearts, Caroline!"
+T1328	Entity 136514 136523	the Ghost
+T1329	Quotation 136583 136635	"Let me see some tenderness connected with a death,"
+T1330	Cue 136636 136640	said
+T1331	Entity 136641 136648	Scrooge
+T1332	Quotation 136650 136737	"or that dark chamber, Spirit, which we left just now, will be for ever present to me."
+T1333	Entity 137157 137162	Peter
+T1334	Entity 137191 137219	The mother and her daughters
+T1335	Quotation 137278 137336	"'And He took a child, and set him in the midst of them.'"
+T1336	Quotation 137575 137602	"The colour hurts my eyes,"
+T1337	Cue 137607 137611	said
+T1338	Quotation 137646 137673	"They're better now again,"
+T1339	Cue 137674 137678	said
+T1340	Entity 137679 137694	Cratchit's wife
+T1341	Quotation 137696 137839	"It makes them weak by candle-light; and I wouldn't show weak eyes to your father when he comes home, for the world. It must be near his time."
+T1342	Quotation 137841 137858	"Past it rather,"
+T1343	Entity 137859 137864	Peter
+T1344	Cue 137865 137873	answered
+T1345	Quotation 137897 137985	"But I think he's walked a little slower than he used, these few last evenings, mother."
+T1346	Cue 138027 138031	said
+T1347	Quotation 138092 138193	"I have known him walk with—I have known him walk with Tiny Tim upon his shoulder, very fast indeed."
+T1348	Quotation 138195 138211	"And so have I,"
+T1349	Cue 138212 138217	cried
+T1350	Entity 138218 138223	Peter
+T1351	Quotation 138225 138233	"Often."
+T1352	Quotation 138235 138251	"And so have I!"
+T1353	Cue 138252 138261	exclaimed
+T1354	Entity 138262 138269	another
+T1355	Quotation 138284 138317	"But he was very light to carry,"
+T1356	Cue 138322 138329	resumed
+T1357	Quotation 138353 138456	"and his father loved him so, that it was no trouble—no trouble. And there is your father at the door!"
+T1358	Entity 138812 138815	Bob
+T1359	Entity 138873 138883	the family
+T1360	Entity 138961 138988	Mrs. Cratchit and the girls
+T1361	Quotation 138990 139027	They would be done long before Sunday
+T1362	Cue 139031 139035	said
+T1363	Quotation 139038 139077	"Sunday! You went to-day then, Robert?"
+T1364	Cue 139078 139082	said
+T1365	Entity 139083 139091	his wife
+T1366	Quotation 139094 139109	"Yes, my dear,"
+T1367	Cue 139110 139118	returned
+T1368	Entity 139119 139122	Bob
+T1369	Quotation 139124 139315	"I wish you could have gone. It would have done you good to see how green a place it is. But you'll see it often. I promised him that I would walk there on a Sunday. My little, little child!"
+T1370	Cue 139316 139321	cried
+T1371	Entity 139322 139325	Bob
+T1372	Quotation 139327 139345	"My little child!"
+T1373	Quotation 139925 139931	talked
+T1374	Entity 139969 139972	Bob
+T1375	Quotation 139973 140036	told them of the extraordinary kindness of Mr. Scrooge's nephew
+T1376	Quotation 140154 140183	"just a little down you know"
+T1377	Cue 140184 140188	said
+T1378	Entity 140189 140192	Bob
+T1379	Quotation 140238 140249	"On which,"
+T1380	Cue 140250 140254	said
+T1381	Entity 140255 140258	Bob
+T1382	Quotation 140260 140474	"for he is the pleasantest-spoken gentleman you ever heard, I told him. 'I am heartily sorry for it, Mr. Cratchit, he said, 'and heartily sorry for your good wife.' By the bye, how he ever knew that, I don't know."
+T1383	Quotation 140476 140497	"Knew what, my dear?"
+T1384	Quotation 140499 140532	"Why, that you were a good wife,"
+T1385	Cue 140533 140540	replied
+T1386	Entity 140541 140544	Bob
+T1387	Quotation 140547 140570	"Everybody knows that!"
+T1388	Cue 140571 140575	said
+T1389	Entity 140576 140581	Peter
+T1390	Quotation 140584 140613	"Very well observed, my boy!"
+T1391	Cue 140614 140619	cried
+T1392	Entity 140620 140623	Bob
+T1393	Quotation 140625 140818	"I hope they do. 'Heartily sorry,' he said. 'for your good wife. If I can be of service in you in any way,' he said, giving me his card, 'that's where I live. Pray come to me.' Now, it wasn't,"
+T1394	Cue 140819 140824	cried
+T1395	Entity 140825 140828	Bob
+T1396	Quotation 140830 141016	"for the sake of anything he might be able to do for us, so much as for his kind way, that this was quite delightful. It really seemed as if he had known our Tiny Tim, and felt with us."
+T1397	Quotation 141018 141046	"I'm sure he's a good soul!"
+T1398	Cue 141047 141051	said
+T1399	Entity 141052 141065	Mrs. Cratchit
+T1400	Quotation 141068 141104	"You would be surer of it, my dear,"
+T1401	Cue 141105 141113	returned
+T1402	Entity 141114 141117	Bob
+T1403	Quotation 141119 141235	"if you saw and spoke to him. I shouldn't be at all surprised, mark what I say, if he got Peter a better situation."
+T1404	Quotation 141237 141261	"Only hear that, Peter,"
+T1405	Cue 141262 141266	said
+T1406	Entity 141267 141280	Mrs. Cratchit
+T1407	Quotation 141283 141294	"And then,"
+T1408	Cue 141295 141300	cried
+T1409	Entity 141301 141317	one of the girls
+T1410	Quotation 141319 141393	"Peter will be keeping company with some one, and setting up for himself."
+T1411	Quotation 141395 141416	"Get along with you!"
+T1412	Cue 141417 141425	retorted
+T1413	Entity 141426 141431	Peter
+T1414	Quotation 141444 141473	"It's just as likely as not."
+T1415	Cue 141474 141478	said
+T1416	Entity 141479 141482	Bob
+T1417	Quotation 141484 141711	"one of these days; though there's plenty of time for that, my dear. But however and whenever we part from one another, I am sure we shall none of us forget poor Tiny Tim—shall we—or this first parting that there was among us?"
+T1418	Quotation 141713 141729	"Never, father!"
+T1419	Cue 141730 141735	cried
+T1420	Entity 141736 141744	they all
+T1421	Quotation 141747 141760	"And I know,"
+T1422	Cue 141761 141765	said
+T1423	Entity 141766 141769	Bob
+T1424	Quotation 141771 141969	"I know, my dears, that when we recollect how patient and how mild he was; although he was a little, little child; we shall not quarrel easily among ourselves, and forget poor Tiny Tim in doing it."
+T1425	Quotation 141971 141991	"No, never, father!"
+T1426	Entity 141992 142000	they all
+T1427	Cue 142001 142006	cried
+T1428	Quotation 142015 142033	"I am very happy,"
+T1429	Cue 142034 142038	said
+T1430	Entity 142039 142049	little Bob
+T1431	Quotation 142051 142069	"I am very happy!"
+T1432	Quotation 142250 142260	"Spectre,"
+T1433	Cue 142261 142265	said
+T1434	Entity 142266 142273	Scrooge
+T1435	Quotation 142275 142414	"something informs me that our parting moment is at hand. I know it, but I know not how. Tell me what man that was whom we saw lying dead?"
+T1436	Entity 142416 142450	The Ghost of Christmas Yet To Come
+T1437	Entity 142674 142684	the Spirit
+T1438	Quotation 142816 142829	"This court,"
+T1439	Cue 142830 142834	said
+T1440	Entity 142835 142842	Scrooge
+T1441	Quotation 142844 143009	"through which we hurry now, is where my place of occupation is, and has been for a length of time. I see the house. Let me behold what I shall be, in days to come."
+T1442	Entity 143011 143021	The Spirit
+T1443	Quotation 143064 143086	"The house is yonder,"
+T1444	Entity 143087 143094	Scrooge
+T1445	Cue 143095 143104	exclaimed
+T1446	Quotation 143106 143130	"Why do you point away?"
+T1447	Entity 143931 143942	The Phantom
+T1448	Quotation 144032 144088	"Before I draw nearer to that stone to which you point,"
+T1449	Cue 144089 144093	said
+T1450	Entity 144094 144101	Scrooge
+T1451	Quotation 144103 144231	"answer me one question. Are these the shadows of the things that Will be, or are they shadows of the things that May be, only?"
+T1452	Entity 144239 144248	the Ghost
+T1453	Quotation 144299 144388	"Men's courses will foreshadow certain ends, to which, if persevered in, they must lead,"
+T1454	Cue 144389 144393	said
+T1455	Entity 144394 144401	Scrooge
+T1456	Quotation 144403 144501	"But if the courses be departed from, the ends will change. Say it is thus with what you show me!"
+T1457	Entity 144503 144513	The Spirit
+T1458	Entity 144669 144685	Ebenezer Scrooge
+T1459	Quotation 144688 144725	"Am I that man who lay upon the bed?"
+T1460	Cue 144729 144734	cried
+T1461	Quotation 144812 144836	"No, Spirit! Oh no, no!"
+T1462	Quotation 144867 144876	"Spirit!"
+T1463	Cue 144880 144885	cried
+T1464	Quotation 144916 145056	"hear me! I am not the man I was. I will not be the man I must have been but for this intercourse. Why show me this, if I am past all hope?"
+T1465	Quotation 145106 145120	"Good Spirit,"
+T1466	Cue 145124 145131	pursued
+T1467	Quotation 145176 145308	"Your nature intercedes for me, and pities me. Assure me that I yet may change these shadows you have shown me, by an altered life!"
+T1468	Quotation 145334 145614	"I will honour Christmas in my heart, and try to keep it all the year. I will live in the Past, the Present, and the Future. The Spirits of all Three shall strive within me. I will not shut out the lessons that they teach. Oh, tell me I may sponge away the writing on this stone!"
+T1469	Quotation 146289 146344	"I will live in the Past, the Present, and the Future!"
+T1470	Entity 146345 146352	Scrooge
+T1471	Cue 146353 146361	repeated
+T1472	Quotation 146391 146556	"The Spirits of all Three shall strive within me. Oh Jacob Marley! Heaven, and the Christmas Time be praised for this! I say it on my knees, old Jacob; on my knees!"
+T1473	Quotation 146773 146798	"They are not torn down,"
+T1474	Cue 146799 146804	cried
+T1475	Entity 146805 146812	Scrooge
+T1476	Quotation 146859 147023	"they are not torn down, rings and all. They are here: I am here: the shadows of the things that would have been, may be dispelled. They will be. I know they will!"
+T1477	Quotation 147214 147240	"I don't know what to do!"
+T1478	Cue 147241 147246	cried
+T1479	Entity 147247 147254	Scrooge
+T1480	Quotation 147356 147568	"I am as light as a feather, I am as happy as an angel, I am as merry as a school-boy. I am as giddy as a drunken man. A merry Christmas to everybody! A happy New Year to all the world. Hallo here! Whoop! Hallo!"
+T1481	Quotation 147655 147700	"There's the saucepan that the gruel was in!"
+T1482	Cue 147701 147706	cried
+T1483	Entity 147707 147714	Scrooge
+T1484	Quotation 147768 148004	"There's the door, by which the Ghost of Jacob Marley entered! There's the corner where the Ghost of Christmas Present sat! There's the window where I saw the wandering Spirits! It's all right, it's all true, it all happened. Ha ha ha!"
+T1485	Quotation 148178 148221	"I don't know what day of the month it is!"
+T1486	Cue 148222 148226	said
+T1487	Entity 148227 148234	Scrooge
+T1488	Quotation 148236 148403	"I don't know how long I've been among the Spirits. I don't know anything. I'm quite a baby. Never mind. I don't care. I'd rather be a baby. Hallo! Whoop! Hallo here!"
+T1489	Quotation 148850 148866	"What's to-day?"
+T1490	Cue 148867 148872	cried
+T1491	Entity 148873 148880	Scrooge
+T1492	Entity 148902 148925	a boy in Sunday clothes
+T1493	Quotation 148975 148980	"Eh?"
+T1494	Cue 148981 148989	returned
+T1495	Quotation 149030 149062	"What's to-day, my fine fellow?"
+T1496	Cue 149063 149067	said
+T1497	Entity 149068 149075	Scrooge
+T1498	Quotation 149078 149087	"To-day!"
+T1499	Cue 149088 149095	replied
+T1500	Quotation 149105 149126	"Why, Christmas Day."
+T1501	Quotation 149128 149149	"It's Christmas Day!"
+T1502	Cue 149150 149154	said
+T1503	Entity 149155 149162	Scrooge
+T1504	Quotation 149175 149335	"I haven't missed it. The Spirits have done it all in one night. They can do anything they like. Of course they can. Of course they can. Hallo, my fine fellow!"
+T1505	Quotation 149337 149345	"Hallo!"
+T1506	Cue 149346 149354	returned
+T1507	Quotation 149365 149438	"Do you know the Poulterer's, in the next street but one, at the corner?"
+T1508	Entity 149439 149446	Scrooge
+T1509	Cue 149447 149455	inquired
+T1510	Quotation 149458 149480	"I should hope I did,"
+T1511	Cue 149481 149488	replied
+T1512	Quotation 149499 149520	"An intelligent boy!"
+T1513	Cue 149521 149525	said
+T1514	Entity 149526 149533	Scrooge
+T1515	Quotation 149535 149673	"A remarkable boy! Do you know whether they've sold the prize Turkey that was hanging up there? Not the little prize Turkey: the big one?"
+T1516	Quotation 149675 149704	"What, the one as big as me?"
+T1517	Cue 149705 149713	returned
+T1518	Quotation 149724 149748	"What a delightful boy!"
+T1519	Cue 149749 149753	said
+T1520	Entity 149754 149761	Scrooge
+T1521	Quotation 149763 149810	"It's a pleasure to talk to him. Yes, my buck!"
+T1522	Quotation 149812 149837	"It's hanging there now,"
+T1523	Cue 149838 149845	replied
+T1524	Quotation 149856 149864	"Is it?"
+T1525	Cue 149865 149869	said
+T1526	Entity 149870 149877	Scrooge
+T1527	Quotation 149879 149895	"Go and buy it."
+T1528	Quotation 149897 149907	"Walk-er!"
+T1529	Cue 149908 149917	exclaimed
+T1530	Quotation 149928 149937	"No, no,"
+T1531	Cue 149938 149942	said
+T1532	Entity 149943 149950	Scrooge
+T1533	Quotation 149952 150201	"I am in earnest. Go and buy it, and tell 'em to bring it here, that I may give them the direction where to take it. Come back with the man, and I'll give you a shilling. Come back with him in less than five minutes, and I'll give you half-a-crown!"
+T1534	Quotation 150321 150354	"I'll send it to Bob Cratchit's!"
+T1535	Cue 150355 150364	whispered
+T1536	Entity 150365 150372	Scrooge
+T1537	Quotation 150421 150551	"He sha'n't know who sends it. It's twice the size of Tiny Tim. Joe Miller never made such a joke as sending it to Bob's will be!"
+T1538	Quotation 150804 150841	"I shall love it, as long as I live!"
+T1539	Cue 150842 150847	cried
+T1540	Entity 150848 150855	Scrooge
+T1541	Quotation 150883 151056	"I scarcely ever looked at it before. What an honest expression it has in its face! It's a wonderful knocker!—Here's the Turkey. Hallo! Whoop! How are you! Merry Christmas!"
+T1542	Quotation 151205 151257	"Why, it's impossible to carry that to Camden Town,"
+T1543	Cue 151258 151262	said
+T1544	Entity 151263 151270	Scrooge
+T1545	Quotation 151272 151294	"You must have a cab."
+T1546	Entity 152203 152238	three or four good-humoured fellows
+T1547	Cue 152239 152243	said
+T1548	Quotation 152245 152291	"Good morning, sir! A merry Christmas to you!"
+T1549	Entity 152296 152303	Scrooge
+T1550	Entity 152471 152491	the portly gentleman
+T1551	Cue 152551 152555	said
+T1552	Quotation 152557 152591	"Scrooge and Marley's, I believe?"
+T1553	Quotation 152755 152769	"My dear sir,"
+T1554	Cue 152770 152774	said
+T1555	Entity 152775 152782	Scrooge
+T1556	Quotation 152853 152957	"How do you do? I hope you succeeded yesterday. It was very kind of you. A merry Christmas to you, sir!"
+T1557	Quotation 152959 152973	"Mr. Scrooge?"
+T1558	Quotation 152975 152981	"Yes,"
+T1559	Cue 152982 152986	said
+T1560	Entity 152987 152994	Scrooge
+T1561	Quotation 152996 153116	"That is my name, and I fear it may not be pleasant to you. Allow me to ask your pardon. And will you have the goodness"
+T1562	Cue 153130 153150	whispered in his ear
+T1563	Quotation 153153 153169	"Lord bless me!"
+T1564	Cue 153170 153175	cried
+T1565	Entity 153176 153189	the gentleman
+T1566	Quotation 153219 153258	"My dear Mr. Scrooge, are you serious?"
+T1567	Quotation 153260 153276	"If you please,"
+T1568	Cue 153277 153281	said
+T1569	Entity 153282 153289	Scrooge
+T1570	Quotation 153291 153402	"Not a farthing less. A great many back-payments are included in it, I assure you. Will you do me that favour?"
+T1571	Quotation 153404 153418	"My dear sir,"
+T1572	Cue 153419 153423	said
+T1573	Quotation 153459 153501	"I don't know what to say to such munifi—"
+T1574	Quotation 153503 153532	"Don't say anything, please,"
+T1575	Cue 153533 153541	retorted
+T1576	Entity 153542 153549	Scrooge
+T1577	Quotation 153551 153595	"Come and see me. Will you come and see me?"
+T1578	Quotation 153597 153606	"I will!"
+T1579	Cue 153607 153612	cried
+T1580	Entity 153613 153630	the old gentleman
+T1581	Quotation 153669 153680	"Thank'ee,"
+T1582	Cue 153681 153685	said
+T1583	Entity 153686 153693	Scrooge
+T1584	Quotation 153695 153758	"I am much obliged to you. I thank you fifty times. Bless you!"
+T1585	Quotation 154293 154327	"Is your master at home, my dear?"
+T1586	Cue 154328 154332	said
+T1587	Entity 154333 154340	Scrooge
+T1588	Entity 154344 154352	the girl
+T1589	Quotation 154372 154383	"Yes, sir."
+T1590	Quotation 154385 154408	"Where is he, my love?"
+T1591	Cue 154409 154413	said
+T1592	Entity 154414 154421	Scrooge
+T1593	Quotation 154424 154516	"He's in the dining-room, sir, along with mistress. I'll show you up stairs, if you please."
+T1594	Quotation 154518 154542	"Thank'ee. He knows me,"
+T1595	Cue 154543 154547	said
+T1596	Entity 154548 154555	Scrooge
+T1597	Quotation 154604 154631	"I'll go in here, my dear."
+T1598	Quotation 154871 154878	"Fred!"
+T1599	Cue 154879 154883	said
+T1600	Entity 154884 154891	Scrooge
+T1601	Quotation 155084 155104	"Why bless my soul!"
+T1602	Cue 155105 155110	cried
+T1603	Entity 155111 155115	Fred
+T1604	Quotation 155117 155130	"who's that?"
+T1605	Quotation 155132 155210	"It's I. Your uncle Scrooge. I have come to dinner. Will you let me in, Fred?"
+T1606	Quotation 156112 156120	"Hallo!"
+T1607	Cue 156121 156128	growled
+T1608	Entity 156129 156136	Scrooge
+T1609	Quotation 156192 156246	"What do you mean by coming here at this time of day?"
+T1610	Quotation 156248 156270	"I'm very sorry, sir,"
+T1611	Cue 156271 156275	said
+T1612	Entity 156276 156279	Bob
+T1613	Quotation 156281 156303	"I am behind my time."
+T1614	Quotation 156305 156315	"You are?"
+T1615	Cue 156316 156324	repeated
+T1616	Entity 156325 156332	Scrooge
+T1617	Quotation 156334 156387	"Yes. I think you are. Step this way, if you please."
+T1618	Quotation 156389 156418	"It's only once a year, sir,"
+T1619	Cue 156419 156426	pleaded
+T1620	Entity 156427 156430	Bob
+T1621	Quotation 156457 156526	"It shall not be repeated. I was making rather merry yesterday, sir."
+T1622	Quotation 156528 156565	"Now, I'll tell you what, my friend,"
+T1623	Cue 156566 156570	said
+T1624	Entity 156571 156578	Scrooge
+T1625	Quotation 156580 156651	"I am not going to stand this sort of thing any longer. And therefore,"
+T1626	Quotation 156777 156825	"and therefore I am about to raise your salary!"
+T1627	Quotation 157023 157048	"A merry Christmas, Bob!"
+T1628	Cue 157049 157053	said
+T1629	Entity 157054 157061	Scrooge
+T1630	Quotation 157142 157486	"A merrier Christmas, Bob, my good fellow, than I have given you, for many a year! I'll raise your salary, and endeavour to assist your struggling family, and we will discuss your affairs this very afternoon, over a Christmas bowl of smoking bishop, Bob!  Make up the fires, and buy another coal-scuttle before you dot another i, Bob Cratchit!"
+R1	Speaker Arg1:T97 Arg2:T95
+R2	Speaker Arg1:T101 Arg2:T99
+R3	Speaker Arg1:T101 Arg2:T98
+R4	Speaker Arg1:T1 Arg2:T4
+R5	Speaker Arg1:T32 Arg2:T30
+R6	Speaker Arg1:T36 Arg2:T34
+R7	Addressee Arg1:T40 Arg2:T37
+R8	Speaker Arg1:T40 Arg2:T38
+R9	Addressee Arg1:T2 Arg2:T4
+R10	Cueing Arg1:T3 Arg2:T4
+R11	Speaker Arg1:T5 Arg2:T8
+R12	Cueing Arg1:T6 Arg2:T8
+R13	Addressee Arg1:T7 Arg2:T8
+R14	Speaker Arg1:T9 Arg2:T12
+R15	Cueing Arg1:T10 Arg2:T12
+R16	Addressee Arg1:T11 Arg2:T12
+R17	Speaker Arg1:T13 Arg2:T16
+R18	Speaker Arg1:T14 Arg2:T16
+R19	Cueing Arg1:T15 Arg2:T16
+R20	Addressee Arg1:T17 Arg2:T16
+R21	Speaker Arg1:T19 Arg2:T21
+R22	Cueing Arg1:T20 Arg2:T21
+R23	Addressee Arg1:T18 Arg2:T21
+R24	Speaker Arg1:T22 Arg2:T24
+R25	Cueing Arg1:T23 Arg2:T24
+R26	Addressee Arg1:T25 Arg2:T24
+R27	Cueing Arg1:T27 Arg2:T26
+R28	Speaker Arg1:T28 Arg2:T26
+R29	Cueing Arg1:T31 Arg2:T30
+R30	Cueing Arg1:T35 Arg2:T34
+R31	Speaker Arg1:T36 Arg2:T37
+R32	Cueing Arg1:T39 Arg2:T38
+R33	Speaker Arg1:T40 Arg2:T41
+R34	Cueing Arg1:T43 Arg2:T42
+R35	Speaker Arg1:T44 Arg2:T42
+R36	Speaker Arg1:T44 Arg2:T45
+R37	Addressee Arg1:T46 Arg2:T45
+R38	Speaker Arg1:T46 Arg2:T48
+R39	Speaker Arg1:T46 Arg2:T49
+R40	Cueing Arg1:T47 Arg2:T48
+R41	Cueing Arg1:T47 Arg2:T49
+R42	Cueing Arg1:T51 Arg2:T50
+R43	Speaker Arg1:T52 Arg2:T50
+R44	Cueing Arg1:T57 Arg2:T56
+R45	Speaker Arg1:T58 Arg2:T56
+R46	Speaker Arg1:T58 Arg2:T59
+R47	Cueing Arg1:T61 Arg2:T60
+R48	Speaker Arg1:T62 Arg2:T60
+R49	Cueing Arg1:T64 Arg2:T63
+R50	Speaker Arg1:T65 Arg2:T63
+R51	Speaker Arg1:T65 Arg2:T66
+R52	Cueing Arg1:T68 Arg2:T67
+R53	Speaker Arg1:T69 Arg2:T67
+R54	Speaker Arg1:T69 Arg2:T70
+R55	Cueing Arg1:T72 Arg2:T71
+R56	Speaker Arg1:T73 Arg2:T71
+R57	Speaker Arg1:T73 Arg2:T74
+R58	Cueing Arg1:T76 Arg2:T75
+R59	Speaker Arg1:T77 Arg2:T75
+R60	Speaker Arg1:T77 Arg2:T78
+R61	Cueing Arg1:T81 Arg2:T80
+R62	Speaker Arg1:T82 Arg2:T80
+R63	Speaker Arg1:T84 Arg2:T83
+R64	Cueing Arg1:T85 Arg2:T83
+R65	Speaker Arg1:T89 Arg2:T91
+R66	Cueing Arg1:T90 Arg2:T91
+R67	Speaker Arg1:T92 Arg2:T94
+R68	Cueing Arg1:T93 Arg2:T94
+R69	Cueing Arg1:T96 Arg2:T95
+R70	Cueing Arg1:T100 Arg2:T99
+R71	Cueing Arg1:T100 Arg2:T98
+R72	Cueing Arg1:T104 Arg2:T103
+R73	Speaker Arg1:T105 Arg2:T103
+R74	Speaker Arg1:T105 Arg2:T106
+R75	Cueing Arg1:T109 Arg2:T108
+R76	Speaker Arg1:T110 Arg2:T108
+R77	Cueing Arg1:T113 Arg2:T112
+R78	Speaker Arg1:T114 Arg2:T112
+R79	Cueing Arg1:T117 Arg2:T116
+R80	Speaker Arg1:T118 Arg2:T116
+R81	Cueing Arg1:T121 Arg2:T120
+R82	Speaker Arg1:T122 Arg2:T120
+R83	Cueing Arg1:T125 Arg2:T124
+R84	Speaker Arg1:T126 Arg2:T124
+R85	Addressee Arg1:T127 Arg2:T124
+R86	Speaker Arg1:T126 Arg2:T128
+R87	Addressee Arg1:T127 Arg2:T128
+R88	Cueing Arg1:T130 Arg2:T129
+R89	Speaker Arg1:T131 Arg2:T129
+R90	Speaker Arg1:T131 Arg2:T132
+R91	Speaker Arg1:T134 Arg2:T133
+R92	Cueing Arg1:T135 Arg2:T133
+R93	Speaker Arg1:T134 Arg2:T136
+R94	Cueing Arg1:T135 Arg2:T136
+R95	Cueing Arg1:T138 Arg2:T137
+R96	Speaker Arg1:T139 Arg2:T137
+R97	Cueing Arg1:T142 Arg2:T141
+R98	Cueing Arg1:T142 Arg2:T144
+R99	Speaker Arg1:T143 Arg2:T141
+R100	Speaker Arg1:T143 Arg2:T144
+R101	Cueing Arg1:T146 Arg2:T145
+R102	Speaker Arg1:T147 Arg2:T145
+R103	Cueing Arg1:T149 Arg2:T148
+R104	Speaker Arg1:T150 Arg2:T148
+R105	Cueing Arg1:T152 Arg2:T151
+R106	Speaker Arg1:T153 Arg2:T151
+R107	Cueing Arg1:T152 Arg2:T154
+R108	Speaker Arg1:T153 Arg2:T154
+R109	Cueing Arg1:T156 Arg2:T155
+R110	Cueing Arg1:T156 Arg2:T158
+R111	Speaker Arg1:T157 Arg2:T158
+R112	Speaker Arg1:T157 Arg2:T155
+R113	Cueing Arg1:T160 Arg2:T159
+R114	Speaker Arg1:T161 Arg2:T159
+R115	Cueing Arg1:T164 Arg2:T163
+R116	Speaker Arg1:T165 Arg2:T163
+R117	Speaker Arg1:T165 Arg2:T166
+R118	Cueing Arg1:T168 Arg2:T167
+R119	Speaker Arg1:T169 Arg2:T167
+R120	Cueing Arg1:T168 Arg2:T170
+R121	Speaker Arg1:T169 Arg2:T170
+R122	Speaker Arg1:T172 Arg2:T171
+R123	Cueing Arg1:T173 Arg2:T171
+R124	Cueing Arg1:T176 Arg2:T175
+R125	Speaker Arg1:T177 Arg2:T175
+R126	Speaker Arg1:T177 Arg2:T178
+R127	Cueing Arg1:T181 Arg2:T180
+R128	Cueing Arg1:T181 Arg2:T183
+R129	Speaker Arg1:T182 Arg2:T180
+R130	Speaker Arg1:T182 Arg2:T183
+R131	Cueing Arg1:T185 Arg2:T184
+R132	Speaker Arg1:T186 Arg2:T184
+R133	Speaker Arg1:T188 Arg2:T187
+R134	Cueing Arg1:T189 Arg2:T187
+R135	Cueing Arg1:T189 Arg2:T190
+R136	Speaker Arg1:T188 Arg2:T190
+R137	Cueing Arg1:T192 Arg2:T194
+R138	Addressee Arg1:T193 Arg2:T194
+R139	Cueing Arg1:T197 Arg2:T196
+R140	Speaker Arg1:T198 Arg2:T196
+R141	Cueing Arg1:T201 Arg2:T200
+R142	Cueing Arg1:T201 Arg2:T203
+R143	Speaker Arg1:T202 Arg2:T200
+R144	Speaker Arg1:T202 Arg2:T203
+R145	Cueing Arg1:T205 Arg2:T204
+R146	Cueing Arg1:T205 Arg2:T207
+R147	Speaker Arg1:T206 Arg2:T204
+R148	Speaker Arg1:T206 Arg2:T207
+R149	Cueing Arg1:T209 Arg2:T210
+R150	Speaker Arg1:T208 Arg2:T210
+R151	Cueing Arg1:T212 Arg2:T211
+R152	Cueing Arg1:T212 Arg2:T214
+R153	Speaker Arg1:T213 Arg2:T211
+R154	Speaker Arg1:T213 Arg2:T214
+R155	Cueing Arg1:T216 Arg2:T217
+R156	Speaker Arg1:T215 Arg2:T217
+R157	Addressee Arg1:T218 Arg2:T217
+R158	Cueing Arg1:T220 Arg2:T221
+R159	Speaker Arg1:T219 Arg2:T221
+R160	Cueing Arg1:T223 Arg2:T222
+R161	Speaker Arg1:T224 Arg2:T222
+R162	Cueing Arg1:T226 Arg2:T225
+R163	Cueing Arg1:T226 Arg2:T228
+R164	Speaker Arg1:T227 Arg2:T225
+R165	Speaker Arg1:T227 Arg2:T228
+R166	Cueing Arg1:T230 Arg2:T231
+R167	Speaker Arg1:T229 Arg2:T231
+R168	Cueing Arg1:T233 Arg2:T232
+R169	Speaker Arg1:T234 Arg2:T232
+R170	Speaker Arg1:T234 Arg2:T235
+R171	Speaker Arg1:T237 Arg2:T236
+R172	Cueing Arg1:T241 Arg2:T240
+R173	Speaker Arg1:T242 Arg2:T240
+R174	Speaker Arg1:T244 Arg2:T243
+R175	Speaker Arg1:T244 Arg2:T246
+R176	Cueing Arg1:T245 Arg2:T246
+R177	Cueing Arg1:T249 Arg2:T248
+R178	Speaker Arg1:T250 Arg2:T248
+R179	Addressee Arg1:T251 Arg2:T248
+R180	Cueing Arg1:T256 Arg2:T255
+R181	Speaker Arg1:T257 Arg2:T255
+R182	Cueing Arg1:T259 Arg2:T258
+R183	Speaker Arg1:T260 Arg2:T258
+R184	Cueing Arg1:T263 Arg2:T262
+R185	Speaker Arg1:T264 Arg2:T262
+R186	Cueing Arg1:T267 Arg2:T266
+R187	Cueing Arg1:T267 Arg2:T269
+R188	Speaker Arg1:T268 Arg2:T266
+R189	Speaker Arg1:T268 Arg2:T269
+R190	Cueing Arg1:T274 Arg2:T273
+R191	Speaker Arg1:T275 Arg2:T273
+R192	Cueing Arg1:T277 Arg2:T276
+R193	Speaker Arg1:T278 Arg2:T276
+R194	Cueing Arg1:T280 Arg2:T279
+R195	Cueing Arg1:T280 Arg2:T282
+R196	Speaker Arg1:T281 Arg2:T279
+R197	Speaker Arg1:T281 Arg2:T282
+R198	Cueing Arg1:T284 Arg2:T283
+R199	Speaker Arg1:T285 Arg2:T283
+R200	Speaker Arg1:T285 Arg2:T286
+R201	Speaker Arg1:T292 Arg2:T291
+R202	Cueing Arg1:T293 Arg2:T291
+R203	Speaker Arg1:T292 Arg2:T294
+R204	Cueing Arg1:T296 Arg2:T295
+R205	Speaker Arg1:T297 Arg2:T295
+R206	Speaker Arg1:T297 Arg2:T298
+R207	Speaker Arg1:T301 Arg2:T302
+R208	Speaker Arg1:T304 Arg2:T303
+R209	Speaker Arg1:T304 Arg2:T306
+R210	Cueing Arg1:T305 Arg2:T303
+R211	Cueing Arg1:T305 Arg2:T306
+R212	Speaker Arg1:T288 Arg2:T290
+R213	Cueing Arg1:T289 Arg2:T290
+R214	Addressee Arg1:T287 Arg2:T290
+R215	Speaker Arg1:T307 Arg2:T309
+R216	Cueing Arg1:T308 Arg2:T309
+R217	Cueing Arg1:T311 Arg2:T310
+R218	Speaker Arg1:T312 Arg2:T310
+R219	Speaker Arg1:T312 Arg2:T313
+R220	Cueing Arg1:T315 Arg2:T314
+R221	Speaker Arg1:T316 Arg2:T314
+R222	Speaker Arg1:T316 Arg2:T317
+R223	Cueing Arg1:T319 Arg2:T318
+R224	Cueing Arg1:T319 Arg2:T321
+R225	Speaker Arg1:T320 Arg2:T318
+R226	Speaker Arg1:T320 Arg2:T321
+R227	Speaker Arg1:T323 Arg2:T322
+R228	Cueing Arg1:T324 Arg2:T322
+R229	Speaker Arg1:T323 Arg2:T325
+R230	Speaker Arg1:T327 Arg2:T326
+R231	Cueing Arg1:T328 Arg2:T326
+R232	Speaker Arg1:T327 Arg2:T329
+R233	Speaker Arg1:T331 Arg2:T330
+R234	Cueing Arg1:T332 Arg2:T330
+R235	Speaker Arg1:T334 Arg2:T333
+R236	Cueing Arg1:T335 Arg2:T333
+R237	Speaker Arg1:T338 Arg2:T339
+R238	Cueing Arg1:T341 Arg2:T340
+R239	Speaker Arg1:T342 Arg2:T340
+R240	Speaker Arg1:T342 Arg2:T343
+R241	Cueing Arg1:T345 Arg2:T344
+R242	Speaker Arg1:T346 Arg2:T344
+R243	Cueing Arg1:T348 Arg2:T347
+R244	Speaker Arg1:T349 Arg2:T347
+R245	Cueing Arg1:T351 Arg2:T350
+R246	Speaker Arg1:T352 Arg2:T350
+R247	Speaker Arg1:T353 Arg2:T355
+R248	Cueing Arg1:T354 Arg2:T355
+R249	Cueing Arg1:T357 Arg2:T356
+R250	Cueing Arg1:T357 Arg2:T359
+R251	Speaker Arg1:T358 Arg2:T356
+R252	Speaker Arg1:T358 Arg2:T359
+R253	Cueing Arg1:T361 Arg2:T360
+R254	Speaker Arg1:T362 Arg2:T360
+R255	Cueing Arg1:T364 Arg2:T363
+R256	Speaker Arg1:T365 Arg2:T363
+R257	Speaker Arg1:T365 Arg2:T366
+R258	Speaker Arg1:T368 Arg2:T367
+R259	Speaker Arg1:T368 Arg2:T370
+R260	Cueing Arg1:T369 Arg2:T370
+R261	Cueing Arg1:T372 Arg2:T371
+R262	Speaker Arg1:T373 Arg2:T371
+R263	Speaker Arg1:T373 Arg2:T374
+R264	Cueing Arg1:T376 Arg2:T375
+R265	Speaker Arg1:T377 Arg2:T375
+R266	Speaker Arg1:T377 Arg2:T378
+R267	Cueing Arg1:T381 Arg2:T380
+R268	Speaker Arg1:T382 Arg2:T380
+R269	Speaker Arg1:T382 Arg2:T383
+R270	Cueing Arg1:T385 Arg2:T384
+R271	Speaker Arg1:T386 Arg2:T384
+R272	Speaker Arg1:T386 Arg2:T387
+R273	Cueing Arg1:T389 Arg2:T388
+R274	Cueing Arg1:T389 Arg2:T391
+R275	Speaker Arg1:T390 Arg2:T388
+R276	Speaker Arg1:T390 Arg2:T391
+R277	Speaker Arg1:T393 Arg2:T392
+R278	Cueing Arg1:T394 Arg2:T392
+R279	Cueing Arg1:T397 Arg2:T396
+R280	Speaker Arg1:T398 Arg2:T396
+R281	Cueing Arg1:T400 Arg2:T399
+R282	Cueing Arg1:T400 Arg2:T402
+R283	Speaker Arg1:T401 Arg2:T399
+R284	Speaker Arg1:T401 Arg2:T402
+R285	Cueing Arg1:T404 Arg2:T403
+R286	Speaker Arg1:T405 Arg2:T403
+R287	Cueing Arg1:T408 Arg2:T409
+R288	Speaker Arg1:T407 Arg2:T409
+R289	Addressee Arg1:T29 Arg2:T26
+R290	Addressee Arg1:T29 Arg2:T30
+R291	Speaker Arg1:T32 Arg2:T33
+R292	Cueing Arg1:T104 Arg2:T106
+R293	Addressee Arg1:T101 Arg2:T102
+R294	Speaker Arg1:T97 Arg2:T102
+R295	Addressee Arg1:T97 Arg2:T106
+R296	Speaker Arg1:T97 Arg2:T107
+R297	Addressee Arg1:T105 Arg2:T107
+R298	Addressee Arg1:T29 Arg2:T33
+R299	Addressee Arg1:T32 Arg2:T34
+R300	Addressee Arg1:T36 Arg2:T38
+R301	Addressee Arg1:T44 Arg2:T41
+R302	Addressee Arg1:T40 Arg2:T42
+R303	Addressee Arg1:T44 Arg2:T48
+R304	Addressee Arg1:T44 Arg2:T49
+R305	Addressee Arg1:T46 Arg2:T50
+R306	Addressee Arg1:T52 Arg2:T53
+R307	Cueing Arg1:T54 Arg2:T53
+R308	Speaker Arg1:T55 Arg2:T53
+R309	Addressee Arg1:T52 Arg2:T56
+R310	Addressee Arg1:T52 Arg2:T59
+R311	Addressee Arg1:T58 Arg2:T60
+R312	Addressee Arg1:T62 Arg2:T63
+R313	Addressee Arg1:T62 Arg2:T66
+R314	Addressee Arg1:T65 Arg2:T67
+R315	Addressee Arg1:T65 Arg2:T70
+R316	Addressee Arg1:T69 Arg2:T71
+R317	Addressee Arg1:T69 Arg2:T74
+R318	Addressee Arg1:T73 Arg2:T75
+R319	Cueing Arg1:T57 Arg2:T59
+R320	Cueing Arg1:T64 Arg2:T66
+R321	Cueing Arg1:T72 Arg2:T74
+R322	Cueing Arg1:T76 Arg2:T78
+R323	Addressee Arg1:T73 Arg2:T78
+R324	Addressee Arg1:T79 Arg2:T80
+R325	Addressee Arg1:T79 Arg2:T83
+R326	Addressee Arg1:T86 Arg2:T83
+R327	Speaker Arg1:T84 Arg2:T87
+R328	Cueing Arg1:T85 Arg2:T87
+R329	Addressee Arg1:T86 Arg2:T87
+R330	Speaker Arg1:T86 Arg2:T88
+R331	Addressee Arg1:T84 Arg2:T88
+R332	Addressee Arg1:T86 Arg2:T91
+R333	Addressee Arg1:T97 Arg2:T94
+R334	Addressee Arg1:T89 Arg2:T95
+R335	Addressee Arg1:T97 Arg2:T98
+R336	Addressee Arg1:T97 Arg2:T99
+R337	Addressee Arg1:T97 Arg2:T103
+R338	Addressee Arg1:T97 Arg2:T116
+R339	Cueing Arg1:T117 Arg2:T119
+R340	Speaker Arg1:T118 Arg2:T119
+R341	Addressee Arg1:T123 Arg2:T119
+R342	Addressee Arg1:T123 Arg2:T120
+R343	Cueing Arg1:T125 Arg2:T128
+R344	Addressee Arg1:T134 Arg2:T132
+R345	Addressee Arg1:T131 Arg2:T133
+R346	Cueing Arg1:T130 Arg2:T132
+R347	Addressee Arg1:T139 Arg2:T136
+R348	Addressee Arg1:T134 Arg2:T137
+R349	Addressee Arg1:T140 Arg2:T141
+R350	Addressee Arg1:T147 Arg2:T144
+R351	Addressee Arg1:T143 Arg2:T145
+R352	Addressee Arg1:T147 Arg2:T148
+R353	Addressee Arg1:T150 Arg2:T151
+R354	Addressee Arg1:T150 Arg2:T154
+R355	Addressee Arg1:T153 Arg2:T155
+R356	Addressee Arg1:T153 Arg2:T158
+R357	Addressee Arg1:T157 Arg2:T159
+R358	Speaker Arg1:T157 Arg2:T162
+R359	Addressee Arg1:T161 Arg2:T162
+R360	Cueing Arg1:T164 Arg2:T166
+R361	Addressee Arg1:T169 Arg2:T163
+R362	Addressee Arg1:T169 Arg2:T166
+R363	Addressee Arg1:T165 Arg2:T167
+R364	Addressee Arg1:T172 Arg2:T170
+R365	Addressee Arg1:T169 Arg2:T171
+R366	Addressee Arg1:T172 Arg2:T174
+R367	Speaker Arg1:T169 Arg2:T174
+R368	Addressee Arg1:T169 Arg2:T175
+R369	Cueing Arg1:T176 Arg2:T178
+R370	Addressee Arg1:T186 Arg2:T178
+R371	Addressee Arg1:T177 Arg2:T179
+R372	Speaker Arg1:T186 Arg2:T179
+R373	Addressee Arg1:T186 Arg2:T180
+R374	Addressee Arg1:T186 Arg2:T183
+R375	Addressee Arg1:T182 Arg2:T184
+R376	Addressee Arg1:T186 Arg2:T187
+R377	Addressee Arg1:T186 Arg2:T190
+R378	Speaker Arg1:T191 Arg2:T194
+R379	Addressee Arg1:T195 Arg2:T196
+R380	Speaker Arg1:T195 Arg2:T199
+R381	Addressee Arg1:T198 Arg2:T199
+R382	Addressee Arg1:T195 Arg2:T200
+R383	Addressee Arg1:T195 Arg2:T203
+R384	Addressee Arg1:T208 Arg2:T204
+R385	Addressee Arg1:T208 Arg2:T207
+R386	Addressee Arg1:T206 Arg2:T210
+R387	Addressee Arg1:T208 Arg2:T211
+R388	Addressee Arg1:T215 Arg2:T214
+R389	Addressee Arg1:T237 Arg2:T232
+R390	Addressee Arg1:T237 Arg2:T235
+R391	Addressee Arg1:T234 Arg2:T236
+R392	Cueing Arg1:T233 Arg2:T235
+R393	Addressee Arg1:T237 Arg2:T238
+R394	Speaker Arg1:T234 Arg2:T238
+R395	Speaker Arg1:T237 Arg2:T239
+R396	Addressee Arg1:T242 Arg2:T239
+R397	Addressee Arg1:T237 Arg2:T240
+R398	Addressee Arg1:T237 Arg2:T243
+R399	Speaker Arg1:T237 Arg2:T247
+R400	Addressee Arg1:T237 Arg2:T246
+R401	Addressee Arg1:T250 Arg2:T247
+R402	Speaker Arg1:T251 Arg2:T252
+R403	Addressee Arg1:T250 Arg2:T252
+R404	Speaker Arg1:T250 Arg2:T253
+R405	Addressee Arg1:T251 Arg2:T253
+R406	Addressee Arg1:T254 Arg2:T255
+R407	Addressee Arg1:T257 Arg2:T258
+R408	Speaker Arg1:T257 Arg2:T261
+R409	Addressee Arg1:T260 Arg2:T261
+R410	Addressee Arg1:T257 Arg2:T262
+R411	Speaker Arg1:T257 Arg2:T265
+R412	Addressee Arg1:T264 Arg2:T265
+R413	Addressee Arg1:T257 Arg2:T266
+R414	Addressee Arg1:T257 Arg2:T269
+R415	Cueing Arg1:T271 Arg2:T270
+R416	Speaker Arg1:T272 Arg2:T270
+R417	Addressee Arg1:T275 Arg2:T270
+R418	Addressee Arg1:T272 Arg2:T273
+R419	Addressee Arg1:T275 Arg2:T276
+R420	Addressee Arg1:T278 Arg2:T279
+R421	Addressee Arg1:T278 Arg2:T282
+R422	Addressee Arg1:T281 Arg2:T283
+R423	Cueing Arg1:T284 Arg2:T286
+R424	Addressee Arg1:T281 Arg2:T286
+R425	Addressee Arg1:T288 Arg2:T291
+R426	Cueing Arg1:T293 Arg2:T294
+R427	Addressee Arg1:T288 Arg2:T294
+R428	Cueing Arg1:T296 Arg2:T298
+R429	Addressee Arg1:T292 Arg2:T295
+R430	Addressee Arg1:T301 Arg2:T298
+R431	Speaker Arg1:T301 Arg2:T299
+R432	Cueing Arg1:T300 Arg2:T299
+R433	Addressee Arg1:T297 Arg2:T299
+R434	Cueing Arg1:T300 Arg2:T302
+R435	Addressee Arg1:T304 Arg2:T302
+R436	Addressee Arg1:T301 Arg2:T303
+R437	Addressee Arg1:T301 Arg2:T306
+R438	Addressee Arg1:T312 Arg2:T309
+R439	Addressee Arg1:T307 Arg2:T310
+R440	Cueing Arg1:T311 Arg2:T313
+R441	Addressee Arg1:T307 Arg2:T313
+R442	Addressee Arg1:T312 Arg2:T314
+R443	Addressee Arg1:T312 Arg2:T317
+R444	Cueing Arg1:T315 Arg2:T317
+R445	Addressee Arg1:T312 Arg2:T318
+R446	Addressee Arg1:T312 Arg2:T321
+R447	Addressee Arg1:T320 Arg2:T322
+R448	Cueing Arg1:T324 Arg2:T325
+R449	Addressee Arg1:T327 Arg2:T325
+R450	Cueing Arg1:T328 Arg2:T329
+R451	Addressee Arg1:T323 Arg2:T326
+R452	Addressee Arg1:T323 Arg2:T329
+R453	Addressee Arg1:T327 Arg2:T330
+R454	Addressee Arg1:T331 Arg2:T333
+R455	Cueing Arg1:T337 Arg2:T336
+R456	Cueing Arg1:T337 Arg2:T339
+R457	Speaker Arg1:T338 Arg2:T336
+R458	Addressee Arg1:T334 Arg2:T336
+R459	Addressee Arg1:T334 Arg2:T339
+R460	Addressee Arg1:T338 Arg2:T340
+R461	Cueing Arg1:T341 Arg2:T343
+R462	Addressee Arg1:T338 Arg2:T343
+R463	Addressee Arg1:T342 Arg2:T344
+R464	Addressee Arg1:T346 Arg2:T347
+R465	Addressee Arg1:T349 Arg2:T350
+R466	Addressee Arg1:T352 Arg2:T355
+R467	Addressee Arg1:T352 Arg2:T356
+R468	Addressee Arg1:T362 Arg2:T359
+R469	Addressee Arg1:T358 Arg2:T360
+R470	Addressee Arg1:T362 Arg2:T363
+R471	Cueing Arg1:T364 Arg2:T366
+R472	Addressee Arg1:T362 Arg2:T366
+R473	Cueing Arg1:T372 Arg2:T374
+R474	Cueing Arg1:T369 Arg2:T367
+R475	Addressee Arg1:T362 Arg2:T367
+R476	Addressee Arg1:T362 Arg2:T370
+R477	Addressee Arg1:T377 Arg2:T371
+R478	Addressee Arg1:T377 Arg2:T374
+R479	Addressee Arg1:T373 Arg2:T375
+R480	Cueing Arg1:T376 Arg2:T378
+R481	Addressee Arg1:T373 Arg2:T378
+R482	Addressee Arg1:T377 Arg2:T379
+R483	Speaker Arg1:T373 Arg2:T379
+R484	Addressee Arg1:T377 Arg2:T380
+R485	Cueing Arg1:T381 Arg2:T383
+R486	Addressee Arg1:T386 Arg2:T383
+R487	Cueing Arg1:T385 Arg2:T387
+R488	Addressee Arg1:T382 Arg2:T384
+R489	Addressee Arg1:T382 Arg2:T387
+R490	Addressee Arg1:T386 Arg2:T388
+R491	Addressee Arg1:T386 Arg2:T391
+R492	Addressee Arg1:T390 Arg2:T392
+R493	Addressee Arg1:T393 Arg2:T395
+R494	Speaker Arg1:T390 Arg2:T395
+R495	Addressee Arg1:T401 Arg2:T396
+R496	Addressee Arg1:T398 Arg2:T399
+R497	Addressee Arg1:T398 Arg2:T402
+R498	Addressee Arg1:T401 Arg2:T403
+R499	Speaker Arg1:T401 Arg2:T406
+R500	Addressee Arg1:T405 Arg2:T406
+R501	Cueing Arg1:T411 Arg2:T410
+R502	Cueing Arg1:T411 Arg2:T413
+R503	Speaker Arg1:T412 Arg2:T410
+R504	Speaker Arg1:T412 Arg2:T413
+R505	Cueing Arg1:T415 Arg2:T414
+R506	Speaker Arg1:T416 Arg2:T414
+R507	Cueing Arg1:T418 Arg2:T417
+R508	Speaker Arg1:T419 Arg2:T417
+R509	Cueing Arg1:T421 Arg2:T420
+R510	Speaker Arg1:T422 Arg2:T420
+R511	Cueing Arg1:T424 Arg2:T423
+R512	Cueing Arg1:T424 Arg2:T426
+R513	Speaker Arg1:T425 Arg2:T423
+R514	Speaker Arg1:T425 Arg2:T426
+R515	Cueing Arg1:T428 Arg2:T427
+R516	Speaker Arg1:T429 Arg2:T427
+R517	Addressee Arg1:T431 Arg2:T427
+R518	Speaker Arg1:T431 Arg2:T430
+R519	Addressee Arg1:T429 Arg2:T430
+R520	Speaker Arg1:T433 Arg2:T432
+R521	Cueing Arg1:T434 Arg2:T432
+R522	Addressee Arg1:T431 Arg2:T432
+R523	Addressee Arg1:T433 Arg2:T435
+R524	Speaker Arg1:T431 Arg2:T435
+R525	Cueing Arg1:T437 Arg2:T436
+R526	Speaker Arg1:T438 Arg2:T436
+R527	Addressee Arg1:T431 Arg2:T436
+R528	Addressee Arg1:T438 Arg2:T439
+R529	Speaker Arg1:T431 Arg2:T439
+R530	Cueing Arg1:T442 Arg2:T441
+R531	Cueing Arg1:T442 Arg2:T444
+R532	Speaker Arg1:T443 Arg2:T441
+R533	Speaker Arg1:T443 Arg2:T444
+R534	Addressee Arg1:T440 Arg2:T441
+R535	Addressee Arg1:T440 Arg2:T444
+R536	Speaker Arg1:T445 Arg2:T447
+R537	Cueing Arg1:T446 Arg2:T447
+R538	Addressee Arg1:T450 Arg2:T447
+R539	Cueing Arg1:T449 Arg2:T448
+R540	Speaker Arg1:T450 Arg2:T448
+R541	Addressee Arg1:T445 Arg2:T448
+R542	Speaker Arg1:T451 Arg2:T454
+R543	Addressee Arg1:T452 Arg2:T454
+R544	Cueing Arg1:T453 Arg2:T454
+R545	Speaker Arg1:T455 Arg2:T458
+R546	Cueing Arg1:T456 Arg2:T458
+R547	Addressee Arg1:T457 Arg2:T458
+R548	Speaker Arg1:T461 Arg2:T460
+R549	Speaker Arg1:T461 Arg2:T463
+R550	Cueing Arg1:T462 Arg2:T460
+R551	Cueing Arg1:T462 Arg2:T463
+R552	Addressee Arg1:T459 Arg2:T460
+R553	Addressee Arg1:T459 Arg2:T463
+R554	Cueing Arg1:T465 Arg2:T464
+R555	Cueing Arg1:T465 Arg2:T467
+R556	Speaker Arg1:T466 Arg2:T464
+R557	Speaker Arg1:T466 Arg2:T467
+R558	Addressee Arg1:T461 Arg2:T464
+R559	Addressee Arg1:T461 Arg2:T467
+R560	Cueing Arg1:T469 Arg2:T468
+R561	Cueing Arg1:T469 Arg2:T471
+R562	Speaker Arg1:T470 Arg2:T468
+R563	Speaker Arg1:T470 Arg2:T471
+R564	Addressee Arg1:T472 Arg2:T471
+R565	Cueing Arg1:T474 Arg2:T473
+R566	Cueing Arg1:T474 Arg2:T476
+R567	Speaker Arg1:T475 Arg2:T473
+R568	Speaker Arg1:T475 Arg2:T476
+R569	Addressee Arg1:T477 Arg2:T473
+R570	Addressee Arg1:T477 Arg2:T476
+R571	Speaker Arg1:T477 Arg2:T479
+R572	Cueing Arg1:T478 Arg2:T479
+R573	Addressee Arg1:T475 Arg2:T479
+R574	Cueing Arg1:T481 Arg2:T480
+R575	Speaker Arg1:T482 Arg2:T480
+R576	Addressee Arg1:T477 Arg2:T480
+R577	Cueing Arg1:T484 Arg2:T483
+R578	Cueing Arg1:T484 Arg2:T486
+R579	Speaker Arg1:T485 Arg2:T483
+R580	Speaker Arg1:T485 Arg2:T486
+R581	Addressee Arg1:T482 Arg2:T483
+R582	Addressee Arg1:T482 Arg2:T486
+R583	Cueing Arg1:T488 Arg2:T487
+R584	Speaker Arg1:T489 Arg2:T487
+R585	Speaker Arg1:T489 Arg2:T490
+R586	Addressee Arg1:T485 Arg2:T487
+R587	Addressee Arg1:T485 Arg2:T490
+R588	Cueing Arg1:T492 Arg2:T491
+R589	Cueing Arg1:T492 Arg2:T494
+R590	Speaker Arg1:T493 Arg2:T491
+R591	Speaker Arg1:T493 Arg2:T494
+R592	Addressee Arg1:T495 Arg2:T491
+R593	Addressee Arg1:T495 Arg2:T494
+R594	Cueing Arg1:T497 Arg2:T496
+R595	Cueing Arg1:T497 Arg2:T499
+R596	Speaker Arg1:T498 Arg2:T496
+R597	Speaker Arg1:T498 Arg2:T499
+R598	Addressee Arg1:T500 Arg2:T496
+R599	Addressee Arg1:T500 Arg2:T499
+R600	Cueing Arg1:T501 Arg2:T502
+R601	Speaker Arg1:T500 Arg2:T502
+R602	Addressee Arg1:T498 Arg2:T502
+R603	Speaker Arg1:T505 Arg2:T504
+R604	Cueing Arg1:T506 Arg2:T504
+R605	Addressee Arg1:T503 Arg2:T504
+R606	Cueing Arg1:T508 Arg2:T507
+R607	Speaker Arg1:T509 Arg2:T507
+R608	Addressee Arg1:T503 Arg2:T507
+R609	Cueing Arg1:T508 Arg2:T510
+R610	Speaker Arg1:T509 Arg2:T510
+R611	Addressee Arg1:T503 Arg2:T510
+R612	Cueing Arg1:T512 Arg2:T511
+R613	Speaker Arg1:T513 Arg2:T511
+R614	Cueing Arg1:T512 Arg2:T514
+R615	Speaker Arg1:T513 Arg2:T514
+R616	Addressee Arg1:T526 Arg2:T511
+R617	Addressee Arg1:T526 Arg2:T514
+R618	Addressee Arg1:T517 Arg2:T518
+R619	Cueing Arg1:T516 Arg2:T518
+R620	Speaker Arg1:T515 Arg2:T518
+R621	Speaker Arg1:T520 Arg2:T519
+R622	Cueing Arg1:T521 Arg2:T519
+R623	Speaker Arg1:T520 Arg2:T523
+R624	Cueing Arg1:T521 Arg2:T523
+R625	Addressee Arg1:T522 Arg2:T523
+R626	Addressee Arg1:T522 Arg2:T519
+R627	Cueing Arg1:T525 Arg2:T524
+R628	Speaker Arg1:T526 Arg2:T524
+R629	Addressee Arg1:T529 Arg2:T524
+R630	Cueing Arg1:T528 Arg2:T527
+R631	Speaker Arg1:T529 Arg2:T527
+R632	Addressee Arg1:T526 Arg2:T527
+R633	Cueing Arg1:T528 Arg2:T530
+R634	Speaker Arg1:T529 Arg2:T530
+R635	Addressee Arg1:T526 Arg2:T530
+R636	Speaker Arg1:T531 Arg2:T533
+R637	Cueing Arg1:T532 Arg2:T533
+R638	Addressee Arg1:T529 Arg2:T533
+R639	Addressee Arg1:T534 Arg2:T535
+R640	Cueing Arg1:T536 Arg2:T535
+R641	Speaker Arg1:T537 Arg2:T535
+R642	Cueing Arg1:T536 Arg2:T538
+R643	Speaker Arg1:T537 Arg2:T538
+R644	Addressee Arg1:T541 Arg2:T538
+R645	Cueing Arg1:T540 Arg2:T539
+R646	Speaker Arg1:T541 Arg2:T539
+R647	Addressee Arg1:T537 Arg2:T539
+R648	Cueing Arg1:T543 Arg2:T542
+R649	Speaker Arg1:T544 Arg2:T542
+R650	Addressee Arg1:T541 Arg2:T542
+R651	Cueing Arg1:T546 Arg2:T545
+R652	Speaker Arg1:T547 Arg2:T545
+R653	Cueing Arg1:T546 Arg2:T548
+R654	Speaker Arg1:T547 Arg2:T548
+R655	Addressee Arg1:T551 Arg2:T545
+R656	Addressee Arg1:T551 Arg2:T548
+R657	Cueing Arg1:T550 Arg2:T549
+R658	Speaker Arg1:T551 Arg2:T549
+R659	Addressee Arg1:T547 Arg2:T549
+R660	Cueing Arg1:T554 Arg2:T555
+R661	Speaker Arg1:T553 Arg2:T555
+R662	Addressee Arg1:T552 Arg2:T555
+R663	Cueing Arg1:T557 Arg2:T556
+R664	Speaker Arg1:T558 Arg2:T556
+R665	Cueing Arg1:T557 Arg2:T559
+R666	Speaker Arg1:T558 Arg2:T559
+R667	Addressee Arg1:T562 Arg2:T556
+R668	Addressee Arg1:T562 Arg2:T559
+R669	Cueing Arg1:T561 Arg2:T560
+R670	Speaker Arg1:T562 Arg2:T560
+R671	Addressee Arg1:T558 Arg2:T560
+R672	Cueing Arg1:T561 Arg2:T563
+R673	Speaker Arg1:T562 Arg2:T563
+R674	Addressee Arg1:T558 Arg2:T563
+R675	Cueing Arg1:T565 Arg2:T564
+R676	Speaker Arg1:T566 Arg2:T564
+R677	Addressee Arg1:T562 Arg2:T564
+R678	Cueing Arg1:T565 Arg2:T567
+R679	Speaker Arg1:T566 Arg2:T567
+R680	Addressee Arg1:T562 Arg2:T567
+R681	Speaker Arg1:T569 Arg2:T568
+R682	Cueing Arg1:T570 Arg2:T568
+R683	Addressee Arg1:T566 Arg2:T568
+R684	Cueing Arg1:T572 Arg2:T571
+R685	Cueing Arg1:T572 Arg2:T574
+R686	Speaker Arg1:T573 Arg2:T571
+R687	Speaker Arg1:T573 Arg2:T574
+R688	Addressee Arg1:T569 Arg2:T571
+R689	Addressee Arg1:T569 Arg2:T574
+R690	Speaker Arg1:T575 Arg2:T577
+R691	Cueing Arg1:T576 Arg2:T577
+R692	Addressee Arg1:T573 Arg2:T577
+R693	Speaker Arg1:T578 Arg2:T581
+R694	Cueing Arg1:T579 Arg2:T581
+R695	Addressee Arg1:T580 Arg2:T581
+R696	Cueing Arg1:T583 Arg2:T582
+R697	Cueing Arg1:T583 Arg2:T585
+R698	Speaker Arg1:T584 Arg2:T582
+R699	Speaker Arg1:T584 Arg2:T585
+R700	Addressee Arg1:T578 Arg2:T582
+R701	Addressee Arg1:T578 Arg2:T585
+R702	Speaker Arg1:T586 Arg2:T588
+R703	Cueing Arg1:T587 Arg2:T588
+R704	Addressee Arg1:T578 Arg2:T588
+R705	Speaker Arg1:T589 Arg2:T591
+R706	Cueing Arg1:T590 Arg2:T591
+R707	Addressee Arg1:T592 Arg2:T591
+R708	Cueing Arg1:T594 Arg2:T593
+R709	Speaker Arg1:T595 Arg2:T593
+R710	Addressee Arg1:T596 Arg2:T593
+R711	Cueing Arg1:T594 Arg2:T597
+R712	Speaker Arg1:T595 Arg2:T597
+R713	Addressee Arg1:T596 Arg2:T597
+R714	Cueing Arg1:T599 Arg2:T598
+R715	Speaker Arg1:T600 Arg2:T598
+R716	Addressee Arg1:T592 Arg2:T598
+R717	Cueing Arg1:T602 Arg2:T601
+R718	Cueing Arg1:T602 Arg2:T604
+R719	Speaker Arg1:T603 Arg2:T601
+R720	Speaker Arg1:T603 Arg2:T604
+R721	Addressee Arg1:T592 Arg2:T601
+R722	Addressee Arg1:T592 Arg2:T604
+R723	Addressee Arg1:T605 Arg2:T606
+R724	Cueing Arg1:T607 Arg2:T606
+R725	Speaker Arg1:T608 Arg2:T606
+R726	Speaker Arg1:T608 Arg2:T609
+R727	Addressee Arg1:T605 Arg2:T609
+R728	Speaker Arg1:T611 Arg2:T613
+R729	Cueing Arg1:T612 Arg2:T613
+R730	Addressee Arg1:T610 Arg2:T613
+R731	Speaker Arg1:T614 Arg2:T616
+R732	Cueing Arg1:T615 Arg2:T616
+R733	Cueing Arg1:T618 Arg2:T617
+R734	Speaker Arg1:T619 Arg2:T617
+R735	Addressee Arg1:T623 Arg2:T617
+R736	Cueing Arg1:T618 Arg2:T620
+R737	Speaker Arg1:T619 Arg2:T620
+R738	Addressee Arg1:T623 Arg2:T620
+R739	Cueing Arg1:T622 Arg2:T621
+R740	Speaker Arg1:T623 Arg2:T621
+R741	Addressee Arg1:T619 Arg2:T621
+R742	Addressee Arg1:T624 Arg2:T627
+R743	Speaker Arg1:T625 Arg2:T627
+R744	Cueing Arg1:T626 Arg2:T627
+R745	Cueing Arg1:T629 Arg2:T628
+R746	Speaker Arg1:T630 Arg2:T628
+R747	Addressee Arg1:T625 Arg2:T628
+R748	Cueing Arg1:T629 Arg2:T631
+R749	Speaker Arg1:T630 Arg2:T631
+R750	Addressee Arg1:T635 Arg2:T631
+R751	Speaker Arg1:T635 Arg2:T633
+R752	Cueing Arg1:T634 Arg2:T633
+R753	Addressee Arg1:T632 Arg2:T633
+R754	Cueing Arg1:T637 Arg2:T636
+R755	Speaker Arg1:T638 Arg2:T636
+R756	Addressee Arg1:T635 Arg2:T636
+R757	Addressee Arg1:T638 Arg2:T639
+R758	Speaker Arg1:T640 Arg2:T639
+R759	Cueing Arg1:T641 Arg2:T639
+R760	Cueing Arg1:T643 Arg2:T642
+R761	Cueing Arg1:T643 Arg2:T645
+R762	Speaker Arg1:T644 Arg2:T642
+R763	Speaker Arg1:T644 Arg2:T645
+R764	Addressee Arg1:T640 Arg2:T642
+R765	Addressee Arg1:T640 Arg2:T645
+R766	Cueing Arg1:T647 Arg2:T646
+R767	Speaker Arg1:T648 Arg2:T646
+R768	Addressee Arg1:T644 Arg2:T646
+R769	Speaker Arg1:T648 Arg2:T649
+R770	Speaker Arg1:T650 Arg2:T651
+R771	Speaker Arg1:T652 Arg2:T651
+R772	Cueing Arg1:T653 Arg2:T651
+R773	Speaker Arg1:T652 Arg2:T654
+R774	Cueing Arg1:T653 Arg2:T654
+R775	Addressee Arg1:T656 Arg2:T654
+R776	Speaker Arg1:T656 Arg2:T655
+R777	Cueing Arg1:T657 Arg2:T655
+R778	Addressee Arg1:T652 Arg2:T655
+R779	Addressee Arg1:T656 Arg2:T658
+R780	Speaker Arg1:T652 Arg2:T658
+R781	Speaker Arg1:T660 Arg2:T659
+R782	Cueing Arg1:T661 Arg2:T659
+R783	Addressee Arg1:T652 Arg2:T659
+R784	Speaker Arg1:T660 Arg2:T662
+R785	Cueing Arg1:T661 Arg2:T662
+R786	Addressee Arg1:T664 Arg2:T662
+R787	Speaker Arg1:T664 Arg2:T663
+R788	Cueing Arg1:T665 Arg2:T663
+R789	Addressee Arg1:T660 Arg2:T663
+R790	Speaker Arg1:T664 Arg2:T666
+R791	Cueing Arg1:T665 Arg2:T666
+R792	Addressee Arg1:T668 Arg2:T666
+R793	Speaker Arg1:T668 Arg2:T667
+R794	Cueing Arg1:T669 Arg2:T667
+R795	Addressee Arg1:T664 Arg2:T667
+R796	Speaker Arg1:T668 Arg2:T670
+R797	Cueing Arg1:T669 Arg2:T670
+R798	Addressee Arg1:T671 Arg2:T672
+R799	Speaker Arg1:T668 Arg2:T672
+R800	Speaker Arg1:T671 Arg2:T673
+R801	Addressee Arg1:T668 Arg2:T673
+R802	Speaker Arg1:T675 Arg2:T674
+R803	Cueing Arg1:T676 Arg2:T674
+R804	Addressee Arg1:T671 Arg2:T674
+R805	Speaker Arg1:T678 Arg2:T677
+R806	Cueing Arg1:T679 Arg2:T677
+R807	Addressee Arg1:T675 Arg2:T677
+R808	Speaker Arg1:T678 Arg2:T680
+R809	Addressee Arg1:T675 Arg2:T680
+R810	Addressee Arg1:T678 Arg2:T681
+R811	Speaker Arg1:T675 Arg2:T681
+R812	Speaker Arg1:T678 Arg2:T682
+R813	Addressee Arg1:T675 Arg2:T682
+R814	Addressee Arg1:T678 Arg2:T683
+R815	Speaker Arg1:T675 Arg2:T683
+R816	Cueing Arg1:T685 Arg2:T684
+R817	Speaker Arg1:T686 Arg2:T684
+R818	Addressee Arg1:T687 Arg2:T684
+R819	Addressee Arg1:T687 Arg2:T688
+R820	Cueing Arg1:T685 Arg2:T688
+R821	Speaker Arg1:T686 Arg2:T688
+R822	Speaker Arg1:T689 Arg2:T691
+R823	Cueing Arg1:T690 Arg2:T691
+R824	Addressee Arg1:T686 Arg2:T691
+R825	Speaker Arg1:T693 Arg2:T692
+R826	Cueing Arg1:T694 Arg2:T692
+R827	Addressee Arg1:T689 Arg2:T692
+R828	Speaker Arg1:T693 Arg2:T695
+R829	Cueing Arg1:T694 Arg2:T695
+R830	Addressee Arg1:T689 Arg2:T695
+R831	Speaker Arg1:T697 Arg2:T696
+R832	Addressee Arg1:T698 Arg2:T696
+R833	Cueing Arg1:T700 Arg2:T699
+R834	Cueing Arg1:T700 Arg2:T702
+R835	Speaker Arg1:T701 Arg2:T699
+R836	Speaker Arg1:T701 Arg2:T702
+R837	Addressee Arg1:T705 Arg2:T699
+R838	Addressee Arg1:T705 Arg2:T702
+R839	Addressee Arg1:T701 Arg2:T703
+R840	Cueing Arg1:T704 Arg2:T703
+R841	Speaker Arg1:T705 Arg2:T703
+R842	Cueing Arg1:T707 Arg2:T706
+R843	Speaker Arg1:T708 Arg2:T706
+R844	Addressee Arg1:T705 Arg2:T706
+R845	Cueing Arg1:T707 Arg2:T709
+R846	Speaker Arg1:T708 Arg2:T709
+R847	Addressee Arg1:T705 Arg2:T709
+R848	Cueing Arg1:T711 Arg2:T710
+R849	Cueing Arg1:T711 Arg2:T714
+R850	Speaker Arg1:T712 Arg2:T710
+R851	Speaker Arg1:T712 Arg2:T714
+R852	Addressee Arg1:T713 Arg2:T710
+R853	Addressee Arg1:T713 Arg2:T714
+R854	Addressee Arg1:T712 Arg2:T715
+R855	Speaker Arg1:T713 Arg2:T715
+R856	Speaker Arg1:T712 Arg2:T716
+R857	Addressee Arg1:T713 Arg2:T716
+R858	Speaker Arg1:T718 Arg2:T717
+R859	Addressee Arg1:T720 Arg2:T717
+R860	Cueing Arg1:T719 Arg2:T717
+R861	Addressee Arg1:T718 Arg2:T721
+R862	Speaker Arg1:T720 Arg2:T721
+R863	Addressee Arg1:T718 Arg2:T722
+R864	Speaker Arg1:T720 Arg2:T722
+R865	Cueing Arg1:T724 Arg2:T723
+R866	Speaker Arg1:T725 Arg2:T723
+R867	Cueing Arg1:T724 Arg2:T726
+R868	Addressee Arg1:T725 Arg2:T726
+R869	Addressee Arg1:T729 Arg2:T723
+R870	Addressee Arg1:T729 Arg2:T726
+R871	Cueing Arg1:T728 Arg2:T727
+R872	Speaker Arg1:T729 Arg2:T727
+R873	Addressee Arg1:T725 Arg2:T727
+R874	Speaker Arg1:T729 Arg2:T730
+R875	Cueing Arg1:T728 Arg2:T730
+R876	Addressee Arg1:T725 Arg2:T730
+R877	Speaker Arg1:T732 Arg2:T731
+R878	Speaker Arg1:T732 Arg2:T734
+R879	Cueing Arg1:T733 Arg2:T731
+R880	Cueing Arg1:T733 Arg2:T734
+R881	Addressee Arg1:T729 Arg2:T731
+R882	Addressee Arg1:T729 Arg2:T734
+R883	Speaker Arg1:T732 Arg2:T735
+R884	Addressee Arg1:T729 Arg2:T735
+R885	Speaker Arg1:T737 Arg2:T739
+R886	Addressee Arg1:T736 Arg2:T739
+R887	Cueing Arg1:T738 Arg2:T739
+R888	Cueing Arg1:T742 Arg2:T741
+R889	Cueing Arg1:T742 Arg2:T744
+R890	Addressee Arg1:T740 Arg2:T741
+R891	Addressee Arg1:T740 Arg2:T744
+R892	Speaker Arg1:T743 Arg2:T741
+R893	Speaker Arg1:T743 Arg2:T744
+R894	Addressee Arg1:T745 Arg2:T746
+R895	Addressee Arg1:T745 Arg2:T749
+R896	Cueing Arg1:T747 Arg2:T746
+R897	Cueing Arg1:T747 Arg2:T749
+R898	Speaker Arg1:T748 Arg2:T746
+R899	Speaker Arg1:T748 Arg2:T749
+R900	Cueing Arg1:T751 Arg2:T750
+R901	Speaker Arg1:T752 Arg2:T750
+R902	Addressee Arg1:T754 Arg2:T750
+R903	Addressee Arg1:T752 Arg2:T753
+R904	Speaker Arg1:T754 Arg2:T753
+R905	Cueing Arg1:T755 Arg2:T753
+R906	Cueing Arg1:T757 Arg2:T756
+R907	Speaker Arg1:T758 Arg2:T756
+R908	Addressee Arg1:T761 Arg2:T756
+R909	Cueing Arg1:T760 Arg2:T759
+R910	Cueing Arg1:T760 Arg2:T762
+R911	Speaker Arg1:T761 Arg2:T759
+R912	Speaker Arg1:T761 Arg2:T762
+R913	Addressee Arg1:T758 Arg2:T759
+R914	Addressee Arg1:T758 Arg2:T762
+R915	Addressee Arg1:T761 Arg2:T763
+R916	Cueing Arg1:T764 Arg2:T763
+R917	Speaker Arg1:T765 Arg2:T763
+R918	Addressee Arg1:T765 Arg2:T766
+R919	Cueing Arg1:T767 Arg2:T766
+R920	Speaker Arg1:T768 Arg2:T766
+R921	Addressee Arg1:T769 Arg2:T770
+R922	Addressee Arg1:T769 Arg2:T773
+R923	Cueing Arg1:T771 Arg2:T770
+R924	Cueing Arg1:T771 Arg2:T773
+R925	Speaker Arg1:T772 Arg2:T770
+R926	Speaker Arg1:T772 Arg2:T773
+R927	Speaker Arg1:T769 Arg2:T774
+R928	Cueing Arg1:T776 Arg2:T774
+R929	Addressee Arg1:T775 Arg2:T774
+R930	Speaker Arg1:T778 Arg2:T777
+R931	Addressee Arg1:T778 Arg2:T777
+R932	Cueing Arg1:T780 Arg2:T781
+R933	Speaker Arg1:T779 Arg2:T781
+R934	Addressee Arg1:T779 Arg2:T781
+R935	Cueing Arg1:T783 Arg2:T782
+R936	Speaker Arg1:T784 Arg2:T782
+R937	Addressee Arg1:T800 Arg2:T782
+R938	Addressee Arg1:T784 Arg2:T785
+R939	Speaker Arg1:T800 Arg2:T785
+R940	Cueing Arg1:T787 Arg2:T786
+R941	Speaker Arg1:T788 Arg2:T786
+R942	Addressee Arg1:T788 Arg2:T789
+R943	Addressee Arg1:T800 Arg2:T786
+R944	Speaker Arg1:T800 Arg2:T789
+R945	Cueing Arg1:T791 Arg2:T790
+R946	Speaker Arg1:T792 Arg2:T790
+R947	Addressee Arg1:T792 Arg2:T793
+R948	Addressee Arg1:T800 Arg2:T790
+R949	Speaker Arg1:T800 Arg2:T793
+R950	Cueing Arg1:T795 Arg2:T794
+R951	Speaker Arg1:T796 Arg2:T794
+R952	Cueing Arg1:T795 Arg2:T797
+R953	Speaker Arg1:T796 Arg2:T797
+R954	Addressee Arg1:T800 Arg2:T794
+R955	Addressee Arg1:T800 Arg2:T797
+R956	Cueing Arg1:T799 Arg2:T798
+R957	Speaker Arg1:T800 Arg2:T798
+R958	Addressee Arg1:T796 Arg2:T798
+R959	Addressee Arg1:T800 Arg2:T801
+R960	Addressee Arg1:T800 Arg2:T804
+R961	Cueing Arg1:T802 Arg2:T801
+R962	Cueing Arg1:T802 Arg2:T804
+R963	Speaker Arg1:T803 Arg2:T801
+R964	Speaker Arg1:T803 Arg2:T804
+R965	Cueing Arg1:T806 Arg2:T805
+R966	Speaker Arg1:T807 Arg2:T805
+R967	Addressee Arg1:T803 Arg2:T805
+R968	Cueing Arg1:T809 Arg2:T808
+R969	Speaker Arg1:T810 Arg2:T808
+R970	Cueing Arg1:T809 Arg2:T811
+R971	Speaker Arg1:T810 Arg2:T811
+R972	Addressee Arg1:T807 Arg2:T808
+R973	Addressee Arg1:T807 Arg2:T811
+R974	Cueing Arg1:T813 Arg2:T812
+R975	Speaker Arg1:T814 Arg2:T812
+R976	Addressee Arg1:T810 Arg2:T812
+R977	Addressee Arg1:T814 Arg2:T815
+R978	Cueing Arg1:T816 Arg2:T815
+R979	Speaker Arg1:T817 Arg2:T815
+R980	Cueing Arg1:T819 Arg2:T818
+R981	Speaker Arg1:T820 Arg2:T818
+R982	Addressee Arg1:T817 Arg2:T818
+R983	Cueing Arg1:T819 Arg2:T821
+R984	Speaker Arg1:T820 Arg2:T821
+R985	Addressee Arg1:T817 Arg2:T821
+R986	Cueing Arg1:T823 Arg2:T824
+R987	Speaker Arg1:T822 Arg2:T824
+R988	Addressee Arg1:T820 Arg2:T824
+R989	Speaker Arg1:T825 Arg2:T827
+R990	Cueing Arg1:T826 Arg2:T827
+R991	Addressee Arg1:T828 Arg2:T827
+R992	Cueing Arg1:T830 Arg2:T829
+R993	Speaker Arg1:T831 Arg2:T829
+R994	Addressee Arg1:T825 Arg2:T829
+R995	Cueing Arg1:T830 Arg2:T832
+R996	Speaker Arg1:T831 Arg2:T832
+R997	Addressee Arg1:T825 Arg2:T832
+R998	Cueing Arg1:T834 Arg2:T833
+R999	Speaker Arg1:T835 Arg2:T833
+R1000	Addressee Arg1:T831 Arg2:T833
+R1001	Cueing Arg1:T837 Arg2:T836
+R1002	Cueing Arg1:T837 Arg2:T839
+R1003	Speaker Arg1:T838 Arg2:T836
+R1004	Speaker Arg1:T838 Arg2:T839
+R1005	Addressee Arg1:T831 Arg2:T836
+R1006	Addressee Arg1:T831 Arg2:T839
+R1007	Cueing Arg1:T841 Arg2:T840
+R1008	Speaker Arg1:T842 Arg2:T840
+R1009	Addressee Arg1:T845 Arg2:T840
+R1010	Addressee Arg1:T842 Arg2:T843
+R1011	Cueing Arg1:T844 Arg2:T843
+R1012	Cueing Arg1:T844 Arg2:T846
+R1013	Addressee Arg1:T842 Arg2:T846
+R1014	Speaker Arg1:T845 Arg2:T843
+R1015	Speaker Arg1:T845 Arg2:T846
+R1016	Cueing Arg1:T848 Arg2:T847
+R1017	Cueing Arg1:T848 Arg2:T850
+R1018	Speaker Arg1:T849 Arg2:T847
+R1019	Speaker Arg1:T849 Arg2:T850
+R1020	Addressee Arg1:T845 Arg2:T847
+R1021	Addressee Arg1:T845 Arg2:T850
+R1022	Cueing Arg1:T852 Arg2:T851
+R1023	Cueing Arg1:T852 Arg2:T854
+R1024	Speaker Arg1:T853 Arg2:T851
+R1025	Speaker Arg1:T853 Arg2:T854
+R1026	Addressee Arg1:T849 Arg2:T851
+R1027	Addressee Arg1:T845 Arg2:T851
+R1028	Addressee Arg1:T855 Arg2:T854
+R1029	Speaker Arg1:T858 Arg2:T856
+R1030	Cueing Arg1:T857 Arg2:T856
+R1031	Addressee Arg1:T861 Arg2:T856
+R1032	Cueing Arg1:T860 Arg2:T859
+R1033	Addressee Arg1:T858 Arg2:T859
+R1034	Speaker Arg1:T861 Arg2:T859
+R1035	Cueing Arg1:T863 Arg2:T862
+R1036	Speaker Arg1:T864 Arg2:T862
+R1037	Addressee Arg1:T861 Arg2:T862
+R1038	Cueing Arg1:T863 Arg2:T865
+R1039	Speaker Arg1:T864 Arg2:T865
+R1040	Addressee Arg1:T861 Arg2:T865
+R1041	Cueing Arg1:T867 Arg2:T866
+R1042	Speaker Arg1:T868 Arg2:T866
+R1043	Addressee Arg1:T869 Arg2:T866
+R1044	Cueing Arg1:T871 Arg2:T870
+R1045	Cueing Arg1:T871 Arg2:T873
+R1046	Speaker Arg1:T872 Arg2:T870
+R1047	Speaker Arg1:T872 Arg2:T873
+R1048	Addressee Arg1:T868 Arg2:T870
+R1049	Addressee Arg1:T868 Arg2:T873
+R1050	Speaker Arg1:T874 Arg2:T876
+R1051	Speaker Arg1:T874 Arg2:T878
+R1052	Cueing Arg1:T875 Arg2:T876
+R1053	Cueing Arg1:T877 Arg2:T878
+R1054	Addressee Arg1:T868 Arg2:T876
+R1055	Addressee Arg1:T868 Arg2:T878
+R1056	Speaker Arg1:T879 Arg2:T880
+R1057	Cueing Arg1:T881 Arg2:T880
+R1058	Speaker Arg1:T882 Arg2:T884
+R1059	Cueing Arg1:T883 Arg2:T884
+R1060	Speaker Arg1:T886 Arg2:T885
+R1061	Cueing Arg1:T887 Arg2:T885
+R1062	Speaker Arg1:T889 Arg2:T888
+R1063	Cueing Arg1:T890 Arg2:T888
+R1064	Addressee Arg1:T891 Arg2:T888
+R1065	Speaker Arg1:T892 Arg2:T894
+R1066	Cueing Arg1:T893 Arg2:T894
+R1067	Speaker Arg1:T895 Arg2:T896
+R1068	Cueing Arg1:T899 Arg2:T900
+R1069	Speaker Arg1:T898 Arg2:T900
+R1070	Addressee Arg1:T897 Arg2:T900
+R1071	Speaker Arg1:T901 Arg2:T902
+R1072	Addressee Arg1:T897 Arg2:T902
+R1073	Addressee Arg1:T897 Arg2:T903
+R1074	Cueing Arg1:T904 Arg2:T903
+R1075	Speaker Arg1:T905 Arg2:T903
+R1076	Speaker Arg1:T908 Arg2:T906
+R1077	Speaker Arg1:T908 Arg2:T909
+R1078	Cueing Arg1:T907 Arg2:T906
+R1079	Cueing Arg1:T907 Arg2:T909
+R1080	Cueing Arg1:T911 Arg2:T910
+R1081	Addressee Arg1:T912 Arg2:T906
+R1082	Addressee Arg1:T912 Arg2:T909
+R1083	Cueing Arg1:T911 Arg2:T913
+R1084	Speaker Arg1:T912 Arg2:T910
+R1085	Speaker Arg1:T912 Arg2:T913
+R1086	Addressee Arg1:T908 Arg2:T910
+R1087	Addressee Arg1:T908 Arg2:T913
+R1088	Cueing Arg1:T915 Arg2:T914
+R1089	Speaker Arg1:T916 Arg2:T914
+R1090	Cueing Arg1:T915 Arg2:T917
+R1091	Speaker Arg1:T916 Arg2:T917
+R1092	Addressee Arg1:T912 Arg2:T914
+R1093	Addressee Arg1:T912 Arg2:T917
+R1094	Cueing Arg1:T919 Arg2:T918
+R1095	Cueing Arg1:T919 Arg2:T921
+R1096	Speaker Arg1:T920 Arg2:T918
+R1097	Speaker Arg1:T920 Arg2:T921
+R1098	Addressee Arg1:T916 Arg2:T918
+R1099	Addressee Arg1:T916 Arg2:T921
+R1100	Cueing Arg1:T923 Arg2:T922
+R1101	Cueing Arg1:T923 Arg2:T925
+R1102	Speaker Arg1:T924 Arg2:T922
+R1103	Speaker Arg1:T924 Arg2:T925
+R1104	Addressee Arg1:T916 Arg2:T922
+R1105	Addressee Arg1:T916 Arg2:T925
+R1106	Cueing Arg1:T927 Arg2:T926
+R1107	Cueing Arg1:T927 Arg2:T929
+R1108	Speaker Arg1:T928 Arg2:T926
+R1109	Speaker Arg1:T928 Arg2:T929
+R1110	Addressee Arg1:T932 Arg2:T926
+R1111	Addressee Arg1:T932 Arg2:T929
+R1112	Cueing Arg1:T931 Arg2:T930
+R1113	Speaker Arg1:T932 Arg2:T930
+R1114	Speaker Arg1:T932 Arg2:T933
+R1115	Cueing Arg1:T931 Arg2:T933
+R1116	Addressee Arg1:T928 Arg2:T930
+R1117	Addressee Arg1:T928 Arg2:T933
+R1118	Cueing Arg1:T935 Arg2:T934
+R1119	Speaker Arg1:T936 Arg2:T934
+R1120	Cueing Arg1:T935 Arg2:T937
+R1121	Speaker Arg1:T936 Arg2:T937
+R1122	Addressee Arg1:T932 Arg2:T934
+R1123	Addressee Arg1:T932 Arg2:T937
+R1124	Cueing Arg1:T939 Arg2:T938
+R1125	Cueing Arg1:T939 Arg2:T940
+R1126	Addressee Arg1:T936 Arg2:T938
+R1127	Addressee Arg1:T936 Arg2:T940
+R1128	Speaker Arg1:T942 Arg2:T941
+R1129	Speaker Arg1:T942 Arg2:T944
+R1130	Cueing Arg1:T943 Arg2:T941
+R1131	Cueing Arg1:T943 Arg2:T944
+R1132	Speaker Arg1:T932 Arg2:T938
+R1133	Speaker Arg1:T932 Arg2:T940
+R1134	Speaker Arg1:T947 Arg2:T945
+R1135	Speaker Arg1:T947 Arg2:T948
+R1136	Cueing Arg1:T946 Arg2:T945
+R1137	Cueing Arg1:T946 Arg2:T948
+R1138	Addressee Arg1:T947 Arg2:T941
+R1139	Addressee Arg1:T947 Arg2:T944
+R1140	Addressee Arg1:T942 Arg2:T945
+R1141	Addressee Arg1:T942 Arg2:T948
+R1142	Cueing Arg1:T951 Arg2:T952
+R1143	Speaker Arg1:T950 Arg2:T952
+R1144	Addressee Arg1:T949 Arg2:T952
+R1145	Speaker Arg1:T953 Arg2:T955
+R1146	Cueing Arg1:T954 Arg2:T955
+R1147	Addressee Arg1:T949 Arg2:T955
+R1148	Speaker Arg1:T958 Arg2:T957
+R1149	Addressee Arg1:T956 Arg2:T957
+R1150	Cueing Arg1:T960 Arg2:T959
+R1151	Speaker Arg1:T961 Arg2:T959
+R1152	Addressee Arg1:T964 Arg2:T959
+R1153	Cueing Arg1:T963 Arg2:T962
+R1154	Cueing Arg1:T963 Arg2:T965
+R1155	Speaker Arg1:T964 Arg2:T962
+R1156	Speaker Arg1:T964 Arg2:T965
+R1157	Addressee Arg1:T961 Arg2:T962
+R1158	Addressee Arg1:T961 Arg2:T965
+R1159	Addressee Arg1:T966 Arg2:T969
+R1160	Speaker Arg1:T967 Arg2:T969
+R1161	Cueing Arg1:T968 Arg2:T969
+R1162	Speaker Arg1:T966 Arg2:T970
+R1163	Cueing Arg1:T972 Arg2:T973
+R1164	Speaker Arg1:T971 Arg2:T973
+R1165	Speaker Arg1:T974 Arg2:T975
+R1166	Speaker Arg1:T976 Arg2:T977
+R1167	Speaker Arg1:T978 Arg2:T981
+R1168	Cueing Arg1:T979 Arg2:T981
+R1169	Addressee Arg1:T980 Arg2:T981
+R1170	Speaker Arg1:T982 Arg2:T984
+R1171	Speaker Arg1:T982 Arg2:T987
+R1172	Addressee Arg1:T986 Arg2:T984
+R1173	Addressee Arg1:T986 Arg2:T987
+R1174	Cueing Arg1:T983 Arg2:T984
+R1175	Cueing Arg1:T985 Arg2:T987
+R1176	Speaker Arg1:T989 Arg2:T988
+R1177	Cueing Arg1:T991 Arg2:T990
+R1178	Cueing Arg1:T991 Arg2:T993
+R1179	Speaker Arg1:T992 Arg2:T990
+R1180	Speaker Arg1:T992 Arg2:T993
+R1181	Speaker Arg1:T994 Arg2:T995
+R1182	Speaker Arg1:T994 Arg2:T996
+R1183	Speaker Arg1:T999 Arg2:T997
+R1184	Cueing Arg1:T998 Arg2:T997
+R1185	Addressee Arg1:T994 Arg2:T997
+R1186	Addressee Arg1:T994 Arg2:T1000
+R1187	Speaker Arg1:T999 Arg2:T1000
+R1188	Cueing Arg1:T998 Arg2:T1000
+R1189	Cueing Arg1:T1002 Arg2:T1001
+R1190	Speaker Arg1:T1003 Arg2:T1001
+R1191	Addressee Arg1:T999 Arg2:T1001
+R1192	Cueing Arg1:T1005 Arg2:T1004
+R1193	Cueing Arg1:T1005 Arg2:T1007
+R1194	Speaker Arg1:T1006 Arg2:T1004
+R1195	Speaker Arg1:T1006 Arg2:T1007
+R1196	Addressee Arg1:T1010 Arg2:T1004
+R1197	Addressee Arg1:T1010 Arg2:T1007
+R1198	Cueing Arg1:T1009 Arg2:T1008
+R1199	Cueing Arg1:T1009 Arg2:T1011
+R1200	Speaker Arg1:T1010 Arg2:T1008
+R1201	Speaker Arg1:T1010 Arg2:T1011
+R1202	Addressee Arg1:T1006 Arg2:T1008
+R1203	Addressee Arg1:T1006 Arg2:T1011
+R1204	Cueing Arg1:T1013 Arg2:T1012
+R1205	Speaker Arg1:T1014 Arg2:T1012
+R1206	Addressee Arg1:T1010 Arg2:T1012
+R1207	Cueing Arg1:T1013 Arg2:T1015
+R1208	Speaker Arg1:T1014 Arg2:T1015
+R1209	Addressee Arg1:T1010 Arg2:T1015
+R1210	Cueing Arg1:T1017 Arg2:T1016
+R1211	Speaker Arg1:T1018 Arg2:T1016
+R1212	Addressee Arg1:T1014 Arg2:T1016
+R1213	Cueing Arg1:T1020 Arg2:T1021
+R1214	Speaker Arg1:T1019 Arg2:T1021
+R1215	Cueing Arg1:T1023 Arg2:T1022
+R1216	Cueing Arg1:T1023 Arg2:T1025
+R1217	Speaker Arg1:T1024 Arg2:T1022
+R1218	Speaker Arg1:T1024 Arg2:T1025
+R1219	Addressee Arg1:T1018 Arg2:T1022
+R1220	Addressee Arg1:T1018 Arg2:T1025
+R1221	Speaker Arg1:T1028 Arg2:T1026
+R1222	Cueing Arg1:T1027 Arg2:T1026
+R1223	Addressee Arg1:T1024 Arg2:T1026
+R1224	Speaker Arg1:T1029 Arg2:T1031
+R1225	Cueing Arg1:T1030 Arg2:T1031
+R1226	Speaker Arg1:T1034 Arg2:T1032
+R1227	Cueing Arg1:T1033 Arg2:T1032
+R1228	Addressee Arg1:T1029 Arg2:T1032
+R1229	Cueing Arg1:T1033 Arg2:T1035
+R1230	Speaker Arg1:T1034 Arg2:T1035
+R1231	Addressee Arg1:T1036 Arg2:T1035
+R1232	Cueing Arg1:T1038 Arg2:T1037
+R1233	Speaker Arg1:T1039 Arg2:T1037
+R1234	Cueing Arg1:T1038 Arg2:T1040
+R1235	Speaker Arg1:T1039 Arg2:T1040
+R1236	Addressee Arg1:T1041 Arg2:T1040
+R1237	Cueing Arg1:T1043 Arg2:T1042
+R1238	Cueing Arg1:T1043 Arg2:T1045
+R1239	Speaker Arg1:T1044 Arg2:T1042
+R1240	Speaker Arg1:T1044 Arg2:T1045
+R1241	Addressee Arg1:T1041 Arg2:T1045
+R1242	Addressee Arg1:T1039 Arg2:T1042
+R1243	Speaker Arg1:T1046 Arg2:T1048
+R1244	Cueing Arg1:T1047 Arg2:T1048
+R1245	Speaker Arg1:T1050 Arg2:T1052
+R1246	Cueing Arg1:T1051 Arg2:T1052
+R1247	Cueing Arg1:T1053 Arg2:T1054
+R1248	Speaker Arg1:T1055 Arg2:T1054
+R1249	Addressee Arg1:T1049 Arg2:T1054
+R1250	Speaker Arg1:T1056 Arg2:T1057
+R1251	Speaker Arg1:T1056 Arg2:T1059
+R1252	Addressee Arg1:T1058 Arg2:T1059
+R1253	Speaker Arg1:T1060 Arg2:T1062
+R1254	Cueing Arg1:T1061 Arg2:T1062
+R1255	Addressee Arg1:T1056 Arg2:T1062
+R1256	Cueing Arg1:T1064 Arg2:T1063
+R1257	Cueing Arg1:T1064 Arg2:T1066
+R1258	Speaker Arg1:T1065 Arg2:T1063
+R1259	Speaker Arg1:T1065 Arg2:T1066
+R1260	Addressee Arg1:T1060 Arg2:T1063
+R1261	Addressee Arg1:T1060 Arg2:T1066
+R1262	Speaker Arg1:T1067 Arg2:T1069
+R1263	Cueing Arg1:T1068 Arg2:T1069
+R1264	Cueing Arg1:T1071 Arg2:T1070
+R1265	Speaker Arg1:T1072 Arg2:T1070
+R1266	Addressee Arg1:T1067 Arg2:T1070
+R1267	Addressee Arg1:T1072 Arg2:T1069
+R1268	Speaker Arg1:T1067 Arg2:T1073
+R1269	Addressee Arg1:T1072 Arg2:T1073
+R1270	Cueing Arg1:T1075 Arg2:T1074
+R1271	Cueing Arg1:T1075 Arg2:T1077
+R1272	Speaker Arg1:T1076 Arg2:T1074
+R1273	Speaker Arg1:T1076 Arg2:T1077
+R1274	Speaker Arg1:T1079 Arg2:T1078
+R1275	Cueing Arg1:T1080 Arg2:T1078
+R1276	Cueing Arg1:T1082 Arg2:T1081
+R1277	Speaker Arg1:T1083 Arg2:T1081
+R1278	Cueing Arg1:T1082 Arg2:T1084
+R1279	Speaker Arg1:T1083 Arg2:T1084
+R1280	Cueing Arg1:T1086 Arg2:T1085
+R1281	Speaker Arg1:T1087 Arg2:T1085
+R1282	Addressee Arg1:T1090 Arg2:T1085
+R1283	Cueing Arg1:T1089 Arg2:T1088
+R1284	Speaker Arg1:T1090 Arg2:T1088
+R1285	Addressee Arg1:T1087 Arg2:T1088
+R1286	Speaker Arg1:T1090 Arg2:T1091
+R1287	Addressee Arg1:T1087 Arg2:T1091
+R1288	Cueing Arg1:T1089 Arg2:T1091
+R1289	Cueing Arg1:T1093 Arg2:T1092
+R1290	Speaker Arg1:T1094 Arg2:T1092
+R1291	Addressee Arg1:T1090 Arg2:T1092
+R1292	Speaker Arg1:T1090 Arg2:T1095
+R1293	Addressee Arg1:T1094 Arg2:T1095
+R1294	Cueing Arg1:T1097 Arg2:T1096
+R1295	Speaker Arg1:T1098 Arg2:T1096
+R1296	Cueing Arg1:T1097 Arg2:T1099
+R1297	Speaker Arg1:T1098 Arg2:T1099
+R1298	Addressee Arg1:T1101 Arg2:T1096
+R1299	Addressee Arg1:T1101 Arg2:T1099
+R1300	Speaker Arg1:T1101 Arg2:T1100
+R1301	Cueing Arg1:T1102 Arg2:T1100
+R1302	Addressee Arg1:T1098 Arg2:T1100
+R1303	Speaker Arg1:T1101 Arg2:T1103
+R1304	Cueing Arg1:T1102 Arg2:T1103
+R1305	Addressee Arg1:T1098 Arg2:T1103
+R1306	Speaker Arg1:T1106 Arg2:T1104
+R1307	Cueing Arg1:T1105 Arg2:T1104
+R1308	Speaker Arg1:T1108 Arg2:T1107
+R1309	Addressee Arg1:T1111 Arg2:T1107
+R1310	Cueing Arg1:T1110 Arg2:T1109
+R1311	Speaker Arg1:T1111 Arg2:T1109
+R1312	Addressee Arg1:T1108 Arg2:T1109
+R1313	Addressee Arg1:T1108 Arg2:T1112
+R1314	Cueing Arg1:T1113 Arg2:T1112
+R1315	Speaker Arg1:T1114 Arg2:T1112
+R1316	Cueing Arg1:T1113 Arg2:T1115
+R1317	Speaker Arg1:T1114 Arg2:T1115
+R1318	Addressee Arg1:T1118 Arg2:T1115
+R1319	Cueing Arg1:T1117 Arg2:T1116
+R1320	Speaker Arg1:T1118 Arg2:T1116
+R1321	Addressee Arg1:T1121 Arg2:T1116
+R1322	Cueing Arg1:T1120 Arg2:T1119
+R1323	Speaker Arg1:T1121 Arg2:T1119
+R1324	Cueing Arg1:T1120 Arg2:T1122
+R1325	Speaker Arg1:T1121 Arg2:T1122
+R1326	Addressee Arg1:T1118 Arg2:T1119
+R1327	Addressee Arg1:T1118 Arg2:T1122
+R1328	Cueing Arg1:T1124 Arg2:T1123
+R1329	Speaker Arg1:T1125 Arg2:T1123
+R1330	Addressee Arg1:T1126 Arg2:T1123
+R1331	Speaker Arg1:T1128 Arg2:T1127
+R1332	Speaker Arg1:T1128 Arg2:T1130
+R1333	Cueing Arg1:T1129 Arg2:T1127
+R1334	Cueing Arg1:T1129 Arg2:T1130
+R1335	Addressee Arg1:T1126 Arg2:T1127
+R1336	Addressee Arg1:T1126 Arg2:T1130
+R1337	Speaker Arg1:T1132 Arg2:T1133
+R1338	Speaker Arg1:T1132 Arg2:T1135
+R1339	Cueing Arg1:T1134 Arg2:T1133
+R1340	Cueing Arg1:T1134 Arg2:T1135
+R1341	Addressee Arg1:T1131 Arg2:T1133
+R1342	Addressee Arg1:T1131 Arg2:T1135
+R1343	Cueing Arg1:T1137 Arg2:T1136
+R1344	Cueing Arg1:T1137 Arg2:T1139
+R1345	Speaker Arg1:T1138 Arg2:T1136
+R1346	Speaker Arg1:T1138 Arg2:T1139
+R1347	Addressee Arg1:T1140 Arg2:T1136
+R1348	Addressee Arg1:T1140 Arg2:T1139
+R1349	Cueing Arg1:T1142 Arg2:T1141
+R1350	Cueing Arg1:T1142 Arg2:T1144
+R1351	Speaker Arg1:T1143 Arg2:T1141
+R1352	Speaker Arg1:T1143 Arg2:T1144
+R1353	Cueing Arg1:T1146 Arg2:T1145
+R1354	Speaker Arg1:T1147 Arg2:T1145
+R1355	Addressee Arg1:T1147 Arg2:T1141
+R1356	Addressee Arg1:T1147 Arg2:T1144
+R1357	Addressee Arg1:T1143 Arg2:T1145
+R1358	Speaker Arg1:T1143 Arg2:T1148
+R1359	Addressee Arg1:T1147 Arg2:T1148
+R1360	Cueing Arg1:T1150 Arg2:T1149
+R1361	Speaker Arg1:T1151 Arg2:T1149
+R1362	Speaker Arg1:T1151 Arg2:T1152
+R1363	Addressee Arg1:T1143 Arg2:T1149
+R1364	Addressee Arg1:T1143 Arg2:T1152
+R1365	Addressee Arg1:T1151 Arg2:T1141
+R1366	Addressee Arg1:T1151 Arg2:T1144
+R1367	Cueing Arg1:T1154 Arg2:T1153
+R1368	Speaker Arg1:T1155 Arg2:T1153
+R1369	Addressee Arg1:T1151 Arg2:T1153
+R1370	Cueing Arg1:T1157 Arg2:T1156
+R1371	Speaker Arg1:T1158 Arg2:T1156
+R1372	Addressee Arg1:T1155 Arg2:T1156
+R1373	Cueing Arg1:T1160 Arg2:T1159
+R1374	Speaker Arg1:T1161 Arg2:T1159
+R1375	Addressee Arg1:T1158 Arg2:T1159
+R1376	Cueing Arg1:T1160 Arg2:T1162
+R1377	Speaker Arg1:T1161 Arg2:T1162
+R1378	Addressee Arg1:T1158 Arg2:T1162
+R1379	Speaker Arg1:T1161 Arg2:T1163
+R1380	Cueing Arg1:T1164 Arg2:T1163
+R1381	Cueing Arg1:T1164 Arg2:T1165
+R1382	Speaker Arg1:T1161 Arg2:T1165
+R1383	Addressee Arg1:T1158 Arg2:T1163
+R1384	Addressee Arg1:T1158 Arg2:T1165
+R1385	Cueing Arg1:T1167 Arg2:T1166
+R1386	Cueing Arg1:T1167 Arg2:T1169
+R1387	Speaker Arg1:T1168 Arg2:T1166
+R1388	Speaker Arg1:T1168 Arg2:T1169
+R1389	Addressee Arg1:T1161 Arg2:T1166
+R1390	Addressee Arg1:T1161 Arg2:T1169
+R1391	Cueing Arg1:T1171 Arg2:T1170
+R1392	Cueing Arg1:T1171 Arg2:T1173
+R1393	Speaker Arg1:T1172 Arg2:T1170
+R1394	Speaker Arg1:T1172 Arg2:T1173
+R1395	Addressee Arg1:T1147 Arg2:T1170
+R1396	Cueing Arg1:T1175 Arg2:T1174
+R1397	Speaker Arg1:T1176 Arg2:T1174
+R1398	Addressee Arg1:T1179 Arg2:T1174
+R1399	Cueing Arg1:T1178 Arg2:T1177
+R1400	Speaker Arg1:T1179 Arg2:T1177
+R1401	Addressee Arg1:T1176 Arg2:T1177
+R1402	Cueing Arg1:T1181 Arg2:T1180
+R1403	Speaker Arg1:T1182 Arg2:T1180
+R1404	Addressee Arg1:T1179 Arg2:T1180
+R1405	Cueing Arg1:T1181 Arg2:T1183
+R1406	Addressee Arg1:T1179 Arg2:T1183
+R1407	Speaker Arg1:T1182 Arg2:T1183
+R1408	Cueing Arg1:T1185 Arg2:T1184
+R1409	Speaker Arg1:T1186 Arg2:T1184
+R1410	Speaker Arg1:T1186 Arg2:T1187
+R1411	Addressee Arg1:T1182 Arg2:T1184
+R1412	Addressee Arg1:T1182 Arg2:T1187
+R1413	Cueing Arg1:T1185 Arg2:T1187
+R1414	Addressee Arg1:T1186 Arg2:T1188
+R1415	Speaker Arg1:T1182 Arg2:T1188
+R1416	Speaker Arg1:T1186 Arg2:T1189
+R1417	Addressee Arg1:T1182 Arg2:T1189
+R1418	Cueing Arg1:T1191 Arg2:T1190
+R1419	Speaker Arg1:T1192 Arg2:T1190
+R1420	Speaker Arg1:T1192 Arg2:T1193
+R1421	Cueing Arg1:T1191 Arg2:T1193
+R1422	Cueing Arg1:T1195 Arg2:T1194
+R1423	Speaker Arg1:T1196 Arg2:T1194
+R1424	Addressee Arg1:T1192 Arg2:T1194
+R1425	Addressee Arg1:T1196 Arg2:T1190
+R1426	Addressee Arg1:T1196 Arg2:T1193
+R1427	Cueing Arg1:T1195 Arg2:T1197
+R1428	Speaker Arg1:T1196 Arg2:T1197
+R1429	Addressee Arg1:T1192 Arg2:T1197
+R1430	Cueing Arg1:T1199 Arg2:T1198
+R1431	Cueing Arg1:T1199 Arg2:T1201
+R1432	Speaker Arg1:T1200 Arg2:T1198
+R1433	Speaker Arg1:T1200 Arg2:T1201
+R1434	Addressee Arg1:T1204 Arg2:T1198
+R1435	Addressee Arg1:T1204 Arg2:T1201
+R1436	Cueing Arg1:T1203 Arg2:T1202
+R1437	Cueing Arg1:T1203 Arg2:T1205
+R1438	Speaker Arg1:T1204 Arg2:T1202
+R1439	Speaker Arg1:T1204 Arg2:T1205
+R1440	Addressee Arg1:T1200 Arg2:T1202
+R1441	Addressee Arg1:T1200 Arg2:T1205
+R1442	Addressee Arg1:T1204 Arg2:T1206
+R1443	Speaker Arg1:T1200 Arg2:T1206
+R1444	Cueing Arg1:T1208 Arg2:T1207
+R1445	Speaker Arg1:T1209 Arg2:T1207
+R1446	Cueing Arg1:T1208 Arg2:T1210
+R1447	Speaker Arg1:T1196 Arg2:T1207
+R1448	Addressee Arg1:T1200 Arg2:T1207
+R1449	Speaker Arg1:T1209 Arg2:T1210
+R1450	Addressee Arg1:T1200 Arg2:T1210
+R1451	Cueing Arg1:T1212 Arg2:T1211
+R1452	Cueing Arg1:T1212 Arg2:T1214
+R1453	Speaker Arg1:T1213 Arg2:T1211
+R1454	Speaker Arg1:T1213 Arg2:T1214
+R1455	Addressee Arg1:T1209 Arg2:T1211
+R1456	Addressee Arg1:T1209 Arg2:T1214
+R1457	Cueing Arg1:T1216 Arg2:T1215
+R1458	Speaker Arg1:T1217 Arg2:T1215
+R1459	Addressee Arg1:T1213 Arg2:T1215
+R1460	Cueing Arg1:T1219 Arg2:T1218
+R1461	Speaker Arg1:T1220 Arg2:T1218
+R1462	Addressee Arg1:T1217 Arg2:T1218
+R1463	Cueing Arg1:T1219 Arg2:T1221
+R1464	Speaker Arg1:T1220 Arg2:T1221
+R1465	Addressee Arg1:T1217 Arg2:T1221
+R1466	Cueing Arg1:T1223 Arg2:T1222
+R1467	Speaker Arg1:T1224 Arg2:T1222
+R1468	Addressee Arg1:T1220 Arg2:T1222
+R1469	Cueing Arg1:T1223 Arg2:T1225
+R1470	Speaker Arg1:T1224 Arg2:T1225
+R1471	Addressee Arg1:T1220 Arg2:T1225
+R1472	Cueing Arg1:T1227 Arg2:T1226
+R1473	Speaker Arg1:T1228 Arg2:T1226
+R1474	Speaker Arg1:T1228 Arg2:T1229
+R1475	Cueing Arg1:T1227 Arg2:T1229
+R1476	Addressee Arg1:T1224 Arg2:T1229
+R1477	Addressee Arg1:T1196 Arg2:T1229
+R1478	Cueing Arg1:T1231 Arg2:T1230
+R1479	Speaker Arg1:T1232 Arg2:T1230
+R1480	Cueing Arg1:T1231 Arg2:T1233
+R1481	Speaker Arg1:T1232 Arg2:T1233
+R1482	Addressee Arg1:T1228 Arg2:T1230
+R1483	Addressee Arg1:T1228 Arg2:T1233
+R1484	Addressee Arg1:T1234 Arg2:T1235
+R1485	Addressee Arg1:T1234 Arg2:T1238
+R1486	Cueing Arg1:T1236 Arg2:T1235
+R1487	Cueing Arg1:T1236 Arg2:T1238
+R1488	Speaker Arg1:T1237 Arg2:T1235
+R1489	Speaker Arg1:T1237 Arg2:T1238
+R1490	Cueing Arg1:T1240 Arg2:T1239
+R1491	Speaker Arg1:T1241 Arg2:T1239
+R1492	Addressee Arg1:T1237 Arg2:T1239
+R1493	Cueing Arg1:T1243 Arg2:T1242
+R1494	Cueing Arg1:T1243 Arg2:T1245
+R1495	Speaker Arg1:T1244 Arg2:T1242
+R1496	Speaker Arg1:T1244 Arg2:T1245
+R1497	Addressee Arg1:T1241 Arg2:T1242
+R1498	Addressee Arg1:T1241 Arg2:T1245
+R1499	Cueing Arg1:T1247 Arg2:T1246
+R1500	Cueing Arg1:T1247 Arg2:T1249
+R1501	Speaker Arg1:T1248 Arg2:T1246
+R1502	Speaker Arg1:T1248 Arg2:T1249
+R1503	Addressee Arg1:T1244 Arg2:T1246
+R1504	Addressee Arg1:T1244 Arg2:T1249
+R1505	Cueing Arg1:T1251 Arg2:T1250
+R1506	Speaker Arg1:T1252 Arg2:T1250
+R1507	Addressee Arg1:T1248 Arg2:T1250
+R1508	Cueing Arg1:T1254 Arg2:T1253
+R1509	Cueing Arg1:T1254 Arg2:T1256
+R1510	Speaker Arg1:T1255 Arg2:T1253
+R1511	Speaker Arg1:T1255 Arg2:T1256
+R1512	Addressee Arg1:T1252 Arg2:T1253
+R1513	Addressee Arg1:T1252 Arg2:T1256
+R1514	Cueing Arg1:T1258 Arg2:T1257
+R1515	Cueing Arg1:T1258 Arg2:T1260
+R1516	Speaker Arg1:T1259 Arg2:T1257
+R1517	Speaker Arg1:T1259 Arg2:T1260
+R1518	Addressee Arg1:T1255 Arg2:T1257
+R1519	Addressee Arg1:T1255 Arg2:T1260
+R1520	Cueing Arg1:T1262 Arg2:T1261
+R1521	Speaker Arg1:T1263 Arg2:T1261
+R1522	Addressee Arg1:T1259 Arg2:T1261
+R1523	Cueing Arg1:T1262 Arg2:T1264
+R1524	Speaker Arg1:T1263 Arg2:T1264
+R1525	Addressee Arg1:T1259 Arg2:T1264
+R1526	Cueing Arg1:T1266 Arg2:T1265
+R1527	Speaker Arg1:T1267 Arg2:T1265
+R1528	Addressee Arg1:T1263 Arg2:T1265
+R1529	Cueing Arg1:T1269 Arg2:T1268
+R1530	Speaker Arg1:T1270 Arg2:T1268
+R1531	Addressee Arg1:T1267 Arg2:T1268
+R1532	Cueing Arg1:T1269 Arg2:T1271
+R1533	Speaker Arg1:T1270 Arg2:T1271
+R1534	Addressee Arg1:T1267 Arg2:T1271
+R1535	Cueing Arg1:T1273 Arg2:T1272
+R1536	Speaker Arg1:T1274 Arg2:T1272
+R1537	Addressee Arg1:T1270 Arg2:T1272
+R1538	Cueing Arg1:T1276 Arg2:T1275
+R1539	Speaker Arg1:T1277 Arg2:T1275
+R1540	Addressee Arg1:T1274 Arg2:T1275
+R1541	Cueing Arg1:T1276 Arg2:T1278
+R1542	Speaker Arg1:T1277 Arg2:T1278
+R1543	Addressee Arg1:T1274 Arg2:T1278
+R1544	Cueing Arg1:T1280 Arg2:T1279
+R1545	Speaker Arg1:T1281 Arg2:T1279
+R1546	Addressee Arg1:T1277 Arg2:T1279
+R1547	Addressee Arg1:T1281 Arg2:T1282
+R1548	Cueing Arg1:T1283 Arg2:T1282
+R1549	Speaker Arg1:T1284 Arg2:T1282
+R1550	Cueing Arg1:T1283 Arg2:T1285
+R1551	Speaker Arg1:T1284 Arg2:T1285
+R1552	Addressee Arg1:T1281 Arg2:T1285
+R1553	Cueing Arg1:T1287 Arg2:T1286
+R1554	Speaker Arg1:T1288 Arg2:T1286
+R1555	Addressee Arg1:T1289 Arg2:T1286
+R1556	Cueing Arg1:T1287 Arg2:T1290
+R1557	Speaker Arg1:T1288 Arg2:T1290
+R1558	Addressee Arg1:T1289 Arg2:T1290
+R1559	Cueing Arg1:T1292 Arg2:T1291
+R1560	Speaker Arg1:T1293 Arg2:T1291
+R1561	Cueing Arg1:T1292 Arg2:T1294
+R1562	Speaker Arg1:T1293 Arg2:T1294
+R1563	Addressee Arg1:T1295 Arg2:T1291
+R1564	Addressee Arg1:T1295 Arg2:T1294
+R1565	Cueing Arg1:T1297 Arg2:T1296
+R1566	Cueing Arg1:T1297 Arg2:T1298
+R1567	Addressee Arg1:T1299 Arg2:T1296
+R1568	Addressee Arg1:T1299 Arg2:T1298
+R1569	Speaker Arg1:T1301 Arg2:T1296
+R1570	Speaker Arg1:T1301 Arg2:T1298
+R1571	Speaker Arg1:T1301 Arg2:T1300
+R1572	Speaker Arg1:T1301 Arg2:T1303
+R1573	Cueing Arg1:T1302 Arg2:T1300
+R1574	Cueing Arg1:T1302 Arg2:T1303
+R1575	Addressee Arg1:T1299 Arg2:T1300
+R1576	Addressee Arg1:T1299 Arg2:T1303
+R1577	Cueing Arg1:T1305 Arg2:T1304
+R1578	Cueing Arg1:T1305 Arg2:T1307
+R1579	Speaker Arg1:T1306 Arg2:T1304
+R1580	Speaker Arg1:T1306 Arg2:T1307
+R1581	Addressee Arg1:T1299 Arg2:T1304
+R1582	Addressee Arg1:T1299 Arg2:T1307
+R1583	Speaker Arg1:T1310 Arg2:T1309
+R1584	Speaker Arg1:T1310 Arg2:T1312
+R1585	Cueing Arg1:T1311 Arg2:T1309
+R1586	Cueing Arg1:T1311 Arg2:T1312
+R1587	Addressee Arg1:T1308 Arg2:T1309
+R1588	Addressee Arg1:T1308 Arg2:T1312
+R1589	Cueing Arg1:T1314 Arg2:T1313
+R1590	Speaker Arg1:T1308 Arg2:T1313
+R1591	Addressee Arg1:T1310 Arg2:T1313
+R1592	Speaker Arg1:T1310 Arg2:T1315
+R1593	Addressee Arg1:T1308 Arg2:T1315
+R1594	Addressee Arg1:T1310 Arg2:T1316
+R1595	Speaker Arg1:T1308 Arg2:T1316
+R1596	Speaker Arg1:T1318 Arg2:T1317
+R1597	Speaker Arg1:T1318 Arg2:T1320
+R1598	Cueing Arg1:T1319 Arg2:T1317
+R1599	Cueing Arg1:T1319 Arg2:T1320
+R1600	Addressee Arg1:T1323 Arg2:T1317
+R1601	Addressee Arg1:T1323 Arg2:T1320
+R1602	Cueing Arg1:T1322 Arg2:T1321
+R1603	Cueing Arg1:T1322 Arg2:T1324
+R1604	Speaker Arg1:T1323 Arg2:T1321
+R1605	Speaker Arg1:T1323 Arg2:T1324
+R1606	Addressee Arg1:T1318 Arg2:T1321
+R1607	Addressee Arg1:T1318 Arg2:T1324
+R1608	Speaker Arg1:T1323 Arg2:T1325
+R1609	Addressee Arg1:T1318 Arg2:T1325
+R1610	Addressee Arg1:T1323 Arg2:T1326
+R1611	Speaker Arg1:T1318 Arg2:T1326
+R1612	Speaker Arg1:T1323 Arg2:T1327
+R1613	Addressee Arg1:T1318 Arg2:T1327
+R1614	Addressee Arg1:T1328 Arg2:T1329
+R1615	Speaker Arg1:T1331 Arg2:T1329
+R1616	Cueing Arg1:T1330 Arg2:T1329
+R1617	Speaker Arg1:T1331 Arg2:T1332
+R1618	Cueing Arg1:T1330 Arg2:T1332
+R1619	Addressee Arg1:T1328 Arg2:T1332
+R1620	Addressee Arg1:T1334 Arg2:T1335
+R1621	Speaker Arg1:T1333 Arg2:T1335
+R1622	Cueing Arg1:T1337 Arg2:T1336
+R1623	Speaker Arg1:T1340 Arg2:T1336
+R1624	Cueing Arg1:T1339 Arg2:T1338
+R1625	Speaker Arg1:T1340 Arg2:T1338
+R1626	Cueing Arg1:T1339 Arg2:T1341
+R1627	Speaker Arg1:T1340 Arg2:T1341
+R1628	Addressee Arg1:T1343 Arg2:T1338
+R1629	Addressee Arg1:T1343 Arg2:T1341
+R1630	Addressee Arg1:T1340 Arg2:T1342
+R1631	Speaker Arg1:T1343 Arg2:T1342
+R1632	Cueing Arg1:T1344 Arg2:T1342
+R1633	Speaker Arg1:T1343 Arg2:T1345
+R1634	Cueing Arg1:T1344 Arg2:T1345
+R1635	Addressee Arg1:T1340 Arg2:T1345
+R1636	Addressee Arg1:T1343 Arg2:T1347
+R1637	Cueing Arg1:T1346 Arg2:T1347
+R1638	Speaker Arg1:T1340 Arg2:T1347
+R1639	Cueing Arg1:T1349 Arg2:T1348
+R1640	Cueing Arg1:T1349 Arg2:T1351
+R1641	Speaker Arg1:T1350 Arg2:T1348
+R1642	Speaker Arg1:T1350 Arg2:T1351
+R1643	Addressee Arg1:T1340 Arg2:T1348
+R1644	Addressee Arg1:T1340 Arg2:T1351
+R1645	Addressee Arg1:T1340 Arg2:T1352
+R1646	Cueing Arg1:T1353 Arg2:T1352
+R1647	Speaker Arg1:T1354 Arg2:T1352
+R1648	Cueing Arg1:T1356 Arg2:T1355
+R1649	Cueing Arg1:T1356 Arg2:T1357
+R1650	Addressee Arg1:T1350 Arg2:T1355
+R1651	Addressee Arg1:T1350 Arg2:T1357
+R1652	Speaker Arg1:T1340 Arg2:T1355
+R1653	Speaker Arg1:T1340 Arg2:T1357
+R1654	Speaker Arg1:T1358 Arg2:T1361
+R1655	Cueing Arg1:T1362 Arg2:T1361
+R1656	Addressee Arg1:T1360 Arg2:T1361
+R1657	Cueing Arg1:T1364 Arg2:T1363
+R1658	Speaker Arg1:T1365 Arg2:T1363
+R1659	Addressee Arg1:T1368 Arg2:T1363
+R1660	Speaker Arg1:T1368 Arg2:T1366
+R1661	Cueing Arg1:T1367 Arg2:T1366
+R1662	Addressee Arg1:T1365 Arg2:T1366
+R1663	Cueing Arg1:T1370 Arg2:T1369
+R1664	Cueing Arg1:T1370 Arg2:T1372
+R1665	Speaker Arg1:T1371 Arg2:T1369
+R1666	Speaker Arg1:T1371 Arg2:T1372
+R1667	Addressee Arg1:T1365 Arg2:T1369
+R1668	Addressee Arg1:T1365 Arg2:T1372
+R1669	Speaker Arg1:T1359 Arg2:T1373
+R1670	Speaker Arg1:T1374 Arg2:T1375
+R1671	Addressee Arg1:T1359 Arg2:T1375
+R1672	Cueing Arg1:T1377 Arg2:T1376
+R1673	Speaker Arg1:T1378 Arg2:T1376
+R1674	Addressee Arg1:T1359 Arg2:T1376
+R1675	Cueing Arg1:T1380 Arg2:T1379
+R1676	Cueing Arg1:T1380 Arg2:T1382
+R1677	Speaker Arg1:T1381 Arg2:T1379
+R1678	Speaker Arg1:T1381 Arg2:T1382
+R1679	Addressee Arg1:T1359 Arg2:T1379
+R1680	Addressee Arg1:T1359 Arg2:T1382
+R1681	Speaker Arg1:T1399 Arg2:T1383
+R1682	Addressee Arg1:T1381 Arg2:T1383
+R1683	Cueing Arg1:T1385 Arg2:T1384
+R1684	Speaker Arg1:T1386 Arg2:T1384
+R1685	Addressee Arg1:T1399 Arg2:T1384
+R1686	Cueing Arg1:T1388 Arg2:T1387
+R1687	Speaker Arg1:T1389 Arg2:T1387
+R1688	Addressee Arg1:T1386 Arg2:T1387
+R1689	Cueing Arg1:T1391 Arg2:T1390
+R1690	Speaker Arg1:T1392 Arg2:T1390
+R1691	Addressee Arg1:T1389 Arg2:T1390
+R1692	Cueing Arg1:T1394 Arg2:T1393
+R1693	Speaker Arg1:T1395 Arg2:T1393
+R1694	Cueing Arg1:T1394 Arg2:T1396
+R1695	Speaker Arg1:T1395 Arg2:T1396
+R1696	Addressee Arg1:T1399 Arg2:T1393
+R1697	Addressee Arg1:T1399 Arg2:T1396
+R1698	Cueing Arg1:T1398 Arg2:T1397
+R1699	Speaker Arg1:T1399 Arg2:T1397
+R1700	Addressee Arg1:T1395 Arg2:T1397
+R1701	Cueing Arg1:T1401 Arg2:T1400
+R1702	Cueing Arg1:T1401 Arg2:T1403
+R1703	Speaker Arg1:T1402 Arg2:T1400
+R1704	Speaker Arg1:T1402 Arg2:T1403
+R1705	Addressee Arg1:T1399 Arg2:T1400
+R1706	Addressee Arg1:T1399 Arg2:T1403
+R1707	Cueing Arg1:T1405 Arg2:T1404
+R1708	Speaker Arg1:T1406 Arg2:T1404
+R1709	Addressee Arg1:T1389 Arg2:T1404
+R1710	Cueing Arg1:T1408 Arg2:T1407
+R1711	Cueing Arg1:T1408 Arg2:T1410
+R1712	Speaker Arg1:T1409 Arg2:T1407
+R1713	Speaker Arg1:T1409 Arg2:T1410
+R1714	Addressee Arg1:T1413 Arg2:T1407
+R1715	Addressee Arg1:T1413 Arg2:T1410
+R1716	Cueing Arg1:T1412 Arg2:T1411
+R1717	Speaker Arg1:T1413 Arg2:T1411
+R1718	Addressee Arg1:T1409 Arg2:T1411
+R1719	Cueing Arg1:T1415 Arg2:T1414
+R1720	Cueing Arg1:T1415 Arg2:T1417
+R1721	Speaker Arg1:T1416 Arg2:T1414
+R1722	Speaker Arg1:T1416 Arg2:T1417
+R1723	Addressee Arg1:T1420 Arg2:T1414
+R1724	Addressee Arg1:T1420 Arg2:T1417
+R1725	Speaker Arg1:T1420 Arg2:T1418
+R1726	Addressee Arg1:T1416 Arg2:T1418
+R1727	Cueing Arg1:T1419 Arg2:T1418
+R1728	Cueing Arg1:T1422 Arg2:T1424
+R1729	Cueing Arg1:T1422 Arg2:T1421
+R1730	Speaker Arg1:T1423 Arg2:T1421
+R1731	Speaker Arg1:T1423 Arg2:T1424
+R1732	Addressee Arg1:T1420 Arg2:T1421
+R1733	Addressee Arg1:T1420 Arg2:T1424
+R1734	Speaker Arg1:T1426 Arg2:T1425
+R1735	Cueing Arg1:T1427 Arg2:T1425
+R1736	Addressee Arg1:T1423 Arg2:T1425
+R1737	Cueing Arg1:T1429 Arg2:T1428
+R1738	Cueing Arg1:T1429 Arg2:T1431
+R1739	Speaker Arg1:T1430 Arg2:T1428
+R1740	Speaker Arg1:T1430 Arg2:T1431
+R1741	Addressee Arg1:T1426 Arg2:T1428
+R1742	Addressee Arg1:T1426 Arg2:T1431
+R1743	Cueing Arg1:T1433 Arg2:T1432
+R1744	Cueing Arg1:T1433 Arg2:T1435
+R1745	Speaker Arg1:T1434 Arg2:T1432
+R1746	Speaker Arg1:T1434 Arg2:T1435
+R1747	Addressee Arg1:T1436 Arg2:T1432
+R1748	Addressee Arg1:T1436 Arg2:T1435
+R1749	Cueing Arg1:T1439 Arg2:T1438
+R1750	Cueing Arg1:T1439 Arg2:T1441
+R1751	Speaker Arg1:T1440 Arg2:T1438
+R1752	Speaker Arg1:T1440 Arg2:T1441
+R1753	Addressee Arg1:T1437 Arg2:T1438
+R1754	Addressee Arg1:T1437 Arg2:T1441
+R1755	Speaker Arg1:T1444 Arg2:T1443
+R1756	Speaker Arg1:T1444 Arg2:T1446
+R1757	Cueing Arg1:T1445 Arg2:T1443
+R1758	Cueing Arg1:T1445 Arg2:T1446
+R1759	Addressee Arg1:T1442 Arg2:T1443
+R1760	Addressee Arg1:T1442 Arg2:T1446
+R1761	Addressee Arg1:T1447 Arg2:T1448
+R1762	Addressee Arg1:T1447 Arg2:T1451
+R1763	Cueing Arg1:T1449 Arg2:T1448
+R1764	Cueing Arg1:T1449 Arg2:T1451
+R1765	Speaker Arg1:T1450 Arg2:T1448
+R1766	Speaker Arg1:T1450 Arg2:T1451
+R1767	Addressee Arg1:T1452 Arg2:T1453
+R1768	Addressee Arg1:T1452 Arg2:T1456
+R1769	Cueing Arg1:T1454 Arg2:T1453
+R1770	Cueing Arg1:T1454 Arg2:T1456
+R1771	Speaker Arg1:T1455 Arg2:T1453
+R1772	Speaker Arg1:T1455 Arg2:T1456
+R1773	Addressee Arg1:T1457 Arg2:T1459
+R1774	Cueing Arg1:T1460 Arg2:T1459
+R1775	Speaker Arg1:T1458 Arg2:T1459
+R1776	Speaker Arg1:T1458 Arg2:T1461
+R1777	Addressee Arg1:T1457 Arg2:T1461
+R1778	Cueing Arg1:T1463 Arg2:T1462
+R1779	Cueing Arg1:T1463 Arg2:T1464
+R1780	Speaker Arg1:T1458 Arg2:T1462
+R1781	Speaker Arg1:T1458 Arg2:T1464
+R1782	Addressee Arg1:T1457 Arg2:T1462
+R1783	Addressee Arg1:T1457 Arg2:T1464
+R1784	Cueing Arg1:T1466 Arg2:T1465
+R1785	Cueing Arg1:T1466 Arg2:T1467
+R1786	Addressee Arg1:T1457 Arg2:T1465
+R1787	Addressee Arg1:T1457 Arg2:T1467
+R1788	Speaker Arg1:T1458 Arg2:T1465
+R1789	Speaker Arg1:T1458 Arg2:T1467
+R1790	Addressee Arg1:T1457 Arg2:T1468
+R1791	Speaker Arg1:T1458 Arg2:T1468
+R1792	Speaker Arg1:T1470 Arg2:T1469
+R1793	Cueing Arg1:T1471 Arg2:T1469
+R1794	Speaker Arg1:T1470 Arg2:T1472
+R1795	Cueing Arg1:T1471 Arg2:T1472
+R1796	Cueing Arg1:T1474 Arg2:T1473
+R1797	Cueing Arg1:T1474 Arg2:T1476
+R1798	Speaker Arg1:T1475 Arg2:T1473
+R1799	Speaker Arg1:T1475 Arg2:T1476
+R1800	Cueing Arg1:T1478 Arg2:T1477
+R1801	Speaker Arg1:T1479 Arg2:T1477
+R1802	Cueing Arg1:T1478 Arg2:T1480
+R1803	Speaker Arg1:T1479 Arg2:T1480
+R1804	Cueing Arg1:T1482 Arg2:T1481
+R1805	Speaker Arg1:T1483 Arg2:T1481
+R1806	Cueing Arg1:T1482 Arg2:T1484
+R1807	Speaker Arg1:T1483 Arg2:T1484
+R1808	Cueing Arg1:T1486 Arg2:T1485
+R1809	Speaker Arg1:T1487 Arg2:T1485
+R1810	Cueing Arg1:T1486 Arg2:T1488
+R1811	Speaker Arg1:T1487 Arg2:T1488
+R1812	Cueing Arg1:T1490 Arg2:T1489
+R1813	Speaker Arg1:T1491 Arg2:T1489
+R1814	Addressee Arg1:T1492 Arg2:T1489
+R1815	Cueing Arg1:T1494 Arg2:T1493
+R1816	Speaker Arg1:T1492 Arg2:T1493
+R1817	Addressee Arg1:T1491 Arg2:T1493
+R1818	Addressee Arg1:T1492 Arg2:T1495
+R1819	Cueing Arg1:T1496 Arg2:T1495
+R1820	Speaker Arg1:T1497 Arg2:T1495
+R1821	Cueing Arg1:T1499 Arg2:T1498
+R1822	Cueing Arg1:T1499 Arg2:T1500
+R1823	Addressee Arg1:T1497 Arg2:T1498
+R1824	Addressee Arg1:T1497 Arg2:T1500
+R1825	Speaker Arg1:T1492 Arg2:T1500
+R1826	Cueing Arg1:T1502 Arg2:T1501
+R1827	Speaker Arg1:T1503 Arg2:T1501
+R1828	Speaker Arg1:T1503 Arg2:T1504
+R1829	Cueing Arg1:T1502 Arg2:T1504
+R1830	Addressee Arg1:T1492 Arg2:T1504
+R1831	Cueing Arg1:T1506 Arg2:T1505
+R1832	Addressee Arg1:T1503 Arg2:T1505
+R1833	Speaker Arg1:T1492 Arg2:T1505
+R1834	Speaker Arg1:T1508 Arg2:T1507
+R1835	Cueing Arg1:T1509 Arg2:T1507
+R1836	Addressee Arg1:T1492 Arg2:T1507
+R1837	Cueing Arg1:T1511 Arg2:T1510
+R1838	Addressee Arg1:T1508 Arg2:T1510
+R1839	Speaker Arg1:T1492 Arg2:T1510
+R1840	Cueing Arg1:T1513 Arg2:T1512
+R1841	Cueing Arg1:T1513 Arg2:T1515
+R1842	Speaker Arg1:T1514 Arg2:T1512
+R1843	Speaker Arg1:T1514 Arg2:T1515
+R1844	Addressee Arg1:T1492 Arg2:T1512
+R1845	Addressee Arg1:T1492 Arg2:T1515
+R1846	Addressee Arg1:T1514 Arg2:T1516
+R1847	Cueing Arg1:T1517 Arg2:T1516
+R1848	Speaker Arg1:T1492 Arg2:T1516
+R1849	Cueing Arg1:T1519 Arg2:T1518
+R1850	Speaker Arg1:T1520 Arg2:T1518
+R1851	Cueing Arg1:T1519 Arg2:T1521
+R1852	Speaker Arg1:T1520 Arg2:T1521
+R1853	Addressee Arg1:T1492 Arg2:T1521
+R1854	Addressee Arg1:T1520 Arg2:T1522
+R1855	Cueing Arg1:T1523 Arg2:T1522
+R1856	Speaker Arg1:T1492 Arg2:T1522
+R1857	Cueing Arg1:T1525 Arg2:T1524
+R1858	Speaker Arg1:T1526 Arg2:T1524
+R1859	Cueing Arg1:T1525 Arg2:T1527
+R1860	Speaker Arg1:T1526 Arg2:T1527
+R1861	Addressee Arg1:T1492 Arg2:T1524
+R1862	Addressee Arg1:T1492 Arg2:T1527
+R1863	Cueing Arg1:T1529 Arg2:T1528
+R1864	Addressee Arg1:T1526 Arg2:T1528
+R1865	Speaker Arg1:T1492 Arg2:T1528
+R1866	Cueing Arg1:T1531 Arg2:T1530
+R1867	Cueing Arg1:T1531 Arg2:T1533
+R1868	Speaker Arg1:T1532 Arg2:T1530
+R1869	Speaker Arg1:T1532 Arg2:T1533
+R1870	Addressee Arg1:T1492 Arg2:T1530
+R1871	Addressee Arg1:T1492 Arg2:T1533
+R1872	Cueing Arg1:T1535 Arg2:T1534
+R1873	Speaker Arg1:T1536 Arg2:T1534
+R1874	Speaker Arg1:T1536 Arg2:T1537
+R1875	Cueing Arg1:T1535 Arg2:T1537
+R1876	Cueing Arg1:T1539 Arg2:T1538
+R1877	Speaker Arg1:T1540 Arg2:T1538
+R1878	Speaker Arg1:T1540 Arg2:T1541
+R1879	Cueing Arg1:T1543 Arg2:T1542
+R1880	Cueing Arg1:T1543 Arg2:T1545
+R1881	Speaker Arg1:T1544 Arg2:T1542
+R1882	Speaker Arg1:T1544 Arg2:T1545
+R1883	Cueing Arg1:T1547 Arg2:T1548
+R1884	Speaker Arg1:T1546 Arg2:T1548
+R1885	Addressee Arg1:T1549 Arg2:T1548
+R1886	Speaker Arg1:T1550 Arg2:T1552
+R1887	Cueing Arg1:T1551 Arg2:T1552
+R1888	Addressee Arg1:T1549 Arg2:T1552
+R1889	Cueing Arg1:T1554 Arg2:T1553
+R1890	Cueing Arg1:T1554 Arg2:T1556
+R1891	Speaker Arg1:T1555 Arg2:T1553
+R1892	Speaker Arg1:T1555 Arg2:T1556
+R1893	Addressee Arg1:T1550 Arg2:T1553
+R1894	Addressee Arg1:T1550 Arg2:T1556
+R1895	Addressee Arg1:T1555 Arg2:T1557
+R1896	Speaker Arg1:T1550 Arg2:T1557
+R1897	Cueing Arg1:T1559 Arg2:T1558
+R1898	Speaker Arg1:T1560 Arg2:T1558
+R1899	Speaker Arg1:T1560 Arg2:T1561
+R1900	Cueing Arg1:T1562 Arg2:T1561
+R1901	Addressee Arg1:T1550 Arg2:T1558
+R1902	Addressee Arg1:T1550 Arg2:T1561
+R1903	Cueing Arg1:T1564 Arg2:T1563
+R1904	Cueing Arg1:T1564 Arg2:T1566
+R1905	Speaker Arg1:T1565 Arg2:T1563
+R1906	Speaker Arg1:T1565 Arg2:T1566
+R1907	Addressee Arg1:T1560 Arg2:T1563
+R1908	Addressee Arg1:T1560 Arg2:T1566
+R1909	Cueing Arg1:T1568 Arg2:T1567
+R1910	Cueing Arg1:T1568 Arg2:T1570
+R1911	Speaker Arg1:T1569 Arg2:T1567
+R1912	Speaker Arg1:T1569 Arg2:T1570
+R1913	Addressee Arg1:T1565 Arg2:T1567
+R1914	Addressee Arg1:T1569 Arg2:T1570
+R1915	Cueing Arg1:T1572 Arg2:T1571
+R1916	Cueing Arg1:T1572 Arg2:T1573
+R1917	Addressee Arg1:T1569 Arg2:T1571
+R1918	Addressee Arg1:T1569 Arg2:T1573
+R1919	Speaker Arg1:T1565 Arg2:T1571
+R1920	Speaker Arg1:T1565 Arg2:T1573
+R1921	Cueing Arg1:T1575 Arg2:T1574
+R1922	Cueing Arg1:T1575 Arg2:T1577
+R1923	Speaker Arg1:T1576 Arg2:T1574
+R1924	Speaker Arg1:T1576 Arg2:T1577
+R1925	Addressee Arg1:T1565 Arg2:T1574
+R1926	Addressee Arg1:T1565 Arg2:T1577
+R1927	Cueing Arg1:T1579 Arg2:T1578
+R1928	Speaker Arg1:T1580 Arg2:T1578
+R1929	Addressee Arg1:T1576 Arg2:T1578
+R1930	Cueing Arg1:T1582 Arg2:T1581
+R1931	Cueing Arg1:T1582 Arg2:T1584
+R1932	Speaker Arg1:T1583 Arg2:T1581
+R1933	Speaker Arg1:T1583 Arg2:T1584
+R1934	Addressee Arg1:T1580 Arg2:T1581
+R1935	Addressee Arg1:T1580 Arg2:T1584
+R1936	Cueing Arg1:T1586 Arg2:T1585
+R1937	Speaker Arg1:T1587 Arg2:T1585
+R1938	Addressee Arg1:T1588 Arg2:T1585
+R1939	Speaker Arg1:T1588 Arg2:T1589
+R1940	Addressee Arg1:T1587 Arg2:T1589
+R1941	Cueing Arg1:T1591 Arg2:T1590
+R1942	Speaker Arg1:T1592 Arg2:T1590
+R1943	Addressee Arg1:T1588 Arg2:T1590
+R1944	Addressee Arg1:T1592 Arg2:T1593
+R1945	Speaker Arg1:T1588 Arg2:T1593
+R1946	Cueing Arg1:T1595 Arg2:T1594
+R1947	Cueing Arg1:T1595 Arg2:T1597
+R1948	Speaker Arg1:T1596 Arg2:T1594
+R1949	Speaker Arg1:T1596 Arg2:T1597
+R1950	Addressee Arg1:T1588 Arg2:T1594
+R1951	Addressee Arg1:T1588 Arg2:T1597
+R1952	Cueing Arg1:T1599 Arg2:T1598
+R1953	Speaker Arg1:T1600 Arg2:T1598
+R1954	Addressee Arg1:T1603 Arg2:T1598
+R1955	Cueing Arg1:T1602 Arg2:T1601
+R1956	Speaker Arg1:T1603 Arg2:T1601
+R1957	Cueing Arg1:T1602 Arg2:T1604
+R1958	Speaker Arg1:T1603 Arg2:T1604
+R1959	Addressee Arg1:T1600 Arg2:T1604
+R1960	Addressee Arg1:T1603 Arg2:T1605
+R1961	Speaker Arg1:T1600 Arg2:T1605
+R1962	Cueing Arg1:T1607 Arg2:T1606
+R1963	Cueing Arg1:T1607 Arg2:T1609
+R1964	Speaker Arg1:T1608 Arg2:T1606
+R1965	Speaker Arg1:T1608 Arg2:T1609
+R1966	Cueing Arg1:T1611 Arg2:T1610
+R1967	Addressee Arg1:T1612 Arg2:T1606
+R1968	Addressee Arg1:T1612 Arg2:T1609
+R1969	Speaker Arg1:T1612 Arg2:T1610
+R1970	Addressee Arg1:T1608 Arg2:T1610
+R1971	Cueing Arg1:T1611 Arg2:T1613
+R1972	Speaker Arg1:T1612 Arg2:T1613
+R1973	Addressee Arg1:T1616 Arg2:T1613
+R1974	Cueing Arg1:T1615 Arg2:T1614
+R1975	Speaker Arg1:T1616 Arg2:T1614
+R1976	Addressee Arg1:T1612 Arg2:T1614
+R1977	Speaker Arg1:T1616 Arg2:T1617
+R1978	Addressee Arg1:T1612 Arg2:T1617
+R1979	Cueing Arg1:T1619 Arg2:T1618
+R1980	Speaker Arg1:T1620 Arg2:T1618
+R1981	Addressee Arg1:T1616 Arg2:T1618
+R1982	Speaker Arg1:T1620 Arg2:T1621
+R1983	Cueing Arg1:T1619 Arg2:T1621
+R1984	Addressee Arg1:T1616 Arg2:T1621
+R1985	Cueing Arg1:T1623 Arg2:T1622
+R1986	Cueing Arg1:T1623 Arg2:T1625
+R1987	Speaker Arg1:T1624 Arg2:T1622
+R1988	Speaker Arg1:T1624 Arg2:T1625
+R1989	Addressee Arg1:T1620 Arg2:T1622
+R1990	Addressee Arg1:T1620 Arg2:T1625
+R1991	Cueing Arg1:T1623 Arg2:T1626
+R1992	Speaker Arg1:T1624 Arg2:T1626
+R1993	Addressee Arg1:T1620 Arg2:T1626
+R1994	Cueing Arg1:T1628 Arg2:T1627
+R1995	Speaker Arg1:T1629 Arg2:T1627
+R1996	Addressee Arg1:T1620 Arg2:T1627
+R1997	Cueing Arg1:T1628 Arg2:T1630
+R1998	Speaker Arg1:T1629 Arg2:T1630
+R1999	Addressee Arg1:T1620 Arg2:T1630

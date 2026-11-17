@@ -1,0 +1,29 @@
+=== booknlp: character-level dialogue match (threshold=0.9) — RiQuA corpus (merged gold) ===
+
+Dialogue is the positive class. A predicted quote is correct (TP) when its best character-level
+similarity to any gold quote in the same novel is >= threshold. FN = gold quotes nothing matched.
+
+=== Per-Novel Results ===
+Book                Pred  Gold   TP   FP   FN    Prec    Rec     F1
+-------------------------------------------------------------------
+austen_emma_1         45    44   44    1    0   0.978  1.000  0.989
+austen_emma_2        232   240  223    9   17   0.961  0.929  0.945
+austen_emma_3        461   468  437   24   31   0.948  0.934  0.941
+chekhov_lady          81    74   66   15   10   0.815  0.868  0.841
+chekhov_monk         194   185  179   15    6   0.923  0.968  0.945
+chekhov_steppe       628   650  594   34   57   0.946  0.912  0.929
+dickens_xmas         566   708  198  368  506   0.350  0.281  0.312
+doyle_boscombe       206   238  203    3   35   0.985  0.853  0.914
+doyle_identity       164   167  164    0    3   1.000  0.982  0.991
+doyle_league         191   251  186    5   64   0.974  0.744  0.844
+doyle_scandal        268   274  261    7   12   0.974  0.956  0.965
+flaubert_bovary_1   1072  1040  930  142  111   0.868  0.893  0.880
+flaubert_bovary_2    777   788  681   96  108   0.876  0.863  0.870
+twain_sawyer_1       324   298  285   39   13   0.880  0.956  0.916
+twain_sawyer_2       594   538  519   75   19   0.874  0.965  0.917
+
+=== Corpus Totals (micro-averaged over all quotes) ===
+Predicted quotes: 5803   Gold quotes: 5963
+TP=4970  FP=833  FN=992
+Precision: 0.856   Recall: 0.834   F1: 0.845
+Unmatched gold quotes (missed dialogue): 992

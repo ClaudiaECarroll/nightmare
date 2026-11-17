@@ -1,0 +1,1121 @@
+T1	Quotation 11 17	"TOM!"
+T2	Quotation 29 35	"TOM!"
+T3	Quotation 47 95	"What's gone with that boy,  I wonder? You TOM!"
+T4	Entity 107 119	The old lady
+T5	Entity 296 301	a boy
+R1	Speaker Arg1:T4 Arg2:T1	
+R2	Speaker Arg1:T4 Arg2:T2	
+R3	Speaker Arg1:T4 Arg2:T3	
+R4	Addressee Arg1:T5 Arg2:T1	
+R5	Addressee Arg1:T5 Arg2:T2	
+R6	Addressee Arg1:T5 Arg2:T3	
+T6	Entity 458 461	She
+T7	Cue 502 506	said
+T8	Quotation 571 614	"Well, I lay if I get hold of you I'll -- "
+R7	Cueing Arg1:T7 Arg2:T8	
+R8	Speaker Arg1:T6 Arg2:T8	
+R9	Addressee Arg1:T5 Arg2:T8	
+T9	Quotation 809 848	"I never did see the beat of that boy!"
+T10	Entity 772 775	She
+T11	Entity 981 984	Tom
+R10	Speaker Arg1:T10 Arg2:T9	
+R11	Addressee Arg1:T11 Arg2:T9	
+T12	Entity 989 992	she
+T13	Quotation 1062 1076	"Y-o-u-u TOM!"
+T14	Entity 1150 1161	a small boy
+R12	Speaker Arg1:T12 Arg2:T13	
+T15	Cue 1053 1060	shouted
+R13	Cueing Arg1:T15 Arg2:T13	
+R14	Addressee Arg1:T14 Arg2:T13	
+T16	Quotation 1216 1290	"There! I might 'a' thought of that closet. What you been doing in there?"
+T17	Entity 1117 1120	she
+R15	Speaker Arg1:T17 Arg2:T16	
+R16	Addressee Arg1:T14 Arg2:T16	
+T18	Quotation 1291 1301	"Nothing."
+R17	Speaker Arg1:T14 Arg2:T18	
+R18	Addressee Arg1:T17 Arg2:T18	
+T19	Quotation 1302 1376	"Nothing! Look at your hands. And look at your mouth. What IS that truck?"
+R19	Speaker Arg1:T17 Arg2:T19	
+R20	Addressee Arg1:T14 Arg2:T19	
+T20	Quotation 1377 1398	"I don't know, aunt."
+R21	Speaker Arg1:T17 Arg2:T20	
+R22	Addressee Arg1:T17 Arg2:T20	
+T21	Quotation 1399 1534	"Well, I know. It's jam-- that's what it is. Forty times I've said if you didn't let that jam alone I'd skin you. Hand me that switch."
+R23	Speaker Arg1:T17 Arg2:T21	
+R24	Addressee Arg1:T14 Arg2:T21	
+T22	Quotation 1593 1621	"My! Look behind you, aunt!"
+R25	Addressee Arg1:T17 Arg2:T22	
+R26	Speaker Arg1:T14 Arg2:T22	
+T23	Quotation 1855 3295	"Hang the boy, can't I never learn anything? Ain't he played me tricks enough like that for me to be looking out for him by this time? But old fools is the biggest fools there is. Can't learn an old dog new tricks, as the saying is. But my goodness, he never plays them alike, two days, and how is a body to know what's coming? He 'pears to know just how long he can torment me before I get my dander up, and he knows if he can make out to put me off for a minute or make me laugh, it's all down again and I can't hit him a lick. I ain't doing my duty by that boy, and that's the Lord's truth, goodness knows. Spare the rod and spile the child, as the Good Book says. I'm a laying up sin and suffering for us both, I know. He's full of the Old Scratch, but laws-a-me! he's my own dead sister's boy, poor thing, and I ain't got the heart to lash him, somehow. Every time I let him off, my conscience does hurt me so, and every time I hit him my old heart most breaks. Well-a-well, man that is born of woman is of few days and full of trouble, as the Scripture says, and I reckon it's so. He'll play hookey this evening, * and [* Southwestern for "afternoon"] I'll just be obleeged to make him work, to-morrow, to punish him. It's mighty hard to make him work Saturdays, when all the boys is having holiday, but he hates work more than he hates anything else, and I've GOT to do some of my duty by him, or I'll be the ruination of the child."
+T24	Entity 1782 1792	aunt Polly
+R27	Speaker Arg1:T24 Arg2:T23	
+T25	Cue 4183 4187	Said
+T26	Entity 4188 4191	she
+T27	Quotation 4193 4242	"Tom, it was middling warm in school, warn't it?"
+R28	Speaker Arg1:T26 Arg2:T27	
+R29	Cueing Arg1:T25 Arg2:T27	
+T28	Quotation 4243 4251	"Yes'm."
+T29	Entity 3766 3769	Tom
+R30	Addressee Arg1:T29 Arg2:T27	
+R31	Speaker Arg1:T29 Arg2:T28	
+R32	Addressee Arg1:T26 Arg2:T28	
+T30	Quotation 4252 4279	"Powerful warm, warn't it?"
+R33	Addressee Arg1:T29 Arg2:T30	
+R34	Speaker Arg1:T26 Arg2:T30	
+T31	Quotation 4280 4288	"Yes'm."
+R35	Addressee Arg1:T26 Arg2:T31	
+R36	Speaker Arg1:T29 Arg2:T31	
+T32	Quotation 4289 4332	"Didn't you want to go in a-swimming, Tom?"
+R37	Speaker Arg1:T26 Arg2:T32	
+R38	Addressee Arg1:T29 Arg2:T32	
+T33	Entity 4465 4467	he
+T34	Cue 4468 4472	said
+T35	Quotation 4474 4503	"No'm-- well, not very much."
+R39	Cueing Arg1:T34 Arg2:T35	
+R40	Speaker Arg1:T33 Arg2:T35	
+T36	Entity 4418 4428	Aunt Polly
+R41	Addressee Arg1:T36 Arg2:T35	
+T37	Quotation 4570 4607	"But you ain't too warm now, though."
+T38	Entity 4504 4516	The old lady
+T39	Entity 4547 4550	Tom
+T40	Cue 4564 4568	said
+R42	Speaker Arg1:T38 Arg2:T37	
+R43	Addressee Arg1:T39 Arg2:T37	
+R44	Cueing Arg1:T40 Arg2:T37	
+T41	Quotation 4853 4909	"Some of us pumped on our heads-- mine's damp yet. See?"
+T42	Entity 4809 4811	he
+T43	Entity 4910 4920	Aunt Polly
+R45	Speaker Arg1:T42 Arg2:T41	
+R46	Addressee Arg1:T43 Arg2:T41	
+T44	Entity 5021 5024	she
+T45	Quotation 5048 5167	"Tom, you didn't have to undo your shirt collar where I sewed it, to pump on your head, did you? Unbutton your jacket!"
+R47	Speaker Arg1:T44 Arg2:T45	
+T46	Entity 5196 5199	Tom
+R48	Addressee Arg1:T46 Arg2:T45	
+T47	Quotation 5267 5468	"Bother! Well, go 'long with you. I'd made sure you'd played hookey and been a-swimming. But I forgive ye, Tom. I reckon you're a kind of a singed cat, as the saying is-- better'n you look. THIS time."
+R49	Addressee Arg1:T46 Arg2:T47	
+T48	Entity 5469 5472	She
+R50	Speaker Arg1:T48 Arg2:T47	
+T49	Entity 5589 5595	Sidney
+T50	Cue 5596 5600	said
+T51	Quotation 5602 5688	"Well, now, if I didn't think you sewed his collar with white thread, but it's black."
+R51	Cueing Arg1:T50 Arg2:T51	
+R52	Speaker Arg1:T49 Arg2:T51	
+R53	Addressee Arg1:T48 Arg2:T51	
+T52	Quotation 5689 5725	"Why, I did sew it with white! Tom!"
+R54	Speaker Arg1:T48 Arg2:T52	
+T53	Entity 5730 5733	Tom
+R55	Addressee Arg1:T53 Arg2:T52	
+T54	Entity 5788 5790	he
+T55	Cue 5791 5795	said
+T56	Quotation 5797 5829	"Siddy, I'll lick you for that."
+R56	Speaker Arg1:T54 Arg2:T56	
+R57	Cueing Arg1:T55 Arg2:T56	
+R58	Addressee Arg1:T49 Arg2:T56	
+T57	Entity 6013 6015	He
+T58	Cue 6016 6020	said
+T59	Quotation 6022 6288	"She'd never noticed if it hadn't been for Sid. Confound it! sometimes she sews it with white, and sometimes she sews it with black. I wish to geeminy she'd stick to one or t'other -- I can't keep the run of 'em. But I bet you I'll lam Sid for that. I'll learn him!"
+R59	Speaker Arg1:T57 Arg2:T59	
+R60	Cueing Arg1:T58 Arg2:T59	
+T60	Entity 8381 8384	Tom
+T61	Cue 8385 8389	said
+T62	Quotation 8391 8408	"I can lick you!"
+R61	Cueing Arg1:T61 Arg2:T62	
+R62	Speaker Arg1:T60 Arg2:T62	
+T63	Entity 8019 8021	He
+R63	Addressee Arg1:T63 Arg2:T62	
+T64	Quotation 8409 8438	"I'd like to see you try it."
+R64	Addressee Arg1:T60 Arg2:T64	
+R65	Speaker Arg1:T63 Arg2:T64	
+T65	Quotation 8439 8459	"Well, I can do it."
+R66	Speaker Arg1:T60 Arg2:T65	
+R67	Addressee Arg1:T63 Arg2:T65	
+T66	Quotation 8460 8483	"No you can't, either."
+R68	Addressee Arg1:T60 Arg2:T66	
+R69	Speaker Arg1:T63 Arg2:T66	
+T67	Quotation 8484 8496	"Yes I can."
+R70	Speaker Arg1:T60 Arg2:T67	
+R71	Addressee Arg1:T63 Arg2:T67	
+T68	Quotation 8497 8512	"No you can't."
+R72	Addressee Arg1:T60 Arg2:T68	
+R73	Speaker Arg1:T63 Arg2:T68	
+T69	Quotation 8513 8521	"I can."
+R74	Speaker Arg1:T60 Arg2:T69	
+R75	Addressee Arg1:T63 Arg2:T69	
+T70	Quotation 8522 8534	"You can't."
+R76	Speaker Arg1:T63 Arg2:T70	
+R77	Addressee Arg1:T60 Arg2:T70	
+T71	Quotation 8535 8541	"Can!"
+R78	Speaker Arg1:T60 Arg2:T71	
+R79	Addressee Arg1:T63 Arg2:T71	
+T72	Quotation 8542 8550	"Can't!"
+R80	Speaker Arg1:T63 Arg2:T72	
+R81	Addressee Arg1:T60 Arg2:T72	
+T73	Entity 8580 8583	Tom
+T74	Cue 8584 8588	said
+T75	Quotation 8590 8609	"What's your name?"
+R82	Speaker Arg1:T73 Arg2:T75	
+R83	Cueing Arg1:T74 Arg2:T75	
+R84	Addressee Arg1:T63 Arg2:T75	
+T76	Quotation 8610 8648	"'Tisn't any of your business, maybe."
+R85	Addressee Arg1:T73 Arg2:T76	
+R86	Speaker Arg1:T63 Arg2:T76	
+T77	Quotation 8649 8688	"Well I 'low I'll MAKE it my business."
+R87	Speaker Arg1:T73 Arg2:T77	
+R88	Addressee Arg1:T63 Arg2:T77	
+T78	Quotation 8689 8710	"Well why don't you?"
+R89	Addressee Arg1:T73 Arg2:T78	
+R90	Speaker Arg1:T63 Arg2:T78	
+T79	Quotation 8711 8737	"If you say much, I will."
+R91	Speaker Arg1:T73 Arg2:T79	
+R92	Addressee Arg1:T63 Arg2:T79	
+T80	Quotation 8738 8770	"Much-- much-- MUCH. There now."
+R93	Addressee Arg1:T73 Arg2:T80	
+R94	Speaker Arg1:T63 Arg2:T80	
+T81	Quotation 8771 8881	"Oh, you think you're mighty smart, DON'T you? I could lick you with one hand tied behind me, if I wanted to."
+R95	Speaker Arg1:T73 Arg2:T81	
+R96	Addressee Arg1:T63 Arg2:T81	
+T82	Quotation 8882 8932	"Well why don't you DO it? You SAY you can do it."
+R97	Addressee Arg1:T73 Arg2:T82	
+R98	Speaker Arg1:T63 Arg2:T82	
+T83	Quotation 8933 8968	"Well I WILL, if you fool with me."
+R99	Speaker Arg1:T73 Arg2:T83	
+R100	Addressee Arg1:T63 Arg2:T83	
+T84	Quotation 8969 9021	"Oh yes-- I've seen whole families in the same fix."
+R101	Addressee Arg1:T73 Arg2:T84	
+R102	Speaker Arg1:T63 Arg2:T84	
+T85	Quotation 9022 9086	"Smarty! You think you're SOME, now, DON'T you? Oh, what a hat!"
+R103	Speaker Arg1:T73 Arg2:T85	
+R104	Addressee Arg1:T63 Arg2:T85	
+T86	Quotation 9087 9209	"You can lump that hat if you don't like it. I dare you to knock it off-- and anybody that'll take a dare will suck eggs."
+R105	Addressee Arg1:T73 Arg2:T86	
+R106	Speaker Arg1:T63 Arg2:T86	
+T87	Quotation 9210 9226	"You're a liar!"
+R107	Speaker Arg1:T60 Arg2:T87	
+R108	Addressee Arg1:T63 Arg2:T87	
+T88	Quotation 9227 9244	"You're another."
+R109	Addressee Arg1:T73 Arg2:T88	
+R110	Speaker Arg1:T63 Arg2:T88	
+T89	Quotation 9245 9292	"You're a fighting liar and dasn't take it up."
+R111	Speaker Arg1:T73 Arg2:T89	
+R112	Addressee Arg1:T63 Arg2:T89	
+T90	Quotation 9293 9312	"Aw-- take a walk!"
+R113	Addressee Arg1:T73 Arg2:T90	
+R114	Speaker Arg1:T63 Arg2:T90	
+T91	Quotation 9313 9403	"Say-- if you give me much more of your sass I'll take and bounce a rock off'n your head."
+R115	Speaker Arg1:T73 Arg2:T91	
+R116	Addressee Arg1:T63 Arg2:T91	
+T92	Quotation 9404 9429	"Oh, of COURSE you will."
+R117	Addressee Arg1:T73 Arg2:T92	
+R118	Speaker Arg1:T63 Arg2:T92	
+T93	Quotation 9430 9444	"Well I WILL."
+R119	Speaker Arg1:T73 Arg2:T93	
+R120	Addressee Arg1:T63 Arg2:T93	
+T94	Quotation 9445 9564	"Well why don't you DO it then? What do you keep SAYING you will for? Why don't you DO it? It's because you're afraid."
+R121	Addressee Arg1:T73 Arg2:T94	
+R122	Speaker Arg1:T63 Arg2:T94	
+T95	Quotation 9565 9582	"I AIN'T afraid."
+R123	Speaker Arg1:T73 Arg2:T95	
+R124	Addressee Arg1:T63 Arg2:T95	
+T96	Quotation 9583 9593	"You are."
+R125	Addressee Arg1:T73 Arg2:T96	
+R126	Speaker Arg1:T63 Arg2:T96	
+T97	Quotation 9594 9604	"I ain't."
+R127	Speaker Arg1:T73 Arg2:T97	
+R128	Addressee Arg1:T63 Arg2:T97	
+T98	Quotation 9605 9615	"You are."
+R129	Addressee Arg1:T73 Arg2:T98	
+R130	Speaker Arg1:T63 Arg2:T98	
+T99	Entity 9719 9722	Tom
+T100	Cue 9723 9727	said
+T101	Quotation 9729 9750	"Get away from here!"
+R131	Speaker Arg1:T99 Arg2:T101	
+R132	Cueing Arg1:T100 Arg2:T101	
+T102	Quotation 9751 9770	"Go away yourself!"
+R133	Addressee Arg1:T63 Arg2:T101	
+R134	Addressee Arg1:T99 Arg2:T102	
+R135	Speaker Arg1:T63 Arg2:T102	
+T103	Quotation 9771 9781	"I won't."
+R136	Speaker Arg1:T99 Arg2:T103	
+R137	Addressee Arg1:T63 Arg2:T103	
+T104	Quotation 9782 9799	"I won't either."
+R138	Addressee Arg1:T99 Arg2:T104	
+R139	Speaker Arg1:T63 Arg2:T104	
+T105	Entity 10076 10079	Tom
+T106	Cue 10080 10084	said
+T107	Quotation 10086 10223	"You're a coward and a pup. I'll tell my big brother on you, and he can thrash you with his little finger, and I'll make him do it, too."
+R140	Speaker Arg1:T105 Arg2:T107	
+R141	Cueing Arg1:T106 Arg2:T107	
+R142	Addressee Arg1:T63 Arg2:T107	
+T108	Quotation 10224 10364	"What do I care for your big brother? I've got a brother that's bigger than he is-- and what's more, he can throw him over that fence, too."
+T109	Entity 10625 10636	The new boy
+T110	Entity 10448 10451	Tom
+R143	Addressee Arg1:T110 Arg2:T108	
+R144	Speaker Arg1:T109 Arg2:T108	
+T111	Quotation 10397 10412	"That's a lie."
+R145	Speaker Arg1:T110 Arg2:T111	
+R146	Addressee Arg1:T109 Arg2:T111	
+T112	Quotation 10413 10447	"YOUR saying so don't make it so."
+R147	Addressee Arg1:T110 Arg2:T112	
+R148	Speaker Arg1:T109 Arg2:T112	
+T113	Cue 10498 10502	said
+T114	Quotation 10504 10624	"I dare you to step over that, and I'll lick you till you can't stand up. Anybody that'll take a dare will steal sheep."
+R149	Cueing Arg1:T113 Arg2:T114	
+R150	Speaker Arg1:T110 Arg2:T114	
+R151	Addressee Arg1:T109 Arg2:T114	
+T115	Cue 10664 10668	said
+T116	Quotation 10670 10722	"Now you said you'd do it, now let's see you do it."
+R152	Cueing Arg1:T115 Arg2:T116	
+R153	Speaker Arg1:T109 Arg2:T116	
+R154	Addressee Arg1:T110 Arg2:T116	
+T117	Quotation 10723 10769	"Don't you crowd me now; you better look out."
+R155	Addressee Arg1:T109 Arg2:T117	
+R156	Speaker Arg1:T110 Arg2:T117	
+T118	Quotation 10770 10821	"Well, you SAID you'd do it-- why don't you do it?"
+R157	Speaker Arg1:T109 Arg2:T118	
+R158	Addressee Arg1:T110 Arg2:T118	
+T119	Quotation 10822 10861	"By jingo! for two cents I WILL do it."
+R159	Addressee Arg1:T109 Arg2:T119	
+R160	Speaker Arg1:T110 Arg2:T119	
+T120	Quotation 11380 11395	"Holler 'nuff!"
+T121	Cue 11396 11400	said
+T122	Entity 11401 11403	he
+T123	Entity 11305 11308	Tom
+R161	Cueing Arg1:T121 Arg2:T120	
+R162	Speaker Arg1:T122 Arg2:T120	
+R163	Addressee Arg1:T123 Arg2:T120	
+T124	Quotation 11479 11494	"Holler 'nuff!"
+T125	Entity 11445 11447	He
+R164	Speaker Arg1:T125 Arg2:T124	
+R165	Addressee Arg1:T123 Arg2:T124	
+T126	Entity 11531 11543	the stranger
+T127	Quotation 11564 11572	"'Nuff!"
+R166	Speaker Arg1:T126 Arg2:T127	
+T128	Entity 11577 11580	Tom
+R167	Addressee Arg1:T128 Arg2:T127	
+T129	Cue 11596 11600	said
+T130	Quotation 11602 11677	"Now that'll learn you. Better look out who you're fooling with next time."
+R168	Cueing Arg1:T129 Arg2:T130	
+T131	Entity 11585 11588	him
+R169	Addressee Arg1:T131 Arg2:T130	
+R170	Speaker Arg1:T128 Arg2:T130	
+T132	Entity 11678 11689	The new boy
+T133	Entity 11842 11845	Tom
+T134	Quotation 11850 11880	"next time he caught him out."
+R171	Addressee Arg1:T133 Arg2:T134	
+R172	Speaker Arg1:T132 Arg2:T134	
+T135	Entity 12334 12352	the enemy's mother
+T136	Cue 12367 12373	called
+T137	Entity 12374 12377	Tom
+T138	Quotation 12378 12406	a bad, vicious, vulgar child
+R173	Speaker Arg1:T135 Arg2:T138	
+R174	Cueing Arg1:T136 Arg2:T138	
+R175	Addressee Arg1:T137 Arg2:T138	
+T139	Entity 12451 12453	he
+T140	Cue 12454 12458	said
+T141	Quotation 12462 12470	"'lowed"
+T142	Quotation 12474 12479	"lay"
+R176	Speaker Arg1:T139 Arg2:T141	
+R177	Speaker Arg1:T139 Arg2:T142	
+R178	Cueing Arg1:T140 Arg2:T141	
+R179	Cueing Arg1:T140 Arg2:T142	
+R180	Addressee Arg1:T135 Arg2:T141	
+R181	Addressee Arg1:T135 Arg2:T142	
+T143	Entity 14405 14408	Tom
+T144	Cue 14409 14413	said
+T145	Quotation 14415 14473	"Say, Jim, I'll fetch the water if you'll whitewash some."
+T146	Entity 14474 14477	Jim
+R182	Speaker Arg1:T143 Arg2:T145	
+R183	Cueing Arg1:T144 Arg2:T145	
+R184	Addressee Arg1:T146 Arg2:T145	
+T147	Cue 14497 14501	said
+T148	Quotation 14503 14773	"Can't, Mars Tom. Ole missis, she tole me I got to go an' git dis water an' not stop foolin' roun' wid anybody. She say she spec' Mars Tom gwine to ax me to whitewash, an' so she tole me go 'long an' 'tend to my own business-- she 'lowed SHE'D 'tend to de whitewashin'."
+R185	Cueing Arg1:T147 Arg2:T148	
+R186	Speaker Arg1:T146 Arg2:T148	
+R187	Addressee Arg1:T143 Arg2:T148	
+T149	Quotation 14774 14921	"Oh, never you mind what she said, Jim. That's the way she always talks. Gimme the bucket -- I won't be gone only a a minute. SHE won't ever know."
+R188	Addressee Arg1:T146 Arg2:T149	
+R189	Speaker Arg1:T143 Arg2:T149	
+T150	Quotation 14922 15012	"Oh, I dasn't, Mars Tom. Ole missis she'd take an' tar de head off'n me. 'Deed she would."
+R190	Speaker Arg1:T146 Arg2:T150	
+R191	Addressee Arg1:T143 Arg2:T150	
+T151	Quotation 15013 15263	"SHE! She never licks anybody-- whacks 'em over the head with her thimble-- and who cares for that, I'd like to know. She talks awful, but talk don't hurt-- anyways it don't if she don't cry. Jim, I'll give you a marvel. I'll give you a white alley!"
+R192	Addressee Arg1:T146 Arg2:T151	
+R193	Speaker Arg1:T143 Arg2:T151	
+T152	Quotation 15284 15325	"White alley, Jim! And it's a bully taw."
+T153	Entity 15264 15267	Jim
+R194	Speaker Arg1:T153 Arg2:T152	
+R195	Addressee Arg1:T143 Arg2:T152	
+T154	Quotation 15326 15418	"My! Dat's a mighty gay marvel, I tell you! But Mars Tom I's powerful 'fraid ole missis -- "
+R196	Speaker Arg1:T153 Arg2:T154	
+R197	Addressee Arg1:T146 Arg2:T154	
+T155	Quotation 15419 15472	"And besides, if you will I'll show you my sore toe."
+R198	Addressee Arg1:T153 Arg2:T155	
+R199	Speaker Arg1:T143 Arg2:T155	
+T156	Quotation 17425 17459	"Stop her, sir! Ting-a-ling-ling!"
+T157	Entity 17326 17328	he
+R200	Speaker Arg1:T157 Arg2:T156	
+T158	Quotation 17531 17567	"Ship up to back! Ting-a-ling-ling!"
+R201	Speaker Arg1:T157 Arg2:T158	
+T159	Quotation 17620 17695	"Set her back on the stabboard! Ting-a-ling-ling! Chow! ch-chow-wow! Chow!"
+R202	Speaker Arg1:T157 Arg2:T159	
+T160	Quotation 17795 17865	"Let her go back on the labboard! Ting-a-lingling! Chow-ch-chow-chow!"
+R203	Speaker Arg1:T157 Arg2:T160	
+T161	Quotation 17907 18318	"Stop the stabboard! Ting-a-ling-ling! Stop the labboard! Come ahead on the stabboard! Stop her! Let your outside turn over slow! Ting-a-ling-ling! Chow-ow-ow! Get out that head-line! LIVELY now! Come-- out with your spring-line-- what're you about there! Take a turn round that stump with the bight of it! Stand by that stage, now-- let her go! Done with the engines, sir! Ting-a-ling-ling! SH'T! S'H'T! SH'T!"
+R204	Speaker Arg1:T157 Arg2:T161	
+T162	Quotation 18443 18481	"Hi-YI! YOU'RE up a stump, ain't you!"
+T163	Entity 18408 18411	Ben
+T164	Cue 18437 18441	said
+T165	Entity 18345 18348	Tom
+R205	Cueing Arg1:T164 Arg2:T162	
+R206	Speaker Arg1:T163 Arg2:T162	
+R207	Addressee Arg1:T165 Arg2:T162	
+T166	Entity 18721 18724	Ben
+T167	Cue 18725 18729	said
+T168	Quotation 18731 18771	"Hello, old chap, you got to work, hey?"
+R208	Cueing Arg1:T167 Arg2:T168	
+R209	Speaker Arg1:T166 Arg2:T168	
+T169	Entity 18772 18775	Tom
+R210	Addressee Arg1:T169 Arg2:T168	
+T170	Cue 18797 18801	said
+T171	Quotation 18803 18843	"Why, it's you, Ben! I warn't noticing."
+R211	Cueing Arg1:T170 Arg2:T171	
+R212	Speaker Arg1:T169 Arg2:T171	
+R213	Addressee Arg1:T166 Arg2:T171	
+T172	Quotation 18844 18975	"Say-- I'm going in a-swimming, I am. Don't you wish you could? But of course you'd druther WORK-- wouldn't you? Course you would!"
+R214	Addressee Arg1:T169 Arg2:T172	
+R215	Speaker Arg1:T166 Arg2:T172	
+T173	Entity 18976 18979	Tom
+T174	Cue 19012 19016	said
+T175	Entity 18993 19000	the boy
+T176	Quotation 19018 19042	"What do you call work?"
+R216	Speaker Arg1:T173 Arg2:T176	
+R217	Addressee Arg1:T175 Arg2:T176	
+R218	Cueing Arg1:T174 Arg2:T176	
+T177	Quotation 19043 19066	"Why, ain't THAT work?"
+R219	Addressee Arg1:T173 Arg2:T177	
+R220	Speaker Arg1:T175 Arg2:T177	
+T178	Entity 19067 19070	Tom
+T179	Cue 19101 19109	answered
+T180	Quotation 19122 19199	"Well, maybe it is, and maybe it ain't. All I know, is, it suits Tom Sawyer."
+R221	Speaker Arg1:T178 Arg2:T180	
+R222	Cueing Arg1:T179 Arg2:T180	
+R223	Addressee Arg1:T175 Arg2:T180	
+T181	Quotation 19200 19258	"Oh come, now, you don't mean to let on that you LIKE it?"
+R224	Addressee Arg1:T178 Arg2:T181	
+R225	Speaker Arg1:T175 Arg2:T181	
+T182	Quotation 19288 19399	"Like it? Well, I don't see why I oughtn't to like it. Does a boy get a chance to whitewash a fence every day?"
+R226	Speaker Arg1:T178 Arg2:T182	
+T183	Entity 19435 19438	Ben
+R227	Addressee Arg1:T183 Arg2:T182	
+T184	Entity 19704 19706	he
+T185	Cue 19707 19711	said
+T186	Quotation 19713 19751	"Say, Tom, let ME whitewash a little."
+R228	Speaker Arg1:T184 Arg2:T186	
+R229	Cueing Arg1:T185 Arg2:T186	
+T187	Entity 19752 19755	Tom
+R230	Addressee Arg1:T187 Arg2:T186	
+T188	Quotation 19815 20210	"No-- no -- I reckon it wouldn't hardly do, Ben. You see, Aunt Polly's awful particular about this fence-- right here on the street, you know --but if it was the back fence I wouldn't mind and SHE wouldn't. Yes, she's awful particular about this fence; it's got to be done very careful; I reckon there ain't one boy in a thousand, maybe two thousand, that can do it the way it's got to be done."
+R231	Speaker Arg1:T187 Arg2:T188	
+R232	Addressee Arg1:T184 Arg2:T188	
+T189	Quotation 20211 20314	"No-- is that so? Oh come, now-- lemme just try. Only just a little-- I'd let YOU, if you was me, Tom."
+R233	Addressee Arg1:T187 Arg2:T189	
+R234	Speaker Arg1:T184 Arg2:T189	
+T190	Quotation 20315 20567	"Ben, I'd like to, honest injun; but Aunt Polly-- well, Jim wanted to do it, but she wouldn't let him; Sid wanted to do it, and she wouldn't let Sid. Now don't you see how I'm fixed? If you was to tackle this fence and anything was to happen to it -- "
+R235	Speaker Arg1:T187 Arg2:T190	
+R236	Addressee Arg1:T184 Arg2:T190	
+T191	Quotation 20568 20663	"Oh, shucks, I'll be just as careful. Now lemme try. Say-- I'll give you the core of my apple."
+R237	Addressee Arg1:T187 Arg2:T191	
+R238	Speaker Arg1:T184 Arg2:T191	
+T192	Quotation 20664 20713	"Well, here-- No, Ben, now don't. I'm afeard -- "
+R239	Speaker Arg1:T187 Arg2:T192	
+R240	Addressee Arg1:T184 Arg2:T192	
+T193	Quotation 20714 20740	"I'll give you ALL of it!"
+T194	Entity 20741 20744	Tom
+R241	Addressee Arg1:T194 Arg2:T193	
+R242	Speaker Arg1:T184 Arg2:T193	
+T195	Entity 23902 23904	He
+T196	Cue 23905 23909	said
+T197	Quotation 23911 23944	"Mayn't I go and play now, aunt?"
+T198	Entity 23820 23823	she
+R243	Speaker Arg1:T195 Arg2:T197	
+R244	Cueing Arg1:T196 Arg2:T197	
+R245	Addressee Arg1:T198 Arg2:T197	
+T199	Quotation 23945 23985	"What, a'ready? How much have you done?"
+R246	Addressee Arg1:T195 Arg2:T199	
+R247	Speaker Arg1:T198 Arg2:T199	
+T200	Quotation 23986 24008	"It's all done, aunt."
+R248	Addressee Arg1:T198 Arg2:T200	
+R249	Speaker Arg1:T195 Arg2:T200	
+T201	Quotation 24009 24051	"Tom, don't lie to me -- I can't bear it."
+R250	Speaker Arg1:T198 Arg2:T201	
+R251	Addressee Arg1:T195 Arg2:T201	
+T202	Quotation 24052 24084	"I ain't, aunt; it IS all done."
+R252	Speaker Arg1:T195 Arg2:T202	
+R253	Addressee Arg1:T198 Arg2:T202	
+T203	Entity 24435 24438	She
+T204	Cue 24439 24443	said
+T205	Quotation 24445 24531	"Well, I never! There's no getting round it, you can work when you're a mind to, Tom."
+R254	Cueing Arg1:T204 Arg2:T205	
+R255	Speaker Arg1:T203 Arg2:T205	
+R256	Addressee Arg1:T195 Arg2:T205	
+T206	Entity 24541 24544	she
+T207	Quotation 24579 24726	"But it's powerful seldom you're a mind to, I'm bound to say. Well, go 'long and play; but mind you get back some time in a week, or I'll tan you."
+R257	Speaker Arg1:T206 Arg2:T207	
+T208	Entity 24766 24769	his
+R258	Addressee Arg1:T208 Arg2:T207	
+T209	Quotation 24906 25004	the added value and flavor a treat took to itself when it came without sin through virtuous effort
+R259	Addressee Arg1:T208 Arg2:T209	
+T210	Entity 24787 24790	she
+R260	Speaker Arg1:T210 Arg2:T209	
+T211	Entity 29542 29544	He
+T212	Cue 29545 29549	said
+T213	Quotation 29551 29596	"Aunt, you don't whack Sid when he takes it."
+R261	Speaker Arg1:T211 Arg2:T213	
+R262	Cueing Arg1:T212 Arg2:T213	
+T214	Entity 29484 29492	his aunt
+R263	Addressee Arg1:T214 Arg2:T213	
+T215	Quotation 29597 29703	"Well, Sid don't torment a body the way you do. You'd be always into that sugar if I warn't watching you."
+R264	Addressee Arg1:T211 Arg2:T215	
+R265	Speaker Arg1:T214 Arg2:T215	
+T216	Entity 30447 30449	He
+T217	Cue 30450 30454	said
+T218	Entity 30458 30465	himself
+T219	Quotation 30467 30485	"Now it's coming!"
+R266	Speaker Arg1:T216 Arg2:T219	
+R267	Addressee Arg1:T218 Arg2:T219	
+R268	Cueing Arg1:T217 Arg2:T219	
+T220	Entity 30588 30591	Tom
+T221	Cue 30592 30601	cried out
+T222	Quotation 30603 30663	"Hold on, now, what 'er you belting ME for?-- Sid broke it!"
+R269	Speaker Arg1:T220 Arg2:T222	
+R270	Cueing Arg1:T221 Arg2:T222	
+T223	Entity 30664 30674	Aunt Polly
+R271	Addressee Arg1:T223 Arg2:T222	
+T224	Entity 30762 30765	she
+T225	Cue 30771 30775	said
+T226	Quotation 30777 30907	"Umf! Well, you didn't get a lick amiss, I reckon. You been into some other audacious mischief when I wasn't around, like enough."
+R272	Speaker Arg1:T224 Arg2:T226	
+R273	Cueing Arg1:T225 Arg2:T226	
+R274	Addressee Arg1:T220 Arg2:T226	
+T227	Entity 36442 36444	he
+T228	Quotation 36484 36512	"Blessed are the-- a -- a--"
+T229	Entity 36399 36403	Mary
+R275	Speaker Arg1:T227 Arg2:T228	
+R276	Addressee Arg1:T229 Arg2:T228	
+T230	Quotation 36513 36519	"Poor"
+R277	Addressee Arg1:T227 Arg2:T230	
+R278	Speaker Arg1:T229 Arg2:T230	
+T231	Quotation 36522 36567	"Yes-- poor; blessed are the poor-- a -- a--"
+R279	Speaker Arg1:T227 Arg2:T231	
+R280	Addressee Arg1:T229 Arg2:T231	
+T232	Quotation 36568 36583	"In spirit -- "
+R281	Speaker Arg1:T229 Arg2:T232	
+R282	Addressee Arg1:T227 Arg2:T232	
+T233	Quotation 36584 36648	"In spirit; blessed are the poor in spirit, for they-- they -- "
+R283	Addressee Arg1:T229 Arg2:T233	
+R284	Speaker Arg1:T227 Arg2:T233	
+T234	Quotation 36649 36661	"THEIRS -- "
+R285	Speaker Arg1:T229 Arg2:T234	
+R286	Addressee Arg1:T227 Arg2:T234	
+T235	Quotation 36662 36793	"For THEIRS. Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are they that mourn, for they-- they -- "
+R287	Speaker Arg1:T227 Arg2:T235	
+R288	Addressee Arg1:T229 Arg2:T235	
+T236	Quotation 36794 36802	"Sh -- "
+R289	Speaker Arg1:T229 Arg2:T236	
+R290	Addressee Arg1:T227 Arg2:T236	
+T237	Quotation 36803 36821	"For they-- a -- "
+R291	Addressee Arg1:T229 Arg2:T237	
+R292	Speaker Arg1:T227 Arg2:T237	
+T238	Quotation 36822 36835	"S, H, A -- "
+R293	Speaker Arg1:T229 Arg2:T238	
+R294	Addressee Arg1:T227 Arg2:T238	
+T239	Quotation 36836 36882	"For they S, H-- Oh, I don't know what it is!"
+R295	Speaker Arg1:T227 Arg2:T239	
+R296	Addressee Arg1:T229 Arg2:T239	
+T240	Quotation 36883 36891	"SHALL!"
+R297	Speaker Arg1:T229 Arg2:T240	
+R298	Addressee Arg1:T227 Arg2:T240	
+T241	Quotation 36892 37141	"Oh, SHALL! for they shall-- for they shall-- a -- a-- shall mourn-- a -- a-- blessed are they that shall-- they that-- a -- they that shall mourn, for they shall-- a -- shall WHAT? Why don't you tell me, Mary?-- what do you want to be so mean for?"
+R299	Addressee Arg1:T229 Arg2:T241	
+R300	Speaker Arg1:T227 Arg2:T241	
+T242	Quotation 37142 37388	"Oh, Tom, you poor thick-headed thing, I'm not teasing you. I wouldn't do that. You must go and learn it again. Don't you be discouraged, Tom, you'll manage it-- and if you do, I'll give you something ever so nice. There, now, that's a good boy."
+R301	Speaker Arg1:T229 Arg2:T242	
+R302	Addressee Arg1:T227 Arg2:T242	
+T243	Quotation 37389 37439	"All right! What is it, Mary, tell me what it is."
+R303	Addressee Arg1:T229 Arg2:T243	
+R304	Speaker Arg1:T227 Arg2:T243	
+T244	Quotation 37440 37503	"Never you mind, Tom. You know if I say it's nice, it is nice."
+R305	Speaker Arg1:T229 Arg2:T244	
+R306	Addressee Arg1:T227 Arg2:T244	
+T245	Quotation 37504 37567	"You bet you that's so, Mary. All right, I'll tackle it again."
+R307	Addressee Arg1:T229 Arg2:T245	
+R308	Speaker Arg1:T227 Arg2:T245	
+T246	Quotation 38702 38776	"Now ain't you ashamed, Tom. You mustn't be so bad. Water won't hurt you."
+T247	Entity 38669 38673	Mary
+T248	Cue 38696 38700	said
+T249	Entity 38777 38780	Tom
+R309	Cueing Arg1:T248 Arg2:T246	
+R310	Addressee Arg1:T249 Arg2:T246	
+R311	Speaker Arg1:T247 Arg2:T246	
+T250	Entity 40637 40641	Mary
+T251	Cue 40642 40646	said
+T252	Quotation 40662 40696	"Please, Tom-- that's a good boy."
+R312	Speaker Arg1:T250 Arg2:T252	
+R313	Cueing Arg1:T251 Arg2:T252	
+T253	Entity 40541 40543	He
+T254	Cue 40564 40568	said
+T255	Quotation 40569 40631	he was always being made to do everything he didn't want to do
+R314	Cueing Arg1:T254 Arg2:T255	
+R315	Speaker Arg1:T253 Arg2:T255	
+R316	Addressee Arg1:T250 Arg2:T255	
+R317	Addressee Arg1:T253 Arg2:T252	
+T256	Quotation 41349 41383	"Say, Billy, got a yaller ticket?"
+T257	Entity 41286 41289	Tom
+T258	Entity 41323 41347	a Sunday-dressed comrade
+R318	Speaker Arg1:T257 Arg2:T256	
+R319	Addressee Arg1:T258 Arg2:T256	
+T259	Quotation 41384 41390	"Yes."
+R320	Addressee Arg1:T257 Arg2:T259	
+R321	Speaker Arg1:T258 Arg2:T259	
+T260	Quotation 41391 41418	"What'll you take for her?"
+R322	Speaker Arg1:T257 Arg2:T260	
+R323	Addressee Arg1:T258 Arg2:T260	
+T261	Quotation 41419 41438	"What'll you give?"
+R324	Addressee Arg1:T257 Arg2:T261	
+R325	Speaker Arg1:T258 Arg2:T261	
+T262	Quotation 41439 41475	"Piece of lickrish and a fish-hook."
+R326	Speaker Arg1:T257 Arg2:T262	
+R327	Addressee Arg1:T258 Arg2:T262	
+T263	Quotation 41476 41491	"Less see 'em."
+R328	Addressee Arg1:T257 Arg2:T263	
+R329	Speaker Arg1:T258 Arg2:T263	
+T264	Entity 42190 42193	him
+T265	Cue 42194 42197	say
+T266	Quotation 42198 42205	"Ouch!"
+R330	Cueing Arg1:T265 Arg2:T266	
+R331	Speaker Arg1:T264 Arg2:T266	
+T267	Quotation 45573 46129	"Now, children, I want you all to sit up just as straight and pretty as you can and give me all your attention for a minute or two. There --that is it. That is the way good little boys and girls should do. I see one little girl who is looking out of the window -- I am afraid she thinks I am out there somewhere-- perhaps up in one of the trees making a speech to the little birds. [Applausive titter.] I want to tell you how good it makes me feel to see so many bright, clean little faces assembled in a place like this, learning to do right and be good."
+T268	Entity 45544 45546	He
+T269	Cue 45547 45552	began
+T270	Entity 46277 46283	us all
+R332	Speaker Arg1:T268 Arg2:T267	
+R333	Cueing Arg1:T269 Arg2:T267	
+R334	Addressee Arg1:T270 Arg2:T267	
+T271	Quotation 48627 48789	"Look at him, Jim! He's a going up there. Say-- look! he's a going to shake hands with him-- he IS shaking hands with him! By jings, don't you wish you was Jeff?"
+T272	Entity 52632 52639	The boy
+T273	Quotation 52675 52681	"Tom."
+T274	Entity 52528 52537	The Judge
+R335	Speaker Arg1:T272 Arg2:T273	
+R336	Addressee Arg1:T274 Arg2:T273	
+T275	Quotation 52682 52711	"Oh, no, not Tom-- it is -- "
+R337	Speaker Arg1:T274 Arg2:T275	
+R338	Addressee Arg1:T272 Arg2:T275	
+T276	Quotation 52712 52721	"Thomas."
+R339	Addressee Arg1:T274 Arg2:T276	
+R340	Speaker Arg1:T272 Arg2:T276	
+T277	Quotation 52722 52866	"Ah, that's it. I thought there was more to it, maybe. That's very well. But you've another one I daresay, and you'll tell it to me, won't you?"
+R341	Addressee Arg1:T272 Arg2:T277	
+R342	Speaker Arg1:T274 Arg2:T277	
+T278	Quotation 52867 52912	"Tell the gentleman your other name, Thomas,"
+T279	Cue 52913 52917	said
+T280	Entity 52918 52925	Walters
+T281	Quotation 52927 52974	"and say sir. You mustn't forget your manners."
+R343	Cueing Arg1:T279 Arg2:T278	
+R344	Cueing Arg1:T279 Arg2:T281	
+R345	Speaker Arg1:T280 Arg2:T278	
+R346	Speaker Arg1:T280 Arg2:T281	
+R347	Addressee Arg1:T272 Arg2:T278	
+R348	Addressee Arg1:T272 Arg2:T281	
+T282	Quotation 52975 52997	"Thomas Sawyer-- sir."
+R349	Speaker Arg1:T272 Arg2:T282	
+R350	Addressee Arg1:T274 Arg2:T282	
+T283	Quotation 52998 54166	"That's it! That's a good boy. Fine boy. Fine, manly little fellow. Two thousand verses is a great many-- very, very great many. And you never can be sorry for the trouble you took to learn them; for knowledge is worth more than anything there is in the world; it's what makes great men and good men; you'll be a great man and a good man yourself, some day, Thomas, and then you'll look back and say, It's all owing to the precious Sunday-school privileges of my boyhood-- it's all owing to my dear teachers that taught me to learn-- it's all owing to the good superintendent, who encouraged me, and watched over me, and gave me a beautiful Bible -- a splendid elegant Bible-- to keep and have it all for my own, always-- it's all owing to right bringing up! That is what you will say, Thomas-- and you wouldn't take any money for those two thousand verses-- no indeed you wouldn't. And now you wouldn't mind telling me and this lady some of the things you've learned-- no, I know you wouldn't-- for we are proud of little boys that learn. Now, no doubt you know the names of all the twelve disciples. Won't you tell us the names of the first two that were appointed?"
+T285	Quotation 54449 54498	"Answer the gentleman, Thomas-- don't be afraid."
+T286	Entity 54412 54414	he
+R351	Speaker Arg1:T286 Arg2:T285	
+T287	Cue 54444 54447	say
+R352	Cueing Arg1:T287 Arg2:T285	
+T288	Entity 54499 54502	Tom
+R353	Addressee Arg1:T288 Arg2:T285	
+T289	Quotation 54520 54548	"Now I know you'll tell me,"
+T290	Cue 54549 54553	said
+T291	Entity 54554 54562	the lady
+R354	Cueing Arg1:T290 Arg2:T289	
+R355	Speaker Arg1:T291 Arg2:T289	
+R356	Addressee Arg1:T288 Arg2:T289	
+T292	Quotation 54564 54611	"The names of the first two disciples were -- "
+R357	Speaker Arg1:T288 Arg2:T292	
+T293	Quotation 54612 54631	"DAVID AND GOLIAH!"
+R358	Speaker Arg1:T288 Arg2:T293	
+T294	Entity 57115 57124	His voice
+T295	Cue 57125 57130	began
+T296	Quotation 57310 57436	Shall I be car-ri-ed toe the skies, on flow'ry BEDS of ease, Whilst others fight to win the prize, and sail thro' BLOODY seas?
+R359	Speaker Arg1:T294 Arg2:T296	
+R360	Cueing Arg1:T295 Arg2:T296	
+T297	Entity 67041 67043	He
+T298	Cue 67044 67048	said
+T299	Quotation 67050 67061	"Sid, Sid!"
+T300	Entity 67072 67075	him
+R361	Speaker Arg1:T297 Arg2:T299	
+R362	Cueing Arg1:T298 Arg2:T299	
+R363	Addressee Arg1:T300 Arg2:T299	
+T301	Entity 67255 67258	Sid
+T302	Cue 67259 67263	said
+T303	Quotation 67265 67281	"Tom! Say, Tom!"
+R364	Cueing Arg1:T302 Arg2:T303	
+R365	Speaker Arg1:T301 Arg2:T303	
+T304	Entity 67233 67236	Tom
+R366	Addressee Arg1:T304 Arg2:T303	
+T305	Quotation 67297 67339	"Here, Tom! TOM! What is the matter, Tom?"
+R367	Cueing Arg1:T302 Arg2:T305	
+R368	Speaker Arg1:T301 Arg2:T305	
+R369	Addressee Arg1:T304 Arg2:T305	
+T306	Entity 67391 67394	Tom
+T307	Cue 67395 67405	moaned out
+T308	Quotation 67407 67441	"Oh, don't, Sid. Don't joggle me."
+R370	Speaker Arg1:T306 Arg2:T308	
+R371	Cueing Arg1:T307 Arg2:T308	
+R372	Addressee Arg1:T301 Arg2:T308	
+T309	Quotation 67442 67492	"Why, what's the matter, Tom? I must call auntie."
+R373	Addressee Arg1:T306 Arg2:T309	
+R374	Speaker Arg1:T301 Arg2:T309	
+T310	Quotation 67493 67563	"No-- never mind. It'll be over by and by, maybe. Don't call anybody."
+R375	Speaker Arg1:T306 Arg2:T310	
+R376	Addressee Arg1:T301 Arg2:T310	
+T311	Quotation 67564 67638	"But I must! DON'T groan so, Tom, it's awful. How long you been this way?"
+R377	Addressee Arg1:T306 Arg2:T311	
+R378	Speaker Arg1:T301 Arg2:T311	
+T312	Quotation 67639 67693	"Hours. Ouch! Oh, don't stir so, Sid, you'll kill me."
+R379	Speaker Arg1:T306 Arg2:T312	
+R380	Addressee Arg1:T301 Arg2:T312	
+T313	Quotation 67694 67809	"Tom, why didn't you wake me sooner? Oh, Tom, DON'T! It makes my flesh crawl to hear you. Tom, what is the matter?"
+R381	Addressee Arg1:T306 Arg2:T313	
+R382	Speaker Arg1:T301 Arg2:T313	
+T314	Quotation 67810 67904	"I forgive you everything, Sid. [Groan.] Everything you've ever done to me. When I'm gone -- "
+R383	Speaker Arg1:T306 Arg2:T314	
+R384	Addressee Arg1:T301 Arg2:T314	
+T315	Quotation 67905 67975	"Oh, Tom, you ain't dying, are you? Don't, Tom-- oh, don't. Maybe -- "
+R385	Addressee Arg1:T306 Arg2:T315	
+R386	Speaker Arg1:T301 Arg2:T315	
+T316	Quotation 67976 68142	"I forgive everybody, Sid. [Groan.] Tell 'em so, Sid. And Sid, you give my window-sash and my cat with one eye to that new girl that's come to town, and tell her -- "
+T317	Entity 68147 68150	Sid
+R387	Addressee Arg1:T317 Arg2:T316	
+R388	Speaker Arg1:T306 Arg2:T316	
+T318	Quotation 68348 68384	"Oh, Aunt Polly, come! Tom's dying!"
+T319	Entity 68317 68320	Sid
+T320	Cue 68342 68346	said
+T321	Entity 68186 68189	Tom
+R389	Cueing Arg1:T320 Arg2:T318	
+R390	Speaker Arg1:T319 Arg2:T318	
+T322	Quotation 68385 68393	"Dying!"
+R392	Speaker Arg1:T319 Arg2:T322	
+T323	Quotation 68394 68427	"Yes'm. Don't wait-- come quick!"
+R393	Speaker Arg1:T319 Arg2:T323	
+R394	Cueing Arg1:T320 Arg2:T322	
+R395	Cueing Arg1:T320 Arg2:T323	
+T324	Quotation 68428 68458	"Rubbage! I don't believe it!"
+T325	Entity 68463 68466	she
+R391	Addressee Arg1:T325 Arg2:T318	
+R396	Addressee Arg1:T325 Arg2:T322	
+R397	Addressee Arg1:T325 Arg2:T323	
+R398	Speaker Arg1:T325 Arg2:T324	
+R399	Addressee Arg1:T319 Arg2:T324	
+T326	Quotation 68626 68670	"You, Tom! Tom, what's the matter with you?"
+T327	Entity 68610 68613	she
+T328	Cue 68614 68624	gasped out
+R400	Speaker Arg1:T327 Arg2:T326	
+R401	Cueing Arg1:T328 Arg2:T326	
+R402	Addressee Arg1:T321 Arg2:T326	
+T329	Quotation 68671 68692	"Oh, auntie, I'm -- "
+R403	Addressee Arg1:T327 Arg2:T329	
+R404	Speaker Arg1:T321 Arg2:T329	
+T330	Quotation 68693 68759	"What's the matter with you-- what is the matter with you, child?"
+R405	Speaker Arg1:T327 Arg2:T330	
+R406	Addressee Arg1:T321 Arg2:T330	
+T331	Quotation 68760 68798	"Oh, auntie, my sore toe's mortified!"
+R407	Addressee Arg1:T327 Arg2:T331	
+R408	Speaker Arg1:T321 Arg2:T331	
+T332	Entity 68924 68927	she
+T333	Cue 68928 68932	said
+T334	Quotation 68934 69022	"Tom, what a turn you did give me. Now you shut up that nonsense and climb out of this."
+R409	Speaker Arg1:T332 Arg2:T334	
+R410	Cueing Arg1:T333 Arg2:T334	
+R411	Addressee Arg1:T321 Arg2:T334	
+T335	Entity 69112 69114	he
+T336	Cue 69115 69119	said
+T337	Quotation 69121 69202	"Aunt Polly, it SEEMED mortified, and it hurt so I never minded my tooth at all."
+R412	Speaker Arg1:T335 Arg2:T337	
+R413	Cueing Arg1:T336 Arg2:T337	
+R414	Addressee Arg1:T332 Arg2:T337	
+T338	Quotation 69203 69259	"Your tooth, indeed! What's the matter with your tooth?"
+R415	Addressee Arg1:T335 Arg2:T338	
+R416	Speaker Arg1:T332 Arg2:T338	
+T339	Quotation 69260 69312	"One of them's loose, and it aches perfectly awful."
+R417	Speaker Arg1:T335 Arg2:T339	
+R418	Addressee Arg1:T332 Arg2:T339	
+T340	Quotation 69313 69519	"There, there, now, don't begin that groaning again. Open your mouth. Well-- your tooth IS loose, but you're not going to die about that. Mary, get me a silk thread, and a chunk of fire out of the kitchen."
+R419	Addressee Arg1:T335 Arg2:T340	
+T341	Entity 68510 68514	Mary
+R420	Addressee Arg1:T341 Arg2:T340	
+R421	Speaker Arg1:T332 Arg2:T340	
+T342	Entity 69520 69523	Tom
+T343	Cue 69524 69528	said
+T344	Quotation 69530 69691	"Oh, please, auntie, don't pull it out. It don't hurt any more. I wish I may never stir if it does. Please don't, auntie. I don't want to stay home from school."
+R422	Speaker Arg1:T342 Arg2:T344	
+R423	Cueing Arg1:T343 Arg2:T344	
+R424	Addressee Arg1:T332 Arg2:T344	
+T345	Quotation 69692 69923	"Oh, you don't, don't you? So all this row was because you thought you'd get to stay home from school and go a-fishing? Tom, Tom, I love you so, and you seem to try every way you can to break my old heart with your outrageousness."
+R425	Addressee Arg1:T342 Arg2:T345	
+R426	Speaker Arg1:T332 Arg2:T345	
+T346	Entity 70790 70801	another boy
+T347	Cue 70802 70806	said
+T348	Quotation 70808 70822	"Sour grapes!"
+T349	Entity 70827 70829	he
+R427	Cueing Arg1:T347 Arg2:T348	
+R428	Speaker Arg1:T346 Arg2:T348	
+R429	Addressee Arg1:T349 Arg2:T348	
+T350	Entity 72573 72576	Tom
+T351	Cue 72577 72583	hailed
+T352	Entity 72584 72604	the romantic outcast
+T353	Quotation 72606 72627	"Hello, Huckleberry!"
+R430	Speaker Arg1:T350 Arg2:T353	
+R431	Cueing Arg1:T351 Arg2:T353	
+R432	Addressee Arg1:T352 Arg2:T353	
+T354	Quotation 72628 72670	"Hello yourself, and see how you like it."
+R433	Speaker Arg1:T352 Arg2:T354	
+R434	Addressee Arg1:T350 Arg2:T354	
+T355	Quotation 72671 72693	"What's that you got?"
+R435	Speaker Arg1:T350 Arg2:T355	
+R436	Addressee Arg1:T352 Arg2:T355	
+T356	Quotation 72694 72705	"Dead cat."
+R437	Addressee Arg1:T350 Arg2:T356	
+R438	Speaker Arg1:T352 Arg2:T356	
+T357	Quotation 72706 72772	"Lemme see him, Huck. My, he's pretty stiff. Where'd you get him?"
+R439	Addressee Arg1:T352 Arg2:T357	
+R440	Speaker Arg1:T350 Arg2:T357	
+T358	Quotation 72773 72798	"Bought him off'n a boy."
+R441	Addressee Arg1:T350 Arg2:T358	
+R442	Speaker Arg1:T352 Arg2:T358	
+T359	Quotation 72799 72819	"What did you give?"
+R443	Speaker Arg1:T350 Arg2:T359	
+R444	Addressee Arg1:T352 Arg2:T359	
+T360	Quotation 72820 72891	"I give a blue ticket and a bladder that I got at the slaughter-house."
+R445	Speaker Arg1:T352 Arg2:T360	
+R446	Addressee Arg1:T350 Arg2:T360	
+T361	Quotation 72892 72926	"Where'd you get the blue ticket?"
+R447	Speaker Arg1:T350 Arg2:T361	
+R448	Addressee Arg1:T352 Arg2:T361	
+T362	Quotation 72927 72987	"Bought it off'n Ben Rogers two weeks ago for a hoop-stick."
+R449	Speaker Arg1:T352 Arg2:T362	
+R450	Addressee Arg1:T350 Arg2:T362	
+T363	Quotation 72988 73029	"Say-- what is dead cats good for, Huck?"
+R451	Speaker Arg1:T350 Arg2:T363	
+R452	Addressee Arg1:T352 Arg2:T363	
+T364	Quotation 73030 73058	"Good for? Cure warts with."
+R453	Speaker Arg1:T352 Arg2:T364	
+R454	Addressee Arg1:T350 Arg2:T364	
+T365	Quotation 73059 73108	"No! Is that so? I know something that's better."
+R455	Speaker Arg1:T350 Arg2:T365	
+R456	Addressee Arg1:T352 Arg2:T365	
+T366	Quotation 73109 73139	"I bet you don't. What is it?"
+R457	Speaker Arg1:T352 Arg2:T366	
+R458	Addressee Arg1:T350 Arg2:T366	
+T367	Quotation 73140 73159	"Why, spunk-water."
+R459	Speaker Arg1:T350 Arg2:T367	
+R460	Addressee Arg1:T352 Arg2:T367	
+T368	Quotation 73160 73214	"Spunk-water! I wouldn't give a dern for spunk-water."
+R461	Addressee Arg1:T350 Arg2:T368	
+R462	Speaker Arg1:T352 Arg2:T368	
+T369	Quotation 73215 73263	"You wouldn't, wouldn't you? D'you ever try it?"
+R463	Addressee Arg1:T352 Arg2:T369	
+R464	Speaker Arg1:T350 Arg2:T369	
+T370	Quotation 73264 73299	"No, I hain't. But Bob Tanner did."
+R465	Speaker Arg1:T350 Arg2:T370	
+R466	Addressee Arg1:T352 Arg2:T370	
+T371	Quotation 73300 73318	"Who told you so!"
+R467	Speaker Arg1:T352 Arg2:T371	
+R468	Addressee Arg1:T350 Arg2:T371	
+T372	Quotation 73319 73487	"Why, he told Jeff Thatcher, and Jeff told Johnny Baker, and Johnny told Jim Hollis, and Jim told Ben Rogers, and Ben told a nigger, and the nigger told me. There now!"
+R469	Speaker Arg1:T350 Arg2:T372	
+R470	Addressee Arg1:T352 Arg2:T372	
+T373	Quotation 73488 73670	"Well, what of it? They'll all lie. Leastways all but the nigger. I don't know HIM. But I never see a nigger that WOULDN'T lie. Shucks! Now you tell me how Bob Tanner done it, Huck."
+R471	Speaker Arg1:T352 Arg2:T373	
+R472	Addressee Arg1:T350 Arg2:T373	
+T374	Quotation 73671 73749	"Why, he took and dipped his hand in a rotten stump where the rain-water was."
+R473	Speaker Arg1:T350 Arg2:T374	
+R474	Addressee Arg1:T352 Arg2:T374	
+T375	Quotation 73750 73767	"In the daytime?"
+R475	Speaker Arg1:T352 Arg2:T375	
+R476	Addressee Arg1:T350 Arg2:T375	
+T376	Quotation 73768 73780	"Certainly."
+R477	Speaker Arg1:T350 Arg2:T376	
+R478	Addressee Arg1:T352 Arg2:T376	
+T377	Quotation 73781 73810	"With his face to the stump?"
+T378	Quotation 73811 73836	"Yes. Least I reckon so."
+R479	Speaker Arg1:T352 Arg2:T377	
+R480	Addressee Arg1:T350 Arg2:T377	
+R481	Addressee Arg1:T352 Arg2:T378	
+R482	Speaker Arg1:T350 Arg2:T378	
+T379	Quotation 73837 73859	"Did he say anything?"
+R483	Speaker Arg1:T352 Arg2:T379	
+R484	Addressee Arg1:T350 Arg2:T379	
+T380	Quotation 73860 73898	"I don't reckon he did. I don't know."
+R485	Speaker Arg1:T350 Arg2:T380	
+R486	Addressee Arg1:T352 Arg2:T380	
+T381	Quotation 73899 74487	"Aha! Talk about trying to cure warts with spunk-water such a blame fool way as that! Why, that ain't a-going to do any good. You got to go all by yourself, to the middle of the woods, where you know there's a spunk-water stump, and just as it's midnight you back up against the stump and jam your hand in and say: 'Barley-corn, barley-corn, injun-meal shorts, Spunk-water, spunk-water, swaller these warts,' and then walk away quick, eleven steps, with your eyes shut, and then turn around three times and walk home without speaking to anybody.  Because if you speak the charm's busted."
+R487	Addressee Arg1:T350 Arg2:T381	
+R488	Speaker Arg1:T352 Arg2:T381	
+T382	Quotation 74488 74564	"Well, that sounds like a good way; but that ain't the way Bob Tanner done."
+R489	Speaker Arg1:T350 Arg2:T382	
+R490	Addressee Arg1:T352 Arg2:T382	
+T383	Quotation 74565 74890	"No, sir, you can bet he didn't, becuz he's the wartiest boy in this town; and he wouldn't have a wart on him if he'd knowed how to work spunk-water. I've took off thousands of warts off of my hands that way, Huck. I play with frogs so much that I've always got considerable many warts. Sometimes I take 'em off with a bean."
+R491	Addressee Arg1:T350 Arg2:T383	
+R492	Speaker Arg1:T352 Arg2:T383	
+T384	Quotation 74891 74926	"Yes, bean's good. I've done that."
+R493	Speaker Arg1:T350 Arg2:T384	
+R494	Addressee Arg1:T352 Arg2:T384	
+T385	Quotation 74927 74955	"Have you? What's your way?"
+R495	Addressee Arg1:T350 Arg2:T385	
+R496	Speaker Arg1:T352 Arg2:T385	
+T386	Quotation 74956 75410	"You take and split the bean, and cut the wart so as to get some blood, and then you put the blood on one piece of the bean and take and dig a hole and bury it 'bout midnight at the crossroads in the dark of the moon, and then you burn up the rest of the bean. You see that piece that's got the blood on it will keep drawing and drawing, trying to fetch the other piece to it, and so that helps the blood to draw the wart, and pretty soon off she comes."
+R497	Speaker Arg1:T350 Arg2:T386	
+R498	Addressee Arg1:T352 Arg2:T386	
+T387	Quotation 75411 75684	"Yes, that's it, Huck-- that's it; though when you're burying it if you say 'Down bean; off wart; come no more to bother me!' it's better. That's the way Joe Harper does, and he's been nearly to Coonville and most everywheres. But say-- how do you cure 'em with dead cats?"
+R499	Speaker Arg1:T350 Arg2:T387	
+R500	Addressee Arg1:T352 Arg2:T387	
+T388	Quotation 75685 76145	"Why, you take your cat and go and get in the graveyard 'long about midnight when somebody that was wicked has been buried; and when it's midnight a devil will come, or maybe two or three, but you can't see 'em, you can only hear something like the wind, or maybe hear 'em talk; and when they're taking that feller away, you heave your cat after 'em and say, 'Devil follow corpse, cat follow devil, warts follow cat, I'm done with ye!' That'll fetch ANY wart."
+R501	Speaker Arg1:T352 Arg2:T388	
+R502	Addressee Arg1:T350 Arg2:T388	
+T389	Quotation 76146 76186	"Sounds right. D'you ever try it, Huck?"
+R503	Speaker Arg1:T350 Arg2:T389	
+R504	Addressee Arg1:T352 Arg2:T389	
+T390	Quotation 76187 76224	"No, but old Mother Hopkins told me."
+R505	Addressee Arg1:T350 Arg2:T390	
+R506	Speaker Arg1:T352 Arg2:T390	
+T391	Quotation 76225 76286	"Well, I reckon it's so, then. Becuz they say she's a witch."
+R507	Speaker Arg1:T350 Arg2:T391	
+R508	Addressee Arg1:T352 Arg2:T391	
+T392	Quotation 76287 76575	"Say! Why, Tom, I KNOW she is. She witched pap. Pap says so his own self. He come along one day, and he see she was a-witching him, so he took up a rock, and if she hadn't dodged, he'd a got her. Well, that very night he rolled off'n a shed wher' he was a layin drunk, and broke his arm."
+R509	Addressee Arg1:T350 Arg2:T392	
+R510	Speaker Arg1:T352 Arg2:T392	
+T393	Quotation 76576 76636	"Why, that's awful. How did he know she was a-witching him?"
+R511	Speaker Arg1:T350 Arg2:T393	
+R512	Addressee Arg1:T352 Arg2:T393	
+T394	Quotation 76637 76833	"Lord, pap can tell, easy. Pap says when they keep looking at you right stiddy, they're a-witching you. Specially if they mumble. Becuz when they mumble they're saying the Lord's Prayer backards."
+R513	Addressee Arg1:T350 Arg2:T394	
+R514	Speaker Arg1:T352 Arg2:T394	
+T395	Quotation 76834 76878	"Say, Hucky, when you going to try the cat?"
+R515	Speaker Arg1:T350 Arg2:T395	
+R516	Addressee Arg1:T352 Arg2:T395	
+T396	Quotation 76879 76946	"To-night. I reckon they'll come after old Hoss Williams to-night."
+R517	Speaker Arg1:T352 Arg2:T396	
+R518	Addressee Arg1:T350 Arg2:T396	
+T397	Quotation 76947 77014	"But they buried him Saturday. Didn't they get him Saturday night?"
+R519	Speaker Arg1:T350 Arg2:T397	
+R520	Addressee Arg1:T352 Arg2:T397	
+T398	Quotation 77015 77162	"Why, how you talk! How could their charms work till midnight?-- and THEN it's Sunday. Devils don't slosh around much of a Sunday, I don't reckon."
+R521	Speaker Arg1:T352 Arg2:T398	
+R522	Addressee Arg1:T350 Arg2:T398	
+T399	Quotation 77163 77219	"I never thought of that. That's so. Lemme go with you?"
+R523	Speaker Arg1:T350 Arg2:T399	
+R524	Addressee Arg1:T352 Arg2:T399	
+T400	Quotation 77220 77254	"Of course-- if you ain't afeard."
+R525	Addressee Arg1:T350 Arg2:T400	
+R526	Speaker Arg1:T352 Arg2:T400	
+T401	Quotation 77255 77295	"Afeard! 'Tain't likely. Will you meow?"
+R527	Speaker Arg1:T350 Arg2:T401	
+R528	Addressee Arg1:T352 Arg2:T401	
+T402	Quotation 77296 77515	"Yes-- and you meow back, if you get a chance. Last time, you kep' me a-meowing around till old Hays went to throwing rocks at me and says 'Dern that cat!' and so I hove a brick through his window-- but don't you tell."
+R529	Addressee Arg1:T350 Arg2:T402	
+R530	Speaker Arg1:T352 Arg2:T402	
+T403	Quotation 77516 77628	"I won't. I couldn't meow that night, becuz auntie was watching me, but I'll meow this time. Say-- what's that?"
+R531	Speaker Arg1:T350 Arg2:T403	
+R532	Addressee Arg1:T352 Arg2:T403	
+T404	Quotation 77629 77650	"Nothing but a tick."
+R533	Speaker Arg1:T352 Arg2:T404	
+R534	Addressee Arg1:T350 Arg2:T404	
+T405	Quotation 77651 77673	"Where'd you get him?"
+R535	Speaker Arg1:T350 Arg2:T405	
+R536	Addressee Arg1:T352 Arg2:T405	
+T406	Quotation 77674 77693	"Out in the woods."
+R537	Speaker Arg1:T352 Arg2:T406	
+R538	Addressee Arg1:T350 Arg2:T406	
+T407	Quotation 77694 77721	"What'll you take for him?"
+R539	Speaker Arg1:T350 Arg2:T407	
+R540	Addressee Arg1:T352 Arg2:T407	
+T408	Quotation 77722 77763	"I don't know. I don't want to sell him."
+R541	Speaker Arg1:T352 Arg2:T408	
+R542	Addressee Arg1:T350 Arg2:T408	
+T409	Quotation 77764 77810	"All right. It's a mighty small tick, anyway."
+R543	Speaker Arg1:T350 Arg2:T409	
+R544	Addressee Arg1:T352 Arg2:T409	
+T410	Quotation 77811 77926	"Oh, anybody can run a tick down that don't belong to them. I'm satisfied with it. It's a good enough tick for me."
+R545	Speaker Arg1:T352 Arg2:T410	
+R546	Addressee Arg1:T350 Arg2:T410	
+T411	Quotation 77927 78004	"Sho, there's ticks a plenty. I could have a thousand of 'em if I wanted to."
+R547	Speaker Arg1:T350 Arg2:T411	
+R548	Addressee Arg1:T352 Arg2:T411	
+T412	Quotation 78005 78144	"Well, why don't you? Becuz you know mighty well you can't. This is a pretty early tick, I reckon. It's the first one I've seen this year."
+R549	Addressee Arg1:T350 Arg2:T412	
+R550	Speaker Arg1:T352 Arg2:T412	
+T413	Quotation 78145 78190	"Say, Huck-- I'll give you my tooth for him."
+T414	Quotation 78191 78205	"Less see it."
+T415	Entity 78206 78209	Tom
+T416	Entity 78260 78271	Huckleberry
+R551	Speaker Arg1:T415 Arg2:T413	
+R552	Addressee Arg1:T416 Arg2:T413	
+R553	Addressee Arg1:T415 Arg2:T414	
+R554	Speaker Arg1:T416 Arg2:T414	
+T417	Entity 78333 78335	he
+T418	Cue 78336 78340	said
+T419	Quotation 78342 78359	"Is it genuwyne?"
+R555	Cueing Arg1:T418 Arg2:T419	
+R556	Speaker Arg1:T417 Arg2:T419	
+R557	Addressee Arg1:T415 Arg2:T419	
+T420	Quotation 78403 78421	"Well, all right,"
+T421	Cue 78422 78426	said
+T422	Entity 78427 78438	Huckleberry
+T423	Quotation 78440 78455	"it's a trade."
+R558	Cueing Arg1:T421 Arg2:T420	
+R559	Cueing Arg1:T421 Arg2:T423	
+R560	Speaker Arg1:T422 Arg2:T420	
+R561	Speaker Arg1:T422 Arg2:T423	
+T424	Entity 78360 78363	Tom
+R562	Addressee Arg1:T424 Arg2:T420	
+R563	Addressee Arg1:T424 Arg2:T423	
+T425	Quotation 78973 78989	"Thomas Sawyer!"
+T426	Entity 78968 78971	him
+T427	Entity 78990 78993	Tom
+R564	Speaker Arg1:T426 Arg2:T425	
+R565	Addressee Arg1:T427 Arg2:T425	
+T428	Quotation 79060 79066	"Sir!"
+R566	Speaker Arg1:T427 Arg2:T428	
+R567	Addressee Arg1:T426 Arg2:T428	
+T429	Quotation 79067 79126	"Come up here. Now, sir, why are you late again, as usual?"
+R568	Addressee Arg1:T427 Arg2:T429	
+R569	Speaker Arg1:T426 Arg2:T429	
+T430	Entity 79363 79365	He
+T431	Cue 79376 79380	said
+T432	Quotation 79382 79424	"I STOPPED TO TALK WITH HUCKLEBERRY FINN!"
+R570	Speaker Arg1:T430 Arg2:T432	
+R571	Cueing Arg1:T431 Arg2:T432	
+T433	Entity 79425 79435	The master
+R572	Addressee Arg1:T433 Arg2:T432	
+T434	Entity 79570 79580	The master
+T435	Cue 79581 79585	said
+T436	Quotation 79587 79608	"You-- you did what?"
+R573	Cueing Arg1:T435 Arg2:T436	
+R574	Speaker Arg1:T434 Arg2:T436	
+T437	Quotation 79609 79649	"Stopped to talk with Huckleberry Finn."
+T438	Entity 79532 79550	this foolhardy boy
+R575	Addressee Arg1:T438 Arg2:T436	
+R576	Addressee Arg1:T434 Arg2:T437	
+R577	Speaker Arg1:T438 Arg2:T437	
+T439	Quotation 79684 79831	"Thomas Sawyer, this is the most astounding confession I have ever listened to. No mere ferule will answer for this offence. Take off your jacket."
+R578	Speaker Arg1:T434 Arg2:T439	
+R579	Addressee Arg1:T438 Arg2:T439	
+T440	Quotation 79949 80021	"Now, sir, go and sit with the girls! And let this be a warning to you."
+T441	Entity 80080 80087	the boy
+R580	Addressee Arg1:T441 Arg2:T440	
+T442	Entity 79832 79842	The master
+R581	Speaker Arg1:T442 Arg2:T440	
+T443	Entity 81465 81468	she
+T444	Cue 81494 81503	whispered
+T445	Quotation 81505 81521	"Let me see it."
+R582	Speaker Arg1:T443 Arg2:T445	
+R583	Cueing Arg1:T444 Arg2:T445	
+T446	Entity 81522 81525	Tom
+R584	Addressee Arg1:T446 Arg2:T445	
+T447	Entity 81767 81770	she
+T448	Cue 81792 81801	whispered
+T449	Quotation 81803 81828	"It's nice-- make a man."
+R585	Speaker Arg1:T447 Arg2:T449	
+R586	Cueing Arg1:T448 Arg2:T449	
+T450	Entity 81829 81839	The artist
+R587	Addressee Arg1:T450 Arg2:T449	
+T451	Entity 81973 81976	she
+T452	Cue 82013 82022	whispered
+T453	Quotation 82024 82074	"It's a beautiful man-- now make me coming along."
+R588	Speaker Arg1:T451 Arg2:T453	
+R589	Cueing Arg1:T452 Arg2:T453	
+T454	Entity 82075 82078	Tom
+R590	Addressee Arg1:T454 Arg2:T453	
+T455	Entity 82192 82200	The girl
+T456	Cue 82201 82205	said
+T457	Quotation 82207 82250	"It's ever so nice -- I wish I could draw."
+R591	Cueing Arg1:T456 Arg2:T457	
+R592	Speaker Arg1:T455 Arg2:T457	
+T458	Quotation 82251 82263	"It's easy,"
+T459	Cue 82264 82273	whispered
+T460	Entity 82274 82277	Tom
+T461	Quotation 82279 82296	"I'll learn you."
+R593	Addressee Arg1:T460 Arg2:T457	
+R594	Cueing Arg1:T459 Arg2:T458	
+R595	Cueing Arg1:T459 Arg2:T461	
+R596	Speaker Arg1:T460 Arg2:T458	
+R597	Speaker Arg1:T460 Arg2:T461	
+R598	Addressee Arg1:T455 Arg2:T458	
+R599	Addressee Arg1:T455 Arg2:T461	
+T462	Quotation 82297 82318	"Oh, will you? When?"
+R600	Addressee Arg1:T460 Arg2:T462	
+R601	Speaker Arg1:T455 Arg2:T462	
+T463	Quotation 82319 82355	"At noon. Do you go home to dinner?"
+R602	Speaker Arg1:T460 Arg2:T463	
+R603	Addressee Arg1:T455 Arg2:T463	
+T464	Quotation 82356 82380	"I'll stay if you will."
+R604	Addressee Arg1:T460 Arg2:T464	
+R605	Speaker Arg1:T455 Arg2:T464	
+T465	Quotation 82381 82423	"Good-- that's a whack. What's your name?"
+R606	Speaker Arg1:T460 Arg2:T465	
+R607	Addressee Arg1:T455 Arg2:T465	
+T466	Quotation 82424 82487	"Becky Thatcher. What's yours? Oh, I know. It's Thomas Sawyer."
+R608	Addressee Arg1:T460 Arg2:T466	
+R609	Speaker Arg1:T455 Arg2:T466	
+T467	Quotation 82488 82572	"That's the name they lick me by. I'm Tom when I'm good. You call me Tom, will you?"
+R610	Speaker Arg1:T460 Arg2:T467	
+R611	Addressee Arg1:T455 Arg2:T467	
+T468	Quotation 82573 82579	"Yes."
+R612	Addressee Arg1:T460 Arg2:T468	
+R613	Speaker Arg1:T455 Arg2:T468	
+T469	Entity 82715 82718	Tom
+T470	Cue 82719 82723	said
+T471	Quotation 82725 82749	"Oh, it ain't anything."
+R614	Cueing Arg1:T470 Arg2:T471	
+R615	Speaker Arg1:T469 Arg2:T471	
+T472	Entity 82696 82699	She
+R616	Addressee Arg1:T472 Arg2:T471	
+T473	Quotation 82750 82762	"Yes it is."
+R617	Addressee Arg1:T469 Arg2:T473	
+R618	Speaker Arg1:T472 Arg2:T473	
+T474	Quotation 82763 82800	"No it ain't. You don't want to see."
+R619	Speaker Arg1:T469 Arg2:T474	
+R620	Addressee Arg1:T472 Arg2:T474	
+T475	Quotation 82801 82840	"Yes I do, indeed I do. Please let me."
+R621	Speaker Arg1:T472 Arg2:T475	
+R622	Addressee Arg1:T469 Arg2:T475	
+T476	Quotation 82841 82855	"You'll tell."
+R623	Speaker Arg1:T469 Arg2:T476	
+R624	Addressee Arg1:T472 Arg2:T476	
+T477	Quotation 82856 82907	"No I won't-- deed and deed and double deed won't."
+R625	Speaker Arg1:T472 Arg2:T477	
+R626	Addressee Arg1:T469 Arg2:T477	
+T478	Quotation 82908 82967	"You won't tell anybody at all? Ever, as long as you live?"
+R627	Speaker Arg1:T469 Arg2:T478	
+R628	Addressee Arg1:T472 Arg2:T478	
+T479	Quotation 82968 83012	"No, I won't ever tell ANYbody. Now let me."
+R629	Addressee Arg1:T469 Arg2:T479	
+R630	Speaker Arg1:T472 Arg2:T479	
+T480	Quotation 83013 83041	"Oh, YOU don't want to see!"
+R631	Speaker Arg1:T469 Arg2:T480	
+R632	Addressee Arg1:T472 Arg2:T480	
+T481	Quotation 83042 83081	"Now that you treat me so, I WILL see."
+T482	Entity 83086 83089	she
+T483	Entity 83147 83150	Tom
+R633	Speaker Arg1:T482 Arg2:T481	
+R634	Speaker Arg1:T483 Arg2:T481	
+T484	Quotation 83266 83286	"Oh, you bad thing!"
+T485	Entity 83291 83294	she
+T486	Entity 83299 83302	his
+R635	Speaker Arg1:T485 Arg2:T484	
+R636	Addressee Arg1:T486 Arg2:T484	

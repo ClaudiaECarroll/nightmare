@@ -1,0 +1,54 @@
+{
+  "threshold": 0.9,
+  "TP": 4,
+  "FP": 4,
+  "FN": 0,
+  "n_pred": 8,
+  "n_gold": 4,
+  "matched_gold": 4,
+  "precision": 0.5,
+  "recall": 1.0,
+  "f1": 0.6666666666666666,
+  "predictions": [
+    {
+      "string": "Nogood...IcanmanagetheletterpressallrightonceIgetthehangofthings.Butwhenitcomestoillustrations,Icantmakeevenagum-treelookasifitwasgrowing....AndGibbshateshavingamateursnapshotstoworkup....Hopelesstotryforalocalartist....IwonderifColinMcKeithcouldgivemeanidea.....WhytogoodnessdidntBiddyjoinme!....IfshedonlyhadthedecencytoletmeknowintimeWHYshecouldnt....Money,Isuppose--oraMan!....Well,Illwriteandtellhernevertoexpectaliteraryleg-upfrommeagain...",
+      "best_similarity": 0.1242,
+      "correct": false
+    },
+    {
+      "string": "Morning,MrsGildea...aheavymailforyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Myword!MrsGildea,thoselettersseemtohavedoneabitofglobe-trottingontheirown,dontthey!",
+      "best_similarity": 0.3833,
+      "correct": false
+    },
+    {
+      "string": "FromBiddyatlast!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Businessfirst.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hm!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "copy",
+      "best_similarity": 0.2,
+      "correct": false
+    },
+    {
+      "string": "DearestJoan,",
+      "best_similarity": 0.3077,
+      "correct": false
+    }
+  ]
+}

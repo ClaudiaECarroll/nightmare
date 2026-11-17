@@ -1,0 +1,1629 @@
+{
+  "threshold": 0.9,
+  "TP": 285,
+  "FP": 38,
+  "FN": 13,
+  "n_pred": 323,
+  "n_gold": 298,
+  "matched_gold": 285,
+  "precision": 0.8823529411764706,
+  "recall": 0.9563758389261745,
+  "f1": 0.9178743961352657,
+  "predictions": [
+    {
+      "string": "TOM!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TOM!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatsgonewiththatboy,Iwonder?YouTOM!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "style,",
+      "best_similarity": 0.4286,
+      "correct": false
+    },
+    {
+      "string": "Well,IlayifIgetholdofyouIll--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ineverdidseethebeatofthatboy!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "jimpson",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "Y-o-u-uTOM!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "There!Imightathoughtofthatcloset.Whatyoubeendoinginthere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nothing.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nothing!Lookatyourhands.Andlookatyourmouth.WhatISthattruck?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idontknow,aunt.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Iknow.Itsjam--thatswhatitis.FortytimesIvesaidifyoudidntletthatjamaloneIdskinyou.Handmethatswitch.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "My!Lookbehindyou,aunt!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hangtheboy,cantIneverlearnanything?Aintheplayedmetricksenoughlikethatformetobelookingoutforhimbythistime?Butoldfoolsisthebiggestfoolsthereis.Cantlearnanolddognewtricks,asthesayingis.Butmygoodness,heneverplaysthemalike,twodays,andhowisabodytoknowwhatscoming?HepearstoknowjusthowlonghecantormentmebeforeIgetmydanderup,andheknowsifhecanmakeouttoputmeoffforaminuteormakemelaugh,itsalldownagainandIcanthithimalick.Iaintdoingmydutybythatboy,andthatstheLordstruth,goodnessknows.Sparetherodandspilethechild,astheGoodBooksays.Imalayingupsinandsufferingforusboth,Iknow.HesfulloftheOldScratch,butlaws-a-me!hesmyowndeadsistersboy,poorthing,andIaintgotthehearttolashhim,somehow.EverytimeIlethimoff,myconsciencedoeshurtmeso,andeverytimeIhithimmyoldheartmostbreaks.Well-a-well,manthatisbornofwomanisoffewdaysandfulloftrouble,astheScripturesays,andIreckonitsso.Hellplayhookeythisevening,*and[*Southwesternforafternoon",
+      "best_similarity": 0.8899,
+      "correct": false
+    },
+    {
+      "string": "Tomdidplayhookey,andhehadaverygoodtime.HegotbackhomebarelyinseasontohelpJim,thesmallcoloredboy,sawnext-dayswoodandsplitthekindlingsbeforesupper--atleasthewasthereintimetotellhisadventurestoJimwhileJimdidthree-fourthsofthework.Tomsyoungerbrother(orratherhalf-brother)Sidwasalreadythroughwithhispartofthework(pickingupchips),forhewasaquietboy,andhadnoadventurous,troublesomeways.WhileTomwaseatinghissupper,andstealingsugarasopportunityoffered,AuntPollyaskedhimquestionsthatwerefullofguile,andverydeep--forshewantedtotraphimintodamagingrevealments.Likemanyothersimple-heartedsouls,itwasherpetvanitytobelieveshewasendowedwithatalentfordarkandmysteriousdiplomacy,andshelovedtocontemplatehermosttransparentdevicesasmarvelsoflowcunning.Saidshe:Tom,itwasmiddlingwarminschool,warntit?",
+      "best_similarity": 0.377,
+      "correct": false
+    },
+    {
+      "string": "Yesm.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Powerfulwarm,warntit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yesm.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Didntyouwanttogoina-swimming,Tom?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nom--well,notverymuch.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butyouainttoowarmnow,though.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Someofuspumpedonourheads--minesdampyet.See?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tom,youdidnthavetoundoyourshirtcollarwhereIsewedit,topumponyourhead,didyou?Unbuttonyourjacket!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bother!Well,golongwithyou.Idmadesureyoudplayedhookeyandbeena-swimming.ButIforgiveye,Tom.Ireckonyoureakindofasingedcat,asthesayingis--betternyoulook.THIStime.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,now,ifIdidntthinkyousewedhiscollarwithwhitethread,butitsblack.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,Ididsewitwithwhite!Tom!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Siddy,Illlickyouforthat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ShednevernoticedifithadntbeenforSid.Confoundit!sometimesshesewsitwithwhite,andsometimesshesewsitwithblack.Iwishtogeeminyshedsticktooneortother--Icantkeeptherunofem.ButIbetyouIlllamSidforthat.Illlearnhim!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icanlickyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idliketoseeyoutryit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Icandoit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Noyoucant,either.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YesIcan.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Noyoucant.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ican.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youcant.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Can!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Cant!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatsyourname?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tisntanyofyourbusiness,maybe.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WellIlowIllMAKEitmybusiness.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wellwhydontyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifyousaymuch,Iwill.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Much--much--MUCH.Therenow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,youthinkyouremightysmart,DONTyou?Icouldlickyouwithonehandtiedbehindme,ifIwantedto.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WellwhydontyouDOit?YouSAYyoucandoit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WellIWILL,ifyoufoolwithme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ohyes--Iveseenwholefamiliesinthesamefix.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Smarty!YouthinkyoureSOME,now,DONTyou?Oh,whatahat!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youcanlumpthathatifyoudontlikeit.Idareyoutoknockitoff--andanybodythatlltakeadarewillsuckeggs.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourealiar!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youreanother.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youreafightingliaranddasnttakeitup.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aw--takeawalk!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say--ifyougivememuchmoreofyoursassIlltakeandbouncearockoffnyourhead.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,ofCOURSEyouwill.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WellIWILL.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WellwhydontyouDOitthen?WhatdoyoukeepSAYINGyouwillfor?WhydontyouDOit?Itsbecauseyoureafraid.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IAINTafraid.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youare.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iaint.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youare.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Getawayfromhere!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goawayyourself!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwont.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwonteither.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youreacowardandapup.Illtellmybigbrotheronyou,andhecanthrashyouwithhislittlefinger,andIllmakehimdoit,too.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhatdoIcareforyourbigbrother?Ivegotabrotherthatsbiggerthanheis--andwhatsmore,hecanthrowhimoverthatfence,too.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsalie.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YOURsayingsodontmakeitso.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idareyoutostepoverthat,andIlllickyoutillyoucantstandup.Anybodythatlltakeadarewillstealsheep.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowyousaidyouddoit,nowletsseeyoudoit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontyoucrowdmenow;youbetterlookout.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,youSAIDyouddoit--whydontyoudoit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Byjingo!fortwocentsIWILLdoit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hollernuff!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hollernuff!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nuff!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowthatlllearnyou.Betterlookoutwhoyourefoolingwithnexttime.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "nexttimehecaughthimout.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "lowed",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "lay",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say,Jim,Illfetchthewaterifyoullwhitewashsome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Cant,MarsTom.Olemissis,shetolemeIgottogoangitdiswaterannotstopfoolinrounwidanybody.ShesayshespecMarsTomgwinetoaxmetowhitewash,ansoshetolemegolongantendtomyownbusiness--shelowedSHEDtendtodewhitewashin.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,neveryoumindwhatshesaid,Jim.Thatsthewayshealwaystalks.Gimmethebucket--Iwontbegoneonlyaaminute.SHEwonteverknow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Idasnt,MarsTom.Olemississhedtakeantardeheadoffnme.Deedshewould.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SHE!Sheneverlicksanybody--whacksemovertheheadwithherthimble--andwhocaresforthat,Idliketoknow.Shetalksawful,buttalkdonthurt--anywaysitdontifshedontcry.Jim,Illgiveyouamarvel.Illgiveyouawhitealley!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whitealley,Jim!Anditsabullytaw.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "My!Datsamightygaymarvel,Itellyou!ButMarsTomIspowerfulfraidolemissis--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andbesides,ifyouwillIllshowyoumysoretoe.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Stopher,sir!Ting-a-ling-ling!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shipuptoback!Ting-a-ling-ling!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Setherbackonthestabboard!Ting-a-ling-ling!Chow!ch-chow-wow!Chow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lethergobackonthelabboard!Ting-a-lingling!Chow-ch-chow-chow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Stopthestabboard!Ting-a-ling-ling!Stopthelabboard!Comeaheadonthestabboard!Stopher!Letyouroutsideturnoverslow!Ting-a-ling-ling!Chow-ow-ow!Getoutthathead-line!LIVELYnow!Come--outwithyourspring-line--whatreyouaboutthere!Takeaturnroundthatstumpwiththebightofit!Standbythatstage,now--lethergo!Donewiththeengines,sir!Ting-a-ling-ling!SHT!SHT!SHT!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hi-YI!YOUREupastump,aintyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hello,oldchap,yougottowork,hey?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,itsyou,Ben!Iwarntnoticing.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say--Imgoingina-swimming,Iam.Dontyouwishyoucould?ButofcourseyouddrutherWORK--wouldntyou?Courseyouwould!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatdoyoucallwork?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,aintTHATwork?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,maybeitis,andmaybeitaint.AllIknow,is,itsuitsTomSawyer.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ohcome,now,youdontmeantoletonthatyouLIKEit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Likeit?Well,IdontseewhyIoughtnttolikeit.Doesaboygetachancetowhitewashafenceeveryday?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say,Tom,letMEwhitewashalittle.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No--no--Ireckonitwouldnthardlydo,Ben.Yousee,AuntPollysawfulparticularaboutthisfence--righthereonthestreet,youknow--butifitwasthebackfenceIwouldntmindandSHEwouldnt.Yes,shesawfulparticularaboutthisfence;itsgottobedoneverycareful;Ireckonthereaintoneboyinathousand,maybetwothousand,thatcandoitthewayitsgottobedone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No--isthatso?Ohcome,now--lemmejusttry.Onlyjustalittle--IdletYOU,ifyouwasme,Tom.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ben,Idliketo,honestinjun;butAuntPolly--well,Jimwantedtodoit,butshewouldntlethim;Sidwantedtodoit,andshewouldntletSid.NowdontyouseehowImfixed?Ifyouwastotacklethisfenceandanythingwastohappentoit--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,shucks,Illbejustascareful.Nowlemmetry.Say--Illgiveyouthecoreofmyapple.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,here--No,Ben,nowdont.Imafeard--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IllgiveyouALLofit!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MayntIgoandplaynow,aunt?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What,aready?Howmuchhaveyoudone?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsalldone,aunt.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tom,dontlietome--Icantbearit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iaint,aunt;itISalldone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Inever!Theresnogettingroundit,youcanworkwhenyoureamindto,Tom.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butitspowerfulseldomyoureamindto,Imboundtosay.Well,golongandplay;butmindyougetbacksometimeinaweek,orIlltanyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "hooked",
+      "best_similarity": 0.5455,
+      "correct": false
+    },
+    {
+      "string": "military",
+      "best_similarity": 0.5455,
+      "correct": false
+    },
+    {
+      "string": "showoff",
+      "best_similarity": 0.3636,
+      "correct": false
+    },
+    {
+      "string": "showingoff,",
+      "best_similarity": 0.4211,
+      "correct": false
+    },
+    {
+      "string": "whathadgotintothechild.",
+      "best_similarity": 0.4878,
+      "correct": false
+    },
+    {
+      "string": "Aunt,youdontwhackSidwhenhetakesit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Siddonttormentabodythewayyoudo.YoudbealwaysintothatsugarifIwarntwatchingyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "catchit.",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "Nowitscoming!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Holdon,now,whateryoubeltingMEfor?--Sidbrokeit!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Umf!Well,youdidntgetalickamiss,Ireckon.YoubeenintosomeotheraudaciousmischiefwhenIwasntaround,likeenough.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "referencestoallusions,",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "gethisverses.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Blessedarethe--a--a--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Poor",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes--poor;blessedarethepoor--a--a--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inspirit--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inspirit;blessedarethepoorinspirit,forthey--they--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "THEIRS--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ForTHEIRS.Blessedarethepoorinspirit,fortheirsisthekingdomofheaven.Blessedaretheythatmourn,forthey--they--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sh--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Forthey--a--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "S,H,A--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "FortheyS,H--Oh,Idontknowwhatitis!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SHALL!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,SHALL!fortheyshall--fortheyshall--a--a--shallmourn--a--a--blessedaretheythatshall--theythat--a--theythatshallmourn,fortheyshall--a--shallWHAT?Whydontyoutellme,Mary?--whatdoyouwanttobesomeanfor?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Tom,youpoorthick-headedthing,Imnotteasingyou.Iwouldntdothat.Youmustgoandlearnitagain.Dontyoubediscouraged,Tom,youllmanageit--andifyoudo,Illgiveyousomethingeversonice.There,now,thatsagoodboy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Allright!Whatisit,Mary,tellmewhatitis.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Neveryoumind,Tom.YouknowifIsayitsnice,itisnice.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youbetyouthatsso,Mary.Allright,Illtackleitagain.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "tackleitagain",
+      "best_similarity": 0.4516,
+      "correct": false
+    },
+    {
+      "string": "Barlow",
+      "best_similarity": 0.5455,
+      "correct": false
+    },
+    {
+      "string": "sure-enough",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Nowaintyouashamed,Tom.Youmustntbesobad.Waterwonthurtyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "otherclothes",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "puthimtorights",
+      "best_similarity": 0.4286,
+      "correct": false
+    },
+    {
+      "string": "Please,Tom--thatsagoodboy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say,Billy,gotayallerticket?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatllyoutakeforher?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatllyougive?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pieceoflickrishandafish-hook.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lessseeem.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ouch!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "spreadhimself.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Now,children,Iwantyoualltositupjustasstraightandprettyasyoucanandgivemeallyourattentionforaminuteortwo.There--thatisit.Thatisthewaygoodlittleboysandgirlsshoulddo.Iseeonelittlegirlwhoislookingoutofthewindow--IamafraidshethinksIamouttheresomewhere--perhapsupinoneofthetreesmakingaspeechtothelittlebirds.[Applausivetitter.]Iwanttotellyouhowgooditmakesmefeeltoseesomanybright,cleanlittlefacesassembledinaplacelikethis,learningtodorightandbegood.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "showingoff",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "Lookathim,Jim!Hesagoingupthere.Say--look!hesagoingtoshakehandswithhim--heISshakinghandswithhim!Byjings,dontyouwishyouwasJeff?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "showingoff,",
+      "best_similarity": 0.4211,
+      "correct": false
+    },
+    {
+      "string": "showedoff",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "showedoff",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "showedoff",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "showedoff",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "showedoff",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "showingoff,",
+      "best_similarity": 0.4211,
+      "correct": false
+    },
+    {
+      "string": "Tom.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,no,notTom--itis--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thomas.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah,thatsit.Ithoughttherewasmoretoit,maybe.Thatsverywell.ButyouveanotheroneIdaresay,andyoulltellittome,wontyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tellthegentlemanyourothername,Thomas,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andsaysir.Youmustntforgetyourmanners.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThomasSawyer--sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsit!Thatsagoodboy.Fineboy.Fine,manlylittlefellow.Twothousandversesisagreatmany--very,verygreatmany.Andyounevercanbesorryforthetroubleyoutooktolearnthem;forknowledgeisworthmorethananythingthereisintheworld;itswhatmakesgreatmenandgoodmen;youllbeagreatmanandagoodmanyourself,someday,Thomas,andthenyoulllookbackandsay,ItsallowingtothepreciousSunday-schoolprivilegesofmyboyhood--itsallowingtomydearteachersthattaughtmetolearn--itsallowingtothegoodsuperintendent,whoencouragedme,andwatchedoverme,andgavemeabeautifulBible--asplendidelegantBible--tokeepandhaveitallformyown,always--itsallowingtorightbringingup!Thatiswhatyouwillsay,Thomas--andyouwouldnttakeanymoneyforthosetwothousandverses--noindeedyouwouldnt.Andnowyouwouldntmindtellingmeandthisladysomeofthethingsyouvelearned--no,Iknowyouwouldnt--forweareproudoflittleboysthatlearn.Now,nodoubtyouknowthenamesofallthetwelvedisciples.Wontyoutellusthenamesofthefirsttwothatwereappointed?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Answerthegentleman,Thomas--dontbeafraid.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "NowIknowyoulltellme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thenamesofthefirsttwodiscipleswere--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DAVIDANDGOLIAH!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thrownuptothem",
+      "best_similarity": 0.4667,
+      "correct": false
+    },
+    {
+      "string": "sociables",
+      "best_similarity": 0.4211,
+      "correct": false
+    },
+    {
+      "string": "wall",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "Wordscannotexpressit;itistoobeautiful,TOObeautifulforthismortalearth.",
+      "best_similarity": 0.3974,
+      "correct": false
+    },
+    {
+      "string": "notices",
+      "best_similarity": 0.4211,
+      "correct": false
+    },
+    {
+      "string": "Amen",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "pinchbug,",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "starter,",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "Sid,Sid!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tom!Say,Tom!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Here,Tom!TOM!Whatisthematter,Tom?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,dont,Sid.Dontjoggleme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,whatsthematter,Tom?Imustcallauntie.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No--nevermind.Itllbeoverbyandby,maybe.Dontcallanybody.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButImust!DONTgroanso,Tom,itsawful.Howlongyoubeenthisway?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hours.Ouch!Oh,dontstirso,Sid,youllkillme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tom,whydidntyouwakemesooner?Oh,Tom,DONT!Itmakesmyfleshcrawltohearyou.Tom,whatisthematter?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iforgiveyoueverything,Sid.[Groan.]Everythingyouveeverdonetome.WhenImgone--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Tom,youaintdying,areyou?Dont,Tom--oh,dont.Maybe--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iforgiveeverybody,Sid.[Groan.]Tellemso,Sid.AndSid,yougivemywindow-sashandmycatwithoneeyetothatnewgirlthatscometotown,andtellher--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,AuntPolly,come!Tomsdying!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dying!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yesm.Dontwait--comequick!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Rubbage!Idontbelieveit!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "You,Tom!Tom,whatsthematterwithyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,auntie,Im--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatsthematterwithyou--whatisthematterwithyou,child?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,auntie,mysoretoesmortified!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tom,whataturnyoudidgiveme.Nowyoushutupthatnonsenseandclimboutofthis.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AuntPolly,itSEEMEDmortified,andithurtsoInevermindedmytoothatall.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourtooth,indeed!Whatsthematterwithyourtooth?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oneofthemsloose,anditachesperfectlyawful.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "There,there,now,dontbeginthatgroaningagain.Openyourmouth.Well--yourtoothISloose,butyourenotgoingtodieaboutthat.Mary,getmeasilkthread,andachunkoffireoutofthekitchen.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,please,auntie,dontpullitout.Itdonthurtanymore.IwishImayneverstirifitdoes.Pleasedont,auntie.Idontwanttostayhomefromschool.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,youdont,dontyou?Soallthisrowwasbecauseyouthoughtyoudgettostayhomefromschoolandgoa-fishing?Tom,Tom,Iloveyouso,andyouseemtotryeverywayyoucantobreakmyoldheartwithyouroutrageousness.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sourgrapes!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hello,Huckleberry!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Helloyourself,andseehowyoulikeit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatsthatyougot?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Deadcat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lemmeseehim,Huck.My,hesprettystiff.Wheredyougethim?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Boughthimoffnaboy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatdidyougive?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IgiveablueticketandabladderthatIgotattheslaughter-house.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wheredyougettheblueticket?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "BoughtitoffnBenRogerstwoweeksagoforahoop-stick.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say--whatisdeadcatsgoodfor,Huck?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodfor?Curewartswith.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No!Isthatso?Iknowsomethingthatsbetter.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ibetyoudont.Whatisit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,spunk-water.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Spunk-water!Iwouldntgiveadernforspunk-water.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwouldnt,wouldntyou?Dyouevertryit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,Ihaint.ButBobTannerdid.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whotoldyouso!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,hetoldJeffThatcher,andJefftoldJohnnyBaker,andJohnnytoldJimHollis,andJimtoldBenRogers,andBentoldanigger,andtheniggertoldme.Therenow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,whatofit?Theyllalllie.Leastwaysallbutthenigger.IdontknowHIM.ButIneverseeaniggerthatWOULDNTlie.Shucks!NowyoutellmehowBobTannerdoneit,Huck.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,hetookanddippedhishandinarottenstumpwheretherain-waterwas.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inthedaytime?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Certainly.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Withhisfacetothestump?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.LeastIreckonso.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Didhesayanything?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idontreckonhedid.Idontknow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aha!Talkabouttryingtocurewartswithspunk-watersuchablamefoolwayasthat!Why,thatainta-goingtodoanygood.Yougottogoallbyyourself,tothemiddleofthewoods,whereyouknowtheresaspunk-waterstump,andjustasitsmidnightyoubackupagainstthestumpandjamyourhandinandsay:Barley-corn,barley-corn,injun-mealshorts,Spunk-water,spunk-water,swallerthesewarts,andthenwalkawayquick,elevensteps,withyoureyesshut,andthenturnaroundthreetimesandwalkhomewithoutspeakingtoanybody.Becauseifyouspeakthecharmsbusted.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,thatsoundslikeagoodway;butthataintthewayBobTannerdone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,sir,youcanbethedidnt,becuzhesthewartiestboyinthistown;andhewouldnthaveawartonhimifhedknowedhowtoworkspunk-water.Ivetookoffthousandsofwartsoffofmyhandsthatway,Huck.IplaywithfrogssomuchthatIvealwaysgotconsiderablemanywarts.SometimesItakeemoffwithabean.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,beansgood.Ivedonethat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Haveyou?Whatsyourway?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youtakeandsplitthebean,andcutthewartsoastogetsomeblood,andthenyouputthebloodononepieceofthebeanandtakeanddigaholeandburyitboutmidnightatthecrossroadsinthedarkofthemoon,andthenyouburnuptherestofthebean.Youseethatpiecethatsgotthebloodonitwillkeepdrawinganddrawing,tryingtofetchtheotherpiecetoit,andsothathelpsthebloodtodrawthewart,andprettysoonoffshecomes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,thatsit,Huck--thatsit;thoughwhenyoureburyingitifyousayDownbean;offwart;comenomoretobotherme!itsbetter.ThatsthewayJoeHarperdoes,andhesbeennearlytoCoonvilleandmosteverywheres.Butsay--howdoyoucureemwithdeadcats?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,youtakeyourcatandgoandgetinthegraveyardlongaboutmidnightwhensomebodythatwaswickedhasbeenburied;andwhenitsmidnightadevilwillcome,ormaybetwoorthree,butyoucantseeem,youcanonlyhearsomethinglikethewind,ormaybehearemtalk;andwhentheyretakingthatfelleraway,youheaveyourcatafteremandsay,Devilfollowcorpse,catfollowdevil,wartsfollowcat,Imdonewithye!ThatllfetchANYwart.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Soundsright.Dyouevertryit,Huck?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,butoldMotherHopkinstoldme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Ireckonitsso,then.Becuztheysayshesawitch.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say!Why,Tom,IKNOWsheis.Shewitchedpap.Papsayssohisownself.Hecomealongoneday,andheseeshewasa-witchinghim,sohetookuparock,andifshehadntdodged,hedagother.Well,thatverynightherolledoffnashedwherhewasalayindrunk,andbrokehisarm.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,thatsawful.Howdidheknowshewasa-witchinghim?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lord,papcantell,easy.Papsayswhentheykeeplookingatyourightstiddy,theyrea-witchingyou.Speciallyiftheymumble.BecuzwhentheymumbletheyresayingtheLordsPrayerbackards.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say,Hucky,whenyougoingtotrythecat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "To-night.IreckontheyllcomeafteroldHossWilliamsto-night.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButtheyburiedhimSaturday.DidnttheygethimSaturdaynight?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,howyoutalk!Howcouldtheircharmsworktillmidnight?--andTHENitsSunday.DevilsdontslosharoundmuchofaSunday,Idontreckon.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ineverthoughtofthat.Thatsso.Lemmegowithyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ofcourse--ifyouaintafeard.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Afeard!Taintlikely.Willyoumeow?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes--andyoumeowback,ifyougetachance.Lasttime,youkepmea-meowingaroundtilloldHayswenttothrowingrocksatmeandsaysDernthatcat!andsoIhoveabrickthroughhiswindow--butdontyoutell.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwont.Icouldntmeowthatnight,becuzauntiewaswatchingme,butIllmeowthistime.Say--whatsthat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nothingbutatick.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wheredyougethim?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Outinthewoods.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatllyoutakeforhim?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idontknow.Idontwanttosellhim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Allright.Itsamightysmalltick,anyway.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,anybodycanrunatickdownthatdontbelongtothem.Imsatisfiedwithit.Itsagoodenoughtickforme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sho,theresticksaplenty.IcouldhaveathousandofemifIwantedto.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,whydontyou?Becuzyouknowmightywellyoucant.Thisisaprettyearlytick,Ireckon.ItsthefirstoneIveseenthisyear.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say,Huck--Illgiveyoumytoothforhim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lessseeit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isitgenuwyne?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,allright,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itsatrade.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThomasSawyer!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sir!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Comeuphere.Now,sir,whyareyoulateagain,asusual?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ISTOPPEDTOTALKWITHHUCKLEBERRYFINN!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "You--youdidwhat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "StoppedtotalkwithHuckleberryFinn.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThomasSawyer,thisisthemostastoundingconfessionIhaveeverlistenedto.Nomereferulewillanswerforthisoffence.Takeoffyourjacket.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Now,sir,goandsitwiththegirls!Andletthisbeawarningtoyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "madeamouth",
+      "best_similarity": 0.4615,
+      "correct": false
+    },
+    {
+      "string": "Pleasetakeit--Igotmore.",
+      "best_similarity": 0.5306,
+      "correct": false
+    },
+    {
+      "string": "Letmeseeit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsnice--makeaman.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsabeautifulman--nowmakemecomingalong.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itseversonice--IwishIcoulddraw.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itseasy,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illlearnyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,willyou?When?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Atnoon.Doyougohometodinner?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illstayifyouwill.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Good--thatsawhack.Whatsyourname?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "BeckyThatcher.Whatsyours?Oh,Iknow.ItsThomasSawyer.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsthenametheylickmeby.ImTomwhenImgood.YoucallmeTom,willyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,itaintanything.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yesitis.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Noitaint.Youdontwanttosee.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YesIdo,indeedIdo.Pleaseletme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youlltell.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "NoIwont--deedanddeedanddoubledeedwont.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwonttellanybodyatall?Ever,aslongasyoulive?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,IwontevertellANYbody.Nowletme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,YOUdontwanttosee!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowthatyoutreatmeso,IWILLsee.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ILOVEYOU.",
+      "best_similarity": 0.3158,
+      "correct": false
+    },
+    {
+      "string": "Oh,youbadthing!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "turneddown,",
+      "best_similarity": 0.4211,
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "threshold": 0.9,
+  "TP": 11,
+  "FP": 5,
+  "FN": 0,
+  "n_pred": 16,
+  "n_gold": 11,
+  "matched_gold": 11,
+  "precision": 0.6875,
+  "recall": 1.0,
+  "f1": 0.8148148148148148,
+  "predictions": [
+    {
+      "string": "twosing,",
+      "best_similarity": 0.375,
+      "correct": false
+    },
+    {
+      "string": "Psychic,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "spiritual.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "gym",
+      "best_similarity": 0.1818,
+      "correct": false
+    },
+    {
+      "string": "crushes",
+      "best_similarity": 0.2667,
+      "correct": false
+    },
+    {
+      "string": "Whatshallwedowhenwefinishcollege?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "beastlyclassroomandgrubbychildren",
+      "best_similarity": 0.3571,
+      "correct": false
+    },
+    {
+      "string": "guidetheirfeetalongthepathsofgreatestusefulness.",
+      "best_similarity": 0.3542,
+      "correct": false
+    },
+    {
+      "string": "Thesecollegechumpsmakemetired.Theyresotop-lofty.Theyoughttoofworkedonthefarm,thewayIhave.Theseworkmenputitalloverthem.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ijustlovecommonworkmen,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Onlyyoudontwanttoforgetthatcommonworkmendontthinktheyrecommon!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youreright!Iapologize!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iknow.You_get_people.Mostofthesedarnco-eds----Say,Carol,youcoulddoalotforpeople.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh--ohwell--youknow--sympathyandeverything--ifyouwere--sayyouwerealawyerswife.Youdunderstandhisclients.Imgoingtobealawyer.IadmitIfalldowninsympathysometimes.Igetsodog-goneimpatientwithpeoplethatcantstandthegaff.Youdbegoodforafellowthatwastooserious.Makehimmore--more--YOUknow--sympathetic!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,seethosepoorsheep--millionsandmillionsofthem.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThatswhatIlldoaftercollege!Illgetmyhandsononeoftheseprairietownsandmakeitbeautiful.Beaninspiration.IsupposeIdbetterbecomeateacherthen,but--Iwontbethatkindofateacher.Iwontdrone.WhyshouldtheyhaveallthegardensuburbsonLongIsland?NobodyhasdoneanythingwiththeuglytownshereintheNorthwestexceptholdrevivalsandbuildlibrariestocontaintheElsiebooks.Illmakeemputinavillagegreen,anddarlingcottages,andaquaintMainStreet!",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

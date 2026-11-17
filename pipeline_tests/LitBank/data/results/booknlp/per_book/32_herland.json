@@ -1,0 +1,134 @@
+{
+  "threshold": 0.9,
+  "TP": 20,
+  "FP": 4,
+  "FN": 0,
+  "n_pred": 24,
+  "n_gold": 20,
+  "matched_gold": 20,
+  "precision": 0.8333333333333334,
+  "recall": 1.0,
+  "f1": 0.9090909090909091,
+  "predictions": [
+    {
+      "string": "thewondersofscience.",
+      "best_similarity": 0.3784,
+      "correct": false
+    },
+    {
+      "string": "Upyonder,",
+      "best_similarity": 0.381,
+      "correct": false
+    },
+    {
+      "string": "Overthere,",
+      "best_similarity": 0.375,
+      "correct": false
+    },
+    {
+      "string": "Wayup--was",
+      "best_similarity": 0.3125,
+      "correct": false
+    },
+    {
+      "string": "river--overthere,shortriver,sweetwater,redandblue.",
+      "best_similarity": 0.9247,
+      "correct": true
+    },
+    {
+      "string": "River--goodwater--redandblue.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatdoeshesay,Van?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Askhimhowfaritis.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Letsgo,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Justusthree.Maybewecanreallyfindsomething.Maybecinnabarinit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Maybeindigo,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "longway--allday.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oneofthoselongeasterlyspurs,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Maybehundredsofmilesfromtherange.Theycropoutlikethat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatssnowwater,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mustcomefromwaybackinthehills.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Chemicalsofsomesort--Icanttellonthespot.Looktomelikedyestuffs.Letsgetnearer,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "uptherebythefall.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Onedayblue--onedayred--onedaygreen,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Comedown,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WomanCountry--upthere.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theymightstayifwetoldthem,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lookhere,fellows,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thisisourfind.Letsnottellthosecockyoldprofessors.Letsgoonhomewithem,andthencomeback--justus--havealittleexpeditionofourown.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

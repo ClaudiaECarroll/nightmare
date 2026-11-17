@@ -1,0 +1,254 @@
+{
+  "threshold": 0.9,
+  "TP": 41,
+  "FP": 7,
+  "FN": 4,
+  "n_pred": 48,
+  "n_gold": 45,
+  "matched_gold": 41,
+  "precision": 0.8541666666666666,
+  "recall": 0.9111111111111111,
+  "f1": 0.8817204301075269,
+  "predictions": [
+    {
+      "string": "SYARN",
+      "best_similarity": 0.25,
+      "correct": false
+    },
+    {
+      "string": "Itisverykindofyoutocomeround,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itmusthavebeenheavywalkinginthesnow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Macumazahn--Anglicè,hewhokeepsabrightlook-outatnight,or,invulgarEnglish,asharpfellowwhoisnottobetakenin.",
+      "best_similarity": 0.2676,
+      "correct": false
+    },
+    {
+      "string": "Oldfriends,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "howlongisitsincewegotbackfromKukuanaland?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Threeyears,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whydoyouask?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IaskbecauseIthinkthatIhavehadalongenoughspellofcivilization.Iamgoingbacktotheveldt.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howveryodd,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "eh,Good?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,odd--veryodd.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idontquiteunderstand,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontyou,oldfellow?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thenIwillexplain.AsGoodandIwerewalkingupherewehadatalk.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IfGoodwasthereyouprobablydid,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andwhatmayithavebeenabout?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatdoyouthink?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,itwasaboutalittleplanthatIhaveformed--namely,thatifyouwerewillingweshouldpackupourtrapsandgoofftoAfricaonanotherexpedition.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youdontsayso!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YesIdo,though,andsodoesGood;dontyou,Good?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Rather,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Listen,oldfellow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Im",
+      "best_similarity": 0.25,
+      "correct": false
+    },
+    {
+      "string": "Hepaused,andthenwentonagain.",
+      "best_similarity": 0.3158,
+      "correct": false
+    },
+    {
+      "string": "Ah!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithoughtyouwouldcometothatsoonerorlater.Andnow,Good,whatisyourreasonforwantingtotrek;haveyougotone?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihave,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ineverdoanythingwithoutareason;anditisntalady--atleast,ifitis,itsseveral.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatisit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,ifyoureallywanttoknow,thoughIdrathernotspeakofadelicateandstrictlypersonalmatter,Illtellyou:Im",
+      "best_similarity": 0.934,
+      "correct": true
+    },
+    {
+      "string": "Shutup,Good!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andnow,Quatermain,tellus,wheredoyouproposegoingto?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HaveyoupeopleeverheardofMtKenia?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontknowtheplace,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DidyoueverhearoftheIslandofLamu?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No.Stop,though--isntitaplaceabout300milesnorthofZanzibar?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.Nowlisten.WhatIhavetoproposeisthis.ThatwegotoLamuandthencemakeourwayabout250milesinlandtoMtKenia;fromMtKeniaoninlandtoMtLekakisera,another200miles,orthereabouts,beyondwhichnowhitemanhastothebestofmybeliefeverbeen;andthen,ifwegetsofar,rightonintotheunknowninterior.Whatdoyousaytothat,myhearties?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsabigorder,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youareright,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itis;butItakeitthatweareallthreeofusinsearchofabigorder.Wewantachangeofscene,andwearelikelytogetone--athoroughchange.AllmylifeIhavelongedtovisitthoseparts,andImeantodoitbeforeIdie.Mypoorboysdeathhasbrokenthelastlinkbetweenmeandcivilization,andIm",
+      "best_similarity": 0.6525,
+      "correct": false
+    },
+    {
+      "string": "Im",
+      "best_similarity": 0.25,
+      "correct": false
+    },
+    {
+      "string": "saidSirHenryCurtis,risingandplacinghisarmuponmyshoulder.",
+      "best_similarity": 0.2955,
+      "correct": false
+    },
+    {
+      "string": "Ditto,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illgointotrainingatonce.ByallmeansletsgotoMtKeniaandtheotherplacewithanunpronounceablename,andlookforawhiteracethatdoesnotexist.Itsallonetome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whendoyouproposetostart?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thisdaymonth,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "bytheBritishIndiasteamboat;anddontyoubesocertainthatthingshavenoexistencebecauseyoudonothappentohaveheardofthem.RememberKingSolomonsmines!",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "threshold": 0.9,
+  "TP": 17,
+  "FP": 0,
+  "FN": 37,
+  "n_pred": 17,
+  "n_gold": 54,
+  "matched_gold": 17,
+  "precision": 1.0,
+  "recall": 0.3148148148148148,
+  "f1": 0.4788732394366197,
+  "predictions": [
+    {
+      "string": "Ishouldnthaveanyobjection,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ibelieve,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihaventgotanythingshortoftwenty-fivecents.Haveyougotanychange?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Notacent,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AllmymoneysinvestedintheErieRailroad.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsunfortunate.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ShallIgetthemoneychanged,sir?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icanntwait;Ivegottomeetanappointmentimmediately.Illhandyoutwenty-fivecents,andyoucanleavethechangeatmyofficeanytimeduringtheday.",
+      "best_similarity": 0.9961,
+      "correct": true
+    },
+    {
+      "string": "Allright,sir.Whereisit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No.125FultonStreet.Shallyouremember?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,sir.Whatname?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Greyson,—officeonsecondfloor.",
+      "best_similarity": 0.9492,
+      "correct": true
+    },
+    {
+      "string": "Allright,sir;Illbringit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwonderwhetherthelittlescampwillprovehonest,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifhedoes,Illgivehimmycustomregularly.Ifhedontasismostlikely,Ishantmindthelossoffifteencents.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iguesshewouldntwanttostaylongifhedidgetin,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "LeastwaysIshouldnt.Theyresopreciousgladtoseeyouthattheywontletyougo,butboardyougratooitous,andneversendinnobills.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

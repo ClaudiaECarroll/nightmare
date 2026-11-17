@@ -1,0 +1,139 @@
+{
+  "threshold": 0.9,
+  "TP": 14,
+  "FP": 11,
+  "FN": 31,
+  "n_pred": 25,
+  "n_gold": 45,
+  "matched_gold": 14,
+  "precision": 0.56,
+  "recall": 0.3111111111111111,
+  "f1": 0.4,
+  "predictions": [
+    {
+      "string": "itmusthavebeenheavywalkinginthesnow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Macumazahn—Anglicè,hewhokeepsabrightlook-outatnight,or,invulgarEnglish,asharpfellowwhoisnottobetakenin.",
+      "best_similarity": 0.2685,
+      "correct": false
+    },
+    {
+      "string": "slife.Next,Iopenedacupboardinthewainscotingandgotabottleofwhiskyandsometumblersandwater.Ialwaysliketodothesethingsformyself:itisirritatingtometohavesomebodycontinuallyatmyelbow,asthoughIwereaneighteen-month-oldbaby.AllthiswhileCurtisandGoodhadbeensilent,feeling,Isuppose,thattheyhadnothingtosaythatcoulddomeanygood,andcontenttogivemethecomfortoftheirpresenceandunspokensympathy;foritwasonlytheirsecondvisitsincethefuneral.Anditis,bytheway,fromthepresenceofothersthatwereallyderivesupportinourdarkhoursofgrief,andnotfromtheirtalk,whichoftenonlyservestoirritateus.Beforeabadstormthegamealwaysherdtogether,buttheyceasetheircalling.",
+      "best_similarity": 0.224,
+      "correct": false
+    },
+    {
+      "string": "howlongisitsincewegotbackfromKukuanaland?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whydoyouask?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IaskbecauseIthinkthatIhavehadalongenoughspellofcivilization.Iamgoingbacktotheveldt.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "eh,Good?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,odd—veryodd.",
+      "best_similarity": 0.9091,
+      "correct": true
+    },
+    {
+      "string": "thenIwillexplain.AsGoodandIwerewalkingupherewehadatalk.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andwhatmayithavebeenabout?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatdoyouthink?askedSirHenry.",
+      "best_similarity": 0.6818,
+      "correct": false
+    },
+    {
+      "string": "Well,itwasaboutalittleplanthatIhaveformed—namely,thatifyouwerewillingweshouldpackupourtrapsandgoofftoAfricaonanotherexpedition.",
+      "best_similarity": 0.9882,
+      "correct": true
+    },
+    {
+      "string": "Rather,saidthatgentleman.",
+      "best_similarity": 0.4375,
+      "correct": false
+    },
+    {
+      "string": "And,afterall,whyshouldInotgo?Ihavenowifeorparent,nochickorchildtokeepme.IfanythinghappenstomethebaronetcywillgotomybrotherGeorgeandhisboy,asitwouldultimatelydoinanycase.Iamofnoimportancetoanyone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithoughtyouwouldcometothatsoonerorlater.Andnow,Good,whatisyourreasonforwantingtotrek;haveyougotone?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "sseveral.",
+      "best_similarity": 0.3846,
+      "correct": false
+    },
+    {
+      "string": "Whatisit?Isaid.",
+      "best_similarity": 0.75,
+      "correct": false
+    },
+    {
+      "string": "Andnow,Quatermain,tellus,wheredoyouproposegoingto?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HaveyoupeopleeverheardofMtKenia?Iasked.",
+      "best_similarity": 0.9014,
+      "correct": true
+    },
+    {
+      "string": "DidyoueverhearoftheIslandofLamu?Iaskedagain.",
+      "best_similarity": 0.8421,
+      "correct": false
+    },
+    {
+      "string": "Yes.Nowlisten.WhatIhavetoproposeisthis.ThatwegotoLamuandthencemakeourwayabout250milesinlandtoMtKenia;fromMtKeniaoninlandtoMtLekakisera,another200miles,orthereabouts,beyondwhichnowhitemanhastothebestofmybeliefeverbeen;andthen,ifwegetsofar,rightonintotheunknowninterior.Whatdoyousaytothat,myhearties?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "llgoalone.",
+      "best_similarity": 0.2727,
+      "correct": false
+    },
+    {
+      "string": "tbelieveinyourwhiterace,saidSirHenryCurtis,risingandplacinghisarmuponmyshoulder.",
+      "best_similarity": 0.3871,
+      "correct": false
+    },
+    {
+      "string": "Whendoyouproposetostart?askedSirHenry.",
+      "best_similarity": 0.7742,
+      "correct": false
+    },
+    {
+      "string": "smines!",
+      "best_similarity": 0.3333,
+      "correct": false
+    }
+  ]
+}

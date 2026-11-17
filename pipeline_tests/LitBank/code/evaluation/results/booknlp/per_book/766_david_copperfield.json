@@ -1,0 +1,84 @@
+{
+  "threshold": 0.9,
+  "TP": 10,
+  "FP": 4,
+  "FN": 0,
+  "n_pred": 14,
+  "n_gold": 10,
+  "matched_gold": 10,
+  "precision": 0.7142857142857143,
+  "recall": 1.0,
+  "f1": 0.8333333333333333,
+  "predictions": [
+    {
+      "string": "meandering",
+      "best_similarity": 0.625,
+      "correct": false
+    },
+    {
+      "string": "Letushavenomeandering.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thereby",
+      "best_similarity": 0.3636,
+      "correct": false
+    },
+    {
+      "string": "handsomeis,thathandsomedoes--forhewasstronglysuspectedofhavingbeatenMissBetsey,andevenofhavingonce,onadisputedquestionofsupplies,madesomehastybutdeterminedarrangementstothrowheroutofatwopairofstairs",
+      "best_similarity": 0.1867,
+      "correct": false
+    },
+    {
+      "string": "awaxdoll",
+      "best_similarity": 0.2609,
+      "correct": false
+    },
+    {
+      "string": "Mrs.DavidCopperfield,Ithink,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MissTrotwood,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhaveheardofher,Idaresay?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowyouseeher,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ohtut,tut,tut!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontdothat!Come,come!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Takeoffyourcap,child,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andletmeseeyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "threshold": 0.9,
+  "TP": 1,
+  "FP": 0,
+  "FN": 0,
+  "n_pred": 1,
+  "n_gold": 1,
+  "matched_gold": 1,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "predictions": [
+    {
+      "string": "Thatboymightbehappyifhewouldstayathome;butifhegoesabroad,hewillbethemostmiserablewretchthateverwasborn:Icangivenoconsenttoit.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

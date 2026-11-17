@@ -1,0 +1,49 @@
+{
+  "threshold": 0.9,
+  "TP": 0,
+  "FP": 7,
+  "FN": 0,
+  "n_pred": 7,
+  "n_gold": 0,
+  "matched_gold": 0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "predictions": [
+    {
+      "string": "Mineearisopen,andmyheartprepared:Theworstiswordlylossthoucanstunfold:--Say,ismykingdomlost?--Shakespeare",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "duSaintSacrement.",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Horican.",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "TheTailoftheLake.",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "holylake",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "numerousastheleavesonthetrees,",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "holylake,",
+      "best_similarity": 0.0,
+      "correct": false
+    }
+  ]
+}

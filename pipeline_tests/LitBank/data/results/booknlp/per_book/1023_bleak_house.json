@@ -1,0 +1,39 @@
+{
+  "threshold": 0.9,
+  "TP": 0,
+  "FP": 5,
+  "FN": 0,
+  "n_pred": 5,
+  "n_gold": 0,
+  "matched_gold": 0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "predictions": [
+    {
+      "string": "Sufferanywrongthatcanbedoneyouratherthancomehere!",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "topurgehimselfofhiscontempt,",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "MyLord!",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "init,",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "orwhenwegetthroughJarndyceandJarndyce,Mr.Blowers--a",
+      "best_similarity": 0.0,
+      "correct": false
+    }
+  ]
+}

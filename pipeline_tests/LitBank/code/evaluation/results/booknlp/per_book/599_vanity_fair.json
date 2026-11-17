@@ -1,0 +1,104 @@
+{
+  "threshold": 0.9,
+  "TP": 15,
+  "FP": 3,
+  "FN": 0,
+  "n_pred": 18,
+  "n_gold": 15,
+  "matched_gold": 15,
+  "precision": 0.8333333333333334,
+  "recall": 1.0,
+  "f1": 0.9090909090909091,
+  "predictions": [
+    {
+      "string": "ItisMrs.Sedleyscoach,sister,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sambo,theblackservant,hasjustrungthebell;andthecoachmanhasanewredwaistcoat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HaveyoucompletedallthenecessarypreparationsincidenttoMissSedleysdeparture,MissJemima?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thegirlswereupatfourthismorning,packinghertrunks,sister,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "wehavemadeherabow-pot.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sayabouquet,sisterJemima,tismoregenteel.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,abookyasbigalmostasahaystack;IhaveputuptwobottlesofthegillyflowerwaterforMrs.Sedley,andthereceiptformakingit,inAmeliasbox.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndItrust,MissJemima,youhavemadeacopyofMissSedleysaccount.Thisisit,isit?Verygood--ninety-threepounds,fourshillings.BekindenoughtoaddressittoJohnSedley,Esquire,andtosealthisbilletwhichIhavewrittentohislady.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "billet",
+      "best_similarity": 0.2353,
+      "correct": false
+    },
+    {
+      "string": "LinesaddressedtoayoungladyonquittingMissPinkertonsschool,attheMall;bythelatereveredDoctorSamuelJohnson.",
+      "best_similarity": 0.4021,
+      "correct": false
+    },
+    {
+      "string": "theDictionary",
+      "best_similarity": 0.2963,
+      "correct": false
+    },
+    {
+      "string": "Forwhomisthis,MissJemima?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ForBeckySharp,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ForBeckySharp:shesgoingtoo.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MISSJEMIMA!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyouinyoursenses?ReplacetheDixonaryinthecloset,andneverventuretotakesuchalibertyinfuture.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,sister,itsonlytwo-and-ninepence,andpoorBeckywillbemiserableifshedontgetone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SendMissSedleyinstantlytome,",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+4	5	2	3	THE CONSUL	19	’S YARN
+96	107	108	108	I	0	‘ It is very kind of you to come round , ’
+117	128	108	108	I	0	‘ it must have been heavy walking in the snow . ’
+372	402	365	366	Hunter Quatermain	12	‘ Macumazahn’--Anglicè , he who keeps a bright look - out at night , or , in vulgar English , a sharp fellow who is not to be taken in .
+749	753	754	754	I	0	‘ Old friends , ’
+757	769	754	754	I	0	‘ how long is it since we got back from Kukuanaland ? ’
+770	774	776	776	Good	10	‘ Three years , ’
+778	784	776	776	Good	10	‘ Why do you ask ? ’
+785	810	754	754	I	0	‘ I ask because I think that I have had a long enough spell of civilization . I am going back to the veldt . ’
+830	835	836	836	he	9	‘ How very odd , ’
+839	844	836	836	he	9	‘ eh , Good ? ’
+856	864	845	845	Good	10	‘ Yes , odd -- very odd . ’
+865	872	874	874	I	0	‘ I do n’t quite understand , ’
+888	896	898	899	Sir Henry	9	‘ Do n’t you , old fellow ? ’
+901	920	898	899	Sir Henry	9	‘ then I will explain . As Good and I were walking up here we had a talk . ’
+921	930	931	931	I	0	‘ If Good was there you probably did , ’
+945	954	931	931	I	0	‘ And what may it have been about ? ’
+955	961	963	964	Sir Henry	9	‘ What do you think ? ’
+993	1029	986	986	He	10	‘ Well , it was about a little plan that I have formed -- namely , that if you were willing we should pack up our traps and go off to Africa on another expedition . ’
+1037	1044	1045	1045	I	0	‘ You do n’t say so ! ’
+1048	1066	1030	1030	I	0	‘ Yes I do , though , and so does Good ; do n’t you , Good ? ’
+1067	1070	1072	1073	that gentleman	37	‘ Rather , ’
+1075	1081	1084	1085	Sir Henry	9	‘ Listen , old fellow , ’
+1093	1095	1084	1085	Sir Henry	9	‘ I ’m
+1270	1280	1265	1265	I	0	’ He paused , and then went on again . ‘
+1342	1342	1333	1333	I	0	’
+1343	1346	1347	1347	I	0	‘ Ah ! ’
+1350	1381	1347	1347	I	0	‘ I thought you would come to that sooner or later . And now , Good , what is your reason for wanting to trek ; have you got one ? ’
+1382	1386	1388	1388	Good	10	‘ I have , ’
+1392	1419	1388	1388	Good	10	‘ I never do anything without a reason ; and it is n’t a lady -- at least , if it is , it ’s several . ’
+1432	1437	1438	1438	I	0	‘ What is it ? ’
+1441	1471	1485	1486	Sir Henry	9	‘ Well , if you really want to know , though I ’d rather not speak of a delicate and strictly personal matter , I ’ll tell you : I ’m
+1476	1476	1485	1486	Sir Henry	9	’
+1477	1483	1485	1486	Sir Henry	9	‘ Shut up , Good ! ’
+1488	1504	1485	1486	Sir Henry	9	‘ And now , Quatermain , tell us , where do you propose going to ? ’
+1518	1528	1529	1529	I	0	‘ Have you people ever heard of Mt Kenia ? ’
+1532	1539	1505	1505	I	0	‘ Do n’t know the place , ’
+1543	1554	1555	1555	I	0	‘ Did you ever hear of the Island of Lamu ? ’
+1559	1577	1505	1505	I	0	‘ No . Stop , though -- isn’t it a place about 300 miles north of Zanzibar ? ’
+1578	1667	1505	1505	I	0	‘ Yes . Now listen . What I have to propose is this . That we go to Lamu and thence make our way about 250 miles inland to Mt Kenia ; from Mt Kenia on inland to Mt Lekakisera , another 200 miles , or thereabouts , beyond which no white man has to the best of my belief ever been ; and then , if we get so far , right on into the unknown interior . What do you say to that , my hearties ? ’
+1668	1675	1677	1678	Sir Henry	9	‘ It ’s a big order , ’
+1682	1687	1688	1688	I	0	‘ You are right , ’
+1691	1770	1688	1688	I	0	‘ it is ; but I take it that we are all three of us in search of a big order . We want a change of scene , and we are likely to get one -- a thorough change . All my life I have longed to visit those parts , and I mean to do it before I die . My poor boy ’s death has broken the last link between me and civilization , and I ’m
+1851	1851	1855	1856	your man	56	’
+1852	1854	1855	1856	your man	56	‘ I ’m
+1868	1882	1855	1856	your man	56	’ said Sir Henry Curtis , rising and placing his arm upon my shoulder .
+1883	1886	1855	1856	your man	56	‘ Ditto , ’
+1890	1935	1855	1856	your man	56	‘ I ’ll go into training at once . By all means let ’s go to Mt Kenia and the other place with an unpronounceable name , and look for a white race that does not exist . It ’s all one to me . ’
+1936	1944	1946	1947	Sir Henry	9	‘ When do you propose to start ? ’
+1949	1954	1955	1955	I	0	‘ This day month , ’
+1958	1994	1955	1955	I	0	‘ by the British India steamboat ; and do n’t you be so certain that things have no existence because you do not happen to have heard of them . Remember King Solomon ’s mines ! ’

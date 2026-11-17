@@ -1,0 +1,342 @@
+T1	Quotation 689 788	"If she is here alone without a husband or friends, it wouldn't be amiss to make her acquaintance,"
+T2	Entity 789 794	Gurov
+T3	Cue 795 804	reflected
+R1	Cueing Arg1:T3 Arg2:T1	
+R2	Speaker Arg1:T2 Arg2:T1	
+T4	Quotation 3838 3856	"He doesn't bite,"
+T5	Entity 3857 3860	she
+T6	Cue 3861 3865	said
+T7	Quotation 3880 3904	"May I give him a bone?"
+T8	Entity 3905 3907	he
+T9	Cue 3908 3913	asked
+T10	Entity 3924 3927	she
+T11	Entity 3935 3937	he
+T12	Entity 3804 3807	him
+T13	Quotation 3957 3987	"Have you been long in Yalta?"
+T14	Quotation 3988 4000	"Five days."
+T15	Quotation 4001 4051	"And I have already dragged out a fortnight here."
+T16	Quotation 4079 4124	"Time goes fast, and yet it is so dull here!"
+T17	Entity 4125 4128	she
+T18	Cue 4129 4133	said
+T19	Quotation 4155 4363	"That's only the fashion to say it is dull here. A provincial will live in Belyov or Zhidra and not be dull, and when he comes here it's 'Oh, the dulness! Oh, the dust!' One would think he came from Grenada."
+R3	Addressee Arg1:T12 Arg2:T4	
+R4	Speaker Arg1:T5 Arg2:T4	
+R5	Cueing Arg1:T6 Arg2:T4	
+R6	Speaker Arg1:T8 Arg2:T7	
+R7	Cueing Arg1:T9 Arg2:T7	
+R8	Addressee Arg1:T10 Arg2:T7	
+T20	Cue 3938 3943	asked
+R9	Cueing Arg1:T20 Arg2:T13	
+R10	Speaker Arg1:T11 Arg2:T13	
+R11	Addressee Arg1:T10 Arg2:T13	
+R12	Speaker Arg1:T10 Arg2:T14	
+R13	Addressee Arg1:T11 Arg2:T14	
+R14	Speaker Arg1:T11 Arg2:T15	
+R15	Addressee Arg1:T10 Arg2:T15	
+T21	Entity 4150 4153	him
+R16	Speaker Arg1:T17 Arg2:T16	
+R17	Cueing Arg1:T18 Arg2:T16	
+R18	Addressee Arg1:T21 Arg2:T16	
+R19	Speaker Arg1:T21 Arg2:T19	
+R20	Addressee Arg1:T17 Arg2:T19	
+T22	Quotation 7705 7742	"The weather is better this evening,"
+T23	Entity 7743 7745	he
+T24	Cue 7746 7750	said
+T25	Quotation 7752 7802	"Where shall we go now? Shall we drive somewhere?"
+R21	Cueing Arg1:T24 Arg2:T22	
+R22	Speaker Arg1:T23 Arg2:T22	
+R23	Cueing Arg1:T24 Arg2:T25	
+R24	Speaker Arg1:T23 Arg2:T25	
+T26	Quotation 8072 8098	"Let us go to your hotel,"
+T27	Entity 8099 8101	he
+T28	Cue 8102 8106	said
+R25	Cueing Arg1:T28 Arg2:T26	
+R26	Speaker Arg1:T27 Arg2:T26	
+T29	Entity 7904 7907	her
+R27	Addressee Arg1:T29 Arg2:T26	
+T30	Quotation 9681 9694	"It's wrong,"
+T31	Entity 9695 9698	she
+T32	Cue 9699 9703	said
+T33	Quotation 9705 9747	"You will be the first to despise me now."
+T34	Entity 8219 8224	Gurov
+R28	Cueing Arg1:T32 Arg2:T30	
+R29	Cueing Arg1:T32 Arg2:T33	
+R30	Speaker Arg1:T31 Arg2:T30	
+R31	Speaker Arg1:T31 Arg2:T33	
+R32	Addressee Arg1:T34 Arg2:T30	
+R33	Addressee Arg1:T34 Arg2:T33	
+T35	Quotation 10128 10154	"How could I despise you?"
+T36	Quotation 10168 10205	"You don't know what you are saying."
+T37	Cue 10155 10160	asked
+T38	Entity 10161 10166	Gurov
+R34	Cueing Arg1:T37 Arg2:T35	
+R35	Cueing Arg1:T37 Arg2:T36	
+T39	Entity 9896 9911	Anna Sergeyevna
+R36	Addressee Arg1:T39 Arg2:T35	
+R37	Addressee Arg1:T39 Arg2:T36	
+R38	Speaker Arg1:T38 Arg2:T35	
+R39	Speaker Arg1:T38 Arg2:T36	
+T40	Quotation 10206 10223	"God forgive me,"
+T41	Entity 10224 10227	she
+T42	Cue 10228 10232	said
+R40	Speaker Arg1:T41 Arg2:T40	
+R41	Cueing Arg1:T42 Arg2:T40	
+R42	Addressee Arg1:T38 Arg2:T40	
+T43	Quotation 10266 10279	"It's awful."
+R43	Speaker Arg1:T41 Arg2:T43	
+R44	Cueing Arg1:T42 Arg2:T43	
+R45	Addressee Arg1:T38 Arg2:T43	
+T44	Quotation 10280 10323	"You seem to feel you need to be forgiven."
+R46	Speaker Arg1:T38 Arg2:T44	
+R47	Addressee Arg1:T41 Arg2:T44	
+T45	Quotation 10324 11247	"Forgiven? No. I am a bad, low woman; I despise myself and don't attempt to justify myself. It's not my husband but myself I have deceived. And not only just now; I have been deceiving myself for a long time. My husband may be a good, honest man, but he is a flunkey! I don't know what he does there, what his work is, but I know he is a flunkey! I was twenty when I was married to him. I have been tormented by curiosity; I wanted something better. 'There must be a different sort of life,' I said to myself. I wanted to live! To live, to live! . . . I was fired by curiosity . . . you don't understand it, but, I swear to God, I could not control myself; something happened to me: I could not be restrained. I told my husband I was ill, and came here. . . . And here I have been walking about as though I were dazed, like a mad creature; . . . and now I have become a vulgar, contemptible woman whom any one may despise."
+R48	Addressee Arg1:T38 Arg2:T45	
+R49	Speaker Arg1:T41 Arg2:T45	
+T46	Quotation 11464 11485	"I don't understand,"
+T47	Entity 11486 11488	he
+T48	Cue 11489 11493	said
+T49	Quotation 11502 11524	"What is it you want?"
+R50	Cueing Arg1:T48 Arg2:T46	
+R51	Cueing Arg1:T48 Arg2:T49	
+R52	Speaker Arg1:T47 Arg2:T46	
+R53	Speaker Arg1:T47 Arg2:T49	
+R54	Addressee Arg1:T41 Arg2:T46	
+R55	Addressee Arg1:T41 Arg2:T49	
+T50	Quotation 11582 11627	"Believe me, believe me, I beseech you . . ."
+T51	Entity 11628 11631	she
+T52	Cue 11632 11636	said
+R56	Cueing Arg1:T52 Arg2:T50	
+R57	Speaker Arg1:T51 Arg2:T50	
+R58	Addressee Arg1:T47 Arg2:T50	
+T53	Quotation 11638 11837	"I love a pure, honest life, and sin is loathsome to me. I don't know what I am doing. Some people say: 'The Evil One has beguiled me.' And I may say of myself now that the Evil One has beguiled me."
+R60	Speaker Arg1:T51 Arg2:T53	
+R59	Cueing Arg1:T52 Arg2:T53	
+R61	Addressee Arg1:T47 Arg2:T53	
+T54	Quotation 11838 11857	"Hush, hush! . . ."
+T55	Entity 11858 11860	he
+T56	Cue 11861 11869	muttered
+R62	Cueing Arg1:T56 Arg2:T54	
+R63	Speaker Arg1:T55 Arg2:T54	
+R64	Addressee Arg1:T51 Arg2:T54	
+T57	Quotation 12332 12424	"I found out your surname in the hall just now: it was written on the board-- Von Diderits,"
+T58	Cue 12425 12429	said
+T59	Entity 12430 12435	Gurov
+T60	Quotation 12437 12464	"Is your husband a German?"
+T61	Quotation 12465 12549	"No; I believe his grandfather was a German, but he is an Orthodox Russian himself."
+R65	Cueing Arg1:T58 Arg2:T57	
+R66	Cueing Arg1:T58 Arg2:T60	
+R67	Speaker Arg1:T59 Arg2:T57	
+R68	Speaker Arg1:T59 Arg2:T60	
+R69	Addressee Arg1:T59 Arg2:T61	
+R70	Addressee Arg1:T51 Arg2:T57	
+R71	Addressee Arg1:T51 Arg2:T60	
+R72	Speaker Arg1:T51 Arg2:T61	
+T62	Quotation 13908 13936	"There is dew on the grass,"
+T63	Cue 13937 13941	said
+T64	Entity 13942 13957	Anna Sergeyevna
+T65	Entity 13490 13495	Gurov
+R73	Addressee Arg1:T65 Arg2:T62	
+R74	Cueing Arg1:T63 Arg2:T62	
+R75	Speaker Arg1:T64 Arg2:T62	
+T66	Quotation 13976 14004	"Yes. It's time to go home."
+R76	Speaker Arg1:T65 Arg2:T66	
+R77	Addressee Arg1:T64 Arg2:T66	
+T67	Cue 14158 14168	complained
+T68	Entity 14154 14157	She
+T69	Quotation 14169 14337	that she slept badly, that her heart throbbed violently; asked the same questions, troubled now by jealousy and now by the fear that he did not respect her sufficiently
+R78	Cueing Arg1:T67 Arg2:T69	
+R79	Speaker Arg1:T68 Arg2:T69	
+R80	Addressee Arg1:T65 Arg2:T69	
+T70	Entity 14716 14718	he
+T71	Cue 14719 14723	told
+T72	Entity 14724 14739	Anna Sergeyevna
+T73	Quotation 14740 14778	how beautiful she was, how fascinating
+R81	Cueing Arg1:T71 Arg2:T73	
+R82	Addressee Arg1:T72 Arg2:T73	
+R83	Speaker Arg1:T70 Arg2:T73	
+T74	Entity 14857 14860	she
+T75	Cue 14883 14900	continually urged
+T76	Entity 14901 14904	him
+T77	Quotation 14905 15024	to confess that he did not respect her, did not love her in the least, and thought of her as nothing but a common woman
+R84	Addressee Arg1:T76 Arg2:T77	
+R85	Cueing Arg1:T75 Arg2:T77	
+R86	Speaker Arg1:T74 Arg2:T77	
+T78	Entity 15484 15487	she
+T79	Cue 15488 15492	said
+T80	Entity 15496 15501	Gurov
+T81	Quotation 15447 15483	"It's a good thing I am going away,"
+R87	Cueing Arg1:T79 Arg2:T81	
+R88	Speaker Arg1:T78 Arg2:T81	
+R89	Addressee Arg1:T80 Arg2:T81	
+T82	Quotation 15503 15532	"It's the finger of destiny!"
+R90	Cueing Arg1:T79 Arg2:T82	
+R91	Speaker Arg1:T78 Arg2:T82	
+R92	Addressee Arg1:T80 Arg2:T82	
+T83	Quotation 15703 15777	"Let me look at you once more . . . look at you once again. That's right."
+T84	Entity 15693 15696	she
+T85	Cue 15697 15701	said
+R93	Cueing Arg1:T85 Arg2:T83	
+R94	Speaker Arg1:T84 Arg2:T83	
+R95	Addressee Arg1:T80 Arg2:T83	
+T86	Quotation 15866 15908	"I shall remember you . . . think of you,"
+T87	Entity 15909 15912	she
+T88	Cue 15913 15917	said
+T89	Quotation 15919 16074	"God be with you; be happy. Don't remember evil against me. We are parting forever --it must be so, for we ought never to have met. Well, God be with you."
+R96	Cueing Arg1:T88 Arg2:T89	
+R97	Cueing Arg1:T88 Arg2:T86	
+R98	Speaker Arg1:T87 Arg2:T89	
+R99	Speaker Arg1:T87 Arg2:T86	
+R100	Addressee Arg1:T80 Arg2:T89	
+R101	Addressee Arg1:T80 Arg2:T86	
+T90	Entity 20738 20746	his wife
+T91	Cue 20780 20784	said
+T92	Entity 20489 20491	he
+T93	Quotation 20786 20848	"The part of a lady-killer does not suit you at all, Dimitri."
+R102	Addressee Arg1:T92 Arg2:T93	
+R103	Cueing Arg1:T91 Arg2:T93	
+R104	Speaker Arg1:T90 Arg2:T93	
+T94	Quotation 20976 21056	"If only you knew what a fascinating woman I made the acquaintance of in Yalta!"
+T95	Quotation 21145 21164	"Dmitri Dmitritch!"
+T96	Quotation 21165 21172	"What?"
+T97	Quotation 21173 21238	"You were right this evening: the sturgeon was a bit too strong!"
+T98	Entity 20948 20950	he
+T99	Cue 20951 20974	could not resist saying
+T100	Entity 20899 20946	an official with whom he had been playing cards
+R105	Cueing Arg1:T99 Arg2:T94	
+R106	Speaker Arg1:T98 Arg2:T94	
+R107	Addressee Arg1:T100 Arg2:T94	
+T101	Entity 21057 21069	The official
+T102	Cue 21136 21143	shouted
+R108	Cueing Arg1:T102 Arg2:T95	
+R109	Speaker Arg1:T101 Arg2:T95	
+R110	Addressee Arg1:T98 Arg2:T95	
+R111	Addressee Arg1:T101 Arg2:T96	
+R112	Speaker Arg1:T101 Arg2:T97	
+R113	Speaker Arg1:T98 Arg2:T96	
+R114	Addressee Arg1:T98 Arg2:T97	
+T103	Quotation 23020 23032	"Dridirits."
+T104	Entity 22989 22999	The porter
+T105	Cue 23000 23019	pronounced the name
+R115	Cueing Arg1:T105 Arg2:T103	
+R116	Speaker Arg1:T104 Arg2:T103	
+T106	Entity 22484 22486	He
+R117	Addressee Arg1:T106 Arg2:T103	
+T107	Entity 27032 27037	Gurov
+T108	Cue 27094 27119	said in a trembling voice
+T109	Entity 27086 27089	her
+T110	Quotation 27142 27157	"Good-evening."
+R118	Cueing Arg1:T108 Arg2:T110	
+R119	Speaker Arg1:T109 Arg2:T110	
+R120	Addressee Arg1:T107 Arg2:T110	
+T111	Quotation 28401 28430	"How you have frightened me!"
+T112	Entity 28431 28434	she
+T113	Cue 28435 28439	said
+R121	Speaker Arg1:T112 Arg2:T111	
+R122	Cueing Arg1:T113 Arg2:T111	
+T114	Entity 28127 28129	he
+R123	Addressee Arg1:T114 Arg2:T111	
+T115	Quotation 28485 28558	"Oh, how you have frightened me! I am half dead. Why have you come? Why?"
+R124	Speaker Arg1:T112 Arg2:T115	
+R125	Cueing Arg1:T113 Arg2:T115	
+R126	Addressee Arg1:T114 Arg2:T115	
+T116	Quotation 28559 28605	"But do understand, Anna, do understand . . ."
+T117	Entity 28606 28608	he
+T118	Cue 28609 28613	said
+T119	Quotation 28638 28674	"I entreat you to understand. . . ."
+T120	Quotation 28811 28829	"I am so unhappy,"
+R127	Speaker Arg1:T117 Arg2:T116	
+R128	Cueing Arg1:T118 Arg2:T116	
+R129	Cueing Arg1:T118 Arg2:T119	
+R130	Speaker Arg1:T117 Arg2:T119	
+R131	Addressee Arg1:T112 Arg2:T116	
+R132	Addressee Arg1:T112 Arg2:T119	
+T121	Entity 28830 28833	she
+T122	Cue 28834 28841	went on
+R133	Cueing Arg1:T122 Arg2:T120	
+R134	Speaker Arg1:T121 Arg2:T120	
+T123	Entity 28855 28858	him
+R135	Addressee Arg1:T123 Arg2:T120	
+T124	Quotation 28860 29016	"I have thought of nothing but you all the time; I live only in the thought of you. And I wanted to forget, to forget you; but why, oh, why, have you come?"
+R136	Cueing Arg1:T122 Arg2:T124	
+R137	Speaker Arg1:T121 Arg2:T124	
+R138	Addressee Arg1:T123 Arg2:T124	
+T125	Quotation 29207 29248	"What are you doing, what are you doing!"
+T126	Entity 29249 29252	she
+T127	Cue 29253 29268	cried in horror
+R139	Cueing Arg1:T127 Arg2:T125	
+R140	Speaker Arg1:T126 Arg2:T125	
+T128	Entity 29278 29281	him
+R141	Addressee Arg1:T128 Arg2:T125	
+T129	Quotation 29288 29432	"We are mad. Go away to-day; go away at once. . . . I beseech you by all that is sacred, I implore you. . . . There are people coming this way!"
+R142	Speaker Arg1:T126 Arg2:T129	
+R143	Cueing Arg1:T127 Arg2:T129	
+R144	Addressee Arg1:T128 Arg2:T129	
+T130	Quotation 29468 29487	"You must go away,"
+T131	Entity 29488 29503	Anna Sergeyevna
+T132	Cue 29504 29524	went on in a whisper
+T133	Quotation 29526 29806	"Do you hear, Dmitri Dmitritch? I will come and see you in Moscow. I have never been happy; I am miserable now, and I never, never shall be happy, never! Don't make me suffer still more! I swear I'll come to Moscow. But now let us part. My precious, good, dear one, we must part!"
+R145	Cueing Arg1:T132 Arg2:T133	
+R146	Cueing Arg1:T132 Arg2:T130	
+R147	Speaker Arg1:T131 Arg2:T133	
+R148	Speaker Arg1:T131 Arg2:T130	
+R149	Addressee Arg1:T128 Arg2:T133	
+R150	Addressee Arg1:T128 Arg2:T130	
+T134	Quotation 30704 30769	"It's three degrees above freezing-point, and yet it is snowing,"
+T135	Cue 30770 30774	said
+T136	Entity 30775 30780	Gurov
+T137	Entity 30784 30796	his daughter
+T138	Quotation 30798 30923	"The thaw is only on the surface of the earth; there is quite a different temperature at a greater height in the atmosphere."
+T139	Quotation 30924 30983	"And why are there no thunderstorms in the winter, father?"
+R151	Cueing Arg1:T135 Arg2:T134	
+R152	Speaker Arg1:T136 Arg2:T134	
+R153	Addressee Arg1:T137 Arg2:T134	
+R154	Speaker Arg1:T136 Arg2:T138	
+R155	Addressee Arg1:T137 Arg2:T138	
+R156	Cueing Arg1:T135 Arg2:T138	
+R157	Speaker Arg1:T137 Arg2:T139	
+R158	Addressee Arg1:T136 Arg2:T139	
+T140	Quotation 32739 32776	"Well, how are you getting on there?"
+T141	Entity 32777 32779	he
+T142	Cue 32780 32785	asked
+T143	Quotation 32787 32799	"What news?"
+T144	Quotation 32800 32851	"Wait; I'll tell you directly. . . . I can't talk."
+R159	Cueing Arg1:T142 Arg2:T140	
+R160	Speaker Arg1:T141 Arg2:T140	
+R161	Cueing Arg1:T142 Arg2:T143	
+R162	Speaker Arg1:T141 Arg2:T143	
+T145	Entity 32555 32558	She
+R163	Addressee Arg1:T145 Arg2:T140	
+R164	Addressee Arg1:T145 Arg2:T143	
+R165	Speaker Arg1:T145 Arg2:T144	
+R166	Addressee Arg1:T141 Arg2:T144	
+T146	Entity 33059 33061	he
+T147	Cue 33062 33076	rang and asked
+T148	Quotation 33078 33102	or tea to be brought him
+R167	Cueing Arg1:T147 Arg2:T148	
+R168	Speaker Arg1:T146 Arg2:T148	
+T149	Quotation 33396 33412	"Come, do stop!"
+T150	Entity 33413 33415	he
+T151	Cue 33416 33420	said
+R169	Cueing Arg1:T151 Arg2:T149	
+R170	Speaker Arg1:T150 Arg2:T149	
+T152	Entity 33189 33192	She
+R171	Addressee Arg1:T152 Arg2:T149	
+T153	Quotation 35545 35569	"Don't cry, my darling,"
+T154	Quotation 35579 35666	"You've had your cry; that's enough. . . . Let us talk now, let us think of some plan."
+T155	Entity 35570 35572	he
+T156	Cue 35573 35577	said
+T157	Quotation 35916 35927	"How? How?"
+T158	Entity 35928 35930	he
+T159	Cue 35931 35936	asked
+T160	Quotation 35958 35964	"How?"
+R172	Speaker Arg1:T155 Arg2:T153	
+R173	Cueing Arg1:T156 Arg2:T153	
+R174	Speaker Arg1:T155 Arg2:T154	
+R175	Cueing Arg1:T156 Arg2:T154	
+R176	Speaker Arg1:T158 Arg2:T157	
+R177	Cueing Arg1:T159 Arg2:T157	
+R178	Cueing Arg1:T159 Arg2:T160	
+R179	Speaker Arg1:T158 Arg2:T160	
+T161	Entity 34804 34819	Anna Sergeyevna
+R180	Addressee Arg1:T161 Arg2:T153	
+R181	Addressee Arg1:T161 Arg2:T154	

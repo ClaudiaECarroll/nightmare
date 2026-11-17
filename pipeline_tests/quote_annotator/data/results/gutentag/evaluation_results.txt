@@ -1,0 +1,20 @@
+=== gutentag: character-level dialogue match (threshold=0.9) — Dialogism corpus ===
+
+Dialogue is the positive class. A predicted quote is correct (TP) when its best character-level
+similarity to any gold quote in the same novel is >= threshold. FN = gold quotes nothing matched.
+
+=== Per-Novel Results ===
+Book                Pred  Gold   TP   FP   FN    Prec    Rec     F1
+-------------------------------------------------------------------
+emmelinetheorphan     25  2338   15   10 2323   0.600  0.006  0.013
+fitzgerald          1356  1405 1327   29   76   0.979  0.946  0.962
+litigators          2660  2990 2016  644  942   0.758  0.682  0.718
+prideandprejudice   1542  1575 1524   18   49   0.988  0.969  0.978
+roomwithaview       2095  2036 1209  886  834   0.577  0.592  0.584
+thespy              2583  3070  420 2163 2638   0.163  0.137  0.149
+
+=== Corpus Totals (micro-averaged over all quotes) ===
+Predicted quotes: 10261   Gold quotes: 13414
+TP=6511  FP=3750  FN=6862
+Precision: 0.635   Recall: 0.487   F1: 0.551
+Unmatched gold quotes (missed dialogue): 6862

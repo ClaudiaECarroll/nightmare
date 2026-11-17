@@ -1,0 +1,164 @@
+{
+  "threshold": 0.9,
+  "TP": 29,
+  "FP": 1,
+  "FN": 0,
+  "n_pred": 30,
+  "n_gold": 29,
+  "matched_gold": 29,
+  "precision": 0.9666666666666667,
+  "recall": 1.0,
+  "f1": 0.983050847457627,
+  "predictions": [
+    {
+      "string": "ThisisMr.Mig-u-ellRapponi,boys--apeelerstraightfromtheGoldenGate.Throwoutyourwar-bagandmakeyourselftohome,Mig-u-ell;someoftheboysllshowyouwheretobeddown.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hessomegaudytolookat,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Allhelacksisaspot-lightandabrassband,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Anyprettygirlsupthisway?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sure,theresprettygirlshere!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wereallofusengagedtoem,bycripes!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bygosh,amanmightdoworsethanlocatethatNativeSonforasilvermine,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsplumbwickedtoridearoundwithallthatwealthandfussystuff.Hemustarobbedabankandputthemoneyallintoaridingoutfit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bygolly,helookstomelikeapairuhtrayswhenhecomesbow-legginalongwiththemwhitediamondsonhislegs,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndIllgamblethatsaspothigherthanhestacksupinthecowgame,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youmindhimaskingaboutbadhorses,lastnight?ThatLizzie-boyneversawabadhorse;theydontgrowemwherehecomefrom.Whattheydontknowaboutridingtheymakeupforwithaswellrig--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "And,oh,mamma!Itsureisaswellrig!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "OnlyIwillsayoldBanjoremindsmeofanIrishcookriggedoutinsilkanddiamonds.ThatoutfitonGlory,now--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Ivegoneupagainstafewrealonesinmylongandvariedcareer,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andIvenoticedthatahossneverhasanyrespectoradmirationforaswellrig.Whenhegetsrealbusyitaintthesilverfiligreestuffthatsgoingtohelpyouholdconnectionswithyoursaddle,andasilver-mountedbridle-bitaintadarnedbitbetterthanaplainone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Justtakealookathim!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Amblingoffthere,sothesuncanstrikeallthatsilverandbouncebackinoureyes.Andthatbraidedlariat--Idsurelovetoseethepiecesifheevertriestoanchoranythingbiggerthanayearling!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,youdontthinkforaminutehecouldevergetoutandropeanything,doyuh?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThatthereNativeSonthrowsona-w-l-togethertoomuchdogtoreallygetoutanddoanything.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aw,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "heaintanyNatiffSon.Hesadago!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hesgottheearmarksuhboth,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iknowem,bycripes,andIknowtheirways.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icantellyuhthekindacow-puncherheis;Ivesawemworkinatit.Haw-haw-haw!Theyllstartouttomovetenoradozenheaduhtameoldcowsfromonefieldtoanother,andtherellbesixoreightfellers,riggeduplikethisheretray-spot,ridinalong,importantashell,drivinthemfewcowsdownalane,withpeachtreesonbothsides,bycripes,jinglingtheirbig,silverspurs,allwearinfancychapstoridefourorfivemilesdowntheroad.Honesttograndma,theycallthatpunchincows!Oh,hesaNativeSon,allright.Ivesawlotsofem,onlyIneversawonesofarawayfromthePromisedLandbefore.Thattherelooksqueertome.NatiffSons--therealones,likehim--areasscarceoutsideCalyfornyasbuffaloarerighthereinthiscoulee.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsthewaytheydoit,allright,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andthentheyllhavearodeo--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Haw-haw-haw!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SomeCowpunchingIHaveSeen.",
+      "best_similarity": 0.3158,
+      "correct": false
+    },
+    {
+      "string": "TheyhavethemrodeosonaSunday,mostly,andtheyinviteeverybodytoit,likeitwasapicnic.Andtherellbetwoorthreefellerstoeverycalf,alllitup,likeMig-u-ell,overthere,inchapsandsilverfixins,fussinaroundonhorsebackinacorral,andeveryfellertryingtopilehisropeonthesamecalf,bycripes!Theystretchemoutwithtworopes--calves,remember!Little,weentyfellersyoucouldpackunderonearm!Yuhcantblameemmuch.Theyneverhavemorenthirtyorfortyheadtobrandatatime,andtheynevergitmorenatasteuhrealwork.Sotheymakethemostuhwhattheygit,andgoinheavyonfancyoutfits.Andthisheresilver-mountedfellowthinkshesarealcowpuncher,bycripes!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatsthejoke?",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

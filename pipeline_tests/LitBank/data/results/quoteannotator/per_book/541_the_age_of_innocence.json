@@ -1,0 +1,134 @@
+{
+  "threshold": 0.9,
+  "TP": 11,
+  "FP": 13,
+  "FN": 0,
+  "n_pred": 24,
+  "n_gold": 11,
+  "matched_gold": 11,
+  "precision": 0.4583333333333333,
+  "recall": 1.0,
+  "f1": 0.6285714285714286,
+  "predictions": [
+    {
+      "string": "abovetheForties,",
+      "best_similarity": 0.3667,
+      "correct": false
+    },
+    {
+      "string": "newpeople",
+      "best_similarity": 0.2,
+      "correct": false
+    },
+    {
+      "string": "anexceptionallybrilliantaudience",
+      "best_similarity": 0.2791,
+      "correct": false
+    },
+    {
+      "string": "Browncoupe.",
+      "best_similarity": 0.2222,
+      "correct": false
+    },
+    {
+      "string": "notthething",
+      "best_similarity": 0.4545,
+      "correct": false
+    },
+    {
+      "string": "thething",
+      "best_similarity": 0.5263,
+      "correct": false
+    },
+    {
+      "string": "Helovesme--helovesmenot--HELOVESME!--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mama!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "helovesme,",
+      "best_similarity": 0.383,
+      "correct": false
+    },
+    {
+      "string": "Mama...nonmama...",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mama!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mama!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thedarling!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shedoesntevenguesswhatitsallabout.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WellreadFausttogether...bytheItalianlakes...",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "cared",
+      "best_similarity": 0.25,
+      "correct": false
+    },
+    {
+      "string": "youngerset,",
+      "best_similarity": 0.2667,
+      "correct": false
+    },
+    {
+      "string": "NewYork,",
+      "best_similarity": 0.2105,
+      "correct": false
+    },
+    {
+      "string": "Well--uponmysoul!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "form",
+      "best_similarity": 0.2222,
+      "correct": false
+    },
+    {
+      "string": "form",
+      "best_similarity": 0.2222,
+      "correct": false
+    },
+    {
+      "string": "Ifanybodycantellafellowjustwhentowearablacktiewitheveningclothesandwhennotto,itsLarryLefferts.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oxfords",
+      "best_similarity": 0.3077,
+      "correct": false
+    },
+    {
+      "string": "MyGod!",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

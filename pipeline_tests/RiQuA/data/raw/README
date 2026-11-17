@@ -1,0 +1,37 @@
+================================================================================
+RiQuA: Rich Quotation Annotation Corpus
+Version 0.1
+Institute for Natural Language Processing
+University of Stuttgart
+Stuttgart, Germany
+================================================================================
+RiQuA is a corpus of literary texts annotated for quotations and their
+interpersonal structures. Quotations, direct and indirect, are marked, and for
+each quote, cues, speakers and addressees are identified where applicable.
+
+The individual annotations from both annotators are provided, along with the
+final, merged annotations.  The merged annotations are generally of higher
+quality, and should be used in most circumstances.
+
+The documents in the corpus mostly correspond to those  in the Columbia
+Quoted Speech Attribution Corpus (Elson & McKeown 2010):
+
+austen_emma_1         Jane Austen, Emma, passage 1 of 3
+austen_emma_2         Jane Austen, Emma, passage 2 of 3
+austen_emma_3         Jane Austen, Emma, passage 3 of 3
+chekhov_lady          Anton Chekhov, The Lady with the Dog
+chekhov_monk          Anton Chekhov, The Black Monk
+chekhov_steppe        Anton Chekhov, The Steppe
+dickens_xmas          Charles Dickens, A Christmas Carol
+doyle_boscombe        Sir Arthur Conan Doyle, The Boscombe Valley Mystery
+doyle_identity        Sir Arthur Conan Doyle, A Case of Identity
+doyle_league          Sir Arthur Conan Doyle, The Red Headed League
+doyle_scandal         Sir Arthur Conan Doyle, A Scandal in Bohemia
+flaubert_bovary_1     Gustave Flaubert, Madame Bovary, passage 1 of 2
+flaubert_bovary_2     Gustave Flaubert, Madame Bovary, passage 2 of 2
+twain_sawyer_1        Mark Twain, The Adventures of Tom Sawyer, passage 1 of 2
+twain_sawyer_2        Mark Twain, The Adventures of Tom Sawyer, passage 2 of 2
+
+All documents are represented in BRAT format, with the raw text in the .txt files
+and the annotations in the corresponding .ann files
+

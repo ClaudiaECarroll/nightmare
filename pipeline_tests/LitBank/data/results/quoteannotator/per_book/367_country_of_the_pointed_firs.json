@@ -1,0 +1,49 @@
+{
+  "threshold": 0.9,
+  "TP": 4,
+  "FP": 3,
+  "FN": 0,
+  "n_pred": 7,
+  "n_gold": 4,
+  "matched_gold": 4,
+  "precision": 0.5714285714285714,
+  "recall": 1.0,
+  "f1": 0.7272727272727273,
+  "predictions": [
+    {
+      "string": "darlin,",
+      "best_similarity": 0.4706,
+      "correct": false
+    },
+    {
+      "string": "seeinfolks.",
+      "best_similarity": 0.2,
+      "correct": false
+    },
+    {
+      "string": "Well,dear,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ivetookgreatadvantageoyourbeinhere.Iainthadsuchaseasonforyears,butIhaveneverhadnobodyIcouldsotrust.Allyoulackisafewqualities,butwithtimeyoudgainjudgmentanexperience,anbeveryableinthebusiness.Idstandrighthereansayittoanybody.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,dear,himIspeakofcouldneverthinkofme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whenwewasyoungtogetherhismotherdidntfavorthematch,andoneeverythingshecouldtopartus;andfolksthoughtwebothmarriedwell,buttwantwhateitheroneofuswantedmost;annowwereleftaloneagain,anmighthavehadeachotherallthetime.Hewasabovebeinaseafarinman,anprosperedmorethanmost;hecomeofahighfamily,anmylotwasplainanhard-workin.Iaintseenhimforsomeyears;hesforgotouryouthfulfeelins,Iexpect,butawomansheartisdifferent;themfeelinscomesbackwhenyouthinkyouvedonewithem,assureasspringcomeswiththeyear.AnIvealwayshadwaysofhearinabouthim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "em,assureasspringcomeswiththeyear.An",
+      "best_similarity": 0.2174,
+      "correct": false
+    }
+  ]
+}

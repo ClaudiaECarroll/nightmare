@@ -1,0 +1,49 @@
+{
+  "threshold": 0.9,
+  "TP": 3,
+  "FP": 4,
+  "FN": 0,
+  "n_pred": 7,
+  "n_gold": 3,
+  "matched_gold": 3,
+  "precision": 0.42857142857142855,
+  "recall": 1.0,
+  "f1": 0.6,
+  "predictions": [
+    {
+      "string": "Isthereanythingyoucanfancythatyouwouldliketoeat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iveneverbeenusedtonothingbutcommonvictual,andIcanteatthat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Northard",
+      "best_similarity": 0.3636,
+      "correct": false
+    },
+    {
+      "string": "Good-night",
+      "best_similarity": 0.1765,
+      "correct": false
+    },
+    {
+      "string": "fit",
+      "best_similarity": 0.1176,
+      "correct": false
+    },
+    {
+      "string": "Gee!",
+      "best_similarity": 0.0769,
+      "correct": false
+    }
+  ]
+}

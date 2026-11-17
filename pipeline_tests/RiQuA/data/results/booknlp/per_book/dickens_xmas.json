@@ -1,0 +1,2844 @@
+{
+  "threshold": 0.9,
+  "TP": 198,
+  "FP": 368,
+  "FN": 506,
+  "n_pred": 566,
+  "n_gold": 708,
+  "matched_gold": 202,
+  "precision": 0.3498233215547703,
+  "recall": 0.28125,
+  "f1": 0.3118110236220472,
+  "predictions": [
+    {
+      "string": "camedown",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "MydearScrooge,howareyou?Whenwillyoucometoseeme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Noeyeatallisbetterthananevileye,darkmaster!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "nuts",
+      "best_similarity": 0.4615,
+      "correct": false
+    },
+    {
+      "string": "AmerryChristmas,uncle!Godsaveyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bah!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Humbug!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Christmasahumbug,uncle?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youdontmeanthat,Iamsure?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ido",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MerryChristmas!Whatrighthaveyoutobemerry?Whatreasonhaveyoutobemerry?Yourepoorenough.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,then",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatrighthaveyoutobedismal?Whatreasonhaveyoutobemorose?Yourerichenough.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bah!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Humbug!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontbecross,uncle!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhatelsecanIbe",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whenIliveinsuchaworldoffoolsasthis?MerryChristmas!OutuponmerryChristmas!WhatsChristmastimetoyoubutatimeforpayingbillswithoutmoney;atimeforfindingyourselfayearolder,butnotanhourricher;atimeforbalancingyourbooksandhavingeveryiteminemthrougharounddozenofmonthspresenteddeadagainstyou?IfIcouldworkmywill",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "everyidiotwhogoesaboutwithMerryChristmasonhislipsshouldbeboiledwithhisownpudding,andburiedwithastakeofhollythroughhisheart.Heshould!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Uncle!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nephew!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "KeepChristmasinyourownway,andletmekeepitinmine.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Keepit!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butyoudontkeepit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Letmeleaveitalone,then",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Muchgoodmayitdoyou!Muchgoodithaseverdoneyou!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TherearemanythingsfromwhichImighthavederivedgood,bywhichIhavenotprofited,Idaresay",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Christmasamongtherest.ButIamsureIhavealwaysthoughtofChristmastime,whenithascomeround—apartfromthevenerationduetoitssacrednameandorigin,ifanythingbelongingtoitcanbeapartfromthat—asagoodtime;akind,forgiving,charitable,pleasanttime;theonlytimeIknowof,inthelongcalendaroftheyear,whenmenandwomenseembyoneconsenttoopentheirshut–upheartsfreely,andtothinkofpeoplebelowthemasiftheyreallywerefellow–passengerstothegrave,andnotanotherraceofcreaturesboundonotherjourneys.Andtherefore,uncle,thoughithasneverputascrapofgoldorsilverinmypocket,Ibelievethatithasdonemegood,andwilldomegood;andIsay,Godblessit!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Letmehearanothersoundfromyou",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andyoullkeepyourChristmasbylosingyoursituation!Yourequiteapowerfulspeaker,sir",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IwonderyoudontgointoParliament.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontbeangry,uncle.Come!Dinewithustomorrow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butwhy?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whydidyougetmarried?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "BecauseIfellinlove.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Becauseyoufellinlove!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodafternoon!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nay,uncle,butyounevercametoseemebeforethathappened.Whygiveitasareasonfornotcomingnow?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodafternoon",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwantnothingfromyou;Iasknothingofyou;whycannotwebefriends?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodafternoon",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamsorry,withallmyheart,tofindyousoresolute.Wehaveneverhadanyquarrel,towhichIhavebeenaparty.ButIhavemadethetrialinhomagetoChristmas,andIllkeepmyChristmashumourtothelast.SoamerryChristmas,uncle!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodafternoon!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndahappyNewYear!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodafternoon!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theresanotherfellow",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Myclerk,withfifteenshillingsaweek,andawifeandfamily,talkingaboutamerryChristmas.IllretiretoBedlam.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ScroogeandMarleys,Ibelieve",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HaveIthepleasureofaddressingMr.ScroogeorMr.Marley?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mr.Marleyhasbeendeadthesesevenyears",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hediedsevenyearsago,thisverynight.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wehavenodoubthisliberalityiswellrepresentedbyhissurvivingpartner",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "liberality",
+      "best_similarity": 0.4762,
+      "correct": false
+    },
+    {
+      "string": "Atthisfestiveseasonoftheyear,Mr.Scrooge",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itismorethanusuallydesirablethatweshouldmakesomeslightprovisionforthepooranddestitute,whosuffergreatlyatthepresenttime.Manythousandsareinwantofcommonnecessaries;hundredsofthousandsareinwantofcommoncomforts,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aretherenoprisons?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Plentyofprisons",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndtheUnionworkhouses?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aretheystillinoperation?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theyare.Still",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IwishIcouldsaytheywerenot.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TheTreadmillandthePoorLawareinfullvigour,then?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bothverybusy,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh!Iwasafraid,fromwhatyousaidatfirst,thatsomethinghadoccurredtostopthemintheirusefulcourse",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imverygladtohearit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "UndertheimpressionthattheyscarcelyfurnishChristiancheerofmindorbodytothemultitude",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "afewofusareendeavouringtoraiseafundtobuythepoorsomemeatanddrink,andmeansofwarmth.Wechoosethistime,becauseitisatime,ofallothers,whenwantiskeenlyfelt,andabundancerejoices.WhatshallIputyoudownfor?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nothing!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwishtobeanonymous?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwishtobeleftalone",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SinceyouaskmewhatIwish,gentlemen,thatismyanswer.IdontmakemerrymyselfatChristmasandIcantaffordtomakeidlepeoplemerry.IhelptosupporttheestablishmentsIhavementioned—theycostenough;andthosewhoarebadlyoffmustgothere.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Manycantgothere;andmanywouldratherdie.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iftheywouldratherdie",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "theyhadbetterdoit,anddecreasethesurpluspopulation.Besides—excuseme—Idontknowthat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butyoumightknowit",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsnotmybusiness",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsenoughforamantounderstandhisownbusiness,andnottointerferewithotherpeoples.Mineoccupiesmeconstantly.Goodafternoon,gentlemen!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Godblessyou,merrygentlemen!Maynothingyoudismay!",
+      "best_similarity": 0.7297,
+      "correct": false
+    },
+    {
+      "string": "Youllwantalldaytomorrow,Isuppose?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifquiteconvenient,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsnotconvenient",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "anditsnotfair.IfIwastostopyouhalf–a–crownforit,youdthinkyourselfill–used,Illbebound?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andyet",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youdontthinkmeill–used,whenIpayadayswagesfornowork.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Apoorexcuseforpickingamanspocketeverytwenty–fifthofDecember!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButIsupposeyoumusthavethewholeday.Beherealltheearliernextmorning.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pooh,pooh!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Humbug!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itshumbugstill!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwontbelieveit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iknowhim;MarleysGhost!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hownow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatdoyouwantwithme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Much!—Marley",
+      "best_similarity": 0.5882,
+      "correct": false
+    },
+    {
+      "string": "Whoareyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AskmewhoIwas.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whowereyouthen?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youreparticular,forashade.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "toashade",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "InlifeIwasyourpartner,JacobMarley.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Canyou—canyousitdown?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ican.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Doit,then.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youdontbelieveinme",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idont",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatevidencewouldyouhaveofmyrealitybeyondthatofyoursenses?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idontknow",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whydoyoudoubtyoursenses?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Because",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "alittlethingaffectsthem.Aslightdisorderofthestomachmakesthemcheats.Youmaybeanundigestedbitofbeef,ablotofmustard,acrumbofcheese,afragmentofanunderdonepotato.Theresmoreofgravythanofgraveaboutyou,whateveryouare!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youseethistoothpick?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ido",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youarenotlookingatit",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButIseeit",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "notwithstanding.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihavebuttoswallowthis,andbefortherestofmydayspersecutedbyalegionofgoblins,allofmyowncreation.Humbug,Itellyou!humbug!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mercy!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dreadfulapparition,whydoyoutroubleme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Manoftheworldlymind!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Doyoubelieveinmeornot?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ido",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imust.Butwhydospiritswalktheearth,andwhydotheycometome?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisrequiredofeveryman",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatthespiritwithinhimshouldwalkabroadamonghisfellowmen,andtravelfarandwide;andifthatspiritgoesnotforthinlife,itiscondemnedtodosoafterdeath.Itisdoomedtowanderthroughtheworld—oh,woeisme!—andwitnesswhatitcannotshare,butmighthavesharedonearth,andturnedtohappiness!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youarefettered",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tellmewhy?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IwearthechainIforgedinlife",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imadeitlinkbylink,andyardbyyard;Igirdeditonofmyownfreewill,andofmyownfreewillIworeit.Isitspatternstrangetoyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Orwouldyouknow",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "theweightandlengthofthestrongcoilyoubearyourself?Itwasfullasheavyandaslongasthis,sevenChristmasEvesago.Youhavelabouredonit,since.Itisaponderouschain!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Jacob",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "OldJacobMarley,tellmemore.Speakcomforttome,Jacob!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihavenonetogive",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itcomesfromotherregions,EbenezerScrooge,andisconveyedbyotherministers,tootherkindsofmen.NorcanItellyouwhatIwould.Averylittlemoreisallpermittedtome.Icannotrest,Icannotstay,Icannotlingeranywhere.Myspiritneverwalkedbeyondourcounting–house—markme!—inlifemyspiritneverrovedbeyondthenarrowlimitsofourmoney–changinghole;andwearyjourneysliebeforeme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youmusthavebeenveryslowaboutit,Jacob",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Slow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sevenyearsdead",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andtravellingallthetime!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thewholetime",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Norest,nopeace.Incessanttortureofremorse.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youtravelfast?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Onthewingsofthewind",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youmighthavegotoveragreatquantityofgroundinsevenyears",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,captive,bound,anddouble–ironed",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "nottoknow,thatagesofincessantlabourbyimmortalcreatures,forthisearthmustpassintoeternitybeforethegoodofwhichitissusceptibleisalldeveloped.NottoknowthatanyChristianspiritworkingkindlyinitslittlesphere,whateveritmaybe,willfinditsmortallifetooshortforitsvastmeansofusefulness.Nottoknowthatnospaceofregretcanmakeamendsforonelifesopportunitymisused!YetsuchwasI!Oh!suchwasI!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butyouwerealwaysagoodmanofbusiness,Jacob",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Business!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mankindwasmybusiness.Thecommonwelfarewasmybusiness;charity,mercy,forbearance,andbenevolence,were,all,mybusiness.Thedealingsofmytradewerebutadropofwaterinthecomprehensiveoceanofmybusiness!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Atthistimeoftherollingyear",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isuffermost.WhydidIwalkthroughcrowdsoffellow–beingswithmyeyesturneddown,andneverraisethemtothatblessedStarwhichledtheWiseMentoapoorabode!Weretherenopoorhomestowhichitslightwouldhaveconductedme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hearme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mytimeisnearlygone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwill",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butdontbeharduponme!Dontbeflowery,Jacob!Pray!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HowitisthatIappearbeforeyouinashapethatyoucansee,Imaynottell.Ihavesatinvisiblebesideyoumanyandmanyaday.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatisnolightpartofmypenance",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamheretonighttowarnyou,thatyouhaveyetachanceandhopeofescapingmyfate.Achanceandhopeofmyprocuring,Ebenezer.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwerealwaysagoodfriendtome",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thankee!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwillbehaunted",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "bythreespirits.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isthatthechanceandhopeyoumentioned,Jacob?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itis.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "I—IthinkIdrathernot",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Withouttheirvisits",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youcannothopetoshunthepathItread.Expectthefirsttomorrow,whenthebelltollsone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "CouldntItakeemallatonce,andhaveitover,Jacob?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Expectthesecondonthenextnightatthesamehour.Thethirduponthenextnightwhenthelaststrokeoftwelvehasceasedtovibrate.Looktoseemenomore;andlookthat,foryourownsake,yourememberwhathaspassedbetweenus!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Humbug!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,itisntpossible,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatIcanhavesleptthroughawholedayandfarintoanothernight.Itisntpossiblethatanythinghashappenedtothesun,andthisistwelveatnoon!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "threedaysaftersightofthisFirstofExchangepaytoMr.EbenezerScroogeorhisorder,",
+      "best_similarity": 0.4615,
+      "correct": false
+    },
+    {
+      "string": "Wasitadreamornot?",
+      "best_similarity": 0.5926,
+      "correct": false
+    },
+    {
+      "string": "Ding,dong!",
+      "best_similarity": 0.48,
+      "correct": false
+    },
+    {
+      "string": "Aquarterpast,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ding,dong!",
+      "best_similarity": 0.48,
+      "correct": false
+    },
+    {
+      "string": "Halfpast!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ding,dong!",
+      "best_similarity": 0.48,
+      "correct": false
+    },
+    {
+      "string": "Aquartertoit,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ding,dong!",
+      "best_similarity": 0.48,
+      "correct": false
+    },
+    {
+      "string": "Thehouritself,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andnothingelse!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AreyoutheSpirit,sir,whosecomingwasforetoldtome?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iam!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Who,andwhatareyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IamtheGhostofChristmasPast.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Longpast?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No.Yourpast.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "wouldyousosoonputout,withworldlyhands,thelightIgive?Isitnotenoughthatyouareoneofthosewhosepassionsmadethiscap,andforcemethroughwholetrainsofyearstowearitlowuponmybrow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "bonneted",
+      "best_similarity": 0.5556,
+      "correct": false
+    },
+    {
+      "string": "Yourwelfare!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourreclamation,then.Takeheed!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Rise!andwalkwithme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamamortal,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andliabletofall.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bearbutatouchofmyhandthere,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andyoushallbeupheldinmorethanthis!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "GoodHeaven!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwasbredinthisplace.Iwasaboyhere!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourlipistrembling,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andwhatisthatuponyourcheek?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourecollecttheway?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Rememberit!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "fervour—Icouldwalkitblindfold.",
+      "best_similarity": 0.8462,
+      "correct": false
+    },
+    {
+      "string": "Strangetohaveforgottenitforsomanyyears!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Letusgoon.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thesearebutshadowsofthethingsthathavebeen,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theyhavenoconsciousnessofus.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whywasherejoicedbeyondallboundstoseethem!Whydidhiscoldeyeglisten,andhisheartleapupastheywentpast!WhywashefilledwithgladnesswhenheheardthemgiveeachotherMerryChristmas,astheypartedatcross-roadsand-byeways,fortheirseveralhomes!WhatwasmerryChristmastoScrooge?OutuponmerryChristmas!Whatgoodhaditeverdonetohim?",
+      "best_similarity": 0.4024,
+      "correct": false
+    },
+    {
+      "string": "saidtheGhost.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Scroogesaidheknewit.Andhesobbed.Theyleftthehigh-road,byawellrememberedlane,andsoonapproachedamansionofdullredbrick,withalittleweathercock-surmountedcupola,ontheroof,andabellhanginginit.Itwasalargehouse,butoneofbrokenfortunes;forthespaciousofficeswerelittleused,theirwallsweredampandmossy,theirwindowsbroken,andtheirgatesdecayed.Fowlscluckedandstruttedinthestables;andthecoach-housesandshedswereoverrunwithgrass.Norwasitmoreretentiveofitsancientstate,within;forenteringthedrearyhall,andglancingthroughtheopendoorsofmanyrooms,theyfoundthempoorlyfurnished,cold,andvast.Therewasanearthysavourintheair,achillybarenessintheplace,whichassociateditselfsomehowwithtoomuchgettingupbycandle-light,andnottoomuchtoeat.Theywent,theGhostandScrooge,acrossthehall,toadooratthebackofthehouse.Itopenedbeforethem,anddisclosedalong,bare,melancholyroom,madebarerstillbylinesofplaindealformsanddesks.Atoneofthesealonelyboywasreadingnearafeeblefire;andScroogesatdownuponaform,andwepttoseehispoorforgottenselfashehadusedtobe.Notalatentechointhehouse,notasqueakandscufflefromthemicebehindthepanelling,notadripfromthehalf-thawedwater-spoutinthedullyardbehind,notasighamongtheleaflessboughsofonedespondentpoplar,nottheidleswingingofanemptystore-housedoor,no,notaclickinginthefire,butfellupontheheartofScroogewithsofteninginfluence,andgaveafreerpassagetohistears.TheSpirittouchedhimonthearm,andpointedtohisyoungerself,intentuponhisreading.Suddenlyaman,inforeigngarments:wonderfullyrealanddistincttolookat:stoodoutsidethewindow,withanaxestuckinhisbelt,andleadinganassladenwithwoodbythebridle.",
+      "best_similarity": 0.3372,
+      "correct": false
+    },
+    {
+      "string": "Scroogeexclaimedinecstacy.",
+      "best_similarity": 0.4615,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "TohearScroogeexpendingalltheearnestnessofhisnatureonsuchsubjects,inamostextraordinaryvoicebetweenlaughingandcrying;andtoseehisheightenedandexcitedface;wouldhavebeenasurprisetohisbusinessfriendsinthecity,indeed.",
+      "best_similarity": 0.4086,
+      "correct": false
+    },
+    {
+      "string": "criedScrooge.",
+      "best_similarity": 0.75,
+      "correct": false
+    },
+    {
+      "string": "Then,witharapidityoftransitionveryforeigntohisusualcharacter,hesaid,inpityforhisformerself,",
+      "best_similarity": 0.4227,
+      "correct": false
+    },
+    {
+      "string": "andcriedagain.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Scroogemuttered,puttinghishandinhispocket,andlookingabouthim,afterdryinghiseyeswithhiscuff:",
+      "best_similarity": 0.4127,
+      "correct": false
+    },
+    {
+      "string": "askedtheSpirit.",
+      "best_similarity": 0.6,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "TheGhostsmiledthoughtfully,andwaveditshand:sayingasitdidso,",
+      "best_similarity": 0.3971,
+      "correct": false
+    },
+    {
+      "string": "Scroogesformerselfgrewlargeratthewords,andtheroombecamealittledarkerandmoredirty.Thepannelsshrunk,thewindowscracked;fragmentsofplasterfelloutoftheceiling,andthenakedlathswereshowninstead:buthowallthiswasbroughtabout,Scroogeknewnomorethanyoudo.Heonlyknewthatitwasquitecorrect;thateverythinghadhappenedso;thattherehewas,aloneagain,whenalltheotherboyshadgonehomeforthejollyholidays.Hewasnotreadingnow,butwalkingupanddowndespairingly.ScroogelookedattheGhost,andwithamournfulshakingofhishead,glancedanxiouslytowardsthedoor.Itopened;andalittlegirl,muchyoungerthantheboy,camedartingin,andputtingherarmsabouthisneck,andoftenkissinghim,addressedhimasher",
+      "best_similarity": 0.3921,
+      "correct": false
+    },
+    {
+      "string": "saidthechild,clappinghertinyhands,andbendingdowntolaugh.",
+      "best_similarity": 0.449,
+      "correct": false
+    },
+    {
+      "string": "returnedtheboy.",
+      "best_similarity": 0.4706,
+      "correct": false
+    },
+    {
+      "string": "saidthechild,brimfulofglee,",
+      "best_similarity": 0.4528,
+      "correct": false
+    },
+    {
+      "string": "saidthechild,openinghereyes,",
+      "best_similarity": 0.4906,
+      "correct": false
+    },
+    {
+      "string": "exclaimedtheboy.Sheclappedherhandsandlaughed,andtriedtotouchhishead;butbeingtoolittle,laughedagain,andstoodontiptoetoembracehim.Thenshebegantodraghim,inherchildisheagerness,towardsthedoor;andhe,nothinglothtogo,accompaniedher.Aterriblevoiceinthehallcried,",
+      "best_similarity": 0.4097,
+      "correct": false
+    },
+    {
+      "string": "andinthehallappearedtheschoolmasterhimself,whoglaredonMasterScroogewithaferociouscondescension,andthrewhimintoadreadfulstateofmindbyshakinghandswithhim.Hethenconveyedhimandhissisterintotheveriestoldwellofashiveringbest-parlourthateverwasseen,wherethemapsuponthewall,andthecelestialandterrestrialglobesinthewindows,werewaxywithcold.Hereheproducedadecanterofcuriouslylightwine,andablockofcuriouslyheavycake,andadministeredinstalmentsofthosedaintiestotheyoungpeople:atthesametime,sendingoutameagreservanttoofferaglassof",
+      "best_similarity": 0.4083,
+      "correct": false
+    },
+    {
+      "string": "tothepostboy,whoansweredthathethankedthegentleman,butifitwasthesametapashehadtastedbefore,hehadrathernot.MasterScroogestrunkbeingbythistimetiedontothetopofthechaise,thechildrenbadetheschoolmastergood-byerightwillingly;andgettingintoit,drovegailydownthegarden-sweep:thequickwheelsdashingthehoar-frostandsnowfromoffthedarkleavesoftheevergreenslikespray.",
+      "best_similarity": 0.4036,
+      "correct": false
+    },
+    {
+      "string": "saidtheGhost.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "criedScrooge.",
+      "best_similarity": 0.75,
+      "correct": false
+    },
+    {
+      "string": "saidtheGhost,",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Scroogereturned.",
+      "best_similarity": 0.5926,
+      "correct": false
+    },
+    {
+      "string": "saidtheGhost.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Scroogeseemeduneasyinhismind;andansweredbriefly,",
+      "best_similarity": 0.4324,
+      "correct": false
+    },
+    {
+      "string": "Althoughtheyhadbutthatmomentlefttheschoolbehindthem,theywerenowinthebusythoroughfaresofacity,whereshadowypassengerspassedandrepassed;whereshadowycartsandcoachesbattledfortheway,andallthestrifeandtumultofarealcitywere.Itwasmadeplainenough,bythedressingoftheshops,thatheretooitwasChristmastimeagain;butitwasevening,andthestreetswerelightedup.TheGhoststoppedatacertainwarehousedoor,andaskedScroogeifheknewit.",
+      "best_similarity": 0.3961,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "Theywentin.AtsightofanoldgentlemaninaWelchwig,sittingbehindsuchahighdesk,thatifhehadbeentwoinchestallerhemusthaveknockedhisheadagainsttheceiling,Scroogecriedingreatexcitement:",
+      "best_similarity": 0.4159,
+      "correct": false
+    },
+    {
+      "string": "OldFezziwiglaiddownhispenandlookedupattheclock,whichpointedtothehourofseven.Herubbedhishands;adjustedhiscapaciouswaistcoat;laughedalloverhimself,fromhisshoestohisorganofbenevolence;andcalledoutinacomfortable,oily,rich,fat,jovialvoice:",
+      "best_similarity": 0.3888,
+      "correct": false
+    },
+    {
+      "string": "Scroogesformerself,nowgrownayoungman,camebrisklyin,accompaniedbyhisfellow-prentice.",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "saidScroogetotheGhost.",
+      "best_similarity": 0.5106,
+      "correct": false
+    },
+    {
+      "string": "saidFezziwig.",
+      "best_similarity": 0.4138,
+      "correct": false
+    },
+    {
+      "string": "criedoldFezziwig,withasharpclapofhishands,",
+      "best_similarity": 0.433,
+      "correct": false
+    },
+    {
+      "string": "Youwouldntbelievehowthosetwofellowswentatit!Theychargedintothestreetwiththeshutters—one,two,three—hademupintheirplaces—four,five,six—barredemandpinnedem—seven,eight,nine—andcamebackbeforeyoucouldhavegottotwelve,pantinglikerace-horses.",
+      "best_similarity": 0.4032,
+      "correct": false
+    },
+    {
+      "string": "criedoldFezziwig,skippingdownfromthehighdesk,withwonderfulagility.",
+      "best_similarity": 0.3967,
+      "correct": false
+    },
+    {
+      "string": "Clearaway!Therewasnothingtheywouldnthaveclearedaway,orcouldnthaveclearedaway,witholdFezziwiglookingon.Itwasdoneinaminute.Everymovablewaspackedoff,asifitweredismissedfrompubliclifeforevermore;thefloorwassweptandwatered,thelampsweretrimmed,fuelwasheapeduponthefire;andthewarehousewasassnug,andwarm,anddry,andbrightaball-room,asyouwoulddesiretoseeuponawintersnight.Incameafiddlerwithamusic-book,andwentuptotheloftydesk,andmadeanorchestraofit,andtunedlikefiftystomach-aches.IncameMrs.Fezziwig,onevastsubstantialsmile.IncamethethreeMissFezziwigs,beamingandloveable.Incamethesixyoungfollowerswhoseheartstheybroke.Incamealltheyoungmenandwomenemployedinthebusiness.Incamethehousemaid,withhercousin,thebaker.Incamethecook,withherbrothersparticularfriend,themilkman.Incametheboyfromovertheway,whowassuspectedofnothavingboardenoughfromhismaster;tryingtohidehimselfbehindthegirlfromnextdoorbutone,whowasprovedtohavehadherearspulledbyherMistress.Intheyallcame,oneafteranother;someshyly,someboldly,somegracefully,someawkwardly,somepushing,somepulling;intheyallcame,anyhowandeveryhow.Awaytheyallwent,twentycoupleatonce,handshalfroundandbackagaintheotherway;downthemiddleandupagain;roundandroundinvariousstagesofaffectionategrouping;oldtopcouplealwaysturningupinthewrongplace;newtopcouplestartingoffagain,assoonastheygotthere;alltopcouplesatlast,andnotabottomonetohelpthem.Whenthisresultwasbroughtabout,oldFezziwig,clappinghishandstostopthedance,criedout,",
+      "best_similarity": 0.3458,
+      "correct": false
+    },
+    {
+      "string": "andthefiddlerplungedhishotfaceintoapotofporter,especiallyprovidedforthatpurpose.Butscorningrestuponhisreappearance,heinstantlybeganagain,thoughtherewerenodancersyet,asiftheotherfiddlerhadbeencarriedhome,exhausted,onashutter;andhewereabran-newmanresolvedtobeathimoutofsight,orperish.Thereweremoredances,andtherewereforfeits,andmoredances,andtherewascake,andtherewasnegus,andtherewasagreatpieceofColdRoast,andtherewasagreatpieceofColdBoiled,andthereweremince-pies,andplentyofbeer.ButthegreateffectoftheeveningcameaftertheRoastandBoiled,whenthefiddler(anartfuldog,mind!ThesortofmanwhoknewhisbusinessbetterthanyouorIcouldhavetoldithim!)struckup",
+      "best_similarity": 0.3983,
+      "correct": false
+    },
+    {
+      "string": "ThenoldFezziwigstoodouttodancewithMrs.Fezziwig.Topcoupletoo;withagoodstiffpieceofworkcutoutforthem;threeorfourandtwentypairofpartners;peoplewhowerenottobetrifledwith;peoplewhowoulddance,andhadnonotionofwalking.Butiftheyhadbeentwiceasmany:ah,fourtimes:oldFezziwigwouldhavebeenamatchforthem,andsowouldMrs.Fezziwig.Astoher,shewasworthytobehispartnerineverysenseoftheterm.Ifthatsnothighpraise,tellmehigher,andIlluseit.ApositivelightappearedtoissuefromFezziwigscalves.Theyshoneineverypartofthedancelikemoons.Youcouldnthavepredicted,atanygiventime,whatwouldbecomeofemnext.AndwhenoldFezziwigandMrs.Fezziwighadgoneallthroughthedance;advanceandretire,holdhandswithyourpartner;bowandcurtsey;corkscrew;thread-the-needle,andbackagaintoyourplace;Fezziwig",
+      "best_similarity": 0.3814,
+      "correct": false
+    },
+    {
+      "string": "cut—cutsodeftly,thatheappearedtowinkwithhislegs,andcameuponhisfeetagainwithoutastagger.Whentheclockstruckeleven,thisdomesticballbrokeup.Mr.andMrs.Fezziwigtooktheirstations,oneoneithersidethedoor,andshakinghandswitheverypersonindividuallyasheorshewentout,wishedhimorheraMerryChristmas.Wheneverybodyhadretiredbutthetwoprentices,theydidthesametothem;andthusthecheerfulvoicesdiedaway,andtheladswerelefttotheirbeds;whichwereunderacounterintheback-shop.Duringthewholeofthistime,Scroogehadactedlikeamanoutofhiswits.Hisheartandsoulwereinthescene,andwithhisformerself.Hecorroboratedeverything,rememberedeverything,enjoyedeverything,andunderwentthestrangestagitation.Itwasnotuntilnow,whenthebrightfacesofhisformerselfandDickwereturnedfromthem,thatherememberedtheGhost,andbecameconsciousthatitwaslookingfulluponhim,whilethelightuponitsheadburntveryclear.",
+      "best_similarity": 0.4034,
+      "correct": false
+    },
+    {
+      "string": "saidtheGhost,",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "echoedScrooge.TheSpiritsignedtohimtolistentothetwoapprentices,whowerepouringouttheirheartsinpraiseofFezziwig:andwhenhehaddoneso,said,",
+      "best_similarity": 0.4154,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,heatedbytheremark,andspeakingunconsciouslylikehisformer,nothislatter,self.",
+      "best_similarity": 0.4247,
+      "correct": false
+    },
+    {
+      "string": "HefelttheSpiritsglance,andstopped.",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "askedtheGhost.",
+      "best_similarity": 0.5185,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "theGhostinsisted.",
+      "best_similarity": 0.5909,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "Hisformerselfturneddownthelampsashegaveutterancetothewish;andScroogeandtheGhostagainstoodsidebysideintheopenair.",
+      "best_similarity": 0.4298,
+      "correct": false
+    },
+    {
+      "string": "observedtheSpirit.",
+      "best_similarity": 0.6061,
+      "correct": false
+    },
+    {
+      "string": "ThiswasnotaddressedtoScrooge,ortoanyonewhomhecouldsee,butitproducedanimmediateeffect.ForagainScroogesawhimself.Hewasoldernow;amanintheprimeoflife.Hisfacehadnottheharshandrigidlinesoflateryears;butithadbeguntowearthesignsofcareandavarice.Therewasaneager,greedy,restlessmotionintheeye,whichshowedthepassionthathadtakenroot,andwheretheshadowofthegrowingtreewouldfall.Hewasnotalone,butsatbythesideofafairyounggirlinamourning-dress:inwhoseeyesthereweretears,whichsparkledinthelightthatshoneoutoftheGhostofChristmasPast.",
+      "best_similarity": 0.409,
+      "correct": false
+    },
+    {
+      "string": "shesaid,softly.",
+      "best_similarity": 0.5294,
+      "correct": false
+    },
+    {
+      "string": "herejoined.",
+      "best_similarity": 0.56,
+      "correct": false
+    },
+    {
+      "string": "hesaid.",
+      "best_similarity": 0.625,
+      "correct": false
+    },
+    {
+      "string": "sheanswered,gently.",
+      "best_similarity": 0.4516,
+      "correct": false
+    },
+    {
+      "string": "heretorted.",
+      "best_similarity": 0.5385,
+      "correct": false
+    },
+    {
+      "string": "Sheshookherhead.",
+      "best_similarity": 0.64,
+      "correct": false
+    },
+    {
+      "string": "hesaidimpatiently.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "shereturned.",
+      "best_similarity": 0.5517,
+      "correct": false
+    },
+    {
+      "string": "saidthegirl,lookingmildly,butwithsteadiness,uponhim;",
+      "best_similarity": 0.4821,
+      "correct": false
+    },
+    {
+      "string": "Heseemedtoyieldtothejusticeofthissupposition,inspiteofhimself.Buthesaid,withastruggle,",
+      "best_similarity": 0.4255,
+      "correct": false
+    },
+    {
+      "string": "sheanswered,",
+      "best_similarity": 0.6,
+      "correct": false
+    },
+    {
+      "string": "Hewasabouttospeak;butwithherheadturnedfromhim,sheresumed.",
+      "best_similarity": 0.4364,
+      "correct": false
+    },
+    {
+      "string": "Shelefthim;andtheyparted.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "exclaimedtheGhost.",
+      "best_similarity": 0.5641,
+      "correct": false
+    },
+    {
+      "string": "criedScrooge.",
+      "best_similarity": 0.75,
+      "correct": false
+    },
+    {
+      "string": "ButtherelentlessGhostpinionedhiminbothhisarms,andforcedhimtoobservewhathappenednext.Theywereinanothersceneandplace:aroom,notverylargeorhandsome,butfullofcomfort.Neartothewinterfiresatabeautifulyounggirl,solikethelastthatScroogebelieveditwasthesame,untilhesawher,nowacomelymatron,sittingoppositeherdaughter.Thenoiseinthisroomwasperfectlytumultuous,forthereweremorechildrenthere,thanScroogeinhisagitatedstateofmindcouldcount;and,unlikethecelebratedherdinthepoem,theywerenotfortychildrenconductingthemselveslikeone,buteverychildwasconductingitselflikeforty.Theconsequenceswereuproariousbeyondbelief;butnooneseemedtocare;onthecontrary,themotheranddaughterlaughedheartily,andenjoyeditverymuch;andthelatter,soonbeginningtomingleinthesports,gotpillagedbytheyoungbrigandsmostruthlessly.WhatwouldInothavegiventobeoneofthem!ThoughInevercouldhavebeensorude,no,no!Iwouldntforthewealthofalltheworldhavecrushedthatbraidedhair,andtornitdown;andforthepreciouslittleshoe,Iwouldnthavepluckeditoff,Godblessmysoul!tosavemylife.Astomeasuringherwaistinsport,astheydid,boldyoungbrood,Icouldnthavedoneit;Ishouldhaveexpectedmyarmtohavegrownrounditforapunishment,andnevercomestraightagain.AndyetIshouldhavedearlyliked,Iown,tohavetouchedherlips;tohavequestionedher,thatshemighthaveopenedthem;tohavelookeduponthelashesofherdowncasteyes,andneverraisedablush;tohaveletloosewavesofhair,aninchofwhichwouldbeakeepsakebeyondprice:inshort,Ishouldhaveliked,Idoconfess,tohavehadthelightestlicenceofachild,andyetbeenmanenoughtoknowitsvalue.Butnowaknockingatthedoorwasheard,andsucharushimmediatelyensuedthatshewithlaughingfaceandplundereddresswasbornetowardsitthecentreofaflushedandboisterousgroup,justintimetogreetthefather,who,camehomeattendedbyamanladenwithChristmastoysandpresents.Thentheshoutingandthestruggling,andtheonslaughtthatwasmadeonthedefencelessporter!Thescalinghim,withchairsforladders,todiveintohispockets,despoilhimofbrown-paperparcels,holdontightbyhiscravat,hughimroundtheneck,pommelhisback,andkickhislegsinirrepressibleaffection!Theshoutsofwonderanddelightwithwhichthedevelopmentofeverypackagewasreceived!Theterribleannouncementthatthebabyhadbeentakenintheactofputtingadollsfrying-panintohismouth,andwasmorethansuspectedofhavingswallowedafictitiousturkey,gluedonawoodenplatter!Theimmensereliefoffindingthisafalsealarm!Thejoy,andgratitude,andecstacy!Theyareallindescribablealike.Itisenoughthatbydegreesthechildrenandtheiremotionsgotoutoftheparlourandbyonestairatatime,uptothetopofthehouse;wheretheywenttobed,andsosubsided.AndnowScroogelookedonmoreattentivelythanever,whenthemasterofthehouse,havinghisdaughterleaningfondlyonhim,satdownwithherandhermotherathisownfireside;andwhenhethoughtthatsuchanothercreature,quiteasgracefulandasfullofpromise,mighthavecalledhimfather,andbeenaspring-timeinthehaggardwinterofhislife,hissightgrewverydimindeed.",
+      "best_similarity": 0.2585,
+      "correct": false
+    },
+    {
+      "string": "saidthehusband,turningtohiswifewithasmile,",
+      "best_similarity": 0.45,
+      "correct": false
+    },
+    {
+      "string": "sheaddedinthesamebreath,laughingashelaughed.",
+      "best_similarity": 0.4583,
+      "correct": false
+    },
+    {
+      "string": "saidScroogeinabrokenvoice,",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "saidtheGhost.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Scroogeexclaimed.",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "HeturnedupontheGhost,andseeingthatitlookeduponhimwithaface,inwhichinsomestrangewaytherewerefragmentsofallthefacesithadshownhim,wrestledwithit.",
+      "best_similarity": 0.4348,
+      "correct": false
+    },
+    {
+      "string": "Inthestruggle,ifthatcanbecalledastruggleinwhichtheGhostwithnovisibleresistanceonitsownpartwasundisturbedbyanyeffortofitsadversary,Scroogeobservedthatitslightwasburninghighandbright;anddimlyconnectingthatwithitsinfluenceoverhim,heseizedtheextinguisher-cap,andbyasuddenactionpresseditdownuponitshead.TheSpiritdroppedbeneathit,sothattheextinguishercovereditswholeform;butthoughScroogepresseditdownwithallhisforce,hecouldnothidethelight:whichstreamedfromunderit,inanunbrokenfloodupontheground.Hewasconsciousofbeingexhausted,andovercomebyanirresistibledrowsiness;and,further,ofbeinginhisownbedroom.Hegavethecapapartingsqueeze,inwhichhishandrelaxed;andhadbarelytimetoreeltobed,beforehesankintoaheavysleep.AWAKINGinthemiddleofaprodigiouslytoughsnore,andsittingupinbedtogethisthoughtstogether,ScroogehadnooccasiontobetoldthatthebellwasagainuponthestrokeofOne.Hefeltthathewasrestoredtoconsciousnessintherightnickoftime,fortheespecialpurposeofholdingaconferencewiththesecondmessengerdespatchedtohimthroughJacobMarleysintervention.Butfindingthatheturneduncomfortablycoldwhenhebegantowonderwhichofhiscurtainsthisnewspectrewoulddrawback,heputthemeveryoneasidewithhisownhands;andlyingdownagain,establishedasharplook-outallroundthebed.ForhewishedtochallengetheSpiritonthemomentofitsappearance,anddidnotwishtobetakenbysurprise,andmadenervous.Gentlemenofthefree-and-easysort,whoplumethemselvesonbeingacquaintedwithamoveortwo,andbeingusuallyequaltothetime-of-day,expressthewiderangeoftheircapacityforadventurebyobservingthattheyaregoodforanythingfrompitch-and-tosstomanslaughter;betweenwhichoppositeextremes,nodoubt,thereliesatolerablywideandcomprehensiverangeofsubjects.WithoutventuringforScroogequiteashardilyasthis,Idontmindcallingonyoutobelievethathewasreadyforagoodbroadfieldofstrangeappearances,andthatnothingbetweenababyandrhinoceroswouldhaveastonishedhimverymuch.Now,beingpreparedforalmostanything,hewasnotbyanymeanspreparedfornothing;and,consequently,whentheBellstruckOne,andnoshapeappeared,hewastakenwithaviolentfitoftrembling.Fiveminutes,tenminutes,aquarterofanhourwentby,yetnothingcame.Allthistime,helayuponhisbed,theverycoreandcentreofablazeofruddylight,whichstreameduponitwhentheclockproclaimedthehour;andwhich,beingonlylight,wasmorealarmingthanadozenghosts,ashewaspowerlesstomakeoutwhatitmeant,orwouldbeat;andwassometimesapprehensivethathemightbeatthatverymomentaninterestingcaseofspontaneouscombustion,withouthavingtheconsolationofknowingit.Atlast,however,hebegantothink--asyouorIwouldhavethoughtatfirst;foritisalwaysthepersonnotinthepredicamentwhoknowswhatoughttohavebeendoneinit,andwouldunquestionablyhavedoneittoo--atlast,Isay,hebegantothinkthatthesourceandsecretofthisghostlylightmightbeintheadjoiningroom,fromwhence,onfurthertracingit,itseemedtoshine.Thisideatakingfullpossessionofhismind,hegotupsoftlyandshuffledinhisslipperstothedoor.ThemomentScroogeshandwasonthelock,astrangevoicecalledhimbyhisname,andbadehimenter.Heobeyed.Itwashisownroom.Therewasnodoubtaboutthat.Butithadundergoneasurprisingtransformation.Thewallsandceilingweresohungwithlivinggreen,thatitlookedaperfectgrove;fromeverypartofwhich,brightgleamingberriesglistened.Thecrispleavesofholly,mistletoe,andivyreflectedbackthelight,asifsomanylittlemirrorshadbeenscatteredthere;andsuchamightyblazewentroaringupthechimney,asthatdullpetrificationofahearthhadneverknowninScroogestime,orMarleys,orformanyandmanyawinterseasongone.Heapeduponthefloor,toformakindofthrone,wereturkeys,geese,game,poultry,brawn,greatjointsofmeat,sucking-pigs,longwreathsofsausages,mince-pies,plum-puddings,barrelsofoysters,red-hotchestnuts,cherry-cheekedapples,juicyoranges,lusciouspears,immensetwelfth-cakes,andseethingbowlsofpunch,thatmadethechamberdimwiththeirdelicioussteam.Ineasystateuponthiscouch,theresatajollyGiant,glorioustosee;whoboreaglowingtorch,inshapenotunlikePlentyshorn,andhelditup,highup,tosheditslightonScrooge,ashecamepeepingroundthedoor.",
+      "best_similarity": 0.2136,
+      "correct": false
+    },
+    {
+      "string": "exclaimedtheGhost.",
+      "best_similarity": 0.5641,
+      "correct": false
+    },
+    {
+      "string": "Scroogeenteredtimidly,andhunghisheadbeforethisSpirit.HewasnotthedoggedScroogehehadbeen;andthoughtheSpiritseyeswereclearandkind,hedidnotliketomeetthem.",
+      "best_similarity": 0.4114,
+      "correct": false
+    },
+    {
+      "string": "saidtheSpirit.",
+      "best_similarity": 0.6207,
+      "correct": false
+    },
+    {
+      "string": "Scroogereverentlydidso.Itwasclothedinonesimplegreenrobe,ormantle,borderedwithwhitefur.Thisgarmenthungsolooselyonthefigure,thatitscapaciousbreastwasbare,asifdisdainingtobewardedorconcealedbyanyartifice.Itsfeet,observablebeneaththeamplefoldsofthegarment,werealsobare;andonitsheaditworenoothercoveringthanahollywreath,sethereandtherewithshiningicicles.Itsdarkbrowncurlswerelongandfree;freeasitsgenialface,itssparklingeye,itsopenhand,itscheeryvoice,itsunconstraineddemeanour,anditsjoyfulair.Girdedrounditsmiddlewasanantiquescabbard;butnoswordwasinit,andtheancientsheathwaseatenupwithrust.",
+      "best_similarity": 0.3966,
+      "correct": false
+    },
+    {
+      "string": "exclaimedtheSpirit.",
+      "best_similarity": 0.5789,
+      "correct": false
+    },
+    {
+      "string": "Scroogemadeanswertoit.",
+      "best_similarity": 0.5417,
+      "correct": false
+    },
+    {
+      "string": "pursuedthePhantom.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "saidtheGhost.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "mutteredScrooge.TheGhostofChristmasPresentrose.",
+      "best_similarity": 0.7013,
+      "correct": false
+    },
+    {
+      "string": "saidScroogesubmissively,",
+      "best_similarity": 0.48,
+      "correct": false
+    },
+    {
+      "string": "Scroogedidashewastold,andhelditfast.Holly,mistletoe,redberries,ivy,turkeys,geese,game,poultry,brawn,meat,pigs,sausages,oysters,pies,puddings,fruit,andpunch,allvanishedinstantly.Sodidtheroom,thefire,theruddyglow,thehourofnight,andtheystoodinthecitystreetsonChristmasmorning,where(fortheweatherwassevere)thepeoplemadearough,butbriskandnotunpleasantkindofmusic,inscrapingthesnowfromthepavementinfrontoftheirdwellings,andfromthetopsoftheirhouses,whenceitwasmaddelighttotheboystoseeitcomeplumpingdownintotheroadbelow,andsplittingintoartificiallittlesnow-storms.Thehousefrontslookedblackenough,andthewindowsblacker,contrastingwiththesmoothwhitesheetofsnowupontheroofs,andwiththedirtiersnowupontheground;whichlastdeposithadbeenploughedupindeepfurrowsbytheheavywheelsofcartsandwaggons;furrowsthatcrossedandre-crossedeachotherhundredsoftimeswherethegreatstreetsbranchedoff;andmadeintricatechannels,hardtotraceinthethickyellowmudandicywater.Theskywasgloomy,andtheshorteststreetswerechokedupwithadingymist,halfthawed,halffrozen,whoseheavierparticlesdescendedinashowerofsootyatoms,asifallthechimneysinGreatBritainhad,byoneconsent,caughtfire,andwereblazingawaytotheirdearheartscontent.Therewasnothingverycheerfulintheclimateorthetown,andyetwasthereanairofcheerfulnessabroadthattheclearestsummerairandbrightestsummersunmighthaveendeavouredtodiffuseinvain.For,thepeoplewhowereshovellingawayonthehousetopswerejovialandfullofglee;callingouttooneanotherfromtheparapets,andnowandthenexchangingafacetioussnowball--better-naturedmissilefarthanmanyawordyjest--laughingheartilyifitwentrightandnotlessheartilyifitwentwrong.Thepoulterersshopswerestillhalfopen,andthefruitererswereradiantintheirglory.Thereweregreat,round,pot-belliedbasketsofchestnuts,shapedlikethewaistcoatsofjollyoldgentlemen,lollingatthedoors,andtumblingoutintothestreetintheirapoplecticopulence.Therewereruddy,brown-faced,broad-girthedSpanishOnions,shininginthefatnessoftheirgrowthlikeSpanishFriars,andwinkingfromtheirshelvesinwantonslynessatthegirlsastheywentby,andglanceddemurelyatthehung-upmistletoe.Therewerepearsandapples,clusteredhighinbloomingpyramids;therewerebunchesofgrapes,made,intheshopkeepersbenevolencetodanglefromconspicuoushooks,thatpeoplesmouthsmightwatergratisastheypassed;therewerepilesoffilberts,mossyandbrown,recalling,intheirfragrance,ancientwalksamongthewoods,andpleasantshufflingsankledeepthroughwitheredleaves;therewereNorfolkBiffins,squatandswarthy,settingofftheyellowoftheorangesandlemons,and,inthegreatcompactnessoftheirjuicypersons,urgentlyentreatingandbeseechingtobecarriedhomeinpaperbagsandeatenafterdinner.Theverygoldandsilverfish,setforthamongthesechoicefruitsinabowl,thoughmembersofadullandstagnant-bloodedrace,appearedtoknowthattherewassomethinggoingon;and,toafish,wentgaspingroundandroundtheirlittleworldinslowandpassionlessexcitement.TheGrocers!oh,theGrocers!nearlyclosed,withperhapstwoshuttersdown,orone;butthroughthosegapssuchglimpses!Itwasnotalonethatthescalesdescendingonthecountermadeamerrysound,orthatthetwineandrollerpartedcompanysobriskly,orthatthecanisterswererattledupanddownlikejugglingtricks,oreventhattheblendedscentsofteaandcoffeeweresogratefultothenose,oreventhattheraisinsweresoplentifulandrare,thealmondssoextremelywhite,thesticksofcinnamonsolongandstraight,theotherspicessodelicious,thecandiedfruitssocakedandspottedwithmoltensugarastomakethecoldestlookers-onfeelfaintandsubsequentlybilious.Norwasitthatthefigsweremoistandpulpy,orthattheFrenchplumsblushedinmodesttartnessfromtheirhighly-decoratedboxes,orthateverythingwasgoodtoeatandinitsChristmasdress;butthecustomerswereallsohurriedandsoeagerinthehopefulpromiseoftheday,thattheytumbledupagainsteachotheratthedoor,crashingtheirwickerbasketswildly,andlefttheirpurchasesuponthecounter,andcamerunningbacktofetchthem,andcommittedhundredsofthelikemistakes,inthebesthumourpossible;whiletheGrocerandhispeopleweresofrankandfreshthatthepolishedheartswithwhichtheyfastenedtheirapronsbehindmighthavebeentheirown,wornoutsideforgeneralinspection,andforChristmasdawstopeckatiftheychose.Butsoonthesteeplescalledgoodpeopleall,tochurchandchapel,andawaytheycame,flockingthroughthestreetsintheirbestclothes,andwiththeirgayestfaces.Andatthesametimethereemergedfromscoresofbye-streets,lanes,andnamelessturnings,innumerablepeople,carryingtheirdinnerstothebakersshops.ThesightofthesepoorrevellersappearedtointeresttheSpiritverymuch,forhestoodwithScroogebesidehiminabakersdoorway,andtakingoffthecoversastheirbearerspassed,sprinkledincenseontheirdinnersfromhistorch.Anditwasaveryuncommonkindoftorch,foronceortwicewhentherewereangrywordsbetweensomedinner-carrierswhohadjostledeachother,heshedafewdropsofwateronthemfromit,andtheirgoodhumourwasrestoreddirectly.Fortheysaid,itwasashametoquarreluponChristmasDay.Andsoitwas!Godloveit,soitwas!Intimethebellsceased,andthebakerswereshutup;andyettherewasagenialshadowingforthofallthesedinnersandtheprogressoftheircooking,inthethawedblotchofwetaboveeachbakersoven;wherethepavementsmokedasifitsstoneswerecookingtoo.",
+      "best_similarity": 0.1835,
+      "correct": false
+    },
+    {
+      "string": "askedScrooge.",
+      "best_similarity": 0.6667,
+      "correct": false
+    },
+    {
+      "string": "askedScrooge.",
+      "best_similarity": 0.6667,
+      "correct": false
+    },
+    {
+      "string": "askedScrooge.",
+      "best_similarity": 0.6667,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,afteramomentsthought,",
+      "best_similarity": 0.4688,
+      "correct": false
+    },
+    {
+      "string": "criedtheSpirit.",
+      "best_similarity": 0.6,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "criedtheSpirit.",
+      "best_similarity": 0.6,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "exclaimedtheSpirit.",
+      "best_similarity": 0.5789,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "returnedtheSpirit,",
+      "best_similarity": 0.56,
+      "correct": false
+    },
+    {
+      "string": "Scroogepromisedthathewould;andtheywenton,invisible,astheyhadbeenbefore,intothesuburbsofthetown.ItwasaremarkablequalityoftheGhost(whichScroogehadobservedatthebakers),thatnotwithstandinghisgiganticsize,hecouldaccommodatehimselftoanyplacewithease;andthathestoodbeneathalowroofquiteasgracefullyandlikeasupernaturalcreature,asitwaspossiblehecouldhavedoneinanyloftyhall.AndperhapsitwasthepleasurethegoodSpirithadinshowingoffthispowerofhis,orelseitwashisownkind,generous,heartynature,andhissympathywithallpoormen,thatledhimstraighttoScroogesclerks;fortherehewent,andtookScroogewithhim,holdingtohisrobe;andonthethresholdofthedoortheSpiritsmiled,andstoppedtoblessBobCratchitsdwellingwiththesprinklingofhistorch.Thinkofthat!Bobhadbutfifteen",
+      "best_similarity": 0.4015,
+      "correct": false
+    },
+    {
+      "string": "a-weekhimself;hepocketedonSaturdaysbutfifteencopiesofhisChristianname;andyettheGhostofChristmasPresentblessedhisfour-roomedhouse!ThenuproseMrs.Cratchit,Cratchitswife,dressedoutbutpoorlyinatwice-turnedgown,butbraveinribbons,whicharecheapandmakeagoodlyshowforsixpence;andshelaidthecloth,assistedbyBelindaCratchit,secondofherdaughters,alsobraveinribbons;whileMasterPeterCratchitplungedaforkintothesaucepanofpotatoes,andgettingthecornersofhismonstrousshirtcollar(Bobsprivateproperty,conferreduponhissonandheirinhonouroftheday)intohismouth,rejoicedtofindhimselfsogallantlyattired,andyearnedtoshowhislineninthefashionableParks.AndnowtwosmallerCratchits,boyandgirl,cametearingin,screamingthatoutsidethebakerstheyhadsmeltthegoose,andknownitfortheirown;andbaskinginluxuriousthoughtsofsageandonion,theseyoungCratchitsdancedaboutthetable,andexaltedMasterPeterCratchittotheskies,whilehe(notproud,althoughhiscollarsnearlychokedhim)blewthefire,untiltheslowpotatoesbubblingup,knockedloudlyatthesaucepan-lidtobeletoutandpeeled.",
+      "best_similarity": 0.3783,
+      "correct": false
+    },
+    {
+      "string": "saidMrs.Cratchit.",
+      "best_similarity": 0.52,
+      "correct": false
+    },
+    {
+      "string": "saidagirl,appearingasshespoke.",
+      "best_similarity": 0.4167,
+      "correct": false
+    },
+    {
+      "string": "criedthetwoyoungCratchits.",
+      "best_similarity": 0.6,
+      "correct": false
+    },
+    {
+      "string": "saidMrs.Cratchit,kissingheradozentimes,andtakingoffhershawlandbonnetforherwithofficiouszeal.",
+      "best_similarity": 0.4176,
+      "correct": false
+    },
+    {
+      "string": "repliedthegirl,",
+      "best_similarity": 0.4615,
+      "correct": false
+    },
+    {
+      "string": "saidMrs.Cratchit.",
+      "best_similarity": 0.52,
+      "correct": false
+    },
+    {
+      "string": "criedthetwoyoungCratchits,whowereeverywhereatonce.",
+      "best_similarity": 0.437,
+      "correct": false
+    },
+    {
+      "string": "SoMarthahidherself,andincamelittleBob,thefather,withatleastthreefeetofcomforterexclusiveofthefringe,hangingdownbeforehim;andhisthreadbareclothesdarnedupandbrushed,tolookseasonable;andTinyTimuponhisshoulder.AlasforTinyTim,heborealittlecrutch,andhadhislimbssupportedbyanironframe!",
+      "best_similarity": 0.4087,
+      "correct": false
+    },
+    {
+      "string": "criedBobCratchit,lookinground.",
+      "best_similarity": 0.4815,
+      "correct": false
+    },
+    {
+      "string": "saidMrs.Cratchit.",
+      "best_similarity": 0.52,
+      "correct": false
+    },
+    {
+      "string": "saidBob,withasuddendeclensioninhishighspirits;forhehadbeenTimsbloodhorseallthewayfromchurch,andhadcomehomerampant.",
+      "best_similarity": 0.4141,
+      "correct": false
+    },
+    {
+      "string": "Marthadidntliketoseehimdisappointed,ifitwereonlyinjoke;soshecameoutprematurelyfrombehindtheclosetdoor,andranintohisarms,whilethetwoyoungCratchitshustledTinyTim,andborehimoffintothewash-house,thathemighthearthepuddingsinginginthecopper.",
+      "best_similarity": 0.4073,
+      "correct": false
+    },
+    {
+      "string": "askedMrs.Cratchit,whenshehadralliedBobonhiscredulity,andBobhadhuggedhisdaughtertohisheartscontent.",
+      "best_similarity": 0.4174,
+      "correct": false
+    },
+    {
+      "string": "saidBob,",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "Bobsvoicewastremulouswhenhetoldthemthis,andtrembledmorewhenhesaidthatTinyTimwasgrowingstrongandhearty.Hisactivelittlecrutchwashearduponthefloor,andbackcameTinyTimbeforeanotherwordwasspoken,escortedbyhisbrotherandsistertohisstoolbeforethefire;andwhileBob,turninguphiscuffs--asif,poorfellow,theywerecapableofbeingmademoreshabby--compoundedsomehotmixtureinajugwithginandlemons,andstirreditroundandroundandputitonthehobtosimmer;MasterPeter,andthetwoubiquitousyoungCratchitswenttofetchthegoose,withwhichtheysoonreturnedinhighprocession.Suchabustleensuedthatyoumighthavethoughtagoosetherarestofallbirds;afeatheredphenomenon,towhichablackswanwasamatterofcourse--andintruthitwassomethingverylikeitinthathouse.Mrs.Cratchitmadethegravy(readybeforehandinalittlesaucepan)hissinghot;MasterPetermashedthepotatoeswithincrediblevigour;MissBelindasweeteneduptheapple-sauce;Marthadustedthehotplates;BobtookTinyTimbesidehiminatinycorneratthetable;thetwoyoungCratchitssetchairsforeverybody,notforgettingthemselves,andmountingguardupontheirposts,crammedspoonsintotheirmouths,lesttheyshouldshriekforgoosebeforetheirturncametobehelped.Atlastthedisheswereseton,andgracewassaid.Itwassucceededbyabreathlesspause,asMrs.Cratchit,lookingslowlyallalongthecarving-knife,preparedtoplungeitinthebreast;butwhenshedid,andwhenthelongexpectedgushofstuffingissuedforth,onemurmurofdelightaroseallroundtheboard,andevenTinyTim,excitedbythetwoyoungCratchits,beatonthetablewiththehandleofhisknife,andfeeblycriedHurrah!Thereneverwassuchagoose.Bobsaidhedidntbelievethereeverwassuchagoosecooked.Itstendernessandflavour,sizeandcheapness,werethethemesofuniversaladmiration.Ekedoutbyapple-sauceandmashedpotatoes,itwasasufficientdinnerforthewholefamily;indeed,asMrs.Cratchitsaidwithgreatdelight(surveyingonesmallatomofaboneuponthedish),theyhadntateitallatlast!Yeteveryonehadhadenough,andtheyoungestCratchitsinparticular,weresteepedinsageandoniontotheeyebrows!Butnow,theplatesbeingchangedbyMissBelinda,Mrs.Cratchitlefttheroomalone--toonervoustobearwitnesses--totakethepuddingupandbringitin.Supposeitshouldnotbedoneenough!Supposeitshouldbreakinturningout!Supposesomebodyshouldhavegotoverthewalloftheback-yard,andstolenit,whiletheyweremerrywiththegoose--asuppositionatwhichthetwoyoungCratchitsbecamelivid!Allsortsofhorrorsweresupposed.Hallo!Agreatdealofsteam!Thepuddingwasoutofthecopper.Asmelllikeawashing-day!Thatwasthecloth.Asmelllikeaneating-houseandapastrycooksnextdoortoeachother,withalaundresssnextdoortothat!Thatwasthepudding!InhalfaminuteMrs.Cratchitentered--flushed,butsmilingproudly--withthepudding,likeaspeckledcannon-ball,sohardandfirm,blazinginhalfofhalf-a-quarternofignitedbrandy,andbedightwithChristmashollystuckintothetop.Oh,awonderfulpudding!BobCratchitsaid,andcalmlytoo,thatheregardeditasthegreatestsuccessachievedbyMrs.Cratchitsincetheirmarriage.Mrs.Cratchitsaidthatnowtheweightwasoffhermind,shewouldconfessshehadhadherdoubtsaboutthequantityofflour.Everybodyhadsomethingtosayaboutit,butnobodysaidorthoughtitwasatallasmallpuddingforalargefamily.Itwouldhavebeenflatheresytodoso.AnyCratchitwouldhaveblushedtohintatsuchathing.Atlastthedinnerwasalldone,theclothwascleared,thehearthswept,andthefiremadeup.Thecompoundinthejugbeingtasted,andconsideredperfect,applesandorangeswereputuponthetable,andashovel-fullofchestnutsonthefire.ThenalltheCratchitfamilydrewroundthehearth,inwhatBobCratchitcalledacircle,meaninghalfaone;andatBobCratchitselbowstoodthefamilydisplayofglass.Twotumblers,andacustard-cupwithoutahandle.Theseheldthehotstufffromthejug,however,aswellasgoldengobletswouldhavedone;andBobserveditoutwithbeaminglooks,whilethechestnutsonthefiresputteredandcrackednoisily.ThenBobproposed:",
+      "best_similarity": 0.2222,
+      "correct": false
+    },
+    {
+      "string": "Whichallthefamilyre-echoed.",
+      "best_similarity": 0.439,
+      "correct": false
+    },
+    {
+      "string": "saidTinyTim,thelastofall.Hesatveryclosetohisfatherssideuponhislittlestool.Bobheldhiswitheredlittlehandinhis,asifhelovedthechild,andwishedtokeephimbyhisside,anddreadedthathemightbetakenfromhim.",
+      "best_similarity": 0.414,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,withaninteresthehadneverfeltbefore,",
+      "best_similarity": 0.4719,
+      "correct": false
+    },
+    {
+      "string": "repliedtheGhost,",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "returnedtheGhost,",
+      "best_similarity": 0.4865,
+      "correct": false
+    },
+    {
+      "string": "ScroogehunghisheadtohearhisownwordsquotedbytheSpirit,andwasovercomewithpenitenceandgrief.",
+      "best_similarity": 0.4327,
+      "correct": false
+    },
+    {
+      "string": "saidtheGhost,",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "ScroogebentbeforetheGhostsrebuke,andtremblingcasthiseyesupontheground.Butheraisedthemspeedily,onhearinghisownname.",
+      "best_similarity": 0.441,
+      "correct": false
+    },
+    {
+      "string": "saidBob;",
+      "best_similarity": 0.4615,
+      "correct": false
+    },
+    {
+      "string": "criedMrs.Cratchit,reddening.",
+      "best_similarity": 0.4783,
+      "correct": false
+    },
+    {
+      "string": "saidBob,",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "saidshe,",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "wasBobsmildanswer,",
+      "best_similarity": 0.4516,
+      "correct": false
+    },
+    {
+      "string": "saidMrs.Cratchit,",
+      "best_similarity": 0.52,
+      "correct": false
+    },
+    {
+      "string": "Thechildrendrankthetoastafterher.Itwasthefirstoftheirproceedingswhichhadnoheartiness.TinyTimdrankitlastofall,buthedidntcaretwopenceforit.ScroogewastheOgreofthefamily.Thementionofhisnamecastadarkshadowontheparty,whichwasnotdispelledforfullfiveminutes.Afterithadpassedaway,theyweretentimesmerrierthanbefore,fromthemerereliefofScroogetheBalefulbeingdonewith.BobCratchittoldthemhowhehadasituationinhiseyeforMasterPeter,whichwouldbringin,ifobtained,fullfive-and-sixpenceweekly.ThetwoyoungCratchitslaughedtremendouslyattheideaofPetersbeingamanofbusiness;andPeterhimselflookedthoughtfullyatthefirefrombetweenhiscollars,asifheweredeliberatingwhatparticularinvestmentsheshouldfavourwhenhecameintothereceiptofthatbewilderingincome.Martha,whowasapoorapprenticeatamilliners,thentoldthemwhatkindofworkshehadtodo,andhowmanyhourssheworkedatastretch,andhowshemeanttolieabedto-morrowmorningforagoodlongrest;to-morrowbeingaholidayshepassedathome.Alsohowshehadseenacountessandalordsomedaysbefore,andhowthelord",
+      "best_similarity": 0.3732,
+      "correct": false
+    },
+    {
+      "string": "atwhichPeterpulleduphiscollarssohighthatyoucouldnthaveseenhisheadifyouhadbeenthere.Allthistimethechestnutsandthejugwentroundandround;andby-and-byetheyhadasong,aboutalostchildtravellinginthesnow,fromTinyTim,whohadaplaintivelittlevoice,andsangitverywellindeed.Therewasnothingofhighmarkinthis.Theywerenotahandsomefamily;theywerenotwelldressed;theirshoeswerefarfrombeingwater-proof;theirclotheswerescanty;andPetermighthaveknown,andverylikelydid,theinsideofapawnbrokers.But,theywerehappy,grateful,pleasedwithoneanother,andcontentedwiththetime;andwhentheyfaded,andlookedhappieryetinthebrightsprinklingsoftheSpiritstorchatparting,Scroogehadhiseyeuponthem,andespeciallyonTinyTim,untilthelast.Bythistimeitwasgettingdark,andsnowingprettyheavily;andasScroogeandtheSpiritwentalongthestreets,thebrightnessoftheroaringfiresinkitchens,parlours,andallsortsofrooms,waswonderful.Here,theflickeringoftheblazeshowedpreparationsforacosydinner,withhotplatesbakingthroughandthroughbeforethefire,anddeepredcurtains,readytobedrawntoshutoutcoldanddarkness.Thereallthechildrenofthehousewererunningoutintothesnowtomeettheirmarriedsisters,brothers,cousins,uncles,aunts,andbethefirsttogreetthem.Here,again,wereshadowsonthewindow-blindofguestsassembling;andthereagroupofhandsomegirls,allhoodedandfur-booted,andallchatteringatonce,trippedlightlyofftosomenearneighbourshouse;where,woeuponthesinglemanwhosawthementer--artfulwitches,welltheyknewit--inaglow!But,ifyouhadjudgedfromthenumbersofpeopleontheirwaytofriendlygatherings,youmighthavethoughtthatnoonewasathometogivethemwelcomewhentheygotthere,insteadofeveryhouseexpectingcompany,andpilingupitsfireshalf-chimneyhigh.Blessingsonit,howtheGhostexulted!Howitbareditsbreadthofbreast,andopeneditscapaciouspalm,andfloatedon,outpouring,withageneroushand,itsbrightandharmlessmirthoneverythingwithinitsreach!Theverylamplighter,whoranonbefore,dottingtheduskystreetwithspecksoflight,andwhowasdressedtospendtheeveningsomewhere,laughedoutloudlyastheSpiritpassed,thoughlittlekennedthelamplighterthathehadanycompanybutChristmas!Andnow,withoutawordofwarningfromtheGhost,theystooduponableakanddesertmoor,wheremonstrousmassesofrudestonewerecastabout,asthoughitweretheburial-placeofgiants;andwaterspreaditselfwheresoeveritlisted,orwouldhavedoneso,butforthefrostthathelditprisoner;andnothinggrewbutmossandfurze,andcoarserankgrass.Downinthewestthesettingsunhadleftastreakoffieryred,whichglareduponthedesolationforaninstant,likeasulleneye,andfrowninglower,lower,loweryet,waslostinthethickgloomofdarkestnight.",
+      "best_similarity": 0.2784,
+      "correct": false
+    },
+    {
+      "string": "askedScrooge.",
+      "best_similarity": 0.6667,
+      "correct": false
+    },
+    {
+      "string": "returnedtheSpirit.",
+      "best_similarity": 0.6061,
+      "correct": false
+    },
+    {
+      "string": "Alightshonefromthewindowofahut,andswiftlytheyadvancedtowardsit.Passingthroughthewallofmudandstone,theyfoundacheerfulcompanyassembledroundaglowingfire.Anold,oldmanandwoman,withtheirchildrenandtheirchildrenschildren,andanothergenerationbeyondthat,alldeckedoutgailyintheirholidayattire.Theoldman,inavoicethatseldomroseabovethehowlingofthewinduponthebarrenwaste,wassingingthemaChristmassong--ithadbeenaveryoldsongwhenhewasaboy--andfromtimetotimetheyalljoinedinthechorus.Sosurelyastheyraisedtheirvoices,theoldmangotquiteblitheandloud;andsosurelyastheystopped,hisvigoursankagain.TheSpiritdidnottarryhere,butbadeScroogeholdhisrobe,andpassingonabovethemoor,sped--whither?Nottosea?Tosea.ToScroogeshorror,lookingback,hesawthelastoftheland,afrightfulrangeofrocks,behindthem;andhisearsweredeafenedbythethunderingofwater,asitrolledandroared,andragedamongthedreadfulcavernsithadworn,andfiercelytriedtounderminetheearth.Builtuponadismalreefofsunkenrocks,someleagueorsofromshore,onwhichthewaterschafedanddashed,thewildyearthrough,therestoodasolitarylighthouse.Greatheapsofsea-weedclungtoitsbase,andstorm-birds--bornofthewindonemightsuppose,assea-weedofthewater--roseandfellaboutit,likethewavestheyskimmed.Butevenhere,twomenwhowatchedthelighthadmadeafire,thatthroughtheloopholeinthethickstonewallshedoutarayofbrightnessontheawfulsea.Joiningtheirhornyhandsovertheroughtableatwhichtheysat,theywishedeachotherMerryChristmasintheircanofgrog;andoneofthem:theelder,too,withhisfacealldamagedandscarredwithhardweather,asthefigure-headofanoldshipmightbe:struckupasturdysongthatwaslikeaGaleinitself.AgaintheGhostspedon,abovetheblackandheavingsea--on,on--until,beingfaraway,ashetoldScrooge,fromanyshore,theylightedonaship.Theystoodbesidethehelmsmanatthewheel,thelook-outinthebow,theofficerswhohadthewatch;dark,ghostlyfiguresintheirseveralstations;buteverymanamongthemhummedaChristmastune,orhadaChristmasthought,orspokebelowhisbreathtohiscompanionofsomebygoneChristmasDay,withhomewardhopesbelongingtoit.Andeverymanonboard,wakingorsleeping,goodorbad,hadhadakinderwordforanotheronthatdaythanonanydayintheyear;andhadsharedtosomeextentinitsfestivities;andhadrememberedthosehecaredforatadistance,andhadknownthattheydelightedtorememberhim.ItwasagreatsurprisetoScrooge,whilelisteningtothemoaningofthewind,andthinkingwhatasolemnthingitwastomoveonthroughthelonelydarknessoveranunknownabyss,whosedepthsweresecretsasprofoundasDeath:itwasagreatsurprisetoScrooge,whilethusengaged,tohearaheartylaugh.ItwasamuchgreatersurprisetoScroogetorecogniseitashisownnephewsandtofindhimselfinabright,dry,gleamingroom,withtheSpiritstandingsmilingbyhisside,andlookingatthatsamenephewwithapprovingaffability!",
+      "best_similarity": 0.2635,
+      "correct": false
+    },
+    {
+      "string": "laughedScroogesnephew.",
+      "best_similarity": 0.5143,
+      "correct": false
+    },
+    {
+      "string": "Ifyoushouldhappen,byanyunlikelychance,toknowamanmoreblestinalaughthanScroogesnephew,allIcansayis,Ishouldliketoknowhimtoo.Introducehimtome,andIllcultivatehisacquaintance.Itisafair,even-handed,nobleadjustmentofthings,thatwhilethereisinfectionindiseaseandsorrow,thereisnothingintheworldsoirresistiblycontagiousaslaughterandgood-humour.WhenScroogesnephewlaughedinthisway:holdinghissides,rollinghishead,andtwistinghisfaceintothemostextravagantcontortions:Scroogesniece,bymarriage,laughedasheartilyashe.Andtheirassembledfriendsbeingnotabitbehindhand,roaredoutlustily.",
+      "best_similarity": 0.3925,
+      "correct": false
+    },
+    {
+      "string": "criedScroogesnephew.",
+      "best_similarity": 0.5806,
+      "correct": false
+    },
+    {
+      "string": "saidScroogesniece,indignantly.Blessthosewomen;theyneverdoanythingbyhalves.Theyarealwaysinearnest.Shewasverypretty:exceedinglypretty.Withadimpled,surprised-looking,capitalface;aripelittlemouth,thatseemedmadetobekissed--asnodoubtitwas;allkindsofgoodlittledotsaboutherchin,thatmeltedintooneanotherwhenshelaughed;andthesunniestpairofeyesyoueversawinanylittlecreatureshead.Altogethershewaswhatyouwouldhavecalledprovoking,youknow;butsatisfactory,too.Oh,perfectlysatisfactory.",
+      "best_similarity": 0.3846,
+      "correct": false
+    },
+    {
+      "string": "saidScroogesnephew,",
+      "best_similarity": 0.4667,
+      "correct": false
+    },
+    {
+      "string": "hintedScroogesniece.",
+      "best_similarity": 0.5455,
+      "correct": false
+    },
+    {
+      "string": "saidScroogesnephew.",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "observedScroogesniece.Scroogesniecessisters,andalltheotherladies,expressedthesameopinion.",
+      "best_similarity": 0.4157,
+      "correct": false
+    },
+    {
+      "string": "saidScroogesnephew.",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "interruptedScroogesniece.Everybodyelsesaidthesame,andtheymustbeallowedtohavebeencompetentjudges,becausetheyhadjusthaddinner;and,withthedessertuponthetable,wereclusteredroundthefire,bylamplight.",
+      "best_similarity": 0.4109,
+      "correct": false
+    },
+    {
+      "string": "saidScroogesnephew,",
+      "best_similarity": 0.4667,
+      "correct": false
+    },
+    {
+      "string": "TopperhadclearlygothiseyeupononeofScroogesniecessisters,forheansweredthatabachelorwasawretchedoutcast,whohadnorighttoexpressanopiniononthesubject.WhereatScroogesniecessister--theplumponewiththelacetucker:nottheonewiththeroses--blushed.",
+      "best_similarity": 0.4887,
+      "correct": false
+    },
+    {
+      "string": "saidScroogesniece,clappingherhands.",
+      "best_similarity": 0.4262,
+      "correct": false
+    },
+    {
+      "string": "Scroogesnephewrevelledinanotherlaugh,andasitwasimpossibletokeeptheinfectionoff;thoughtheplumpsistertriedhardtodoitwitharomaticvinegar;hisexamplewasunanimouslyfollowed.",
+      "best_similarity": 0.4192,
+      "correct": false
+    },
+    {
+      "string": "saidScroogesnephew,",
+      "best_similarity": 0.4667,
+      "correct": false
+    },
+    {
+      "string": "ItwastheirturntolaughnowatthenotionofhisshakingScrooge.Butbeingthoroughlygood-natured,andnotmuchcaringwhattheylaughedat,sothattheylaughedatanyrate,heencouragedthemintheirmerriment,andpassedthebottlejoyously.Aftertea,theyhadsomemusic.Fortheywereamusicalfamily,andknewwhattheywereabout,whentheysungaGleeorCatch,Icanassureyou:especiallyTopper,whocouldgrowlawayinthebasslikeagoodone,andneverswellthelargeveinsinhisforehead,orgetredinthefaceoverit.Scroogesnieceplayedwellupontheharp;andplayedamongothertunesasimplelittleair(amerenothing:youmightlearntowhistleitintwominutes),whichhadbeenfamiliartothechildwhofetchedScroogefromtheboarding-school,ashehadbeenremindedbytheGhostofChristmasPast.Whenthisstrainofmusicsounded,allthethingsthatGhosthadshownhim,cameuponhismind;hesoftenedmoreandmore;andthoughtthatifhecouldhavelistenedtoitoften,yearsago,hemighthavecultivatedthekindnessesoflifeforhisownhappinesswithhisownhands,withoutresortingtothesextonsspadethatburiedJacobMarley.Buttheydidntdevotethewholeeveningtomusic.Afterawhiletheyplayedatforfeits;foritisgoodtobechildrensometimes,andneverbetterthanatChristmas,whenitsmightyFounderwasachildhimself.Stop!Therewasfirstagameatblind-mansbuff.Ofcoursetherewas.AndInomorebelieveTopperwasreallyblindthanIbelievehehadeyesinhisboots.Myopinionis,thatitwasadonethingbetweenhimandScroogesnephew;andthattheGhostofChristmasPresentknewit.Thewayhewentafterthatplumpsisterinthelacetucker,wasanoutrageonthecredulityofhumannature.Knockingdownthefire-irons,tumblingoverthechairs,bumpingagainstthepiano,smotheringhimselfamongthecurtains,wherevershewent,therewenthe!Healwaysknewwheretheplumpsisterwas.Hewouldntcatchanybodyelse.Ifyouhadfallenupagainsthim(assomeofthemdid),onpurpose,hewouldhavemadeafeintofendeavouringtoseizeyou,whichwouldhavebeenanaffronttoyourunderstanding,andwouldinstantlyhavesidledoffinthedirectionoftheplumpsister.Sheoftencriedoutthatitwasntfair;anditreallywasnot.Butwhenatlast,hecaughther;when,inspiteofallhersilkenrustlings,andherrapidflutteringspasthim,hegotherintoacornerwhencetherewasnoescape;thenhisconductwasthemostexecrable.Forhispretendingnottoknowher;hispretendingthatitwasnecessarytotouchherhead-dress,andfurthertoassurehimselfofheridentitybypressingacertainringuponherfinger,andacertainchainaboutherneck;wasvile,monstrous!Nodoubtshetoldhimheropinionofit,when,anotherblind-manbeinginoffice,theyweresoveryconfidentialtogether,behindthecurtains.Scroogesniecewasnotoneoftheblind-mansbuffparty,butwasmadecomfortablewithalargechairandafootstool,inasnugcorner,wheretheGhostandScroogewereclosebehindher.Butshejoinedintheforfeits,andlovedherlovetoadmirationwithallthelettersofthealphabet.LikewiseatthegameofHow,When,andWhere,shewasverygreat,andtothesecretjoyofScroogesnephew,beathersistershollow:thoughtheyweresharpgirlstoo,asToppercouldhavetoldyou.Theremighthavebeentwentypeoplethere,youngandold,buttheyallplayed,andsodidScrooge;forwhollyforgettingintheinteresthehadinwhatwasgoingon,thathisvoicemadenosoundintheirears,hesometimescameoutwithhisguessquiteloud,andveryoftenguessedquiteright,too;forthesharpestneedle,bestWhitechapel,warrantednottocutintheeye,wasnotsharperthanScrooge;bluntashetookitinhisheadtobe.TheGhostwasgreatlypleasedtofindhiminthismood,andlookeduponhimwithsuchfavour,thathebeggedlikeaboytobeallowedtostayuntiltheguestsdeparted.ButthistheSpiritsaidcouldnotbedone.",
+      "best_similarity": 0.24,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "ItwasaGamecalledYesandNo,whereScroogesnephewhadtothinkofsomething,andtherestmustfindoutwhat;heonlyansweringtotheirquestionsyesorno,asthecasewas.Thebriskfireofquestioningtowhichhewasexposed,elicitedfromhimthathewasthinkingofananimal,aliveanimal,ratheradisagreeableanimal,asavageanimal,ananimalthatgrowledandgruntedsometimes,andtalkedsometimes,andlivedinLondon,andwalkedaboutthestreets,andwasntmadeashowof,andwasntledbyanybody,anddidntliveinamenagerie,andwasneverkilledinamarket,andwasnotahorse,oranass,oracow,orabull,oratiger,oradog,orapig,oracat,orabear.Ateveryfreshquestionthatwasputtohim,thisnephewburstintoafreshroaroflaughter;andwassoinexpressiblytickled,thathewasobligedtogetupoffthesofaandstamp.Atlasttheplumpsister,fallingintoasimilarstate,criedout:",
+      "best_similarity": 0.4068,
+      "correct": false
+    },
+    {
+      "string": "criedFred.",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "Whichitcertainlywas.Admirationwastheuniversalsentiment,thoughsomeobjectedthatthereplyto",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "oughttohavebeen",
+      "best_similarity": 0.5161,
+      "correct": false
+    },
+    {
+      "string": "inasmuchasananswerinthenegativewassufficienttohavedivertedtheirthoughtsfromMr.Scrooge,supposingtheyhadeverhadanytendencythatway.",
+      "best_similarity": 0.4198,
+      "correct": false
+    },
+    {
+      "string": "saidFred,",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "theycried.",
+      "best_similarity": 0.5263,
+      "correct": false
+    },
+    {
+      "string": "saidScroogesnephew.",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "UncleScroogehadimperceptiblybecomesogayandlightofheart,thathewouldhavepledgedtheunconsciouscompanyinreturn,andthankedtheminaninaudiblespeech,iftheGhosthadgivenhimtime.Butthewholescenepassedoffinthebreathofthelastwordspokenbyhisnephew;andheandtheSpiritwereagainupontheirtravels.Muchtheysaw,andfartheywent,andmanyhomestheyvisited,butalwayswithahappyend.TheSpiritstoodbesidesickbeds,andtheywerecheerful;onforeignlands,andtheywerecloseathome;bystrugglingmen,andtheywerepatientintheirgreaterhope;bypoverty,anditwasrich.Inalmshouse,hospital,andjail,inmiseryseveryrefuge,wherevainmaninhislittlebriefauthorityhadnotmadefastthedoor,andbarredtheSpiritout,helefthisblessing,andtaughtScroogehisprecepts.Itwasalongnight,ifitwereonlyanight;butScroogehadhisdoubtsofthis,becausetheChristmasHolidaysappearedtobecondensedintothespaceoftimetheypassedtogether.Itwasstrange,too,thatwhileScroogeremainedunalteredinhisoutwardform,theGhostgrewolder,clearlyolder.Scroogehadobservedthischange,butneverspokeofit,untiltheyleftachildrensTwelfthNightparty,when,lookingattheSpiritastheystoodtogetherinanopenplace,henoticedthatitshairwasgrey.",
+      "best_similarity": 0.369,
+      "correct": false
+    },
+    {
+      "string": "askedScrooge.",
+      "best_similarity": 0.6667,
+      "correct": false
+    },
+    {
+      "string": "repliedtheGhost.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "criedScrooge.",
+      "best_similarity": 0.75,
+      "correct": false
+    },
+    {
+      "string": "Thechimeswereringingthethreequarterspastelevenatthatmoment.",
+      "best_similarity": 0.4275,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,lookingintentlyattheSpiritsrobe,",
+      "best_similarity": 0.4375,
+      "correct": false
+    },
+    {
+      "string": "wastheSpiritssorrowfulreply.",
+      "best_similarity": 0.4667,
+      "correct": false
+    },
+    {
+      "string": "Fromthefoldingsofitsrobe,itbroughttwochildren;wretched,abject,frightful,hideous,miserable.Theykneltdownatitsfeet,andclungupontheoutsideofitsgarment.",
+      "best_similarity": 0.4154,
+      "correct": false
+    },
+    {
+      "string": "exclaimedtheGhost.Theywereaboyandgirl.Yellow,meagre,ragged,scowling,wolfish;butprostrate,too,intheirhumility.Wheregracefulyouthshouldhavefilledtheirfeaturesout,andtouchedthemwithitsfreshesttints,astaleandshrivelledhand,likethatofage,hadpinched,andtwistedthem,andpulledthemintoshreds.Whereangelsmighthavesatenthroned,devilslurked,andglaredoutmenacing.Nochange,nodegradation,noperversionofhumanity,inanygrade,throughallthemysteriesofwonderfulcreation,hasmonstershalfsohorribleanddread.Scroogestartedback,appalled.Havingthemshowntohiminthisway,hetriedtosaytheywerefinechildren,butthewordschokedthemselves,ratherthanbepartiestoalieofsuchenormousmagnitude.",
+      "best_similarity": 0.3945,
+      "correct": false
+    },
+    {
+      "string": "Scroogecouldsaynomore.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "saidtheSpirit,lookingdownuponthem.",
+      "best_similarity": 0.4691,
+      "correct": false
+    },
+    {
+      "string": "criedtheSpirit,stretchingoutitshandtowardsthecity.",
+      "best_similarity": 0.5155,
+      "correct": false
+    },
+    {
+      "string": "criedScrooge.",
+      "best_similarity": 0.75,
+      "correct": false
+    },
+    {
+      "string": "saidtheSpirit,turningonhimforthelasttimewithhisownwords.",
+      "best_similarity": 0.4272,
+      "correct": false
+    },
+    {
+      "string": "Thebellstrucktwelve.ScroogelookedabouthimfortheGhost,andsawitnot.Asthelaststrokeceasedtovibrate,herememberedthepredictionofoldJacobMarley,andliftinguphiseyes,beheldasolemnPhantom,drapedandhooded,coming,likeamistalongtheground,towardshim.ThePhantomslowly,gravely,silently,approached.Whenitcamenearhim,Scroogebentdownuponhisknee;forintheveryairthroughwhichthisSpiritmoveditseemedtoscattergloomandmystery.Itwasshroudedinadeepblackgarment,whichconcealeditshead,itsface,itsform,andleftnothingofitvisiblesaveoneoutstretchedhand.Butforthisitwouldhavebeendifficulttodetachitsfigurefromthenight,andseparateitfromthedarknessbywhichitwassurrounded.Hefeltthatitwastallandstatelywhenitcamebesidehim,andthatitsmysteriouspresencefilledhimwithasolemndread.Heknewnomore,fortheSpiritneitherspokenormoved.",
+      "best_similarity": 0.3849,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.TheSpiritanswerednot,butpointeddownwardwithitshand.",
+      "best_similarity": 0.4138,
+      "correct": false
+    },
+    {
+      "string": "Scroogepursued.",
+      "best_similarity": 0.6154,
+      "correct": false
+    },
+    {
+      "string": "Theupperportionofthegarmentwascontractedforaninstantinitsfolds,asiftheSpirithadinclineditshead.Thatwastheonlyanswerhereceived.Althoughwellusedtoghostlycompanybythistime,Scroogefearedthesilentshapesomuchthathislegstrembledbeneathhim,andhefoundthathecouldhardlystandwhenhepreparedtofollowit.TheSpiritpausedamoment,asobservinghiscondition,andgivinghimtimetorecover.ButScroogewasalltheworseforthis.Itthrilledhimwithavagueuncertainhorror,toknowthatbehindtheduskyshroudtherewereghostlyeyesintentlyfixeduponhim,whilehe,thoughhestretchedhisowntotheutmost,couldseenothingbutaspectralhandandonegreatheapofblack.",
+      "best_similarity": 0.3977,
+      "correct": false
+    },
+    {
+      "string": "heexclaimed,",
+      "best_similarity": 0.5263,
+      "correct": false
+    },
+    {
+      "string": "Itgavehimnoreply.Thehandwaspointedstraightbeforethem.",
+      "best_similarity": 0.4632,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "ThePhantommovedawayasithadcometowardshim,Scroogefollowedintheshadowofitsdress,whichborehimup,hethought,andcarriedhimalong.Theyscarcelyseemedtoenterthecity;forthecityratherseemedtospringupaboutthem,andencompassthemofitsownact.Buttheretheywere,intheheartofit;onChange,amongstthemerchants;whohurriedupanddown,andchinkedthemoneyintheirpockets,andconversedingroups,andlookedattheirwatches,andtrifledthoughtfullywiththeirgreatgoldseals;andsoforth,asScroogehadseenthemoften.TheSpiritstoppedbesideonelittleknotofbusinessmen.Observingthatthehandwaspointedtothem,Scroogeadvancedtolistentotheirtalk.",
+      "best_similarity": 0.402,
+      "correct": false
+    },
+    {
+      "string": "saidagreatfatmanwithamonstrouschin,",
+      "best_similarity": 0.4304,
+      "correct": false
+    },
+    {
+      "string": "inquiredanother.",
+      "best_similarity": 0.5455,
+      "correct": false
+    },
+    {
+      "string": "askedathird,takingavastquantityofsnuffoutofaverylargesnuff-box.",
+      "best_similarity": 0.4483,
+      "correct": false
+    },
+    {
+      "string": "saidthefirst,withayawn.",
+      "best_similarity": 0.44,
+      "correct": false
+    },
+    {
+      "string": "askedared-facedgentlemanwithapendulousexcrescenceontheendofhisnose,thatshooklikethegillsofaturkey-cock.",
+      "best_similarity": 0.4306,
+      "correct": false
+    },
+    {
+      "string": "saidthemanwiththelargechin,yawningagain.",
+      "best_similarity": 0.4533,
+      "correct": false
+    },
+    {
+      "string": "Thispleasantrywasreceivedwithagenerallaugh.",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "saidthesamespeaker;",
+      "best_similarity": 0.5385,
+      "correct": false
+    },
+    {
+      "string": "observedthegentlemanwiththeexcrescenceonhisnose.",
+      "best_similarity": 0.4578,
+      "correct": false
+    },
+    {
+      "string": "Anotherlaugh.",
+      "best_similarity": 0.4828,
+      "correct": false
+    },
+    {
+      "string": "saidthefirstspeaker,",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Speakersandlistenersstrolledaway,andmixedwithothergroups.Scroogeknewthemen,andlookedtowardstheSpiritforanexplanation.ThePhantomglidedonintoastreet.Itsfingerpointedtotwopersonsmeeting.Scroogelistenedagain,thinkingthattheexplanationmightliehere.Heknewthesemen,also,perfectly.Theyweremenofbusiness:verywealthy,andofgreatimportance.Hehadmadeapointalwaysofstandingwellintheiresteem:inabusinesspointofview,thatis;strictlyinabusinesspointofview.",
+      "best_similarity": 0.3942,
+      "correct": false
+    },
+    {
+      "string": "saidone.",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "returnedtheother.",
+      "best_similarity": 0.5882,
+      "correct": false
+    },
+    {
+      "string": "saidthefirst.",
+      "best_similarity": 0.5161,
+      "correct": false
+    },
+    {
+      "string": "returnedthesecond.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Notanotherword.Thatwastheirmeeting,theirconversation,andtheirparting.ScroogewasatfirstinclinedtobesurprisedthattheSpiritshouldattachimportancetoconversationsapparentlysotrivial;butfeelingassuredthattheymusthavesomehiddenpurpose,hesethimselftoconsiderwhatitwaslikelytobe.TheycouldscarcelybesupposedtohaveanybearingonthedeathofJacob,hisoldpartner,forthatwasPast,andthisGhostsprovincewastheFuture.Norcouldhethinkofanyoneimmediatelyconnectedwithhimself,towhomhecouldapplythem.Butnothingdoubtingthattowhomsoevertheyappliedtheyhadsomelatentmoralforhisownimprovement,heresolvedtotreasureupeverywordheheard,andeverythinghesaw;andespeciallytoobservetheshadowofhimselfwhenitappeared.Forhehadanexpectationthattheconductofhisfutureselfwouldgivehimthecluehemissed,andwouldrenderthesolutionoftheseriddleseasy.Helookedaboutinthatveryplaceforhisownimage;butanothermanstoodinhisaccustomedcorner,andthoughtheclockpointedtohisusualtimeofdayforbeingthere,hesawnolikenessofhimselfamongthemultitudesthatpouredinthroughthePorch.Itgavehimlittlesurprise,however;forhehadbeenrevolvinginhismindachangeoflife,andthoughtandhopedhesawhisnew-bornresolutionscarriedoutinthis.Quietanddark,besidehimstoodthePhantom,withitsoutstretchedhand.Whenherousedhimselffromhisthoughtfulquest,hefanciedfromtheturnofthehand,anditssituationinreferencetohimself,thattheUnseenEyeswerelookingathimkeenly.Itmadehimshudder,andfeelverycold.Theyleftthebusyscene,andwentintoanobscurepartofthetown,whereScroogehadneverpenetratedbefore,althoughherecogniseditssituation,anditsbadrepute.Thewayswerefoulandnarrow;theshopsandhouseswretched;thepeoplehalf-naked,drunken,slipshod,ugly.Alleysandarchways,likesomanycesspools,disgorgedtheiroffencesofsmell,anddirt,andlife,uponthestragglingstreets;andthewholequarterreekedwithcrime,withfilth,andmisery.Farinthisdenofinfamousresort,therewasalow-browed,beetlingshop,belowapent-houseroofwhereiron,oldrags,bottles,bones,andgreasyoffal,werebought.Uponthefloorwithin,werepiledupheapsofrustykeys,nails,chains,hinges,files,scales,weights,andrefuseironofallkinds.Secretsthatfewwouldliketoscrutinisewerebredandhiddeninmountainsofunseemlyrags,massesofcorruptedfat,andsepulchresofbones.Sittinginamongthewareshedealtin,byacharcoal-stove,madeofoldbricks,wasagray-hairedrascal,nearlyseventyyearsofage;whohadscreenedhimselffromthecoldairwithout,byafrousycurtainingofmiscellaneoustatters,hunguponaline;andsmokedhispipeinalltheluxuryofcalmretirement.ScroogeandthePhantomcameintothepresenceofthisman,justasawomanwithaheavybundleslunkintotheshop.Butshehadscarcelyentered,whenanotherwoman,similarlyladen,cameintoo;andshewascloselyfollowedbyamaninfadedblack,whowasnolessstartledbythesightofthem,thantheyhadbeenupontherecognitionofeachother.Afterashortperiodofblankastonishment,inwhichtheoldmanwiththepipehadjoinedthem,theyallthreeburstintoalaugh.",
+      "best_similarity": 0.2621,
+      "correct": false
+    },
+    {
+      "string": "criedshewhohadenteredfirst.",
+      "best_similarity": 0.5231,
+      "correct": false
+    },
+    {
+      "string": "saidoldJoe,removinghispipefromhismouth.",
+      "best_similarity": 0.459,
+      "correct": false
+    },
+    {
+      "string": "Theparlourwasthespacebehindthescreenofrags.Theoldmanrakedthefiretogetherwithanoldstair-rod,andhavingtrimmedhissmokylamp(foritwasnight),withthestemofhispipe,putitinhismouthagain.Whilehedidthis,thewomanwhohadalreadyspoken,threwherbundleonthefloorandsatdowninaflauntingmanneronastool;crossingherelbowsonherknees,andlookingwithabolddefianceattheothertwo.",
+      "best_similarity": 0.4162,
+      "correct": false
+    },
+    {
+      "string": "saidthewoman.",
+      "best_similarity": 0.5217,
+      "correct": false
+    },
+    {
+      "string": "saidthelaundress.",
+      "best_similarity": 0.4762,
+      "correct": false
+    },
+    {
+      "string": "saidMrs.Dilberandthemantogether.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "criedthewoman.",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "saidMrs.Dilber,laughing.",
+      "best_similarity": 0.4561,
+      "correct": false
+    },
+    {
+      "string": "pursuedthewoman,",
+      "best_similarity": 0.6,
+      "correct": false
+    },
+    {
+      "string": "saidMrs.Dilber.",
+      "best_similarity": 0.5417,
+      "correct": false
+    },
+    {
+      "string": "repliedthewoman:",
+      "best_similarity": 0.6,
+      "correct": false
+    },
+    {
+      "string": "Butthegallantryofherfriendswouldnotallowofthis;andthemaninfadedblack,mountingthebreachfirst,producedhisplunder.Itwasnotextensive.Asealortwo,apencil-case,apairofsleeve-buttons,andabroochofnogreatvalue,wereall.TheywereseverallyexaminedandappraisedbyoldJoe,whochalkedthesumshewasdisposedtogiveforeachuponthewall,andaddedthemupintoatotalwhenhefoundthattherewasnothingmoretocome.",
+      "best_similarity": 0.3897,
+      "correct": false
+    },
+    {
+      "string": "saidJoe,",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "Mrs.Dilberwasnext.Sheetsandtowels,alittlewearingapparel,twoold-fashionedsilverteaspoons,apairofsugar-tongs,andafewboots.Heraccountwasstatedonthewallinthesamemanner.",
+      "best_similarity": 0.415,
+      "correct": false
+    },
+    {
+      "string": "saidoldJoe.",
+      "best_similarity": 0.5455,
+      "correct": false
+    },
+    {
+      "string": "saidthefirstwoman.Joewentdownonhiskneesforthegreaterconvenienceofopeningit,andhavingunfastenedagreatmanyknots,draggedoutalargeandheavyrollofsomedarkstuff.",
+      "best_similarity": 0.4148,
+      "correct": false
+    },
+    {
+      "string": "saidJoe.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "returnedthewoman,laughingandleaningforwardonhercrossedarms.",
+      "best_similarity": 0.4286,
+      "correct": false
+    },
+    {
+      "string": "saidJoe.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "repliedthewoman.",
+      "best_similarity": 0.6,
+      "correct": false
+    },
+    {
+      "string": "saidJoe,",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "returnedthewomancoolly.",
+      "best_similarity": 0.4706,
+      "correct": false
+    },
+    {
+      "string": "askedJoe.",
+      "best_similarity": 0.4706,
+      "correct": false
+    },
+    {
+      "string": "repliedthewoman.",
+      "best_similarity": 0.6,
+      "correct": false
+    },
+    {
+      "string": "saidoldJoe,stoppinginhiswork,andlookingup.",
+      "best_similarity": 0.4359,
+      "correct": false
+    },
+    {
+      "string": "returnedthewoman.",
+      "best_similarity": 0.5161,
+      "correct": false
+    },
+    {
+      "string": "askedoldJoe.",
+      "best_similarity": 0.5217,
+      "correct": false
+    },
+    {
+      "string": "repliedthewomanwithalaugh.",
+      "best_similarity": 0.5185,
+      "correct": false
+    },
+    {
+      "string": "Scroogelistenedtothisdialogueinhorror.Astheysatgroupedabouttheirspoil,inthescantylightaffordedbytheoldmanslamp,heviewedthemwithadetestationanddisgust,whichcouldhardlyhavebeengreater,thoughtheyhadbeenobscenedemons,marketingthecorpseitself.",
+      "best_similarity": 0.4201,
+      "correct": false
+    },
+    {
+      "string": "laughedthesamewoman,whenoldJoe,producingaflannelbagwithmoneyinit,toldouttheirseveralgainsupontheground.",
+      "best_similarity": 0.4333,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,shudderingfromheadtofoot.",
+      "best_similarity": 0.481,
+      "correct": false
+    },
+    {
+      "string": "Herecoiledinterror,forthescenehadchanged,andnowhealmosttouchedabed:abare,uncurtainedbed:onwhich,beneatharaggedsheet,therelayasomethingcoveredup,which,thoughitwasdumb,announceditselfinawfullanguage.Theroomwasverydark,toodarktobeobservedwithanyaccuracy,thoughScroogeglancedrounditinobediencetoasecretimpulse,anxioustoknowwhatkindofroomitwas.Apalelight,risingintheouterair,fellstraightuponthebed;andonit,plunderedandbereft,unwatched,unwept,uncaredfor,wasthebodyofthisman.ScroogeglancedtowardsthePhantom.Itssteadyhandwaspointedtothehead.Thecoverwassocarelesslyadjustedthattheslightestraisingofit,themotionofafingeruponScroogespart,wouldhavedisclosedtheface.Hethoughtofit,felthoweasyitwouldbetodo,andlongedtodoit;buthadnomorepowertowithdrawtheveilthantodismissthespectreathisside.Ohcold,cold,rigid,dreadfulDeath,setupthinealtarhere,anddressitwithsuchterrorsasthouhastatthycommand:forthisisthydominion!Butoftheloved,revered,andhonouredhead,thoucanstnotturnonehairtothydreadpurposes,ormakeonefeatureodious.Itisnotthatthehandisheavyandwillfalldownwhenreleased;itisnotthattheheartandpulsearestill;butthatthehandwasopen,generous,andtrue;theheartbrave,warm,andtender;andthepulseamans.Strike,Shadow,strike!Andseehisgooddeedsspringingfromthewound,tosowtheworldwithlifeimmortal!NovoicepronouncedthesewordsinScroogesears,andyetheheardthemwhenhelookeduponthebed.Hethought,ifthismancouldberaisedupnow,whatwouldbehisforemostthoughts?Avarice,harddealing,gripingcares?Theyhavebroughthimtoarichend,truly!Helay,inthedarkemptyhouse,withnotaman,awoman,orachild,tosayhewaskindtomeinthisorthat,andforthememoryofonekindwordIwillbekindtohim.Acatwastearingatthedoor,andtherewasasoundofgnawingratsbeneaththehearth-stone.Whattheywantedintheroomofdeath,andwhytheyweresorestlessanddisturbed,Scroogedidnotdaretothink.",
+      "best_similarity": 0.3227,
+      "correct": false
+    },
+    {
+      "string": "hesaid,",
+      "best_similarity": 0.625,
+      "correct": false
+    },
+    {
+      "string": "StilltheGhostpointedwithanunmovedfingertothehead.",
+      "best_similarity": 0.4632,
+      "correct": false
+    },
+    {
+      "string": "Scroogereturned,",
+      "best_similarity": 0.5185,
+      "correct": false
+    },
+    {
+      "string": "Againitseemedtolookuponhim.",
+      "best_similarity": 0.4889,
+      "correct": false
+    },
+    {
+      "string": "saidScroogequiteagonized,",
+      "best_similarity": 0.5238,
+      "correct": false
+    },
+    {
+      "string": "Thephantomspreaditsdarkrobebeforehimforamoment,likeawing;andwithdrawingit,revealedaroombydaylight,whereamotherandherchildrenwere.Shewasexpectingsomeone,andwithanxiouseagerness;forshewalkedupanddowntheroom;startedateverysound;lookedoutfromthewindow;glancedattheclock;tried,butinvain,toworkwithherneedle;andcouldhardlybearthevoicesofthechildrenintheirplay.Atlengththelong-expectedknockwasheard.Shehurriedtothedoor,andmetherhusband;amanwhosefacewascare-wornanddepressed,thoughhewasyoung.Therewasaremarkableexpressioninitnow;akindofseriousdelightofwhichhefeltashamed,andwhichhestruggledtorepress.Hesatdowntothedinnerthathadbeenhoardingforhimbythefire;andwhensheaskedhimfaintlywhatnews(whichwasnotuntilafteralongsilence),heappearedembarrassedhowtoanswer.",
+      "best_similarity": 0.3851,
+      "correct": false
+    },
+    {
+      "string": "shesaid,",
+      "best_similarity": 0.7059,
+      "correct": false
+    },
+    {
+      "string": "bad?—tohelphim.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "heanswered.",
+      "best_similarity": 0.5263,
+      "correct": false
+    },
+    {
+      "string": "shesaid,amazed,",
+      "best_similarity": 0.5517,
+      "correct": false
+    },
+    {
+      "string": "saidherhusband.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Shewasamildandpatientcreatureifherfacespoketruth;butshewasthankfulinhersoultohearit,andshesaidso,withclaspedhands.Sheprayedforgivenessthenextmoment,andwassorry;butthefirstwastheemotionofherheart.",
+      "best_similarity": 0.4176,
+      "correct": false
+    },
+    {
+      "string": "Yes.Softenitastheywould,theirheartswerelighter.Thechildrensfaceshushed,andclusteredroundtohearwhattheysolittleunderstood,werebrighter;anditwasahappierhouseforthismansdeath!TheonlyemotionthattheGhostcouldshowhim,causedbytheevent,wasoneofpleasure.",
+      "best_similarity": 0.4233,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge;",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "TheGhostconductedhimthroughseveralstreetsfamiliartohisfeet;andastheywentalong,Scroogelookedhereandtheretofindhimself,butnowherewashetobeseen.TheyenteredpoorBobCratchitshouse;thedwellinghehadvisitedbefore;andfoundthemotherandthechildrenseatedroundthefire.Quiet.Veryquiet.ThenoisylittleCratchitswereasstillasstatuesinonecorner,andsatlookingupatPeter,whohadabookbeforehim.Themotherandherdaughterswereengagedinsewing.Butsurelytheywereveryquiet!",
+      "best_similarity": 0.398,
+      "correct": false
+    },
+    {
+      "string": "WherehadScroogeheardthosewords?Hehadnotdreamedthem.Theboymusthavereadthemout,asheandtheSpiritcrossedthethreshold.Whydidhenotgoon?Themotherlaidherworkuponthetable,andputherhanduptoherface.",
+      "best_similarity": 0.4289,
+      "correct": false
+    },
+    {
+      "string": "shesaid.Thecolour?Ah,poorTinyTim!",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "saidCratchitswife.",
+      "best_similarity": 0.5238,
+      "correct": false
+    },
+    {
+      "string": "Peteranswered,shuttinguphisbook.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Theywereveryquietagain.Atlastshesaid,andinasteadycheerfulvoice,thatonlyfaulteredonce:",
+      "best_similarity": 0.4259,
+      "correct": false
+    },
+    {
+      "string": "criedPeter.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "exclaimedanother.Sohadall.",
+      "best_similarity": 0.4889,
+      "correct": false
+    },
+    {
+      "string": "sheresumed,intentuponherwork,",
+      "best_similarity": 0.5484,
+      "correct": false
+    },
+    {
+      "string": "Shehurriedouttomeethim;andlittleBobinhiscomforter—hehadneedofit,poorfellow—camein.Histeawasreadyforhimonthehob,andtheyalltriedwhoshouldhelphimtoitmost.ThenthetwoyoungCratchitsgotuponhiskneesandlaid,eachchildalittlecheek,againsthisface,asiftheysaid,",
+      "best_similarity": 0.4009,
+      "correct": false
+    },
+    {
+      "string": "Bobwasverycheerfulwiththem,andspokepleasantlytoallthefamily.Helookedattheworkuponthetable,andpraisedtheindustryandspeedofMrs.Cratchitandthegirls.TheywouldbedonelongbeforeSundayhesaid.",
+      "best_similarity": 0.4148,
+      "correct": false
+    },
+    {
+      "string": "saidhiswife.",
+      "best_similarity": 0.4545,
+      "correct": false
+    },
+    {
+      "string": "returnedBob.",
+      "best_similarity": 0.4828,
+      "correct": false
+    },
+    {
+      "string": "criedBob.",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "Hebrokedownallatonce.Hecouldnthelpit.Ifhecouldhavehelpedit,heandhischildwouldhavebeenfartherapartperhapsthantheywere.Helefttheroom,andwentupstairsintotheroomabove,whichwaslightedcheerfully,andhungwithChristmas.Therewasachairsetclosebesidethechild,andthereweresignsofsomeonehavingbeenthere,lately.PoorBobsatdowninit,andwhenhehadthoughtalittleandcomposedhimself,hekissedthelittleface.Hewasreconciledtowhathadhappened,andwentdownagainquitehappy.Theydrewaboutthefire,andtalked;thegirlsandmotherworkingstill.BobtoldthemoftheextraordinarykindnessofMr.Scroogesnephew,whomhehadscarcelyseenbutonce,andwho,meetinghiminthestreetthatday,andseeingthathelookedalittle—just",
+      "best_similarity": 0.4088,
+      "correct": false
+    },
+    {
+      "string": "saidBob,enquiredwhathadhappenedtodistresshim.",
+      "best_similarity": 0.4242,
+      "correct": false
+    },
+    {
+      "string": "saidBob,",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "repliedBob.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "saidPeter.",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "criedBob.",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "criedBob,",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "saidMrs.Cratchit.",
+      "best_similarity": 0.52,
+      "correct": false
+    },
+    {
+      "string": "returnedBob,",
+      "best_similarity": 0.5161,
+      "correct": false
+    },
+    {
+      "string": "saidMrs.Cratchit.",
+      "best_similarity": 0.52,
+      "correct": false
+    },
+    {
+      "string": "criedoneofthegirls,",
+      "best_similarity": 0.4737,
+      "correct": false
+    },
+    {
+      "string": "retortedPeter,grinning.",
+      "best_similarity": 0.4651,
+      "correct": false
+    },
+    {
+      "string": "saidBob,",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "criedtheyall.",
+      "best_similarity": 0.4828,
+      "correct": false
+    },
+    {
+      "string": "saidBob,",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "theyallcriedagain.",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "saidlittleBob,",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "Mrs.Cratchitkissedhim,hisdaughterskissedhim,thetwoyoungCratchitskissedhim,andPeterandhimselfshookhands.SpiritofTinyTim,thychildishessencewasfromGod!",
+      "best_similarity": 0.3975,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "TheGhostofChristmasYetToComeconveyedhim,asbefore—thoughatadifferenttime,hethought:indeed,thereseemednoorderintheselattervisions,savethattheywereintheFuture—intotheresortsofbusinessmen,butshowedhimnothimself.Indeed,theSpiritdidnotstayforanything,butwentstraighton,astotheendjustnowdesired,untilbesoughtbyScroogetotarryforamoment.",
+      "best_similarity": 0.4036,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "TheSpiritstopped;thehandwaspointedelsewhere.",
+      "best_similarity": 0.4634,
+      "correct": false
+    },
+    {
+      "string": "Scroogeexclaimed.",
+      "best_similarity": 0.5714,
+      "correct": false
+    },
+    {
+      "string": "Theinexorablefingerunderwentnochange.Scroogehastenedtothewindowofhisoffice,andlookedin.Itwasanofficestill,butnothis.Thefurniturewasnotthesame,andthefigureinthechairwasnothimself.ThePhantompointedasbefore.Hejoineditonceagain,andwonderingwhyandwhitherhehadgone,accompaniedituntiltheyreachedanirongate.Hepausedtolookroundbeforeentering.Achurchyard.Here,then,thewretchedmanwhosenamehehadnowtolearn,layunderneaththeground.Itwasaworthyplace.Walledinbyhouses;overrunbygrassandweeds,thegrowthofvegetationsdeath,notlife;chokedupwithtoomuchburying;fatwithrepletedappetite.Aworthyplace!TheSpiritstoodamongthegraves,andpointeddowntoOne.Headvancedtowardsittrembling.ThePhantomwasexactlyasithadbeen,buthedreadedthathesawnewmeaninginitssolemnshape.",
+      "best_similarity": 0.3988,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "StilltheGhostpointeddownwardtothegravebywhichitstood.",
+      "best_similarity": 0.433,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "TheSpiritwasimmovableasever.Scroogecrepttowardsit,tremblingashewent;andfollowingthefinger,readuponthestoneoftheneglectedgravehisownname,EbenezerScrooge.",
+      "best_similarity": 0.4075,
+      "correct": false
+    },
+    {
+      "string": "hecried,uponhisknees.Thefingerpointedfromthegravetohim,andbackagain.",
+      "best_similarity": 0.4094,
+      "correct": false
+    },
+    {
+      "string": "Thefingerstillwasthere.",
+      "best_similarity": 0.5238,
+      "correct": false
+    },
+    {
+      "string": "hecried,tightclutchingatitsrobe,",
+      "best_similarity": 0.4667,
+      "correct": false
+    },
+    {
+      "string": "Forthefirsttimethehandappearedtoshake.",
+      "best_similarity": 0.4839,
+      "correct": false
+    },
+    {
+      "string": "hepursued,asdownuponthegroundhefellbeforeit:",
+      "best_similarity": 0.5079,
+      "correct": false
+    },
+    {
+      "string": "Thekindhandtrembled.",
+      "best_similarity": 0.5106,
+      "correct": false
+    },
+    {
+      "string": "Inhisagony,hecaughtthespectralhand.Itsoughttofreeitself,buthewasstronginhisentreaty,anddetainedit.TheSpirit,strongeryet,repulsedhim.Holdinguphishandsinonelastprayertohavehisfatereversed,hesawanalterationinthePhantomshoodanddress.Itshrunk,collapsed,anddwindleddownintoabedpost.jHoldinguphishandsinonelastprayertohavehisfatereversed,hesawanalterationinthePhantomshoodanddress.Itshrunk,collapsed,anddwindleddownintoabedpost.Yes!andthebedpostwashisown.Thebedwashisown,theroomwashisown.Bestandhappiestofall,theTimebeforehimwashisown,tomakeamendsin!",
+      "best_similarity": 0.4039,
+      "correct": false
+    },
+    {
+      "string": "Scroogerepeated,ashescrambledoutofbed.",
+      "best_similarity": 0.5,
+      "correct": false
+    },
+    {
+      "string": "Hewassoflutteredandsoglowingwithhisgoodintentions,thathisbrokenvoicewouldscarcelyanswertohiscall.HehadbeensobbingviolentlyinhisconflictwiththeSpirit,andhisfacewaswetwithtears.",
+      "best_similarity": 0.4345,
+      "correct": false
+    },
+    {
+      "string": "criedScrooge,foldingoneofhisbed-curtainsinhisarms,",
+      "best_similarity": 0.413,
+      "correct": false
+    },
+    {
+      "string": "Hishandswerebusywithhisgarmentsallthistime:turningtheminsideout,puttingthemonupsidedown,tearingthem,mislayingthem,makingthempartiestoeverykindofextravagance.",
+      "best_similarity": 0.4214,
+      "correct": false
+    },
+    {
+      "string": "criedScrooge,laughingandcryinginthesamebreath;andmakingaperfectLaocoönofhimselfwithhisstockings.",
+      "best_similarity": 0.4359,
+      "correct": false
+    },
+    {
+      "string": "Hehadfriskedintothesitting-room,andwasnowstandingthere:perfectlywinded.",
+      "best_similarity": 0.4583,
+      "correct": false
+    },
+    {
+      "string": "criedScrooge,startingoffagain,andgoingroundthefire-place.",
+      "best_similarity": 0.4602,
+      "correct": false
+    },
+    {
+      "string": "Really,foramanwhohadbeenoutofpracticeforsomanyyears,itwasasplendidlaugh,amostillustriouslaugh.Thefatherofalong,long,lineofbrilliantlaughs!",
+      "best_similarity": 0.4111,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "Hewascheckedinhistransportsbythechurchesringingoutthelustiestpealshehadeverheard.Clash,clang,hammer,ding,dong,bell.Bell,dong,ding,hammer,clang,clash!Oh,glorious,glorious!Runningtothewindow,heopenedit,andputouthishead.Nofog,nomist;clear,bright,jovial,stirring,cold;cold,pipingforthebloodtodanceto;Goldensunlight;Heavenlysky;sweetfreshair;merrybells.Oh,glorious.Glorious!",
+      "best_similarity": 0.3766,
+      "correct": false
+    },
+    {
+      "string": "criedScrooge,callingdownwardtoaboyinSundayclothes,whoperhapshadloiteredintolookabouthim.",
+      "best_similarity": 0.4099,
+      "correct": false
+    },
+    {
+      "string": "returnedtheboy,withallhismightofwonder.",
+      "best_similarity": 0.4615,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "repliedtheboy.",
+      "best_similarity": 0.5161,
+      "correct": false
+    },
+    {
+      "string": "saidScroogetohimself.",
+      "best_similarity": 0.5641,
+      "correct": false
+    },
+    {
+      "string": "returnedtheboy.",
+      "best_similarity": 0.4706,
+      "correct": false
+    },
+    {
+      "string": "Scroogeinquired.",
+      "best_similarity": 0.5926,
+      "correct": false
+    },
+    {
+      "string": "repliedthelad.",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "returnedtheboy.",
+      "best_similarity": 0.4706,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "repliedtheboy.",
+      "best_similarity": 0.5161,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "exclaimedtheboy.",
+      "best_similarity": 0.4865,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "Theboywasofflikeashot.Hemusthavehadasteadyhandatatriggerwhocouldhavegotashotoffhalfsofast.",
+      "best_similarity": 0.4227,
+      "correct": false
+    },
+    {
+      "string": "whisperedScrooge,rubbinghishands,andsplittingwithalaugh.",
+      "best_similarity": 0.4138,
+      "correct": false
+    },
+    {
+      "string": "Thehandinwhichhewrotetheaddresswasnotasteadyone,butwriteithedid,somehow,andwentdownstairstoopenthestreetdoor,readyforthecomingofthepoulterersman.Ashestoodthere,waitinghisarrival,theknockercaughthiseye.",
+      "best_similarity": 0.437,
+      "correct": false
+    },
+    {
+      "string": "criedScrooge,pattingitwithhishand.",
+      "best_similarity": 0.4561,
+      "correct": false
+    },
+    {
+      "string": "ItwasaTurkey!Henevercouldhavestooduponhislegs,thatbird.Hewouldhavesnappedemshortoffinaminute,likesticksofsealing-wax.",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "Thechucklewithwhichhesaidthis,andthechucklewithwhichhepaidfortheTurkey,andthechucklewithwhichhepaidforthecab,andthechucklewithwhichherecompensedtheboy,wereonlytobeexceededbythechucklewithwhichhesatdownbreathlessinhischairagain,andchuckledtillhecried.Shavingwasnotaneasytask,forhishandcontinuedtoshakeverymuch;andshavingrequiresattention,evenwhenyoudontdancewhileyouareatit.Butifhehadcuttheendofhisnoseoff,hewouldhaveputapieceofsticking-plaisteroverit,andbeenquitesatisfied.Hedressedhimself",
+      "best_similarity": 0.3833,
+      "correct": false
+    },
+    {
+      "string": "andatlastgotoutintothestreets.Thepeoplewerebythistimepouringforth,ashehadseenthemwiththeGhostofChristmasPresent;andwalkingwithhishandsbehindhim,Scroogeregardedeveryonewithadelightedsmile.Helookedsoirresistiblypleasant,inaword,thatthreeorfourgood-humouredfellowssaid,",
+      "best_similarity": 0.4317,
+      "correct": false
+    },
+    {
+      "string": "AndScroogesaidoftenafterward,thatofalltheblithesoundshehadeverheard,thoseweretheblithestinhisears.Hehadnotgonefar,whencomingontowardshimhebeheldtheportlygentleman,whohadwalkedintohiscounting-housethedaybeforeandsaid,",
+      "best_similarity": 0.425,
+      "correct": false
+    },
+    {
+      "string": "Itsentapangacrosshishearttothinkhowthisoldgentlemanwouldlookuponhimwhentheymet;butheknewwhatpathlaystraightbeforehim,andhetookit.",
+      "best_similarity": 0.4199,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,quickeninghispace,andtakingtheoldgentlemanbybothhishands.",
+      "best_similarity": 0.4154,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "goodness—hereScroogewhisperedinhisear.",
+      "best_similarity": 0.4789,
+      "correct": false
+    },
+    {
+      "string": "criedthegentleman,asifhisbreathweregone,",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "saidtheother,shakinghandswithhim.",
+      "best_similarity": 0.4706,
+      "correct": false
+    },
+    {
+      "string": "retortedScrooge.",
+      "best_similarity": 0.6667,
+      "correct": false
+    },
+    {
+      "string": "criedtheoldgentleman.Anditwasclearhemeanttodoit.",
+      "best_similarity": 0.4651,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "Hewenttochurch,andwalkedaboutthestreets,andwatchedthepeoplehurryingtoandfro,andpattedchildrenonthehead,andquestionedbeggars,andlookeddownintothekitchensofhouses,anduptothewindows;andfoundthateverythingcouldyieldhimpleasure.Hehadneverdreamedthatanywalk—thatanything—couldgivehimsomuchhappiness.Intheafternoon,heturnedhisstepstowardshisnephewshouse.Hepassedthedooradozentimes,beforehehadthecouragetogoupandknock.Buthemadeadash,anddidit:",
+      "best_similarity": 0.3905,
+      "correct": false
+    },
+    {
+      "string": "saidScroogetothegirl.Nicegirl!Very.",
+      "best_similarity": 0.4706,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.",
+      "best_similarity": 0.6957,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,withhishandalreadyonthedining-roomlock.",
+      "best_similarity": 0.4694,
+      "correct": false
+    },
+    {
+      "string": "Heturneditgently,andsidledhisfacein,roundthedoor.Theywerelookingatthetable(whichwasspreadoutingreatarray);fortheseyounghousekeepersarealwaysnervousonsuchpoints,andliketoseethateverythingisright.",
+      "best_similarity": 0.4118,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge.Dearheartalive,howhisniecebymarriagestarted!Scroogehadforgotten,forthemoment,abouthersittinginthecornerwiththefootstool,orhewouldnthavedoneit,onanyaccount.",
+      "best_similarity": 0.4034,
+      "correct": false
+    },
+    {
+      "string": "criedFred,",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "Lethimin!Itisamercyhedidntshakehisarmoff.Hewasathomeinfiveminutes.Nothingcouldbeheartier.Hisniecelookedjustthesame.SodidTopperwhenhecame.Sodidtheplumpsister,whenshecame.Sodideveryonewhentheycame.Wonderfulparty,wonderfulgames,wonderfulunanimity,won-der-fulhappiness!Buthewasearlyattheofficenextmorning.Ohhewasearlythere.Ifhecouldonlybetherefirst,andcatchBobCratchitcominglate!Thatwasthethinghehadsethisheartupon.Andhedidit;yeshedid!Theclockstrucknine.NoBob.Aquarterpast.NoBob.Hewasfulleighteenminutesandahalf,behindhistime.Scroogesatwithhisdoorwideopen,thathemightseehimcomeintotheTank.Hishatwasoff,beforeheopenedthedoor;hiscomfortertoo.Hewasonhisstoolinajiffy;drivingawaywithhispen,asifheweretryingtoovertakenineoclock.",
+      "best_similarity": 0.3816,
+      "correct": false
+    },
+    {
+      "string": "growledScrooge,inhisaccustomedvoiceasnearashecouldfeignit.",
+      "best_similarity": 0.4576,
+      "correct": false
+    },
+    {
+      "string": "saidBob.",
+      "best_similarity": 0.4706,
+      "correct": false
+    },
+    {
+      "string": "repeatedScrooge.",
+      "best_similarity": 0.6667,
+      "correct": false
+    },
+    {
+      "string": "pleadedBob,appearingfromtheTank.",
+      "best_similarity": 0.4898,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,",
+      "best_similarity": 0.6087,
+      "correct": false
+    },
+    {
+      "string": "hecontinued,leapingfromhisstool,andgivingBobsuchadiginthewaistcoatthathestaggeredbackintotheTankagain:",
+      "best_similarity": 0.4071,
+      "correct": false
+    },
+    {
+      "string": "Bobtrembled,andgotalittlenearertotheruler.HehadamomentaryideaofknockingScroogedownwithit;holdinghim;andcallingtothepeopleinthecourtforhelpandastrait-waistcoat.",
+      "best_similarity": 0.4099,
+      "correct": false
+    },
+    {
+      "string": "saidScrooge,withanearnestnessthatcouldnotbemistaken,asheclappedhimontheback.",
+      "best_similarity": 0.4375,
+      "correct": false
+    }
+  ]
+}

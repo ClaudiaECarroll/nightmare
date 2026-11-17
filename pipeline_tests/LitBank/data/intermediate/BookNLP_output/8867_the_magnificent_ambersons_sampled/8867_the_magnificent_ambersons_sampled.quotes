@@ -1,0 +1,38 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+5	9	2	3	Major Amberson	6	“ made a fortune ”
+324	327	317	318	Old men	33	“ full dress ”
+331	333	317	318	Old men	33	“ doeskin ”
+361	366	340	364	men of all ages to whom a hat meant only that rigid , tall silk thing known to impudence as a “ stove - pipe	126	“ stove - pipe . ”
+431	433	402	402	dressmakers	38	“ Derby ”
+474	477	402	402	dressmakers	38	“ congress gaiters ”
+529	533	584	584	he	33	“ ready - made ”
+540	547	574	580	dandy known as the “ dude ”	127	“ hand - me - downs , ”
+578	580	574	580	dandy known as the “ dude ”	127	“ dude ”
+599	602	584	584	he	33	“ Derby , ”
+610	613	584	584	he	33	“ Chesterfield , ”
+769	773	818	818	his	33	“ Side - burns ”
+946	950	945	953	a “ prominent resident , ” facing Military Square	54	“ prominent resident , ”
+984	987	945	953	a “ prominent resident , ” facing Military Square	54	“ front porch ”
+990	993	945	953	a “ prominent resident , ” facing Military Square	54	“ back porch ”
+997	1001	945	953	a “ prominent resident , ” facing Military Square	54	“ side porch , ”
+1007	1010	945	953	a “ prominent resident , ” facing Military Square	54	“ front hall ”
+1015	1018	945	953	a “ prominent resident , ” facing Military Square	54	“ side hall ”
+1023	1027	945	953	a “ prominent resident , ” facing Military Square	54	“ back hall . ”
+1030	1033	945	953	a “ prominent resident , ” facing Military Square	54	“ front hall ”
+1039	1042	945	953	a “ prominent resident , ” facing Military Square	54	“ parlour , ”
+1044	1048	945	953	a “ prominent resident , ” facing Military Square	54	“ sitting room , ”
+1051	1053	945	953	a “ prominent resident , ” facing Military Square	54	“ library ”
+1085	1089	1075	1076	the family	58	“ sitting room , ”
+1102	1105	1094	1094	they	58	“ parlour , ”
+1133	1135	1183	1186	one or two daughters	66	“ parlour ”
+1161	1169	1183	1186	one or two daughters	66	“ mother - and - father 's room ”
+1198	1201	1183	1186	one or two daughters	66	“ washstand , ”
+1203	1206	1183	1186	one or two daughters	66	“ bureau , ”
+1254	1259	1183	1186	one or two daughters	66	“ spare - room , ”
+1364	1370	1407	1416	people with that much money to invest in such comforts	84	“ the girl 's room , ”
+1386	1393	1407	1416	people with that much money to invest in such comforts	84	“ the hired man 's room . ”
+1428	1433	1423	1423	They	84	“ the girl 's room ”
+1768	1770	1767	1770	the “ girl ”	145	“ girl ”
+1773	1777	1767	1770	the “ girl ”	145	“ hired - man ”
+1799	1804	1787	1787	Horse	11	“ hired - man , ”
+2035	2037	2034	2037	the “ girl ”	145	“ girl ”

@@ -1,0 +1,124 @@
+{
+  "threshold": 0.9,
+  "TP": 22,
+  "FP": 0,
+  "FN": 0,
+  "n_pred": 22,
+  "n_gold": 22,
+  "matched_gold": 22,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "predictions": [
+    {
+      "string": "Iamnotlongforthisworld,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,Iwouldntsayhewasexactly...buttherewassomethingqueer...therewassomethinguncannyabouthim.Illtellyoumyopinion....",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihavemyowntheoryaboutit,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithinkitwasoneofthose...peculiarcases....Butitshardtosay....",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,soyouroldfriendisgone,youllbesorrytohear.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Who?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "FatherFlynn.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishedead?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MrCotterherehasjusttoldus.Hewaspassingbythehouse.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theyoungsterandheweregreatfriends.Theoldchaptaughthimagreatdeal,mindyou;andtheysayhehadagreatwishforhim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Godhavemercyonhissoul,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwouldntlikechildrenofmine,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "tohavetoomuchtosaytoamanlikethat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howdoyoumean,MrCotter?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhatImeanis,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itsbadforchildren.Myideais:letayoungladrunaboutandplaywithyoungladsofhisownageandnotbe....AmIright,Jack?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsmyprinciple,too,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lethimlearntoboxhiscorner.ThatswhatImalwayssayingtothatRosicrucianthere:takeexercise.Why,whenIwasanippereverymorningofmylifeIhadacoldbath,winterandsummer.Andthatswhatstandstomenow.Educationisallveryfineandlarge....MrCottermighttakeapickofthatlegmutton,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,no,notforme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butwhydoyouthinkitsnotgoodforchildren,MrCotter?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsbadforchildren,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "becausetheirmindsaresoimpressionable.Whenchildrenseethingslikethat,youknow,ithasaneffect....",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

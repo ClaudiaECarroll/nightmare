@@ -1,0 +1,216 @@
+COREF	start_token	end_token	prop	cat	text
+1	7	8	PROP	PER	OLIVER TWIST
+1	16	16	PRON	PER	HIS
+5	19	25	NOM	FAC	other public buildings in a certain town
+6	23	25	NOM	GPE	a certain town
+0	43	43	PRON	PER	I
+7	56	61	NOM	GPE	most towns , great or small
+8	66	67	NOM	FAC	a workhouse
+9	71	72	NOM	FAC	this workhouse
+0	82	82	PRON	PER	I
+0	86	86	PRON	PER	myself
+10	100	101	NOM	PER	the reader
+11	145	147	NOM	PER	the parish surgeon
+12	157	158	NOM	PER	the child
+13	188	188	PRON	PER	they
+13	200	200	PRON	PER	they
+0	229	229	PRON	PER	I
+8	240	241	NOM	FAC	a workhouse
+15	256	258	NOM	PER	a human being
+0	260	260	PRON	PER	I
+1	277	278	PROP	PER	Oliver Twist
+1	297	297	PROP	PER	Oliver
+1	301	301	PRON	PER	himself
+16	317	317	PRON	PER	our
+1	325	325	PRON	PER	he
+17	338	339	NOM	LOC	this world
+1	363	363	PROP	PER	Oliver
+18	368	369	NOM	PER	careful grandmothers
+19	371	372	NOM	PER	anxious aunts
+20	374	375	NOM	PER	experienced nurses
+21	378	381	NOM	PER	doctors of profound wisdom
+1	383	383	PRON	PER	he
+22	398	398	NOM	PER	nobody
+23	404	407	NOM	PER	a pauper old woman
+24	422	430	NOM	PER	a parish surgeon who did such matters by contract
+1	432	432	PROP	PER	Oliver
+2	434	434	PROP	PER	Nature
+18	440	440	PRON	PER	them
+1	453	453	PROP	PER	Oliver
+25	463	467	NOM	PER	the inmates of the workhouse
+26	466	467	NOM	FAC	the workhouse
+27	478	479	NOM	FAC	the parish
+28	495	524	NOM	PER	a male infant who had not been possessed of that very useful appendage , a voice , for a much longer space of time than three minutes and a quarter
+1	527	527	PROP	PER	Oliver
+1	539	539	PRON	PER	his
+29	550	552	NOM	FAC	the iron bedstead
+30	560	562	NOM	PER	a young woman
+30	581	581	PRON	PER	me
+12	583	584	NOM	PER	the child
+31	590	591	NOM	PER	The surgeon
+31	596	596	PRON	PER	his
+31	607	607	PRON	PER	his
+32	617	619	NOM	PER	the young woman
+31	622	622	PRON	PER	he
+31	644	644	PRON	PER	him
+101	649	649	PRON	PER	you
+3	659	659	PROP	PER	Lor
+3	661	661	PRON	PER	her
+33	669	670	NOM	PER	the nurse
+32	675	675	PRON	PER	her
+32	686	686	PRON	PER	she
+3	698	698	PROP	PER	Lor
+3	700	700	PRON	PER	her
+3	705	705	PRON	PER	she
+34	711	711	PRON	PER	I
+102	714	714	NOM	PER	sir
+103	718	722	NOM	PER	thirteen children of her own
+3	721	721	PRON	PER	her
+34	733	733	PRON	PER	them
+0	738	738	PRON	PER	me
+32	740	740	PRON	PER	she
+32	753	753	PRON	PER	her
+35	763	764	NOM	PER	a mother
+36	768	771	NOM	PER	a dear young lamb
+35	780	781	NOM	PER	a mother
+38	791	792	NOM	PER	The patient
+38	794	794	PRON	PER	her
+38	800	800	PRON	PER	her
+12	803	804	NOM	PER	the child
+31	806	807	NOM	PER	The surgeon
+38	811	811	PRON	PER	her
+38	814	814	PRON	PER	She
+38	816	816	PRON	PER	her
+38	826	826	PRON	PER	her
+38	829	829	PRON	PER	her
+34	844	844	PRON	PER	They
+38	846	846	PRON	PER	her
+34	861	861	PRON	PER	They
+34	868	868	PRON	PER	They
+41	871	871	NOM	PER	strangers
+4	881	882	PROP	PER	Mrs. Thingummy
+31	886	887	NOM	PER	the surgeon
+104	894	895	NOM	PER	poor dear
+33	903	904	NOM	PER	the nurse
+33	924	924	PRON	PER	she
+12	929	930	NOM	PER	the child
+104	933	934	NOM	PER	Poor dear
+104	938	938	PRON	PER	You
+31	945	945	PRON	PER	me
+12	948	949	NOM	PER	the child
+107	952	952	NOM	PER	nurse
+31	956	957	NOM	PER	the surgeon
+31	961	961	PRON	PER	his
+31	989	989	PRON	PER	He
+31	992	992	PRON	PER	his
+31	1004	1004	PRON	PER	his
+46	1013	1013	PRON	PER	She
+108	1015	1019	NOM	PER	a good - looking girl
+46	1025	1025	PRON	PER	she
+46	1031	1031	PRON	PER	She
+46	1040	1042	NOM	PER	the old woman
+109	1046	1047	NOM	PER	the overseer
+46	1051	1051	PRON	PER	She
+110	1056	1057	NOM	FAC	the street
+46	1059	1059	PRON	PER	She
+46	1066	1066	PRON	PER	her
+46	1075	1075	PRON	PER	she
+46	1081	1081	PRON	PER	she
+22	1086	1086	NOM	PER	nobody
+31	1090	1091	NOM	PER	The surgeon
+31	1109	1109	PRON	PER	he
+31	1113	1113	PRON	PER	his
+31	1122	1122	PRON	PER	I
+48	1132	1134	NOM	PER	The medical gentleman
+33	1141	1142	NOM	PER	the nurse
+33	1148	1148	PRON	PER	herself
+50	1168	1169	NOM	PER	the infant
+1	1181	1183	PROP	PER	young Oliver Twist
+1	1194	1194	PRON	PER	his
+1	1198	1198	PRON	PER	he
+51	1202	1206	NOM	PER	the child of a nobleman
+52	1205	1206	NOM	PER	a nobleman
+53	1208	1209	NOM	PER	a beggar
+54	1217	1228	NOM	PER	the haughtiest stranger to have assigned him his proper station in society
+1	1223	1223	PRON	PER	him
+1	1224	1224	PRON	PER	his
+55	1224	1228	NOM	FAC	his proper station in society
+1	1233	1233	PRON	PER	he
+1	1250	1250	PRON	PER	he
+1	1259	1259	PRON	PER	his
+56	1264	1266	NOM	PER	a parish child
+57	1268	1272	NOM	PER	the orphan of a workhouse
+8	1271	1272	NOM	FAC	a workhouse
+59	1288	1289	NOM	LOC	the world
+1	1300	1300	PROP	PER	Oliver
+1	1305	1305	PRON	PER	he
+1	1310	1310	PRON	PER	he
+60	1312	1313	NOM	PER	an orphan
+61	1321	1323	NOM	PER	church - wardens
+62	1325	1325	NOM	PER	overseers
+1	1328	1328	PRON	PER	he
+1	1339	1340	PROP	PER	OLIVER TWIST
+1	1356	1356	PROP	PER	Oliver
+63	1358	1367	NOM	PER	the victim of a systematic course of treachery and deception
+1	1369	1369	PRON	PER	He
+64	1382	1384	NOM	PER	the infant orphan
+65	1389	1391	NOM	PER	the workhouse authorities
+66	1393	1395	NOM	PER	the parish authorities
+66	1397	1399	NOM	PER	The parish authorities
+65	1404	1406	NOM	PER	the workhouse authorities
+69	1411	1412	NOM	PER	no female
+112	1417	1418	NOM	FAC	the house
+1	1428	1429	PROP	PER	Oliver Twist
+1	1437	1437	PRON	PER	he
+65	1442	1444	NOM	PER	The workhouse authorities
+66	1457	1459	NOM	PER	the parish authorities
+1	1466	1466	PROP	PER	Oliver
+1	1480	1480	PRON	PER	he
+72	1485	1488	NOM	FAC	a branch - workhouse
+73	1495	1500	NOM	PER	twenty or thirty other juvenile offenders
+74	1531	1552	NOM	PER	an elderly female , who received the culprits at and for the consideration of sevenpence - halfpenny per small head per week
+75	1567	1568	NOM	PER	a child
+76	1593	1595	NOM	PER	The elderly female
+77	1597	1602	NOM	PER	a woman of wisdom and experience
+76	1604	1604	PRON	PER	she
+78	1610	1610	NOM	PER	children
+76	1613	1613	PRON	PER	she
+76	1624	1624	PRON	PER	herself
+76	1628	1628	PRON	PER	she
+76	1638	1638	PRON	PER	her
+79	1644	1647	NOM	PER	the rising parochial generation
+79	1658	1658	PRON	PER	them
+76	1672	1672	PRON	PER	herself
+80	1673	1677	NOM	PER	a very great experimental philosopher
+81	1679	1679	NOM	PER	Everybody
+82	1684	1763	NOM	PER	another experimental philosopher who had a great theory about a horse being able to live without eating , and who demonstrated it so well , that he had got his own horse down to a straw a day , and would unquestionably have rendered him a very spirited and rampacious animal on nothing at all , if he had not died , four - and - twenty hours before he was to have had his first comfortable bait of air
+1	1710	1710	PRON	PER	he
+1	1713	1713	PRON	PER	his
+1	1728	1728	PRON	PER	him
+1	1741	1741	PRON	PER	he
+1	1753	1753	PRON	PER	he
+1	1758	1758	PRON	PER	his
+83	1772	1779	NOM	PER	the female to whose protecting care Oliver Twist
+1	1778	1779	PROP	PER	Oliver Twist
+76	1793	1793	PRON	PER	her
+12	1803	1804	NOM	PER	the child
+85	1874	1875	NOM	LOC	another world
+86	1881	1882	NOM	PER	the fathers
+85	1883	1883	PRON	GPE	it
+87	1902	1947	NOM	PER	a parish child who had been overlooked in turning up a bedstead , or inadvertently scalded to death when there happened to be a washing -- though the latter accident was very scarce , anything approaching to a washing being of rare occurrence in the farm
+88	1912	1913	NOM	FAC	a bedstead
+89	1946	1947	NOM	FAC	the farm
+90	1949	1950	NOM	PER	the jury
+90	1955	1955	PRON	PER	their
+91	1963	1964	NOM	PER	the parishioners
+90	1968	1968	PRON	PER	their
+31	1984	1985	NOM	PER	the surgeon
+93	1994	2002	NOM	PER	the former of whom had always opened the body
+94	2016	2025	NOM	PER	the latter of whom invariably swore whatever the parish wanted
+95	2023	2025	NOM	ORG	the parish wanted
+96	2036	2037	NOM	PER	the board
+89	2042	2043	NOM	FAC	the farm
+96	2056	2056	PRON	PER	they
+98	2060	2061	NOM	PER	The children
+98	2071	2071	PRON	PER	they
+99	2079	2080	NOM	PER	the people

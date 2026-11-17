@@ -1,0 +1,262 @@
+COREF	start_token	end_token	prop	cat	text
+5	2	3	PROP	PER	MISS BROOKE
+5	9	9	PRON	PER	I
+118	15	16	NOM	PER	a woman
+6	28	28	PROP	PER	Maid
+7	32	34	PROP	PER	BEAUMONT AND FLETCHER
+5	36	37	PROP	PER	Miss Brooke
+5	54	54	PRON	PER	Her
+5	63	63	PRON	PER	she
+21	76	78	NOM	PER	the Blessed Virgin
+22	81	82	NOM	PER	Italian painters
+5	85	85	PRON	PER	her
+5	90	90	PRON	PER	her
+5	101	101	PRON	PER	her
+5	113	113	PRON	PER	her
+23	126	126	PRON	PER	our
+5	138	138	PRON	PER	She
+5	153	153	PRON	PER	her
+24	153	154	NOM	PER	her sister
+8	155	155	PROP	PER	Celia
+8	164	164	PROP	PER	Celia
+8	178	178	PRON	PER	her
+8	182	182	PRON	PER	her
+24	182	183	NOM	PER	her sister
+5	197	198	PROP	PER	Miss Brooke
+5	212	212	PRON	PER	her
+24	212	213	NOM	PER	her sister
+27	220	220	NOM	PER	ladies
+28	244	244	PRON	PER	you
+28	253	253	PRON	PER	you
+29	270	274	NOM	PER	an admiral or a clergyman
+30	273	274	NOM	PER	a clergyman
+31	280	281	NOM	PER	an ancestor
+32	284	290	NOM	PER	a Puritan gentleman who served under Cromwell
+9	290	290	PROP	PER	Cromwell
+33	306	312	NOM	PER	the proprietor of a respectable family estate
+34	309	312	NOM	FAC	a respectable family estate
+35	314	318	NOM	PER	Young women of such birth
+36	322	326	NOM	FAC	a quiet country - house
+37	330	332	NOM	FAC	a village church
+38	336	337	NOM	FAC	a parlor
+39	346	347	NOM	PER	a huckster
+40	346	349	NOM	PER	a huckster 's daughter
+5	407	408	PROP	PER	Miss Brooke
+8	420	420	PROP	PER	Celia
+8	425	425	PRON	PER	her
+24	425	426	NOM	PER	her sister
+35	432	432	PRON	PER	them
+10	450	450	PROP	PER	Dorothea
+11	455	455	PROP	PER	Pascal
+12	460	461	PROP	PER	Jeremy Taylor
+10	467	467	PRON	PER	her
+13	490	490	PROP	PER	Bedlam
+10	492	492	PRON	PER	She
+10	518	518	PRON	PER	Her
+42	533	534	NOM	LOC	the world
+43	539	542	NOM	FAC	the parish of Tipton
+0	542	542	PROP	GPE	Tipton
+10	544	544	PRON	PER	her
+44	549	549	NOM	FAC	there
+10	551	551	PRON	PER	she
+10	566	566	PRON	PER	her
+10	592	592	PRON	PER	she
+45	605	607	NOM	PER	a marriageable girl
+45	612	612	PRON	PER	her
+10	640	640	PRON	PER	she
+46	642	646	NOM	PER	the elder of the sisters
+47	645	646	NOM	PER	the sisters
+47	654	654	PRON	PER	they
+47	661	661	PRON	PER	they
+47	670	670	PRON	PER	their
+48	670	671	NOM	PER	their parents
+49	683	685	NOM	PER	an English family
+50	689	693	NOM	PER	a Swiss family at Lausanne
+1	693	693	PROP	GPE	Lausanne
+50	695	695	PRON	PER	their
+51	695	697	NOM	PER	their bachelor uncle
+52	699	699	NOM	PER	guardian
+50	709	709	PRON	PER	their
+50	719	719	PRON	PER	they
+2	725	726	PROP	GPE	Tipton Grange
+50	728	728	PRON	PER	their
+53	728	729	NOM	PER	their uncle
+54	731	732	NOM	PER	a man
+54	747	747	PRON	PER	He
+54	751	751	PRON	PER	his
+55	759	763	NOM	LOC	this part of the county
+56	762	763	NOM	GPE	the county
+14	774	775	PROP	PER	Mr. Brooke
+14	794	794	PRON	PER	he
+14	803	803	PRON	PER	he
+49	813	813	PRON	PER	them
+54	830	831	NOM	PER	a man
+54	838	838	PRON	PER	his
+54	845	845	PRON	PER	his
+54	852	852	PRON	PER	he
+14	864	865	PROP	PER	Mr. Brooke
+14	879	879	PRON	PER	his
+58	879	880	NOM	PER	his niece
+10	881	881	PROP	PER	Dorothea
+10	895	895	PRON	PER	her
+59	895	896	NOM	PER	her uncle
+59	900	900	PRON	PER	his
+59	909	909	PRON	PER	his
+60	909	910	NOM	FAC	his estate
+10	914	914	PRON	PER	her
+10	923	923	PRON	PER	she
+10	938	938	PRON	PER	She
+61	942	943	NOM	PER	an heiress
+47	949	950	NOM	PER	the sisters
+47	958	958	PRON	PER	their
+48	958	959	NOM	PER	their parents
+10	963	963	PROP	PER	Dorothea
+64	967	968	NOM	PER	a son
+65	970	971	NOM	PER	that son
+14	974	975	PROP	PER	Mr. Brooke
+66	974	977	NOM	FAC	Mr. Brooke 's estate
+67	994	995	NOM	PER	provincial families
+15	999	1000	PROP	PER	Mr. Peel
+68	1011	1014	NOM	LOC	future gold - fields
+10	1035	1035	PROP	PER	Dorothea
+10	1051	1051	PRON	PER	her
+10	1057	1057	PRON	PER	her
+69	1068	1070	NOM	PER	a wary man
+69	1074	1074	PRON	PER	he
+10	1076	1076	PRON	PER	her
+10	1084	1084	PRON	PER	her
+70	1092	1099	NOM	PER	A young lady of some birth and fortune
+71	1113	1115	NOM	PER	a sick laborer
+70	1121	1121	PRON	PER	she
+70	1123	1123	PRON	PER	herself
+72	1129	1130	NOM	PER	the Apostles
+16	1139	1140	PROP	PER	a Papist
+73	1155	1156	NOM	PER	a wife
+74	1159	1159	PRON	PER	you
+73	1171	1171	PRON	PER	her
+54	1187	1188	NOM	PER	a man
+54	1194	1194	PRON	PER	he
+54	1196	1196	PRON	PER	himself
+76	1201	1201	NOM	PER	Women
+77	1228	1229	NOM	PER	Sane people
+77	1232	1232	PRON	PER	their
+78	1232	1233	NOM	PER	their neighbors
+79	1239	1240	NOM	PER	any lunatics
+79	1250	1250	PRON	PER	them
+80	1256	1259	NOM	PER	the new young ladies
+81	1263	1264	NOM	PER	the cottagers
+8	1271	1271	PROP	PER	Celia
+5	1283	1284	PROP	PER	Miss Brooke
+5	1291	1291	PRON	PER	her
+10	1299	1300	PROP	PER	Poor Dorothea
+10	1304	1304	PRON	PER	her
+8	1306	1310	PROP	PER	the innocent - looking Celia
+10	1346	1346	PROP	PER	Dorothea
+10	1351	1351	PRON	PER	her
+10	1359	1359	PRON	PER	she
+82	1368	1369	NOM	PER	Most men
+10	1371	1371	PRON	PER	her
+10	1374	1374	PRON	PER	she
+10	1379	1379	PRON	PER	She
+83	1389	1390	NOM	GPE	the country
+10	1394	1394	PRON	PER	her
+10	1402	1402	PRON	PER	she
+84	1407	1408	NOM	PER	a devotee
+10	1415	1415	PRON	PER	she
+10	1417	1417	PRON	PER	herself
+10	1424	1424	PRON	PER	she
+10	1427	1427	PRON	PER	she
+10	1444	1444	PRON	PER	She
+10	1467	1467	PRON	PER	her
+10	1470	1470	PRON	PER	her
+24	1470	1471	NOM	PER	her sister
+8	1472	1472	PROP	PER	Celia
+8	1478	1478	PRON	PER	her
+86	1483	1484	NOM	PER	any gentleman
+3	1489	1490	PROP	FAC	the Grange
+14	1499	1500	PROP	PER	Mr. Brooke
+10	1502	1502	PRON	PER	she
+86	1505	1505	PRON	PER	he
+8	1511	1511	PROP	PER	Celia
+17	1513	1515	PROP	PER	Sir James Chettam
+10	1521	1521	PRON	PER	she
+8	1525	1525	PROP	PER	Celia
+8	1539	1539	PROP	PER	Celia
+17	1542	1542	PRON	PER	him
+17	1545	1545	PRON	PER	he
+8	1553	1553	PRON	PER	herself
+8	1558	1558	PRON	PER	her
+10	1563	1563	PROP	PER	Dorothea
+10	1567	1567	PRON	PER	her
+10	1583	1583	PRON	PER	She
+10	1587	1587	PRON	PER	she
+87	1591	1593	NOM	PER	the judicious Hooker
+10	1596	1596	PRON	PER	she
+87	1604	1604	PRON	PER	him
+87	1609	1609	PRON	PER	he
+18	1615	1616	PROP	PER	John Milton
+18	1618	1618	PRON	PER	his
+88	1627	1641	NOM	PER	the other great men whose odd habits it would have been glorious piety to endure
+89	1644	1647	NOM	PER	an amiable handsome baronet
+10	1655	1655	PRON	PER	her
+10	1659	1659	PRON	PER	she
+89	1663	1663	PRON	PER	he
+10	1665	1665	PRON	PER	her
+90	1667	1668	NOM	PER	a lover
+91	1678	1678	PRON	PER	your
+92	1678	1679	NOM	PER	your husband
+93	1681	1684	NOM	PER	a sort of father
+91	1689	1689	PRON	PER	you
+91	1694	1694	PRON	PER	you
+10	1701	1701	PROP	PER	Dorothea
+14	1705	1706	PROP	PER	Mr. Brooke
+94	1714	1715	NOM	PER	neighboring families
+95	1719	1723	NOM	PER	some middle - aged lady
+14	1729	1729	PRON	PER	his
+96	1729	1730	NOM	PER	his nieces
+14	1733	1733	PRON	PER	he
+14	1734	1734	PRON	PER	himself
+97	1738	1750	NOM	PER	the sort of superior woman likely to be available for such a position
+14	1753	1753	PRON	PER	he
+14	1755	1755	PRON	PER	himself
+10	1760	1760	PROP	PER	Dorothea
+42	1773	1774	NOM	LOC	the world
+19	1781	1782	PROP	PER	Mrs. Cadwallader
+99	1781	1786	NOM	PER	Mrs. Cadwallader the Rector 's wife
+100	1783	1784	NOM	PER	the Rector
+101	1789	1803	NOM	PER	the small group of gentry with whom he visited in the northeast corner of Loamshire
+101	1796	1796	PRON	PER	he
+102	1799	1803	NOM	LOC	the northeast corner of Loamshire
+4	1803	1803	PROP	GPE	Loamshire
+5	1806	1807	PROP	PER	Miss Brooke
+5	1810	1810	PRON	PER	her
+59	1810	1811	NOM	PER	her uncle
+104	1810	1813	NOM	FAC	her uncle 's household
+5	1821	1821	PRON	PER	her
+104	1831	1831	PRON	FAC	it
+17	1833	1835	PROP	PER	Sir James Chettam
+105	1841	1842	NOM	FAC	the Grange
+106	1847	1854	NOM	PER	another gentleman whom the girls had never seen
+107	1850	1851	NOM	PER	the girls
+10	1859	1859	PROP	PER	Dorothea
+108	1867	1870	NOM	PER	the Reverend Edward Casaubon
+20	1869	1870	PROP	PER	Edward Casaubon
+56	1874	1875	NOM	GPE	the county
+110	1877	1896	NOM	PER	a man of profound learning , understood for many years to be engaged on a great work concerning religious history
+111	1900	1903	NOM	PER	a man of wealth
+111	1909	1909	PRON	PER	his
+111	1916	1916	PRON	PER	his
+111	1929	1929	PRON	PER	his
+111	1932	1932	PRON	PER	His
+10	1953	1953	PROP	PER	Dorothea
+112	1957	1959	NOM	FAC	the infant school
+10	1961	1961	PRON	PER	she
+113	1966	1967	NOM	GPE	the village
+10	1972	1972	PRON	PER	her
+114	1976	1987	NOM	FAC	the pretty sitting - room which divided the bedrooms of the sisters
+115	1983	1987	NOM	FAC	the bedrooms of the sisters
+47	1986	1987	NOM	PER	the sisters
+117	1995	1996	NOM	FAC	some buildings
+10	2003	2003	PRON	PER	she
+8	2009	2009	PROP	PER	Celia
+8	2015	2015	PRON	PER	her

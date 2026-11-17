@@ -1,0 +1,326 @@
+COREF	start_token	end_token	prop	cat	text
+0	1	1	PRON	PER	I
+1	5	9	PROP	FAC	THE WEDDING ' ' Wooed
+8	18	18	PROP	PER	Edith
+9	22	22	PROP	PER	Margaret
+8	27	27	PROP	PER	Edith
+9	33	33	PROP	PER	Margaret
+8	37	37	PROP	PER	Edith
+8	42	42	PRON	PER	She
+22	50	57	NOM	FAC	the back drawing - room in Harley Street
+2	56	57	PROP	FAC	Harley Street
+8	63	63	PRON	PER	her
+10	71	71	PROP	PER	Titania
+23	93	97	NOM	FAC	a back drawing - room
+8	99	99	PROP	PER	Edith
+8	105	105	PRON	PER	her
+9	107	107	PROP	PER	Margaret
+9	112	112	PRON	PER	her
+24	112	113	NOM	PER	her cousin
+25	117	117	PRON	PER	They
+8	128	128	PROP	PER	Edith
+9	138	138	PROP	PER	Margaret
+9	141	141	PRON	PER	her
+9	145	145	PROP	PER	Margaret
+9	163	163	PRON	PER	her
+26	163	164	NOM	PER	her companion
+8	176	176	PROP	PER	Edith
+25	179	179	PRON	PER	They
+11	192	193	PROP	PER	Captain Lennox
+11	197	197	PRON	PER	he
+8	200	200	PROP	PER	Edith
+8	202	202	PRON	PER	her
+12	206	206	PROP	PER	Corfu
+11	209	209	PRON	PER	his
+27	209	210	NOM	PER	his regiment
+8	228	228	PROP	PER	Edith
+8	241	241	PRON	PER	her
+8	243	243	PRON	PER	her
+8	251	251	PRON	PER	she
+3	258	258	PROP	GPE	Scotland
+8	264	264	PRON	PER	her
+9	278	278	PROP	PER	Margaret
+9	291	291	PRON	PER	she
+28	301	303	NOM	FAC	the next room
+8	305	305	PROP	PER	Edith
+8	308	308	PRON	PER	herself
+9	335	335	PROP	PER	Margaret
+9	343	343	PRON	PER	her
+9	353	353	PRON	PER	she
+9	357	357	PRON	PER	her
+29	361	387	NOM	GPE	the country parsonage , where her father and mother lived ; and where her bright holidays had always been passed , though for the last ten years
+9	366	366	PRON	PER	her
+30	366	367	NOM	PER	her father
+31	369	369	NOM	PER	mother
+9	374	374	PRON	PER	her
+9	388	388	PRON	PER	her
+32	388	389	NOM	PER	her aunt
+33	388	398	NOM	FAC	her aunt Shaw 's house had been considered as her home
+13	390	390	PROP	PER	Shaw
+13	397	397	PRON	PER	her
+34	397	398	NOM	FAC	her home
+35	404	405	NOM	PER	a listener
+13	407	407	PRON	PER	she
+13	415	415	PRON	PER	her
+13	439	439	PRON	PER	her
+36	439	441	NOM	PER	her gentle aunt
+37	443	444	NOM	PER	dear cousin
+13	447	447	PRON	PER	she
+38	458	462	NOM	PER	only daughter in Helstone parsonage
+4	461	462	PROP	FAC	Helstone parsonage
+28	470	472	NOM	FAC	the next room
+13	475	475	PRON	PER	her
+13	478	478	PRON	PER	Her
+32	478	479	NOM	PER	Her aunt
+13	480	480	PROP	PER	Shaw
+41	484	504	NOM	PER	the five or six ladies who had been dining there , and whose husbands were still in the dining - room
+42	493	493	NOM	FAC	there
+43	497	497	NOM	PER	husbands
+44	501	504	NOM	FAC	the dining - room
+41	506	506	PRON	PER	They
+45	508	513	NOM	PER	the familiar acquaintances of the house
+46	512	513	NOM	FAC	the house
+47	515	520	NOM	PER	neighbours whom Mrs. Shaw called friends
+13	517	518	PROP	PER	Mrs. Shaw
+48	520	520	NOM	PER	friends
+13	523	523	PRON	PER	she
+41	528	528	PRON	PER	them
+49	533	535	NOM	PER	any other people
+13	540	540	PRON	PER	she
+8	542	542	PROP	PER	Edith
+41	546	546	PRON	PER	them
+41	549	549	PRON	PER	they
+8	551	551	PRON	PER	her
+41	553	553	PRON	PER	they
+50	562	565	NOM	FAC	each other 's houses
+51	569	570	NOM	PER	These ladies
+51	572	572	PRON	PER	their
+52	572	573	NOM	PER	their husbands
+51	578	578	PRON	PER	their
+48	581	581	NOM	PER	friends
+8	591	591	PROP	PER	Edith
+8	596	596	PROP	PER	Edith
+11	605	606	PROP	PER	Captain Lennox
+54	612	614	NOM	VEH	a late train
+8	622	622	PRON	PER	she
+55	624	626	NOM	PER	a spoiled child
+8	628	628	PRON	PER	she
+8	641	641	PRON	PER	her
+8	648	648	PRON	PER	she
+8	651	651	PRON	PER	her
+56	651	652	NOM	PER	her mother
+56	676	676	PRON	PER	She
+56	678	678	PRON	PER	herself
+56	683	683	PRON	PER	her
+56	692	692	PRON	PER	her
+56	704	704	PRON	PER	her
+14	710	711	PROP	PER	Mr. Grey
+57	713	728	NOM	PER	the gentleman who always took the bottom of the table at Mrs. Shaw 's dinner parties
+13	724	725	PROP	PER	Mrs. Shaw
+8	732	732	PROP	PER	Edith
+58	735	735	PRON	PER	them
+59	739	742	NOM	FAC	the drawing - room
+14	744	745	PROP	PER	Mr. Grey
+60	755	756	NOM	PER	the gentlemen
+61	759	759	NOM	FAC	stairs
+60	768	768	PRON	PER	they
+9	779	779	PROP	PER	Margaret
+16	783	783	PRON	PER	I
+16	787	787	PRON	PER	myself
+16	791	791	PRON	PER	I
+103	797	800	NOM	PER	the poor dear General
+16	813	813	PRON	PER	I
+8	816	816	PROP	PER	Edith
+16	831	831	PRON	PER	I
+104	834	836	NOM	PER	the dear child
+16	845	845	PRON	PER	I
+16	850	850	PRON	PER	I
+104	853	853	PRON	PER	she
+104	858	858	PRON	PER	she
+16	862	862	PRON	PER	I
+11	869	869	PROP	PER	Captain
+9	880	880	PROP	PER	Margaret
+8	893	893	PROP	PER	Edith
+13	901	902	PROP	PER	Mrs. Shaw
+13	911	911	PRON	PER	she
+8	932	932	PROP	PER	Edith
+105	932	934	NOM	PER	Edith 's acquaintances
+8	938	938	PRON	PER	her
+106	940	944	NOM	PER	a young and pretty heiress
+13	947	948	PROP	PER	Mrs. Shaw
+13	951	951	PRON	PER	her
+107	951	953	NOM	PER	her only child
+13	967	967	PRON	PER	her
+108	971	972	NOM	PER	the General
+13	974	975	PROP	PER	Mrs. Shaw
+13	986	986	PRON	PER	her
+109	986	987	NOM	PER	her daughter
+8	992	992	PROP	PER	Edith
+8	1002	1002	PRON	PER	she
+110	1007	1011	NOM	FAC	a good house in Belgravia
+5	1011	1011	PROP	GPE	Belgravia
+11	1021	1022	PROP	PER	Captain Lennox
+12	1025	1025	PROP	PER	Corfu
+9	1032	1032	PROP	PER	Margaret
+9	1035	1035	PRON	PER	she
+8	1038	1038	PROP	PER	Edith
+9	1050	1050	PRON	PER	she
+9	1057	1057	PRON	PER	her
+9	1060	1060	PRON	PER	her
+111	1060	1062	NOM	PER	her fond lover
+9	1080	1080	PRON	PER	her
+112	1084	1085	NOM	PER	any one
+113	1088	1090	NOM	FAC	a fine house
+114	1093	1095	NOM	FAC	a fine estate
+8	1104	1104	PROP	PER	Edith
+11	1110	1111	PROP	PER	Captain Lennox
+8	1125	1125	PRON	PER	she
+11	1137	1138	PROP	PER	Captain Lennox
+11	1144	1144	PRON	PER	his
+115	1144	1145	NOM	PER	his person
+8	1153	1153	PRON	PER	she
+8	1156	1156	PRON	PER	her
+56	1156	1157	NOM	PER	her mother
+117	1156	1159	NOM	PER	her mother 's child
+15	1166	1167	PROP	PER	General Shaw
+15	1175	1175	PRON	PER	his
+8	1187	1187	PRON	PER	her
+118	1194	1199	NOM	PER	one whom she could not love
+8	1196	1196	PRON	PER	she
+16	1202	1202	PRON	PER	I
+9	1208	1208	PRON	PER	her
+9	1216	1216	PROP	PER	Margaret
+9	1220	1220	PRON	PER	She
+108	1229	1230	NOM	PER	the General
+16	1233	1233	PRON	PER	me
+16	1237	1237	PRON	PER	I
+9	1245	1245	PRON	PER	She
+120	1247	1249	NOM	PER	a lucky girl
+9	1257	1257	PROP	PER	Margaret
+16	1263	1264	PROP	PER	Mrs. Gibson
+62	1266	1293	NOM	PER	a lady who was taking a double interest in the conversation , from the fact of one of her daughters having been married within the last few weeks
+9	1284	1284	PRON	PER	her
+63	1284	1285	NOM	PER	her daughters
+17	1296	1296	PROP	PER	Helen
+17	1299	1299	PRON	PER	her
+16	1309	1309	PRON	PER	I
+16	1318	1318	PRON	PER	I
+17	1323	1323	PRON	PER	her
+17	1325	1325	PRON	PER	She
+17	1331	1331	PRON	PER	she
+8	1334	1334	PROP	PER	Edith
+121	1342	1342	PRON	PER	they
+6	1344	1344	PROP	GPE	Delhi
+9	1353	1353	PROP	PER	Margaret
+9	1355	1355	PRON	PER	her
+32	1355	1356	NOM	PER	her aunt
+9	1368	1368	PRON	PER	she
+9	1371	1371	PRON	PER	herself
+9	1374	1374	PRON	PER	her
+65	1384	1391	NOM	FAC	the more dimly lighted back drawing - room
+8	1394	1394	PROP	PER	Edith
+8	1396	1396	PROP	PER	Edith
+9	1400	1400	PRON	PER	she
+9	1404	1404	PRON	PER	she
+9	1413	1413	PROP	PER	Margaret
+8	1418	1418	PROP	PER	Edith
+18	1422	1423	PROP	PER	Aunt Shaw
+9	1428	1428	PRON	PER	I
+66	1434	1435	NOM	PER	the ladies
+122	1438	1439	NOM	PER	Poor child
+8	1448	1448	PROP	PER	Edith
+13	1457	1458	PROP	PER	Mrs. Shaw
+19	1477	1477	PROP	PER	Tiny
+19	1479	1479	PRON	PER	you
+123	1479	1482	NOM	PER	you naughty little girl
+19	1484	1484	PRON	PER	you
+19	1487	1487	PRON	PER	your
+124	1487	1488	NOM	PER	your mistress
+8	1495	1495	PROP	PER	Edith
+8	1497	1497	PRON	PER	she
+20	1500	1500	PROP	PER	Newton
+8	1504	1504	PRON	PER	her
+19	1508	1508	PRON	PER	you
+9	1512	1512	PROP	PER	Margaret
+9	1516	1516	PROP	PER	Margaret
+67	1520	1522	NOM	FAC	the old nursery
+46	1528	1529	NOM	FAC	the house
+20	1532	1532	PROP	PER	Newton
+20	1547	1547	PROP	PER	Newton
+9	1573	1573	PROP	PER	Margaret
+69	1577	1578	NOM	FAC	the nursery
+70	1580	1605	NOM	FAC	the first room in that house with which she had become familiar nine years ago , when she was brought , all untamed from the forest
+71	1584	1585	NOM	FAC	that house
+9	1588	1588	PRON	PER	she
+9	1597	1597	PRON	PER	she
+72	1604	1605	NOM	LOC	the forest
+73	1609	1610	NOM	FAC	the home
+9	1619	1619	PRON	PER	her
+24	1619	1620	NOM	PER	her cousin
+8	1621	1621	PROP	PER	Edith
+9	1623	1623	PRON	PER	She
+75	1631	1633	NOM	FAC	the London nursery
+76	1638	1653	NOM	PER	an austere and ceremonious nurse , who was terribly particular about clean hands and torn frocks
+9	1655	1655	PRON	PER	She
+9	1665	1665	PRON	PER	her
+30	1665	1666	NOM	PER	her father
+78	1668	1668	NOM	PER	aunt
+9	1684	1684	PRON	PER	she
+79	1691	1692	NOM	PER	the child
+80	1696	1696	PRON	PER	they
+81	1705	1706	NOM	LOC	the earth
+82	1709	1709	NOM	FAC	home
+9	1712	1712	PRON	PER	she
+2	1717	1718	PROP	FAC	Harley Street
+9	1720	1720	PRON	PER	her
+56	1720	1721	NOM	PER	her mother
+84	1720	1729	NOM	FAC	her mother 's dressing - room had been her nursery
+9	1728	1728	PRON	PER	her
+85	1728	1729	NOM	FAC	her nursery
+80	1734	1734	PRON	PER	they
+86	1739	1741	NOM	FAC	the country parsonage
+9	1743	1743	PROP	PER	Margaret
+9	1747	1747	PRON	PER	her
+9	1750	1750	PRON	PER	her
+30	1750	1751	NOM	PER	her father
+31	1753	1753	NOM	PER	mother
+89	1759	1764	NOM	PER	the tall stately girl of eighteen
+90	1776	1780	NOM	PER	the little girl of nine
+90	1783	1783	PRON	PER	she
+90	1785	1785	PRON	PER	her
+90	1800	1800	PRON	PER	she
+91	1807	1808	NOM	PER	the nurse
+8	1814	1815	PROP	PER	Miss Edith
+90	1819	1819	PRON	PER	she
+8	1830	1830	PRON	PER	her
+92	1830	1838	NOM	PER	her newly - seen , grand , pretty aunt
+93	1842	1842	NOM	FAC	upstairs
+21	1844	1845	PROP	PER	Mr. Hale
+21	1848	1848	PRON	PER	him
+21	1849	1849	PRON	PER	his
+94	1849	1852	NOM	PER	his little sleeping daughter
+95	1855	1857	NOM	PER	the little Margaret
+95	1860	1860	PRON	PER	her
+95	1876	1876	PRON	PER	her
+30	1876	1877	NOM	PER	her father
+95	1880	1880	PRON	PER	her
+95	1884	1884	PRON	PER	she
+95	1889	1889	PRON	PER	her
+32	1889	1890	NOM	PER	her aunt
+95	1894	1894	PRON	PER	she
+98	1914	1914	PRON	PER	they
+82	1919	1919	NOM	FAC	home
+95	1922	1922	PRON	PER	her
+95	1931	1931	PRON	PER	her
+100	1937	1937	NOM	PER	papa
+100	1940	1940	PRON	PER	his
+101	1940	1941	NOM	FAC	his parish
+7	1946	1946	PROP	GPE	London
+95	1955	1955	PRON	PER	she
+67	1960	1962	NOM	FAC	the old nursery
+95	1973	1973	PRON	PER	she
+20	2000	2001	PROP	PER	Ah Newton
+95	2005	2005	PRON	PER	she
+95	2008	2008	PRON	PER	I
+125	2010	2010	PRON	PER	we
+126	2017	2020	NOM	FAC	this dear old room

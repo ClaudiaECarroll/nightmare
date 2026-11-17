@@ -1,0 +1,174 @@
+{
+  "threshold": 0.9,
+  "TP": 31,
+  "FP": 1,
+  "FN": 1,
+  "n_pred": 32,
+  "n_gold": 33,
+  "matched_gold": 32,
+  "precision": 0.96875,
+  "recall": 0.96875,
+  "f1": 0.96875,
+  "predictions": [
+    {
+      "string": "Wal,Beasley,areyouhere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Fellars,Beasleyainthereyet,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Putthehossesundertheshed.Wellwait.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wait,huh!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mebbeallnight--anwegotnuthintoeat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shutup,Moze.Reckonyourenogoodforanythinbuteatin.Putthemhossesawayansomeofyourustlefire-woodinhere.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Snake,itdbeensensetofetchapackalong,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Reckonso,Jim.Butwedidnt,anwhatstheusehollerin?Beasleywontkeepuswaitinlong.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itainta-gointorainmuch,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Jim,hyarsachunkofpinelog,dryaspunk,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Snake,lemmeyourpipe,anIllhevafireinajiffy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wal,IwantmyterbaccoanIaintcarinaboutnofire,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Reckonyourethemeanestcussinthesewoods,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Firefeelsgood,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Fallssurea-comin...Nowifonlywehadsomegrub!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Moze,theresahunkofdeermeatinmysaddle-bag,anifyougitityoucanhavehalf,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Snake,whatsthisheredealwithBeasley?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ReckonyoulllarnwhenIdo,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aintwedoneawaywithenoughofthempoorgreaserherders--fornothin?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youredeadright,Burt--anthatsmystand,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Snake,snowllbeflyinroundthesewoodsbeforelong,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ArewegointowinterdownintheTontoBasinoroverontheGila?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Reckonwelldosometallridinbeforewestrikesouth,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Boss,Iheerdahosscominupthetrail,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "A-huh!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hothere,inside!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hoyourself!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatyou,Snake?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Reckonso,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hullo,Snake!Hullo,Wilson!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ivebackedoutontheotherdeal.Sentforyouon--onanotherlittlematter...particularprivate.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "A-huh!ejaculatedAnson,dubiously.Thenheturnedabruptly.Moze,youanShadyanBurtgowaitoutside.ReckonthisaintthedealIexpected....Anyoucansaddlethehosses.",
+      "best_similarity": 0.7782,
+      "correct": false
+    }
+  ]
+}

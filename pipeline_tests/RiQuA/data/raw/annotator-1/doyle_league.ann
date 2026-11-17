@@ -1,0 +1,828 @@
+T1	Quotation 327 395	"You could not possibly have come at a better time, my dear Watson,"
+T2	Entity 396 398	he
+T3	Cue 399 403	said
+T4	Quotation 416 452	I was afraid that you were engaged."
+T5	Quotation 453 477	"So I am. Very much so."
+T6	Quotation 478 513	"Then I can wait in the next room."
+T7	Quotation 514 698	"Not at all. This gentleman, Mr. Wilson, has been my partner and helper in many of my most successful cases, and I have no doubt that he will be of the utmost use to me in yours also."
+T8	Quotation 846 863	"Try the settee,"
+T9	Cue 864 868	said
+T10	Entity 869 875	Holmes
+T11	Quotation 984 1307	"I know, my dear Watson, that you share my love of all that is bizarre and outside the conventions and humdrum routine of everyday life. You have shown your relish for it by the enthusiasm which has prompted you to chronicle, and, if you will excuse my saying so, somewhat to embellish so many of my own little adventures."
+T12	Quotation 1308 1369	"Your cases have indeed been of the greatest interest to me,"
+T13	Entity 1370 1371	I
+T14	Cue 1372 1380	observed
+T15	Quotation 1382 1667	"You will remember that I remarked the other day, just before we went into the very simple problem presented by Miss Mary Sutherland, that for strange effects and extraordinary combinations we must go to life itself, which is always far more daring than any effort of the imagination."
+T16	Quotation 1668 1721	"A proposition which I took the liberty of doubting."
+T17	Quotation 1722 3106	"You did, Doctor, but none the less you must come round to my view, for otherwise I shall keep on piling fact upon fact on you until your reason breaks down under them and acknowledges me to be right. Now, Mr. Jabez Wilson here has been good enough to call upon me this morning, and to begin a narrative which promises to be one of the most singular which I have listened to for some time. You have heard me remark that the strangest and most unique things are very often connected not with the larger but with the smaller crimes, and occasionally, indeed, where there is room for doubt whether any positive crime has been committed. As far as I have heard it is impossible for me to say whether the present case is an instance of crime or not, but the course of events is certainly among the most singular that I have ever listened to. Perhaps, Mr. Wilson, you would have the great kindness to recommence your narrative. I ask you not merely because my friend Dr. Watson has not heard the opening part but also because the peculiar nature of the story makes me anxious to have every possible detail from your lips. As a rule, when I have heard some slight indication of the course of events, I am able to guide myself by the thousands of other similar cases which occur to my memory. In the present instance I am forced to admit that the facts are, to the best of my belief, unique."
+T18	Quotation 4332 4564	"Beyond the obvious facts that he has at some time done manual labour, that he takes snuff, that he is a Freemason, that he has been in China, and that he has done a considerable amount of writing lately, I can deduce nothing else."
+T19	Quotation 4675 4745	"How, in the name of good-fortune, did you know all that, Mr. Holmes?"
+T20	Entity 4746 4748	he
+T21	Cue 4749 4754	asked
+T22	Quotation 4756 4873	"How did you know, for example, that I did manual labour. It's as true as gospel, for I began as a ship's carpenter."
+T23	Quotation 4874 5016	"Your hands, my dear sir. Your right hand is quite a size larger than your left. You have worked with it, and the muscles are more developed."
+T24	Quotation 5017 5062	"Well, the snuff, then, and the Freemasonry?"
+T25	Quotation 5063 5229	"I won't insult your intelligence by telling you how I read that, especially as, rather against the strict rules of your order, you use an arc-and-compass breastpin."
+T26	Quotation 5230 5278	"Ah, of course, I forgot that. But the writing?"
+T27	Quotation 5279 5444	"What else can be indicated by that right cuff so very shiny for five inches, and the left one with the smooth patch near the elbow where you rest it upon the desk?"
+T28	Quotation 5445 5463	"Well, but China?"
+T29	Quotation 5464 5867	"The fish that you have tattooed immediately above your right wrist could only have been done in China. I have made a small study of tattoo marks and have even contributed to the literature of the subject. That trick of staining the fishes' scales of a delicate pink is quite peculiar to China. When, in addition, I see a Chinese coin hanging from your watch-chain, the matter becomes even more simple."
+T30	Quotation 5902 5918	"Well, I never!"
+T31	Cue 5919 5923	said
+T32	Entity 5924 5926	he
+T33	Quotation 5928 6035	"I thought at first that you had done something clever, but I see that there was nothing in it, after all."
+T34	Quotation 6036 6063	"I begin to think, Watson,"
+T35	Cue 6064 6068	said
+T36	Entity 6069 6075	Holmes
+T37	Quotation 6077 6290	"that I make a mistake in explaining. 'Omne ignotum pro magnifico,' you know, and my poor little reputation, such as it is, will suffer shipwreck if I am so candid. Can you not find the advertisement, Mr. Wilson?"
+T38	Quotation 6291 6316	"Yes, I have got it now,"
+T39	Entity 6317 6319	he
+T40	Cue 6320 6328	answered
+T41	Quotation 6388 6464	"Here it is. This is what began it all. You just read it for yourself, sir."
+T42	Quotation 6988 7019	"What on earth does this mean?"
+T43	Entity 7020 7021	I
+T44	Entity 6487 6490	him
+T45	Cue 7022 7032	ejaculated
+T46	Quotation 7175 7223	"It is a little off the beaten track, isn't it?"
+T47	Cue 7224 7228	said
+T48	Entity 7229 7231	he
+T49	Quotation 7233 7452	"And now, Mr. Wilson, off you go at scratch and tell us all about yourself, your household, and the effect which this advertisement had upon your fortunes. You will first make a note, Doctor, of the paper and the date."
+T50	Quotation 7453 7522	"It is The Morning Chronicle of April 27, 1890. Just two months ago."
+T51	Quotation 7523 7552	"Very good. Now, Mr. Wilson?"
+T52	Quotation 7553 7620	"Well, it is just as I have been telling you, Mr. Sherlock Holmes,"
+T53	Cue 7621 7625	said
+T54	Entity 7626 7638	Jabez Wilson
+T55	Quotation 7662 8006	"I have a small pawnbroker's business at Coburg Square, near the City. It's not a very large affair, and of late years it has not done more than just give me a living. I used to be able to keep two assistants, but now I only keep one; and I would have a job to pay him but that he is willing to come for half wages so as to learn the business."
+T56	Quotation 8007 8049	"What is the name of this obliging youth?"
+T57	Cue 8050 8055	asked
+T58	Entity 8056 8071	Sherlock Holmes
+T59	Quotation 8073 8382	"His name is Vincent Spaulding, and he's not such a youth, either. It's hard to say his age. I should not wish a smarter assistant, Mr. Holmes; and I know very well that he could better himself and earn twice what I am able to give him. But, after all, if he is satisfied, why should I put ideas in his head?"
+T60	Quotation 8383 8617	"Why, indeed? You seem most fortunate in having an employé who comes under the full market price. It is not a common experience among employers in this age. I don't know that your assistant is not as remarkable as your advertisement."
+T61	Quotation 8618 8647	"Oh, he has his faults, too,"
+T62	Cue 8648 8652	said
+T63	Entity 8653 8663	Mr. Wilson
+T64	Quotation 8665 8950	"Never was such a fellow for photography. Snapping away with a camera when he ought to be improving his mind, and then diving down into the cellar like a rabbit into its hole to develop his pictures. That is his main fault, but on the whole he's a good worker. There's no vice in him."
+T65	Quotation 8951 8985	"He is still with you, I presume?"
+T66	Quotation 8986 13632	"Yes, sir. He and a girl of fourteen, who does a bit of simple cooking and keeps the place clean-- that's all I have in the house, for I am a widower and never had any family. We live very quietly, sir, the three of us; and we keep a roof over our heads and pay our debts, if we do nothing more.  The first thing that put us out was that advertisement. Spaulding, he came down into the office just this day eight weeks, with this very paper in his hand, and he says:  'I wish to the Lord, Mr. Wilson, that I was a red-headed man.'  'Why that?' I asks.  'Why,' says he, 'here's another vacancy on the League of the Red-headed Men. It's worth quite a little fortune to any man who gets it, and I understand that there are more vacancies than there are men, so that the trustees are at their wits' end what to do with the money. If my hair would only change colour, here's a nice little crib all ready for me to step into.'  'Why, what is it, then?' I asked. You see, Mr. Holmes, I am a very stay-at-home man, and as my business came to me instead of my having to go to it, I was often weeks on end without putting my foot over the door-mat. In that way I didn't know much of what was going on outside, and I was always glad of a bit of news.  'Have you never heard of the League of the Red-headed Men?' he asked with his eyes open.  'Never.'  'Why, I wonder at that, for you are eligible yourself for one of the vacancies.'  'And what are they worth?' I asked.  'Oh, merely a couple of hundred a year, but the work is slight, and it need not interfere very much with one's other occupations.'  Well, you can easily think that that made me prick up my ears, for the business has not been over-good for some years, and an extra couple of hundred would have been very handy.  'Tell me all about it,' said I. 'Well,' said he, showing me the advertisement, 'you can see for yourself that the League has a vacancy, and there is the address where you should apply for particulars. As far as I can make out, the League was founded by an American millionaire, Ezekiah Hopkins, who was very peculiar in his ways. He was himself red-headed, and he had a great sympathy for all red-headed men; so when he died it was found that he had left his enormous fortune in the hands of trustees, with instructions to apply the interest to the providing of easy berths to men whose hair is of that colour. From all I hear it is splendid pay and very little to do.'  'But,' said I, 'there would be millions of red-headed men who would apply.'  'Not so many as you might think,' he answered. 'You see it is really confined to Londoners, and to grown men. This American had started from London when he was young, and he wanted to do the old town a good turn. Then, again, I have heard it is no use your applying if your hair is light red, or dark red, or anything but real bright, blazing, fiery red. Now, if you cared to apply, Mr. Wilson, you would just walk in; but perhaps it would hardly be worth your while to put yourself out of the way for the sake of a few hundred pounds.'  Now, it is a fact, gentlemen, as you may see for yourselves, that my hair is of a very full and rich tint, so that it seemed to me that if there was to be any competition in the matter I stood as good a chance as any man that I had ever met. Vincent Spaulding seemed to know so much about it that I thought he might prove useful, so I just ordered him to put up the shutters for the day and to come right away with me. He was very willing to have a holiday, so we shut the business up and started off for the address that was given us in the advertisement.  I never hope to see such a sight as that again, Mr. Holmes. From north, south, east, and west every man who had a shade of red in his hair had tramped into the city to answer the advertisement. Fleet Street was choked with red-headed folk, and Pope's Court looked like a coster's orange barrow. I should not have thought there were so many in the whole country as were brought together by that single advertisement. Every shade of colour they were-- straw, lemon, orange, brick, Irish-setter, liver, clay; but, as Spaulding said, there were not many who had the real vivid flame-coloured tint. When I saw how many were waiting, I would have given it up in despair; but Spaulding would not hear of it. How he did it I could not imagine, but he pushed and pulled and butted until he got me through the crowd, and right up to the steps which led to the office. There was a double stream upon the stair, some going up in hope, and some coming back dejected; but we wedged in as well as we could and soon found ourselves in the office."
+T67	Quotation 13633 13684	"Your experience has been a most entertaining one,"
+T68	Cue 13685 13693	remarked
+T69	Entity 13694 13700	Holmes
+T70	Quotation 13775 13823	"Pray continue your very interesting statement."
+T71	Quotation 13824 20241	"There was nothing in the office but a couple of wooden chairs and a deal table, behind which sat a small man with a head that was even redder than mine. He said a few words to each candidate as he came up, and then he always managed to find some fault in them which would disqualify them. Getting a vacancy did not seem to be such a very easy matter, after all. However, when our turn came the little man was much more favourable to me than to any of the others, and he closed the door as we entered, so that he might have a private word with us.  'This is Mr. Jabez Wilson,' said my assistant, 'and he is willing to fill a vacancy in the League.'  'And he is admirably suited for it,' the other answered. 'He has every requirement. I cannot recall when I have seen anything so fine.' He took a step backward, cocked his head on one side, and gazed at my hair until I felt quite bashful. Then suddenly he plunged forward, wrung my hand, and congratulated me warmly on my success.  'It would be injustice to hesitate,' said he. 'You will, however, I am sure, excuse me for taking an obvious precaution.' With that he seized my hair in both his hands, and tugged until I yelled with the pain. 'There is water in your eyes,' said he as he released me. 'I perceive that all is as it should be. But we have to be careful, for we have twice been deceived by wigs and once by paint. I could tell you tales of cobbler's wax which would disgust you with human nature.' He stepped over to the window and shouted through it at the top of his voice that the vacancy was filled. A groan of disappointment came up from below, and the folk all trooped away in different directions until there was not a red-head to be seen except my own and that of the manager.  'My name,' said he, 'is Mr. Duncan Ross, and I am myself one of the pensioners upon the fund left by our noble benefactor. Are you a married man, Mr. Wilson? Have you a family?'  I answered that I had not.  His face fell immediately.  'Dear me!' he said gravely, 'that is very serious indeed! I am sorry to hear you say that. The fund was, of course, for the propagation and spread of the red-heads as well as for their maintenance. It is exceedingly unfortunate that you should be a bachelor.'  My face lengthened at this, Mr. Holmes, for I thought that I was not to have the vacancy after all; but after thinking it over for a few minutes he said that it would be all right.  'In the case of another,' said he, 'the objection might be fatal, but we must stretch a point in favour of a man with such a head of hair as yours. When shall you be able to enter upon your new duties?'  'Well, it is a little awkward, for I have a business already,' said I. 'Oh, never mind about that, Mr. Wilson!' said Vincent Spaulding. 'I should be able to look after that for you.'  'What would be the hours?' I asked.  'Ten to two.'  Now a pawnbroker's business is mostly done of an evening, Mr. Holmes, especially Thursday and Friday evening, which is just before pay-day; so it would suit me very well to earn a little in the mornings. Besides, I knew that my assistant was a good man, and that he would see to anything that turned up.  'That would suit me very well,' said I. 'And the pay?'  'Is 4 pounds a week.'  'And the work?'  'Is purely nominal.'  'What do you call purely nominal?'  'Well, you have to be in the office, or at least in the building, the whole time. If you leave, you forfeit your whole position forever. The will is very clear upon that point. You don't comply with the conditions if you budge from the office during that time.'  'It's only four hours a day, and I should not think of leaving,' said I. 'No excuse will avail,' said Mr. Duncan Ross; 'neither sickness nor business nor anything else. There you must stay, or you lose your billet.'  'And the work?'  'Is to copy out the "Encyclopaedia Britannica." There is the first volume of it in that press. You must find your own ink, pens, and blotting-paper, but we provide this table and chair. Will you be ready to-morrow?'  'Certainly,' I answered.  'Then, good-bye, Mr. Jabez Wilson, and let me congratulate you once more on the important position which you have been fortunate enough to gain.' He bowed me out of the room and I went home with my assistant, hardly knowing what to say or do, I was so pleased at my own good fortune.  Well, I thought over the matter all day, and by evening I was in low spirits again; for I had quite persuaded myself that the whole affair must be some great hoax or fraud, though what its object might be I could not imagine. It seemed altogether past belief that anyone could make such a will, or that they would pay such a sum for doing anything so simple as copying out the 'Encyclopaedia Britannica.' Vincent Spaulding did what he could to cheer me up, but by bedtime I had reasoned myself out of the whole thing. However, in the morning I determined to have a look at it anyhow, so I bought a penny bottle of ink, and with a quill-pen, and seven sheets of foolscap paper, I started off for Pope's Court.  Well, to my surprise and delight, everything was as right as possible. The table was set out ready for me, and Mr. Duncan Ross was there to see that I got fairly to work. He started me off upon the letter A, and then he left me; but he would drop in from time to time to see that all was right with me. At two o'clock he bade me good-day, complimented me upon the amount that I had written, and locked the door of the office after me.  This went on day after day, Mr. Holmes, and on Saturday the manager came in and planked down four golden sovereigns for my week's work. It was the same next week, and the same the week after. Every morning I was there at ten, and every afternoon I left at two. By degrees Mr. Duncan Ross took to coming in only once of a morning, and then, after a time, he did not come in at all. Still, of course, I never dared to leave the room for an instant, for I was not sure when he might come, and the billet was such a good one, and suited me so well, that I would not risk the loss of it.  Eight weeks passed away like this, and I had written about Abbots and Archery and Armour and Architecture and Attica, and hoped with diligence that I might get on to the B's before very long. It cost me something in foolscap, and I had pretty nearly filled a shelf with my writings. And then suddenly the whole business came to an end."
+T72	Quotation 20242 20254	"To an end?"
+T73	Quotation 20255 20504	"Yes, sir. And no later than this morning. I went to my work as usual at ten o'clock, but the door was shut and locked, with a little square of cardboard hammered on to the middle of the panel with a tack. Here it is, and you can read for yourself."
+T74	Quotation 20884 20933	"I cannot see that there is anything very funny,"
+T75	Cue 20934 20939	cried
+T76	Quotation 20998 21066	"If you can do nothing better than laugh at me, I can go elsewhere."
+T77	Quotation 21067 21076	"No, no,"
+T78	Cue 21077 21082	cried
+T79	Entity 21083 21089	Holmes
+T80	Quotation 21153 21390	"I really wouldn't miss your case for the world. It is most refreshingly unusual. But there is, if you will excuse my saying so, something just a little funny about it. Pray what steps did you take when you found the card upon the door?"
+T81	Quotation 21391 22389	"I was staggered, sir. I did not know what to do. Then I called at the offices round, but none of them seemed to know anything about it. Finally, I went to the landlord, who is an accountant living on the ground-floor, and I asked him if he could tell me what had become of the Red-headed League. He said that he had never heard of any such body. Then I asked him who Mr. Duncan Ross was. He answered that the name was new to him.  'Well,' said I, 'the gentleman at No. 4.'  'What, the red-headed man?'  'Yes.'  'Oh,' said he, 'his name was William Morris. He was a solicitor and was using my room as a temporary convenience until his new premises were ready. He moved out yesterday.'  'Where could I find him?'  'Oh, at his new offices. He did tell me the address. Yes, 17 King Edward Street, near St. Paul's.'  I started off, Mr. Holmes, but when I got to that address it was a manufactory of artificial knee-caps, and no one in it had ever heard of either Mr. William Morris or Mr. Duncan Ross."
+T82	Quotation 22390 22417	"And what did you do then?"
+T83	Cue 22418 22423	asked
+T84	Entity 22424 22430	Holmes
+T85	Quotation 22432 22829	"I went home to Saxe-Coburg Square, and I took the advice of my assistant. But he could not help me in any way. He could only say that if I waited I should hear by post. But that was not quite good enough, Mr. Holmes. I did not wish to lose such a place without a struggle, so, as I had heard that you were good enough to give advice to poor folk who were in need of it, I came right away to you."
+T86	Quotation 22830 22856	"And you did very wisely,"
+T87	Cue 22857 22861	said
+T88	Entity 22862 22868	Holmes
+T89	Quotation 22870 23074	"Your case is an exceedingly remarkable one, and I shall be happy to look into it. From what you have told me I think that it is possible that graver issues hang from it than might at first sight appear."
+T90	Quotation 23075 23090	"Grave enough!"
+T91	Cue 23091 23095	said
+T92	Entity 23096 23112	Mr. Jabez Wilson
+T93	Quotation 23114 23151	"Why, I have lost four pound a week."
+T94	Quotation 23152 23193	"As far as you are personally concerned,"
+T95	Cue 23194 23202	remarked
+T96	Entity 23203 23209	Holmes
+T97	Quotation 23211 23502	"I do not see that you have any grievance against this extraordinary league. On the contrary, you are, as I understand, richer byDONEDET35630 pounds, to say nothing of the minute knowledge which you have gained on every subject which comes under the letter A. You have lost nothing by them."
+T98	Quotation 23503 23726	"No, sir. But I want to find out about them, and who they are, and what their object was in playing this prank-- if it was a prank-- upon me. It was a pretty expensive joke for them, for it cost them two and thirty pounds."
+T99	Quotation 23727 23937	"We shall endeavour to clear up these points for you. And, first, one or two questions, Mr. Wilson. This assistant of yours who first called your attention to the advertisement-- how long had he been with you?"
+T100	Quotation 23938 23959	"About a month then."
+T101	Quotation 23960 23978	"How did he come?"
+T102	Quotation 23979 24011	"In answer to an advertisement."
+T103	Quotation 24012 24040	"Was he the only applicant?"
+T104	Quotation 24041 24061	"No, I had a dozen."
+T105	Quotation 24062 24085	"Why did you pick him?"
+T106	Quotation 24086 24130	"Because he was handy and would come cheap."
+T107	Quotation 24131 24156	"At half-wages, in fact."
+T108	Quotation 24157 24163	"Yes."
+T109	Quotation 24164 24206	"What is he like, this Vincent Spaulding?"
+T110	Quotation 24207 24352	"Small, stout-built, very quick in his ways, no hair on his face, though he's not short of thirty. Has a white splash of acid upon his forehead."
+T111	Quotation 24408 24428	"I thought as much,"
+T112	Cue 24429 24433	said
+T113	Entity 24434 24436	he
+T114	Quotation 24438 24502	"Have you ever observed that his ears are pierced for earrings?"
+T115	Quotation 24503 24577	"Yes, sir. He told me that a gipsy had done it for him when he was a lad."
+T116	Quotation 24578 24584	"Hum!"
+T117	Cue 24585 24589	said
+T118	Entity 24590 24596	Holmes
+T119	Quotation 24628 24651	"He is still with you?"
+T120	Quotation 24652 24694	"Oh, yes, sir; I have only just left him."
+T121	Quotation 24695 24752	"And has your business been attended to in your absence?"
+T122	Quotation 24753 24827	"Nothing to complain of, sir. There's never very much to do of a morning."
+T123	Quotation 24828 25018	"That will do, Mr. Wilson. I shall be happy to give you an opinion upon the subject in the course of a day or two. To-day is Saturday, and I hope that by Monday we may come to a conclusion."
+T124	Quotation 25019 25034	"Well, Watson,"
+T125	Cue 25035 25039	said
+T126	Entity 25040 25046	Holmes
+T127	Quotation 25077 25106	"what do you make of it all?"
+T128	Quotation 25107 25130	"I make nothing of it,"
+T129	Entity 25131 25132	I
+T130	Cue 25133 25141	answered
+T131	Quotation 25151 25186	"It is a most mysterious business."
+T132	Quotation 25187 25199	"As a rule,"
+T133	Cue 25200 25204	said
+T134	Entity 25205 25211	Holmes
+T135	Quotation 25213 25450	"the more bizarre a thing is the less mysterious it proves to be. It is your commonplace, featureless crimes which are really puzzling, just as a commonplace face is the most difficult to identify. But I must be prompt over this matter."
+T136	Quotation 25451 25484	"What are you going to do, then?"
+T137	Entity 25485 25486	I
+T138	Cue 25487 25492	asked
+T139	Quotation 25494 25505	"To smoke,"
+T140	Entity 25506 25508	he
+T141	Cue 25509 25517	answered
+T142	Quotation 25519 25610	"It is quite a three pipe problem, and I beg that you won't speak to me for fifty minutes."
+T143	Quotation 26034 26090	"Sarasate plays at the St. James's Hall this afternoon,"
+T144	Entity 26091 26093	he
+T145	Cue 26094 26102	remarked
+T146	Quotation 26104 26179	"What do you think, Watson? Could your patients spare you for a few hours?"
+T147	Quotation 26180 26247	"I have nothing to do to-day. My practice is never very absorbing."
+T148	Quotation 26248 26540	"Then put on your hat and come. I am going through the City first, and we can have some lunch on the way. I observe that there is a good deal of German music on the programme, which is rather more to my taste than Italian or French. It is introspective, and I want to introspect. Come along!"
+T149	Quotation 27670 27682	"Thank you,"
+T150	Cue 27683 27687	said
+T151	Entity 27688 27694	Holmes
+T152	Quotation 27696 27764	"I only wished to ask you how you would go from here to the Strand."
+T153	Quotation 27765 27792	"Third right, fourth left,"
+T154	Cue 27793 27801	answered
+T155	Entity 27802 27815	the assistant
+T156	Quotation 27844 27865	"Smart fellow, that,"
+T157	Cue 27866 27874	observed
+T158	Entity 27875 27881	Holmes
+T159	Quotation 27901 28064	"He is, in my judgment, the fourth smartest man in London, and for daring I am not sure that he has not a claim to be third. I have known something of him before."
+T160	Quotation 28065 28077	"Evidently,"
+T161	Cue 28078 28082	said
+T162	Entity 28083 28084	I
+T163	Quotation 28086 28252	"Mr. Wilson's assistant counts for a good deal in this mystery of the Red-headed League. I am sure that you inquired your way merely in order that you might see him."
+T164	Quotation 28253 28263	"Not him."
+T165	Quotation 28264 28276	"What then?"
+T166	Quotation 28277 28305	"The knees of his trousers."
+T167	Quotation 28306 28329	"And what did you see?"
+T168	Quotation 28330 28355	"What I expected to see."
+T169	Quotation 28356 28388	"Why did you beat the pavement?"
+T170	Quotation 28389 28579	"My dear doctor, this is a time for observation, not for talk. We are spies in an enemy's country. We know something of Saxe-Coburg Square. Let us now explore the parts which lie behind it."
+T171	Quotation 29235 29248	"Let me see,"
+T172	Cue 29249 29253	said
+T173	Entity 29254 29260	Holmes
+T174	Quotation 29314 29911	"I should like just to remember the order of the houses here. It is a hobby of mine to have an exact knowledge of London. There is Mortimer's, the tobacconist, the little newspaper shop, the Coburg branch of the City and Suburban Bank, the Vegetarian Restaurant, and McFarlane's carriage-building depot. That carries us right on to the other block. And now, Doctor, we've done our work, so it's time we had some play. A sandwich and a cup of coffee, and then off to violin-land, where all is sweetness and delicacy and harmony, and there are no red-headed clients to vex us with their conundrums."
+T175	Quotation 31319 31359	"You want to go home, no doubt, Doctor,"
+T176	Entity 31360 31362	he
+T177	Cue 31363 31371	remarked
+T178	Quotation 31387 31414	"Yes, it would be as well."
+T179	Quotation 31415 31518	"And I have some business to do which will take some hours. This business at Coburg Square is serious."
+T180	Quotation 31519 31533	"Why serious?"
+T181	Quotation 31534 31732	"A considerable crime is in contemplation. I have every reason to believe that we shall be in time to stop it. But to-day being Saturday rather complicates matters. I shall want your help to-night."
+T182	Quotation 31733 31748	"At what time?"
+T183	Quotation 31749 31776	"Ten will be early enough."
+T184	Quotation 31777 31813	"I shall be at Baker Street at ten."
+T185	Quotation 31814 31928	"Very well. And, I say, Doctor, there may be some little danger, so kindly put your army revolver in your pocket."
+T186	Quotation 33498 33526	"Ha! Our party is complete,"
+T187	Cue 33527 33531	said
+T188	Entity 33532 33538	Holmes
+T189	Quotation 33617 33766	"Watson, I think you know Mr. Jones, of Scotland Yard? Let me introduce you to Mr. Merryweather, who is to be our companion in to-night's adventure."
+T190	Quotation 33767 33817	"We're hunting in couples again, Doctor, you see,"
+T191	Cue 33818 33822	said
+T192	Entity 33823 33828	Jones
+T193	Quotation 33855 33975	"Our friend here is a wonderful man for starting a chase. All he wants is an old dog to help him to do the running down.
+T194	Quotation 33977 34040	"I hope a wild goose may not prove to be the end of our chase,"
+T195	Cue 34041 34049	observed
+T196	Entity 34050 34066	Mr. Merryweather
+T197	Quotation 34077 34136	"You may place considerable confidence in Mr. Holmes, sir,"
+T198	Cue 34137 34141	said
+T200	Quotation 34168 34500	"He has his own little methods, which are, if he won't mind my saying so, just a little too theoretical and fantastic, but he has the makings of a detective in him. It is not too much to say that once or twice, as in that business of the Sholto murder and the Agra treasure, he has been more nearly correct than the official force."
+T201	Quotation 34501 34549	"Oh, if you say so, Mr. Jones, it is all right,"
+T202	Cue 34550 34554	said
+T203	Entity 34555 34567	the stranger
+T204	Quotation 34584 34714	"Still, I confess that I miss my rubber. It is the first Saturday night for seven-and-twenty years that I have not had my rubber."
+T205	Quotation 34715 34739	"I think you will find,"
+T206	Cue 34740 34744	said
+T207	Entity 34745 34760	Sherlock Holmes
+T208	Quotation 34762 35026	"that you will play for a higher stake to-night than you have ever done yet, and that the play will be more exciting. For you, Mr. Merryweather, the stake will beDONEDET53930,000 pounds; and for you, Jones, it will be the man upon whom you wish to lay your hands."
+T209	Quotation 35027 35662	"John Clay, the murderer, thief, smasher, and forger. He's a young man, Mr. Merryweather, but he is at the head of his profession, and I would rather have my bracelets on him than on any criminal in London. He's a remarkable man, is young John Clay. His grandfather was a royal duke, and he himself has been to Eton and Oxford. His brain is as cunning as his fingers, and though we meet signs of him at every turn, we never know where to find the man himself. He'll crack a crib in Scotland one week, and be raising money to build an orphanage in Cornwall the next. I've been on his track for years and have never set eyes on him yet."
+T210	Quotation 35663 35986	"I hope that I may have the pleasure of introducing you to-night. I've had one or two little turns also with Mr. John Clay, and I agree with you that he is at the head of his profession. It is past ten, however, and quite time that we started. If you two will take the first hansom, Watson and I will follow in the second."
+T211	Quotation 36231 36256	"We are close there now,"
+T212	Entity 36257 36266	my friend
+T213	Cue 36267 36275	remarked
+T214	Quotation 36277 36646	"This fellow Merryweather is a bank director, and personally interested in the matter. I thought it as well to have Jones with us also. He is not a bad fellow, though an absolute imbecile in his profession. He has one positive virtue. He is as brave as a bulldog and as tenacious as a lobster if he gets his claws upon anyone. Here we are, and they are waiting for us."
+T215	Quotation 37310 37351	"You are not very vulnerable from above,"
+T216	Entity 37352 37358	Holmes
+T217	Cue 37359 37367	remarked
+T218	Quotation 37415 37432	"Nor from below,"
+T219	Cue 37433 37437	said
+T220	Entity 37438 37454	Mr. Merryweather
+T221	Quotation 37513 37552	"Why, dear me, it sounds quite hollow!"
+T222	Entity 37553 37555	he
+T223	Cue 37556 37564	remarked
+T224	Quotation 37590 37640	"I must really ask you to be a little more quiet!"
+T225	Cue 37641 37645	said
+T226	Entity 37646 37652	Holmes
+T227	Quotation 37663 37833	"You have already imperilled the whole success of our expedition. Might I beg that you would have the goodness to sit down upon one of those boxes, and not to interfere?"
+T228	Quotation 38192 38229	"We have at least an hour before us,"
+T229	Quotation 38243 38770	"for they can hardly take any steps until the good pawnbroker is safely in bed. Then they will not lose a minute, for the sooner they do their work the longer time they will have for their escape. We are at present, Doctor-- as no doubt you have divined-- in the cellar of the City branch of one of the principal London banks. Mr. Merryweather is the chairman of directors, and he will explain to you that there are reasons why the more daring criminals of London should take a considerable interest in this cellar at present."
+T230	Cue 38233 38241	remarked
+T231	Quotation 38771 38795	"It is our French gold,"
+T232	Cue 38796 38805	whispered
+T233	Entity 38806 38818	the director
+T234	Quotation 38820 38889	"We have had several warnings that an attempt might be made upon it."
+T235	Quotation 38890 38909	"Your French gold?"
+T236	Quotation 38910 39404	"Yes. We had occasion some months ago to strengthen our resources and borrowed for that purpose 30,000 napoleons from the Bank of France. It has become known that we have never had occasion to unpack the money, and that it is still lying in our cellar. The crate upon which I sit contains 2,000 napoleons packed between layers of lead foil. Our reserve of bullion is much larger at present than is usually kept in a single branch office, and the directors have had misgivings upon the subject."
+T237	Quotation 39405 39438	"Which were very well justified,"
+T238	Cue 39439 39447	observed
+T239	Entity 39448 39454	Holmes
+T240	Quotation 39456 39650	"And now it is time that we arranged our little plans. I expect that within an hour matters will come to a head. In the meantime Mr. Merryweather, we must put the screen over that dark lantern."
+T241	Quotation 39651 39673	"And sit in the dark?"
+T242	Quotation 39674 40292	"I am afraid so. I had brought a pack of cards in my pocket, and I thought that, as we were a partie carrée, you might have your rubber after all. But I see that the enemy's preparations have gone so far that we cannot risk the presence of a light. And, first of all, we must choose our positions. These are daring men, and though we shall take them at a disadvantage, they may do us some harm unless we are careful. I shall stand behind this crate, and do you conceal yourselves behind those. Then, when I flash a light upon them, close in swiftly. If they fire, Watson, have no compunction about shooting them down."
+T243	Quotation 40808 40836	"They have but one retreat,"
+T244	Cue 40837 40846	whispered
+T245	Entity 40847 40853	Holmes
+T246	Quotation 40855 40963	"That is back through the house into Saxe-Coburg Square. I hope that you have done what I asked you, Jones?"
+T247	Quotation 40964 41029	"I have an inspector and two officers waiting at the front door."
+T248	Quotation 41030 41103	"Then we have stopped all the holes. And now we must be silent and wait."
+T249	Quotation 42866 42883	"It's all clear,"
+T250	Entity 42884 42886	he
+T251	Cue 42887 42896	whispered
+T252	Quotation 42898 42989	"Have you the chisel and the bags? Great Scott! Jump, Archie, jump, and I'll swing for it!"
+T253	Quotation 43312 43337	"It's no use, John Clay,"
+T254	Cue 43338 43342	said
+T255	Entity 43343 43349	Holmes
+T256	Quotation 43359 43387	"You have no chance at all."
+T257	Quotation 43388 43399	"So I see,"
+T258	Entity 43400 43409	the other
+T259	Cue 43410 43418	answered
+T260	Quotation 43445 43522	"I fancy that my pal is all right, though I see you have got his coat-tails."
+T261	Quotation 43523 43573	"There are three men waiting for him at the door,"
+T262	Cue 43574 43578	said
+T263	Entity 43579 43585	Holmes
+T264	Quotation 43587 43672	"Oh, indeed! You seem to have done the thing very completely. I must compliment you."
+T265	Quotation 43673 43685	"And I you,"
+T266	Entity 43686 43692	Holmes
+T267	Cue 43693 43701	answered
+T268	Quotation 43703 43753	"Your red-headed idea was very new and effective."
+T269	Quotation 43754 43792	"You'll see your pal again presently,"
+T270	Cue 43793 43797	said
+T271	Entity 43798 43803	Jones
+T272	Quotation 43805 43892	"He's quicker at climbing down holes than I am. Just hold out while I fix the derbies."
+T273	Quotation 43893 43951	"I beg that you will not touch me with your filthy hands,"
+T274	Cue 43952 43960	remarked
+T275	Entity 43961 43973	our prisoner
+T276	Quotation 44018 44156	"You may not be aware that I have royal blood in my veins. Have the goodness, also, when you address me always to say 'sir' and 'please.'"
+T277	Quotation 44157 44169	"All right,"
+T278	Cue 44170 44174	said
+T279	Entity 44175 44180	Jones
+T280	Quotation 44209 44324	"Well, would you please, sir, march upstairs, where we can get a cab to carry your Highness to the police-station?"
+T281	Quotation 44325 44342	"That is better,"
+T282	Cue 44343 44347	said
+T283	Entity 44348 44357	John Clay
+T284	Quotation 44466 44487	"Really, Mr. Holmes,"
+T285	Cue 44488 44492	said
+T286	Entity 44493 44509	Mr. Merryweather
+T287	Quotation 44547 44779	"I do not know how the bank can thank you or repay you. There is no doubt that you have detected and defeated in the most complete manner one of the most determined attempts at bank robbery that have ever come within my experience."
+T288	Quotation 44780 44857	"I have had one or two little scores of my own to settle with Mr. John Clay,"
+T289	Cue 44858 44862	said
+T290	Entity 44863 44869	Holmes
+T291	Quotation 44871 45128	"I have been at some small expense over this matter, which I shall expect the bank to refund, but beyond that I am amply repaid by having had an experience which is in many ways unique, and by hearing the very remarkable narrative of the Red-headed League."
+T292	Quotation 45129 45147	"You see, Watson,"
+T293	Entity 45148 45150	he
+T294	Cue 45151 45160	explained
+T295	Quotation 45254 46178	"it was perfectly obvious from the first that the only possible object of this rather fantastic business of the advertisement of the League, and the copying of the 'Encyclopaedia,' must be to get this not over-bright pawnbroker out of the way for a number of hours every day. It was a curious way of managing it, but, really, it would be difficult to suggest a better. The method was no doubt suggested to Clay's ingenious mind by the colour of his accomplice's hair.DONEDET7414 pounds a week was a lure which must draw him, and what was it to them, who were playing for thousands? They put in the advertisement, one rogue has the temporary office, the other rogue incites the man to apply for it, and together they manage to secure his absence every morning in the week. From the time that I heard of the assistant having come for half wages, it was obvious to me that he had some strong motive for securing the situation."
+T296	Quotation 46179 46225	"But how could you guess what the motive was?"
+T297	Quotation 46226 47959	"Had there been women in the house, I should have suspected a mere vulgar intrigue. That, however, was out of the question. The man's business was a small one, and there was nothing in his house which could account for such elaborate preparations, and such an expenditure as they were at. It must, then, be something out of the house. What could it be? I thought of the assistant's fondness for photography, and his trick of vanishing into the cellar. The cellar! There was the end of this tangled clue. Then I made inquiries as to this mysterious assistant and found that I had to deal with one of the coolest and most daring criminals in London. He was doing something in the cellar-- something which took many hours a day for months on end. What could it be, once more? I could think of nothing save that he was running a tunnel to some other building.  So far I had got when we went to visit the scene of action. I surprised you by beating upon the pavement with my stick. I was ascertaining whether the cellar stretched out in front or behind. It was not in front. Then I rang the bell, and, as I hoped, the assistant answered it. We have had some skirmishes, but we had never set eyes upon each other before. I hardly looked at his face. His knees were what I wished to see. You must yourself have remarked how worn, wrinkled, and stained they were. They spoke of those hours of burrowing. The only remaining point was what they were burrowing for. I walked round the corner, saw the City and Suburban Bank abutted on our friend's premises, and felt that I had solved my problem. When you drove home after the concert I called upon Scotland Yard and upon the chairman of the bank directors, with the result that you have seen."
+T298	Quotation 47960 48029	"And how could you tell that they would make their attempt to-night?"
+T299	Entity 48030 48031	I
+T300	Cue 48032 48037	asked
+T301	Quotation 48039 48484	"Well, when they closed their League offices that was a sign that they cared no longer about Mr. Jabez Wilson's presence-- in other words, that they had completed their tunnel. But it was essential that they should use it soon, as it might be discovered, or the bullion might be removed. Saturday would suit them better than any other day, as it would give them two days for their escape. For all these reasons I expected them to come to-night."
+T302	Quotation 48485 48519	"You reasoned it out beautifully,"
+T303	Entity 48520 48521	I
+T304	Cue 48522 48531	exclaimed
+T305	Quotation 48557 48612	"It is so long a chain, and yet every link rings true."
+T306	Quotation 48613 48638	"It saved me from ennui,"
+T307	Entity 48639 48641	he
+T308	Cue 48642 48650	answered
+T309	Quotation 48661 48828	"Alas! I already feel it closing in upon me. My life is spent in one long effort to escape from the commonplaces of existence. These little problems help me to do so."
+T310	Quotation 48829 48868	"And you are a benefactor of the race,"
+T311	Cue 48869 48873	said
+T312	Entity 48874 48875	I
+T313	Quotation 48904 48957	"Well, perhaps, after all, it is of some little use,"
+T314	Entity 48958 48960	he
+T315	Cue 48961 48969	remarked
+T316	Quotation 48971 49058	"'L'homme c'est rien-- l'oeuvre c'est tout,' as Gustave Flaubert wrote to George Sand."
+R1	Speaker Arg1:T2 Arg2:T1	
+R2	Cueing Arg1:T3 Arg2:T1	
+T317	Entity 227 228	I
+R3	Addressee Arg1:T317 Arg2:T1	
+R4	Addressee Arg1:T317 Arg2:T7	
+R5	Speaker Arg1:T317 Arg2:T6	
+R6	Addressee Arg1:T317 Arg2:T5	
+R7	Speaker Arg1:T317 Arg2:T4	
+R8	Speaker Arg1:T2 Arg2:T7	
+R9	Addressee Arg1:T2 Arg2:T6	
+R10	Speaker Arg1:T2 Arg2:T5	
+R11	Addressee Arg1:T2 Arg2:T4	
+R12	Cueing Arg1:T9 Arg2:T8	
+R13	Speaker Arg1:T10 Arg2:T8	
+R14	Cueing Arg1:T9 Arg2:T11	
+R15	Speaker Arg1:T10 Arg2:T11	
+R16	Addressee Arg1:T317 Arg2:T11	
+R17	Addressee Arg1:T317 Arg2:T8	
+R18	Cueing Arg1:T14 Arg2:T12	
+R19	Speaker Arg1:T13 Arg2:T12	
+R20	Cueing Arg1:T14 Arg2:T15	
+R21	Speaker Arg1:T13 Arg2:T15	
+R22	Addressee Arg1:T10 Arg2:T12	
+R23	Addressee Arg1:T10 Arg2:T15	
+R24	Addressee Arg1:T13 Arg2:T16	
+R25	Speaker Arg1:T13 Arg2:T17	
+R26	Speaker Arg1:T10 Arg2:T16	
+R27	Addressee Arg1:T13 Arg2:T17	
+T318	Entity 4209 4225	Sherlock Holmes'
+R28	Speaker Arg1:T318 Arg2:T18	
+T319	Entity 4308 4310	my
+R29	Addressee Arg1:T319 Arg2:T18	
+R30	Speaker Arg1:T20 Arg2:T19	
+R31	Cueing Arg1:T21 Arg2:T19	
+T320	Entity 4661 4673	my companion
+R32	Addressee Arg1:T320 Arg2:T19	
+R33	Cueing Arg1:T21 Arg2:T22	
+R34	Speaker Arg1:T20 Arg2:T22	
+R35	Speaker Arg1:T320 Arg2:T29	
+R36	Addressee Arg1:T20 Arg2:T29	
+R37	Addressee Arg1:T320 Arg2:T28	
+R38	Speaker Arg1:T320 Arg2:T27	
+R39	Addressee Arg1:T320 Arg2:T26	
+R40	Speaker Arg1:T320 Arg2:T25	
+R41	Addressee Arg1:T320 Arg2:T24	
+R42	Speaker Arg1:T320 Arg2:T23	
+R43	Addressee Arg1:T320 Arg2:T22	
+R44	Speaker Arg1:T20 Arg2:T28	
+R45	Addressee Arg1:T20 Arg2:T27	
+R46	Speaker Arg1:T20 Arg2:T26	
+R47	Addressee Arg1:T20 Arg2:T25	
+R48	Speaker Arg1:T20 Arg2:T24	
+R49	Addressee Arg1:T20 Arg2:T23	
+R50	Cueing Arg1:T31 Arg2:T30	
+R51	Cueing Arg1:T31 Arg2:T33	
+R52	Speaker Arg1:T32 Arg2:T30	
+R53	Speaker Arg1:T32 Arg2:T33	
+R54	Addressee Arg1:T320 Arg2:T33	
+R55	Addressee Arg1:T320 Arg2:T30	
+R56	Cueing Arg1:T35 Arg2:T34	
+R57	Cueing Arg1:T35 Arg2:T37	
+R58	Speaker Arg1:T36 Arg2:T34	
+R59	Speaker Arg1:T36 Arg2:T37	
+R60	Speaker Arg1:T39 Arg2:T38	
+R61	Cueing Arg1:T40 Arg2:T38	
+R62	Addressee Arg1:T32 Arg2:T34	
+R63	Addressee Arg1:T32 Arg2:T37	
+R64	Speaker Arg1:T39 Arg2:T41	
+R65	Cueing Arg1:T40 Arg2:T41	
+R66	Addressee Arg1:T36 Arg2:T41	
+R67	Addressee Arg1:T36 Arg2:T38	
+R68	Speaker Arg1:T43 Arg2:T42	
+R69	Cueing Arg1:T45 Arg2:T42	
+R70	Addressee Arg1:T44 Arg2:T42	
+R71	Cueing Arg1:T47 Arg2:T46	
+R72	Speaker Arg1:T48 Arg2:T46	
+R73	Addressee Arg1:T43 Arg2:T46	
+R74	Addressee Arg1:T54 Arg2:T49	
+R75	Speaker Arg1:T54 Arg2:T50	
+R76	Addressee Arg1:T54 Arg2:T51	
+R77	Cueing Arg1:T53 Arg2:T52	
+R78	Speaker Arg1:T54 Arg2:T52	
+R79	Cueing Arg1:T53 Arg2:T55	
+R80	Speaker Arg1:T54 Arg2:T55	
+R81	Cueing Arg1:T47 Arg2:T49	
+R82	Speaker Arg1:T48 Arg2:T49	
+R83	Addressee Arg1:T48 Arg2:T50	
+R84	Speaker Arg1:T48 Arg2:T51	
+R85	Addressee Arg1:T48 Arg2:T52	
+R86	Addressee Arg1:T48 Arg2:T55	
+R87	Cueing Arg1:T57 Arg2:T56	
+R88	Speaker Arg1:T58 Arg2:T56	
+R89	Addressee Arg1:T54 Arg2:T56	
+R90	Addressee Arg1:T54 Arg2:T60	
+R91	Speaker Arg1:T58 Arg2:T59	
+R92	Addressee Arg1:T54 Arg2:T59	
+R93	Speaker Arg1:T58 Arg2:T60	
+R94	Addressee Arg1:T58 Arg2:T66	
+R95	Speaker Arg1:T58 Arg2:T65	
+R96	Addressee Arg1:T58 Arg2:T64	
+R97	Addressee Arg1:T58 Arg2:T61	
+R98	Cueing Arg1:T62 Arg2:T61	
+R99	Speaker Arg1:T63 Arg2:T61	
+R100	Cueing Arg1:T62 Arg2:T64	
+R101	Speaker Arg1:T63 Arg2:T64	
+R102	Addressee Arg1:T63 Arg2:T65	
+R103	Speaker Arg1:T63 Arg2:T66	
+R104	Addressee Arg1:T63 Arg2:T67	
+R105	Cueing Arg1:T68 Arg2:T67	
+R106	Cueing Arg1:T68 Arg2:T70	
+R107	Speaker Arg1:T69 Arg2:T67	
+R108	Speaker Arg1:T69 Arg2:T70	
+R109	Speaker Arg1:T63 Arg2:T73	
+R110	Addressee Arg1:T69 Arg2:T72	
+R111	Speaker Arg1:T63 Arg2:T71	
+R112	Addressee Arg1:T63 Arg2:T70	
+R113	Addressee Arg1:T69 Arg2:T73	
+R114	Speaker Arg1:T69 Arg2:T72	
+R115	Addressee Arg1:T69 Arg2:T71	
+R116	Cueing Arg1:T75 Arg2:T74	
+T321	Entity 20940 20950	our client
+R117	Speaker Arg1:T321 Arg2:T74	
+R118	Cueing Arg1:T75 Arg2:T76	
+R119	Speaker Arg1:T321 Arg2:T76	
+T322	Entity 20663 20684	Sherlock Holmes and I
+R120	Addressee Arg1:T322 Arg2:T74	
+R121	Addressee Arg1:T322 Arg2:T76	
+R122	Addressee Arg1:T321 Arg2:T89	
+R123	Addressee Arg1:T321 Arg2:T86	
+R124	Speaker Arg1:T321 Arg2:T85	
+R125	Addressee Arg1:T321 Arg2:T82	
+R126	Speaker Arg1:T321 Arg2:T81	
+R127	Addressee Arg1:T321 Arg2:T80	
+R128	Addressee Arg1:T321 Arg2:T77	
+R129	Cueing Arg1:T78 Arg2:T77	
+R130	Cueing Arg1:T78 Arg2:T80	
+R131	Speaker Arg1:T79 Arg2:T77	
+R132	Speaker Arg1:T79 Arg2:T80	
+R133	Addressee Arg1:T79 Arg2:T81	
+R134	Cueing Arg1:T83 Arg2:T82	
+R135	Speaker Arg1:T84 Arg2:T82	
+R136	Addressee Arg1:T84 Arg2:T85	
+R137	Cueing Arg1:T87 Arg2:T86	
+R138	Cueing Arg1:T87 Arg2:T89	
+R139	Speaker Arg1:T88 Arg2:T86	
+R140	Speaker Arg1:T88 Arg2:T89	
+R141	Cueing Arg1:T91 Arg2:T90	
+R142	Cueing Arg1:T91 Arg2:T93	
+R143	Addressee Arg1:T88 Arg2:T93	
+R144	Addressee Arg1:T88 Arg2:T90	
+R145	Speaker Arg1:T92 Arg2:T90	
+R146	Speaker Arg1:T92 Arg2:T93	
+R147	Addressee Arg1:T96 Arg2:T110	
+R148	Cueing Arg1:T95 Arg2:T94	
+R149	Cueing Arg1:T95 Arg2:T97	
+R150	Speaker Arg1:T96 Arg2:T97	
+R151	Speaker Arg1:T96 Arg2:T94	
+R152	Addressee Arg1:T92 Arg2:T97	
+R153	Addressee Arg1:T92 Arg2:T94	
+R154	Addressee Arg1:T92 Arg2:T123	
+R155	Speaker Arg1:T92 Arg2:T122	
+R156	Cueing Arg1:T117 Arg2:T116	
+R157	Cueing Arg1:T117 Arg2:T119	
+R158	Speaker Arg1:T118 Arg2:T116	
+R159	Speaker Arg1:T118 Arg2:T119	
+R160	Cueing Arg1:T112 Arg2:T111	
+R161	Cueing Arg1:T112 Arg2:T114	
+R162	Speaker Arg1:T113 Arg2:T111	
+R163	Speaker Arg1:T113 Arg2:T114	
+R164	Addressee Arg1:T92 Arg2:T121	
+R165	Speaker Arg1:T92 Arg2:T120	
+R166	Addressee Arg1:T92 Arg2:T119	
+R167	Addressee Arg1:T92 Arg2:T116	
+R168	Speaker Arg1:T118 Arg2:T123	
+R169	Addressee Arg1:T118 Arg2:T122	
+R170	Speaker Arg1:T118 Arg2:T121	
+R171	Addressee Arg1:T118 Arg2:T120	
+R172	Speaker Arg1:T92 Arg2:T115	
+R173	Addressee Arg1:T92 Arg2:T114	
+R174	Addressee Arg1:T96 Arg2:T111	
+R175	Addressee Arg1:T113 Arg2:T115	
+R176	Speaker Arg1:T92 Arg2:T110	
+R177	Addressee Arg1:T92 Arg2:T109	
+R178	Speaker Arg1:T92 Arg2:T108	
+R179	Addressee Arg1:T92 Arg2:T107	
+R180	Speaker Arg1:T92 Arg2:T106	
+R181	Addressee Arg1:T92 Arg2:T105	
+R182	Speaker Arg1:T92 Arg2:T104	
+R183	Addressee Arg1:T92 Arg2:T103	
+R184	Speaker Arg1:T92 Arg2:T102	
+R185	Addressee Arg1:T92 Arg2:T101	
+R186	Speaker Arg1:T92 Arg2:T100	
+R187	Addressee Arg1:T92 Arg2:T99	
+R188	Speaker Arg1:T92 Arg2:T98	
+R189	Speaker Arg1:T96 Arg2:T109	
+R190	Addressee Arg1:T96 Arg2:T108	
+R191	Speaker Arg1:T96 Arg2:T107	
+R192	Addressee Arg1:T96 Arg2:T106	
+R193	Speaker Arg1:T96 Arg2:T105	
+R194	Addressee Arg1:T96 Arg2:T104	
+R195	Speaker Arg1:T96 Arg2:T103	
+R196	Addressee Arg1:T96 Arg2:T102	
+R197	Speaker Arg1:T96 Arg2:T101	
+R198	Addressee Arg1:T96 Arg2:T100	
+R199	Speaker Arg1:T96 Arg2:T99	
+R200	Addressee Arg1:T96 Arg2:T98	
+R201	Cueing Arg1:T125 Arg2:T124	
+R202	Cueing Arg1:T125 Arg2:T127	
+R203	Speaker Arg1:T126 Arg2:T124	
+R204	Speaker Arg1:T126 Arg2:T127	
+R205	Addressee Arg1:T129 Arg2:T124	
+R206	Addressee Arg1:T129 Arg2:T127	
+R207	Cueing Arg1:T130 Arg2:T128	
+R208	Cueing Arg1:T130 Arg2:T131	
+R209	Speaker Arg1:T129 Arg2:T128	
+R210	Speaker Arg1:T129 Arg2:T131	
+R211	Addressee Arg1:T126 Arg2:T131	
+R212	Addressee Arg1:T126 Arg2:T128	
+R213	Cueing Arg1:T133 Arg2:T132	
+R214	Cueing Arg1:T133 Arg2:T135	
+R215	Speaker Arg1:T134 Arg2:T132	
+R216	Speaker Arg1:T134 Arg2:T135	
+R217	Addressee Arg1:T129 Arg2:T132	
+R218	Addressee Arg1:T129 Arg2:T135	
+R219	Cueing Arg1:T138 Arg2:T136	
+R220	Speaker Arg1:T137 Arg2:T136	
+R221	Addressee Arg1:T134 Arg2:T136	
+R222	Cueing Arg1:T141 Arg2:T139	
+R223	Speaker Arg1:T140 Arg2:T139	
+R224	Cueing Arg1:T141 Arg2:T142	
+R225	Speaker Arg1:T140 Arg2:T142	
+T323	Entity 25810 25811	I
+R226	Cueing Arg1:T145 Arg2:T143	
+R227	Speaker Arg1:T144 Arg2:T143	
+R228	Addressee Arg1:T137 Arg2:T142	
+R229	Addressee Arg1:T137 Arg2:T139	
+R230	Addressee Arg1:T323 Arg2:T143	
+R231	Speaker Arg1:T144 Arg2:T146	
+R232	Cueing Arg1:T145 Arg2:T146	
+R233	Addressee Arg1:T323 Arg2:T146	
+R234	Speaker Arg1:T144 Arg2:T148	
+R235	Addressee Arg1:T144 Arg2:T147	
+R236	Addressee Arg1:T323 Arg2:T148	
+R237	Speaker Arg1:T323 Arg2:T147	
+R238	Cueing Arg1:T150 Arg2:T149	
+R239	Cueing Arg1:T150 Arg2:T152	
+T324	Entity 27599 27642	a bright-looking, clean-shaven young fellow
+T325	Cue 27648 27653	asked
+T326	Entity 27654 27657	him
+T327	Quotation 27658 27668	to step in
+R240	Cueing Arg1:T325 Arg2:T327	
+R241	Addressee Arg1:T326 Arg2:T327	
+R242	Speaker Arg1:T324 Arg2:T327	
+R243	Speaker Arg1:T151 Arg2:T149	
+R244	Speaker Arg1:T151 Arg2:T152	
+R245	Addressee Arg1:T324 Arg2:T149	
+R246	Addressee Arg1:T324 Arg2:T152	
+R247	Cueing Arg1:T154 Arg2:T153	
+R248	Speaker Arg1:T155 Arg2:T153	
+R249	Addressee Arg1:T151 Arg2:T153	
+R250	Cueing Arg1:T157 Arg2:T156	
+R251	Speaker Arg1:T158 Arg2:T156	
+R252	Addressee Arg1:T155 Arg2:T156	
+R253	Addressee Arg1:T155 Arg2:T159	
+R254	Cueing Arg1:T157 Arg2:T159	
+R255	Speaker Arg1:T158 Arg2:T159	
+R256	Addressee Arg1:T158 Arg2:T160	
+R257	Addressee Arg1:T158 Arg2:T163	
+R258	Cueing Arg1:T161 Arg2:T160	
+R259	Cueing Arg1:T161 Arg2:T163	
+R260	Speaker Arg1:T162 Arg2:T160	
+R261	Speaker Arg1:T162 Arg2:T163	
+R262	Speaker Arg1:T158 Arg2:T170	
+R263	Addressee Arg1:T158 Arg2:T169	
+R264	Speaker Arg1:T158 Arg2:T168	
+R265	Addressee Arg1:T158 Arg2:T167	
+R266	Speaker Arg1:T158 Arg2:T166	
+R267	Addressee Arg1:T158 Arg2:T165	
+R268	Speaker Arg1:T158 Arg2:T164	
+R269	Addressee Arg1:T162 Arg2:T170	
+R270	Speaker Arg1:T162 Arg2:T169	
+R271	Addressee Arg1:T162 Arg2:T168	
+R272	Speaker Arg1:T162 Arg2:T167	
+R273	Addressee Arg1:T162 Arg2:T166	
+R274	Speaker Arg1:T162 Arg2:T165	
+R275	Addressee Arg1:T162 Arg2:T164	
+R276	Cueing Arg1:T172 Arg2:T171	
+R277	Speaker Arg1:T173 Arg2:T171	
+R278	Cueing Arg1:T172 Arg2:T174	
+R279	Speaker Arg1:T173 Arg2:T174	
+R280	Addressee Arg1:T162 Arg2:T174	
+R281	Addressee Arg1:T162 Arg2:T171	
+R282	Cueing Arg1:T177 Arg2:T175	
+T328	Entity 31229 31230	I
+R283	Speaker Arg1:T176 Arg2:T175	
+R284	Addressee Arg1:T328 Arg2:T175	
+R285	Addressee Arg1:T328 Arg2:T185	
+R286	Speaker Arg1:T328 Arg2:T184	
+R287	Addressee Arg1:T328 Arg2:T183	
+R288	Speaker Arg1:T328 Arg2:T182	
+R289	Addressee Arg1:T328 Arg2:T181	
+R290	Speaker Arg1:T328 Arg2:T180	
+R291	Addressee Arg1:T328 Arg2:T179	
+R292	Speaker Arg1:T328 Arg2:T178	
+R293	Speaker Arg1:T176 Arg2:T185	
+R294	Addressee Arg1:T176 Arg2:T184	
+R295	Speaker Arg1:T176 Arg2:T183	
+R296	Addressee Arg1:T176 Arg2:T182	
+R297	Speaker Arg1:T176 Arg2:T181	
+R298	Addressee Arg1:T176 Arg2:T180	
+R299	Speaker Arg1:T176 Arg2:T179	
+R300	Addressee Arg1:T176 Arg2:T178	
+R301	Cueing Arg1:T187 Arg2:T186	
+R302	Speaker Arg1:T188 Arg2:T186	
+R303	Cueing Arg1:T187 Arg2:T189	
+R304	Speaker Arg1:T188 Arg2:T189	
+T329	Entity 33264 33265	I
+T330	Entity 33346 33357	Peter Jones
+R305	Addressee Arg1:T330 Arg2:T189	
+R306	Addressee Arg1:T330 Arg2:T186	
+R307	Addressee Arg1:T329 Arg2:T189	
+R308	Addressee Arg1:T329 Arg2:T186	
+R309	Cueing Arg1:T191 Arg2:T190	
+R310	Speaker Arg1:T192 Arg2:T190	
+R311	Addressee Arg1:T188 Arg2:T190	
+T199	Entity 34142 34158	the police agent
+R312	Cueing Arg1:T191 Arg2:T193	
+R313	Speaker Arg1:T192 Arg2:T193	
+R314	Addressee Arg1:T188 Arg2:T193	
+R315	Cueing Arg1:T195 Arg2:T194	
+R316	Speaker Arg1:T196 Arg2:T194	
+R317	Addressee Arg1:T192 Arg2:T194	
+R318	Cueing Arg1:T198 Arg2:T197	
+R319	Speaker Arg1:T199 Arg2:T197	
+R320	Addressee Arg1:T196 Arg2:T197	
+R321	Addressee Arg1:T196 Arg2:T200	
+R322	Cueing Arg1:T198 Arg2:T200	
+R323	Speaker Arg1:T199 Arg2:T200	
+R324	Cueing Arg1:T202 Arg2:T201	
+R325	Speaker Arg1:T203 Arg2:T201	
+R326	Cueing Arg1:T202 Arg2:T204	
+R327	Speaker Arg1:T203 Arg2:T204	
+R328	Cueing Arg1:T206 Arg2:T205	
+R329	Speaker Arg1:T207 Arg2:T205	
+R330	Addressee Arg1:T207 Arg2:T201	
+R331	Addressee Arg1:T207 Arg2:T204	
+R332	Cueing Arg1:T206 Arg2:T208	
+R333	Speaker Arg1:T207 Arg2:T208	
+R334	Addressee Arg1:T196 Arg2:T208	
+R335	Addressee Arg1:T192 Arg2:T208	
+R336	Addressee Arg1:T196 Arg2:T209	
+R337	Speaker Arg1:T192 Arg2:T209	
+R338	Addressee Arg1:T330 Arg2:T210	
+R339	Speaker Arg1:T196 Arg2:T210	
+R340	Speaker Arg1:T212 Arg2:T211	
+R341	Cueing Arg1:T213 Arg2:T211	
+R342	Speaker Arg1:T212 Arg2:T214	
+R343	Cueing Arg1:T213 Arg2:T214	
+T331	Entity 36131 36133	We
+R344	Addressee Arg1:T331 Arg2:T211	
+R345	Cueing Arg1:T217 Arg2:T215	
+T332	Entity 37084 37100	Mr. Merryweather
+R346	Speaker Arg1:T216 Arg2:T215	
+R347	Addressee Arg1:T332 Arg2:T215	
+R348	Addressee Arg1:T216 Arg2:T218	
+R349	Addressee Arg1:T216 Arg2:T221	
+R350	Addressee Arg1:T222 Arg2:T227	
+R351	Addressee Arg1:T222 Arg2:T224	
+R352	Cueing Arg1:T219 Arg2:T218	
+R353	Speaker Arg1:T220 Arg2:T218	
+R354	Speaker Arg1:T222 Arg2:T221	
+R355	Cueing Arg1:T223 Arg2:T221	
+R356	Cueing Arg1:T225 Arg2:T224	
+R357	Cueing Arg1:T225 Arg2:T227	
+R358	Speaker Arg1:T226 Arg2:T224	
+R359	Speaker Arg1:T226 Arg2:T227	
+T333	Entity 38230 38232	he
+T334	Entity 37845 37861	Mr. Merryweather
+R360	Addressee Arg1:T334 Arg2:T229	
+R361	Addressee Arg1:T334 Arg2:T228	
+R362	Cueing Arg1:T230 Arg2:T228	
+R363	Speaker Arg1:T333 Arg2:T228	
+R364	Speaker Arg1:T333 Arg2:T229	
+R365	Cueing Arg1:T230 Arg2:T229	
+R366	Cueing Arg1:T232 Arg2:T231	
+R367	Speaker Arg1:T233 Arg2:T231	
+R368	Cueing Arg1:T232 Arg2:T234	
+R369	Speaker Arg1:T233 Arg2:T234	
+R370	Addressee Arg1:T333 Arg2:T234	
+R371	Addressee Arg1:T333 Arg2:T231	
+R372	Addressee Arg1:T233 Arg2:T242	
+R373	Speaker Arg1:T233 Arg2:T241	
+R374	Addressee Arg1:T233 Arg2:T240	
+R375	Addressee Arg1:T233 Arg2:T237	
+R376	Speaker Arg1:T233 Arg2:T236	
+R377	Addressee Arg1:T233 Arg2:T235	
+R378	Addressee Arg1:T333 Arg2:T236	
+R379	Speaker Arg1:T333 Arg2:T235	
+R380	Cueing Arg1:T238 Arg2:T237	
+R381	Cueing Arg1:T238 Arg2:T240	
+R382	Speaker Arg1:T239 Arg2:T242	
+R383	Addressee Arg1:T239 Arg2:T241	
+R384	Speaker Arg1:T239 Arg2:T240	
+R385	Speaker Arg1:T239 Arg2:T237	
+R386	Cueing Arg1:T244 Arg2:T243	
+R387	Cueing Arg1:T244 Arg2:T246	
+R388	Speaker Arg1:T245 Arg2:T243	
+R389	Speaker Arg1:T245 Arg2:T246	
+T335	Entity 41577 41582	Jones
+R390	Addressee Arg1:T335 Arg2:T243	
+R391	Addressee Arg1:T335 Arg2:T246	
+R392	Speaker Arg1:T335 Arg2:T247	
+R393	Addressee Arg1:T335 Arg2:T248	
+R394	Addressee Arg1:T245 Arg2:T247	
+R395	Speaker Arg1:T245 Arg2:T248	
+R396	Speaker Arg1:T250 Arg2:T249	
+R397	Speaker Arg1:T250 Arg2:T252	
+R398	Cueing Arg1:T251 Arg2:T249	
+R399	Cueing Arg1:T251 Arg2:T252	
+R400	Cueing Arg1:T254 Arg2:T253	
+R401	Speaker Arg1:T255 Arg2:T253	
+T336	Entity 42990 43005	Sherlock Holmes
+R402	Addressee Arg1:T336 Arg2:T249	
+R403	Addressee Arg1:T336 Arg2:T252	
+R404	Addressee Arg1:T250 Arg2:T253	
+R405	Addressee Arg1:T250 Arg2:T256	
+R406	Cueing Arg1:T254 Arg2:T256	
+R407	Speaker Arg1:T255 Arg2:T256	
+R408	Addressee Arg1:T255 Arg2:T260	
+R409	Speaker Arg1:T258 Arg2:T257	
+R410	Cueing Arg1:T259 Arg2:T257	
+R411	Addressee Arg1:T255 Arg2:T257	
+R412	Cueing Arg1:T259 Arg2:T260	
+R413	Speaker Arg1:T258 Arg2:T260	
+R414	Cueing Arg1:T262 Arg2:T261	
+R415	Speaker Arg1:T263 Arg2:T261	
+R416	Cueing Arg1:T267 Arg2:T265	
+R417	Speaker Arg1:T266 Arg2:T265	
+R418	Cueing Arg1:T267 Arg2:T268	
+R419	Speaker Arg1:T266 Arg2:T268	
+R420	Addressee Arg1:T258 Arg2:T261	
+R421	Speaker Arg1:T258 Arg2:T264	
+R422	Addressee Arg1:T263 Arg2:T264	
+R423	Addressee Arg1:T258 Arg2:T268	
+R424	Addressee Arg1:T258 Arg2:T265	
+R425	Cueing Arg1:T270 Arg2:T269	
+R426	Cueing Arg1:T270 Arg2:T272	
+R427	Addressee Arg1:T266 Arg2:T272	
+R428	Addressee Arg1:T266 Arg2:T269	
+R429	Speaker Arg1:T271 Arg2:T269	
+R430	Speaker Arg1:T271 Arg2:T272	
+R431	Cueing Arg1:T274 Arg2:T273	
+R432	Cueing Arg1:T274 Arg2:T276	
+R433	Speaker Arg1:T275 Arg2:T273	
+R434	Speaker Arg1:T275 Arg2:T276	
+R435	Addressee Arg1:T271 Arg2:T276	
+R436	Addressee Arg1:T271 Arg2:T273	
+R437	Cueing Arg1:T278 Arg2:T277	
+R438	Cueing Arg1:T278 Arg2:T280	
+R439	Addressee Arg1:T275 Arg2:T280	
+R440	Addressee Arg1:T275 Arg2:T277	
+R441	Speaker Arg1:T279 Arg2:T277	
+R442	Speaker Arg1:T279 Arg2:T280	
+R443	Cueing Arg1:T282 Arg2:T281	
+R444	Speaker Arg1:T283 Arg2:T281	
+T337	Entity 44394 44409	the three of us
+R445	Addressee Arg1:T337 Arg2:T281	
+R446	Cueing Arg1:T285 Arg2:T284	
+R447	Speaker Arg1:T286 Arg2:T284	
+R448	Addressee Arg1:T290 Arg2:T284	
+R449	Addressee Arg1:T290 Arg2:T287	
+R450	Cueing Arg1:T285 Arg2:T287	
+R451	Speaker Arg1:T286 Arg2:T287	
+R452	Addressee Arg1:T286 Arg2:T291	
+R453	Addressee Arg1:T286 Arg2:T288	
+R454	Cueing Arg1:T289 Arg2:T288	
+R455	Cueing Arg1:T289 Arg2:T291	
+R456	Speaker Arg1:T290 Arg2:T288	
+R457	Speaker Arg1:T290 Arg2:T291	
+R458	Cueing Arg1:T294 Arg2:T292	
+R459	Speaker Arg1:T293 Arg2:T292	
+R460	Cueing Arg1:T294 Arg2:T295	
+R461	Speaker Arg1:T293 Arg2:T295	
+R462	Addressee Arg1:T290 Arg2:T297	
+R463	Speaker Arg1:T290 Arg2:T296	
+R464	Addressee Arg1:T290 Arg2:T295	
+R465	Addressee Arg1:T293 Arg2:T296	
+R466	Speaker Arg1:T293 Arg2:T297	
+R467	Speaker Arg1:T299 Arg2:T298	
+R468	Cueing Arg1:T300 Arg2:T298	
+R469	Addressee Arg1:T293 Arg2:T298	
+R470	Addressee Arg1:T293 Arg2:T305	
+R471	Addressee Arg1:T293 Arg2:T302	
+R472	Speaker Arg1:T293 Arg2:T301	
+R473	Cueing Arg1:T304 Arg2:T302	
+R474	Speaker Arg1:T303 Arg2:T302	
+R475	Cueing Arg1:T304 Arg2:T305	
+R476	Speaker Arg1:T303 Arg2:T305	
+R477	Speaker Arg1:T307 Arg2:T306	
+R478	Cueing Arg1:T308 Arg2:T306	
+R479	Addressee Arg1:T303 Arg2:T306	
+R480	Addressee Arg1:T303 Arg2:T309	
+R481	Speaker Arg1:T307 Arg2:T309	
+R482	Cueing Arg1:T308 Arg2:T309	
+R483	Cueing Arg1:T311 Arg2:T310	
+R484	Speaker Arg1:T312 Arg2:T310	
+R485	Addressee Arg1:T307 Arg2:T310	
+R486	Speaker Arg1:T314 Arg2:T313	
+R487	Cueing Arg1:T315 Arg2:T313	
+R488	Addressee Arg1:T312 Arg2:T316	
+R489	Speaker Arg1:T314 Arg2:T316	
+R490	Addressee Arg1:T312 Arg2:T313	
+R491	Cueing Arg1:T315 Arg2:T316	

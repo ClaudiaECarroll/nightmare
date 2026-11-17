@@ -1,0 +1,34 @@
+{
+  "threshold": 0.9,
+  "TP": 3,
+  "FP": 1,
+  "FN": 0,
+  "n_pred": 4,
+  "n_gold": 3,
+  "matched_gold": 3,
+  "precision": 0.75,
+  "recall": 1.0,
+  "f1": 0.8571428571428571,
+  "predictions": [
+    {
+      "string": "tarried,",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "Sparetherodandspoilthechild.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "doinghisdutybytheirparents;",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "hewouldrememberitandthankhimforitthelongestdayhehadtolive.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

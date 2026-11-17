@@ -1,0 +1,199 @@
+{
+  "threshold": 0.9,
+  "TP": 35,
+  "FP": 2,
+  "FN": 0,
+  "n_pred": 37,
+  "n_gold": 34,
+  "matched_gold": 34,
+  "precision": 0.9459459459459459,
+  "recall": 1.0,
+  "f1": 0.9722222222222222,
+  "predictions": [
+    {
+      "string": "CoachandHorses",
+      "best_similarity": 0.3902,
+      "correct": false
+    },
+    {
+      "string": "Afire,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "inthenameofhumancharity!Aroomandafire!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "haggler,",
+      "best_similarity": 0.48,
+      "correct": false
+    },
+    {
+      "string": "CanItakeyourhatandcoat,sir?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andgivethemagooddryinthekitchen?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iprefertokeepthemon,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Verywell,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "_As_youlike.Inabittheroomwillbewarmer.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourlunchisserved,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thankyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatgirl!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "There!Icleanforgotit.Itsherbeingsolong!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IsupposeImayhavethemtodrynow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leavethehat,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leavethehat,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ididntknow,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "that--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thankyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illhavethemnicelydried,sir,atonce,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "I_never_,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "There!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thepoorsoulshadanaccidentoranoprationorsomethin,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whataturnthembandagesdidgiveme,tobesure!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andtheygoggles!Why,helookedmorelikeadivinhelmetthanahumanman!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andholdingthathandkerchiefoverhismouthallthetime.Talkinthroughit!...Perhapshismouthwashurttoo--maybe.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Blessmysoulalive!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "aintyoudonethemtaters_yet_,Millie?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihavesomeluggage,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "atBramblehurststation,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "To-morrow?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thereisnospeedierdelivery?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsasteeproadbythedown,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itwasthereacarriagewasupsettled,ayearagoandmore.Agentlemankilled,besideshiscoachman.Accidents,sir,happeninamoment,dontthey?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theydo,",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

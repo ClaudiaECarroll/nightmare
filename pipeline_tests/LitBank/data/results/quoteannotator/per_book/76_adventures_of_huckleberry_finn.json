@@ -1,0 +1,49 @@
+{
+  "threshold": 0.9,
+  "TP": 7,
+  "FP": 0,
+  "FN": 0,
+  "n_pred": 7,
+  "n_gold": 7,
+  "matched_gold": 7,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "predictions": [
+    {
+      "string": "Dontputyourfeetupthere,Huckleberry;",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontscrunchuplikethat,Huckleberry--setupstraight;",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontgapandstretchlikethat,Huckleberry--whydontyoutrytobehave?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "me-yow!me-yow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "me-yow!me-yow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whodah?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say,whoisyou?Wharisyou?DogmycatsefIdidnhearsumfn.Well,IknowwhatIsgwynetodo:IsgwynetosetdownhereandlistentellIhearsitagin.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

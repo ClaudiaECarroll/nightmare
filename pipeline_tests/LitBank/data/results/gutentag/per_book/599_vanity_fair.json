@@ -1,0 +1,89 @@
+{
+  "threshold": 0.9,
+  "TP": 15,
+  "FP": 0,
+  "FN": 0,
+  "n_pred": 15,
+  "n_gold": 15,
+  "matched_gold": 15,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "predictions": [
+    {
+      "string": "ItisMrs.Sedleyscoach,sister,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sambo,theblackservant,hasjustrungthebell;andthecoachmanhasanewredwaistcoat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HaveyoucompletedallthenecessarypreparationsincidenttoMissSedleysdeparture,MissJemima?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thegirlswereupatfourthismorning,packinghertrunks,sister,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "wehavemadeherabow-pot.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sayabouquet,sisterJemima,tismoregenteel.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,abookyasbigalmostasahaystack;IhaveputuptwobottlesofthegillyflowerwaterforMrs.Sedley,andthereceiptformakingit,inAmeliasbox.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndItrust,MissJemima,youhavemadeacopyofMissSedleysaccount.Thisisit,isit?Verygood—ninety-threepounds,fourshillings.BekindenoughtoaddressittoJohnSedley,Esquire,andtosealthisbilletwhichIhavewrittentohislady.",
+      "best_similarity": 0.9927,
+      "correct": true
+    },
+    {
+      "string": "Forwhomisthis,MissJemima?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ForBeckySharp,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ForBeckySharp:shesgoingtoo.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MISSJEMIMA!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Areyouinyoursenses?ReplacetheDixonaryinthecloset,andneverventuretotakesuchalibertyinfuture.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,sister,itsonlytwo-and-ninepence,andpoorBeckywillbemiserableifshedontgetone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SendMissSedleyinstantlytome,",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

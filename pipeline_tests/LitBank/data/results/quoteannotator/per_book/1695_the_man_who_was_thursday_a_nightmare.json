@@ -1,0 +1,114 @@
+{
+  "threshold": 0.9,
+  "TP": 16,
+  "FP": 4,
+  "FN": 0,
+  "n_pred": 20,
+  "n_gold": 16,
+  "matched_gold": 16,
+  "precision": 0.8,
+  "recall": 1.0,
+  "f1": 0.888888888888889,
+  "predictions": [
+    {
+      "string": "artists,",
+      "best_similarity": 0.5333,
+      "correct": false
+    },
+    {
+      "string": "Itmaywellbe,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itmaywellbeonsuchanightofcloudsandcruelcoloursthatthereisbroughtforthupontheearthsuchaportentasarespectablepoet.Yousayyouareapoetoflaw;Isayyouareacontradictioninterms.Ionlywondertherewerenotcometsandearthquakesonthenightyouappearedinthisgarden.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Anartistisidenticalwithananarchist,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youmighttransposethewordsanywhere.Ananarchistisanartist.Themanwhothrowsabombisanartist,becauseheprefersagreatmomenttoeverything.Heseeshowmuchmorevaluableisoneburstofblazinglight,onepealofperfectthunder,thanthemerecommonbodiesofafewshapelesspolicemen.Anartistdisregardsallgovernments,abolishesallconventions.Thepoetdelightsindisorderonly.Ifitwerenotso,themostpoeticalthingintheworldwouldbetheUndergroundRailway.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Soitis,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nonsense!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whydoalltheclerksandnavviesintherailwaytrainslooksosadandtired,soverysadandtired?Iwilltellyou.Itisbecausetheyknowthatthetrainisgoingright.Itisbecausetheyknowthatwhateverplacetheyhavetakenaticketforthatplacetheywillreach.ItisbecauseaftertheyhavepassedSloaneSquaretheyknowthatthenextstationmustbeVictoria,andnothingbutVictoria.Oh,theirwildrapture!oh,theireyeslikestarsandtheirsoulsagaininEden,ifthenextstationwereunaccountablyBakerStreet!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisyouwhoareunpoetical,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifwhatyousayofclerksistrue,theycanonlybeasprosaicasyourpoetry.Therare,strangethingistohitthemark;thegross,obviousthingistomissit.Wefeelitisepicalwhenmanwithonewildarrowstrikesadistantbird.Isitnotalsoepicalwhenmanwithonewildenginestrikesadistantstation?Chaosisdull;becauseinchaosthetrainmightindeedgoanywhere,toBakerStreetortoBagdad.Butmanisamagician,andhiswholemagicisinthis,thathedoessayVictoria,andlo!itisVictoria.No,takeyourbooksofmerepoetryandprose;letmereadatimetable,withtearsofpride.TakeyourByron,whocommemoratesthedefeatsofman;givemeBradshaw,whocommemorateshisvictories.GivemeBradshaw,Isay!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mustyougo?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itellyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thateverytimeatraincomesinIfeelthatithasbrokenpastbatteriesofbesiegers,andthatmanhaswonabattleagainstchaos.YousaycontemptuouslythatwhenonehasleftSloaneSquareonemustcometoVictoria.Isaythatonemightdoathousandthingsinstead,andthatwheneverIreallycomethereIhavethesenseofhairbreadthescape.AndwhenIheartheguardshoutoutthewordVictoria,itisnotanunmeaningword.Itistomethecryofaheraldannouncingconquest.ItistomeindeedVictoria;itisthevictoryofAdam.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Victoria,",
+      "best_similarity": 0.375,
+      "correct": false
+    },
+    {
+      "string": "Victoria",
+      "best_similarity": 0.2667,
+      "correct": false
+    },
+    {
+      "string": "Andeventhen,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "wepoetsalwaysaskthequestion,AndwhatisVictorianowthatyouhavegotthere?YouthinkVictoriaisliketheNewJerusalem.WeknowthattheNewJerusalemwillonlybelikeVictoria.Yes,thepoetwillbediscontentedeveninthestreetsofheaven.Thepoetisalwaysinrevolt.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndwhatisVictorianowthatyouhavegotthere?",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "Thereagain,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whatistherepoeticalaboutbeinginrevolt?Youmightaswellsaythatitispoeticaltobesea-sick.Beingsickisarevolt.Bothbeingsickandbeingrebelliousmaybethewholesomethingoncertaindesperateoccasions;butImhangedifIcanseewhytheyarepoetical.Revoltintheabstractis--revolting.Itsmerevomiting.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

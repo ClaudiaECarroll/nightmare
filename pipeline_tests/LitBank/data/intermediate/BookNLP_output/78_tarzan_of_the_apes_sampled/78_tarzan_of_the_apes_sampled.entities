@@ -1,0 +1,293 @@
+COREF	start_token	end_token	prop	cat	text
+0	1	1	PRON	PER	I
+1	4	4	PROP	GPE	Sea
+0	5	5	PRON	PER	I
+20	10	19	NOM	PER	one who had no business to tell it to me
+0	19	19	PRON	PER	me
+0	26	26	PRON	PER	I
+21	37	38	NOM	PER	the narrator
+0	46	46	PRON	PER	my
+0	64	64	PRON	PER	my
+22	64	66	NOM	PER	my convivial host
+22	69	69	PRON	PER	he
+0	72	72	PRON	PER	me
+0	78	78	PRON	PER	I
+22	84	84	PRON	PER	his
+22	98	98	PRON	PER	he
+23	114	117	NOM	FAC	the British Colonial Office
+22	126	126	PRON	PER	his
+0	130	130	PRON	PER	I
+0	140	140	PRON	PER	I
+24	160	160	PRON	PER	you
+0	161	161	PRON	PER	I
+25	167	169	NOM	PER	the principal characters
+0	176	176	PRON	PER	my
+26	194	197	NOM	PER	a man long dead
+27	203	205	NOM	FAC	the Colonial Office
+0	212	212	PRON	PER	my
+22	212	214	NOM	PER	my convivial host
+0	218	218	PRON	PER	I
+24	220	220	PRON	PER	you
+0	224	224	PRON	PER	I
+29	236	236	PRON	PER	you
+29	242	242	PRON	PER	you
+0	250	250	PRON	PER	me
+27	267	269	NOM	FAC	the Colonial Office
+31	272	274	NOM	PER	the dead man
+32	277	277	PRON	PER	we
+33	280	291	NOM	PER	a certain young English nobleman , whom we shall call John Clayton
+32	287	287	PRON	PER	we
+11	290	291	PROP	PER	John Clayton
+12	293	294	PROP	PER	Lord Greystoke
+34	307	312	NOM	GPE	a British West Coast African Colony
+35	316	353	NOM	PER	native inhabitants another European power was known to be recruiting soldiers for its native army , which it used solely for the forcible collection of rubber and ivory from the savage tribes along the Congo and the Aruwimi
+36	326	326	NOM	PER	soldiers
+34	328	328	PRON	PER	its
+37	328	330	NOM	PER	its native army
+38	345	353	NOM	PER	the savage tribes along the Congo and the Aruwimi
+2	349	350	PROP	LOC	the Congo
+3	352	353	PROP	LOC	the Aruwimi
+39	355	360	NOM	PER	The natives of the British Colony
+40	358	360	NOM	GPE	the British Colony
+39	365	365	PRON	PER	their
+41	365	367	NOM	PER	their young men
+39	388	388	PRON	PER	their
+42	388	389	NOM	PER	their families
+43	391	394	NOM	PER	The Englishmen in Africa
+4	394	394	PROP	GPE	Africa
+44	401	403	NOM	PER	these poor blacks
+44	412	412	PRON	PER	their
+44	417	417	PRON	PER	their
+44	423	423	PRON	PER	their
+45	423	425	NOM	PER	their white officers
+44	428	428	PRON	PER	they
+44	432	432	PRON	PER	they
+27	442	444	NOM	FAC	the Colonial Office
+11	446	447	PROP	PER	John Clayton
+5	453	455	PROP	GPE	British West Africa
+11	458	458	PRON	PER	his
+47	475	481	NOM	PER	the officers of a friendly European power
+11	484	484	PRON	PER	he
+11	500	500	PRON	PER	he
+11	512	512	PRON	PER	he
+11	515	515	PRON	PER	his
+11	518	518	PROP	PER	Clayton
+11	558	558	PRON	PER	he
+11	565	565	PRON	PER	his
+11	570	570	PRON	PER	his
+11	576	576	PRON	PER	his
+11	586	586	PRON	PER	his
+11	596	596	PRON	PER	him
+48	601	602	NOM	ORG	the army
+27	604	606	NOM	FAC	the Colonial Office
+50	609	609	PRON	PER	we
+11	611	611	PRON	PER	him
+51	627	628	NOM	PER	the Queen
+11	631	631	PRON	PER	he
+11	635	635	PRON	PER	he
+11	646	646	PRON	PER	him
+11	682	682	PRON	PER	he
+52	687	688	NOM	PER	the Hon
+13	690	691	PROP	PER	Alice Rutherford
+53	705	708	NOM	PER	this fair young girl
+4	715	716	PROP	GPE	tropical Africa
+11	719	719	PRON	PER	him
+53	722	722	PRON	PER	her
+11	724	724	PRON	PER	he
+53	732	732	PRON	PER	she
+53	740	740	PRON	PER	she
+11	743	743	PRON	PER	he
+53	751	751	PRON	PER	her
+11	753	753	PRON	PER	him
+54	757	757	NOM	PER	mothers
+55	759	759	NOM	PER	brothers
+56	761	761	NOM	PER	sisters
+57	764	764	NOM	PER	aunts
+58	766	766	NOM	PER	cousins
+58	779	779	PRON	PER	they
+59	786	786	PRON	PER	We
+11	798	798	PROP	PER	John
+12	800	801	PROP	PER	Lord Greystoke
+14	804	805	PROP	PER	Lady Alice
+7	808	808	PROP	GPE	Dover
+58	810	810	PRON	PER	their
+4	813	813	PROP	GPE	Africa
+58	818	818	PRON	PER	they
+8	821	821	PROP	GPE	Freetown
+58	823	823	PRON	PER	they
+60	825	828	NOM	VEH	a small sailing vessel
+58	837	837	PRON	PER	them
+58	839	839	PRON	PER	their
+61	839	841	NOM	LOC	their final destination
+11	845	845	PROP	PER	John
+12	847	848	PROP	PER	Lord Greystoke
+14	851	852	PROP	PER	Lady Alice
+11	854	854	PRON	PER	his
+62	854	855	NOM	PER	his wife
+63	866	866	NOM	PER	men
+58	871	871	PRON	PER	they
+64	877	886	NOM	GPE	the port of Freetown a half dozen British war vessels
+8	880	880	PROP	GPE	Freetown
+65	881	886	NOM	VEH	a half dozen British war vessels
+66	889	891	NOM	LOC	the south Atlantic
+65	895	895	PRON	PER	them
+65	897	897	PRON	PER	their
+67	897	899	NOM	VEH	their little vessel
+68	912	916	NOM	LOC	the shores of St. Helena
+9	915	916	PROP	GPE	St. Helena
+69	919	920	NOM	LOC	the world
+15	922	923	PROP	PER	the Fuwalda
+70	957	963	NOM	VEH	a barkentine of about one hundred tons
+71	966	980	NOM	VEH	a vessel of the type often seen in coastwise trade in the far southern Atlantic
+72	977	980	NOM	LOC	the far southern Atlantic
+65	982	982	PRON	PER	their
+73	989	998	NOM	PER	the sea -- unhanged murderers and cutthroats of every race
+74	1000	1001	NOM	GPE	every nation
+75	1012	1012	PRON	PER	Her
+76	1012	1013	NOM	PER	Her officers
+77	1015	1016	NOM	PER	swarthy bullies
+76	1022	1022	PRON	PER	their
+78	1022	1023	NOM	PER	their crew
+79	1025	1026	NOM	PER	The captain
+80	1029	1031	NOM	PER	a competent seaman
+79	1037	1037	PRON	PER	his
+79	1040	1040	PRON	PER	his
+81	1040	1041	NOM	PER	his men
+79	1043	1043	PRON	PER	He
+79	1049	1049	PRON	PER	he
+79	1056	1056	PRON	PER	his
+81	1059	1059	PRON	PER	them
+79	1076	1076	PRON	PER	he
+11	1094	1096	PROP	PER	Freetown John Clayton
+11	1098	1098	PRON	PER	his
+82	1098	1100	NOM	PER	his young wife
+83	1111	1111	PRON	PER	they
+84	1124	1125	NOM	LOC	the sea
+85	1170	1170	NOM	PER	man
+86	1172	1173	NOM	PER	Two sailors
+15	1180	1181	PROP	PER	the Fuwalda
+87	1183	1185	NOM	PER	the first mate
+79	1191	1192	NOM	PER	the captain
+11	1198	1199	PROP	PER	John Clayton
+14	1201	1202	PROP	PER	Lady Alice
+89	1204	1205	NOM	PER	The men
+90	1210	1219	NOM	PER	the little party who were facing away from the sailors
+91	1218	1219	NOM	PER	the sailors
+89	1224	1224	PRON	PER	they
+92	1228	1230	NOM	PER	one of them
+89	1230	1230	PRON	PER	them
+79	1234	1235	NOM	PER	the captain
+79	1240	1240	PRON	PER	he
+94	1259	1260	NOM	PER	the officer
+95	1264	1264	PROP	PER	Lord
+16	1266	1267	PROP	PER	Lady Greystoke
+94	1272	1272	PRON	PER	he
+96	1278	1279	NOM	PER	the sailor
+96	1294	1294	PRON	PER	he
+96	1323	1323	PRON	PER	his
+79	1334	1335	NOM	PER	the captain
+96	1337	1337	PRON	PER	his
+96	1346	1347	NOM	PER	the sailor
+99	1349	1350	NOM	FAC	the deck
+100	1352	1353	NOM	PER	The man
+101	1371	1373	NOM	PER	The other seaman
+102	1387	1403	NOM	PER	a man , with fierce black mustachios , and a great bull neck set between massive shoulders
+100	1406	1406	PRON	PER	he
+100	1408	1408	PRON	PER	his
+103	1408	1409	NOM	PER	his mate
+100	1412	1412	PRON	PER	he
+79	1424	1425	NOM	PER	the captain
+79	1427	1427	PRON	PER	him
+79	1429	1429	PRON	PER	his
+94	1439	1440	NOM	PER	the officer
+94	1453	1453	PRON	PER	he
+94	1460	1460	PRON	PER	his
+94	1468	1468	PRON	PER	he
+94	1473	1473	PRON	PER	his
+106	1480	1487	NOM	LOC	the great mountain of muscle towering before him
+94	1487	1487	PRON	PER	him
+94	1493	1493	PRON	PER	he
+11	1496	1497	PROP	PER	John Clayton
+96	1511	1512	NOM	PER	the sailor
+96	1517	1518	NOM	PER	the sailor
+12	1524	1525	PROP	PER	Lord Greystoke
+79	1529	1530	NOM	PER	the captain
+79	1534	1534	PRON	PER	he
+11	1547	1547	PROP	PER	Clayton
+79	1549	1550	NOM	PER	the captain
+111	1552	1553	NOM	PER	the former
+111	1558	1558	PRON	PER	he
+112	1566	1567	NOM	PER	the crew
+111	1571	1571	PRON	PER	he
+111	1579	1579	PRON	PER	he
+16	1581	1582	PROP	PER	Lady Greystoke
+113	1584	1584	NOM	PER	passengers
+79	1586	1587	NOM	PER	The captain
+79	1607	1607	PRON	PER	his
+79	1617	1617	PRON	PER	He
+115	1623	1625	NOM	PER	an English official
+51	1628	1629	NOM	PER	the Queen
+79	1638	1638	PRON	PER	he
+79	1644	1644	PRON	PER	he
+10	1647	1647	PROP	GPE	England
+117	1647	1652	NOM	ORG	England 's far - reaching navy
+118	1654	1656	NOM	PER	The two sailors
+118	1658	1658	PRON	PER	themselves
+119	1661	1683	NOM	PER	the older man assisting his wounded comrade to rise . The big fellow , who was known among his mates as Black Michael
+119	1665	1665	PRON	PER	his
+120	1665	1667	NOM	PER	his wounded comrade
+121	1671	1673	NOM	PER	The big fellow
+121	1679	1679	PRON	PER	his
+122	1679	1683	NOM	PER	his mates as Black Michael
+17	1682	1683	PROP	PER	Black Michael
+17	1686	1686	PRON	PER	his
+17	1696	1696	PRON	PER	his
+11	1701	1701	PROP	PER	Clayton
+123	1710	1711	NOM	PER	the fellow
+123	1717	1717	PRON	PER	his
+18	1724	1724	PROP	PER	Ere
+123	1725	1725	PRON	PER	he
+123	1729	1729	PRON	PER	his
+123	1732	1732	PRON	PER	he
+118	1753	1753	PRON	PER	They
+123	1757	1757	PRON	PER	him
+79	1765	1766	NOM	PER	the captain
+118	1768	1768	PRON	PER	them
+79	1776	1776	PRON	PER	he
+118	1782	1782	PRON	PER	them
+118	1784	1784	PRON	PER	They
+118	1786	1786	PRON	PER	their
+79	1789	1789	PRON	PER	his
+125	1789	1790	NOM	FAC	his cabin
+118	1793	1793	PRON	PER	they
+79	1801	1802	NOM	PER	the captain
+79	1808	1808	PRON	PER	his
+79	1812	1812	PRON	PER	him
+127	1820	1822	NOM	PER	The other officers
+128	1824	1827	NOM	PER	coarse , illiterate fellows
+129	1832	1834	NOM	PER	the villainous crew
+127	1835	1835	PRON	PER	they
+130	1848	1851	NOM	PER	the polished English noble
+130	1853	1853	PRON	PER	his
+131	1853	1854	NOM	PER	his lady
+19	1858	1859	PROP	PER	the Claytons
+19	1865	1865	PRON	PER	themselves
+19	1873	1873	PRON	PER	their
+19	1881	1881	PRON	PER	them
+132	1886	1888	NOM	VEH	the little ship
+19	1891	1891	PRON	PER	they
+19	1934	1935	PROP	PER	the Claytons
+133	1943	1945	NOM	VEH	the little vessel
+19	1954	1954	PRON	PER	them
+19	1963	1963	PRON	PER	they
+134	1970	1971	NOM	PER	each other
+17	1981	1982	PROP	PER	Black Michael
+11	1984	1984	PROP	PER	Clayton
+135	1997	2030	NOM	PER	one of the crew being carried below by four of his fellows while the first mate , a heavy belaying pin in his hand , stood glowering at the little party of sullen sailors
+112	1999	2000	NOM	PER	the crew
+11	2007	2007	PRON	PER	his
+137	2007	2008	NOM	PER	his fellows
+87	2010	2012	NOM	PER	the first mate
+87	2019	2019	PRON	PER	his
+139	2025	2030	NOM	PER	the little party of sullen sailors
+140	2029	2030	NOM	PER	sullen sailors

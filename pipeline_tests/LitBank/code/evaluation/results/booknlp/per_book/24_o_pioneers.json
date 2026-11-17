@@ -1,0 +1,89 @@
+{
+  "threshold": 0.9,
+  "TP": 13,
+  "FP": 2,
+  "FN": 0,
+  "n_pred": 15,
+  "n_gold": 13,
+  "matched_gold": 13,
+  "precision": 0.8666666666666667,
+  "recall": 1.0,
+  "f1": 0.9285714285714286,
+  "predictions": [
+    {
+      "string": "elevator",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "Mykitten,oh,mykitten!Herwillfweeze!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,Emil!Itoldyoutostayinthestoreandnottocomeout.Whatisthematterwithyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mykitten,sister,mykitten!Amanputherout,andadogchasedherupthere.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Emil!DidntItellyoushedgetusintotroubleofsomekind,ifyoubroughther?Whatmadeyouteasemeso?Butthere,Ioughttohaveknownbettermyself.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Kitty,kitty,kitty,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,shewontcomedown.Somebodywillhavetogoupafterher.IsawtheLinstrumswagonintown.IllgoandseeifIcanfindCarl.Maybehecandosomething.Onlyyoumuststopcrying,orIwontgoastep.Wheresyourcomforter?Didyouleaveitinthestore?Nevermind.Holdstill,tillIputthisonyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MyGod,girl,whataheadofhair!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "studies",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "Illhavetogoupafterher,Alexandra.IthinkatthedepottheyhavesomespikesIcanstraponmyfeet.Waitaminute.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ileftitinthedrugstore.Icouldntclimbinit,anyhow.CatchmeifIfall,Emil,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowgointothestorewithher,Emil,andgetwarm.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Waitaminute,Alexandra.WhycantIdriveforyouasfarasourplace?Itsgettingcoldereveryminute.Haveyouseenthedoctor?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.Heiscomingoverto-morrow.Buthesaysfathercantgetbetter;cantgetwell.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illseetoyourteam.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

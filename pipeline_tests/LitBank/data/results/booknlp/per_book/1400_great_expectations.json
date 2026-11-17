@@ -1,0 +1,249 @@
+{
+  "threshold": 0.9,
+  "TP": 46,
+  "FP": 1,
+  "FN": 0,
+  "n_pred": 47,
+  "n_gold": 46,
+  "matched_gold": 46,
+  "precision": 0.9787234042553191,
+  "recall": 1.0,
+  "f1": 0.989247311827957,
+  "predictions": [
+    {
+      "string": "AlsoGeorgianaWifeoftheAbove,",
+      "best_similarity": 0.6071,
+      "correct": false
+    },
+    {
+      "string": "Holdyournoise!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Keepstill,youlittledevil,orIllcutyourthroat!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh!Dontcutmythroat,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Praydontdoit,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Tellusyourname!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Quick!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pip,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oncemore,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Giveitmouth!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pip.Pip,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Showuswhereyoulive,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pintouttheplace!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youyoungdog,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whatfatcheeksyouhagot.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DarnmeifIcouldnteatem,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andifIhanthalfamindtot!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowlookeehere!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wheresyourmother?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "There,sir!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "There,sir!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AlsoGeorgiana.Thatsmymother.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andisthatyourfatheralongeryourmother?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "himtoo;lateofthisparish.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ha!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whodyelivewith,--supposinyourekindlylettolive,whichIhantmadeupmymindabout?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mysister,sir,--Mrs.JoeGargery,--wifeofJoeGargery,theblacksmith,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Blacksmith,eh?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowlookeehere,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thequestionbeingwhetheryouretobelettolive.Youknowwhatafileis?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andyouknowwhatwittlesis?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yougetmeafile.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andyougetmewittles.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youbringembothtome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "OrIllhaveyourheartandliverout.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifyouwouldkindlypleasetoletmekeepupright,sir,perhapsIshouldntbesick,andperhapsIcouldattendmore.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youbringme,to-morrowmorningearly,thatfileandthemwittles.Youbringthelottome,atthatoldBatteryoveryonder.Youdoit,andyouneverdaretosayawordordaretomakeasignconcerningyourhavingseensuchapersonasme,oranypersonsumever,andyoushallbelettolive.Youfail,oryougofrommywordsinanypartickler,nomatterhowsmallitis,andyourheartandyourlivershallbetoreout,roasted,andate.Now,Iaintalone,asyoumaythinkIam.Theresayoungmanhidwithme,incomparisonwithwhichyoungmanIamaAngel.ThatyoungmanhearsthewordsIspeak.Thatyoungmanhasasecretwaypecooliartohimself,ofgettingataboy,andathisheart,andathisliver.Itisinwainforaboytoattempttohidehimselffromthatyoungman.Aboymaylockhisdoor,maybewarminbed,maytuckhimselfup,maydrawtheclothesoverhishead,maythinkhimselfcomfortableandsafe,butthatyoungmanwillsoftlycreepandcreephiswaytohimandtearhimopen.Iamakeepingthatyoungmanfromharmingofyouatthepresentmoment,withgreatdifficulty.Ifinditweryhardtoholdthatyoungmanoffofyourinside.Now,whatdoyousay?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SayLordstrikeyoudeadifyoudont!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Now,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "yourememberwhatyouveundertook,andyourememberthatyoungman,andyougethome!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goo-goodnight,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Muchofthat!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IwishIwasafrog.Oraeel!",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

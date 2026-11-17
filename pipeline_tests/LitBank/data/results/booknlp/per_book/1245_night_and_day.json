@@ -1,0 +1,124 @@
+{
+  "threshold": 0.9,
+  "TP": 19,
+  "FP": 3,
+  "FN": 1,
+  "n_pred": 22,
+  "n_gold": 20,
+  "matched_gold": 19,
+  "precision": 0.8636363636363636,
+  "recall": 0.95,
+  "f1": 0.9047619047619048,
+  "predictions": [
+    {
+      "string": "Whatanextremelynicehousetocomeinto!",
+      "best_similarity": 0.3929,
+      "correct": false
+    },
+    {
+      "string": "Now,doyouthinkwereenjoyingourselvesenormously?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mr.Denham,mother,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Now,whatwouldyoudoifyouweremarriedtoanengineer,andhadtoliveinManchester,Mr.Denham?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SurelyshecouldlearnPersian,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IstherenoretiredschoolmasterormanoflettersinManchesterwithwhomshecouldreadPersian?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AcousinofourshasmarriedandgonetoliveinManchester,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HaveyoueverbeentoManchester?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Never,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whydoyouobjecttoit,then?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IshouldthinktherewouldbenoonetotalktoinManchester,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inspiteofaslighttendencytoexaggeration,Katharinedecidedlyhitsthemark,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Mr.Fortescue,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IhadjustwrittentosayhowIenviedher!Iwasthinkingofthebiggardensandthedearoldladiesinmittens,whoreadnothingbutthe",
+      "best_similarity": 0.6232,
+      "correct": false
+    },
+    {
+      "string": "andsnuffthecandles.HavetheyALLdisappeared?ItoldhershewouldfindthenicethingsofLondonwithoutthehorridstreetsthatdepressoneso.",
+      "best_similarity": 0.6721,
+      "correct": false
+    },
+    {
+      "string": "ThereistheUniversity,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iknowtherearemoorsthere,becauseIreadabouttheminabooktheotherday,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamgrievedandamazedattheignoranceofmyfamily,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WoulditbetheBattleofTrafalgarortheSpanishArmada,Katharine?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Trafalgar,mother.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Trafalgar,ofcourse!Howstupidofme!Anothercupoftea,withathinsliceoflemoninit,andthen,dearMr.Fortescue,pleaseexplainmyabsurdlittlepuzzle.OnecanthelpbelievinggentlemenwithRomannoses,evenifonemeetstheminomnibuses.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dyouknow,Mr.Denham,youremindmesomuchofdearMr.Ruskin....Isithistie,Katharine,orhishair,orthewayhesitsinhischair?Dotellme,Mr.Denham,areyouanadmirerofRuskin?Someone,theotherday,saidtome,Oh,no,wedontreadRuskin,Mrs.Hilbery.WhatDOyouread,Iwonder?--foryoucantspendallyourtimegoingupinaeroplanesandburrowingintothebowelsoftheearth.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

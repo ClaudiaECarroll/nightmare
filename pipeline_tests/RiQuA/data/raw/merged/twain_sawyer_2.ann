@@ -1,0 +1,2311 @@
+T1	Entity 1746 1749	Joe
+T2	Quotation 1828 1834	"Now,"
+T3	Cue 1835 1839	said
+T4	Entity 1840 1842	he
+T5	Quotation 1844 2039	"as long as he is on your side you can stir him up and I'll let him alone; but if you let him get away and get on my side, you're to leave him alone as long as I can keep him from crossing over."
+T6	Quotation 2040 2076	"All right, go ahead; start him up."
+T7	Entity 2859 2861	he
+T8	Cue 2931 2935	Said
+T9	Entity 2936 2938	he
+T10	Quotation 2940 2965	"Tom, you let him alone."
+T11	Quotation 2966 3014	"I only just want to stir him up a little, Joe."
+T12	Quotation 3015 3064	"No, sir, it ain't fair; you just let him alone."
+T13	Quotation 3065 3108	"Blame it, I ain't going to stir him much."
+T14	Quotation 3109 3137	"Let him alone, I tell you."
+T15	Quotation 3138 3148	"I won't!"
+T16	Quotation 3149 3191	"You shall-- he's on my side of the line."
+T17	Quotation 3192 3236	"Look here, Joe Harper, whose is that tick?"
+T18	Quotation 3237 3326	"I don't care whose tick he is-- he's on my side of the line, and you sha'n't touch him."
+T19	Quotation 3327 3427	"Well, I'll just bet I will, though. He's my tick and I'll do what I blame please with him, or die!"
+T20	Entity 3910 3913	Tom
+T21	Entity 3922 3936	Becky Thatcher
+T22	Cue 3942 3951	whispered
+T23	Quotation 3964 4180	"Put on your bonnet and let on you're going home; and when you get to the corner, give the rest of 'em the slip, and turn down through the lane and come back. I'll go the other way and come it over 'em the same way."
+T24	Entity 4441 4446	Becky
+T25	Entity 4629 4631	He
+T26	Cue 4632 4636	said
+T27	Quotation 4638 4657	"Do you love rats?"
+T28	Quotation 4658 4676	"No! I hate them!"
+T29	Quotation 4677 4769	"Well, I do, too-- LIVE ones. But I mean dead ones, to swing round your head with a string."
+T30	Quotation 4770 4839	"No, I don't care for rats much, anyway. What I like is chewing-gum."
+T31	Quotation 4840 4885	"Oh, I should say so! I wish I had some now."
+T32	Quotation 4886 4972	"Do you? I've got some. I'll let you chew it awhile, but you must give it back to me."
+T33	Quotation 5090 5117	"Was you ever at a circus?"
+T34	Cue 5118 5122	said
+T35	Entity 5123 5126	Tom
+T36	Quotation 5128 5193	"Yes, and my pa's going to take me again some time, if I'm good."
+T37	Quotation 5194 5388	"I been to the circus three or four times-- lots of times. Church ain't shucks to a circus. There's things going on at a circus all the time. I'm going to be a clown in a circus when I grow up."
+T38	Quotation 5389 5457	"Oh, are you! That will be nice. They're so lovely, all spotted up."
+T39	Quotation 5458 5580	"Yes, that's so. And they get slathers of money-- most a dollar a day, Ben Rogers says. Say, Becky, was you ever engaged?"
+T40	Quotation 5581 5595	"What's that?"
+T41	Quotation 5596 5625	"Why, engaged to be married."
+T42	Quotation 5626 5631	"No."
+T43	Quotation 5632 5652	"Would you like to?"
+T44	Quotation 5653 5698	"I reckon so. I don't know. What is it like?"
+T45	Quotation 5699 5865	"Like? Why it ain't like anything. You only just tell a boy you won't ever have anybody but him, ever ever ever, and then you kiss and that's all. Anybody can do it."
+T46	Quotation 5866 5895	"Kiss? What do you kiss for?"
+T47	Quotation 5896 5953	"Why, that, you know, is to-- well, they always do that."
+T48	Quotation 5954 5966	"Everybody?"
+T49	Quotation 5967 6063	"Why, yes, everybody that's in love with each other. Do you remember what I wrote on the slate?"
+T50	Quotation 6064 6075	"Ye-- yes."
+T51	Quotation 6076 6090	"What was it?"
+T52	Quotation 6091 6112	"I sha'n't tell you."
+T53	Quotation 6113 6132	"Shall I tell YOU?"
+T54	Quotation 6133 6166	"Ye-- yes-- but some other time."
+T55	Quotation 6167 6177	"No, now."
+T56	Quotation 6178 6204	"No, not now-- to-morrow."
+T57	Quotation 6205 6282	"Oh, no, NOW. Please, Becky-- I'll whisper it, I'll whisper it ever so easy."
+T59	Entity 6447 6449	he
+T60	Cue 6450 6455	added
+T61	Quotation 6457 6500	"Now you whisper it to me-- just the same."
+T62	Entity 6501 6504	She
+T63	Cue 6537 6541	said
+T64	Quotation 6543 6679	"You turn your face away so you can't see, and then I will. But you mustn't ever tell anybody-- WILL you, Tom? Now you won't, WILL you?"
+T65	Quotation 6680 6721	"No, indeed, indeed I won't. Now, Becky."
+T66	Entity 6722 6724	He
+T67	Entity 6747 6750	She
+T68	Cue 6809 6818	whispered
+T69	Quotation 6820 6837	"I-- love-- you!"
+T71	Entity 7006 7009	Tom
+T72	Entity 7018 7021	her
+T74	Cue 7041 7048	pleaded
+T75	Quotation 7050 7173	"Now, Becky, it's all done-- all over but the kiss. Don't you be afraid of that-- it ain't anything at all. Please, Becky."
+T76	Entity 7226 7229	she
+T77	Entity 7327 7330	Tom
+T78	Cue 7355 7359	said
+T79	Quotation 7361 7538	"Now it's all done, Becky. And always after this, you know, you ain't ever to love anybody but me, and you ain't ever to marry anybody but me, ever never and forever. Will you?"
+T80	Quotation 7539 7673	"No, I'll never love anybody but you, Tom, and I'll never marry anybody but you-- and you ain't to ever marry anybody but me, either."
+T81	Quotation 7674 7927	"Certainly. Of course. That's PART of it. And always coming to school or when we're going home, you're to walk with me, when there ain't anybody looking-- and you choose me and I choose you at parties, because that's the way you do when you're engaged."
+T82	Quotation 7928 7971	"It's so nice. I never heard of it before."
+T83	Quotation 7972 8024	"Oh, it's ever so gay! Why, me and Amy Lawrence -- "
+T84	Entity 8043 8046	Tom
+T85	Quotation 8085 8147	"Oh, Tom! Then I ain't the first you've ever been engaged to!"
+T86	Entity 8148 8157	The child
+T87	Entity 8172 8175	Tom
+T88	Cue 8176 8180	said
+T89	Quotation 8182 8236	"Oh, don't cry, Becky, I don't care for her any more."
+T90	Quotation 8237 8274	"Yes, you do, Tom-- you know you do."
+T91	Entity 8965 8968	her
+T92	Entity 9030 9032	he
+T93	Cue 9033 9037	said
+T94	Quotation 9052 9099	"Becky, I -- I don't care for anybody but you."
+T95	Quotation 9121 9128	"Becky"
+T96	Quotation 9143 9176	"Becky, won't you say something?"
+T97	Entity 9188 9191	Tom
+T98	Entity 9294 9297	she
+T99	Cue 9316 9320	said
+T100	Quotation 9322 9357	"Please, Becky, won't you take it?"
+T102	Entity 9601 9603	he
+T103	Entity 9624 9627	she
+T104	Cue 9628 9634	called
+T105	Quotation 9636 9658	"Tom! Come back, Tom!"
+T106	Entity 14132 14134	He
+T107	Cue 14158 14165	uttered
+T108	Quotation 14197 14251	"What hasn't come here, come! What's here, stay here!"
+T109	Entity 14466 14468	He
+T110	Cue 14514 14518	said
+T111	Quotation 14520 14548	"Well, that beats anything!"
+T112	Entity 15641 15643	He
+T113	Cue 15709 15715	called
+T114	Quotation 15718 15825	"Doodle-bug, doodle-bug, tell me what I want to know! Doodle-bug, doodle-bug, tell me what I want to know!"
+T115	Quotation 15945 16012	"He dasn't tell! So it WAS a witch that done it. I just knowed it."
+T118	Entity 16406 16408	he
+T119	Cue 16476 16482	saying
+T120	Quotation 16484 16516	"Brother, go find your brother!"
+T121	Entity 17223 17225	He
+T122	Cue 17226 17230	said
+T123	Entity 17247 17267	an imaginary company
+T124	Quotation 17269 17312	"Hold, my merry men! Keep hid till I blow."
+T125	Entity 17326 17336	Joe Harper
+T126	Entity 17383 17386	Tom
+T127	Cue 17387 17393	called
+T128	Quotation 17395 17455	"Hold! Who comes here into Sherwood Forest without my pass?"
+T129	Quotation 17456 17524	"Guy of Guisborne wants no man's pass. Who art thou that-- that -- "
+T130	Quotation 17525 17555	"Dares to hold such language,"
+T131	Cue 17556 17560	said
+T132	Entity 17561 17564	Tom
+T133	Quotation 17622 17670	"Who art thou that dares to hold such language?"
+T134	Quotation 17671 17740	"I, indeed! I am Robin Hood, as thy caitiff carcase soon shall know."
+T135	Quotation 17741 17865	"Then art thou indeed that famous outlaw? Right gladly will I dispute with thee the passes of the merry wood. Have at thee!"
+T136	Entity 18044 18047	Tom
+T137	Cue 18048 18052	said
+T138	Quotation 18054 18098	"Now, if you've got the hang, go it lively!"
+T139	Entity 18173 18176	Tom
+T140	Cue 18177 18184	shouted
+T141	Quotation 18186 18219	"Fall! fall! Why don't you fall?"
+T142	Quotation 18220 18293	"I sha'n't! Why don't you fall yourself? You're getting the worst of it."
+T143	Quotation 18294 18508	"Why, that ain't anything. I can't fall; that ain't the way it is in the book. The book says, 'Then with one back-handed stroke he slew poor Guy of Guisborne.' You're to turn around and let me hit you in the back."
+T145	Quotation 18598 18604	"Now,"
+T146	Cue 18605 18609	said
+T147	Entity 18610 18613	Joe
+T148	Quotation 18627 18669	"you got to let me kill YOU. That's fair."
+T149	Quotation 18670 18715	"Why, I can't do that, it ain't in the book."
+T150	Quotation 18716 18754	"Well, it's blamed mean-- that's all."
+T151	Quotation 18755 18940	"Well, say, Joe, you can be Friar Tuck or Much the miller's son, and lam me with a quarter-staff; or I'll be the Sheriff of Nottingham and you be Robin Hood a little while and kill me."
+T153	Entity 19147 19150	Joe
+T154	Entity 19264 19267	Tom
+T155	Cue 19268 19272	said
+T156	Quotation 19274 19352	"Where this arrow falls, there bury poor Robin Hood under the greenwood tree."
+T157	Entity 19679 19683	They
+T158	Cue 19684 19688	said
+T159	Quotation 19689 19787	they would rather be outlaws a year in Sherwood Forest than President of the United States forever
+T160	Cue 21222 21225	cry
+T161	Quotation 21229 21247	"Scat! you devil!"
+T162	Entity 23029 23031	he
+T163	Cue 23032 23036	said
+T164	Quotation 23051 23117	"Hucky, do you believe the dead people like it for us to be here?"
+T165	Entity 23118 23129	Huckleberry
+T166	Cue 23130 23139	whispered
+T167	Quotation 23141 23194	"I wisht I knowed. It's awful solemn like, AIN'T it?"
+T168	Quotation 23195 23209	"I bet it is."
+T169	Entity 23294 23297	Tom
+T170	Cue 23298 23307	whispered
+T171	Quotation 23309 23369	"Say, Hucky-- do you reckon Hoss Williams hears us talking?"
+T172	Quotation 23370 23414	"O' course he does. Least his sperrit does."
+T173	Entity 23415 23418	Tom
+T175	Quotation 23435 23523	"I wish I'd said Mister Williams. But I never meant any harm. Everybody calls him Hoss."
+T176	Quotation 23524 23604	"A body can't be too partic'lar how they talk 'bout these-yer dead people, Tom."
+T177	Entity 23663 23666	Tom
+T178	Entity 23674 23685	his comrade
+T179	Cue 23696 23700	said
+T180	Quotation 23702 23707	"Sh!"
+T181	Quotation 23708 23726	"What is it, Tom?"
+T182	Quotation 23775 23818	"Sh! There 'tis again! Didn't you hear it?"
+T183	Quotation 23819 23826	"I -- "
+T184	Quotation 23827 23852	"There! Now you hear it."
+T185	Quotation 23853 23918	"Lord, Tom, they're coming! They're coming, sure. What'll we do?"
+T186	Quotation 23919 23950	"I dono. Think they'll see us?"
+T187	Quotation 23951 24024	"Oh, Tom, they can see in the dark, same as cats. I wisht I hadn't come."
+T188	Quotation 24025 24170	"Oh, don't be afeard. I don't believe they'll bother us. We ain't doing any harm. If we keep perfectly still, maybe they won't notice us at all."
+T189	Quotation 24171 24222	"I'll try to, Tom, but, Lord, I'm all of a shiver."
+T190	Quotation 24223 24232	"Listen!"
+T191	Quotation 24363 24381	"Look! See there!"
+T192	Cue 24382 24391	whispered
+T193	Entity 24392 24395	Tom
+T194	Quotation 24397 24410	"What is it?"
+T195	Quotation 24411 24453	"It's devil-fire. Oh, Tom, this is awful."
+T196	Entity 24619 24630	Huckleberry
+T197	Cue 24631 24640	whispered
+T198	Quotation 24657 24741	"It's the devils sure enough. Three of 'em! Lordy, Tom, we're goners! Can you pray?"
+T199	Quotation 24742 24842	"I'll try, but don't you be afeard. They ain't going to hurt us. 'Now I lay me down to sleep, I-- '"
+T200	Quotation 24843 24848	"Sh!"
+T201	Quotation 24849 24868	"What is it, Huck?"
+T202	Quotation 24869 24947	"They're HUMANS! One of 'em is, anyway. One of 'em's old Muff Potter's voice."
+T203	Quotation 24948 24973	"No-- 'tain't so, is it?"
+T204	Quotation 24974 25105	"I bet I know it. Don't you stir nor budge. He ain't sharp enough to notice us. Drunk, the same as usual, likely-- blamed old rip!"
+T205	Quotation 25106 25332	"All right, I'll keep still. Now they're stuck. Can't find it. Here they come again. Now they're hot. Cold again. Hot again. Red hot! They're p'inted right, this time. Say, Huck, I know another o' them voices; it's Injun Joe."
+T206	Quotation 25333 25439	"That's so-- that murderin' half-breed! I'd druther they was devils a dern sight. What kin they be up to?"
+T207	Quotation 25569 25582	"Here it is,"
+T208	Cue 25583 25587	said
+T209	Entity 25609 25624	the owner of it
+T210	Entity 25693 25699	Potter
+T211	Entity 25704 25713	Injun Joe
+T213	Quotation 26006 26019	"Hurry, men!"
+T214	Entity 26020 26022	he
+T215	Cue 26023 26027	said
+T216	Quotation 26045 26085	"the moon might come out at any moment."
+T217	Entity 26086 26090	They
+T218	Entity 26692 26698	Potter
+T219	Cue 26779 26783	said
+T220	Quotation 26785 26884	"Now the cussed thing's ready, Sawbones, and you'll just out with another five, or here she stays."
+T221	Quotation 26885 26903	"That's the talk!"
+T222	Cue 26904 26908	said
+T223	Entity 26909 26918	Injun Joe
+T224	Quotation 26920 26953	"Look here, what does this mean?"
+T225	Cue 26954 26958	said
+T226	Entity 26959 26969	the doctor
+T227	Quotation 26971 27025	"You required your pay in advance, and I've paid you."
+T228	Quotation 27026 27061	"Yes, and you done more than that,"
+T229	Cue 27062 27066	said
+T230	Entity 27067 27076	Injun Joe
+T231	Entity 27090 27100	the doctor
+T232	Quotation 27124 27509	"Five years ago you drove me away from your father's kitchen one night, when I come to ask for something to eat, and you said I warn't there for any good; and when I swore I'd get even with you if it took a hundred years, your father had me jailed for a vagrant. Did you think I'd forget? The Injun blood ain't in me for nothing. And now I've GOT you, and you got to SETTLE, you know!"
+T233	Entity 27654 27660	Potter
+T234	Cue 27684 27693	exclaimed
+T235	Quotation 27695 27730	"Here, now, don't you hit my pard!"
+T236	Entity 27772 27782	the doctor
+T237	Entity 28628 28638	The doctor
+T238	Entity 28703 28717	The half-breed
+T239	Cue 28718 28726	muttered
+T240	Quotation 28728 28763	"THAT score is settled-- damn you."
+T242	Quotation 29175 29200	"Lord, how is this, Joe?"
+T243	Entity 29201 29203	he
+T244	Cue 29204 29208	said
+T245	Quotation 29210 29234	"It's a dirty business,"
+T246	Cue 29235 29239	said
+T247	Entity 29240 29243	Joe
+T248	Quotation 29261 29286	"What did you do it for?"
+T249	Quotation 29287 29308	"I! I never done it!"
+T250	Quotation 29309 29351	"Look here! That kind of talk won't wash."
+T251	Entity 29352 29358	Potter
+T252	Quotation 29384 29761	"I thought I'd got sober. I'd no business to drink to-night. But it's in my head yet-- worse'n when we started here. I'm all in a muddle; can't recollect anything of it, hardly. Tell me, Joe-- HONEST, now, old feller-- did I do it? Joe, I never meant to-- 'pon my soul and honor, I never meant to, Joe. Tell me how it was, Joe. Oh, it's awful-- and him so young and promising."
+T253	Quotation 29762 30048	"Why, you two was scuffling, and he fetched you one with the headboard and you fell flat; and then up you come, all reeling and staggering like, and snatched the knife and jammed it into him, just as he fetched you another awful clip-- and here you've laid, as dead as a wedge til now."
+T254	Quotation 30049 30467	"Oh, I didn't know what I was a-doing. I wish I may die this minute if I did. It was all on account of the whiskey and the excitement, I reckon. I never used a weepon in my life before, Joe. I've fought, but never with weepons. They'll all say that. Joe, don't tell! Say you won't tell, Joe-- that's a good feller. I always liked you, Joe, and stood up for you, too. Don't you remember? You WON'T tell, WILL you, Joe?"
+T255	Quotation 30572 30707	"No, you've always been fair and square with me, Muff Potter, and I won't go back on you. There, now, that's as fair as a man can say."
+T256	Quotation 30708 30783	"Oh, Joe, you're an angel. I'll bless you for this the longest day I live."
+T257	Entity 30788 30794	Potter
+T258	Quotation 30809 30970	"Come, now, that's enough of that. This ain't any time for blubbering. You be off yonder way and I'll go this. Move, now, and don't leave any tracks behind you."
+T259	Entity 30971 30977	Potter
+T261	Entity 31069 31071	He
+T262	Cue 31072 31080	muttered
+T263	Quotation 31082 31307	"If he's as much stunned with the lick and fuddled with the rum as he had the look of being, he won't think of the knife till he's gone so far he'll be afraid to come back after it to such a place by himself --chicken-heart!"
+T264	Quotation 31944 32005	"If we can only get to the old tannery before we break down!"
+T265	Cue 32006 32015	whispered
+T266	Entity 32016 32019	Tom
+T267	Quotation 32055 32086	"I can't stand it much longer."
+T268	Entity 32087 32098	Huckleberry
+T270	Entity 32425 32428	Tom
+T271	Cue 32429 32438	whispered
+T272	Quotation 32440 32490	"Huckleberry, what do you reckon'll come of this?"
+T273	Quotation 32491 32549	"If Doctor Robinson dies, I reckon hanging'll come of it."
+T274	Quotation 32550 32566	"Do you though?"
+T275	Quotation 32567 32589	"Why, I KNOW it, Tom."
+T277	Entity 32616 32618	he
+T278	Cue 32619 32623	said
+T279	Quotation 32625 32643	"Who'll tell? We?"
+T280	Quotation 32644 32806	"What are you talking about? S'pose something happened and Injun Joe DIDN'T hang? Why, he'd kill us some time or other, just as dead sure as we're a laying here."
+T281	Quotation 32807 32857	"That's just what I was thinking to myself, Huck."
+T282	Quotation 32858 32950	"If anybody tells, let Muff Potter do it, if he's fool enough. He's generally drunk enough."
+T283	Entity 32998 33000	he
+T284	Cue 33001 33010	whispered
+T285	Quotation 33012 33063	"Huck, Muff Potter don't know it. How can he tell?"
+T286	Quotation 33064 33101	"What's the reason he don't know it?"
+T287	Quotation 33102 33229	"Because he'd just got that whack when Injun Joe done it. D'you reckon he could see anything? D'you reckon he knowed anything?"
+T288	Quotation 33230 33257	"By hokey, that's so, Tom!"
+T289	Quotation 33258 33317	"And besides, look-a-here-- maybe that whack done for HIM!"
+T290	Quotation 33318 33670	"No, 'taint likely, Tom. He had liquor in him; I could see that; and besides, he always has. Well, when pap's full, you might take and belt him over the head with a church and you couldn't phase him. He says so, his own self. So it's the same with Muff Potter, of course. But if a man was dead sober, I reckon maybe that whack might fetch him; I dono."
+T291	Entity 33705 33708	Tom
+T292	Cue 33709 33713	said
+T293	Quotation 33715 33750	"Hucky, you sure you can keep mum?"
+T294	Quotation 33751 34034	"Tom, we GOT to keep mum. You know that. That Injun devil wouldn't make any more of drownding us than a couple of cats, if we was to squeak 'bout this and they didn't hang him. Now, look-a-here, Tom, less take and swear to one another-- that's what we got to do-- swear to keep mum."
+T295	Quotation 34035 34117	"I'm agreed. It's the best thing. Would you just hold hands and swear that we -- "
+T296	Quotation 34118 34361	"Oh no, that wouldn't do for this. That's good enough for little rubbishy common things-- specially with gals, cuz THEY go back on you anyway, and blab if they get in a huff-- but there orter be writing 'bout a big thing like this. And blood."
+T297	Entity 34971 34982	Huckleberry
+T299	Entity 35150 35153	Tom
+T300	Cue 35154 35158	said
+T301	Quotation 35160 35233	"Hold on! Don't do that. A pin's brass. It might have verdigrease on it."
+T302	Quotation 35234 35255	"What's verdigrease?"
+T303	Quotation 35256 35336	"It's p'ison. That's what it is. You just swaller some of it once --you'll see."
+T304	Entity 35495 35498	Tom
+T306	Quotation 35957 35963	"Tom,"
+T307	Cue 35964 35973	whispered
+T308	Entity 35974 35985	Huckleberry
+T309	Quotation 35987 36034	"does this keep us from EVER telling --ALWAYS?"
+T310	Quotation 36035 36161	"Of course it does. It don't make any difference WHAT happens, we got to keep mum. We'd drop down dead-- don't YOU know that?"
+T311	Quotation 36162 36188	"Yes, I reckon that's so."
+T312	Quotation 36385 36412	"Which of us does he mean?"
+T313	Cue 36413 36419	gasped
+T314	Entity 36420 36431	Huckleberry
+T315	Quotation 36433 36474	"I dono-- peep through the crack. Quick!"
+T316	Quotation 36475 36490	"No, YOU, Tom!"
+T317	Quotation 36491 36524	"I can't -- I can't DO it, Huck!"
+T318	Quotation 36525 36557	"Please, Tom. There 'tis again!"
+T319	Quotation 36558 36584	"Oh, lordy, I'm thankful!"
+T320	Cue 36585 36594	whispered
+T321	Entity 36595 36598	Tom
+T322	Quotation 36600 36639	"I know his voice. It's Bull Harbison."
+T323	Quotation 36789 36893	"Oh, that's good -- I tell you, Tom, I was most scared to death; I'd a bet anything it was a STRAY dog."
+T324	Quotation 36949 36987	"Oh, my! that ain't no Bull Harbison!"
+T325	Cue 36988 36997	whispered
+T326	Entity 36998 37009	Huckleberry
+T327	Quotation 37011 37021	"DO, Tom!"
+T329	Entity 37121 37123	he
+T330	Cue 37124 37128	said
+T331	Quotation 37130 37159	"Oh, Huck, IT S A STRAY DOG!"
+T332	Quotation 37160 37198	"Quick, Tom, quick! Who does he mean?"
+T333	Quotation 37199 37251	"Huck, he must mean us both-- we're right together."
+T334	Quotation 37252 37359	"Oh, Tom, I reckon we're goners. I reckon there ain't no mistake 'bout where I'LL go to. I been so wicked."
+T335	Quotation 37360 37606	"Dad fetch it! This comes of playing hookey and doing everything a feller's told NOT to do. I might a been good, like Sid, if I'd a tried --but no, I wouldn't, of course. But if ever I get off this time, I lay I'll just WALLER in Sunday-schools!"
+T336	Entity 37611 37614	Tom
+T337	Quotation 37642 37652	"YOU bad!"
+T338	Entity 37657 37668	Huckleberry
+T339	Quotation 37691 37824	"Consound it, Tom Sawyer, you're just old pie, 'longside o' what I am. Oh, LORDY, lordy, lordy, I wisht I only had half your chance."
+T340	Entity 37825 37828	Tom
+T341	Cue 37844 37853	whispered
+T342	Quotation 37855 37900	"Look, Hucky, look! He's got his BACK to us!"
+T343	Entity 37901 37906	Hucky
+T344	Quotation 37938 37980	"Well, he has, by jingoes! Did he before?"
+T345	Quotation 37981 38080	"Yes, he did. But I, like a fool, never thought. Oh, this is bully, you know. NOW who can he mean?"
+T346	Quotation 38127 38145	"Sh! What's that?"
+T347	Entity 38146 38148	he
+T348	Cue 38149 38158	whispered
+T349	Quotation 38160 38228	"Sounds like-- like hogs grunting. No-- it's somebody snoring, Tom."
+T350	Quotation 38229 38268	"That IS it! Where 'bouts is it, Huck?"
+T351	Quotation 38269 38505	"I bleeve it's down at 'tother end. Sounds so, anyway. Pap used to sleep there, sometimes, 'long with the hogs, but laws bless you, he just lifts things when HE snores. Besides, I reckon he ain't ever coming back to this town any more."
+T352	Quotation 38565 38603	"Hucky, do you das't to go if I lead?"
+T353	Quotation 38604 38656	"I don't like to, much. Tom, s'pose it's Injun Joe!"
+T354	Entity 38657 38660	Tom
+T355	Entity 38951 38954	Tom
+T356	Quotation 39523 39547	"Oh, geeminy, it's HIM!"
+T357	Cue 39548 39557	exclaimed
+T358	Entity 39558 39567	both boys
+T359	Quotation 39582 39825	"Say, Tom-- they say a stray dog come howling around Johnny Miller's house, 'bout midnight, as much as two weeks ago; and a whippoorwill come in and lit on the banisters and sung, the very same evening; and there ain't anybody dead there yet."
+T360	Quotation 39826 39967	"Well, I know that. And suppose there ain't. Didn't Gracie Miller fall in the kitchen fire and burn herself terrible the very next Saturday?"
+T361	Quotation 39968 40038	"Yes, but she ain't DEAD. And what's more, she's getting better, too."
+T362	Quotation 40039 40209	"All right, you wait and see. She's a goner, just as dead sure as Muff Potter's a goner. That's what the niggers say, and they know all about these kind of things, Huck."
+T364	Entity 41319 41327	His aunt
+T365	Cue 41346 41351	asked
+T366	Entity 41352 41355	him
+T367	Quotation 41356 41398	how he could go and break her old heart so
+T368	Cue 41412 41416	told
+T369	Entity 41417 41420	him
+T370	Quotation 41421 41540	to go on, and ruin himself and bring her gray hairs with sorrow to the grave, for it was no use for her to try any more
+T371	Entity 41629 41631	He
+T372	Cue 41632 41637	cried
+T373	Cue 41642 41649	pleaded
+T374	Quotation 41650 41665	for forgiveness
+T375	Cue 41667 41675	promised
+T376	Quotation 41676 41685	to reform
+T377	Cue 41716 41724	received
+T378	Quotation 41725 41738	his dismissal
+T379	Entity 44377 44386	everybody
+T380	Cue 44391 44398	talking
+T381	Quotation 44450 44464	"Poor fellow!"
+T382	Quotation 44465 44485	"Poor young fellow!"
+T383	Quotation 44486 44531	"This ought to be a lesson to grave robbers!"
+T384	Quotation 44532 44581	"Muff Potter'll hang for this if they catch him!"
+T385	Entity 44616 44628	the minister
+T386	Cue 44629 44633	said
+T387	Quotation 44635 44673	"It was a judgment; His hand is here."
+T388	Entity 44819 44825	voices
+T389	Cue 44826 44833	shouted
+T390	Quotation 44835 44877	"It's him! it's him! he's coming himself!"
+T391	Quotation 44878 44889	"Who? Who?"
+T392	Entity 44895 44908	twenty voices
+T393	Quotation 44910 44924	"Muff Potter!"
+T394	Quotation 44925 44997	"Hallo, he's stopped!-- Look out, he's turning! Don't let him get away!"
+T395	Entity 44998 45049	People in the branches of the trees over Tom's head
+T396	Cue 45050 45054	said
+T397	Quotation 45055 45123	he wasn't trying to get away-- he only looked doubtful and perplexed
+T398	Quotation 45125 45146	"Infernal impudence!"
+T399	Cue 45147 45151	said
+T400	Entity 45152 45163	a bystander
+T401	Quotation 45165 45254	"wanted to come and take a quiet look at his work, I reckon-- didn't expect any company."
+T403	Quotation 45558 45584	"I didn't do it, friends,"
+T404	Entity 45585 45587	he
+T405	Cue 45588 45594	sobbed
+T406	Quotation 45596 45637	"'pon my word and honor I never done it."
+T407	Quotation 45638 45658	"Who's accused you?"
+T408	Cue 45659 45666	shouted
+T409	Entity 45667 45674	a voice
+T410	Entity 45795 45797	He
+T411	Entity 45802 45811	Injun Joe
+T412	Cue 45817 45826	exclaimed
+T413	Quotation 45828 45876	"Oh, Injun Joe, you promised me you'd never -- "
+T414	Quotation 45877 45898	"Is that your knife?"
+T415	Entity 45924 45927	him
+T416	Entity 45931 45942	the Sheriff
+T417	Entity 46030 46032	he
+T418	Cue 46033 46037	said
+T419	Quotation 46039 46095	"Something told me 't if I didn't come back and get -- "
+T420	Entity 46096 46098	He
+T421	Cue 46170 46174	said
+T422	Quotation 46176 46230	"Tell 'em, Joe, tell 'em-- it ain't any use any more."
+T423	Entity 46290 46312	the stony-hearted liar
+T424	Quotation 46788 46847	"Why didn't you leave? What did you want to come here for?"
+T425	Entity 46848 46856	somebody
+T426	Cue 46857 46861	said
+T427	Quotation 46863 46906	"I couldn't help it -- I couldn't help it,"
+T428	Entity 46907 46913	Potter
+T429	Cue 46914 46920	moaned
+T430	Quotation 46922 46992	"I wanted to run away, but I couldn't seem to come anywhere but here."
+T431	Entity 47023 47032	Injun Joe
+T432	Cue 47033 47041	repeated
+T433	Quotation 47042 47055	his statement
+T434	Entity 47834 47856	more than one villager
+T435	Cue 47857 47865	remarked
+T436	Quotation 47867 47925	"It was within three feet of Muff Potter when it done it."
+T438	Entity 48053 48056	Sid
+T439	Cue 48057 48061	said
+T440	Quotation 48063 48155	"Tom, you pitch around and talk in your sleep so much that you keep me awake half the time."
+T441	Entity 48156 48159	Tom
+T442	Quotation 48191 48209	"It's a bad sign,"
+T443	Cue 48210 48214	said
+T444	Entity 48215 48225	Aunt Polly
+T445	Quotation 48236 48269	"What you got on your mind, Tom?"
+T446	Quotation 48270 48302	"Nothing. Nothing 't I know of."
+T447	Entity 48307 48314	the boy
+T448	Quotation 48359 48388	"And you do talk such stuff,"
+T449	Entity 48389 48392	Sid
+T450	Cue 48393 48397	said
+T451	Quotation 48399 48579	"Last night you said, 'It's blood, it's blood, that's what it is!' You said that over and over. And you said, 'Don't torment me so-- I'll tell!' Tell WHAT? What is it you'll tell?"
+T453	Entity 48739 48744	Tom's
+T454	Entity 48772 48775	She
+T455	Cue 48776 48780	said
+T456	Quotation 48782 48897	"Sho! It's that dreadful murder. I dream about it most every night myself. Sometimes I dream it's me that done it."
+T457	Entity 48898 48902	Mary
+T458	Cue 48903 48907	said
+T459	Quotation 48908 48947	she had been affected much the same way
+T461	Entity 53372 53375	she
+T462	Quotation 53403 53451	"the yellow stains of it came through his pores"
+T463	Entity 53457 53460	Tom
+T464	Cue 53461 53465	said
+T466	Entity 55404 55407	Tom
+T467	Cue 55408 55412	said
+T468	Quotation 55414 55459	"Don't ask for it unless you want it, Peter."
+T469	Entity 55464 55469	Peter
+T470	Quotation 55501 55524	"You better make sure."
+T471	Entity 55525 55530	Peter
+T472	Quotation 55541 55716	"Now you've asked for it, and I'll give it to you, because there ain't anything mean about me; but if you find you don't like it, you mustn't blame anybody but your own self."
+T475	Entity 56419 56431	The old lady
+T476	Entity 56493 56496	Tom
+T477	Quotation 56538 56573	"Tom, what on earth ails that cat?"
+T478	Quotation 56574 56595	"I don't know, aunt,"
+T479	Cue 56596 56602	gasped
+T480	Entity 56603 56610	the boy
+T481	Quotation 56612 56674	"Why, I never see anything like it. What did make him act so?"
+T482	Quotation 56675 56759	"Deed I don't know, Aunt Polly; cats always act so when they're having a good time."
+T483	Quotation 56760 56779	"They do, do they?"
+T484	Entity 56822 56825	Tom
+T485	Quotation 56840 56876	"Yes'm. That is, I believe they do."
+T486	Quotation 56877 56886	"You DO?"
+T487	Quotation 56887 56895	"Yes'm."
+T491	Entity 57148 57158	Aunt Polly
+T492	Entity 57166 57169	him
+T493	Quotation 57249 57317	"Now, sir, what did you want to treat that poor dumb beast so, for?"
+T494	Quotation 57318 57379	"I done it out of pity for him-- because he hadn't any aunt."
+T495	Quotation 57380 57447	"Hadn't any aunt!-- you numskull. What has that got to do with it?"
+T496	Quotation 57448 57597	"Heaps. Because if he'd had one she'd a burnt him out herself! She'd a roasted his bowels out of him 'thout any more feeling than if he was a human!"
+T498	Entity 57809 57812	she
+T499	Entity 57829 57832	Tom
+T500	Cue 57844 57848	said
+T501	Quotation 57857 57921	"I was meaning for the best, Tom. And, Tom, it DID do you good."
+T502	Entity 57922 57925	Tom
+T503	Entity 57939 57942	her
+T504	Quotation 58009 58142	"I know you was meaning for the best, aunty, and so was I with Peter. It done HIM good, too. I never see him get around so since -- "
+T505	Quotation 58143 58301	"Oh, go 'long with you, Tom, before you aggravate me again. And you try and see if you can't be a good boy, for once, and you needn't take any more medicine."
+T508	Entity 60047 60050	her
+T509	Cue 60051 60054	say
+T510	Quotation 60056 60122	"Mf! some people think they're mighty smart-- always showing off!"
+T511	Entity 63559 63586	All who got this vague hint
+T512	Cue 63592 63601	cautioned
+T513	Quotation 63605 63623	"be mum and wait."
+T514	Entity 63982 63985	Tom
+T515	Entity 64057 64072	a guarded voice
+T516	Cue 64073 64077	said
+T517	Quotation 64079 64096	"Who goes there?"
+T518	Quotation 64097 64166	"Tom Sawyer, the Black Avenger of the Spanish Main. Name your names."
+T519	Quotation 64167 64233	"Huck Finn the Red-Handed, and Joe Harper the Terror of the Seas."
+T520	Entity 64234 64237	Tom
+T521	Quotation 64296 64330	"'Tis well. Give the countersign."
+T522	Entity 64331 64350	Two hoarse whispers
+T523	Cue 64351 64360	delivered
+T524	Quotation 64419 64427	"BLOOD!"
+T526	Entity 65303 65307	They
+T527	Cue 65342 65348	saying
+T528	Quotation 65350 65357	"Hist!"
+T529	Cue 65468 65481	giving orders
+T530	Quotation 65531 65561	"let him have it to the hilt,"
+T531	Quotation 65570 65595	"dead men tell no tales."
+T532	Entity 65829 65833	Huck
+T533	Entity 65875 65878	Tom
+T534	Cue 65937 65952	gave his orders
+T535	Quotation 65978 66012	"Luff, and bring her to the wind!"
+T536	Quotation 66013 66028	"Aye-aye, sir!"
+T537	Quotation 66029 66052	"Steady, steady-y-y-y!"
+T538	Quotation 66053 66073	"Steady it is, sir!"
+T539	Quotation 66074 66099	"Let her go off a point!"
+T540	Quotation 66100 66119	"Point it is, sir!"
+T541	Quotation 66319 66346	"What sail's she carrying?"
+T542	Quotation 66347 66387	"Courses, tops'ls, and flying-jib, sir."
+T543	Quotation 66388 66485	"Send the r'yals up! Lay out aloft, there, half a dozen of ye --foretopmaststuns'l! Lively, now!"
+T544	Quotation 66486 66501	"Aye-aye, sir!"
+T545	Quotation 66502 66570	"Shake out that maintogalans'l! Sheets and braces! NOW my hearties!"
+T546	Quotation 66571 66586	"Aye-aye, sir!"
+T547	Quotation 66587 66701	"Hellum-a-lee-- hard a port! Stand by to meet her when she comes! Port, port! NOW, men! With a will! Stead-y-y-y!"
+T548	Quotation 66702 66722	"Steady it is, sir!"
+T549	Quotation 69187 69202	"AIN'T it gay?"
+T550	Cue 69203 69207	said
+T551	Entity 69208 69211	Joe
+T552	Quotation 69213 69225	"It's NUTS!"
+T553	Cue 69226 69230	said
+T554	Entity 69231 69234	Tom
+T555	Quotation 69236 69283	"What would the boys say if they could see us?"
+T556	Quotation 69284 69337	"Say? Well, they'd just die to be here-- hey, Hucky!"
+T557	Quotation 69338 69352	"I reckon so,"
+T558	Cue 69353 69357	said
+T559	Entity 69358 69369	Huckleberry
+T560	Quotation 69371 69539	"anyways, I'm suited. I don't want nothing better'n this. I don't ever get enough to eat, gen'ally-- and here they can't come and pick at a feller and bullyrag him so."
+T561	Quotation 69540 69568	"It's just the life for me,"
+T562	Cue 69569 69573	said
+T563	Entity 69574 69577	Tom
+T564	Quotation 69579 69874	"You don't have to get up, mornings, and you don't have to go to school, and wash, and all that blame foolishness. You see a pirate don't have to do ANYTHING, Joe, when he's ashore, but a hermit HE has to be praying considerable, and then he don't have any fun, anyway, all by himself that way."
+T565	Quotation 69875 69895	"Oh yes, that's so,"
+T566	Cue 69896 69900	said
+T567	Entity 69901 69904	Joe
+T568	Quotation 69906 70013	"but I hadn't thought much about it, you know. I'd a good deal rather be a pirate, now that I've tried it."
+T569	Quotation 70014 70024	"You see,"
+T570	Cue 70025 70029	said
+T571	Entity 70030 70033	Tom
+T572	Quotation 70035 70282	"people don't go much on hermits, nowadays, like they used to in old times, but a pirate's always respected. And a hermit's got to sleep on the hardest place he can find, and put sackcloth and ashes on his head, and stand out in the rain, and -- "
+T573	Quotation 70283 70338	"What does he put sackcloth and ashes on his head for?"
+T574	Cue 70339 70347	inquired
+T575	Entity 70348 70352	Huck
+T576	Quotation 70354 70451	"I dono. But they've GOT to do it. Hermits always do. You'd have to do that if you was a hermit."
+T577	Quotation 70452 70472	"Dern'd if I would,"
+T578	Cue 70473 70477	said
+T579	Entity 70478 70482	Huck
+T580	Quotation 70484 70510	"Well, what would you do?"
+T581	Quotation 70511 70544	"I dono. But I wouldn't do that."
+T582	Quotation 70545 70597	"Why, Huck, you'd HAVE to. How'd you get around it?"
+T583	Quotation 70598 70644	"Why, I just wouldn't stand it. I'd run away."
+T584	Quotation 70645 70727	"Run away! Well, you WOULD be a nice old slouch of a hermit. You'd be a disgrace."
+T585	Entity 71113 71117	Huck
+T586	Cue 71118 71122	said
+T587	Quotation 71124 71155	"What does pirates have to do?"
+T588	Entity 71156 71159	Tom
+T589	Cue 71160 71164	said
+T590	Quotation 71166 71391	"Oh, they have just a bully time-- take ships and burn them, and get the money and bury it in awful places in their island where there's ghosts and things to watch it, and kill everybody in the ships-- make 'em walk a plank."
+T591	Quotation 71392 71433	"And they carry the women to the island,"
+T592	Cue 71434 71438	said
+T593	Entity 71439 71442	Joe
+T594	Quotation 71444 71472	"they don't kill the women."
+T595	Quotation 71473 71478	"No,"
+T596	Cue 71479 71487	assented
+T597	Entity 71488 71491	Tom
+T598	Quotation 71493 71580	"they don't kill the women-- they're too noble. And the women's always beautiful, too."
+T599	Quotation 71581 71665	"And don't they wear the bulliest clothes! Oh no! All gold and silver and di'monds,"
+T600	Cue 71666 71670	said
+T601	Entity 71671 71674	Joe
+T602	Quotation 71693 71699	"Who?"
+T603	Cue 71700 71704	said
+T604	Entity 71705 71709	Huck
+T605	Quotation 71711 71730	"Why, the pirates."
+T606	Quotation 71772 71819	"I reckon I ain't dressed fitten for a pirate,"
+T607	Cue 71820 71824	said
+T608	Entity 71825 71827	he
+T609	Quotation 71867 71900	"but I ain't got none but these."
+T610	Entity 71905 71919	the other boys
+T611	Cue 71920 71924	told
+T612	Entity 71925 71928	him
+T613	Quotation 71929 72015	the fine clothes would come fast enough, after they should have begun their adventures
+T614	Quotation 74766 74782	he was measuring
+T615	Entity 74784 74787	Tom
+T616	Cue 74788 74792	said
+T617	Entity 75516 75540	A brown spotted lady-bug
+T618	Entity 75588 75591	Tom
+T620	Cue 75618 75622	said
+T621	Quotation 75624 75706	"Lady-bug, lady-bug, fly away home, your house is on fire, your children's alone,"
+T622	Entity 77743 77755	Tom and Huck
+T623	Cue 77756 77761	asked
+T624	Entity 77762 77765	him
+T625	Quotation 77766 77785	to hold on a minute
+T626	Quotation 80293 80306	"What is it!"
+T627	Cue 80307 80316	exclaimed
+T628	Entity 80317 80320	Joe
+T629	Quotation 80340 80351	"I wonder,"
+T630	Cue 80352 80356	said
+T631	Entity 80357 80360	Tom
+T632	Quotation 80375 80393	"'Tain't thunder,"
+T633	Cue 80394 80398	said
+T634	Entity 80399 80410	Huckleberry
+T635	Quotation 80429 80448	"becuz thunder -- "
+T636	Quotation 80449 80456	"Hark!"
+T637	Cue 80457 80461	said
+T638	Entity 80462 80465	Tom
+T639	Quotation 80467 80489	"Listen-- don't talk."
+T640	Quotation 80586 80605	"Let's go and see."
+T641	Quotation 81228 81241	"I know now!"
+T642	Cue 81242 81251	exclaimed
+T643	Entity 81252 81255	Tom
+T644	Quotation 81257 81279	"somebody's drownded!"
+T645	Quotation 81280 81292	"That's it!"
+T646	Cue 81293 81297	said
+T647	Entity 81298 81302	Huck
+T648	Quotation 81304 81603	"they done that last summer, when Bill Turner got drownded; they shoot a cannon over the water, and that makes him come up to the top. Yes, and they take loaves of bread and put quicksilver in 'em and set 'em afloat, and wherever there's anybody that's drownded, they'll float right there and stop."
+T649	Quotation 81604 81633	"Yes, I've heard about that,"
+T650	Cue 81634 81638	said
+T651	Entity 81639 81642	Joe
+T652	Quotation 81644 81684	"I wonder what makes the bread do that."
+T653	Quotation 81685 81719	"Oh, it ain't the bread, so much,"
+T654	Cue 81720 81724	said
+T655	Entity 81725 81728	Tom
+T656	Quotation 81730 81800	"I reckon it's mostly what they SAY over it before they start it out."
+T657	Quotation 81801 81839	"But they don't say anything over it,"
+T658	Cue 81840 81844	said
+T659	Entity 81845 81849	Huck
+T660	Quotation 81851 81882	"I've seen 'em and they don't."
+T661	Quotation 81883 81904	"Well, that's funny,"
+T662	Cue 81905 81909	said
+T663	Entity 81910 81913	Tom
+T664	Quotation 81915 81997	"But maybe they say it to themselves. Of COURSE they do. Anybody might know that."
+T665	Entity 81998 82012	The other boys
+T666	Cue 82013 82019	agreed
+T667	Quotation 82020 82214	that there was reason in what Tom said, because an ignorant lump of bread, uninstructed by an incantation, could not be expected to act very intelligently when set upon an errand of such gravity
+T668	Quotation 82216 82257	"By jings, I wish I was over there, now,"
+T669	Cue 82258 82262	said
+T670	Entity 82263 82266	Joe
+T671	Quotation 82268 82278	"I do too"
+T672	Cue 82279 82283	said
+T673	Entity 82284 82288	Huck
+T674	Quotation 82289 82324	"I'd give heaps to know who it is."
+T676	Entity 82424 82426	he
+T677	Cue 82427 82436	exclaimed
+T678	Quotation 82438 82478	"Boys, I know who's drownded-- it's us!"
+T679	Entity 87094 87097	Sid
+T680	Quotation 87500 87532	"What makes the candle blow so?"
+T681	Cue 87533 87537	said
+T682	Entity 87538 87548	Aunt Polly
+T684	Quotation 87566 87680	"Why, that door's open, I believe. Why, of course it is. No end of strange things now. Go 'long and shut it, Sid."
+T686	Quotation 87830 87852	"But as I was saying,"
+T687	Cue 87853 87857	said
+T688	Entity 87858 87868	Aunt Polly
+T689	Quotation 87870 88076	"he warn't BAD, so to say --only mischEEvous. Only just giddy, and harum-scarum, you know. He warn't any more responsible than a colt. HE never meant any harm, and he was the best-hearted boy that ever was"
+T691	Quotation 88101 88480	"It was just so with my Joe-- always full of his devilment, and up to every kind of mischief, but he was just as unselfish and kind as he could be-- and laws bless me, to think I went and whipped him for taking that cream, never once recollecting that I throwed it out myself because it was sour, and I never to see him again in this world, never, never, never, poor abused boy!"
+T692	Entity 88485 88496	Mrs. Harper
+T693	Quotation 88533 88571	"I hope Tom's better off where he is,"
+T694	Cue 88572 88576	said
+T695	Entity 88577 88580	Sid
+T696	Quotation 88582 88624	"but if he'd been better in some ways -- "
+T697	Quotation 88625 88631	"SID!"
+T698	Entity 88654 88666	the old lady
+T699	Quotation 88702 88974	"Not a word against my Tom, now that he's gone! God'll take care of HIM-- never you trouble YOURself, sir! Oh, Mrs. Harper, I don't know how to give him up! I don't know how to give him up! He was such a comfort to me, although he tormented my old heart out of me, 'most."
+T700	Quotation 88975 89289	"The Lord giveth and the Lord hath taken away-- Blessed be the name of the Lord! But it's so hard-- Oh, it's so hard! Only last Saturday my Joe busted a firecracker right under my nose and I knocked him sprawling. Little did I know then, how soon-- Oh, if it was to do over again I'd hug him and bless him for it."
+T701	Quotation 89290 89701	"Yes, yes, yes, I know just how you feel, Mrs. Harper, I know just exactly how you feel. No longer ago than yesterday noon, my Tom took and filled the cat full of Pain-killer, and I did think the cretur would tear the house down. And God forgive me, I cracked Tom's head with my thimble, poor boy, poor dead boy. But he's out of all his troubles now. And the last words I ever heard him say was to reproach -- "
+T704	Entity 91284 91295	Mrs. Harper
+T705	Cue 91296 91300	gave
+T706	Quotation 91301 91321	a sobbing good-night
+T707	Entity 93739 93742	Joe
+T708	Cue 93743 93746	say
+T709	Quotation 93748 93955	"No, Tom's true-blue, Huck, and he'll come back. He won't desert. He knows that would be a disgrace to a pirate, and Tom's too proud for that sort of thing. He's up to something or other. Now I wonder what?"
+T710	Quotation 93956 94003	"Well, the things is ours, anyway, ain't they?"
+T711	Quotation 94004 94099	"Pretty near, but not yet, Huck. The writing says they are if he ain't back here to breakfast."
+T712	Quotation 94100 94114	"Which he is!"
+T713	Cue 94115 94124	exclaimed
+T714	Entity 94125 94128	Tom
+T715	Entity 96293 96297	Huck
+T716	Entity 97127 97130	Joe
+T717	Entity 97285 97289	Huck
+T718	Entity 97503 97505	He
+T719	Cue 97506 97510	said
+T720	Quotation 97547 97739	"I bet there's been pirates on this island before, boys. We'll explore it again. They've hid treasures here somewhere. How'd you feel to light on a rotten chest full of gold and silver-- hey?"
+T722	Entity 97969 97971	he
+T723	Cue 97972 97976	said
+T724	Quotation 97978 98044	"Oh, boys, let's give it up. I want to go home. It's so lonesome."
+T725	Quotation 98045 98088	"Oh no, Joe, you'll feel better by and by,"
+T726	Cue 98089 98093	said
+T727	Entity 98094 98097	Tom
+T728	Quotation 98099 98139	"Just think of the fishing that's here."
+T729	Quotation 98140 98186	"I don't care for fishing. I want to go home."
+T730	Quotation 98187 98248	"But, Joe, there ain't such another swimming-place anywhere."
+T731	Quotation 98249 98376	"Swimming's no good. I don't seem to care for it, somehow, when there ain't anybody to say I sha'n't go in. I mean to go home."
+T732	Quotation 98377 98435	"Oh, shucks! Baby! You want to see your mother, I reckon."
+T733	Quotation 98436 98543	"Yes, I DO want to see my mother-- and you would, too, if you had one. I ain't any more baby than you are."
+T734	Entity 98548 98551	Joe
+T735	Quotation 98571 98759	"Well, we'll let the cry-baby go home to his mother, won't we, Huck? Poor thing-- does it want to see its mother? And so it shall. You like it here, don't you, Huck? We'll stay, won't we?"
+T736	Entity 98760 98764	Huck
+T737	Cue 98765 98769	said
+T738	Quotation 98771 98778	"Y-e-s"
+T739	Quotation 98806 98856	"I'll never speak to you again as long as I live,"
+T740	Cue 98857 98861	said
+T741	Entity 98862 98865	Joe
+T742	Quotation 98875 98887	"There now!"
+T744	Quotation 98942 98954	"Who cares!"
+T745	Cue 98955 98959	said
+T746	Entity 98960 98963	Tom
+T747	Quotation 98965 99180	"Nobody wants you to. Go 'long home and get laughed at. Oh, you're a nice pirate. Huck and me ain't cry-babies. We'll stay, won't we, Huck? Let him go if he wants to. I reckon we can get along without him, per'aps."
+T750	Entity 99481 99484	Tom
+T751	Entity 99585 99587	he
+T752	Cue 99588 99592	said
+T753	Quotation 99594 99701	"I want to go, too, Tom. It was getting so lonesome anyway, and now it'll be worse. Let's us go, too, Tom."
+T754	Quotation 99702 99760	"I won't! You can all go, if you want to. I mean to stay."
+T755	Quotation 99761 99780	"Tom, I better go."
+T756	Quotation 99781 99820	"Well, go 'long-- who's hendering you."
+T757	Entity 99866 99868	He
+T758	Cue 99869 99873	said
+T759	Quotation 99875 99970	"Tom, I wisht you'd come, too. Now you think it over. We'll wait for you when we get to shore."
+T760	Quotation 99971 100021	"Well, you'll wait a blame long time, that's all."
+T762	Entity 100295 100297	He
+T763	Entity 100360 100372	his comrades
+T764	Cue 100374 100381	yelling
+T765	Quotation 100383 100426	"Wait! Wait! I want to tell you something!"
+T767	Entity 101581 101585	they
+T768	Entity 101607 101610	Tom
+T769	Cue 101611 101615	said
+T770	Quotation 101617 101695	"Why, it's just as easy! If I'd a knowed this was all, I'd a learnt long ago."
+T771	Quotation 101696 101709	"So would I,"
+T772	Cue 101710 101714	said
+T773	Entity 101715 101718	Joe
+T774	Quotation 101720 101740	"It's just nothing."
+T775	Quotation 101741 101860	"Why, many a time I've looked at people smoking, and thought well I wish I could do that; but I never thought I could,"
+T776	Cue 101861 101865	said
+T777	Entity 101866 101869	Tom
+T778	Quotation 101871 102010	"That's just the way with me, hain't it, Huck? You've heard me talk just that way-- haven't you, Huck? I'll leave it to Huck if I haven't."
+T779	Quotation 102011 102034	"Yes-- heaps of times,"
+T780	Cue 102035 102039	said
+T781	Entity 102040 102044	Huck
+T782	Quotation 102046 102065	"Well, I have too,"
+T783	Cue 102066 102070	said
+T784	Entity 102071 102074	Tom
+T785	Quotation 102076 102284	"oh, hundreds of times. Once down by the slaughter-house. Don't you remember, Huck? Bob Tanner was there, and Johnny Miller, and Jeff Thatcher, when I said it. Don't you remember, Huck, 'bout me saying that?"
+T786	Quotation 102285 102302	"Yes, that's so,"
+T787	Cue 102303 102307	said
+T788	Entity 102308 102312	Huck
+T789	Quotation 102314 102386	"That was the day after I lost a white alley. No, 'twas the day before."
+T790	Quotation 102387 102412	"There -- I told you so,"
+T791	Cue 102413 102417	said
+T792	Entity 102418 102421	Tom
+T793	Quotation 102423 102444	"Huck recollects it."
+T794	Quotation 102445 102488	"I bleeve I could smoke this pipe all day,"
+T795	Cue 102489 102493	said
+T796	Entity 102494 102497	Joe
+T797	Quotation 102499 102519	"I don't feel sick."
+T798	Quotation 102520 102535	"Neither do I,"
+T799	Cue 102536 102540	said
+T800	Entity 102541 102544	Tom
+T801	Quotation 102546 102611	"I could smoke it all day. But I bet you Jeff Thatcher couldn't."
+T802	Quotation 102612 102705	"Jeff Thatcher! Why, he'd keel over just with two draws. Just let him try it once. HE'D see!"
+T803	Quotation 102706 102791	"I bet he would. And Johnny Miller -- I wish could see Johnny Miller tackle it once."
+T804	Quotation 102792 102806	"Oh, don't I!"
+T805	Cue 102807 102811	said
+T806	Entity 102812 102815	Joe
+T807	Quotation 102817 102928	"Why, I bet you Johnny Miller couldn't any more do this than nothing. Just one little snifter would fetch HIM."
+T808	Quotation 102929 102992	"'Deed it would, Joe. Say -- I wish the boys could see us now."
+T809	Quotation 102993 103003	"So do I."
+T810	Quotation 103004 103456	"Say-- boys, don't say anything about it, and some time when they're around, I'll come up to you and say, 'Joe, got a pipe? I want a smoke.' And you'll say, kind of careless like, as if it warn't anything, you'll say, 'Yes, I got my OLD pipe, and another one, but my tobacker ain't very good.' And I'll say, 'Oh, that's all right, if it's STRONG enough.' And then you'll out with the pipes, and we'll light up just as ca'm, and then just see 'em look!"
+T811	Quotation 103457 103508	"By jings, that'll be gay, Tom! I wish it was NOW!"
+T812	Quotation 103509 103612	"So do I! And when we tell 'em we learned when we was off pirating, won't they wish they'd been along?"
+T813	Quotation 103613 103657	"Oh, I reckon not! I'll just BET they will!"
+T815	Entity 104283 104286	Joe
+T816	Cue 104287 104291	said
+T817	Quotation 104300 104355	"I've lost my knife. I reckon I better go and find it."
+T818	Entity 104356 104359	Tom
+T819	Cue 104360 104364	said
+T820	Quotation 104409 104527	"I'll help you. You go over that way and I'll hunt around by the spring. No, you needn't come, Huck-- we can find it."
+T821	Entity 104531 104535	Huck
+T822	Entity 104862 104866	Huck
+T823	Entity 104933 104937	they
+T824	Cue 104938 104942	said
+T825	Quotation 104943 105033	no, they were not feeling very well-- something they ate at dinner had disagreed with them
+T827	Quotation 106494 106525	"Quick! boys, go for the tent!"
+T828	Cue 106526 106535	exclaimed
+T829	Entity 106536 106539	Tom
+T830	Entity 106541 106545	They
+T831	Entity 112786 112789	She
+T832	Cue 112790 112802	soliloquized
+T833	Quotation 112804 112902	"Oh, if I only had a brass andiron-knob again! But I haven't got anything now to remember him by."
+T834	Entity 112947 112950	she
+T835	Cue 112964 112968	said
+T836	Entity 112972 112979	herself
+T837	Quotation 112981 113157	"It was right here. Oh, if it was to do over again, I wouldn't say that -- I wouldn't say it for the whole world. But he's gone now; I'll never, never, never see him any more."
+T838	Entity 113560 113572	each speaker
+T839	Cue 113573 113584	pointed out
+T840	Quotation 113585 113637	the exact spot where the lost lads stood at the time
+T841	Cue 113648 113653	added
+T842	Quotation 113669 113935	"and I was a-standing just so-- just as I am now, and as if you was him -- I was as close as that-- and he smiled, just this way-- and then something seemed to go all over me, like-- awful, you know-- and I never thought what it meant, of course, but I can see now!"
+T843	Entity 114331 114344	One poor chap
+T844	Cue 114382 114386	said
+T845	Quotation 114437 114474	"Well, Tom Sawyer he licked me once."
+T846	Entity 117232 117242	Aunt Polly
+T847	Entity 117537 117540	Tom
+T849	Cue 117556 117560	said
+T850	Quotation 117562 117629	"Aunt Polly, it ain't fair. Somebody's got to be glad to see Huck."
+T851	Quotation 117630 117694	"And so they shall. I'm glad to see him, poor motherless thing!"
+T853	Entity 117839 117851	the minister
+T854	Cue 117852 117859	shouted
+T855	Quotation 117885 117963	"Praise God from whom all blessings flow-- SING!-- and put your hearts in it!"
+T856	Entity 117968 117972	they
+T857	Entity 119096 119099	Tom
+T858	Entity 119191 119201	Aunt Polly
+T859	Cue 119202 119206	said
+T860	Quotation 119208 119543	"Well, I don't say it wasn't a fine joke, Tom, to keep everybody suffering 'most a week so you boys had a good time, but it is a pity you could be so hard-hearted as to let me suffer so. If you could come over on a log to go to your funeral, you could have come over and give me a hint some way that you warn't dead, but only run off."
+T861	Quotation 119544 119581	"Yes, you could have done that, Tom,"
+T862	Cue 119582 119586	said
+T863	Entity 119587 119591	Mary
+T864	Quotation 119593 119644	"and I believe you would if you had thought of it."
+T865	Quotation 119645 119662	"Would you, Tom?"
+T866	Cue 119663 119667	said
+T867	Entity 119668 119678	Aunt Polly
+T868	Quotation 119709 119755	"Say, now, would you, if you'd thought of it?"
+T869	Quotation 119756 119813	"I-- well, I don't know. 'Twould 'a' spoiled everything."
+T870	Quotation 119814 119852	"Tom, I hoped you loved me that much,"
+T871	Cue 119853 119857	said
+T872	Entity 119858 119868	Aunt Polly
+T873	Entity 119908 119915	the boy
+T874	Quotation 119917 120011	"It would have been something if you'd cared enough to THINK of it, even if you didn't DO it."
+T875	Quotation 120012 120047	"Now, auntie, that ain't any harm,"
+T876	Cue 120048 120055	pleaded
+T877	Entity 120056 120060	Mary
+T878	Quotation 120062 120153	"it's only Tom's giddy way-- he is always in such a rush that he never thinks of anything."
+T879	Quotation 120154 120372	"More's the pity. Sid would have thought. And Sid would have come and DONE it, too. Tom, you'll look back, some day, when it's too late, and wish you'd cared a little more for me when it would have cost you so little."
+T880	Quotation 120373 120415	"Now, auntie, you know I do care for you,"
+T881	Cue 120416 120420	said
+T882	Entity 120421 120424	Tom
+T883	Quotation 120426 120473	"I'd know it better if you acted more like it."
+T884	Quotation 120474 120499	"I wish now I'd thought,"
+T885	Cue 120500 120504	said
+T886	Entity 120505 120508	Tom
+T887	Quotation 120533 120594	"but I dreamt about you, anyway. That's something, ain't it?"
+T888	Quotation 120595 120686	"It ain't much -- a cat does that much-- but it's better than nothing. What did you dream?"
+T889	Quotation 120687 120820	"Why, Wednesday night I dreamt that you was sitting over there by the bed, and Sid was sitting by the woodbox, and Mary next to him."
+T890	Quotation 120821 120921	"Well, so we did. So we always do. I'm glad your dreams could take even that much trouble about us."
+T891	Quotation 120922 120971	"And I dreamt that Joe Harper's mother was here."
+T892	Quotation 120972 121016	"Why, she was here! Did you dream any more?"
+T893	Quotation 121017 121050	"Oh, lots. But it's so dim, now."
+T894	Quotation 121051 121088	"Well, try to recollect-- can't you?"
+T895	Quotation 121089 121159	"Somehow it seems to me that the wind-- the wind blowed the-- the -- "
+T896	Quotation 121160 121213	"Try harder, Tom! The wind did blow something. Come!"
+T897	Entity 121214 121217	Tom
+T898	Cue 121282 121286	said
+T899	Quotation 121288 121345	"I've got it now! I've got it now! It blowed the candle!"
+T900	Quotation 121346 121380	"Mercy on us! Go on, Tom-- go on!"
+T901	Quotation 121381 121451	"And it seems to me that you said, 'Why, I believe that that door-- '"
+T902	Quotation 121452 121465	"Go ON, Tom!"
+T903	Quotation 121466 121562	"Just let me study a moment-- just a moment. Oh, yes-- you said you believed the door was open."
+T904	Quotation 121563 121615	"As I'm sitting here, I did! Didn't I, Mary! Go on!"
+T905	Quotation 121616 121718	"And then-- and then-- well I won't be certain, but it seems like as if you made Sid go and-- and -- "
+T906	Quotation 121719 121785	"Well? Well? What did I make him do, Tom? What did I make him do?"
+T907	Quotation 121786 121834	"You made him-- you-- Oh, you made him shut it."
+T908	Quotation 121835 122110	"Well, for the land's sake! I never heard the beat of that in all my days! Don't tell ME there ain't anything in dreams, any more. Sereny Harper shall know of this before I'm an hour older. I'd like to see her get around THIS with her rubbage 'bout superstition. Go on, Tom!"
+T909	Quotation 122111 122305	"Oh, it's all getting just as bright as day, now. Next you said I warn't BAD, only mischeevous and harum-scarum, and not any more responsible than-- than -- I think it was a colt, or something."
+T910	Quotation 122306 122359	"And so it was! Well, goodness gracious! Go on, Tom!"
+T911	Quotation 122360 122388	"And then you began to cry."
+T912	Quotation 122389 122452	"So I did. So I did. Not the first time, neither. And then -- "
+T913	Quotation 122453 122619	"Then Mrs. Harper she began to cry, and said Joe was just the same, and she wished she hadn't whipped him for taking cream when she'd throwed it out her own self -- "
+T914	Quotation 122620 122727	"Tom! The sperrit was upon you! You was a prophesying-- that's what you was doing! Land alive, go on, Tom!"
+T915	Quotation 122728 122760	"Then Sid he said-- he said -- "
+T916	Quotation 122761 122793	"I don't think I said anything,"
+T917	Cue 122794 122798	said
+T918	Entity 122799 122802	Sid
+T919	Quotation 122804 122823	"Yes you did, Sid,"
+T920	Cue 122824 122828	said
+T921	Entity 122829 122833	Mary
+T922	Quotation 122835 122893	"Shut your heads and let Tom go on! What did he say, Tom?"
+T923	Quotation 122894 123006	"He said -- I THINK he said he hoped I was better off where I was gone to, but if I'd been better sometimes -- "
+T924	Quotation 123007 123055	"THERE, d'you hear that! It was his very words!"
+T925	Quotation 123056 123084	"And you shut him up sharp."
+T926	Quotation 123085 123173	"I lay I did! There must 'a' been an angel there. There WAS an angel there, somewheres!"
+T927	Quotation 123174 123286	"And Mrs. Harper told about Joe scaring her with a firecracker, and you told about Peter and the Painkiller -- "
+T928	Quotation 123287 123312	"Just as true as I live!"
+T929	Quotation 123313 123488	"And then there was a whole lot of talk 'bout dragging the river for us, and 'bout having the funeral Sunday, and then you and old Miss Harper hugged and cried, and she went."
+T930	Quotation 123489 123664	"It happened just so! It happened just so, as sure as I'm a-sitting in these very tracks. Tom, you couldn't told it more like if you'd 'a' seen it! And then what? Go on, Tom!"
+T931	Quotation 123665 124046	"Then I thought you prayed for me-- and I could see you and hear every word you said. And you went to bed, and I was so sorry that I took and wrote on a piece of sycamore bark, 'We ain't dead-- we are only off being pirates,' and put it on the table by the candle; and then you looked so good, laying there asleep, that I thought I went and leaned over and kissed you on the lips."
+T932	Quotation 124047 124111	"Did you, Tom, DID you! I just forgive you everything for that!"
+T933	Entity 124116 124119	she
+T934	Entity 124127 124134	the boy
+T935	Quotation 124208 124262	"It was very kind, even though it was only a-- dream,"
+T936	Entity 124263 124266	Sid
+T937	Cue 124267 124279	soliloquized
+T938	Quotation 124294 124947	"Shut up, Sid! A body does just the same in a dream as he'd do if he was awake. Here's a big Milum apple I've been saving for you, Tom, if you was ever found again-- now go 'long to school. I'm thankful to the good God and Father of us all I've got you back, that's long-suffering and merciful to them that believe on Him and keep His word, though goodness knows I'm unworthy of it, but if only the worthy ones got His blessings and had His hand to help them over the rough places, there's few enough would smile here or ever enter into His rest when the long night comes. Go 'long Sid, Mary, Tom-- take yourselves off-- you've hendered me long enough."
+T939	Entity 127809 127812	She
+T940	Cue 127813 127817	said
+T941	Entity 127821 127849	a girl almost at Tom's elbow
+T942	Quotation 127872 127943	"Why, Mary Austin! you bad girl, why didn't you come to Sunday-school?"
+T943	Quotation 127944 127977	"I did come-- didn't you see me?"
+T944	Quotation 127978 128016	"Why, no! Did you? Where did you sit?"
+T945	Quotation 128017 128077	"I was in Miss Peters' class, where I always go. I saw YOU."
+T946	Quotation 128078 128161	"Did you? Why, it's funny I didn't see you. I wanted to tell you about the picnic."
+T947	Quotation 128162 128205	"Oh, that's jolly. Who's going to give it?"
+T948	Quotation 128206 128241	"My ma's going to let me have one."
+T949	Quotation 128242 128281	"Oh, goody; I hope she'll let ME come."
+T950	Quotation 128282 128373	"Well, she will. The picnic's for me. She'll let anybody come that I want, and I want you."
+T951	Quotation 128374 128420	"That's ever so nice. When is it going to be?"
+T952	Quotation 128421 128455	"By and by. Maybe about vacation."
+T953	Quotation 128456 128520	"Oh, won't it be fun! You going to have all the girls and boys?"
+T954	Quotation 128521 128575	"Yes, every one that's friends to me-- or wants to be"
+T955	Entity 128581 128584	she
+T956	Entity 128614 128617	Tom
+T957	Cue 128626 128632	talked
+T958	Entity 128648 128660	Amy Lawrence
+T959	Quotation 128752 128769	"all to flinders"
+T960	Quotation 128783 128818	"standing within three feet of it."
+T961	Quotation 128819 128836	"Oh, may I come?"
+T962	Cue 128837 128841	said
+T963	Entity 128842 128854	Grace Miller
+T964	Quotation 128856 128862	"Yes."
+T965	Quotation 128863 128872	"And me?"
+T966	Cue 128873 128877	said
+T967	Entity 128878 128890	Sally Rogers
+T968	Quotation 128892 128898	"Yes."
+T969	Quotation 128899 128913	"And me, too?"
+T970	Cue 128914 128918	said
+T971	Entity 128919 128930	Susy Harper
+T972	Quotation 128932 128942	"And Joe?"
+T973	Quotation 128943 128949	"Yes."
+T974	Entity 132496 132507	poor Alfred
+T975	Entity 132535 132538	her
+T977	Cue 132566 132576	exclaiming
+T978	Quotation 132578 132617	"Oh, here's a jolly one! look at this!"
+T979	Entity 132618 132621	she
+T980	Cue 132649 132653	said
+T981	Quotation 132655 132700	"Oh, don't bother me! I don't care for them!"
+T982	Entity 132751 132757	Alfred
+T983	Entity 132817 132820	she
+T984	Cue 132821 132825	said
+T985	Quotation 132827 132879	"Go away and leave me alone, can't you! I hate you!"
+T986	Entity 134157 134165	his aunt
+T987	Cue 134166 134170	said
+T988	Entity 134174 134177	him
+T989	Quotation 134247 134286	"Tom, I've a notion to skin you alive!"
+T990	Quotation 134287 134314	"Auntie, what have I done?"
+T991	Quotation 134315 134775	"Well, you've done enough. Here I go over to Sereny Harper, like an old softy, expecting I'm going to make her believe all that rubbage about that dream, when lo and behold you she'd found out from Joe that you was over here and heard all the talk we had that night. Tom, I don't know what is to become of a boy that will act like that. It makes me feel so bad to think you could let me go to Sereny Harper and make such a fool of myself and never say a word."
+T992	Entity 135012 135014	he
+T993	Cue 135015 135019	said
+T994	Quotation 135021 135076	"Auntie, I wish I hadn't done it-- but I didn't think."
+T995	Quotation 135077 135388	"Oh, child, you never think. You never think of anything but your own selfishness. You could think to come all the way over here from Jackson's Island in the night to laugh at our troubles, and you could think to fool me with a lie about a dream; but you couldn't ever think to pity us and save us from sorrow."
+T996	Quotation 135389 135535	"Auntie, I know now it was mean, but I didn't mean to be mean. I didn't, honest. And besides, I didn't come over here to laugh at you that night."
+T997	Quotation 135536 135566	"What did you come for, then?"
+T998	Quotation 135567 135646	"It was to tell you not to be uneasy about us, because we hadn't got drownded."
+T999	Quotation 135647 135813	"Tom, Tom, I would be the thankfullest soul in this world if I could believe you ever had as good a thought as that, but you know you never did-- and I know it, Tom."
+T1000	Quotation 135814 135886	"Indeed and 'deed I did, auntie -- I wish I may never stir if I didn't."
+T1001	Quotation 135887 135966	"Oh, Tom, don't lie-- don't do it. It only makes things a hundred times worse."
+T1002	Quotation 135967 136077	"It ain't a lie, auntie; it's the truth. I wanted to keep you from grieving-- that was all that made me come."
+T1003	Quotation 136078 136277	"I'd give the whole world to believe that-- it would cover up a power of sins, Tom. I'd 'most be glad you'd run off and acted so bad. But it ain't reasonable; because, why didn't you tell me, child?"
+T1004	Quotation 136278 136504	"Why, you see, when you got to talking about the funeral, I just got all full of the idea of our coming and hiding in the church, and I couldn't somehow bear to spoil it. So I just put the bark back in my pocket and kept mum."
+T1005	Quotation 136505 136517	"What bark?"
+T1006	Quotation 136518 136638	"The bark I had wrote on to tell you we'd gone pirating. I wish, now, you'd waked up when I kissed you -- I do, honest."
+T1007	Entity 136657 136660	his
+T1008	Entity 136657 136665	his aunt
+T1010	Quotation 136725 136748	"DID you kiss me, Tom?"
+T1011	Quotation 136749 136767	"Why, yes, I did."
+T1012	Quotation 136768 136796	"Are you sure you did, Tom?"
+T1013	Quotation 136797 136838	"Why, yes, I did, auntie-- certain sure."
+T1014	Quotation 136839 136871	"What did you kiss me for, Tom?"
+T1015	Quotation 136872 136944	"Because I loved you so, and you laid there moaning and I was so sorry."
+T1017	Entity 137030 137033	she
+T1018	Cue 137034 137038	said
+T1019	Quotation 137040 137129	"Kiss me again, Tom!-- and be off with you to school, now, and don't bother me any more."
+T1020	Entity 137213 137216	Tom
+T1021	Entity 137244 137247	she
+T1022	Cue 137282 137286	said
+T1023	Entity 137290 137297	herself
+T1024	Quotation 137299 137591	"No, I don't dare. Poor boy, I reckon he's lied about it-- but it's a blessed, blessed lie, there's such a comfort come from it. I hope the Lord -- I KNOW the Lord will forgive him, because it was such goodheartedness in him to tell it. But I don't want to find out it's a lie. I won't look."
+T1025	Entity 137917 137920	she
+T1026	Cue 137979 137985	saying
+T1027	Quotation 137987 138052	"I could forgive the boy, now, if he'd committed a million sins!"
+T1028	Entity 138372 138374	he
+T1029	Entity 138382 138385	her
+T1030	Cue 138390 138394	said
+T1031	Quotation 138396 138540	"I acted mighty mean to-day, Becky, and I'm so sorry. I won't ever, ever do that way again, as long as ever I live-- please make up, won't you?"
+T1032	Entity 138541 138549	The girl
+T1033	Entity 138569 138572	him
+T1034	Quotation 138597 138693	"I'll thank you to keep yourself TO yourself, Mr. Thomas Sawyer. I'll never speak to you again."
+T1035	Entity 140638 140648	Tom Sawyer
+T1036	Entity 140819 140822	She
+T1038	Quotation 140918 141028	"Tom Sawyer, you are just as mean as you can be, to sneak up on a person and look at what they're looking at."
+T1039	Quotation 141029 141076	"How could I know you was looking at anything?"
+T1040	Quotation 141077 141258	"You ought to be ashamed of yourself, Tom Sawyer; you know you're going to tell on me, and oh, what shall I do, what shall I do! I'll be whipped, and I never was whipped in school."
+T1041	Entity 141264 141267	she
+T1042	Cue 141296 141300	said
+T1043	Quotation 141302 141428	"BE so mean if you want to! I know something that's going to happen. You just wait and you'll see! Hateful, hateful, hateful!"
+T1045	Entity 141557 141559	he
+T1046	Cue 141560 141564	said
+T1047	Entity 141568 141575	himself
+T1048	Quotation 141577 142292	"What a curious kind of a fool a girl is! Never been licked in school! Shucks! What's a licking! That's just like a girl-- they're so thin-skinned and chicken-hearted. Well, of course I ain't going to tell old Dobbins on this little fool, because there's other ways of getting even on her, that ain't so mean; but what of it? Old Dobbins will ask who it was tore his book. Nobody'll answer. Then he'll do just the way he always does-- ask first one and then t'other, and when he comes to the right girl he'll know it, without any telling. Girls' faces always tell on them. They ain't got any backbone. She'll get licked. Well, it's a kind of a tight place for Becky Thatcher, because there ain't any way out of it."
+T1049	Entity 142293 142296	Tom
+T1050	Cue 142340 142345	added
+T1051	Quotation 142347 142431	"All right, though; she'd like to see me in just such a fix-- let her sweat it out!"
+T1052	Cue 143518 143522	said
+T1053	Entity 143523 143526	she
+T1054	Entity 143530 143537	herself
+T1055	Quotation 143539 143631	"he'll tell about me tearing the picture sure. I wouldn't say a word, not to save his life!"
+T1056	Quotation 144975 145006	There was no help for Becky now
+T1057	Entity 145008 145010	he
+T1058	Cue 145011 145015	said
+T1059	Entity 145050 145060	the school
+T1060	Entity 145242 145244	he
+T1061	Cue 145245 145250	spoke
+T1062	Quotation 145252 145273	"Who tore this book?"
+T1063	Entity 145355 145365	the master
+T1064	Quotation 145411 145453	"Benjamin Rogers, did you tear this book?"
+T1065	Quotation 145479 145504	"Joseph Harper, did you?"
+T1066	Entity 145610 145620	The master
+T1067	Quotation 145695 145710	"Amy Lawrence?"
+T1068	Quotation 145732 145748	"Gracie Miller?"
+T1069	Quotation 145764 145796	"Susan Harper, did you do this?"
+T1070	Quotation 145951 145969	"Rebecca Thatcher"
+T1071	Entity 145986 145989	her
+T1072	Quotation 146025 146065	"did you tear-- no, look me in the face"
+T1073	Quotation 146095 146120	"did you tear this book?"
+T1074	Entity 146172 146174	He
+T1075	Cue 146198 146205	shouted
+T1076	Quotation 146208 146220	"I done it!"
+T1077	Entity 146900 146903	Tom
+T1078	Entity 147170 147175	Becky
+T1080	Quotation 147223 147256	"Tom, how COULD you be so noble!"
+R1	Speaker Arg1:T24 Arg2:T46
+R2	Addressee Arg1:T1 Arg2:T5
+R3	Addressee Arg1:T35 Arg2:T48
+R4	Speaker Arg1:T7 Arg2:T13
+R5	Speaker Arg1:T24 Arg2:T28
+R6	Addressee Arg1:T7 Arg2:T14
+R7	Speaker Arg1:T35 Arg2:T57
+R8	Speaker Arg1:T35 Arg2:T37
+R9	Addressee Arg1:T35 Arg2:T42
+R10	Addressee Arg1:T35 Arg2:T52
+R11	Addressee Arg1:T25 Arg2:T30
+R12	Speaker Arg1:T24 Arg2:T56
+R13	Speaker Arg1:T35 Arg2:T43
+R14	Speaker Arg1:T35 Arg2:T51
+R15	Addressee Arg1:T21 Arg2:T23
+R16	Addressee Arg1:T35 Arg2:T46
+R17	Addressee Arg1:T76 Arg2:T79
+R18	Addressee Arg1:T24 Arg2:T45
+R19	Addressee Arg1:T7 Arg2:T10
+R20	Speaker Arg1:T7 Arg2:T19
+R21	Addressee Arg1:T24 Arg2:T41
+R22	Speaker Arg1:T7 Arg2:T11
+R23	Speaker Arg1:T76 Arg2:T82
+R24	Speaker Arg1:T9 Arg2:T14
+R25	Speaker Arg1:T24 Arg2:T54
+R26	Speaker Arg1:T24 Arg2:T30
+R27	Addressee Arg1:T24 Arg2:T37
+R28	Addressee Arg1:T35 Arg2:T56
+R29	Addressee Arg1:T1 Arg2:T2
+R30	Addressee Arg1:T24 Arg2:T43
+R31	Addressee Arg1:T24 Arg2:T51
+R32	Speaker Arg1:T9 Arg2:T16
+R33	Speaker Arg1:T24 Arg2:T48
+R34	Addressee Arg1:T4 Arg2:T6
+R35	Speaker Arg1:T35 Arg2:T45
+R36	Speaker Arg1:T9 Arg2:T10
+R37	Addressee Arg1:T24 Arg2:T29
+R38	Speaker Arg1:T25 Arg2:T31
+R39	Addressee Arg1:T24 Arg2:T57
+R40	Speaker Arg1:T24 Arg2:T44
+R41	Cueing Arg1:T74 Arg2:T75
+R42	Speaker Arg1:T1 Arg2:T6
+R43	Addressee Arg1:T84 Arg2:T85
+R44	Speaker Arg1:T77 Arg2:T81
+R45	Speaker Arg1:T9 Arg2:T18
+R46	Addressee Arg1:T76 Arg2:T81
+R47	Speaker Arg1:T35 Arg2:T41
+R48	Cueing Arg1:T26 Arg2:T27
+R49	Addressee Arg1:T76 Arg2:T83
+R50	Addressee Arg1:T24 Arg2:T33
+R51	Speaker Arg1:T86 Arg2:T90
+R52	Addressee Arg1:T77 Arg2:T82
+R53	Addressee Arg1:T9 Arg2:T11
+R54	Addressee Arg1:T35 Arg2:T38
+R55	Speaker Arg1:T62 Arg2:T64
+R56	Addressee Arg1:T9 Arg2:T19
+R57	Addressee Arg1:T7 Arg2:T16
+R58	Speaker Arg1:T24 Arg2:T40
+R59	Speaker Arg1:T59 Arg2:T61
+R60	Addressee Arg1:T7 Arg2:T18
+R61	Cueing Arg1:T68 Arg2:T69
+R62	Speaker Arg1:T35 Arg2:T33
+R63	Addressee Arg1:T87 Arg2:T90
+R64	Addressee Arg1:T9 Arg2:T13
+R65	Speaker Arg1:T24 Arg2:T32
+R66	Cueing Arg1:T78 Arg2:T79
+R67	Cueing Arg1:T34 Arg2:T33
+R68	Cueing Arg1:T8 Arg2:T10
+R69	Cueing Arg1:T3 Arg2:T5
+R70	Addressee Arg1:T25 Arg2:T32
+R71	Speaker Arg1:T35 Arg2:T53
+R72	Speaker Arg1:T71 Arg2:T75
+R73	Addressee Arg1:T9 Arg2:T17
+R74	Speaker Arg1:T77 Arg2:T79
+R75	Speaker Arg1:T4 Arg2:T5
+R76	Addressee Arg1:T62 Arg2:T65
+R77	Addressee Arg1:T24 Arg2:T31
+R78	Speaker Arg1:T35 Arg2:T49
+R79	Speaker Arg1:T24 Arg2:T38
+R80	Speaker Arg1:T25 Arg2:T29
+R81	Addressee Arg1:T24 Arg2:T47
+R82	Addressee Arg1:T7 Arg2:T12
+R83	Addressee Arg1:T35 Arg2:T54
+R84	Speaker Arg1:T7 Arg2:T17
+R85	Speaker Arg1:T76 Arg2:T80
+R86	Addressee Arg1:T25 Arg2:T28
+R87	Speaker Arg1:T87 Arg2:T89
+R88	Cueing Arg1:T88 Arg2:T89
+R89	Speaker Arg1:T24 Arg2:T50
+R90	Addressee Arg1:T35 Arg2:T40
+R91	Addressee Arg1:T24 Arg2:T53
+R92	Cueing Arg1:T3 Arg2:T2
+R93	Addressee Arg1:T86 Arg2:T89
+R94	Cueing Arg1:T60 Arg2:T61
+R95	Addressee Arg1:T9 Arg2:T15
+R96	Speaker Arg1:T35 Arg2:T39
+R97	Addressee Arg1:T24 Arg2:T39
+R98	Addressee Arg1:T35 Arg2:T44
+R99	Speaker Arg1:T24 Arg2:T42
+R100	Speaker Arg1:T24 Arg2:T52
+R101	Speaker Arg1:T35 Arg2:T47
+R102	Addressee Arg1:T35 Arg2:T36
+R103	Speaker Arg1:T4 Arg2:T2
+R104	Speaker Arg1:T24 Arg2:T36
+R105	Speaker Arg1:T20 Arg2:T23
+R106	Addressee Arg1:T59 Arg2:T64
+R107	Addressee Arg1:T24 Arg2:T55
+R108	Addressee Arg1:T24 Arg2:T27
+R109	Speaker Arg1:T7 Arg2:T15
+R110	Addressee Arg1:T35 Arg2:T50
+R111	Addressee Arg1:T24 Arg2:T49
+R112	Cueing Arg1:T63 Arg2:T64
+R113	Speaker Arg1:T9 Arg2:T12
+R114	Speaker Arg1:T67 Arg2:T69
+R115	Addressee Arg1:T77 Arg2:T80
+R116	Speaker Arg1:T35 Arg2:T55
+R117	Addressee Arg1:T66 Arg2:T69
+R118	Speaker Arg1:T84 Arg2:T83
+R119	Speaker Arg1:T66 Arg2:T65
+R120	Speaker Arg1:T86 Arg2:T85
+R121	Addressee Arg1:T62 Arg2:T61
+R122	Cueing Arg1:T22 Arg2:T23
+R123	Addressee Arg1:T72 Arg2:T75
+R124	Speaker Arg1:T25 Arg2:T27
+R125	Cueing Arg1:T99 Arg2:T100
+R126	Cueing Arg1:T104 Arg2:T105
+R127	Speaker Arg1:T106 Arg2:T108
+R128	Speaker Arg1:T92 Arg2:T95
+R129	Cueing Arg1:T110 Arg2:T111
+R130	Speaker Arg1:T109 Arg2:T111
+R131	Addressee Arg1:T98 Arg2:T100
+R132	Addressee Arg1:T91 Arg2:T96
+R133	Speaker Arg1:T112 Arg2:T114
+R134	Cueing Arg1:T113 Arg2:T114
+R135	Addressee Arg1:T91 Arg2:T95
+R136	Speaker Arg1:T92 Arg2:T94
+R137	Speaker Arg1:T92 Arg2:T96
+R138	Cueing Arg1:T107 Arg2:T108
+R139	Speaker Arg1:T97 Arg2:T100
+R140	Addressee Arg1:T91 Arg2:T94
+R141	Speaker Arg1:T103 Arg2:T105
+R142	Addressee Arg1:T102 Arg2:T105
+R143	Speaker Arg1:T112 Arg2:T115
+R144	Cueing Arg1:T93 Arg2:T94
+R145	Speaker Arg1:T125 Arg2:T129
+R146	Speaker Arg1:T177 Arg2:T186
+R147	Addressee Arg1:T125 Arg2:T141
+R148	Addressee Arg1:T125 Arg2:T128
+R149	Cueing Arg1:T192 Arg2:T191
+R150	Speaker Arg1:T196 Arg2:T198
+R151	Addressee Arg1:T139 Arg2:T145
+R152	Cueing Arg1:T155 Arg2:T156
+R153	Addressee Arg1:T153 Arg2:T156
+R154	Cueing Arg1:T131 Arg2:T130
+R155	Speaker Arg1:T147 Arg2:T145
+R156	Addressee Arg1:T177 Arg2:T189
+R157	Speaker Arg1:T162 Arg2:T168
+R158	Speaker Arg1:T193 Arg2:T201
+R159	Cueing Arg1:T166 Arg2:T167
+R160	Cueing Arg1:T137 Arg2:T138
+R161	Speaker Arg1:T125 Arg2:T135
+R162	Speaker Arg1:T193 Arg2:T205
+R163	Addressee Arg1:T147 Arg2:T151
+R164	Addressee Arg1:T193 Arg2:T200
+R165	Speaker Arg1:T139 Arg2:T143
+R166	Addressee Arg1:T196 Arg2:T203
+R167	Speaker Arg1:T132 Arg2:T130
+R168	Speaker Arg1:T139 Arg2:T141
+R169	Addressee Arg1:T165 Arg2:T171
+R170	Speaker Arg1:T165 Arg2:T167
+R171	Addressee Arg1:T193 Arg2:T202
+R172	Addressee Arg1:T123 Arg2:T124
+R173	Speaker Arg1:T177 Arg2:T184
+R174	Speaker Arg1:T126 Arg2:T128
+R175	Cueing Arg1:T122 Arg2:T124
+R176	Addressee Arg1:T177 Arg2:T183
+R177	Speaker Arg1:T193 Arg2:T191
+R178	Addressee Arg1:T139 Arg2:T142
+R179	Speaker Arg1:T177 Arg2:T180
+R180	Addressee Arg1:T196 Arg2:T199
+R181	Cueing Arg1:T170 Arg2:T171
+R182	Addressee Arg1:T125 Arg2:T134
+R183	Speaker Arg1:T177 Arg2:T182
+R184	Addressee Arg1:T193 Arg2:T206
+R185	Cueing Arg1:T146 Arg2:T148
+R186	Speaker Arg1:T193 Arg2:T199
+R187	Speaker Arg1:T121 Arg2:T124
+R188	Addressee Arg1:T147 Arg2:T149
+R189	Addressee Arg1:T177 Arg2:T187
+R190	Addressee Arg1:T162 Arg2:T167
+R191	Addressee Arg1:T177 Arg2:T181
+R192	Speaker Arg1:T132 Arg2:T134
+R193	Cueing Arg1:T127 Arg2:T128
+R194	Speaker Arg1:T196 Arg2:T206
+R195	Cueing Arg1:T119 Arg2:T120
+R196	Speaker Arg1:T196 Arg2:T202
+R197	Cueing Arg1:T146 Arg2:T145
+R198	Addressee Arg1:T125 Arg2:T130
+R199	Addressee Arg1:T132 Arg2:T133
+R200	Addressee Arg1:T193 Arg2:T194
+R201	Addressee Arg1:T177 Arg2:T185
+R202	Addressee Arg1:T126 Arg2:T129
+R203	Speaker Arg1:T125 Arg2:T133
+R204	Speaker Arg1:T177 Arg2:T190
+R205	Speaker Arg1:T209 Arg2:T207
+R206	Speaker Arg1:T193 Arg2:T203
+R207	Addressee Arg1:T196 Arg2:T205
+R208	Speaker Arg1:T196 Arg2:T200
+R209	Speaker Arg1:T154 Arg2:T156
+R210	Addressee Arg1:T165 Arg2:T168
+R211	Speaker Arg1:T177 Arg2:T188
+R212	Speaker Arg1:T136 Arg2:T138
+R213	Addressee Arg1:T139 Arg2:T148
+R214	Speaker Arg1:T169 Arg2:T171
+R215	Cueing Arg1:T140 Arg2:T141
+R216	Speaker Arg1:T165 Arg2:T172
+R217	Addressee Arg1:T173 Arg2:T176
+R218	Addressee Arg1:T165 Arg2:T164
+R219	Speaker Arg1:T173 Arg2:T175
+R220	Addressee Arg1:T196 Arg2:T201
+R221	Addressee Arg1:T125 Arg2:T138
+R222	Speaker Arg1:T147 Arg2:T148
+R223	Speaker Arg1:T162 Arg2:T164
+R224	Addressee Arg1:T193 Arg2:T198
+R225	Speaker Arg1:T196 Arg2:T204
+R226	Speaker Arg1:T147 Arg2:T150
+R227	Addressee Arg1:T193 Arg2:T204
+R228	Speaker Arg1:T178 Arg2:T187
+R229	Addressee Arg1:T178 Arg2:T190
+R230	Addressee Arg1:T125 Arg2:T143
+R231	Speaker Arg1:T157 Arg2:T159
+R232	Speaker Arg1:T178 Arg2:T181
+R233	Speaker Arg1:T178 Arg2:T189
+R234	Speaker Arg1:T139 Arg2:T151
+R235	Addressee Arg1:T169 Arg2:T172
+R236	Speaker Arg1:T125 Arg2:T142
+R237	Speaker Arg1:T178 Arg2:T194
+R238	Cueing Arg1:T158 Arg2:T159
+R239	Cueing Arg1:T160 Arg2:T161
+R240	Speaker Arg1:T178 Arg2:T195
+R241	Speaker Arg1:T178 Arg2:T185
+R242	Addressee Arg1:T178 Arg2:T182
+R243	Addressee Arg1:T178 Arg2:T186
+R244	Addressee Arg1:T165 Arg2:T175
+R245	Speaker Arg1:T165 Arg2:T176
+R246	Addressee Arg1:T178 Arg2:T180
+R247	Speaker Arg1:T178 Arg2:T183
+R248	Addressee Arg1:T132 Arg2:T135
+R249	Addressee Arg1:T139 Arg2:T150
+R250	Speaker Arg1:T139 Arg2:T149
+R251	Addressee Arg1:T178 Arg2:T184
+R252	Addressee Arg1:T178 Arg2:T188
+R253	Addressee Arg1:T210 Arg2:T207
+R254	Cueing Arg1:T197 Arg2:T198
+R255	Addressee Arg1:T193 Arg2:T195
+R256	Cueing Arg1:T208 Arg2:T207
+R257	Cueing Arg1:T163 Arg2:T164
+R258	Addressee Arg1:T211 Arg2:T207
+R259	Cueing Arg1:T179 Arg2:T180
+R260	Speaker Arg1:T118 Arg2:T120
+R261	Addressee Arg1:T178 Arg2:T191
+R262	Speaker Arg1:T247 Arg2:T245
+R263	Addressee Arg1:T251 Arg2:T253
+R264	Cueing Arg1:T225 Arg2:T227
+R265	Cueing Arg1:T215 Arg2:T213
+R266	Speaker Arg1:T214 Arg2:T216
+R267	Speaker Arg1:T243 Arg2:T250
+R268	Speaker Arg1:T291 Arg2:T293
+R269	Speaker Arg1:T247 Arg2:T249
+R270	Speaker Arg1:T270 Arg2:T272
+R271	Speaker Arg1:T251 Arg2:T252
+R272	Cueing Arg1:T222 Arg2:T221
+R273	Addressee Arg1:T283 Arg2:T290
+R274	Speaker Arg1:T223 Arg2:T221
+R275	Speaker Arg1:T226 Arg2:T224
+R276	Speaker Arg1:T230 Arg2:T228
+R277	Cueing Arg1:T271 Arg2:T272
+R278	Addressee Arg1:T257 Arg2:T258
+R279	Cueing Arg1:T278 Arg2:T279
+R280	Cueing Arg1:T244 Arg2:T242
+R281	Speaker Arg1:T261 Arg2:T263
+R282	Addressee Arg1:T243 Arg2:T249
+R283	Speaker Arg1:T251 Arg2:T254
+R284	Speaker Arg1:T299 Arg2:T301
+R285	Speaker Arg1:T230 Arg2:T232
+R286	Cueing Arg1:T215 Arg2:T216
+R287	Cueing Arg1:T229 Arg2:T228
+R288	Speaker Arg1:T266 Arg2:T267
+R289	Addressee Arg1:T247 Arg2:T248
+R290	Cueing Arg1:T229 Arg2:T232
+R291	Speaker Arg1:T226 Arg2:T227
+R292	Cueing Arg1:T219 Arg2:T220
+R293	Cueing Arg1:T265 Arg2:T267
+R294	Speaker Arg1:T270 Arg2:T274
+R295	Addressee Arg1:T270 Arg2:T273
+R296	Addressee Arg1:T247 Arg2:T252
+R297	Addressee Arg1:T231 Arg2:T228
+R298	Cueing Arg1:T300 Arg2:T301
+R299	Addressee Arg1:T218 Arg2:T221
+R300	Addressee Arg1:T283 Arg2:T288
+R301	Speaker Arg1:T283 Arg2:T285
+R302	Addressee Arg1:T236 Arg2:T235
+R303	Addressee Arg1:T231 Arg2:T232
+R304	Cueing Arg1:T234 Arg2:T235
+R305	Speaker Arg1:T243 Arg2:T242
+R306	Speaker Arg1:T233 Arg2:T235
+R307	Speaker Arg1:T238 Arg2:T240
+R308	Cueing Arg1:T246 Arg2:T245
+R309	Speaker Arg1:T299 Arg2:T303
+R310	Addressee Arg1:T247 Arg2:T254
+R311	Addressee Arg1:T299 Arg2:T302
+R312	Cueing Arg1:T262 Arg2:T263
+R313	Cueing Arg1:T225 Arg2:T224
+R314	Addressee Arg1:T247 Arg2:T250
+R315	Addressee Arg1:T291 Arg2:T296
+R316	Speaker Arg1:T218 Arg2:T220
+R317	Speaker Arg1:T291 Arg2:T295
+R318	Cueing Arg1:T292 Arg2:T293
+R319	Addressee Arg1:T237 Arg2:T240
+R320	Speaker Arg1:T283 Arg2:T287
+R321	Addressee Arg1:T243 Arg2:T245
+R322	Speaker Arg1:T247 Arg2:T253
+R323	Addressee Arg1:T291 Arg2:T294
+R324	Speaker Arg1:T283 Arg2:T289
+R325	Speaker Arg1:T243 Arg2:T248
+R326	Speaker Arg1:T214 Arg2:T213
+R327	Addressee Arg1:T283 Arg2:T286
+R328	Cueing Arg1:T284 Arg2:T285
+R329	Cueing Arg1:T239 Arg2:T240
+R330	Cueing Arg1:T265 Arg2:T264
+R331	Speaker Arg1:T266 Arg2:T264
+R332	Speaker Arg1:T257 Arg2:T256
+R333	Addressee Arg1:T268 Arg2:T285
+R334	Addressee Arg1:T268 Arg2:T295
+R335	Addressee Arg1:T268 Arg2:T267
+R336	Speaker Arg1:T268 Arg2:T282
+R337	Addressee Arg1:T268 Arg2:T281
+R338	Addressee Arg1:T268 Arg2:T264
+R339	Addressee Arg1:T297 Arg2:T301
+R340	Addressee Arg1:T297 Arg2:T303
+R341	Addressee Arg1:T259 Arg2:T263
+R342	Speaker Arg1:T268 Arg2:T286
+R343	Speaker Arg1:T247 Arg2:T258
+R344	Addressee Arg1:T277 Arg2:T280
+R345	Addressee Arg1:T247 Arg2:T256
+R346	Addressee Arg1:T251 Arg2:T255
+R347	Addressee Arg1:T268 Arg2:T274
+R348	Speaker Arg1:T268 Arg2:T273
+R349	Speaker Arg1:T268 Arg2:T294
+R350	Speaker Arg1:T247 Arg2:T255
+R351	Addressee Arg1:T268 Arg2:T289
+R352	Addressee Arg1:T277 Arg2:T282
+R353	Speaker Arg1:T297 Arg2:T302
+R354	Addressee Arg1:T268 Arg2:T293
+R355	Addressee Arg1:T270 Arg2:T275
+R356	Addressee Arg1:T268 Arg2:T279
+R357	Addressee Arg1:T268 Arg2:T272
+R358	Speaker Arg1:T268 Arg2:T280
+R359	Addressee Arg1:T268 Arg2:T287
+R360	Speaker Arg1:T268 Arg2:T288
+R361	Speaker Arg1:T268 Arg2:T290
+R362	Speaker Arg1:T268 Arg2:T296
+R363	Speaker Arg1:T277 Arg2:T279
+R364	Speaker Arg1:T277 Arg2:T281
+R365	Speaker Arg1:T268 Arg2:T275
+R366	Addressee Arg1:T217 Arg2:T216
+R367	Addressee Arg1:T226 Arg2:T220
+R368	Addressee Arg1:T218 Arg2:T224
+R369	Addressee Arg1:T217 Arg2:T213
+R370	Addressee Arg1:T218 Arg2:T227
+R371	Addressee Arg1:T247 Arg2:T242
+R372	Addressee Arg1:T343 Arg2:T352
+R373	Addressee Arg1:T340 Arg2:T344
+R374	Cueing Arg1:T330 Arg2:T331
+R375	Speaker Arg1:T343 Arg2:T353
+R376	Speaker Arg1:T347 Arg2:T350
+R377	Speaker Arg1:T338 Arg2:T337
+R378	Cueing Arg1:T325 Arg2:T327
+R379	Speaker Arg1:T343 Arg2:T344
+R380	Addressee Arg1:T347 Arg2:T349
+R381	Speaker Arg1:T347 Arg2:T352
+R382	Speaker Arg1:T340 Arg2:T342
+R383	Addressee Arg1:T314 Arg2:T319
+R384	Addressee Arg1:T343 Arg2:T362
+R385	Speaker Arg1:T343 Arg2:T359
+R386	Cueing Arg1:T307 Arg2:T306
+R387	Addressee Arg1:T366 Arg2:T367
+R388	Addressee Arg1:T347 Arg2:T351
+R389	Addressee Arg1:T326 Arg2:T331
+R390	Speaker Arg1:T314 Arg2:T316
+R391	Addressee Arg1:T326 Arg2:T333
+R392	Speaker Arg1:T343 Arg2:T349
+R393	Addressee Arg1:T329 Arg2:T332
+R394	Cueing Arg1:T348 Arg2:T346
+R395	Cueing Arg1:T365 Arg2:T367
+R396	Speaker Arg1:T321 Arg2:T322
+R397	Addressee Arg1:T308 Arg2:T310
+R398	Cueing Arg1:T341 Arg2:T342
+R399	Speaker Arg1:T326 Arg2:T334
+R400	Speaker Arg1:T326 Arg2:T324
+R401	Speaker Arg1:T308 Arg2:T311
+R402	Speaker Arg1:T314 Arg2:T318
+R403	Addressee Arg1:T336 Arg2:T339
+R404	Speaker Arg1:T326 Arg2:T332
+R405	Speaker Arg1:T308 Arg2:T306
+R406	Speaker Arg1:T343 Arg2:T351
+R407	Cueing Arg1:T320 Arg2:T322
+R408	Speaker Arg1:T347 Arg2:T346
+R409	Addressee Arg1:T336 Arg2:T337
+R410	Addressee Arg1:T314 Arg2:T317
+R411	Cueing Arg1:T320 Arg2:T319
+R412	Speaker Arg1:T314 Arg2:T312
+R413	Speaker Arg1:T308 Arg2:T309
+R414	Cueing Arg1:T313 Arg2:T312
+R415	Speaker Arg1:T358 Arg2:T356
+R416	Speaker Arg1:T326 Arg2:T327
+R417	Cueing Arg1:T307 Arg2:T309
+R418	Speaker Arg1:T329 Arg2:T333
+R419	Addressee Arg1:T343 Arg2:T345
+R420	Addressee Arg1:T321 Arg2:T323
+R421	Addressee Arg1:T314 Arg2:T315
+R422	Speaker Arg1:T340 Arg2:T345
+R423	Addressee Arg1:T329 Arg2:T334
+R424	Addressee Arg1:T343 Arg2:T360
+R425	Speaker Arg1:T338 Arg2:T339
+R426	Addressee Arg1:T343 Arg2:T350
+R427	Speaker Arg1:T329 Arg2:T331
+R428	Cueing Arg1:T357 Arg2:T356
+R429	Cueing Arg1:T325 Arg2:T324
+R430	Speaker Arg1:T343 Arg2:T361
+R431	Speaker Arg1:T321 Arg2:T319
+R432	Addressee Arg1:T343 Arg2:T346
+R433	Speaker Arg1:T364 Arg2:T367
+R434	Speaker Arg1:T355 Arg2:T362
+R435	Addressee Arg1:T304 Arg2:T312
+R436	Addressee Arg1:T355 Arg2:T359
+R437	Addressee Arg1:T355 Arg2:T361
+R438	Addressee Arg1:T321 Arg2:T324
+R439	Addressee Arg1:T304 Arg2:T309
+R440	Addressee Arg1:T364 Arg2:T374
+R441	Addressee Arg1:T304 Arg2:T318
+R442	Speaker Arg1:T304 Arg2:T315
+R443	Speaker Arg1:T355 Arg2:T360
+R444	Addressee Arg1:T304 Arg2:T316
+R445	Addressee Arg1:T304 Arg2:T306
+R446	Speaker Arg1:T314 Arg2:T323
+R447	Cueing Arg1:T372 Arg2:T374
+R448	Speaker Arg1:T304 Arg2:T317
+R449	Speaker Arg1:T371 Arg2:T374
+R450	Addressee Arg1:T321 Arg2:T327
+R451	Addressee Arg1:T338 Arg2:T342
+R452	Addressee Arg1:T314 Arg2:T322
+R453	Addressee Arg1:T304 Arg2:T311
+R454	Speaker Arg1:T304 Arg2:T310
+R455	Addressee Arg1:T358 Arg2:T356
+R456	Speaker Arg1:T364 Arg2:T370
+R457	Addressee Arg1:T354 Arg2:T353
+R458	Addressee Arg1:T369 Arg2:T370
+R459	Cueing Arg1:T368 Arg2:T370
+R460	Speaker Arg1:T336 Arg2:T335
+R461	Addressee Arg1:T338 Arg2:T335
+R462	Cueing Arg1:T373 Arg2:T374
+R463	Cueing Arg1:T375 Arg2:T376
+R464	Speaker Arg1:T371 Arg2:T376
+R465	Addressee Arg1:T364 Arg2:T376
+R466	Cueing Arg1:T377 Arg2:T378
+R467	Addressee Arg1:T371 Arg2:T378
+R468	Speaker Arg1:T364 Arg2:T378
+R469	Cueing Arg1:T426 Arg2:T424
+R470	Addressee Arg1:T428 Arg2:T424
+R471	Speaker Arg1:T392 Arg2:T391
+R472	Cueing Arg1:T396 Arg2:T397
+R473	Speaker Arg1:T404 Arg2:T406
+R474	Cueing Arg1:T455 Arg2:T456
+R475	Speaker Arg1:T449 Arg2:T448
+R476	Addressee Arg1:T441 Arg2:T442
+R477	Cueing Arg1:T439 Arg2:T440
+R478	Cueing Arg1:T389 Arg2:T390
+R479	Speaker Arg1:T434 Arg2:T436
+R480	Speaker Arg1:T457 Arg2:T459
+R481	Addressee Arg1:T441 Arg2:T445
+R482	Speaker Arg1:T395 Arg2:T397
+R483	Speaker Arg1:T420 Arg2:T422
+R484	Cueing Arg1:T450 Arg2:T448
+R485	Cueing Arg1:T421 Arg2:T422
+R486	Cueing Arg1:T412 Arg2:T413
+R487	Cueing Arg1:T458 Arg2:T459
+R488	Speaker Arg1:T385 Arg2:T387
+R489	Cueing Arg1:T443 Arg2:T442
+R490	Cueing Arg1:T429 Arg2:T427
+R491	Addressee Arg1:T411 Arg2:T413
+R492	Speaker Arg1:T409 Arg2:T407
+R493	Speaker Arg1:T428 Arg2:T427
+R494	Cueing Arg1:T386 Arg2:T387
+R495	Speaker Arg1:T388 Arg2:T393
+R496	Speaker Arg1:T454 Arg2:T456
+R497	Cueing Arg1:T405 Arg2:T403
+R498	Cueing Arg1:T405 Arg2:T406
+R499	Cueing Arg1:T408 Arg2:T407
+R500	Cueing Arg1:T418 Arg2:T419
+R501	Speaker Arg1:T417 Arg2:T419
+R502	Cueing Arg1:T435 Arg2:T436
+R503	Speaker Arg1:T388 Arg2:T390
+R504	Speaker Arg1:T410 Arg2:T413
+R505	Addressee Arg1:T404 Arg2:T407
+R506	Speaker Arg1:T438 Arg2:T440
+R507	Speaker Arg1:T425 Arg2:T424
+R508	Speaker Arg1:T449 Arg2:T451
+R509	Speaker Arg1:T400 Arg2:T398
+R510	Cueing Arg1:T399 Arg2:T401
+R511	Speaker Arg1:T400 Arg2:T401
+R512	Cueing Arg1:T399 Arg2:T398
+R513	Speaker Arg1:T404 Arg2:T403
+R514	Addressee Arg1:T388 Arg2:T391
+R515	Cueing Arg1:T450 Arg2:T451
+R516	Speaker Arg1:T444 Arg2:T442
+R517	Speaker Arg1:T379 Arg2:T381
+R518	Addressee Arg1:T454 Arg2:T459
+R519	Cueing Arg1:T432 Arg2:T433
+R520	Speaker Arg1:T379 Arg2:T383
+R521	Speaker Arg1:T379 Arg2:T384
+R522	Cueing Arg1:T380 Arg2:T382
+R523	Speaker Arg1:T431 Arg2:T433
+R524	Speaker Arg1:T379 Arg2:T382
+R525	Cueing Arg1:T380 Arg2:T384
+R526	Cueing Arg1:T380 Arg2:T383
+R527	Cueing Arg1:T380 Arg2:T381
+R528	Speaker Arg1:T416 Arg2:T414
+R529	Cueing Arg1:T443 Arg2:T445
+R530	Addressee Arg1:T447 Arg2:T448
+R531	Speaker Arg1:T428 Arg2:T430
+R532	Speaker Arg1:T444 Arg2:T445
+R533	Speaker Arg1:T447 Arg2:T446
+R534	Addressee Arg1:T423 Arg2:T422
+R535	Addressee Arg1:T453 Arg2:T456
+R536	Addressee Arg1:T415 Arg2:T414
+R537	Addressee Arg1:T425 Arg2:T427
+R538	Addressee Arg1:T425 Arg2:T430
+R539	Addressee Arg1:T441 Arg2:T440
+R540	Addressee Arg1:T444 Arg2:T446
+R541	Addressee Arg1:T392 Arg2:T393
+R542	Addressee Arg1:T447 Arg2:T451
+R543	Addressee Arg1:T475 Arg2:T482
+R544	Speaker Arg1:T484 Arg2:T485
+R545	Speaker Arg1:T480 Arg2:T478
+R546	Addressee Arg1:T475 Arg2:T478
+R547	Addressee Arg1:T476 Arg2:T477
+R548	Speaker Arg1:T475 Arg2:T477
+R549	Speaker Arg1:T466 Arg2:T468
+R550	Cueing Arg1:T479 Arg2:T478
+R551	Speaker Arg1:T491 Arg2:T493
+R552	Speaker Arg1:T475 Arg2:T483
+R553	Addressee Arg1:T491 Arg2:T494
+R554	Speaker Arg1:T466 Arg2:T470
+R555	Cueing Arg1:T467 Arg2:T468
+R556	Addressee Arg1:T484 Arg2:T483
+R557	Speaker Arg1:T491 Arg2:T495
+R558	Speaker Arg1:T475 Arg2:T481
+R559	Addressee Arg1:T484 Arg2:T486
+R560	Addressee Arg1:T469 Arg2:T470
+R561	Addressee Arg1:T471 Arg2:T472
+R562	Addressee Arg1:T491 Arg2:T496
+R563	Addressee Arg1:T475 Arg2:T485
+R564	Speaker Arg1:T466 Arg2:T472
+R565	Addressee Arg1:T475 Arg2:T487
+R566	Addressee Arg1:T480 Arg2:T481
+R567	Speaker Arg1:T480 Arg2:T482
+R568	Speaker Arg1:T475 Arg2:T486
+R569	Speaker Arg1:T484 Arg2:T487
+R570	Speaker Arg1:T492 Arg2:T496
+R571	Addressee Arg1:T469 Arg2:T468
+R572	Addressee Arg1:T461 Arg2:T462
+R573	Speaker Arg1:T463 Arg2:T462
+R574	Addressee Arg1:T492 Arg2:T493
+R575	Cueing Arg1:T464 Arg2:T462
+R576	Addressee Arg1:T492 Arg2:T495
+R577	Speaker Arg1:T492 Arg2:T494
+R578	Speaker Arg1:T502 Arg2:T504
+R579	Addressee Arg1:T515 Arg2:T521
+R580	Speaker Arg1:T520 Arg2:T521
+R581	Speaker Arg1:T522 Arg2:T524
+R582	Speaker Arg1:T515 Arg2:T519
+R583	Cueing Arg1:T516 Arg2:T517
+R584	Addressee Arg1:T514 Arg2:T517
+R585	Speaker Arg1:T498 Arg2:T501
+R586	Addressee Arg1:T503 Arg2:T504
+R587	Speaker Arg1:T503 Arg2:T505
+R588	Cueing Arg1:T509 Arg2:T510
+R589	Speaker Arg1:T508 Arg2:T510
+R590	Addressee Arg1:T515 Arg2:T518
+R591	Speaker Arg1:T514 Arg2:T518
+R592	Speaker Arg1:T515 Arg2:T517
+R593	Cueing Arg1:T500 Arg2:T501
+R594	Addressee Arg1:T502 Arg2:T505
+R595	Addressee Arg1:T499 Arg2:T501
+R596	Addressee Arg1:T520 Arg2:T519
+R597	Addressee Arg1:T511 Arg2:T513
+R598	Cueing Arg1:T512 Arg2:T513
+R599	Cueing Arg1:T523 Arg2:T524
+R600	Speaker Arg1:T526 Arg2:T528
+R601	Speaker Arg1:T533 Arg2:T539
+R602	Addressee Arg1:T533 Arg2:T544
+R603	Addressee Arg1:T533 Arg2:T538
+R604	Speaker Arg1:T533 Arg2:T547
+R605	Cueing Arg1:T527 Arg2:T528
+R606	Speaker Arg1:T533 Arg2:T541
+R607	Speaker Arg1:T533 Arg2:T545
+R608	Addressee Arg1:T533 Arg2:T548
+R609	Speaker Arg1:T533 Arg2:T537
+R610	Addressee Arg1:T526 Arg2:T530
+R611	Addressee Arg1:T533 Arg2:T536
+R612	Addressee Arg1:T533 Arg2:T542
+R613	Addressee Arg1:T533 Arg2:T546
+R614	Addressee Arg1:T533 Arg2:T540
+R615	Speaker Arg1:T533 Arg2:T535
+R616	Addressee Arg1:T526 Arg2:T528
+R617	Speaker Arg1:T526 Arg2:T530
+R618	Speaker Arg1:T533 Arg2:T543
+R619	Cueing Arg1:T534 Arg2:T535
+R620	Cueing Arg1:T529 Arg2:T530
+R621	Addressee Arg1:T532 Arg2:T535
+R622	Speaker Arg1:T526 Arg2:T531
+R623	Speaker Arg1:T532 Arg2:T540
+R624	Speaker Arg1:T532 Arg2:T548
+R625	Addressee Arg1:T532 Arg2:T543
+R626	Addressee Arg1:T532 Arg2:T539
+R627	Speaker Arg1:T532 Arg2:T546
+R628	Speaker Arg1:T532 Arg2:T536
+R629	Addressee Arg1:T532 Arg2:T547
+R630	Speaker Arg1:T532 Arg2:T542
+R631	Addressee Arg1:T526 Arg2:T531
+R632	Speaker Arg1:T532 Arg2:T544
+R633	Addressee Arg1:T532 Arg2:T545
+R634	Addressee Arg1:T532 Arg2:T537
+R635	Addressee Arg1:T532 Arg2:T541
+R636	Speaker Arg1:T532 Arg2:T538
+R637	Addressee Arg1:T571 Arg2:T583
+R638	Cueing Arg1:T553 Arg2:T552
+R639	Addressee Arg1:T579 Arg2:T580
+R640	Speaker Arg1:T575 Arg2:T573
+R641	Speaker Arg1:T597 Arg2:T595
+R642	Cueing Arg1:T607 Arg2:T609
+R643	Speaker Arg1:T571 Arg2:T580
+R644	Addressee Arg1:T571 Arg2:T573
+R645	Addressee Arg1:T567 Arg2:T569
+R646	Speaker Arg1:T593 Arg2:T594
+R647	Speaker Arg1:T571 Arg2:T572
+R648	Speaker Arg1:T554 Arg2:T552
+R649	Addressee Arg1:T579 Arg2:T582
+R650	Cueing Arg1:T566 Arg2:T565
+R651	Cueing Arg1:T566 Arg2:T568
+R652	Addressee Arg1:T559 Arg2:T556
+R653	Cueing Arg1:T558 Arg2:T557
+R654	Speaker Arg1:T608 Arg2:T606
+R655	Speaker Arg1:T585 Arg2:T587
+R656	Speaker Arg1:T551 Arg2:T549
+R657	Speaker Arg1:T579 Arg2:T581
+R658	Addressee Arg1:T588 Arg2:T591
+R659	Cueing Arg1:T586 Arg2:T587
+R660	Speaker Arg1:T563 Arg2:T561
+R661	Addressee Arg1:T571 Arg2:T577
+R662	Addressee Arg1:T604 Arg2:T605
+R663	Addressee Arg1:T559 Arg2:T561
+R664	Cueing Arg1:T592 Arg2:T591
+R665	Addressee Arg1:T551 Arg2:T552
+R666	Addressee Arg1:T575 Arg2:T576
+R667	Speaker Arg1:T571 Arg2:T569
+R668	Cueing Arg1:T596 Arg2:T595
+R669	Speaker Arg1:T559 Arg2:T560
+R670	Cueing Arg1:T592 Arg2:T594
+R671	Cueing Arg1:T574 Arg2:T573
+R672	Speaker Arg1:T567 Arg2:T568
+R673	Addressee Arg1:T588 Arg2:T594
+R674	Speaker Arg1:T571 Arg2:T582
+R675	Addressee Arg1:T554 Arg2:T549
+R676	Cueing Arg1:T558 Arg2:T560
+R677	Addressee Arg1:T585 Arg2:T590
+R678	Speaker Arg1:T567 Arg2:T565
+R679	Addressee Arg1:T571 Arg2:T581
+R680	Speaker Arg1:T579 Arg2:T583
+R681	Speaker Arg1:T563 Arg2:T564
+R682	Cueing Arg1:T603 Arg2:T602
+R683	Speaker Arg1:T604 Arg2:T602
+R684	Speaker Arg1:T593 Arg2:T591
+R685	Speaker Arg1:T579 Arg2:T577
+R686	Addressee Arg1:T588 Arg2:T587
+R687	Cueing Arg1:T570 Arg2:T572
+R688	Cueing Arg1:T562 Arg2:T564
+R689	Speaker Arg1:T608 Arg2:T609
+R690	Cueing Arg1:T578 Arg2:T577
+R691	Cueing Arg1:T589 Arg2:T590
+R692	Addressee Arg1:T567 Arg2:T564
+R693	Speaker Arg1:T588 Arg2:T590
+R694	Cueing Arg1:T550 Arg2:T549
+R695	Speaker Arg1:T559 Arg2:T557
+R696	Cueing Arg1:T570 Arg2:T569
+R697	Cueing Arg1:T607 Arg2:T606
+R698	Speaker Arg1:T571 Arg2:T576
+R699	Addressee Arg1:T579 Arg2:T584
+R700	Cueing Arg1:T562 Arg2:T561
+R701	Addressee Arg1:T567 Arg2:T572
+R702	Speaker Arg1:T571 Arg2:T584
+R703	Addressee Arg1:T551 Arg2:T557
+R704	Addressee Arg1:T554 Arg2:T556
+R705	Addressee Arg1:T551 Arg2:T560
+R706	Addressee Arg1:T563 Arg2:T568
+R707	Speaker Arg1:T551 Arg2:T556
+R708	Addressee Arg1:T563 Arg2:T565
+R709	Cueing Arg1:T611 Arg2:T613
+R710	Addressee Arg1:T593 Arg2:T595
+R711	Addressee Arg1:T551 Arg2:T555
+R712	Speaker Arg1:T610 Arg2:T613
+R713	Speaker Arg1:T554 Arg2:T555
+R714	Addressee Arg1:T601 Arg2:T606
+R715	Addressee Arg1:T601 Arg2:T602
+R716	Addressee Arg1:T612 Arg2:T613
+R717	Addressee Arg1:T601 Arg2:T609
+R718	Speaker Arg1:T601 Arg2:T605
+R719	Cueing Arg1:T553 Arg2:T555
+R720	Cueing Arg1:T596 Arg2:T598
+R721	Speaker Arg1:T597 Arg2:T598
+R722	Addressee Arg1:T593 Arg2:T598
+R723	Cueing Arg1:T600 Arg2:T599
+R724	Speaker Arg1:T601 Arg2:T599
+R725	Addressee Arg1:T588 Arg2:T599
+R726	Speaker Arg1:T618 Arg2:T621
+R727	Cueing Arg1:T620 Arg2:T621
+R728	Cueing Arg1:T616 Arg2:T614
+R729	Speaker Arg1:T615 Arg2:T614
+R730	Addressee Arg1:T617 Arg2:T621
+R731	Addressee Arg1:T624 Arg2:T625
+R732	Cueing Arg1:T623 Arg2:T625
+R733	Speaker Arg1:T622 Arg2:T625
+R734	Addressee Arg1:T670 Arg2:T674
+R735	Speaker Arg1:T663 Arg2:T664
+R736	Addressee Arg1:T655 Arg2:T660
+R737	Addressee Arg1:T655 Arg2:T657
+R738	Speaker Arg1:T673 Arg2:T674
+R739	Addressee Arg1:T634 Arg2:T639
+R740	Speaker Arg1:T638 Arg2:T640
+R741	Speaker Arg1:T643 Arg2:T641
+R742	Cueing Arg1:T677 Arg2:T678
+R743	Addressee Arg1:T651 Arg2:T656
+R744	Speaker Arg1:T631 Arg2:T629
+R745	Cueing Arg1:T658 Arg2:T660
+R746	Addressee Arg1:T670 Arg2:T671
+R747	Addressee Arg1:T647 Arg2:T641
+R748	Cueing Arg1:T662 Arg2:T664
+R749	Speaker Arg1:T663 Arg2:T661
+R750	Addressee Arg1:T647 Arg2:T652
+R751	Cueing Arg1:T642 Arg2:T644
+R752	Addressee Arg1:T673 Arg2:T668
+R753	Cueing Arg1:T630 Arg2:T629
+R754	Speaker Arg1:T628 Arg2:T626
+R755	Cueing Arg1:T642 Arg2:T641
+R756	Speaker Arg1:T647 Arg2:T645
+R757	Cueing Arg1:T658 Arg2:T657
+R758	Speaker Arg1:T670 Arg2:T668
+R759	Speaker Arg1:T651 Arg2:T649
+R760	Speaker Arg1:T659 Arg2:T660
+R761	Speaker Arg1:T643 Arg2:T644
+R762	Cueing Arg1:T650 Arg2:T649
+R763	Addressee Arg1:T647 Arg2:T649
+R764	Addressee Arg1:T643 Arg2:T648
+R765	Addressee Arg1:T647 Arg2:T644
+R766	Addressee Arg1:T631 Arg2:T626
+R767	Cueing Arg1:T627 Arg2:T626
+R768	Speaker Arg1:T659 Arg2:T657
+R769	Speaker Arg1:T655 Arg2:T656
+R770	Cueing Arg1:T669 Arg2:T668
+R771	Cueing Arg1:T646 Arg2:T645
+R772	Addressee Arg1:T651 Arg2:T653
+R773	Cueing Arg1:T637 Arg2:T639
+R774	Cueing Arg1:T672 Arg2:T671
+R775	Speaker Arg1:T638 Arg2:T636
+R776	Cueing Arg1:T633 Arg2:T635
+R777	Addressee Arg1:T659 Arg2:T661
+R778	Addressee Arg1:T643 Arg2:T645
+R779	Speaker Arg1:T673 Arg2:T671
+R780	Speaker Arg1:T651 Arg2:T652
+R781	Speaker Arg1:T634 Arg2:T632
+R782	Speaker Arg1:T676 Arg2:T678
+R783	Cueing Arg1:T637 Arg2:T636
+R784	Speaker Arg1:T634 Arg2:T635
+R785	Cueing Arg1:T646 Arg2:T648
+R786	Speaker Arg1:T647 Arg2:T648
+R787	Cueing Arg1:T672 Arg2:T674
+R788	Addressee Arg1:T659 Arg2:T664
+R789	Speaker Arg1:T655 Arg2:T653
+R790	Cueing Arg1:T633 Arg2:T632
+R791	Speaker Arg1:T638 Arg2:T639
+R792	Addressee Arg1:T634 Arg2:T640
+R793	Cueing Arg1:T650 Arg2:T652
+R794	Cueing Arg1:T662 Arg2:T661
+R795	Addressee Arg1:T634 Arg2:T636
+R796	Cueing Arg1:T654 Arg2:T656
+R797	Addressee Arg1:T628 Arg2:T629
+R798	Cueing Arg1:T654 Arg2:T653
+R799	Cueing Arg1:T666 Arg2:T667
+R800	Speaker Arg1:T665 Arg2:T667
+R801	Addressee Arg1:T628 Arg2:T635
+R802	Addressee Arg1:T628 Arg2:T640
+R803	Addressee Arg1:T628 Arg2:T632
+R804	Addressee Arg1:T663 Arg2:T667
+R805	Cueing Arg1:T694 Arg2:T696
+R806	Cueing Arg1:T687 Arg2:T686
+R807	Speaker Arg1:T688 Arg2:T686
+R808	Cueing Arg1:T694 Arg2:T693
+R809	Cueing Arg1:T687 Arg2:T689
+R810	Speaker Arg1:T688 Arg2:T689
+R811	Speaker Arg1:T695 Arg2:T693
+R812	Addressee Arg1:T695 Arg2:T697
+R813	Speaker Arg1:T682 Arg2:T680
+R814	Cueing Arg1:T681 Arg2:T680
+R815	Speaker Arg1:T695 Arg2:T696
+R816	Speaker Arg1:T698 Arg2:T701
+R817	Addressee Arg1:T695 Arg2:T699
+R818	Addressee Arg1:T692 Arg2:T696
+R819	Speaker Arg1:T698 Arg2:T699
+R820	Speaker Arg1:T698 Arg2:T697
+R821	Addressee Arg1:T692 Arg2:T693
+R822	Addressee Arg1:T692 Arg2:T689
+R823	Speaker Arg1:T692 Arg2:T691
+R824	Addressee Arg1:T692 Arg2:T701
+R825	Addressee Arg1:T688 Arg2:T691
+R826	Speaker Arg1:T682 Arg2:T684
+R827	Speaker Arg1:T692 Arg2:T700
+R828	Addressee Arg1:T692 Arg2:T686
+R829	Addressee Arg1:T679 Arg2:T684
+R830	Addressee Arg1:T692 Arg2:T699
+R831	Addressee Arg1:T698 Arg2:T700
+R832	Cueing Arg1:T713 Arg2:T712
+R833	Cueing Arg1:T708 Arg2:T709
+R834	Speaker Arg1:T707 Arg2:T711
+R835	Speaker Arg1:T707 Arg2:T709
+R836	Speaker Arg1:T714 Arg2:T712
+R837	Addressee Arg1:T707 Arg2:T712
+R838	Addressee Arg1:T715 Arg2:T709
+R839	Speaker Arg1:T715 Arg2:T710
+R840	Cueing Arg1:T705 Arg2:T706
+R841	Addressee Arg1:T715 Arg2:T711
+R842	Addressee Arg1:T707 Arg2:T710
+R843	Speaker Arg1:T704 Arg2:T706
+R844	Addressee Arg1:T751 Arg2:T754
+R845	Speaker Arg1:T741 Arg2:T739
+R846	Addressee Arg1:T746 Arg2:T739
+R847	Addressee Arg1:T727 Arg2:T733
+R848	Speaker Arg1:T727 Arg2:T728
+R849	Addressee Arg1:T727 Arg2:T731
+R850	Speaker Arg1:T718 Arg2:T720
+R851	Cueing Arg1:T737 Arg2:T738
+R852	Addressee Arg1:T727 Arg2:T724
+R853	Addressee Arg1:T722 Arg2:T730
+R854	Speaker Arg1:T757 Arg2:T759
+R855	Speaker Arg1:T736 Arg2:T738
+R856	Addressee Arg1:T717 Arg2:T720
+R857	Speaker Arg1:T750 Arg2:T754
+R858	Addressee Arg1:T750 Arg2:T753
+R859	Addressee Arg1:T757 Arg2:T760
+R860	Speaker Arg1:T746 Arg2:T747
+R861	Cueing Arg1:T719 Arg2:T720
+R862	Cueing Arg1:T745 Arg2:T744
+R863	Addressee Arg1:T727 Arg2:T729
+R864	Addressee Arg1:T722 Arg2:T728
+R865	Speaker Arg1:T750 Arg2:T756
+R866	Speaker Arg1:T727 Arg2:T732
+R867	Speaker Arg1:T727 Arg2:T725
+R868	Speaker Arg1:T722 Arg2:T731
+R869	Cueing Arg1:T723 Arg2:T724
+R870	Cueing Arg1:T726 Arg2:T725
+R871	Cueing Arg1:T752 Arg2:T753
+R872	Speaker Arg1:T751 Arg2:T753
+R873	Speaker Arg1:T727 Arg2:T735
+R874	Cueing Arg1:T745 Arg2:T747
+R875	Cueing Arg1:T758 Arg2:T759
+R876	Addressee Arg1:T722 Arg2:T732
+R877	Speaker Arg1:T722 Arg2:T729
+R878	Speaker Arg1:T727 Arg2:T730
+R879	Addressee Arg1:T736 Arg2:T735
+R880	Speaker Arg1:T734 Arg2:T733
+R881	Cueing Arg1:T740 Arg2:T739
+R882	Addressee Arg1:T750 Arg2:T755
+R883	Speaker Arg1:T722 Arg2:T724
+R884	Speaker Arg1:T746 Arg2:T744
+R885	Addressee Arg1:T716 Arg2:T720
+R886	Addressee Arg1:T750 Arg2:T759
+R887	Addressee Arg1:T741 Arg2:T744
+R888	Speaker Arg1:T751 Arg2:T755
+R889	Speaker Arg1:T750 Arg2:T760
+R890	Addressee Arg1:T751 Arg2:T756
+R891	Addressee Arg1:T741 Arg2:T747
+R892	Cueing Arg1:T726 Arg2:T728
+R893	Addressee Arg1:T722 Arg2:T725
+R894	Addressee Arg1:T717 Arg2:T724
+R895	Addressee Arg1:T727 Arg2:T738
+R896	Addressee Arg1:T736 Arg2:T739
+R897	Addressee Arg1:T741 Arg2:T742
+R898	Cueing Arg1:T772 Arg2:T771
+R899	Cueing Arg1:T769 Arg2:T770
+R900	Speaker Arg1:T796 Arg2:T797
+R901	Speaker Arg1:T806 Arg2:T807
+R902	Addressee Arg1:T796 Arg2:T801
+R903	Speaker Arg1:T788 Arg2:T789
+R904	Cueing Arg1:T805 Arg2:T807
+R905	Cueing Arg1:T799 Arg2:T798
+R906	Addressee Arg1:T806 Arg2:T808
+R907	Addressee Arg1:T806 Arg2:T812
+R908	Speaker Arg1:T788 Arg2:T786
+R909	Speaker Arg1:T792 Arg2:T793
+R910	Speaker Arg1:T773 Arg2:T771
+R911	Addressee Arg1:T768 Arg2:T771
+R912	Cueing Arg1:T791 Arg2:T790
+R913	Cueing Arg1:T791 Arg2:T793
+R914	Cueing Arg1:T776 Arg2:T778
+R915	Cueing Arg1:T795 Arg2:T797
+R916	Addressee Arg1:T781 Arg2:T778
+R917	Cueing Arg1:T799 Arg2:T801
+R918	Addressee Arg1:T773 Arg2:T775
+R919	Speaker Arg1:T777 Arg2:T775
+R920	Addressee Arg1:T781 Arg2:T785
+R921	Cueing Arg1:T776 Arg2:T775
+R922	Addressee Arg1:T800 Arg2:T811
+R923	Speaker Arg1:T806 Arg2:T811
+R924	Cueing Arg1:T764 Arg2:T765
+R925	Cueing Arg1:T783 Arg2:T782
+R926	Addressee Arg1:T777 Arg2:T779
+R927	Speaker Arg1:T777 Arg2:T778
+R928	Addressee Arg1:T796 Arg2:T798
+R929	Speaker Arg1:T784 Arg2:T785
+R930	Speaker Arg1:T768 Arg2:T770
+R931	Addressee Arg1:T768 Arg2:T774
+R932	Addressee Arg1:T796 Arg2:T793
+R933	Speaker Arg1:T800 Arg2:T812
+R934	Addressee Arg1:T800 Arg2:T802
+R935	Speaker Arg1:T800 Arg2:T808
+R936	Speaker Arg1:T762 Arg2:T765
+R937	Speaker Arg1:T800 Arg2:T803
+R938	Cueing Arg1:T780 Arg2:T779
+R939	Addressee Arg1:T806 Arg2:T810
+R940	Cueing Arg1:T787 Arg2:T789
+R941	Speaker Arg1:T792 Arg2:T790
+R942	Speaker Arg1:T796 Arg2:T794
+R943	Speaker Arg1:T773 Arg2:T774
+R944	Speaker Arg1:T806 Arg2:T804
+R945	Cueing Arg1:T787 Arg2:T786
+R946	Speaker Arg1:T784 Arg2:T782
+R947	Speaker Arg1:T800 Arg2:T801
+R948	Cueing Arg1:T772 Arg2:T774
+R949	Addressee Arg1:T800 Arg2:T813
+R950	Cueing Arg1:T805 Arg2:T804
+R951	Addressee Arg1:T784 Arg2:T786
+R952	Speaker Arg1:T800 Arg2:T810
+R953	Speaker Arg1:T781 Arg2:T779
+R954	Speaker Arg1:T806 Arg2:T813
+R955	Speaker Arg1:T800 Arg2:T798
+R956	Addressee Arg1:T781 Arg2:T782
+R957	Cueing Arg1:T783 Arg2:T785
+R958	Cueing Arg1:T795 Arg2:T794
+R959	Speaker Arg1:T796 Arg2:T802
+R960	Addressee Arg1:T800 Arg2:T804
+R961	Speaker Arg1:T806 Arg2:T809
+R962	Addressee Arg1:T800 Arg2:T809
+R963	Addressee Arg1:T784 Arg2:T789
+R964	Addressee Arg1:T800 Arg2:T807
+R965	Addressee Arg1:T763 Arg2:T765
+R966	Addressee Arg1:T796 Arg2:T803
+R967	Addressee Arg1:T792 Arg2:T797
+R968	Addressee Arg1:T792 Arg2:T794
+R969	Addressee Arg1:T788 Arg2:T790
+R970	Addressee Arg1:T767 Arg2:T770
+R971	Speaker Arg1:T829 Arg2:T827
+R972	Cueing Arg1:T816 Arg2:T817
+R973	Cueing Arg1:T828 Arg2:T827
+R974	Speaker Arg1:T815 Arg2:T817
+R975	Addressee Arg1:T815 Arg2:T820
+R976	Cueing Arg1:T819 Arg2:T820
+R977	Speaker Arg1:T818 Arg2:T820
+R978	Addressee Arg1:T818 Arg2:T817
+R979	Addressee Arg1:T822 Arg2:T825
+R980	Addressee Arg1:T830 Arg2:T827
+R981	Cueing Arg1:T824 Arg2:T825
+R982	Speaker Arg1:T823 Arg2:T825
+R983	Addressee Arg1:T821 Arg2:T820
+R984	Speaker Arg1:T838 Arg2:T842
+R985	Cueing Arg1:T832 Arg2:T833
+R986	Cueing Arg1:T844 Arg2:T845
+R987	Addressee Arg1:T836 Arg2:T837
+R988	Speaker Arg1:T831 Arg2:T833
+R989	Speaker Arg1:T834 Arg2:T837
+R990	Speaker Arg1:T843 Arg2:T845
+R991	Cueing Arg1:T835 Arg2:T837
+R992	Speaker Arg1:T838 Arg2:T840
+R993	Cueing Arg1:T841 Arg2:T842
+R994	Cueing Arg1:T839 Arg2:T840
+R995	Speaker Arg1:T847 Arg2:T850
+R996	Cueing Arg1:T849 Arg2:T850
+R997	Addressee Arg1:T847 Arg2:T851
+R998	Speaker Arg1:T853 Arg2:T855
+R999	Addressee Arg1:T856 Arg2:T855
+R1000	Addressee Arg1:T846 Arg2:T850
+R1001	Cueing Arg1:T854 Arg2:T855
+R1002	Speaker Arg1:T846 Arg2:T851
+R1003	Speaker Arg1:T897 Arg2:T903
+R1004	Addressee Arg1:T882 Arg2:T883
+R1005	Addressee Arg1:T857 Arg2:T864
+R1006	Addressee Arg1:T857 Arg2:T861
+R1007	Cueing Arg1:T862 Arg2:T861
+R1008	Addressee Arg1:T872 Arg2:T889
+R1009	Speaker Arg1:T872 Arg2:T914
+R1010	Speaker Arg1:T897 Arg2:T911
+R1011	Speaker Arg1:T897 Arg2:T905
+R1012	Addressee Arg1:T857 Arg2:T865
+R1013	Speaker Arg1:T872 Arg2:T874
+R1014	Speaker Arg1:T872 Arg2:T906
+R1015	Addressee Arg1:T872 Arg2:T901
+R1016	Addressee Arg1:T936 Arg2:T938
+R1017	Speaker Arg1:T867 Arg2:T868
+R1018	Speaker Arg1:T936 Arg2:T935
+R1019	Addressee Arg1:T897 Arg2:T902
+R1020	Cueing Arg1:T871 Arg2:T874
+R1021	Addressee Arg1:T872 Arg2:T911
+R1022	Addressee Arg1:T872 Arg2:T909
+R1023	Speaker Arg1:T872 Arg2:T892
+R1024	Speaker Arg1:T867 Arg2:T865
+R1025	Speaker Arg1:T897 Arg2:T915
+R1026	Addressee Arg1:T873 Arg2:T870
+R1027	Addressee Arg1:T897 Arg2:T908
+R1028	Cueing Arg1:T881 Arg2:T880
+R1029	Addressee Arg1:T897 Arg2:T900
+R1030	Cueing Arg1:T876 Arg2:T878
+R1031	Addressee Arg1:T897 Arg2:T916
+R1032	Speaker Arg1:T897 Arg2:T901
+R1033	Addressee Arg1:T897 Arg2:T912
+R1034	Addressee Arg1:T872 Arg2:T915
+R1035	Addressee Arg1:T897 Arg2:T910
+R1036	Speaker Arg1:T897 Arg2:T913
+R1037	Addressee Arg1:T918 Arg2:T919
+R1038	Speaker Arg1:T872 Arg2:T894
+R1039	Addressee Arg1:T867 Arg2:T869
+R1040	Addressee Arg1:T872 Arg2:T907
+R1041	Cueing Arg1:T898 Arg2:T899
+R1042	Speaker Arg1:T872 Arg2:T896
+R1043	Speaker Arg1:T886 Arg2:T884
+R1044	Addressee Arg1:T886 Arg2:T890
+R1045	Cueing Arg1:T871 Arg2:T870
+R1046	Speaker Arg1:T872 Arg2:T879
+R1047	Addressee Arg1:T897 Arg2:T904
+R1048	Speaker Arg1:T863 Arg2:T864
+R1049	Speaker Arg1:T872 Arg2:T888
+R1050	Speaker Arg1:T872 Arg2:T904
+R1051	Addressee Arg1:T872 Arg2:T905
+R1052	Speaker Arg1:T872 Arg2:T883
+R1053	Cueing Arg1:T937 Arg2:T935
+R1054	Addressee Arg1:T897 Arg2:T922
+R1055	Speaker Arg1:T872 Arg2:T900
+R1056	Speaker Arg1:T858 Arg2:T860
+R1057	Addressee Arg1:T857 Arg2:T868
+R1058	Speaker Arg1:T863 Arg2:T861
+R1059	Speaker Arg1:T897 Arg2:T909
+R1060	Speaker Arg1:T897 Arg2:T907
+R1061	Cueing Arg1:T885 Arg2:T887
+R1062	Cueing Arg1:T885 Arg2:T884
+R1063	Addressee Arg1:T872 Arg2:T895
+R1064	Speaker Arg1:T918 Arg2:T916
+R1065	Speaker Arg1:T872 Arg2:T890
+R1066	Addressee Arg1:T872 Arg2:T875
+R1067	Speaker Arg1:T886 Arg2:T889
+R1068	Addressee Arg1:T872 Arg2:T891
+R1069	Cueing Arg1:T920 Arg2:T919
+R1070	Addressee Arg1:T886 Arg2:T892
+R1071	Addressee Arg1:T897 Arg2:T906
+R1072	Speaker Arg1:T877 Arg2:T878
+R1073	Speaker Arg1:T872 Arg2:T908
+R1074	Speaker Arg1:T921 Arg2:T919
+R1075	Speaker Arg1:T886 Arg2:T891
+R1076	Speaker Arg1:T933 Arg2:T932
+R1077	Speaker Arg1:T872 Arg2:T902
+R1078	Speaker Arg1:T872 Arg2:T910
+R1079	Speaker Arg1:T897 Arg2:T899
+R1080	Speaker Arg1:T857 Arg2:T869
+R1081	Speaker Arg1:T872 Arg2:T912
+R1082	Speaker Arg1:T882 Arg2:T880
+R1083	Cueing Arg1:T859 Arg2:T860
+R1084	Addressee Arg1:T872 Arg2:T884
+R1085	Addressee Arg1:T934 Arg2:T932
+R1086	Cueing Arg1:T862 Arg2:T864
+R1087	Addressee Arg1:T872 Arg2:T903
+R1088	Cueing Arg1:T866 Arg2:T865
+R1089	Addressee Arg1:T886 Arg2:T888
+R1090	Addressee Arg1:T873 Arg2:T874
+R1091	Addressee Arg1:T872 Arg2:T893
+R1092	Cueing Arg1:T917 Arg2:T916
+R1093	Speaker Arg1:T886 Arg2:T887
+R1094	Cueing Arg1:T876 Arg2:T875
+R1095	Speaker Arg1:T877 Arg2:T875
+R1096	Cueing Arg1:T866 Arg2:T868
+R1097	Addressee Arg1:T872 Arg2:T878
+R1098	Addressee Arg1:T872 Arg2:T913
+R1099	Addressee Arg1:T872 Arg2:T887
+R1100	Addressee Arg1:T897 Arg2:T914
+R1101	Speaker Arg1:T872 Arg2:T870
+R1102	Speaker Arg1:T897 Arg2:T927
+R1103	Addressee Arg1:T897 Arg2:T926
+R1104	Speaker Arg1:T897 Arg2:T929
+R1105	Speaker Arg1:T897 Arg2:T925
+R1106	Speaker Arg1:T886 Arg2:T893
+R1107	Speaker Arg1:T897 Arg2:T931
+R1108	Speaker Arg1:T886 Arg2:T895
+R1109	Addressee Arg1:T886 Arg2:T896
+R1110	Addressee Arg1:T934 Arg2:T935
+R1111	Addressee Arg1:T897 Arg2:T928
+R1112	Addressee Arg1:T886 Arg2:T894
+R1113	Addressee Arg1:T872 Arg2:T899
+R1114	Addressee Arg1:T897 Arg2:T930
+R1115	Speaker Arg1:T897 Arg2:T923
+R1116	Speaker Arg1:T872 Arg2:T922
+R1117	Addressee Arg1:T882 Arg2:T879
+R1118	Addressee Arg1:T857 Arg2:T860
+R1119	Speaker Arg1:T933 Arg2:T938
+R1120	Addressee Arg1:T872 Arg2:T880
+R1121	Addressee Arg1:T872 Arg2:T923
+R1122	Speaker Arg1:T872 Arg2:T924
+R1123	Addressee Arg1:T872 Arg2:T925
+R1124	Speaker Arg1:T872 Arg2:T926
+R1125	Addressee Arg1:T872 Arg2:T927
+R1126	Speaker Arg1:T872 Arg2:T928
+R1127	Addressee Arg1:T872 Arg2:T929
+R1128	Speaker Arg1:T872 Arg2:T930
+R1129	Addressee Arg1:T872 Arg2:T931
+R1130	Cueing Arg1:T970 Arg2:T969
+R1131	Speaker Arg1:T939 Arg2:T944
+R1132	Speaker Arg1:T939 Arg2:T942
+R1133	Speaker Arg1:T963 Arg2:T961
+R1134	Cueing Arg1:T962 Arg2:T961
+R1135	Addressee Arg1:T967 Arg2:T968
+R1136	Speaker Arg1:T971 Arg2:T972
+R1137	Addressee Arg1:T939 Arg2:T945
+R1138	Speaker Arg1:T939 Arg2:T946
+R1139	Addressee Arg1:T963 Arg2:T964
+R1140	Addressee Arg1:T971 Arg2:T973
+R1141	Speaker Arg1:T967 Arg2:T965
+R1142	Addressee Arg1:T939 Arg2:T943
+R1143	Speaker Arg1:T939 Arg2:T948
+R1144	Speaker Arg1:T971 Arg2:T969
+R1145	Cueing Arg1:T940 Arg2:T942
+R1146	Addressee Arg1:T939 Arg2:T947
+R1147	Cueing Arg1:T970 Arg2:T972
+R1148	Cueing Arg1:T966 Arg2:T965
+R1149	Addressee Arg1:T941 Arg2:T942
+R1150	Speaker Arg1:T941 Arg2:T945
+R1151	Speaker Arg1:T939 Arg2:T950
+R1152	Addressee Arg1:T939 Arg2:T951
+R1153	Addressee Arg1:T941 Arg2:T944
+R1154	Speaker Arg1:T941 Arg2:T947
+R1155	Addressee Arg1:T941 Arg2:T950
+R1156	Speaker Arg1:T941 Arg2:T951
+R1157	Addressee Arg1:T941 Arg2:T952
+R1158	Speaker Arg1:T941 Arg2:T953
+R1159	Addressee Arg1:T939 Arg2:T953
+R1160	Speaker Arg1:T941 Arg2:T949
+R1161	Speaker Arg1:T941 Arg2:T943
+R1162	Addressee Arg1:T941 Arg2:T946
+R1163	Addressee Arg1:T939 Arg2:T949
+R1164	Speaker Arg1:T939 Arg2:T952
+R1165	Addressee Arg1:T941 Arg2:T948
+R1166	Addressee Arg1:T955 Arg2:T961
+R1167	Speaker Arg1:T955 Arg2:T954
+R1168	Cueing Arg1:T957 Arg2:T960
+R1169	Addressee Arg1:T958 Arg2:T959
+R1170	Addressee Arg1:T958 Arg2:T960
+R1171	Speaker Arg1:T955 Arg2:T973
+R1172	Addressee Arg1:T955 Arg2:T965
+R1173	Addressee Arg1:T955 Arg2:T972
+R1174	Speaker Arg1:T955 Arg2:T968
+R1175	Speaker Arg1:T956 Arg2:T959
+R1176	Speaker Arg1:T955 Arg2:T964
+R1177	Addressee Arg1:T955 Arg2:T969
+R1178	Speaker Arg1:T956 Arg2:T960
+R1179	Addressee Arg1:T941 Arg2:T954
+R1180	Cueing Arg1:T980 Arg2:T981
+R1181	Addressee Arg1:T975 Arg2:T978
+R1182	Speaker Arg1:T979 Arg2:T981
+R1183	Speaker Arg1:T974 Arg2:T978
+R1184	Addressee Arg1:T974 Arg2:T981
+R1185	Cueing Arg1:T977 Arg2:T978
+R1186	Addressee Arg1:T988 Arg2:T991
+R1187	Speaker Arg1:T986 Arg2:T995
+R1188	Addressee Arg1:T992 Arg2:T997
+R1189	Addressee Arg1:T992 Arg2:T1001
+R1190	Speaker Arg1:T986 Arg2:T1003
+R1191	Speaker Arg1:T992 Arg2:T994
+R1192	Addressee Arg1:T992 Arg2:T1003
+R1193	Speaker Arg1:T986 Arg2:T1005
+R1194	Speaker Arg1:T992 Arg2:T998
+R1195	Addressee Arg1:T986 Arg2:T1006
+R1196	Addressee Arg1:T986 Arg2:T994
+R1197	Speaker Arg1:T986 Arg2:T989
+R1198	Cueing Arg1:T984 Arg2:T985
+R1199	Addressee Arg1:T986 Arg2:T996
+R1200	Speaker Arg1:T983 Arg2:T985
+R1201	Addressee Arg1:T986 Arg2:T1002
+R1202	Addressee Arg1:T986 Arg2:T990
+R1203	Cueing Arg1:T987 Arg2:T989
+R1204	Speaker Arg1:T986 Arg2:T991
+R1205	Addressee Arg1:T988 Arg2:T989
+R1206	Speaker Arg1:T992 Arg2:T996
+R1207	Addressee Arg1:T992 Arg2:T999
+R1208	Cueing Arg1:T993 Arg2:T994
+R1209	Speaker Arg1:T986 Arg2:T999
+R1210	Addressee Arg1:T986 Arg2:T1004
+R1211	Addressee Arg1:T986 Arg2:T1000
+R1212	Cueing Arg1:T1018 Arg2:T1019
+R1213	Speaker Arg1:T992 Arg2:T1006
+R1214	Addressee Arg1:T992 Arg2:T995
+R1215	Speaker Arg1:T986 Arg2:T997
+R1216	Speaker Arg1:T988 Arg2:T990
+R1217	Speaker Arg1:T986 Arg2:T1001
+R1218	Addressee Arg1:T986 Arg2:T998
+R1219	Speaker Arg1:T992 Arg2:T1004
+R1220	Addressee Arg1:T992 Arg2:T1005
+R1221	Addressee Arg1:T982 Arg2:T985
+R1222	Speaker Arg1:T992 Arg2:T1000
+R1223	Speaker Arg1:T992 Arg2:T1002
+R1224	Speaker Arg1:T1008 Arg2:T1014
+R1225	Speaker Arg1:T1008 Arg2:T1012
+R1226	Speaker Arg1:T1017 Arg2:T1019
+R1227	Speaker Arg1:T1008 Arg2:T1010
+R1228	Addressee Arg1:T1008 Arg2:T1015
+R1229	Addressee Arg1:T1008 Arg2:T1013
+R1230	Addressee Arg1:T1020 Arg2:T1019
+R1231	Addressee Arg1:T1007 Arg2:T1014
+R1232	Speaker Arg1:T1007 Arg2:T1011
+R1233	Speaker Arg1:T1007 Arg2:T1013
+R1234	Addressee Arg1:T1007 Arg2:T1010
+R1235	Addressee Arg1:T1007 Arg2:T1012
+R1236	Speaker Arg1:T1007 Arg2:T1015
+R1237	Addressee Arg1:T1008 Arg2:T1011
+R1238	Speaker Arg1:T1028 Arg2:T1031
+R1239	Cueing Arg1:T1046 Arg2:T1048
+R1240	Addressee Arg1:T1047 Arg2:T1048
+R1241	Addressee Arg1:T1036 Arg2:T1039
+R1242	Cueing Arg1:T1030 Arg2:T1031
+R1243	Addressee Arg1:T1035 Arg2:T1038
+R1244	Speaker Arg1:T1032 Arg2:T1034
+R1245	Addressee Arg1:T1033 Arg2:T1034
+R1246	Speaker Arg1:T1045 Arg2:T1048
+R1247	Addressee Arg1:T1029 Arg2:T1031
+R1248	Addressee Arg1:T1035 Arg2:T1040
+R1249	Speaker Arg1:T1041 Arg2:T1043
+R1250	Cueing Arg1:T1026 Arg2:T1027
+R1251	Speaker Arg1:T1025 Arg2:T1027
+R1252	Cueing Arg1:T1042 Arg2:T1043
+R1253	Speaker Arg1:T1035 Arg2:T1039
+R1254	Speaker Arg1:T1036 Arg2:T1038
+R1255	Addressee Arg1:T1054 Arg2:T1055
+R1256	Speaker Arg1:T1053 Arg2:T1055
+R1257	Addressee Arg1:T1023 Arg2:T1024
+R1258	Cueing Arg1:T1052 Arg2:T1055
+R1259	Speaker Arg1:T1036 Arg2:T1040
+R1260	Speaker Arg1:T1021 Arg2:T1024
+R1261	Addressee Arg1:T1035 Arg2:T1043
+R1262	Cueing Arg1:T1022 Arg2:T1024
+R1263	Cueing Arg1:T1050 Arg2:T1051
+R1264	Speaker Arg1:T1049 Arg2:T1051
+R1265	Addressee Arg1:T1047 Arg2:T1051
+R1266	Cueing Arg1:T1075 Arg2:T1076
+R1267	Addressee Arg1:T1077 Arg2:T1080
+R1268	Speaker Arg1:T1074 Arg2:T1076
+R1269	Cueing Arg1:T1061 Arg2:T1062
+R1270	Speaker Arg1:T1060 Arg2:T1062
+R1271	Speaker Arg1:T1066 Arg2:T1069
+R1272	Speaker Arg1:T1066 Arg2:T1072
+R1273	Cueing Arg1:T1058 Arg2:T1056
+R1274	Speaker Arg1:T1066 Arg2:T1070
+R1275	Speaker Arg1:T1066 Arg2:T1073
+R1276	Speaker Arg1:T1057 Arg2:T1056
+R1277	Speaker Arg1:T1063 Arg2:T1065
+R1278	Speaker Arg1:T1063 Arg2:T1064
+R1279	Speaker Arg1:T1078 Arg2:T1080
+R1280	Speaker Arg1:T1066 Arg2:T1067
+R1281	Addressee Arg1:T1066 Arg2:T1076
+R1282	Speaker Arg1:T1066 Arg2:T1068
+R1283	Addressee Arg1:T1059 Arg2:T1062
+R1284	Addressee Arg1:T1071 Arg2:T1072
+R1285	Addressee Arg1:T1071 Arg2:T1073
+R1286	Addressee Arg1:T1071 Arg2:T1070

@@ -1,0 +1,278 @@
+COREF	start_token	end_token	prop	cat	text
+11	2	4	PROP	PER	Mrs. Rachel Lynde
+11	9	10	PROP	PER	Rachel Lynde
+23	14	17	NOM	FAC	the Avonlea main road
+24	29	29	NOM	PER	ladies
+25	44	50	NOM	LOC	the woods of the old Cuthbert place
+26	47	50	NOM	FAC	the old Cuthbert place
+26	52	52	PRON	FAC	it
+27	57	61	NOM	LOC	an intricate , headlong brook
+26	63	63	PRON	FAC	its
+28	67	68	NOM	LOC	those woods
+0	84	86	PROP	LOC	Lynde ’s Hollow
+29	89	96	NOM	LOC	a quiet , well - conducted little stream
+30	101	102	NOM	LOC	a brook
+11	106	108	PROP	PER	Mrs. Rachel Lynde
+11	124	125	PROP	PER	Mrs. Rachel
+11	129	129	PRON	PER	her
+12	142	142	PROP	PER	brooks
+31	144	144	NOM	PER	children
+11	150	150	PRON	PER	she
+11	158	158	PRON	PER	she
+11	163	163	PRON	PER	she
+32	176	180	NOM	PER	plenty of people in Avonlea
+1	180	180	PROP	GPE	Avonlea
+1	184	184	PRON	GPE	it
+32	191	191	PRON	PER	their
+33	191	192	NOM	PER	their neighbor
+32	199	199	PRON	PER	their
+11	203	205	PROP	PER	Mrs. Rachel Lynde
+32	215	215	PRON	PER	their
+34	221	222	NOM	PER	other folks
+11	227	227	PRON	PER	She
+35	229	231	NOM	PER	a notable housewife
+11	233	233	PRON	PER	her
+11	242	242	PRON	PER	she
+36	246	248	NOM	FAC	the Sewing Circle
+37	252	255	NOM	FAC	the Sunday - school
+2	263	266	PROP	ORG	the Church Aid Society
+11	276	277	PROP	PER	Mrs. Rachel
+11	286	286	PRON	PER	her
+11	297	297	PRON	PER	she
+32	302	302	PRON	PER	them
+1	305	305	PROP	PER	Avonlea
+38	322	336	NOM	FAC	the main road that crossed the hollow and wound up the steep red hill beyond
+39	327	328	NOM	LOC	the hollow
+40	332	336	NOM	LOC	the steep red hill beyond
+1	339	339	PROP	GPE	Avonlea
+41	341	376	NOM	GPE	a little triangular peninsula jutting out into the Gulf of St. Lawrence with water on two sides of it , anybody who went out of it or into it had to pass over that hill road
+42	348	352	NOM	LOC	the Gulf of St. Lawrence
+3	351	352	PROP	GPE	St. Lawrence
+41	359	359	PRON	FAC	it
+41	366	366	PRON	FAC	it
+41	369	369	PRON	FAC	it
+43	374	376	NOM	FAC	that hill road
+11	384	385	PROP	PER	Mrs. Rachel
+11	392	392	PRON	PER	She
+44	420	421	NOM	FAC	the house
+14	441	442	PROP	PER	Thomas Lynde
+45	444	468	NOM	PER	a meek little man whom Avonlea people called “ Rachel Lynde ’s husband”--was sowing his late turnip seed on the hill field beyond the barn
+1	449	449	PROP	PER	Avonlea
+11	453	454	PROP	PER	Rachel Lynde
+14	458	458	PRON	PER	his
+46	463	468	NOM	FAC	the hill field beyond the barn
+47	467	468	NOM	FAC	the barn
+15	471	472	PROP	PER	Matthew Cuthbert
+15	478	478	PRON	PER	his
+48	480	484	NOM	LOC	the big red brook field
+4	488	489	PROP	FAC	Green Gables
+11	491	492	PROP	PER	Mrs. Rachel
+15	495	495	PRON	PER	he
+11	498	498	PRON	PER	she
+15	501	501	PRON	PER	him
+16	503	504	PROP	PER	Peter Morrison
+17	509	511	PROP	PER	William J. Blair
+49	509	513	NOM	FAC	William J. Blair ’s store
+5	516	516	PROP	GPE	Carmody
+15	518	518	PRON	PER	he
+15	522	522	PRON	PER	his
+16	529	529	PROP	PER	Peter
+16	532	532	PRON	PER	him
+15	538	539	PROP	PER	Matthew Cuthbert
+15	550	550	PRON	PER	his
+15	558	559	PROP	PER	Matthew Cuthbert
+39	577	578	NOM	LOC	the hollow
+51	581	582	NOM	LOC	the hill
+15	586	586	PRON	PER	he
+15	592	592	PRON	PER	his
+15	603	603	PRON	PER	he
+1	608	608	PROP	GPE	Avonlea
+15	611	611	PRON	PER	he
+15	623	623	PRON	PER	he
+15	634	635	PROP	PER	Matthew Cuthbert
+15	640	640	PRON	PER	he
+52	642	642	NOM	FAC	there
+53	647	651	NOM	PER	any other man in Avonlea
+1	651	651	PROP	PER	Avonlea
+11	653	654	PROP	PER	Mrs. Rachel
+15	676	676	PROP	PER	Matthew
+54	681	681	NOM	FAC	home
+15	693	693	PRON	PER	him
+15	695	695	PRON	PER	he
+55	697	718	NOM	PER	the shyest man alive and hated to have to go among strangers or to any place where he might have to talk
+56	708	708	NOM	PER	strangers
+15	714	714	PRON	PER	he
+15	720	720	PROP	PER	Matthew
+11	742	743	PROP	PER	Mrs. Rachel
+11	747	747	PRON	PER	she
+11	756	756	PRON	PER	her
+57	764	764	PRON	PER	I
+4	770	771	PROP	FAC	Green Gables
+18	778	778	PROP	PER	Marilla
+15	780	780	PRON	PER	he
+57	787	789	NOM	PER	the worthy woman
+15	794	794	PRON	PER	He
+99	800	800	NOM	GPE	town
+15	806	806	PRON	PER	he
+15	813	813	PRON	PER	he
+15	820	820	PRON	PER	he
+15	834	834	PRON	PER	he
+100	844	845	NOM	PER	a doctor
+15	857	857	PRON	PER	him
+57	860	860	PRON	PER	I
+57	870	870	PRON	PER	I
+57	883	883	PRON	PER	I
+15	888	889	PROP	PER	Matthew Cuthbert
+1	892	892	PROP	GPE	Avonlea
+11	899	900	PROP	PER	Mrs. Rachel
+11	904	904	PRON	PER	she
+58	911	923	NOM	FAC	the big , rambling , orchard - embowered house where the Cuthberts lived
+19	921	922	PROP	PER	the Cuthberts
+59	925	937	NOM	FAC	a scant quarter of a mile up the road from Lynde ’s Hollow
+60	932	937	NOM	FAC	the road from Lynde ’s Hollow
+6	935	937	PROP	GPE	Lynde ’s Hollow
+61	943	945	NOM	FAC	the long lane
+15	953	954	PROP	PER	Matthew Cuthbert
+62	953	956	NOM	PER	Matthew Cuthbert ’s father
+15	963	963	PRON	PER	his
+63	963	964	NOM	PER	his son
+63	966	966	PRON	PER	him
+63	974	974	PRON	PER	he
+63	978	978	PRON	PER	his
+64	978	980	NOM	PER	his fellow men
+65	985	986	NOM	LOC	the woods
+63	988	988	PRON	PER	he
+63	990	990	PRON	PER	his
+66	990	991	NOM	FAC	his homestead
+4	993	994	PROP	FAC	Green Gables
+67	998	1004	NOM	LOC	the furthest edge of his cleared land
+63	1002	1002	PRON	PER	his
+68	1002	1004	NOM	LOC	his cleared land
+69	1016	1025	NOM	FAC	the main road along which all the other Avonlea houses
+70	1021	1025	NOM	FAC	all the other Avonlea houses
+11	1031	1033	PROP	PER	Mrs. Rachel Lynde
+11	1061	1061	PRON	PER	she
+11	1064	1064	PRON	PER	she
+15	1085	1085	PROP	PER	Matthew
+18	1087	1087	PROP	PER	Marilla
+18	1099	1099	PRON	PER	themselves
+101	1108	1108	NOM	PER	dear
+102	1111	1111	PRON	PER	they
+102	1118	1118	PRON	PER	them
+11	1120	1120	PRON	PER	I
+103	1125	1125	NOM	PER	people
+102	1131	1131	PRON	PER	they
+11	1139	1139	PRON	PER	I
+102	1142	1142	PRON	PER	they
+104	1148	1149	NOM	PER	A body
+105	1162	1163	NOM	PER	the Irishman
+11	1169	1170	PROP	PER	Mrs. Rachel
+71	1174	1175	NOM	FAC	the lane
+72	1177	1181	NOM	FAC	the backyard of Green Gables
+4	1180	1181	PROP	FAC	Green Gables
+73	1190	1191	NOM	FAC	that yard
+20	1206	1207	PROP	PER	prim Lombardies
+11	1221	1222	PROP	PER	Mrs. Rachel
+11	1233	1233	PRON	PER	she
+18	1239	1240	PROP	PER	Marilla Cuthbert
+73	1242	1243	NOM	FAC	that yard
+18	1248	1248	PRON	PER	she
+11	1250	1250	PRON	PER	her
+75	1250	1251	NOM	FAC	her house
+76	1253	1253	NOM	PER	One
+11	1272	1273	PROP	PER	Mrs. Rachel
+77	1289	1293	NOM	FAC	The kitchen at Green Gables
+4	1292	1293	PROP	FAC	Green Gables
+78	1295	1297	NOM	FAC	a cheerful apartment
+79	1321	1323	NOM	FAC	an unused parlor
+4	1325	1325	PRON	FAC	Its
+80	1340	1342	NOM	FAC	the back yard
+81	1358	1358	PRON	PER	you
+82	1370	1372	NOM	FAC	the left orchard
+83	1380	1384	NOM	LOC	the hollow by the brook
+18	1397	1398	PROP	PER	Marilla Cuthbert
+18	1401	1401	PRON	PER	she
+18	1415	1415	PRON	PER	her
+18	1435	1435	PRON	PER	she
+18	1445	1445	PRON	PER	her
+11	1451	1452	PROP	PER	Mrs. Rachel
+11	1455	1455	PRON	PER	she
+18	1483	1483	PROP	PER	Marilla
+84	1487	1493	NOM	FAC	some one home with Matthew to tea
+15	1491	1491	PROP	PER	Matthew
+85	1517	1519	NOM	PER	the expected company
+15	1530	1530	PROP	PER	Matthew
+11	1539	1540	PROP	PER	Mrs. Rachel
+4	1552	1554	PROP	FAC	unmysterious Green Gables
+11	1560	1560	PROP	PER	Rachel
+18	1563	1563	PROP	PER	Marilla
+21	1579	1579	PROP	PER	Wo
+21	1581	1581	PRON	PER	you
+11	1588	1588	PRON	PER	your
+106	1588	1589	NOM	PER	your folks
+18	1610	1611	PROP	PER	Marilla Cuthbert
+11	1613	1614	PROP	PER	Mrs. Rachel
+86	1625	1625	PRON	PER	their
+18	1628	1628	PROP	PER	Marilla
+87	1630	1640	NOM	PER	a tall , thin woman , with angles and without curves
+18	1642	1642	PRON	PER	her
+18	1669	1669	PRON	PER	She
+88	1672	1679	NOM	PER	a woman of narrow experience and rigid conscience
+18	1682	1682	PRON	PER	she
+18	1692	1692	PRON	PER	her
+107	1717	1717	PRON	PER	We
+11	1725	1726	PROP	PER	Mrs. Rachel
+11	1729	1729	PRON	PER	I
+11	1735	1735	PRON	PER	you
+11	1743	1743	PRON	PER	I
+15	1745	1745	PROP	PER	Matthew
+11	1750	1750	PRON	PER	I
+15	1753	1753	PRON	PER	he
+108	1757	1758	NOM	PER	the doctor
+18	1762	1762	PROP	PER	Marilla
+18	1768	1768	PRON	PER	She
+11	1771	1772	PROP	PER	Mrs. Rachel
+18	1775	1775	PRON	PER	she
+15	1782	1782	PROP	PER	Matthew
+11	1792	1792	PRON	PER	her
+89	1792	1793	NOM	PER	her neighbor
+18	1802	1802	PRON	PER	I
+18	1807	1807	PRON	PER	I
+18	1815	1815	PRON	PER	she
+15	1819	1819	PROP	PER	Matthew
+8	1822	1823	PROP	LOC	Bright River
+109	1825	1825	PRON	PER	We
+110	1828	1830	NOM	PER	a little boy
+111	1832	1837	NOM	FAC	an orphan asylum in Nova Scotia
+9	1836	1837	PROP	GPE	Nova Scotia
+110	1839	1839	PRON	PER	he
+112	1843	1844	NOM	VEH	the train
+18	1849	1849	PROP	PER	Marilla
+15	1853	1853	PROP	PER	Matthew
+8	1857	1858	PROP	GPE	Bright River
+90	1861	1866	NOM	PER	a kangaroo from Australia Mrs. Rachel
+22	1864	1866	PROP	PER	Australia Mrs. Rachel
+18	1874	1874	PRON	PER	She
+18	1887	1887	PROP	PER	Marilla
+18	1892	1892	PRON	PER	her
+22	1895	1896	PROP	PER	Mrs. Rachel
+22	1906	1906	PRON	PER	you
+18	1910	1910	PROP	PER	Marilla
+22	1913	1913	PRON	PER	she
+22	1919	1919	PRON	PER	her
+18	1929	1929	PROP	PER	Marilla
+91	1934	1934	NOM	PER	boys
+92	1936	1940	NOM	FAC	orphan asylums in Nova Scotia
+9	1939	1940	PROP	GPE	Nova Scotia
+93	1949	1954	NOM	FAC	any well - regulated Avonlea farm
+22	1963	1964	PROP	PER	Mrs. Rachel
+22	1967	1967	PRON	PER	she
+22	1975	1975	PRON	PER	She
+94	1981	1982	NOM	PER	A boy
+18	1984	1984	PROP	PER	Marilla
+15	1986	1987	PROP	PER	Matthew Cuthbert
+95	1989	1990	NOM	PER	all people
+94	1992	1993	NOM	PER	a boy
+97	1996	1998	NOM	FAC	an orphan asylum
+98	2002	2003	NOM	LOC	the world
+22	2010	2010	PRON	PER	She

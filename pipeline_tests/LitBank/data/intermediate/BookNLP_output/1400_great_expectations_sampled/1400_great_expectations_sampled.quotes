@@ -1,0 +1,48 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+161	169	170	170	I	0	“ Also Georgiana Wife of the Above , ”
+468	473	480	481	a man	35	“ Hold your noise ! ”
+496	511	480	481	a man	35	“ Keep still , you little devil , or I 'll cut your throat ! ”
+611	622	623	623	I	0	“ Oh ! Do n't cut my throat , sir , ”
+628	637	623	623	I	0	“ Pray do n't do it , sir . ”
+638	644	646	647	the man	40	“ Tell us your name ! ”
+649	652	646	647	the man	40	“ Quick ! ”
+653	658	623	623	I	0	“ Pip , sir . ”
+659	663	665	666	the man	40	“ Once more , ”
+672	677	665	666	the man	40	“ Give it mouth ! ”
+678	685	623	623	I	0	“ Pip . Pip , sir . ”
+686	693	695	696	the man	40	“ Show us where you live , ”
+698	704	695	696	the man	40	“ Pint out the place ! ”
+823	828	830	831	the man	40	“ You young dog , ”
+837	846	830	831	the man	40	“ what fat cheeks you ha ' got . ”
+868	878	880	881	the man	40	“ Darn me if I could n't eat em , ”
+891	901	880	881	the man	40	“ and if I han't half a mind to't ! ”
+941	946	948	949	the man	40	“ Now lookee here ! ”
+951	957	948	949	the man	40	“ Where 's your mother ? ”
+958	963	965	965	I.	40	“ There , sir ! ”
+982	987	988	988	I	0	“ There , sir ! ”
+992	1001	988	988	I	0	“ Also Georgiana . That 's my mother . ”
+1002	1005	1007	1007	he	40	“ Oh ! ”
+1012	1022	1007	1007	he	40	“ And is that your father alonger your mother ? ”
+1023	1028	1030	1030	I	0	“ Yes , sir , ”
+1032	1041	1030	1030	I	0	“ him too ; late of this parish . ”
+1042	1045	1046	1046	he	40	“ Ha ! ”
+1052	1074	1046	1046	he	40	“ Who d'ye live with,--supposin ' you 're kindly let to live , which I han't made up my mind about ? ”
+1075	1092	1030	1030	I	0	“ My sister , sir,--Mrs . Joe Gargery,--wife of Joe Gargery , the blacksmith , sir . ”
+1093	1098	1100	1100	he	40	“ Blacksmith , eh ? ”
+1165	1170	1171	1171	he	40	“ Now lookee here , ”
+1174	1194	1171	1171	he	40	“ the question being whether you 're to be let to live . You know what a file is ? ”
+1195	1200	1171	1171	he	40	“ Yes , sir . ”
+1201	1209	1171	1171	he	40	“ And you know what wittles is ? ”
+1210	1215	1171	1171	he	40	“ Yes , sir . ”
+1240	1247	1248	1248	He	40	“ You get me a file . ”
+1253	1260	1261	1261	He	40	“ And you get me wittles . ”
+1266	1274	1275	1275	He	40	“ You bring 'em both to me . ”
+1280	1291	1292	1292	He	40	“ Or I 'll have your heart and liver out . ”
+1317	1345	1306	1306	I	0	“ If you would kindly please to let me keep upright , sir , perhaps I should n't be sick , and perhaps I could attend more . ”
+1393	1681	1368	1368	he	40	“ You bring me , to - morrow morning early , that file and them wittles . You bring the lot to me , at that old Battery over yonder . You do it , and you never dare to say a word or dare to make a sign concerning your having seen such a person as me , or any person sumever , and you shall be let to live . You fail , or you go from my words in any partickler , no matter how small it is , and your heart and your liver shall be tore out , roasted , and ate . Now , I ai n't alone , as you may think I am . There 's a young man hid with me , in comparison with which young man I am a Angel . That young man hears the words I speak . That young man has a secret way pecooliar to himself , of getting at a boy , and at his heart , and at his liver . It is in wain for a boy to attempt to hide himself from that young man . A boy may lock his door , may be warm in bed , may tuck himself up , may draw the clothes over his head , may think himself comfortable and safe , but that young man will softly creep and creep his way to him and tear him open . I am a keeping that young man from harming of you at the present moment , with great difficulty . I find it wery hard to hold that young man off of your inside . Now , what do you say ? ”
+1720	1731	1733	1734	the man	40	“ Say Lord strike you dead if you do n't ! ”
+1746	1749	1750	1750	he	40	“ Now , ”
+1753	1773	1750	1750	he	40	“ you remember what you 've undertook , and you remember that young man , and you get home ! ”
+1774	1782	1783	1783	I	0	“ Goo - good night , sir , ”
+1786	1791	1793	1793	he	40	“ Much of that ! ”
+1804	1816	1793	1793	he	40	“ I wish I was a frog . Or a eel ! ”

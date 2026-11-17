@@ -1,0 +1,33 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+802	811	822	824	The man below	53	“ Wal , Beasley , are you here ? ”
+836	845	846	846	he	53	“ Fellars , Beasley ai n't here yet , ”
+849	861	846	846	he	53	“ Put the hosses under the shed . We 'll wait . ”
+862	867	822	824	The man below	53	“ Wait , huh ! ”
+873	886	846	846	he	53	“ Mebbe all night -- an ' we got nuthin' to eat . ”
+887	921	846	846	he	53	“ Shut up , Moze . Reckon you 're no good for anythin ' but eatin ' . Put them hosses away an ' some of you rustle fire - wood in here . ”
+953	966	968	969	this newcomer	55	“ Snake , it 'd been sense to fetch a pack along , ”
+971	1000	846	846	he	53	“ Reckon so , Jim . But we did n't , an ' what 's the use hollerin ' ? Beasley wo n't keep us waitin ' long . ”
+1138	1149	1151	1151	one	66	“ It ai n't a - goin' to rain much , ”
+1164	1179	1132	1133	Other men	64	“ Jim , hyar 's a chunk of pine log , dry as punk , ”
+1223	1241	1277	1277	Jim	9	“ Snake , lemme your pipe , an ' I 'll hev a fire in a jiffy . ”
+1242	1260	1262	1262	Snake	8	“ Wal , I want my terbacco an ' I ai n't carin ' about no fire , ”
+1264	1275	1277	1277	Jim	9	“ Reckon you 're the meanest cuss in these woods , ”
+1438	1443	1447	1447	Moze	7	“ Fire feels good , ”
+1460	1477	1447	1447	Moze	7	“ Fall 's sure a - comin ' ... Now if only we had some grub ! ”
+1478	1505	1511	1511	Moze	7	“ Moze , there 's a hunk of deer meat in my saddle - bag , an ' if you git it you can have half , ”
+1553	1564	1566	1566	Jim	9	“ Snake , what 's this here deal with Beasley ? ”
+1568	1577	1579	1580	the leader	73	“ Reckon you 'll l'arn when I do , ”
+1588	1605	1607	1611	the youngest of the gang	74	“ Ai n't we done away with enough of them poor greaser herders -- for nothin' ? ”
+1634	1649	1651	1657	the man who had sent Moze out	78	“ You 're dead right , Burt -- an ' that 's my stand , ”
+1659	1673	1675	1676	Jim Wilson	9	“ Snake , snow 'll be flyin ' round these woods before long , ”
+1678	1695	1675	1676	Jim Wilson	9	“ Are we goin' to winter down in the Tonto Basin or over on the Gila ? ”
+1696	1710	1712	1712	Snake	8	“ Reckon we 'll do some tall ridin ' before we strike south , ”
+1722	1735	1736	1736	he	9	“ Boss , I heerd a hoss comin ' up the trail , ”
+1762	1767	1769	1769	Snake	8	“ A - huh ! ”
+1844	1850	1817	1818	Snake Anson	8	“ Ho there , inside ! ”
+1858	1862	1864	1864	Anson	8	“ Ho yourself ! ”
+1866	1872	1817	1818	Snake Anson	8	“ That you , Snake ? ”
+1878	1882	1884	1884	Anson	8	“ Reckon so , ”
+1966	1975	1976	1976	he	84	“ Hullo , Snake ! Hullo , Wilson ! ”
+1979	2002	1976	1976	he	84	“ I 've backed out on the other deal . Sent for you on -- on another little matter ... particular private . ”
+2020	2065	1976	1976	he	84	“ A - huh ! ejaculated Anson , dubiously . Then he turned abruptly . Moze , you an ' Shady an ' Burt go wait outside . Reckon this ai n't the deal I expected .... An ' you can saddle the hosses . ”

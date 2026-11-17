@@ -1,0 +1,119 @@
+{
+  "threshold": 0.9,
+  "TP": 17,
+  "FP": 4,
+  "FN": 0,
+  "n_pred": 21,
+  "n_gold": 17,
+  "matched_gold": 17,
+  "precision": 0.8095238095238095,
+  "recall": 1.0,
+  "f1": 0.8947368421052632,
+  "predictions": [
+    {
+      "string": "That,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "isoneoftheprettiestlittleresortsinWisconsin.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,thatisagreatresortforChicagopeople.Thehotelsareswell.Youarenotfamiliarwiththispartofthecountry,areyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,yes,Iam,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatis,IliveatColumbiaCity.Ihaveneverbeenthroughhere,though.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndsothisisyourfirstvisittoChicago,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ididntsaythat,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithoughtyoudid.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "drummers.",
+      "best_similarity": 0.2424,
+      "correct": false
+    },
+    {
+      "string": "masher.",
+      "best_similarity": 0.2581,
+      "correct": false
+    },
+    {
+      "string": "cats-eyes.",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "tookup",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "Letssee,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iknowquiteanumberofpeopleinyourtown.MorgenroththeclothierandGibsonthedrygoodsman.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,doyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifyouaregoingthere,youwillenjoyitimmensely.Haveyourelatives?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamgoingtovisitmysister,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YouwanttoseeLincolnPark,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andMichiganBoulevard.Theyareputtingupgreatbuildingsthere.ItsasecondNewYork--great.Somuchtosee--theatres,crowds,finehouses--oh,youlllikethat.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

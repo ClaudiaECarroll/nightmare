@@ -1,0 +1,99 @@
+{
+  "threshold": 0.9,
+  "TP": 3,
+  "FP": 14,
+  "FN": 7,
+  "n_pred": 17,
+  "n_gold": 10,
+  "matched_gold": 3,
+  "precision": 0.17647058823529413,
+  "recall": 0.3,
+  "f1": 0.22222222222222224,
+  "predictions": [
+    {
+      "string": "JOHNWARWICK,CLARENCE,SOUTHCAROLINA.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "walkbroughtWarwick--thenamehehadregisteredunder,andasweshallcallhim--tothemarket-house,thecentralfeatureofPatesville,fromboththecommercialandthepicturesquepointsofview.Standingfoursquareintheheartofthetown,attheintersectionofthetwomainstreets,ajogateachstreetcornerleftaroundthemarket-housealittlepublicsquare,whichatthishourwaswelloccupiedbycartsandwagonsfromthecountryandemptydraysawaitinghire.Warwickwasunabletoperceivemuchchangeinthemarket-house.Perhapsthesurfaceoftheredbrick,longunpainted,hadscaledoffalittlemorehereandthere.Theremighthavebeenaslightaccretionofthemossandlichenontheshingledroof.Butthetalltower,withitsfour-facedclock,roseasmajesticallyanduncompromisinglyasthoughthelandhadneverbeensubjugated.Wasitsoirreconcilable,Warwickwondered,asstilltopealoutthecurfewbell,whichatnineoclockatnighthadclamorouslywarnedallnegroes,slaveorfree,thatitwasunlawfulforthemtobeabroadafterthathour,underpenaltyofimprisonmentorwhipping?Wastheoldconstable,whosechiefbusinessithadbeentoringthebell,stillaliveandexercisingthefunctionsofhisoffice,andhadagelessenedorincreasedthenumberoftimesthatobligingcitizensperformedthisdutyforhimduringhistemporaryabsencesinthecompanyofconvivialspirits?Afewmomentslater,Warwicksawacoloredpolicemanintheoldconstablesplace--astrongerreminderthaneventheburnedbuildingsthatwarhadleftitsmarkupontheoldtown,withwhichTimehaddealtsotenderly.",
+      "best_similarity": 0.2205,
+      "correct": false
+    },
+    {
+      "string": ",suh,hesaid,liftinghiscappolitely.",
+      "best_similarity": 0.35,
+      "correct": false
+    },
+    {
+      "string": "bout",
+      "best_similarity": 0.2,
+      "correct": false
+    },
+    {
+      "string": "erfeebleferdelas",
+      "best_similarity": 0.2581,
+      "correct": false
+    },
+    {
+      "string": "Ireckon,continuedtheundertakersolemnly,hisglanceunconsciouslyseekingarowoffinecasketsstandingagainstthewall,--Ireckonhellsoonbegoindewayeralldeearth.",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "omanhathbutashottimeterlib,an",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "iscutdownlackasaflower.",
+      "best_similarity": 0.4058,
+      "correct": false
+    },
+    {
+      "string": "Dedayserhislifeisthree-sco",
+      "best_similarity": 0.3125,
+      "correct": false
+    },
+    {
+      "string": "ten--an",
+      "best_similarity": 0.3077,
+      "correct": false
+    },
+    {
+      "string": "dndat,suh,byfiveyeahs,tersaydeleas",
+      "best_similarity": 0.3,
+      "correct": false
+    },
+    {
+      "string": "Death,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "isthepenaltythatallmustpayforthecrimeofliving.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": ",suh,datsafac",
+      "best_similarity": 0.3448,
+      "correct": false
+    },
+    {
+      "string": ".An",
+      "best_similarity": 0.125,
+      "correct": false
+    },
+    {
+      "string": "wedoesou",
+      "best_similarity": 0.25,
+      "correct": false
+    },
+    {
+      "string": "sheer.Weconducsdeobsquieseralldebes",
+      "best_similarity": 0.3608,
+      "correct": false
+    }
+  ]
+}

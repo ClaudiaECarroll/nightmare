@@ -1,0 +1,104 @@
+{
+  "threshold": 0.9,
+  "TP": 12,
+  "FP": 6,
+  "FN": 17,
+  "n_pred": 18,
+  "n_gold": 29,
+  "matched_gold": 12,
+  "precision": 0.6666666666666666,
+  "recall": 0.41379310344827586,
+  "f1": 0.5106382978723404,
+  "predictions": [
+    {
+      "string": "ThisisMr.Mig-u-ellRapponi,boys—apeelerstraightfromtheGoldenGate.Throwoutyourwar-bagandmakeyourselftohome,Mig-u-ell;someoftheboysllshowyouwheretobeddown.",
+      "best_similarity": 0.9902,
+      "correct": true
+    },
+    {
+      "string": "Hessomegaudytolookat,IrishmurmuredunderhisbreathtoCalEmmett.",
+      "best_similarity": 0.5185,
+      "correct": false
+    },
+    {
+      "string": "Allhelacksisaspot-lightandabrassband,Calreturned,inmuchthesametonewithwhichawomanremarksuponalastseasonshatontheheadofarival.",
+      "best_similarity": 0.4568,
+      "correct": false
+    },
+    {
+      "string": "Anyprettygirlsupthisway?heinquiredlanguidly,afteramoment,fanningathinsmoke-cloudfrombeforehisfacewhilehespoke.",
+      "best_similarity": 0.3582,
+      "correct": false
+    },
+    {
+      "string": "Wereallofusengagedtoem,bycripes!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsplumbwickedtoridearoundwithallthatwealthandfussystuff.Hemustarobbedabankandputthemoneyallintoaridingoutfit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bygolly,helookstomelikeapairuhtrayswhenhecomesbow-legginalongwiththemwhitediamondsonhislegs,Slimstatedsolemnly.",
+      "best_similarity": 0.9064,
+      "correct": true
+    },
+    {
+      "string": "Youmindhimaskingaboutbadhorses,lastnight?ThatLizzie-boyneversawabadhorse;theydontgrowemwherehecomefrom.Whattheydontknowaboutridingtheymakeupforwithaswellrig—",
+      "best_similarity": 0.9905,
+      "correct": true
+    },
+    {
+      "string": "OnlyIwillsayoldBanjoremindsmeofanIrishcookriggedoutinsilkanddiamonds.ThatoutfitonGlory,now—Hesighedenviously.",
+      "best_similarity": 0.8955,
+      "correct": false
+    },
+    {
+      "string": "andIvenoticedthatahossneverhasanyrespectoradmirationforaswellrig.Whenhegetsrealbusyitaintthesilverfiligreestuffthatsgoingtohelpyouholdconnectionswithyoursaddle,andasilver-mountedbridle-bitaintadarnedbitbetterthanaplainone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Amblingoffthere,sothesuncanstrikeallthatsilverandbouncebackinoureyes.Andthatbraidedlariat—Idsurelovetoseethepiecesifheevertriestoanchoranythingbiggerthanayearling!",
+      "best_similarity": 0.9908,
+      "correct": true
+    },
+    {
+      "string": "ThatthereNativeSonthrowsona-w-l-togethertoomuchdogtoreallygetoutanddoanything.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "heaintanyNatiffSon.Hesadago!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icantellyuhthekindacow-puncherheis;Ivesawemworkinatit.Haw-haw-haw!Theyllstartouttomovetenoradozenheaduhtameoldcowsfromonefieldtoanother,andtherellbesixoreightfellers,riggeduplikethisheretray-spot,ridinalong,importantashell,drivinthemfewcowsdownalane,withpeachtreesonbothsides,bycripes,jinglingtheirbig,silverspurs,allwearinfancychapstoridefourorfivemilesdowntheroad.Honesttograndma,theycallthatpunchincows!Oh,hesaNativeSon,allright.Ivesawlotsofem,onlyIneversawonesofarawayfromthePromisedLandbefore.Thattherelooksqueertome.NatiffSons—therealones,likehim—areasscarceoutsideCalyfornyasbuffaloarerighthereinthiscoulee.",
+      "best_similarity": 0.9951,
+      "correct": true
+    },
+    {
+      "string": "Andthentheyllhavearodeo—",
+      "best_similarity": 0.9388,
+      "correct": true
+    },
+    {
+      "string": "SomeCowpunchingIHaveSeen.",
+      "best_similarity": 0.28,
+      "correct": false
+    },
+    {
+      "string": "TheyhavethemrodeosonaSunday,mostly,andtheyinviteeverybodytoit,likeitwasapicnic.Andtherellbetwoorthreefellerstoeverycalf,alllitup,likeMig-u-ell,overthere,inchapsandsilverfixins,fussinaroundonhorsebackinacorral,andeveryfellertryingtopilehisropeonthesamecalf,bycripes!Theystretchemoutwithtworopes—calves,remember!Little,weentyfellersyoucouldpackunderonearm!Yuhcanntblameemmuch.Theyneverhavemorenthirtyorfortyheadtobrandatatime,andtheynevergitmorenatasteuhrealwork.Sotheymakethemostuhwhattheygit,andgoinheavyonfancyoutfits.Andthisheresilver-mountedfellowthinkshesarealcowpuncher,bycripes!",
+      "best_similarity": 0.9966,
+      "correct": true
+    },
+    {
+      "string": "Whatsthejoke?heinquiredlanguidly,hischinthrustoutandhiseyesuponthematchblazingattheendofhiscigarette.",
+      "best_similarity": 0.3352,
+      "correct": false
+    }
+  ]
+}

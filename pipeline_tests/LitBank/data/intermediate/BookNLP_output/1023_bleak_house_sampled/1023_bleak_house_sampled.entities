@@ -1,0 +1,232 @@
+COREF	start_token	end_token	prop	cat	text
+0	3	4	PROP	GPE	Chancery London
+9	6	6	PROP	PER	Michaelmas
+10	12	14	PROP	PER	the Lord Chancellor
+1	17	20	PROP	FAC	Lincoln 's Inn Hall
+19	30	31	NOM	FAC	the streets
+20	34	35	NOM	LOC	the waters
+21	44	45	NOM	LOC	the earth
+2	70	71	PROP	FAC	Holborn Hill
+22	129	129	PRON	PER	their
+23	133	134	NOM	PER	Foot passengers
+24	137	138	NOM	PER	one another
+23	151	151	PRON	PER	their
+25	156	156	NOM	FAC	street
+26	165	167	NOM	PER	other foot passengers
+27	216	226	NOM	LOC	the river , where it flows among green aits and meadows
+28	230	231	NOM	LOC	the river
+27	234	234	PRON	FAC	it
+29	251	253	NOM	GPE	dirty ) city
+30	257	259	NOM	LOC	the Essex marshes
+31	263	265	NOM	FAC	the Kentish heights
+32	273	275	NOM	FAC	collier - brigs
+33	289	290	NOM	VEH	great ships
+34	298	298	NOM	VEH	barges
+35	300	301	NOM	VEH	small boats
+3	311	311	PROP	GPE	Greenwich
+23	319	319	PRON	PER	their
+36	319	320	NOM	FAC	their wards
+37	333	335	NOM	PER	the wrathful skipper
+37	339	339	PRON	PER	his
+38	339	341	NOM	FAC	his close cabin
+37	351	351	PRON	PER	his
+39	351	358	NOM	PER	his shivering little ' prentice boy on deck
+40	360	361	NOM	PER	Chance people
+41	363	364	NOM	FAC	the bridges
+41	380	380	PRON	PER	them
+41	384	384	PRON	PER	they
+19	406	407	NOM	FAC	the streets
+43	416	418	NOM	LOC	the spongey fields
+44	425	425	NOM	PER	husbandman
+45	431	432	NOM	FAC	the shops
+45	437	437	PRON	PER	their
+46	470	472	NOM	FAC	the muddy streets
+47	476	481	NOM	FAC	that leaden - headed old obstruction
+4	496	497	PROP	FAC	Temple Bar
+4	502	503	PROP	FAC	Temple Bar
+1	506	509	PROP	FAC	Lincoln 's Inn Hall
+48	520	523	NOM	PER	the Lord High Chancellor
+48	525	525	PRON	PER	his
+5	525	529	PROP	FAC	his High Court of Chancery
+6	529	529	PROP	GPE	Chancery
+49	558	562	NOM	PER	this High Court of Chancery
+6	562	562	PROP	GPE	Chancery
+50	567	568	NOM	PER	hoary sinners
+51	577	579	NOM	LOC	heaven and earth
+48	589	592	NOM	PER	the Lord High Chancellor
+48	601	601	PRON	PER	he
+48	609	609	PRON	PER	his
+53	623	628	NOM	PER	a large advocate with great whiskers
+48	642	642	PRON	PER	his
+48	652	652	PRON	PER	he
+54	666	673	NOM	PER	members of the High Court of Chancery bar
+55	668	673	NOM	FAC	the High Court of Chancery bar
+54	680	680	PRON	PER	they
+54	713	713	PRON	PER	their
+56	736	736	NOM	PER	players
+57	743	745	NOM	PER	the various solicitors
+58	750	768	NOM	PER	some two or three of whom have inherited it from their fathers , who made a fortune by it
+58	760	760	PRON	PER	their
+59	760	768	NOM	PER	their fathers , who made a fortune by it
+54	776	776	PRON	PER	they
+60	789	789	PRON	PER	you
+61	803	804	NOM	PER	the registrar
+62	832	832	NOM	PER	masters
+62	834	834	NOM	PER	masters
+57	845	845	PRON	PER	them
+57	886	886	PRON	PER	their
+64	895	896	NOM	FAC	the place
+19	903	904	NOM	FAC	the streets
+64	922	922	PRON	FAC	its
+48	940	943	NOM	PER	the Lord High Chancellor
+67	956	957	NOM	PER	the attendant
+68	970	1066	NOM	GPE	the Court of Chancery , which has its decaying houses and its blighted lands in every shire , which has its worn - out lunatic in every madhouse and its dead in every churchyard , which has its ruined suitor with his slipshod heels and threadbare dress borrowing and begging through the round of every man 's acquaintance , which gives to monied might the means abundantly of wearying out the right , which so exhausts finances , patience , courage , hope , so overthrows the brain and breaks the heart , that there is not
+6	973	973	PROP	GPE	Chancery
+6	977	977	PRON	FAC	its
+69	977	979	NOM	FAC	its decaying houses
+6	981	981	PRON	FAC	its
+70	990	997	NOM	PER	its worn - out lunatic in every madhouse
+71	996	997	NOM	FAC	every madhouse
+72	1002	1003	NOM	FAC	every churchyard
+70	1011	1011	PRON	PER	his
+73	1024	1025	NOM	PER	every man
+74	1067	1143	NOM	PER	an honourable man among its practitioners who would not give -- who does not often give -- the warning , " Suffer any wrong that can be done you rather than come here ! " Who happen to be in the Lord Chancellor 's court this murky afternoon besides the Lord Chancellor , the counsel in the cause , two or three counsel who are never in any cause , and the well of solicitors before mentioned
+75	1071	1071	PRON	PER	its
+142	1071	1099	NOM	PER	its practitioners who would not give -- who does not often give -- the warning , " Suffer any wrong that can be done you rather than come here
+143	1095	1095	PRON	PER	you
+76	1107	1109	NOM	PER	the Lord Chancellor
+77	1107	1111	NOM	FAC	the Lord Chancellor 's court
+76	1116	1118	NOM	PER	the Lord Chancellor
+79	1126	1143	NOM	PER	two or three counsel who are never in any cause , and the well of solicitors before mentioned
+80	1141	1143	NOM	PER	solicitors before mentioned
+81	1147	1151	NOM	PER	the registrar below the judge
+82	1150	1151	NOM	PER	the judge
+83	1177	1177	PRON	PER	they
+11	1199	1199	PROP	PER	Jarndyce
+11	1201	1201	PROP	PER	Jarndyce
+84	1218	1222	NOM	PER	The short - hand writers
+85	1224	1228	NOM	PER	the reporters of the court
+86	1227	1228	NOM	FAC	the court
+87	1231	1235	NOM	PER	the reporters of the newspapers
+88	1239	1243	NOM	PER	the rest of the regulars
+89	1242	1243	NOM	PER	the regulars
+11	1245	1245	PROP	PER	Jarndyce
+11	1247	1247	PROP	PER	Jarndyce
+88	1251	1251	PRON	PER	Their
+90	1265	1266	NOM	FAC	the hall
+91	1273	1275	NOM	FAC	the curtained sanctuary
+92	1278	1311	NOM	PER	a little mad old woman in a squeezed bonnet who is always in court , from its sitting to its rising , and always expecting some incomprehensible judgment to be given in her favour
+92	1310	1310	PRON	PER	her
+93	1313	1313	NOM	PER	Some
+92	1315	1315	PRON	PER	she
+94	1329	1330	NOM	PER	no one
+94	1335	1336	NOM	PER	no one
+92	1339	1339	PRON	PER	She
+92	1348	1348	PRON	PER	she
+92	1350	1350	PRON	PER	her
+96	1362	1364	NOM	PER	A sallow prisoner
+96	1386	1386	PRON	PER	himself
+96	1388	1388	PRON	PER	his
+97	1395	1430	NOM	PER	a solitary surviving executor who has fallen into a state of conglomeration about accounts of which it is not pretended that he had ever any knowledge , he is not at all likely ever to do
+96	1416	1416	PRON	PER	he
+96	1422	1422	PRON	PER	he
+96	1435	1435	PRON	PER	his
+98	1442	1444	NOM	PER	Another ruined suitor
+7	1450	1450	PROP	GPE	Shropshire
+99	1458	1459	NOM	PER	the Chancellor
+99	1479	1480	NOM	PER	the Chancellor
+99	1485	1485	PRON	PER	his
+99	1499	1499	PRON	PER	himself
+82	1509	1510	NOM	PER	the judge
+82	1517	1517	PRON	PER	My
+144	1517	1518	NOM	PER	My Lord
+99	1531	1531	PRON	PER	his
+102	1534	1536	NOM	PER	A few lawyers
+103	1534	1538	NOM	PER	A few lawyers ' clerks
+104	1540	1546	NOM	PER	others who know this suitor by sight
+99	1552	1552	PRON	PER	his
+11	1564	1564	PROP	PER	Jarndyce
+11	1566	1566	PROP	PER	Jarndyce
+105	1586	1587	NOM	PER	no man
+106	1594	1595	NOM	PER	The parties
+11	1597	1597	PRON	PER	it
+107	1608	1611	NOM	PER	no two Chancery lawyers
+108	1631	1632	NOM	PER	Innumerable children
+109	1640	1642	NOM	PER	innumerable young people
+110	1648	1650	NOM	PER	innumerable old people
+111	1659	1659	NOM	PER	persons
+111	1663	1663	PRON	PER	themselves
+11	1667	1667	PROP	PER	Jarndyce
+11	1669	1669	PROP	PER	Jarndyce
+112	1676	1677	NOM	PER	whole families
+113	1686	1688	NOM	PER	The little plaintiff
+114	1690	1698	NOM	PER	defendant who was promised a new rocking - horse
+11	1700	1700	PROP	PER	Jarndyce
+11	1702	1702	PROP	PER	Jarndyce
+11	1711	1711	PRON	PER	himself
+115	1721	1723	NOM	LOC	the other world
+116	1725	1728	NOM	FAC	Fair wards of court
+117	1728	1728	NOM	FAC	court
+118	1732	1732	NOM	PER	mothers
+119	1734	1734	NOM	PER	grandmothers
+120	1740	1740	NOM	PER	Chancellors
+12	1768	1768	PROP	PER	Jarndyces
+21	1771	1772	NOM	LOC	the earth
+11	1776	1777	PROP	PER	Tom Jarndyce
+11	1781	1781	PRON	PER	his
+122	1785	1791	NOM	FAC	a coffee - house in Chancery Lane
+8	1790	1791	PROP	FAC	Chancery Lane
+11	1794	1794	PROP	PER	Jarndyce
+11	1796	1796	PROP	PER	Jarndyce
+11	1809	1809	PROP	PER	Jarndyce
+11	1811	1811	PROP	PER	Jarndyce
+123	1846	1849	NOM	PER	Every master in Chancery
+6	1849	1849	PROP	PER	Chancery
+124	1858	1859	NOM	PER	Every Chancellor
+125	1867	1867	NOM	PER	somebody
+124	1872	1872	PRON	PER	he
+126	1876	1877	NOM	FAC	the bar
+127	1887	1905	NOM	PER	blue - nosed , bulbous - shoed old benchers in select port - wine committee after dinner in hall
+128	1897	1905	NOM	PER	select port - wine committee after dinner in hall
+129	1905	1905	NOM	FAC	hall
+130	1907	1908	NOM	PER	Articled clerks
+130	1916	1916	PRON	PER	their
+10	1924	1925	PROP	PER	Lord Chancellor
+14	1933	1934	PROP	PER	Mr. Blowers
+10	1954	1954	PRON	PER	he
+145	1960	1960	PRON	PER	we
+11	1963	1963	PROP	PER	Jarndyce
+11	1965	1965	PROP	PER	Jarndyce
+146	1967	1967	PROP	PER	Mr.
+131	1982	1990	NOM	PER	many people out of the suit Jarndyce and Jarndyce
+132	1986	1988	NOM	PER	the suit Jarndyce
+11	1990	1990	PROP	PER	Jarndyce
+11	2020	2020	PROP	PER	Jarndyce
+11	2022	2022	PROP	PER	Jarndyce
+133	2037	2041	NOM	FAC	the Six Clerks ' Office
+11	2045	2045	PRON	PER	his
+105	2059	2060	NOM	PER	no man
+135	2098	2100	NOM	PER	The very solicitors
+136	2098	2110	NOM	PER	The very solicitors ' boys who have kept the wretched suitors at bay
+137	2106	2110	NOM	PER	the wretched suitors at bay
+15	2119	2120	PROP	PER	Mr. Chizzle
+16	2122	2122	PROP	PER	Mizzle
+136	2145	2145	PRON	PER	themselves
+11	2148	2148	PROP	PER	Jarndyce
+11	2150	2150	PROP	PER	Jarndyce
+11	2173	2173	PRON	PER	his
+138	2173	2175	NOM	PER	his own mother
+11	2180	2180	PRON	PER	his
+15	2184	2184	PROP	PER	Chizzle
+16	2186	2186	PROP	PER	Mizzle
+136	2198	2198	PRON	PER	themselves
+136	2200	2200	PRON	PER	they
+17	2215	2215	PROP	PER	Drizzle
+11	2224	2224	PROP	PER	Jarndyce
+11	2226	2226	PROP	PER	Jarndyce
+139	2232	2233	NOM	FAC	the office
+18	2235	2235	PROP	PER	Shirking
+136	2240	2240	PRON	PER	their
+140	2256	2311	NOM	PER	those who have contemplated its history from the outermost circle of such evil have been insensibly tempted into a loose way of letting bad things alone to take their own bad course , and a loose belief that if the world go wrong it was in some off - hand manner never meant to go right
+136	2284	2284	PRON	PER	their
+141	2295	2296	NOM	LOC	the world

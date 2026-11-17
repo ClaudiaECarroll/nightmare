@@ -1,0 +1,1044 @@
+{
+  "threshold": 0.9,
+  "TP": 203,
+  "FP": 3,
+  "FN": 35,
+  "n_pred": 206,
+  "n_gold": 238,
+  "matched_gold": 203,
+  "precision": 0.9854368932038835,
+  "recall": 0.8529411764705882,
+  "f1": 0.9144144144144144,
+  "predictions": [
+    {
+      "string": "Haveyouacoupleofdaystospare?HavejustbeenwiredforfromthewestofEnglandinconnectionwithBoscombeValleytragedy.Shallbegladifyouwillcomewithme.Airandsceneryperfect.LeavePaddingtonbythe11:15.",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "Whatdoyousay,dear?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Willyougo?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ireallydontknowwhattosay.Ihaveafairlylonglistatpresent.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Anstrutherwoulddoyourworkforyou.Youhavebeenlookingalittlepalelately.Ithinkthatthechangewoulddoyougood,andyouarealwayssointerestedinMr.SherlockHolmescases.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IshouldbeungratefulifIwerenot,seeingwhatIgainedthroughoneofthem,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButifIamtogo,Imustpackatonce,forIhaveonlyhalfanhour.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisreallyverygoodofyoutocome,Watson,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itmakesaconsiderabledifferencetome,havingsomeonewithmeonwhomIcanthoroughlyrely.Localaidisalwayseitherworthlessorelsebiassed.IfyouwillkeepthetwocornerseatsIshallgetthetickets.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Haveyouheardanythingofthecase?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Notaword.Ihavenotseenapaperforsomedays.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TheLondonpresshasnothadveryfullaccounts.Ihavejustbeenlookingthroughalltherecentpapersinordertomastertheparticulars.Itseems,fromwhatIgather,tobeoneofthosesimplecaseswhicharesoextremelydifficult.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsoundsalittleparadoxical.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butitisprofoundlytrue.Singularityisalmostinvariablyaclue.Themorefeaturelessandcommonplaceacrimeis,themoredifficultitistobringithome.Inthiscase,however,theyhaveestablishedaveryseriouscaseagainstthesonofthemurderedman.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisamurder,then?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,itisconjecturedtobeso.IshalltakenothingforgranteduntilIhavetheopportunityoflookingpersonallyintoit.Iwillexplainthestateofthingstoyou,asfarasIhavebeenabletounderstandit,inaveryfewwords.BoscombeValleyisacountrydistrictnotveryfarfromRoss,inHerefordshire.ThelargestlandedproprietorinthatpartisaMr.JohnTurner,whomadehismoneyinAustraliaandreturnedsomeyearsagototheoldcountry.Oneofthefarmswhichheheld,thatofHatherley,waslettoMr.CharlesMcCarthy,whowasalsoanex-Australian.Themenhadknowneachotherinthecolonies,sothatitwasnotunnaturalthatwhentheycametosettledowntheyshoulddosoasneareachotheraspossible.Turnerwasapparentlythericherman,soMcCarthybecamehistenantbutstillremained,itseems,upontermsofperfectequality,astheywerefrequentlytogether.McCarthyhadoneson,aladofeighteen,andTurnerhadanonlydaughterofthesameage,butneitherofthemhadwivesliving.TheyappeartohaveavoidedthesocietyoftheneighbouringEnglishfamiliesandtohaveledretiredlives,thoughboththeMcCarthyswerefondofsportandwerefrequentlyseenattherace-meetingsoftheneighbourhood.McCarthykepttwoservants--amanandagirl.Turnerhadaconsiderablehousehold,somehalf-dozenattheleast.ThatisasmuchasIhavebeenabletogatheraboutthefamilies.Nowforthefacts.OnJune3rd,thatis,onMondaylast,McCarthylefthishouseatHatherleyaboutthreeintheafternoonandwalkeddowntotheBoscombePool,whichisasmalllakeformedbythespreadingoutofthestreamwhichrunsdowntheBoscombeValley.Hehadbeenoutwithhisserving-maninthemorningatRoss,andhehadtoldthemanthathemusthurry,ashehadanappointmentofimportancetokeepatthree.Fromthatappointmenthenevercamebackalive.FromHatherleyFarm-housetotheBoscombePoolisaquarterofamile,andtwopeoplesawhimashepassedoverthisground.Onewasanoldwoman,whosenameisnotmentioned,andtheotherwasWilliamCrowder,agame-keeperintheemployofMr.Turner.BoththesewitnessesdeposethatMr.McCarthywaswalkingalone.Thegame-keeperaddsthatwithinafewminutesofhisseeingMr.McCarthypasshehadseenhisson,Mr.JamesMcCarthy,goingthesamewaywithagununderhisarm.Tothebestofhisbelief,thefatherwasactuallyinsightatthetime,andthesonwasfollowinghim.Hethoughtnomoreofthematteruntilheheardintheeveningofthetragedythathadoccurred.ThetwoMcCarthyswereseenafterthetimewhenWilliamCrowder,thegame-keeper,lostsightofthem.TheBoscombePoolisthicklywoodedround,withjustafringeofgrassandofreedsroundtheedge.Agirloffourteen,PatienceMoran,whoisthedaughterofthelodge-keeperoftheBoscombeValleyestate,wasinoneofthewoodspickingflowers.Shestatesthatwhileshewasthereshesaw,attheborderofthewoodandclosebythelake,Mr.McCarthyandhisson,andthattheyappearedtobehavingaviolentquarrel.SheheardMr.McCarthytheelderusingverystronglanguagetohisson,andshesawthelatterraiseuphishandasiftostrikehisfather.ShewassofrightenedbytheirviolencethatsheranawayandtoldhermotherwhenshereachedhomethatshehadleftthetwoMcCarthysquarrellingnearBoscombePool,andthatshewasafraidthattheyweregoingtofight.ShehadhardlysaidthewordswhenyoungMr.McCarthycamerunninguptothelodgetosaythathehadfoundhisfatherdeadinthewood,andtoaskforthehelpofthelodge-keeper.Hewasmuchexcited,withouteitherhisgunorhishat,andhisrighthandandsleevewereobservedtobestainedwithfreshblood.Onfollowinghimtheyfoundthedeadbodystretchedoutuponthegrassbesidethepool.Theheadhadbeenbeateninbyrepeatedblowsofsomeheavyandbluntweapon.Theinjuriesweresuchasmightverywellhavebeeninflictedbythebutt-endofhissonsgun,whichwasfoundlyingonthegrasswithinafewpacesofthebody.Underthesecircumstancestheyoungmanwasinstantlyarrested,andaverdictofwilfulmurderhavingbeenreturnedattheinquestonTuesday,hewasonWednesdaybroughtbeforethemagistratesatRoss,whohavereferredthecasetothenextAssizes.Thosearethemainfactsofthecaseastheycameoutbeforethecoronerandthepolice-court.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icouldhardlyimagineamoredamningcase,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifevercircumstantialevidencepointedtoacriminalitdoessohere.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Circumstantialevidenceisaverytrickything,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itmayseemtopointverystraighttoonething,butifyoushiftyourownpointofviewalittle,youmayfinditpointinginanequallyuncompromisingmannertosomethingentirelydifferent.Itmustbeconfessed,however,thatthecaselooksexceedinglygraveagainsttheyoungman,anditisverypossiblethatheisindeedtheculprit.Thereareseveralpeopleintheneighbourhood,however,andamongthemMissTurner,thedaughteroftheneighbouringlandowner,whobelieveinhisinnocence,andwhohaveretainedLestrade,whomyoumayrecollectinconnectionwiththeStudyinScarlet,toworkoutthecaseinhisinterest.Lestrade,beingratherpuzzled,hasreferredthecasetome,andhenceitisthattwomiddle-agedgentlemenareflyingwestwardatfiftymilesanhourinsteadofquietlydigestingtheirbreakfastsathome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamafraid,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatthefactsaresoobviousthatyouwillfindlittlecredittobegainedoutofthiscase.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thereisnothingmoredeceptivethananobviousfact,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Besides,wemaychancetohituponsomeotherobviousfactswhichmayhavebeenbynomeansobvioustoMr.Lestrade.YouknowmetoowelltothinkthatIamboastingwhenIsaythatIshalleitherconfirmordestroyhistheorybymeanswhichheisquiteincapableofemploying,orevenofunderstanding.Totakethefirstexampletohand,Iveryclearlyperceivethatinyourbedroomthewindowisupontheright-handside,andyetIquestionwhetherMr.Lestradewouldhavenotedevensoself-evidentathingasthat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howonearth--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mydearfellow,Iknowyouwell.Iknowthemilitaryneatnesswhichcharacterisesyou.Youshaveeverymorning,andinthisseasonyoushavebythesunlight;butsinceyourshavingislessandlesscompleteaswegetfartherbackontheleftside,untilitbecomespositivelyslovenlyaswegetroundtheangleofthejaw,itissurelyveryclearthatthatsideislessilluminatedthantheother.Icouldnotimagineamanofyourhabitslookingathimselfinanequallightandbeingsatisfiedwithsucharesult.Ionlyquotethisasatrivialexampleofobservationandinference.Thereinliesmymétier,anditisjustpossiblethatitmaybeofsomeserviceintheinvestigationwhichliesbeforeus.Thereareoneortwominorpointswhichwerebroughtoutintheinquest,andwhichareworthconsidering.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatarethey?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itappearsthathisarrestdidnottakeplaceatonce,butafterthereturntoHatherleyFarm.Ontheinspectorofconstabularyinforminghimthathewasaprisoner,heremarkedthathewasnotsurprisedtohearit,andthatitwasnomorethanhisdeserts.Thisobservationofhishadthenaturaleffectofremovinganytracesofdoubtwhichmighthaveremainedinthemindsofthecoronersjury.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itwasaconfession,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,foritwasfollowedbyaprotestationofinnocence.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Comingonthetopofsuchadamningseriesofevents,itwasatleastamostsuspiciousremark.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Onthecontrary,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itisthebrightestriftwhichIcanatpresentseeintheclouds.Howeverinnocenthemightbe,hecouldnotbesuchanabsoluteimbecileasnottoseethatthecircumstanceswereveryblackagainsthim.Hadheappearedsurprisedathisownarrest,orfeignedindignationatit,Ishouldhavelookeduponitashighlysuspicious,becausesuchsurpriseorangerwouldnotbenaturalunderthecircumstances,andyetmightappeartobethebestpolicytoaschemingman.Hisfrankacceptanceofthesituationmarkshimaseitheraninnocentman,orelseasamanofconsiderableself-restraintandfirmness.Astohisremarkabouthisdeserts,itwasalsonotunnaturalifyouconsiderthathestoodbesidethedeadbodyofhisfather,andthatthereisnodoubtthathehadthatverydaysofarforgottenhisfilialdutyastobandywordswithhim,andeven,accordingtothelittlegirlwhoseevidenceissoimportant,toraisehishandasiftostrikehim.Theself-reproachandcontritionwhicharedisplayedinhisremarkappeartometobethesignsofahealthymindratherthanofaguiltyone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Manymenhavebeenhangedonfarslighterevidence,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sotheyhave.Andmanymenhavebeenwrongfullyhanged.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatistheyoungmansownaccountofthematter?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itis,Iamafraid,notveryencouragingtohissupporters,thoughthereareoneortwopointsinitwhicharesuggestive.Youwillfindithere,andmayreaditforyourself.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mr.JamesMcCarthy,theonlysonofthedeceased,wasthencalledandgaveevidenceasfollows:IhadbeenawayfromhomeforthreedaysatBristol,andhadonlyjustreturneduponthemorningoflastMonday,the3rd.Myfatherwasabsentfromhomeatthetimeofmyarrival,andIwasinformedbythemaidthathehaddrivenovertoRosswithJohnCobb,thegroom.ShortlyaftermyreturnIheardthewheelsofhistrapintheyard,and,lookingoutofmywindow,Isawhimgetoutandwalkrapidlyoutoftheyard,thoughIwasnotawareinwhichdirectionhewasgoing.IthentookmygunandstrolledoutinthedirectionoftheBoscombePool,withtheintentionofvisitingtherabbitwarrenwhichisupontheotherside.OnmywayIsawWilliamCrowder,thegame-keeper,ashehadstatedinhisevidence;butheismistakeninthinkingthatIwasfollowingmyfather.Ihadnoideathathewasinfrontofme.WhenaboutahundredyardsfromthepoolIheardacryof",
+      "best_similarity": 0.5894,
+      "correct": false
+    },
+    {
+      "string": "whichwasausualsignalbetweenmyfatherandmyself.Ithenhurriedforward,andfoundhimstandingbythepool.HeappearedtobemuchsurprisedatseeingmeandaskedmeratherroughlywhatIwasdoingthere.Aconversationensuedwhichledtohighwordsandalmosttoblows,formyfatherwasamanofaveryviolenttemper.Seeingthathispassionwasbecomingungovernable,IlefthimandreturnedtowardsHatherleyFarm.Ihadnotgonemorethan150yards,however,whenIheardahideousoutcrybehindme,whichcausedmetorunbackagain.Ifoundmyfatherexpiringupontheground,withhisheadterriblyinjured.Idroppedmygunandheldhiminmyarms,buthealmostinstantlyexpired.Ikneltbesidehimforsomeminutes,andthenmademywaytoMr.Turnerslodge-keeper,hishousebeingthenearest,toaskforassistance.IsawnoonenearmyfatherwhenIreturned,andIhavenoideahowhecamebyhisinjuries.Hewasnotapopularman,beingsomewhatcoldandforbiddinginhismanners,buthehad,asfarasIknow,noactiveenemies.Iknownothingfurtherofthematter.TheCoroner:Didyourfathermakeanystatementtoyoubeforehedied?Witness:Hemumbledafewwords,butIcouldonlycatchsomeallusiontoarat.TheCoroner:Whatdidyouunderstandbythat?Witness:Itconveyednomeaningtome.Ithoughtthathewasdelirious.TheCoroner:Whatwasthepointuponwhichyouandyourfatherhadthisfinalquarrel?Witness:Ishouldprefernottoanswer.TheCoroner:IamafraidthatImustpressit.Witness:Itisreallyimpossibleformetotellyou.Icanassureyouthatithasnothingtodowiththesadtragedywhichfollowed.TheCoroner:Thatisforthecourttodecide.Ineednotpointouttoyouthatyourrefusaltoanswerwillprejudiceyourcaseconsiderablyinanyfutureproceedingswhichmayarise.Witness:Imuststillrefuse.TheCoroner:IunderstandthatthecryofCooeewasacommonsignalbetweenyouandyourfather?Witness:Itwas.TheCoroner:Howwasit,then,thatheuttereditbeforehesawyou,andbeforeheevenknewthatyouhadreturnedfromBristol?Witness(withconsiderableconfusion):Idonotknow.AJuryman:Didyouseenothingwhicharousedyoursuspicionswhenyoureturnedonhearingthecryandfoundyourfatherfatallyinjured?Witness:Nothingdefinite.TheCoroner:Whatdoyoumean?Witness:IwassodisturbedandexcitedasIrushedoutintotheopen,thatIcouldthinkofnothingexceptofmyfather.YetIhaveavagueimpressionthatasIranforwardsomethinglayuponthegroundtotheleftofme.Itseemedtometobesomethinggreyincolour,acoatofsomesort,oraplaidperhaps.WhenIrosefrommyfatherIlookedroundforit,butitwasgone.Doyoumeanthatitdisappearedbeforeyouwentforhelp?Yes,itwasgone.Youcannotsaywhatitwas?No,Ihadafeelingsomethingwasthere.Howfarfromthebody?Adozenyardsorso.Andhowfarfromtheedgeofthewood?Aboutthesame.Thenifitwasremoveditwaswhileyouwerewithinadozenyardsofit?Yes,butwithmybacktowardsit.Thisconcludedtheexaminationofthewitness.",
+      "best_similarity": 0.4286,
+      "correct": false
+    },
+    {
+      "string": "Isee,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatthecoronerinhisconcludingremarkswasrathersevereuponyoungMcCarthy.Hecallsattention,andwithreason,tothediscrepancyabouthisfatherhavingsignalledtohimbeforeseeinghim,alsotohisrefusaltogivedetailsofhisconversationwithhisfather,andhissingularaccountofhisfathersdyingwords.Theyareall,asheremarks,verymuchagainsttheson.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bothyouandthecoronerhavebeenatsomepains,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "tosingleouttheverystrongestpointsintheyoungmansfavour.Dontyouseethatyoualternatelygivehimcreditforhavingtoomuchimaginationandtoolittle?Toolittle,ifhecouldnotinventacauseofquarrelwhichwouldgivehimthesympathyofthejury;toomuch,ifheevolvedfromhisowninnerconsciousnessanythingsooutréasadyingreferencetoarat,andtheincidentofthevanishingcloth.No,sir,Ishallapproachthiscasefromthepointofviewthatwhatthisyoungmansaysistrue,andweshallseewhitherthathypothesiswillleadus.AndnowhereismypocketPetrarch,andnotanotherwordshallIsayofthiscaseuntilweareonthesceneofaction.WelunchatSwindon,andIseethatweshallbethereintwentyminutes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihaveorderedacarriage,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iknewyourenergeticnature,andthatyouwouldnotbehappyuntilyouhadbeenonthesceneofthecrime.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itwasveryniceandcomplimentaryofyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisentirelyaquestionofbarometricpressure.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idonotquitefollow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howistheglass?Twenty-nine,Isee.Nowind,andnotacloudinthesky.Ihaveacasefulofcigarettesherewhichneedsmoking,andthesofaisverymuchsuperiortotheusualcountryhotelabomination.IdonotthinkthatitisprobablethatIshallusethecarriageto-night.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhave,nodoubt,alreadyformedyourconclusionsfromthenewspapers,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thecaseisasplainasapikestaff,andthemoreonegoesintoittheplaineritbecomes.Still,ofcourse,onecantrefusealady,andsuchaverypositiveone,too.Shehasheardofyou,andwouldhaveyouropinion,thoughIrepeatedlytoldherthattherewasnothingwhichyoucoulddowhichIhadnotalreadydone.Why,blessmysoul!hereishercarriageatthedoor.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Mr.SherlockHolmes!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamsogladthatyouhavecome.Ihavedrivendowntotellyouso.IknowthatJamesdidntdoit.Iknowit,andIwantyoutostartuponyourworkknowingit,too.Neverletyourselfdoubtuponthatpoint.Wehaveknowneachothersincewewerelittlechildren,andIknowhisfaultsasnooneelsedoes;butheistootender-heartedtohurtafly.Suchachargeisabsurdtoanyonewhoreallyknowshim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihopewemayclearhim,MissTurner,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YoumayrelyuponmydoingallthatIcan.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butyouhavereadtheevidence.Youhaveformedsomeconclusion?Doyounotseesomeloophole,someflaw?Doyounotyourselfthinkthatheisinnocent?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithinkthatitisveryprobable.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "There,now!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhear!Hegivesmehopes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamafraidthatmycolleaguehasbeenalittlequickinforminghisconclusions,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butheisright.Oh!Iknowthatheisright.Jamesneverdidit.Andabouthisquarrelwithhisfather,IamsurethatthereasonwhyhewouldnotspeakaboutittothecoronerwasbecauseIwasconcernedinit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inwhatway?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisnotimeformetohideanything.Jamesandhisfatherhadmanydisagreementsaboutme.Mr.McCarthywasveryanxiousthatthereshouldbeamarriagebetweenus.JamesandIhavealwayslovedeachotherasbrotherandsister;butofcourseheisyoungandhasseenverylittleoflifeyet,and--and--well,henaturallydidnotwishtodoanythinglikethatyet.Sotherewerequarrels,andthis,Iamsure,wasoneofthem.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andyourfather?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Washeinfavourofsuchaunion?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,hewasaversetoitalso.NoonebutMr.McCarthywasinfavourofit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thankyouforthisinformation,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MayIseeyourfatherifIcallto-morrow?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamafraidthedoctorwontallowit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thedoctor?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,haveyounotheard?Poorfatherhasneverbeenstrongforyearsback,butthishasbrokenhimdowncompletely.Hehastakentohisbed,andDr.Willowssaysthatheisawreckandthathisnervoussystemisshattered.Mr.McCarthywastheonlymanalivewhohadknowndadintheolddaysinVictoria.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ha!InVictoria!Thatisimportant.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,atthemines.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Quiteso;atthegold-mines,where,asIunderstand,Mr.Turnermadehismoney.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,certainly.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thankyou,MissTurner.Youhavebeenofmaterialassistancetome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwilltellmeifyouhaveanynewsto-morrow.NodoubtyouwillgototheprisontoseeJames.Oh,ifyoudo,Mr.Holmes,dotellhimthatIknowhimtobeinnocent.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwill,MissTurner.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imustgohomenow,fordadisveryill,andhemissesmesoifIleavehim.Good-bye,andGodhelpyouinyourundertaking.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamashamedofyou,Holmes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whyshouldyouraiseuphopeswhichyouareboundtodisappoint?Iamnotover-tenderofheart,butIcallitcruel.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IthinkthatIseemywaytoclearingJamesMcCarthy,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Haveyouanordertoseehiminprison?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,butonlyforyouandme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThenIshallreconsidermyresolutionaboutgoingout.WehavestilltimetotakeatraintoHerefordandseehimto-night?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ample.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thenletusdoso.Watson,Ifearthatyouwillfinditveryslow,butIshallonlybeawayacoupleofhours.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theglassstillkeepsveryhigh,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisofimportancethatitshouldnotrainbeforeweareabletogoovertheground.Ontheotherhand,amanshouldbeathisverybestandkeenestforsuchniceworkasthat,andIdidnotwishtodoitwhenfaggedbyalongjourney.IhaveseenyoungMcCarthy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andwhatdidyoulearnfromhim?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nothing.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Couldhethrownolight?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Noneatall.Iwasinclinedtothinkatonetimethatheknewwhohaddoneitandwasscreeninghimorher,butIamconvincednowthatheisaspuzzledaseveryoneelse.Heisnotaveryquick-wittedyouth,thoughcomelytolookatand,Ishouldthink,soundatheart.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icannotadmirehistaste,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ifitisindeedafactthathewasaversetoamarriagewithsocharmingayoungladyasthisMissTurner.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah,therebyhangsaratherpainfultale.Thisfellowismadly,insanely,inlovewithher,butsometwoyearsago,whenhewasonlyalad,andbeforehereallyknewher,forshehadbeenawayfiveyearsataboarding-school,whatdoestheidiotdobutgetintotheclutchesofabarmaidinBristolandmarryherataregistryoffice?Nooneknowsawordofthematter,butyoucanimaginehowmaddeningitmustbetohimtobeupbraidedfornotdoingwhathewouldgivehisveryeyestodo,butwhatheknowstobeabsolutelyimpossible.Itwassheerfrenzyofthissortwhichmadehimthrowhishandsupintotheairwhenhisfather,attheirlastinterview,wasgoadinghimontoproposetoMissTurner.Ontheotherhand,hehadnomeansofsupportinghimself,andhisfather,whowasbyallaccountsaveryhardman,wouldhavethrownhimoverutterlyhadheknownthetruth.ItwaswithhisbarmaidwifethathehadspentthelastthreedaysinBristol,andhisfatherdidnotknowwherehewas.Markthatpoint.Itisofimportance.Goodhascomeoutofevil,however,forthebarmaid,findingfromthepapersthatheisinserioustroubleandlikelytobehanged,hasthrownhimoverutterlyandhaswrittentohimtosaythatshehasahusbandalreadyintheBermudaDockyard,sothatthereisreallynotiebetweenthem.IthinkthatthatbitofnewshasconsoledyoungMcCarthyforallthathehassuffered.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butifheisinnocent,whohasdoneit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah!who?Iwouldcallyourattentionveryparticularlytotwopoints.Oneisthatthemurderedmanhadanappointmentwithsomeoneatthepool,andthatthesomeonecouldnothavebeenhisson,forhissonwasaway,andhedidnotknowwhenhewouldreturn.ThesecondisthatthemurderedmanwasheardtocryCooee!beforeheknewthathissonhadreturned.Thosearethecrucialpointsuponwhichthecasedepends.AndnowletustalkaboutGeorgeMeredith,ifyouplease,andweshallleaveallminormattersuntilto-morrow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thereisseriousnewsthismorning,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ItissaidthatMr.Turner,oftheHall,issoillthathislifeisdespairedof.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Anelderlyman,Ipresume?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aboutsixty;buthisconstitutionhasbeenshatteredbyhislifeabroad,andhehasbeeninfailinghealthforsometime.Thisbusinesshashadaverybadeffectuponhim.HewasanoldfriendofMcCarthys,and,Imayadd,agreatbenefactortohim,forIhavelearnedthathegavehimHatherleyFarmrentfree.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Indeed!Thatisinteresting,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,yes!Inahundredotherwayshehashelpedhim.Everybodyaboutherespeaksofhiskindnesstohim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Really!DoesitnotstrikeyouasalittlesingularthatthisMcCarthy,whoappearstohavehadlittleofhisown,andtohavebeenundersuchobligationstoTurner,shouldstilltalkofmarryinghissontoTurnersdaughter,whois,presumably,heiresstotheestate,andthatinsuchaverycocksuremanner,asifitweremerelyacaseofaproposalandallelsewouldfollow?Itisthemorestrange,sinceweknowthatTurnerhimselfwasaversetotheidea.Thedaughtertoldusasmuch.Doyounotdeducesomethingfromthat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wehavegottothedeductionsandtheinferences,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifindithardenoughtotacklefacts,Holmes,withoutflyingawayaftertheoriesandfancies.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youareright,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youdofinditveryhardtotacklethefacts.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Anyhow,Ihavegraspedonefactwhichyouseemtofinditdifficulttogetholdof,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andthatis--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThatMcCarthyseniormethisdeathfromMcCarthyjuniorandthatalltheoriestothecontraryarethemerestmoonshine.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,moonshineisabrighterthingthanfog,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButIamverymuchmistakenifthisisnotHatherleyFarmupontheleft.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,thatisit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatdidyougointothepoolfor?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifishedaboutwitharake.Ithoughttheremightbesomeweaponorothertrace.Buthowonearth--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,tut,tut!Ihavenotime!Thatleftfootofyourswithitsinwardtwistisallovertheplace.Amolecouldtraceit,andthereitvanishesamongthereeds.Oh,howsimpleitwouldallhavebeenhadIbeenherebeforetheycamelikeaherdofbuffaloandwallowedalloverit.Hereiswherethepartywiththelodge-keepercame,andtheyhavecoveredalltracksforsixoreightfeetroundthebody.Butherearethreeseparatetracksofthesamefeet.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TheseareyoungMcCarthysfeet.Twicehewaswalking,andonceheranswiftly,sothatthesolesaredeeplymarkedandtheheelshardlyvisible.Thatbearsouthisstory.Heranwhenhesawhisfatherontheground.Thenherearethefathersfeetashepacedupanddown.Whatisthis,then?Itisthebutt-endofthegunasthesonstoodlistening.Andthis?Ha,ha!Whathavewehere?Tiptoes!tiptoes!Square,too,quiteunusualboots!Theycome,theygo,theycomeagain--ofcoursethatwasforthecloak.Nowwheredidtheycomefrom?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithasbeenacaseofconsiderableinterest,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifancythatthisgreyhouseontherightmustbethelodge.IthinkthatIwillgoinandhaveawordwithMoran,andperhapswritealittlenote.Havingdonethat,wemaydrivebacktoourluncheon.Youmaywalktothecab,andIshallbewithyoupresently.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thismayinterestyou,Lestrade,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Themurderwasdonewithit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iseenomarks.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Therearenone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howdoyouknow,then?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thegrasswasgrowingunderit.Ithadonlylainthereafewdays.Therewasnosignofaplacewhenceithadbeentaken.Itcorrespondswiththeinjuries.Thereisnosignofanyotherweapon.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andthemurderer?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isatallman,left-handed,limpswiththerightleg,wearsthick-soledshooting-bootsandagreycloak,smokesIndiancigars,usesacigar-holder,andcarriesabluntpen-knifeinhispocket.Thereareseveralotherindications,butthesemaybeenoughtoaidusinoursearch.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IamafraidthatIamstillasceptic,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theoriesareallverywell,butwehavetodealwithahard-headedBritishjury.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nousverrons,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youworkyourownmethod,andIshallworkmine.Ishallbebusythisafternoon,andshallprobablyreturntoLondonbytheeveningtrain.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andleaveyourcaseunfinished?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,finished.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butthemystery?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itissolved.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whowasthecriminal,then?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThegentlemanIdescribe.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butwhoishe?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Surelyitwouldnotbedifficulttofindout.Thisisnotsuchapopulousneighbourhood.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamapracticalman,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andIreallycannotundertaketogoaboutthecountrylookingforaleft-handedgentlemanwithagameleg.Ishouldbecomethelaughing-stockofScotlandYard.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Allright,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihavegivenyouthechance.Hereareyourlodgings.Good-bye.IshalldropyoualinebeforeIleave.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lookhere,Watson,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "justsitdowninthischairandletmepreachtoyouforalittle.Idontknowquitewhattodo,andIshouldvalueyouradvice.Lightacigarandletmeexpound.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Praydoso.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,now,inconsideringthiscasetherearetwopointsaboutyoungMcCarthysnarrativewhichstruckusbothinstantly,althoughtheyimpressedmeinhisfavourandyouagainsthim.Onewasthefactthathisfathershould,accordingtohisaccount,cryCooee!beforeseeinghim.Theotherwashissingulardyingreferencetoarat.Hemumbledseveralwords,youunderstand,butthatwasallthatcaughtthesonsear.Nowfromthisdoublepointourresearchmustcommence,andwewillbeginitbypresumingthatwhattheladsaysisabsolutelytrue.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhatofthisCooee!then?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,obviouslyitcouldnothavebeenmeantfortheson.Theson,asfarasheknew,wasinBristol.Itwasmerechancethathewaswithinearshot.TheCooee!wasmeanttoattracttheattentionofwhoeveritwasthathehadtheappointmentwith.ButCooeeisadistinctlyAustraliancry,andonewhichisusedbetweenAustralians.ThereisastrongpresumptionthatthepersonwhomMcCarthyexpectedtomeethimatBoscombePoolwassomeonewhohadbeeninAustralia.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatoftherat,then?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThisisamapoftheColonyofVictoria,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IwiredtoBristolforitlastnight.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatdoyouread?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ARAT,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andnow?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "BALLARAT.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Quiteso.Thatwasthewordthemanuttered,andofwhichhissononlycaughtthelasttwosyllables.Hewastryingtoutterthenameofhismurderer.Soandso,ofBallarat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itiswonderful!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisobvious.Andnow,yousee,Ihadnarrowedthefielddownconsiderably.Thepossessionofagreygarmentwasathirdpointwhich,grantingthesonsstatementtobecorrect,wasacertainty.WehavecomenowoutofmerevaguenesstothedefiniteconceptionofanAustralianfromBallaratwithagreycloak.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Certainly.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andonewhowasathomeinthedistrict,forthepoolcanonlybeapproachedbythefarmorbytheestate,wherestrangerscouldhardlywander.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Quiteso.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thencomesourexpeditionofto-day.ByanexaminationofthegroundIgainedthetriflingdetailswhichIgavetothatimbecileLestrade,astothepersonalityofthecriminal.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Buthowdidyougainthem?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youknowmymethod.Itisfoundedupontheobservationoftrifles.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HisheightIknowthatyoumightroughlyjudgefromthelengthofhisstride.Hisboots,too,mightbetoldfromtheirtraces.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,theywerepeculiarboots.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Buthislameness?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theimpressionofhisrightfootwasalwayslessdistinctthanhisleft.Heputlessweightuponit.Why?Becausehelimped--hewaslame.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Buthisleft-handedness.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwereyourselfstruckbythenatureoftheinjuryasrecordedbythesurgeonattheinquest.Theblowwasstruckfromimmediatelybehind,andyetwasupontheleftside.Now,howcanthatbeunlessitwerebyaleft-handedman?Hehadstoodbehindthattreeduringtheinterviewbetweenthefatherandson.Hehadevensmokedthere.Ifoundtheashofacigar,whichmyspecialknowledgeoftobaccoashesenablesmetopronounceasanIndiancigar.Ihave,asyouknow,devotedsomeattentiontothis,andwrittenalittlemonographontheashesof140differentvarietiesofpipe,cigar,andcigarettetobacco.Havingfoundtheash,Ithenlookedroundanddiscoveredthestumpamongthemosswherehehadtossedit.ItwasanIndiancigar,ofthevarietywhicharerolledinRotterdam.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andthecigar-holder?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icouldseethattheendhadnotbeeninhismouth.Thereforeheusedaholder.Thetiphadbeencutoff,notbittenoff,butthecutwasnotacleanone,soIdeducedabluntpen-knife.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Holmes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youhavedrawnanetroundthismanfromwhichhecannotescape,andyouhavesavedaninnocenthumanlifeastrulyasifyouhadcutthecordwhichwashanginghim.Iseethedirectioninwhichallthispoints.Theculpritis--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mr.JohnTurner,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Praysitdownonthesofa,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhadmynote?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,thelodge-keeperbroughtitup.Yousaidthatyouwishedtoseemeheretoavoidscandal.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IthoughtpeoplewouldtalkifIwenttotheHall.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andwhydidyouwishtoseeme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itisso.IknowallaboutMcCarthy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Godhelpme!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButIwouldnothavelettheyoungmancometoharm.IgiveyoumywordthatIwouldhavespokenoutifitwentagainsthimattheAssizes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamgladtohearyousayso,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwouldhavespokennowhaditnotbeenformydeargirl.Itwouldbreakherheart--itwillbreakherheartwhenshehearsthatIamarrested.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itmaynotcometothat,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "What?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamnoofficialagent.Iunderstandthatitwasyourdaughterwhorequiredmypresencehere,andIamactinginherinterests.YoungMcCarthymustbegotoff,however.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamadyingman,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihavehaddiabetesforyears.MydoctorsaysitisaquestionwhetherIshallliveamonth.YetIwouldratherdieundermyownroofthaninagaol.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Justtellusthetruth,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishalljotdownthefacts.Youwillsignit,andWatsonherecanwitnessit.ThenIcouldproduceyourconfessionatthelastextremitytosaveyoungMcCarthy.IpromiseyouthatIshallnotuseitunlessitisabsolutelyneeded.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsaswell,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itsaquestionwhetherIshalllivetotheAssizes,soitmatterslittletome,butIshouldwishtospareAlicetheshock.AndnowIwillmakethethingcleartoyou;ithasbeenalongtimeintheacting,butwillnottakemelongtotell.Youdidntknowthisdeadman,McCarthy.Hewasadevilincarnate.Itellyouthat.Godkeepyououtoftheclutchesofsuchamanashe.Hisgriphasbeenuponmethesetwentyyears,andhehasblastedmylife.IlltellyoufirsthowIcametobeinhispower.Itwasintheearly60satthediggings.Iwasayoungchapthen,hot-bloodedandreckless,readytoturnmyhandatanything;Igotamongbadcompanions,tooktodrink,hadnoluckwithmyclaim,tooktothebush,andinawordbecamewhatyouwouldcalloverhereahighwayrobber.Thereweresixofus,andwehadawild,freelifeofit,stickingupastationfromtimetotime,orstoppingthewagonsontheroadtothediggings.BlackJackofBallaratwasthenameIwentunder,andourpartyisstillrememberedinthecolonyastheBallaratGang.OnedayagoldconvoycamedownfromBallarattoMelbourne,andwelayinwaitforitandattackedit.Thereweresixtroopersandsixofus,soitwasaclosething,butweemptiedfouroftheirsaddlesatthefirstvolley.Threeofourboyswerekilled,however,beforewegottheswag.Iputmypistoltotheheadofthewagon-driver,whowasthisverymanMcCarthy.IwishtotheLordthatIhadshothimthen,butIsparedhim,thoughIsawhiswickedlittleeyesfixedonmyface,asthoughtoremembereveryfeature.Wegotawaywiththegold,becamewealthymen,andmadeourwayovertoEnglandwithoutbeingsuspected.ThereIpartedfrommyoldpalsanddeterminedtosettledowntoaquietandrespectablelife.Iboughtthisestate,whichchancedtobeinthemarket,andIsetmyselftodoalittlegoodwithmymoney,tomakeupforthewayinwhichIhadearnedit.Imarried,too,andthoughmywifediedyoungsheleftmemydearlittleAlice.Evenwhenshewasjustababyherweehandseemedtoleadmedowntherightpathasnothingelsehadeverdone.Inaword,Iturnedoveranewleafanddidmybesttomakeupforthepast.AllwasgoingwellwhenMcCarthylaidhisgripuponme.Ihadgoneuptotownaboutaninvestment,andImethiminRegentStreetwithhardlyacoattohisbackoraboottohisfoot.Hereweare,Jack,sayshe,touchingmeonthearm;wellbeasgoodasafamilytoyou.Therestwoofus,meandmyson,andyoucanhavethekeepingofus.Ifyoudont--itsafine,law-abidingcountryisEngland,andtheresalwaysapolicemanwithinhail.Well,downtheycametothewestcountry,therewasnoshakingthemoff,andtheretheyhavelivedrentfreeonmybestlandeversince.Therewasnorestforme,nopeace,noforgetfulness;turnwhereIwould,therewashiscunning,grinningfaceatmyelbow.ItgrewworseasAlicegrewup,forhesoonsawIwasmoreafraidofherknowingmypastthanofthepolice.Whateverhewantedhemusthave,andwhateveritwasIgavehimwithoutquestion,land,money,houses,untilatlastheaskedathingwhichIcouldnotgive.HeaskedforAlice.Hisson,yousee,hadgrownup,andsohadmygirl,andasIwasknowntobeinweakhealth,itseemedafinestroketohimthathisladshouldstepintothewholeproperty.ButthereIwasfirm.Iwouldnothavehiscursedstockmixedwithmine;notthatIhadanydisliketothelad,buthisbloodwasinhim,andthatwasenough.Istoodfirm.McCarthythreatened.Ibravedhimtodohisworst.Weweretomeetatthepoolmidwaybetweenourhousestotalkitover.WhenIwentdownthereIfoundhimtalkingwithhisson,soIsmokedacigarandwaitedbehindatreeuntilheshouldbealone.ButasIlistenedtohistalkallthatwasblackandbitterinmeseemedtocomeuppermost.Hewasurginghissontomarrymydaughterwithaslittleregardforwhatshemightthinkasifshewereaslutfromoffthestreets.ItdrovememadtothinkthatIandallthatIheldmostdearshouldbeinthepowerofsuchamanasthis.CouldInotsnapthebond?Iwasalreadyadyingandadesperateman.Thoughclearofmindandfairlystrongoflimb,Iknewthatmyownfatewassealed.Butmymemoryandmygirl!BothcouldbesavedifIcouldbutsilencethatfoultongue.Ididit,Mr.Holmes.Iwoulddoitagain.DeeplyasIhavesinned,Ihaveledalifeofmartyrdomtoatoneforit.ButthatmygirlshouldbeentangledinthesamemesheswhichheldmewasmorethanIcouldsuffer.Istruckhimdownwithnomorecompunctionthanifhehadbeensomefoulandvenomousbeast.Hiscrybroughtbackhisson;butIhadgainedthecoverofthewood,thoughIwasforcedtogobacktofetchthecloakwhichIhaddroppedinmyflight.Thatisthetruestory,gentlemen,ofallthatoccurred.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,itisnotformetojudgeyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ipraythatwemayneverbeexposedtosuchatemptation.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ipraynot,sir.Andwhatdoyouintendtodo?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inviewofyourhealth,nothing.YouareyourselfawarethatyouwillsoonhavetoanswerforyourdeedatahighercourtthantheAssizes.Iwillkeepyourconfession,andifMcCarthyiscondemnedIshallbeforcedtouseit.Ifnot,itshallneverbeseenbymortaleye;andyoursecret,whetheryoubealiveordead,shallbesafewithus.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Farewell,then,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourowndeathbeds,whentheycome,willbetheeasierforthethoughtofthepeacewhichyouhavegiventomine.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Godhelpus!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whydoesfateplaysuchtrickswithpoor,helplessworms?IneverhearofsuchacaseasthisthatIdonotthinkofBaxterswords,andsay,There,butforthegraceofGod,goesSherlockHolmes.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

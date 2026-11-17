@@ -1,0 +1,139 @@
+{
+  "threshold": 0.9,
+  "TP": 15,
+  "FP": 10,
+  "FN": 2323,
+  "n_pred": 25,
+  "n_gold": 2338,
+  "matched_gold": 15,
+  "precision": 0.6,
+  "recall": 0.00641573994867408,
+  "f1": 0.012695725772323318,
+  "predictions": [
+    {
+      "string": "Here,Fitz-Edward,saidhe;—hereismyfatherangrywithmeformakinglovetomycousinEmmy.Faith,Sir,",
+      "best_similarity": 0.8344,
+      "correct": false
+    },
+    {
+      "string": "Aswhat,Sir,shouldIrememberyou,butasmypersecutor?asonewhohasinjuredmebeyondreparationbyyourwildandcruelconduct,andwhohasnowdaredtoinsultmebyamostunparallelledoutrage.—Leaveme,Sir!Irepeattoyouthatyoumustinstantlyquittheroom!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ShallIanswerforLordMontreville,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ashisimmediaterepresentative?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youknowtoowellthatmyfatherisnotacquaintedwithmybeinghere.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatIshalleveninfluenceMissMowbraytolistentoyou;knowing,asIdo,theaversionofyourfamilytoyourentertaininganyhonourableviews?andhavingreasontobelieveyouhaveyourselfformedthosethatareverydifferent?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youlittleknow,Madam,thehopelessnessofsuchanexpectation.Wereitpossiblethatanyarguments,anymotivescouldengagemyfathertoforegoalltheprojectsofaggrandizinghisfamilybysplendidandrichalliances,mymotherwill,Iknow,everbeinexorable.ShewillnothearthenameofEmmeline.Lastwintersheincessantlypessecutedmewithproposalsofmarriage,andisnowbentuponpersuadingmetoengagemyhandtoMissOtley,arelationofherown,whopossessesindeedanimmensefortune,andisofrank;butwhoofallwomenlivingwouldmakemethemostmiserable.ThefatiguingargumentsIhaveheardaboutthismatch,andthefruitlessandincessantsolicitudeofmymother,convincemeIcannot,forbothoursakes,toosoonputanendtoit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iintendevertodoboth,Sir;andwhensheismywife,youwillbereleasedfromthetaskofprotectingher,andwillonlyhavetoloveherasmuchashermeritdeserves.Beassured,myLord,IhavenosuchdesignsagainstthehonourofMissMowbrayasyouimputetome.Itismydeterminedandunalterableintentiontomarryher.WouldtoGodyourLordshipwouldconquertheunreasonableprejudicewhichyouhaveconceivedagainsttheonlyunionwhichwillsecurethehappinessofyourson,andendeavourtoreconcilemymothertoamarriageonwhichIamresolved.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "shecannotremainhere;buttofindasituationthatwillbeproperforher,andconcealedfromhim,Iownappearssodifficult,thatIknownotonwhattodetermine.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MyLord,answeredMrs.Stafford,",
+      "best_similarity": 0.68,
+      "correct": false
+    },
+    {
+      "string": "whichoughttohavebeenmine!—Now,evennow,thatyouareabouttotearyourselffromme,itshouldhavebeenmineforever!ButIhaverelinquishedmyprizeatthemomentImighthavesecuredit;andifIloseitentirelymyownfollywillonlybethecause.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lookye,Mr.Crofts,sharplyansweredFitz-Edward—Youaretomakenoimpertinentcomments.MissMowbrayismistressofheractions.SheisinmyparticularprotectiononbehalfofmyfriendDelamere,andIshallconsidertheslightestfailureofrespecttoherasaninsulttome.Sir,ifyouhavenothingmoretosayyouwillbesogoodastoleaveus.TherewassomethingsohostileinthemannerinwhichFitz-Edwarddeliveredthisspeech,thatJamesCrofts,moreathomeinthecabinetthanthefield,thoughthemightaswellavoidanotherinjunctiontodepart;andquietlysubmittothepresent,ratherthanprovokefartherresentmentfromtheformidablesoldier.Hetherefore,lookingmostcadaverously,madeoneofhisjerkingbows,andsaid,withsomethingheintendedforasmile—",
+      "best_similarity": 0.5444,
+      "correct": false
+    },
+    {
+      "string": "Servant!servant!andwalkedaway.Fitz-Edward,thenturningtowardsEmmeline,sawherpaleandfaint.",
+      "best_similarity": 0.4316,
+      "correct": false
+    },
+    {
+      "string": "Oh!hewassentonpurpose,criedEmmeline.—Mrs.Ashwoodhaslatelyoftenhintedtome,thatwhateveraremyengagementstoDelamereIwasmuchmorepartialtoyou.Shehaswatchedmeforsometime;andnow,onmyrefusingtoaccompanythemtotheball,concludedIhadanappointment,andsentCroftsbacktosee.",
+      "best_similarity": 0.9224,
+      "correct": true
+    },
+    {
+      "string": "Iwouldinstantlyovertakehim,andIbelieveIcouldobligehimtosecresy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "forheavenssakedonotthinkofit!Icarenotwhattheythink—leavethemtotheirconjectures—Croftsisnotworthyouranger.ButFitz-Edward,letusreturntowhatweweretalkingof.WillyoupromisemetodelaygoingtoLondon—todelayseeingMr.Godolphinuntil—inshort,willyougivemeyourhonourtoremainatTylehurstaweek,withouttakinganymeasurestoinformGodolphinofwhatyouhavetoldme.Iwill,attheendofthattime,eitherreleaseyoufromyourpromise,orgiveyouunanswerablereasonswhyyoushouldrelinquishthedesignofmeetinghimatall.Fitz-Edward,howeveramazedattheearnestnesssheexpressedtoobtainthispromise,gaveit.HehadnosuspicionofEmmelineshavinganyknowledgeofLadyAdelina;andaccountedforthedeepinterestsheseemedtotakeinpreventinganinterview,byrecollectingtheuniversaltendernessandhumanityofhercharacter.HeassuredherhewouldnotleaveTylehursttilltheexpirationofthetimeshehadnamed.HeconjuredhernottosufferanyimpertinencefromCroftsonthesubjectoftheirbeingseentogether,buttoawehimintosilencebyresentment.Emmelinenowdesiredhimtoleaveher.Butshestillseemedundersuchanhurryofspirits,thatheinsistedonbeingallowedtoattendhertothedoorofthehouse,where,renewinghisthanksforthecompassionateattentionshehadaffordedhim,andentreatinghertocomposeherself,helefther.Emmelineintendingtogotoherownroom,wentfirstintothedrawingroomtodeposithermusicbook.Shehadhardlydoneso,whensheheardamansstep,andturning,beheldCroftsopenthedoor,whichheimmediatelyshutafterhim.",
+      "best_similarity": 0.5117,
+      "correct": false
+    },
+    {
+      "string": "Ithought,Sir,saidEmmeline,",
+      "best_similarity": 0.6667,
+      "correct": false
+    },
+    {
+      "string": "youhadbeengonebacktoyourparty.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,notyet,myfairEmmeline.Iwantedfirsttobegyourpardonforhavingdisturbedsosnugaparty.Ah!slylittleprude—whowouldthinkthatyou,whoalwaysseemsocoldandsocruel,madeanexcuseonlytostayathometomeetFitz-Edward?Butitisnotfair,littledear,thatallyourkindnessshouldbeforhim,whileyouwillscarcegiveanyotherbodyacivillook.NowIhavemetwithyouIswearIllhaveakisstoo.Emmeline,terrifiedtodeathathisapproachingherwiththisspeech,flewtothebell,whichsherangwithsomuchviolencethattheropebrokefromthecrank.",
+      "best_similarity": 0.8386,
+      "correct": false
+    },
+    {
+      "string": "ifnobodyhears,youaremorethaneverinmypower.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Letmego,Mr.Crofts,thismoment.Shewouldhaverushedtowardsthedoorbuthestoodwithhisarmsextendedbeforeit.",
+      "best_similarity": 0.4649,
+      "correct": false
+    },
+    {
+      "string": "Youdidnotrunthus—youdidnotscreamthus,whenFitz-Edward,thefortunateFitz-Edward,wasonhiskneesbeforeyou.Then,youcouldweepandsightoo,andlooksosweetlyonhim.Butcome—youseeIknowsomuchthatitwillbeyourinterest,littledear,tomakemeyourfriend.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ratherletmeapplytofiendsandfuriesforfriendship!hateful,detestaablewretch!bywhatrightdoyouinsultanddetainme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh!thesetheatricalsarereallyverysublime!criedhe,seizingbothherhands,whichheviolentlygrasped.Sheskriekedaloud,andfruitlesslystruggledtobreakfromhim,whenthefootstepsofsomebodynearthedoorobligedhimtolethergo.Shedartedinstantlyaway,andinthehallmetoneofthemaids.",
+      "best_similarity": 0.4429,
+      "correct": false
+    },
+    {
+      "string": "Desoimemerempli,jaloux,presomptueux,",
+      "best_similarity": 0.4615,
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+COREF	start_token	end_token	prop	cat	text
+6	12	13	PROP	PER	Christine Nilsson
+7	17	17	PROP	PER	Faust
+0	19	25	PROP	FAC	the Academy of Music in New York
+1	24	25	PROP	GPE	New York
+89	42	43	NOM	FAC	the Forties
+22	47	50	NOM	FAC	a new Opera House
+23	61	64	NOM	GPE	the great European capitals
+24	66	69	NOM	LOC	the world of fashion
+25	85	88	NOM	FAC	the sociable old Academy
+8	90	90	PROP	PER	Conservatives
+26	103	110	NOM	PER	the " new people " whom New York
+1	109	110	PROP	GPE	New York
+27	146	146	NOM	FAC	halls
+9	156	157	PROP	PER	Madame Nilsson
+90	176	179	NOM	PER	an exceptionally brilliant audience
+9	185	185	PRON	PER	her
+28	189	196	NOM	FAC	the slippery , snowy streets in private broughams
+29	195	196	NOM	FAC	private broughams
+30	199	202	NOM	FAC	the spacious family landau
+91	206	213	NOM	FAC	the humbler but more convenient " Brown coupe
+31	219	220	NOM	FAC	the Opera
+32	235	235	NOM	PER	one
+33	235	238	NOM	VEH	one 's own carriage
+34	286	289	NOM	PER	one 's own coachman
+35	292	296	NOM	FAC	the portico of the Academy
+36	295	296	NOM	FAC	the Academy
+37	302	306	NOM	PER	the great livery - stableman
+10	315	315	PROP	PER	Americans
+10	326	326	PRON	PER	they
+11	334	335	PROP	PER	Newland Archer
+38	362	364	NOM	PER	the young man
+38	372	372	PRON	PER	he
+38	380	380	PRON	PER	his
+39	380	381	NOM	PER	his mother
+40	383	383	NOM	PER	sister
+41	393	395	NOM	FAC	the Gothic library
+42	409	417	NOM	FAC	the only room in the house where Mrs. Archer
+43	413	414	NOM	FAC	the house
+11	416	417	PROP	PER	Mrs. Archer
+1	428	429	PROP	GPE	New York
+44	431	432	NOM	GPE	a metropolis
+31	451	452	NOM	FAC	the opera
+2	470	474	PROP	GPE	Newland Archer 's New York
+2	486	486	PRON	PER	his
+2	497	497	PRON	PER	his
+2	504	504	PRON	PER	He
+2	508	508	PRON	PER	his
+2	511	511	PRON	PER	he
+2	527	527	PRON	PER	him
+2	549	549	PRON	PER	his
+2	560	560	PRON	PER	he
+2	576	576	PRON	PER	he
+2	579	579	PRON	PER	his
+46	584	590	NOM	PER	the prima donna 's stage - manager
+2	591	591	PRON	PER	he
+36	596	597	NOM	FAC	the Academy
+11	606	606	PRON	PER	she
+2	611	611	PRON	PER	He
+11	613	613	PRON	PER	me
+2	615	615	PRON	PER	he
+11	617	617	PRON	PER	me
+2	620	620	PRON	PER	HE
+11	637	637	PRON	PER	She
+2	650	650	PRON	PER	he
+11	652	652	PRON	PER	me
+48	662	664	NOM	LOC	the musical world
+49	675	676	NOM	PER	Swedish artists
+11	697	698	PROP	PER	Newland Archer
+2	706	706	PRON	PER	his
+2	723	723	PRON	PER	his
+2	730	730	PRON	PER	his
+2	748	748	PRON	PER	his
+50	758	760	NOM	PER	the prima donna
+11	778	778	PRON	PER	she
+11	784	784	PRON	PER	her
+11	788	788	PRON	PER	her
+51	796	827	NOM	PER	the little brown Faust - Capoul , who was vainly trying , in a tight purple velvet doublet and plumed cap , to look as pure and true as his artless victim
+12	801	801	PROP	PER	Capoul
+12	825	825	PRON	PER	his
+52	825	827	NOM	PER	his artless victim
+11	829	830	PROP	PER	Newland Archer
+53	840	842	NOM	FAC	the club box
+12	845	845	PRON	PER	his
+54	848	849	NOM	FAC	the stage
+43	856	857	NOM	FAC	the house
+12	861	861	PRON	PER	him
+13	866	869	PROP	PER	old Mrs. Manson Mingott
+50	881	881	PRON	PER	her
+31	884	885	NOM	FAC	the Opera
+57	896	903	NOM	PER	some of the younger members of the family
+58	898	903	NOM	PER	the younger members of the family
+59	902	903	NOM	PER	the family
+50	917	917	PRON	PER	her
+60	917	918	NOM	PER	her daughter
+14	924	926	PROP	PER	Mrs. Lovell Mingott
+50	929	929	PRON	PER	her
+60	929	930	NOM	PER	her daughter
+15	932	933	PROP	PER	Mrs. Welland
+62	939	941	NOM	PER	these brocaded matrons
+63	943	954	NOM	PER	a young girl in white with eyes ecstatically fixed on the stagelovers
+9	957	958	PROP	PER	Madame Nilsson
+64	967	969	NOM	FAC	the silent house
+65	986	987	NOM	PER	the girl
+65	992	992	PRON	PER	her
+65	998	998	PRON	PER	her
+65	1008	1008	PRON	PER	her
+65	1026	1026	PRON	PER	She
+65	1028	1028	PRON	PER	her
+65	1043	1043	PRON	PER	her
+11	1047	1048	PROP	PER	Newland Archer
+65	1050	1050	PRON	PER	her
+63	1062	1062	PRON	PER	He
+63	1070	1070	PRON	PER	his
+54	1074	1075	NOM	FAC	the stage
+67	1095	1107	NOM	PER	people who shared his acquaintance with the Opera houses of Paris and Vienna
+63	1098	1098	PRON	PER	his
+68	1101	1107	NOM	FAC	the Opera houses of Paris and Vienna
+3	1105	1105	PROP	GPE	Paris
+4	1107	1107	PROP	GPE	Vienna
+69	1175	1179	NOM	PER	female parishioners for fashionable clergymen
+70	1178	1179	NOM	PER	fashionable clergymen
+16	1209	1211	PROP	PER	Mr. Luther Burbank
+71	1222	1224	NOM	FAC	this enchanted garden
+9	1225	1226	PROP	PER	Madame Nilsson
+9	1255	1255	PRON	PER	her
+12	1264	1265	PROP	PER	M. Capoul
+12	1276	1276	PRON	PER	his
+12	1285	1285	PRON	PER	he
+72	1293	1296	NOM	FAC	the neat brick villa
+92	1305	1306	NOM	PER	The darling
+11	1310	1311	PROP	PER	Newland Archer
+63	1313	1313	PRON	PER	his
+73	1318	1329	NOM	PER	the young girl with the lilies - of - the - valley
+74	1327	1329	NOM	LOC	the - valley
+73	1332	1332	PRON	PER	She
+63	1345	1345	PRON	PER	he
+73	1347	1347	PRON	PER	her
+63	1360	1360	PRON	PER	his
+73	1371	1371	PRON	PER	her
+93	1376	1376	PRON	PER	We
+7	1379	1379	PROP	PER	Faust
+94	1383	1385	NOM	LOC	the Italian lakes
+63	1388	1388	PRON	PER	he
+63	1397	1397	PRON	PER	his
+63	1411	1411	PRON	PER	his
+63	1417	1417	PRON	PER	his
+75	1417	1418	NOM	PER	his bride
+17	1426	1427	PROP	PER	May Welland
+63	1430	1430	PRON	PER	him
+17	1433	1433	PRON	PER	she
+1	1438	1439	PROP	GPE	New York
+63	1450	1450	PRON	PER	his
+18	1467	1467	PROP	PER	Lohengrin
+73	1470	1470	PRON	PER	her
+63	1472	1472	PRON	PER	his
+63	1482	1482	PRON	PER	He
+11	1491	1493	PROP	PER	Mrs. Newland Archer
+76	1496	1497	NOM	PER	a simpleton
+63	1499	1499	PRON	PER	He
+73	1501	1501	PRON	PER	her
+63	1505	1505	PRON	PER	his
+73	1519	1519	PRON	PER	her
+73	1522	1522	PRON	PER	her
+77	1525	1551	NOM	PER	the most popular married women of the " younger set , " in which it was the recognised custom to attract masculine homage while playfully discouraging it
+63	1554	1554	PRON	PER	he
+63	1561	1561	PRON	PER	his
+63	1565	1565	PRON	PER	he
+63	1570	1570	PRON	PER	he
+63	1578	1578	PRON	PER	his
+78	1578	1579	NOM	PER	his wife
+79	1592	1605	NOM	PER	the married lady whose charms had held his fancy through two mildly agitated years
+63	1599	1599	PRON	PER	his
+63	1631	1631	PRON	PER	his
+80	1656	1658	NOM	LOC	a harsh world
+63	1660	1660	PRON	PER	he
+63	1671	1671	PRON	PER	he
+63	1676	1676	PRON	PER	his
+63	1683	1683	PRON	PER	he
+63	1718	1718	PRON	PER	him
+81	1722	1722	PRON	PER	their
+82	1731	1738	NOM	PER	ladies who were the product of the system
+11	1745	1746	PROP	PER	Newland Archer
+11	1748	1748	PRON	PER	himself
+1	1757	1759	PROP	GPE	old New York
+63	1762	1762	PRON	PER	he
+83	1779	1780	NOM	LOC	the world
+84	1783	1788	NOM	PER	any other man of the number
+84	1791	1791	PRON	PER	they
+84	1793	1793	PRON	PER	their
+84	1799	1799	PRON	PER	they
+1	1802	1803	PROP	GPE	New York
+63	1813	1813	PRON	PER	him
+84	1815	1815	PRON	PER	their
+63	1824	1824	PRON	PER	He
+11	1846	1846	PRON	PER	himself
+19	1852	1852	PRON	PER	my
+19	1857	1858	PROP	PER	Lawrence Lefferts
+19	1861	1861	PRON	PER	his
+54	1868	1869	NOM	FAC	the stage
+19	1871	1872	PROP	PER	Lawrence Lefferts
+1	1887	1888	PROP	GPE	New York
+19	1890	1890	PRON	PER	He
+86	1897	1908	NOM	PER	any one else to the study of this intricate and fascinating question
+19	1917	1917	PRON	PER	his
+20	1923	1923	PROP	PER	One
+19	1929	1929	PRON	PER	him
+19	1935	1935	PRON	PER	his
+19	1942	1942	PRON	PER	his
+19	1958	1958	PRON	PER	his
+87	1977	1997	NOM	PER	any one who knew how to wear such good clothes so carelessly and carry such height with so much lounging grace
+88	2000	2002	NOM	PER	a young admirer
+19	2007	2007	PRON	PER	him
+95	2011	2011	NOM	PER	anybody
+96	2014	2015	NOM	PER	a fellow
+19	2033	2034	PROP	PER	Larry Lefferts
+19	2050	2050	PRON	PER	his
+19	2058	2058	PRON	PER	My
+97	2058	2059	NOM	PER	My God
+19	2062	2062	PRON	PER	he
+19	2068	2068	PRON	PER	his
+21	2071	2073	PROP	PER	old Sillerton Jackson

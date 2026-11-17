@@ -1,0 +1,288 @@
+COREF	start_token	end_token	prop	cat	text
+16	2	12	NOM	PER	A RED - HAIRED GIRL The residence of Mr. Peter Pett
+17	7	12	NOM	FAC	The residence of Mr. Peter Pett
+3	10	12	PROP	PER	Mr. Peter Pett
+18	14	18	NOM	PER	the well - known financier
+0	21	22	PROP	FAC	Riverside Drive
+19	30	34	NOM	FAC	that breezy and expensive boulevard
+20	37	37	PRON	PER	you
+20	41	41	PRON	PER	your
+21	41	42	NOM	VEH	your limousine
+20	66	66	PRON	PER	you
+4	68	68	PROP	PER	Architects
+4	78	78	PRON	PER	their
+22	84	86	NOM	PER	the lay observer
+23	100	101	NOM	FAC	a cathedral
+24	103	105	NOM	FAC	a suburban villa
+25	107	108	NOM	FAC	a hotel
+26	110	112	NOM	FAC	a Chinese pagoda
+26	116	116	PRON	FAC	its
+27	143	148	NOM	FAC	guard New York 's Public Library
+1	144	145	PROP	GPE	New York
+28	152	158	NOM	FAC	a house which is impossible to overlook
+5	168	169	PROP	PER	Mrs. Pett
+5	172	172	PRON	PER	her
+29	172	173	NOM	PER	her husband
+5	178	178	PRON	PER	she
+30	180	186	NOM	PER	a woman who liked to be noticed
+31	193	194	NOM	FAC	this mansion
+3	195	196	PROP	PER	Mr. Pett
+32	198	200	NOM	PER	its nominal proprietor
+33	227	228	NOM	FAC	the house
+3	234	234	PRON	PER	him
+3	243	243	PRON	PER	his
+3	264	264	PRON	PER	his
+6	268	268	PROP	PER	Darn
+3	272	272	PRON	PER	He
+3	282	282	PRON	PER	his
+3	290	290	PRON	PER	he
+3	296	296	PRON	PER	He
+3	308	308	PRON	PER	he
+3	315	315	PRON	PER	he
+3	318	318	PRON	PER	his
+3	326	326	PRON	PER	he
+34	332	332	NOM	PER	Intruders
+35	338	339	NOM	FAC	The place
+3	355	355	PRON	PER	his
+5	368	369	PROP	PER	Mrs. Pett
+5	373	373	PRON	PER	She
+5	378	378	PRON	PER	herself
+7	382	384	PROP	PER	Nesta Ford Pett
+36	388	392	NOM	PER	all lovers of sensational fiction
+37	398	399	NOM	FAC	a salon
+8	415	416	PROP	PER	Willie Partridge
+5	431	431	PRON	PER	she
+5	436	436	PRON	PER	her
+5	441	441	PRON	PER	she
+5	445	445	PRON	PER	her
+38	451	458	NOM	PER	no fewer than six young and unrecognised geniuses
+39	460	462	NOM	PER	Six brilliant youths
+40	472	477	NOM	PER	poets who were about to begin
+3	481	482	PROP	PER	Mr. Pett
+41	481	484	NOM	FAC	Mr. Pett 's rooms
+3	492	492	PRON	PER	he
+3	495	495	PRON	PER	his
+9	508	508	PROP	PER	Genesis
+3	519	519	PRON	PER	he
+3	525	525	PRON	PER	his
+42	525	529	NOM	PER	his wife 's first husband
+43	531	547	NOM	PER	a business friend of his named Elmer Ford , who had perished suddenly of an apoplectic seizure
+3	535	535	PRON	PER	his
+44	535	547	NOM	PER	his named Elmer Ford , who had perished suddenly of an apoplectic seizure
+10	537	538	PROP	PER	Elmer Ford
+44	553	553	PRON	PER	he
+45	557	558	NOM	PER	the deceased
+3	571	572	PROP	PER	Mr. Pett
+46	579	587	NOM	PER	the man who waits fifty years before trying it
+5	595	596	PROP	PER	Mrs. Pett
+5	600	600	PRON	PER	her
+5	602	602	PRON	PER	her
+47	602	604	NOM	FAC	her new home
+5	605	605	PRON	PER	her
+48	605	607	NOM	PER	her only son
+11	609	609	PROP	PER	Ogden
+49	611	622	NOM	PER	a fourteen - year - old boy of a singularly unloveable type
+50	619	622	NOM	PER	a singularly unloveable type
+51	626	629	NOM	PER	grown - up society
+49	639	639	PRON	PER	him
+52	651	652	NOM	PER	private tutors
+52	655	655	PRON	PER	themselves
+52	659	659	PRON	PER	They
+53	679	680	NOM	PER	the boy
+3	693	694	PROP	PER	Mr. Pett
+53	698	698	PRON	PER	his
+54	701	701	NOM	PER	boys
+11	703	704	PROP	PER	Ogden Ford
+11	710	710	PRON	PER	He
+11	712	712	PRON	PER	his
+11	718	718	PRON	PER	he
+11	722	722	PRON	PER	him
+11	725	725	PRON	PER	his
+11	734	734	PRON	PER	he
+11	744	744	PRON	PER	him
+3	748	749	PROP	PER	Mr. Pett
+3	751	751	PRON	PER	his
+3	754	754	PRON	PER	He
+55	767	770	NOM	FAC	the morning - room
+12	786	788	PROP	PER	the poet Shelley
+3	794	794	PRON	PER	he
+56	806	807	NOM	FAC	the passage
+3	809	809	PRON	PER	him
+3	812	812	PRON	PER	his
+3	827	827	PRON	PER	him
+3	832	832	PRON	PER	He
+3	847	847	PRON	PER	him
+3	852	852	PRON	PER	his
+57	852	855	NOM	FAC	his own private library
+58	857	875	NOM	FAC	a large , soothing room full of old books , of which his father had been a great collector
+3	869	869	PRON	PER	his
+59	869	870	NOM	PER	his father
+60	873	875	NOM	PER	a great collector
+3	877	878	PROP	PER	Mr. Pett
+3	884	884	PRON	PER	himself
+3	887	887	PRON	PER	he
+61	892	892	PRON	PER	them
+3	899	899	PRON	PER	his
+3	902	902	PRON	PER	he
+3	911	911	PRON	PER	his
+62	923	923	NOM	PER	nobody
+63	924	924	NOM	FAC	there
+3	926	926	PRON	PER	He
+3	935	935	PRON	PER	He
+3	940	940	PRON	PER	He
+64	963	973	NOM	FAC	a house full of their juniors find themselves alone at last
+65	967	967	PRON	PER	their
+66	967	968	NOM	PER	their juniors
+65	970	970	PRON	PER	themselves
+3	981	981	PRON	PER	his
+11	992	993	PROP	PER	Ogden Ford
+94	1008	1008	NOM	PER	pop
+95	1013	1015	NOM	FAC	Lots of room
+3	1018	1019	PROP	PER	Mr. Pett
+3	1026	1026	PRON	PER	his
+67	1026	1029	NOM	PER	his step - son
+3	1035	1035	PRON	PER	He
+53	1037	1038	NOM	PER	the boy
+3	1066	1066	PRON	PER	his
+69	1080	1082	NOM	PER	the bulging child
+53	1084	1084	PRON	PER	him
+11	1086	1087	PROP	PER	Ogden Ford
+11	1096	1096	PRON	PER	He
+70	1102	1109	NOM	PER	one to whom wholesome exercise is a stranger
+11	1131	1131	PRON	PER	his
+11	1145	1145	PRON	PER	you
+96	1148	1148	NOM	PER	boy
+3	1152	1153	PROP	PER	Mr. Pett
+3	1155	1155	PRON	PER	his
+13	1162	1162	PROP	PER	Candy
+3	1166	1166	PRON	PER	I
+3	1168	1168	PRON	PER	you
+14	1178	1178	PROP	PER	Mother
+11	1182	1182	PRON	PER	me
+11	1186	1186	PROP	PER	Ogden
+11	1190	1190	PRON	PER	he
+71	1197	1198	NOM	PER	the enemy
+3	1202	1203	PROP	PER	Mr. Pett
+11	1212	1212	PROP	PER	Ogden
+11	1214	1214	PRON	PER	his
+11	1223	1223	PRON	PER	his
+3	1235	1235	PRON	PER	you
+94	1237	1237	NOM	PER	pop
+3	1241	1241	PRON	PER	I
+67	1252	1252	PRON	PER	I
+3	1254	1254	PRON	PER	you
+3	1259	1259	PRON	PER	his
+67	1259	1262	NOM	PER	his step - son
+67	1266	1266	PRON	PER	I
+67	1271	1271	PRON	PER	I
+3	1276	1276	PRON	PER	you
+67	1282	1282	PRON	PER	me
+67	1286	1286	PRON	PER	I
+3	1292	1293	PROP	PER	Mr. Pett
+3	1299	1299	PRON	PER	You
+3	1306	1306	PRON	PER	Me
+98	1318	1318	NOM	PER	sir
+3	1334	1334	PRON	PER	I
+3	1359	1359	PRON	PER	You
+3	1364	1364	PRON	PER	you
+3	1366	1366	PRON	PER	me
+98	1374	1374	NOM	PER	sir
+3	1376	1376	PRON	PER	I
+100	1380	1380	NOM	FAC	here
+3	1385	1385	PRON	PER	I
+101	1387	1390	NOM	PER	one of the fellows
+102	1389	1390	NOM	PER	the fellows
+100	1393	1393	NOM	FAC	here
+3	1395	1395	PRON	PER	me
+102	1397	1397	PRON	PER	They
+3	1401	1401	PRON	PER	your
+3	1406	1406	PRON	PER	You
+94	1414	1414	NOM	PER	pop
+3	1416	1416	PRON	PER	You
+3	1420	1420	PRON	PER	yourself
+3	1429	1430	PROP	PER	Mr. Pett
+3	1436	1436	PRON	PER	he
+3	1438	1438	PRON	PER	himself
+73	1441	1454	NOM	PER	this calm , goggle - eyed boy who treated him with such supercilious coolness
+73	1450	1450	PRON	PER	him
+3	1457	1457	PRON	PER	You
+3	1471	1471	PRON	PER	he
+3	1486	1486	PRON	PER	I
+3	1489	1489	PRON	PER	you
+3	1494	1494	PRON	PER	I
+3	1496	1496	PRON	PER	I
+3	1505	1506	PROP	PER	Mr. Pett
+105	1531	1532	NOM	FAC	a home
+3	1534	1534	PRON	PER	you
+3	1544	1544	PRON	PER	I
+3	1546	1546	PRON	PER	your
+3	1549	1549	PRON	PER	I
+3	1563	1563	PRON	PER	my
+3	1571	1571	PRON	PER	you
+3	1578	1578	PRON	PER	you
+15	1583	1583	PROP	PER	Martyr
+3	1589	1589	PRON	PER	I
+106	1592	1595	NOM	PER	a martyr to lumbago
+3	1599	1600	PROP	PER	Mr. Pett
+3	1612	1612	PRON	PER	your
+3	1617	1617	PRON	PER	I
+3	1627	1627	PRON	PER	I
+107	1632	1632	NOM	PER	mother
+11	1642	1642	PROP	PER	Ogden
+94	1655	1655	NOM	PER	pop
+3	1671	1671	PRON	PER	your
+3	1678	1678	PRON	PER	you
+3	1686	1686	PRON	PER	you
+3	1693	1693	PRON	PER	you
+94	1701	1701	NOM	PER	pop
+3	1704	1704	PRON	PER	you
+3	1718	1719	PROP	PER	Mr. Pett
+3	1724	1724	PRON	PER	He
+74	1727	1728	NOM	PER	another man
+3	1743	1743	PRON	PER	him
+3	1747	1747	PRON	PER	he
+75	1749	1763	NOM	PER	a totally different man on Riverside Drive from the person he was in Pine Street
+0	1754	1755	PROP	FAC	Riverside Drive
+76	1757	1763	NOM	PER	the person he was in Pine Street
+3	1759	1759	PRON	PER	he
+2	1762	1763	PROP	FAC	Pine Street
+3	1767	1767	PRON	PER	he
+3	1772	1772	PRON	PER	his
+2	1775	1776	PROP	FAC	Pine Street
+77	1778	1786	NOM	PER	grown men -- whiskered , square - jawed financiers
+0	1793	1794	PROP	FAC	Riverside Drive
+78	1797	1807	NOM	PER	a fourteen - year - old boy from an easy chair
+78	1812	1812	PRON	PER	him
+78	1823	1823	PRON	PER	him
+78	1831	1831	PRON	PER	he
+78	1839	1839	PRON	PER	he
+78	1842	1842	PRON	PER	his
+78	1846	1846	PRON	PER	He
+78	1855	1855	PRON	PER	his
+78	1860	1860	PRON	PER	he
+79	1864	1865	NOM	FAC	the stairs
+78	1872	1872	PRON	PER	he
+56	1875	1876	NOM	FAC	the passage
+81	1905	1905	PRON	PER	they
+3	1911	1912	PROP	PER	Mr. Pett
+78	1922	1922	PRON	PER	he
+78	1926	1926	PRON	PER	he
+78	1937	1937	PRON	PER	He
+82	1944	1945	NOM	PER	a typewriter
+83	1949	1949	NOM	FAC	home
+84	1952	1953	NOM	FAC	the office
+85	1961	1962	NOM	PER	a girl
+86	1966	1973	NOM	FAC	The room in which Mr. Pett found himself
+3	1970	1971	PROP	PER	Mr. Pett
+3	1973	1973	PRON	PER	himself
+87	1989	1990	NOM	PER	its owner
+88	2005	2005	NOM	PER	men
+89	2026	2026	NOM	PER	whoever
+90	2070	2071	NOM	FAC	the Drive
+85	2083	2083	PRON	PER	her
+91	2094	2095	NOM	LOC	the river
+92	2098	2106	NOM	PER	the girl who had been working at the typewriter
+93	2105	2106	NOM	PER	the typewriter
+85	2108	2108	PRON	PER	She
+3	2111	2112	PROP	PER	Mr. Pett
+85	2118	2118	PRON	PER	her

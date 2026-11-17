@@ -1,0 +1,169 @@
+{
+  "threshold": 0.9,
+  "TP": 16,
+  "FP": 15,
+  "FN": 21,
+  "n_pred": 31,
+  "n_gold": 37,
+  "matched_gold": 16,
+  "precision": 0.5161290322580645,
+  "recall": 0.43243243243243246,
+  "f1": 0.47058823529411764,
+  "predictions": [
+    {
+      "string": "Iwonderwhenintheworldyouregoingtodoanything,Rudolf?saidmybrotherswife.",
+      "best_similarity": 0.843,
+      "correct": false
+    },
+    {
+      "string": "whyintheworldshouldIdoanything?Mypositionisacomfortableone.Ihaveanincomenearlysufficientformywants(noonesincomeiseverquitesufficient,youknow),Ienjoyanenviablesocialposition:IambrothertoLordBurlesdon,andbrother-in-lawtothatcharminglady,hiscountess.Behold,itisenough!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andyouvedonenothingbut—",
+      "best_similarity": 0.9362,
+      "correct": true
+    },
+    {
+      "string": "Knockabout?Itistrue.Ourfamilydoesntneedtodothings.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goodfamiliesaregenerallyworsethananyothers,shesaid.",
+      "best_similarity": 0.9149,
+      "correct": true
+    },
+    {
+      "string": "ImsogladRobertsisblack!shecried.",
+      "best_similarity": 0.8364,
+      "correct": false
+    },
+    {
+      "string": "Whatsthematter,mydear?heasked.",
+      "best_similarity": 0.8462,
+      "correct": false
+    },
+    {
+      "string": "Sheobjectstomydoingnothingandhavingredhair,saidI,inaninjuredtone.",
+      "best_similarity": 0.7963,
+      "correct": false
+    },
+    {
+      "string": "Oh!ofcoursehecanthelphishair,admittedRose.",
+      "best_similarity": 0.8169,
+      "correct": false
+    },
+    {
+      "string": "Sodoesthenose.Rudolfhasgotthemboth.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwishtheydidntcropout,saidRose,stillflushed.",
+      "best_similarity": 0.6667,
+      "correct": false
+    },
+    {
+      "string": "Iratherlikethemmyself,saidI,and,rising,IbowedtotheportraitofCountessAmelia.",
+      "best_similarity": 0.4536,
+      "correct": false
+    },
+    {
+      "string": "Iwishyoudtakethatpictureaway,Robert,saidshe.",
+      "best_similarity": 0.9,
+      "correct": true
+    },
+    {
+      "string": "Mydear!hecried.",
+      "best_similarity": 0.6364,
+      "correct": false
+    },
+    {
+      "string": "Goodheavens!Iadded.",
+      "best_similarity": 0.7742,
+      "correct": false
+    },
+    {
+      "string": "Thenitmightbeforgotten,shecontinued.",
+      "best_similarity": 0.7797,
+      "correct": false
+    },
+    {
+      "string": "Hardly—withRudolfabout,saidRobert,shakinghishead.",
+      "best_similarity": 0.6027,
+      "correct": false
+    },
+    {
+      "string": "Whyshoulditbeforgotten?Iasked.",
+      "best_similarity": 0.8679,
+      "correct": false
+    },
+    {
+      "string": "Rudolf!exclaimedmybrotherswife,blushingveryprettily.",
+      "best_similarity": 0.3529,
+      "correct": false
+    },
+    {
+      "string": "IratherlikebeinganElphbergmyself.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Peerages.",
+      "best_similarity": 0.381,
+      "correct": false
+    },
+    {
+      "string": "isthatherecognizesthedutiesofhisposition,andyouseetheopportunitiesofyours.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "opportunitiesareduties.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Now,heresSirJacobBorrodaileofferingyouexactlywhatyoumightbeequalto.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Athousandthanks!Imurmured.",
+      "best_similarity": 0.7619,
+      "correct": false
+    },
+    {
+      "string": "HestohaveanEmbassyinsixmonths,andRobertsaysheissurethathelltakeyouasanattache.Dotakeit,Rudolf—topleaseme.",
+      "best_similarity": 0.9858,
+      "correct": true
+    },
+    {
+      "string": "Mydearsister,ifinsixmonthstimenounforeseenobstaclehasarisen,andSirJacobinvitesme,hangmeifIdontgowithSirJacob!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Rudolf,howgoodofyou!Iamglad!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whereshegoingto?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hedoesntknowyet;butitssuretobeagoodEmbassy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "foryoursakeIllgo,ifitsnomorethanabeggarlyLegation.WhenIdoathing,Idontdoitbyhalves.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

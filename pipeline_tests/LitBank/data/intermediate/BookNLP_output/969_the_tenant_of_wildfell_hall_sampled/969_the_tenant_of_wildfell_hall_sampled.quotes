@@ -1,0 +1,32 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+234	302	308	308	I	0	‘ Well!—an honest and industrious farmer is one of the most useful members of society ; and if I devote my talents to the cultivation of my farm , and the improvement of agriculture in general , I shall thereby benefit , not only my own immediate connections and dependants , but , in some degree , mankind at large:—hence I shall not have lived in vain . ’
+788	796	798	799	my mother	17	‘ Well ! here they both are , ’
+817	837	798	799	my mother	17	‘ Now shut the door , and come to the fire , while Rose gets the tea ready ; I ’m
+862	862	798	799	my mother	17	’
+863	914	938	938	he	39	‘ I ’ve been breaking in the grey colt — no easy business that — directing the ploughing of the last wheat stubble — for the ploughboy has not the sense to direct himself — and carrying out a plan for the extensive and efficient draining of the low meadowlands . ’
+915	929	798	799	my mother	17	‘ That ’s my brave boy!—and Fergus , what have you been doing ? ’
+930	935	938	938	he	39	‘ Badger - baiting . ’
+991	1004	1006	1006	I	0	‘ It ’s time you should be doing something else , Fergus , ’
+1025	1031	1033	1033	he	39	‘ What can I do ? ’
+1035	1052	1033	1033	he	39	‘ my mother wo n’t let me go to sea or enter the army ; and I ’m
+1083	1083	1070	1070	you	41	’
+1125	1131	1133	1133	she	2	‘ Now take your tea , ’
+1135	1177	1133	1133	she	2	‘ and I ’ll tell you what I ’ve been doing . I ’ve been to call on the Wilsons ; and it ’s a thousand pities you did n’t go with me , Gilbert , for Eliza Millward was there ! ’
+1178	1185	1241	1242	my mother	17	‘ Well ! what of her ? ’
+1186	1223	1133	1133	she	2	‘ Oh , nothing!—I’m not going to tell you about her;—only that she ’s a nice , amusing little thing , when she is in a merry humour , and I should n’t mind calling her — ’
+1224	1239	1241	1242	my mother	17	‘ Hush , hush , my dear ! your brother has no such idea ! ’
+1250	1253	1255	1255	Rose	2	‘ Well , ’
+1257	1319	1255	1255	Rose	2	‘ I was going to tell you an important piece of news I heard there — I have been bursting with it ever since . You know it was reported a month ago , that somebody was going to take Wildfell Hall — and — what do you think ? It has actually been inhabited above a week!—and we never knew ! ’
+1320	1323	1325	1326	my mother	17	‘ Impossible ! ’
+1328	1333	1335	1335	Fergus	3	‘ Preposterous ! ! ! ’
+1337	1346	1255	1255	Rose	2	‘ It has indeed!—and by a single lady ! ’
+1347	1360	1255	1255	Rose	2	‘ Good gracious , my dear ! The place is in ruins ! ’
+1361	1388	1255	1255	Rose	2	‘ She has had two or three rooms made habitable ; and there she lives , all alone — except an old woman for a servant ! ’
+1389	1405	1407	1407	Fergus	3	‘ Oh , dear ! that spoils it — I’d hoped she was a witch , ’
+1421	1434	1407	1407	Fergus	3	‘ Nonsense , Fergus ! But is n’t it strange , mamma ? ’
+1435	1444	1255	1255	Rose	2	‘ Strange ! I can hardly believe it . ’
+1445	1640	1407	1407	Fergus	3	‘ But you may believe it ; for Jane Wilson has seen her . She went with her mother , who , of course , when she heard of a stranger being in the neighbourhood , would be on pins and needles till she had seen her and got all she could out of her . She is called Mrs. Graham , and she is in mourning — not widow ’s weeds , but slightish mourning — and she is quite young , they say,—not above five or six and twenty,—but so reserved ! They tried all they could to find out who she was and where she came from , and , all about her , but neither Mrs. Wilson , with her pertinacious and impertinent home - thrusts , nor Miss Wilson , with her skilful manoeuvring , could manage to elicit a single satisfactory answer , or even a casual remark , or chance expression calculated to allay their curiosity , or throw the faintest ray of light upon her history , circumstances , or connections . Moreover , she was barely civil to them , and evidently better pleased to say ‘
+1645	1647	1407	1407	Fergus	3	’ than ‘
+1653	1759	1650	1650	you	46	’ But Eliza Millward says her father intends to call upon her soon , to offer some pastoral advice , which he fears she needs , as , though she is known to have entered the neighbourhood early last week , she did not make her appearance at church on Sunday ; and she — Eliza , that is — will beg to accompany him , and is sure she can succeed in wheedling something out of her — you know , Gilbert , she can do anything . And we should call some time , mamma ; it ’s only proper , you know . ’
+1760	1776	1863	1863	he	3	‘ Of course , my dear . Poor thing ! How lonely she must feel ! ’
+1777	1829	1831	1831	Fergus	3	‘ And pray , be quick about it ; and mind you bring me word how much sugar she puts in her tea , and what sort of caps and aprons she wears , and all about it ; for I do n’t know how I can live till I know , ’

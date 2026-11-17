@@ -1,0 +1,74 @@
+{
+  "threshold": 0.9,
+  "TP": 0,
+  "FP": 12,
+  "FN": 4,
+  "n_pred": 12,
+  "n_gold": 4,
+  "matched_gold": 0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "predictions": [
+    {
+      "string": "experience,inexactlywhichcornerofthegardenshemightbe.",
+      "best_similarity": 0.3478,
+      "correct": false
+    },
+    {
+      "string": ",tohavebeenofferedasurpriseofearlymushroomsforsupper,tohavehadallthegloryofmakingtwodollarsandtwenty-sevencentsinasingleday,andthentorenounceitallandwithdrawfromthesepleasantsuccesses,neededmuchresolution.Literaryemploymentsaresovexedwithuncertaintiesatbest,anditwasnotuntilthevoiceofconsciencesoundedlouderinmyearsthantheseaonthenearestpebblebeachthatIsaidunkindwordsofwithdrawaltoMrs.Todd.Sheonlybecamemorewistfullyaffectionatethaneverinherexpressions,andlookedasdisappointedasIexpectedwhenIfranklytoldherthatIcouldnolongerenjoythepleasureofwhatwecalledseein",
+      "best_similarity": 0.3937,
+      "correct": false
+    },
+    {
+      "string": "yourbein",
+      "best_similarity": 0.2128,
+      "correct": false
+    },
+    {
+      "string": "experience,an",
+      "best_similarity": 0.3478,
+      "correct": false
+    },
+    {
+      "string": "sayittoanybody.",
+      "best_similarity": 0.1852,
+      "correct": false
+    },
+    {
+      "string": "doneeverythingshecouldtopartus;andfolksthoughtwebothmarriedwell,buttwantwhateitheroneofuswantedmost;an",
+      "best_similarity": 0.3558,
+      "correct": false
+    },
+    {
+      "string": "releftaloneagain,an",
+      "best_similarity": 0.4138,
+      "correct": false
+    },
+    {
+      "string": "aseafarin",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "prosperedmorethanmost;hecomeofahighfamily,an",
+      "best_similarity": 0.3614,
+      "correct": false
+    },
+    {
+      "string": "hard-workin",
+      "best_similarity": 0.24,
+      "correct": false
+    },
+    {
+      "string": "em,assureasspringcomeswiththeyear.An",
+      "best_similarity": 0.2933,
+      "correct": false
+    },
+    {
+      "string": "abouthim.",
+      "best_similarity": 0.2917,
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "threshold": 0.9,
+  "TP": 3,
+  "FP": 4,
+  "FN": 0,
+  "n_pred": 7,
+  "n_gold": 3,
+  "matched_gold": 3,
+  "precision": 0.42857142857142855,
+  "recall": 1.0,
+  "f1": 0.6,
+  "predictions": [
+    {
+      "string": "followedthesea",
+      "best_similarity": 0.3846,
+      "correct": false
+    },
+    {
+      "string": "interlopers",
+      "best_similarity": 0.2609,
+      "correct": false
+    },
+    {
+      "string": "generals",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "Andthisalso,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "hasbeenoneofthedarkplacesoftheearth.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "followedthesea.",
+      "best_similarity": 0.3704,
+      "correct": false
+    },
+    {
+      "string": "Iwasthinkingofveryoldtimes,whentheRomansfirstcamehere,nineteenhundredyearsago--theotherday....Lightcameoutofthisriversince--yousayKnights?Yes;butitislikearunningblazeonaplain,likeaflashoflightningintheclouds.Weliveintheflicker--mayitlastaslongastheoldearthkeepsrolling!Butdarknesswashereyesterday.Imaginethefeelingsofacommanderofafine--whatdyecallem?--triremeintheMediterranean,orderedsuddenlytothenorth;runoverlandacrosstheGaulsinahurry;putinchargeofoneofthesecraftthelegionaries--awonderfullotofhandymentheymusthavebeen,too--usedtobuild,apparentlybythehundred,inamonthortwo,ifwemaybelievewhatweread.Imaginehimhere--theveryendoftheworld,aseathecolouroflead,askythecolourofsmoke,akindofshipaboutasrigidasaconcertina--andgoingupthisriverwithstores,ororders,orwhatyoulike.Sand-banks,marshes,forests,savages,--preciouslittletoeatfitforacivilizedman,nothingbutThameswatertodrink.NoFalernianwinehere,nogoingashore.Hereandthereamilitarycamplostinawilderness,likeaneedleinabundleofhay--cold,fog,tempests,disease,exile,anddeath--deathskulkingintheair,inthewater,inthebush.Theymusthavebeendyinglikeflieshere.Oh,yes--hedidit.Diditverywell,too,nodoubt,andwithoutthinkingmuchaboutiteither,exceptafterwardstobragofwhathehadgonethroughinhistime,perhaps.Theyweremenenoughtofacethedarkness.AndperhapshewascheeredbykeepinghiseyeonachanceofpromotiontothefleetatRavennabyandby,ifhehadgoodfriendsinRomeandsurvivedtheawfulclimate.Orthinkofadecentyoungcitizeninatoga--perhapstoomuchdice,youknow--comingouthereinthetrainofsomeprefect,ortax-gatherer,ortradereven,tomendhisfortunes.Landinaswamp,marchthroughthewoods,andinsomeinlandpostfeelthesavagery,theuttersavagery,hadclosedroundhim--allthatmysteriouslifeofthewildernessthatstirsintheforest,inthejungles,intheheartsofwildmen.Theresnoinitiationeitherintosuchmysteries.Hehastoliveinthemidstoftheincomprehensible,whichisalsodetestable.Andithasafascination,too,thatgoestoworkuponhim.Thefascinationoftheabomination--youknow,imaginethegrowingregrets,thelongingtoescape,thepowerlessdisgust,thesurrender,thehate.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

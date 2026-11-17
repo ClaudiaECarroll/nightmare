@@ -1,0 +1,109 @@
+{
+  "threshold": 0.9,
+  "TP": 14,
+  "FP": 5,
+  "FN": 2,
+  "n_pred": 19,
+  "n_gold": 16,
+  "matched_gold": 14,
+  "precision": 0.7368421052631579,
+  "recall": 0.875,
+  "f1": 0.7999999999999999,
+  "predictions": [
+    {
+      "string": "Sheregrettedtobeunderthenecessityofkeepingmeatadistance;butthatuntilsheheardfromBessie,andcoulddiscoverbyherownobservation,thatIwasendeavouringingoodearnesttoacquireamoresociableandchildlikedisposition,amoreattractiveandsprightlymanner—somethinglighter,franker,morenatural,asitwere—shereallymustexcludemefromprivilegesintendedonlyforcontented,happy,littlechildren.",
+      "best_similarity": 0.1818,
+      "correct": false
+    },
+    {
+      "string": "WhatdoesBessiesayIhavedone?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Jane,Idontlikecavillersorquestioners;besides,thereissomethingtrulyforbiddinginachildtakinguphereldersinthatmanner.Beseatedsomewhere;anduntilyoucanspeakpleasantly,remainsilent.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WheretheNorthernOcean,invastwhirls,Boilsroundthenaked,melancholyislesOffarthestThule;andtheAtlanticsurgePoursinamongthestormyHebrides.",
+      "best_similarity": 0.2526,
+      "correct": false
+    },
+    {
+      "string": "Boh!MadamMope!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wherethedickensisshe!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lizzy!Georgy!(callingtohissisters)Joanisnothere:tellmamasheisrunoutintotherain—badanimal!",
+      "best_similarity": 0.7448,
+      "correct": false
+    },
+    {
+      "string": "ItiswellIdrewthecurtain,",
+      "best_similarity": 0.5263,
+      "correct": false
+    },
+    {
+      "string": "Sheisinthewindow-seat,tobesure,Jack.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatdoyouwant?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Say,Whatdoyouwant,MasterReed?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwantyoutocomehere;",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "onaccountofhisdelicatehealth.",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "Thatisforyourimpudenceinansweringmamaawhilesince,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andforyoursneakingwayofgettingbehindcurtains,andforthelookyouhadinyoureyestwominutessince,yourat!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatwereyoudoingbehindthecurtain?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwasreading.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Showthebook.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhavenobusinesstotakeourbooks;youareadependent,mamasays;youhavenomoney;yourfatherleftyounone;yououghttobeg,andnottoliveherewithgentlemenschildrenlikeus,andeatthesamemealswedo,andwearclothesatourmamasexpense.Now,Illteachyoutorummagemybookshelves:fortheyaremine;allthehousebelongstome,orwilldoinafewyears.Goandstandbythedoor,outofthewayofthemirrorandthewindows.",
+      "best_similarity": 0.9972,
+      "correct": true
+    }
+  ]
+}

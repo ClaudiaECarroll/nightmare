@@ -1,0 +1,99 @@
+{
+  "threshold": 0.9,
+  "TP": 8,
+  "FP": 9,
+  "FN": 13,
+  "n_pred": 17,
+  "n_gold": 21,
+  "matched_gold": 8,
+  "precision": 0.47058823529411764,
+  "recall": 0.38095238095238093,
+  "f1": 0.42105263157894735,
+  "predictions": [
+    {
+      "string": "FrankontheMississippi,Amorywasbitingacquiescentbell-boysintheWaldorf,outgrowinganaturalrepugnancetochambermusicandsymphonies,andderivingahighlyspecializededucationfromhismother.",
+      "best_similarity": 0.2675,
+      "correct": false
+    },
+    {
+      "string": "Amory.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,Beatrice.(Suchaquaintnameforhismother;sheencouragedit.)",
+      "best_similarity": 0.3611,
+      "correct": false
+    },
+    {
+      "string": "Dear,dontthinkofgettingoutofbedyet.Ivealwayssuspectedthatearlyrisinginearlylifemakesonenervous.Clothildeishavingyourbreakfastbroughtup.",
+      "best_similarity": 0.9926,
+      "correct": true
+    },
+    {
+      "string": "Allright.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mynervesareonedge—onedge.Wemustleavethisterrifyingplaceto-morrowandgosearchingforsunshine.",
+      "best_similarity": 0.9834,
+      "correct": true
+    },
+    {
+      "string": "Amory.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,yes.",
+      "best_similarity": 0.875,
+      "correct": false
+    },
+    {
+      "string": "Iwantyoutotakeared-hotbathashotasyoucanbearit,andjustrelaxyournerves.Youcanreadinthetubifyouwish.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "line.",
+      "best_similarity": 0.4286,
+      "correct": false
+    },
+    {
+      "string": "isentirelysophisticatedandquitecharming—butdelicate—werealldelicate;here,youknow.Herhandwasradiantlyoutlinedagainstherbeautifulbosom;thensinkinghervoicetoawhisper,shetoldthemoftheapricotcordial.Theyrejoiced,forshewasabraveraconteuse,butmanywerethekeysturnedinsideboardlocksthatnightagainstthepossibledefectionoflittleBobbyorBarbara....",
+      "best_similarity": 0.3762,
+      "correct": false
+    },
+    {
+      "string": "Theypickupold,moth-eatenLondonaccentsthataredownontheirluckandhavetobeusedbysomeone.TheytalkasanEnglishbutlermightafterseveralyearsinaChicagogrand-operacompany.Shebecamealmostincoherent—Suppose—timeineveryWesternwomanslife—shefeelsherhusbandisprosperousenoughforhertohave—accent—theytrytoimpressme,mydear—",
+      "best_similarity": 0.6882,
+      "correct": false
+    },
+    {
+      "string": "Idonotwanttotalkofmyself.Icanimaginethestreamofhystericalwomenflutteringatyourdoors,beseechingyoutobesimpatico—thenafteraninterludefilledbytheclergyman—butmymood—is—oddlydissimilar.",
+      "best_similarity": 0.756,
+      "correct": false
+    },
+    {
+      "string": "Indeed,Mrs.Blaine,heisstilldelightfulcompany—quitethecardinalsright-handman.",
+      "best_similarity": 0.9804,
+      "correct": true
+    },
+    {
+      "string": "andMonsignorDarcywillunderstandhimasheunderstoodme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "takinguptheworkwhereheleftoff,yetasnotutoreverfoundtheplaceheleftoff,hismindwasstillinverygoodshape.Whatafewmoreyearsofthislifewouldhavemadeofhimisproblematical.However,fourhoursoutfromland,Italybound,withBeatrice,hisappendixburst,probablyfromtoomanymealsinbed,andafteraseriesoffrantictelegramstoEuropeandAmerica,totheamazementofthepassengersthegreatshipslowlywheeledaroundandreturnedtoNewYorktodepositAmoryatthepier.Youwilladmitthatifitwasnotlifeitwasmagnificent.",
+      "best_similarity": 0.2564,
+      "correct": false
+    },
+    {
+      "string": "onThursday,Decembertheseventeenth,atfiveoclock,andIwouldlikeitverymuchifyoucouldcome.",
+      "best_similarity": 0.3293,
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+COREF	start_token	end_token	prop	cat	text
+0	3	3	PRON	PER	I
+16	4	4	NOM	FAC	home
+17	38	43	NOM	LOC	the pleasant banks of the Garonne
+1	42	43	PROP	LOC	the Garonne
+8	46	49	PROP	GPE	the province of Gascony
+18	58	63	NOM	FAC	the chateau of Monsieur St. Aubert
+12	61	63	PROP	GPE	Monsieur St. Aubert
+16	66	66	PRON	FAC	its
+4	74	74	PROP	GPE	Guienne
+8	76	76	PROP	PER	Gascony
+19	79	92	NOM	LOC	the river , gay with luxuriant woods and vine , and plantations of olives
+19	158	158	PRON	PER	their
+19	178	178	PRON	PER	their
+20	189	190	NOM	FAC	simple cottages
+21	215	220	NOM	LOC	the plains of Guienne and Languedoc
+4	218	218	PROP	PER	Guienne
+10	220	220	PROP	PER	Languedoc
+8	233	233	PROP	PER	Gascony
+22	237	240	NOM	LOC	the waters of Biscay
+5	240	240	PROP	GPE	Biscay
+11	242	244	PROP	PER	M. St. Aubert
+11	250	250	PRON	PER	his
+23	250	251	NOM	PER	his wife
+24	253	253	NOM	PER	daughter
+25	256	260	NOM	LOC	the margin of the Garonne
+1	259	260	PROP	LOC	the Garonne
+11	274	274	PRON	PER	He
+26	298	299	NOM	LOC	the world
+27	306	306	NOM	PER	mankind
+11	309	309	PRON	PER	his
+11	317	317	PRON	PER	his
+11	333	333	PRON	PER	his
+11	338	338	PRON	PER	his
+11	343	343	PRON	PER	he
+28	346	347	NOM	PER	the multitude
+11	378	378	PRON	PER	He
+29	380	389	NOM	PER	a descendant from the younger branch of an illustrious family
+30	383	389	NOM	ORG	the younger branch of an illustrious family
+31	387	389	NOM	PER	an illustrious family
+11	400	400	PRON	PER	his
+11	425	426	PROP	PER	St. Aubert
+11	450	450	PRON	PER	he
+11	464	464	PRON	PER	his
+32	464	465	NOM	PER	his father
+11	466	466	PRON	PER	he
+33	468	471	NOM	PER	a very amiable woman
+11	473	473	PRON	PER	his
+34	473	474	NOM	PER	his equal
+11	480	480	PRON	PER	his
+12	487	489	PROP	PER	Monsieur St. Aubert
+12	500	500	PRON	PER	his
+12	504	504	PRON	PER	his
+35	504	505	NOM	PER	his son
+12	524	524	PRON	PER	his
+12	527	527	PRON	PER	he
+13	531	532	PROP	PER	Monsieur Quesnel
+36	534	538	NOM	PER	the brother of his wife
+13	537	537	PRON	PER	his
+23	537	538	NOM	PER	his wife
+38	543	547	NOM	FAC	a small estate in Gascony
+8	547	547	PROP	GPE	Gascony
+11	558	558	PRON	PER	his
+11	574	574	PRON	PER	he
+11	579	579	PRON	PER	his
+11	582	582	PRON	PER	He
+39	590	591	NOM	PER	a boy
+11	600	600	PRON	PER	his
+40	607	625	NOM	PER	the grey - headed peasant , to whom it was intrusted , and whose fruit and cream never failed
+11	640	640	PRON	PER	he
+11	662	662	PRON	PER	he
+11	677	677	PRON	PER	his
+41	684	685	NOM	LOC	the mountains
+42	687	688	NOM	LOC	the river
+11	693	693	PRON	PER	he
+43	698	700	NOM	LOC	the distant plains
+11	706	706	PRON	PER	his
+12	715	716	PROP	PER	St. Aubert
+11	725	725	PRON	PER	he
+11	727	727	PRON	PER	himself
+26	729	730	NOM	LOC	the world
+45	744	745	NOM	FAC	The building
+45	748	748	PRON	FAC	it
+46	754	756	NOM	FAC	a summer cottage
+47	761	762	NOM	PER	a stranger
+45	783	783	PRON	PER	it
+48	784	787	NOM	FAC	a comfortable family residence
+12	789	790	PROP	PER	St. Aubert
+12	804	804	PRON	PER	he
+12	807	807	PRON	PER	his
+49	824	826	NOM	FAC	the new building
+50	841	845	NOM	FAC	a simple and elegant residence
+14	850	852	PROP	PER	Madame St. Aubert
+14	856	856	PRON	FAC	its
+51	877	878	NOM	FAC	the apartments
+14	885	885	PRON	PER	its
+52	885	886	NOM	PER	its inhabitants
+53	888	889	NOM	FAC	The library
+54	895	896	NOM	FAC	the chateau
+55	915	916	NOM	FAC	This room
+42	935	936	NOM	LOC	the river
+57	983	984	NOM	LOC	the Pyrenees
+53	987	988	NOM	FAC	the library
+59	990	1000	NOM	FAC	a green - house , stored with scarce and beautiful plants
+60	995	1000	NOM	FAC	stored with scarce and beautiful plants
+14	1008	1009	PROP	PER	St. Aubert
+61	1031	1032	NOM	PER	the naturalist
+61	1034	1034	PRON	PER	he
+61	1043	1043	PRON	PER	his
+61	1047	1047	PRON	PER	He
+14	1056	1058	PROP	PER	Madame St. Aubert
+61	1063	1063	PRON	PER	his
+62	1063	1064	NOM	PER	his daughter
+63	1086	1090	NOM	FAC	the cabin of the shepherd
+64	1089	1090	NOM	PER	the shepherd
+64	1095	1095	PRON	PER	they
+65	1111	1114	NOM	PER	Nature 's lowly children
+65	1117	1117	PRON	PER	them
+62	1122	1122	PRON	PER	her
+66	1131	1135	NOM	LOC	cliffs that seemed scarcely accessible
+67	1141	1142	NOM	PER	the enthusiast
+65	1163	1163	PRON	PER	they
+68	1179	1180	NOM	LOC	these mountains
+65	1195	1195	PRON	PER	they
+65	1197	1197	PRON	PER	their
+69	1207	1209	NOM	LOC	the cool stream
+70	1214	1215	NOM	LOC	the turf
+71	1243	1246	NOM	FAC	the green - house
+72	1250	1253	NOM	LOC	the plains of Languedoc
+10	1253	1253	PROP	GPE	Languedoc
+73	1256	1257	NOM	FAC	a room
+15	1260	1260	PROP	PER	Emily
+15	1262	1262	PRON	PER	hers
+15	1267	1267	PRON	PER	her
+15	1270	1270	PRON	PER	her
+15	1273	1273	PRON	PER	her
+15	1285	1285	PRON	PER	she
+15	1288	1288	PRON	PER	herself
+15	1300	1300	PRON	PER	her
+74	1306	1307	NOM	PER	native genius
+75	1314	1314	PROP	PER	Monsieur
+14	1316	1318	PROP	PER	Madame St. Aubert
+15	1321	1321	PRON	PER	her
+55	1329	1330	NOM	FAC	this room
+65	1335	1335	PRON	PER	they
+77	1345	1351	NOM	FAC	the little lawn that surrounded the house
+78	1350	1351	NOM	FAC	the house
+1	1379	1380	PROP	PER	the Garonne
+79	1383	1388	NOM	PER	The peasants of this gay climate
+80	1408	1412	NOM	LOC	the margin of the river
+42	1411	1412	NOM	LOC	the river
+79	1414	1414	PRON	PER	Their
+79	1425	1425	PRON	PER	their
+82	1436	1437	NOM	PER	the girls
+82	1439	1439	PRON	PER	their
+54	1455	1456	NOM	FAC	the chateau
+41	1470	1471	NOM	LOC	the mountains
+85	1480	1482	NOM	FAC	a rustic hall
+86	1485	1488	NOM	FAC	two excellent sitting rooms
+87	1495	1496	NOM	FAC	the cottage
+88	1506	1508	NOM	FAC	bed - chambers
+89	1511	1512	NOM	FAC	one apartment
+90	1525	1528	NOM	FAC	a breakfast - room
+14	1535	1536	PROP	PER	St. Aubert
+79	1547	1547	PRON	PER	his
+79	1551	1551	PRON	PER	he
+79	1555	1555	PRON	PER	his
+79	1560	1560	PRON	PER	he
+45	1577	1578	NOM	FAC	the building
+14	1585	1586	PROP	PER	St. Aubert
+79	1591	1591	PRON	PER	he
+79	1593	1593	PRON	PER	he
+82	1603	1603	PRON	PER	their
+79	1611	1611	PRON	PER	he
+92	1633	1638	NOM	LOC	the swelling bank of the river
+42	1637	1638	NOM	LOC	the river
+42	1695	1696	NOM	LOC	the river
+14	1698	1699	PROP	PER	St. Aubert
+79	1711	1711	PRON	PER	his
+23	1711	1712	NOM	PER	his wife
+96	1714	1714	NOM	PER	children
+79	1758	1758	PRON	PER	he
+14	1767	1769	PROP	PER	Madame St. Aubert
+79	1775	1775	PRON	PER	his
+97	1775	1776	NOM	PER	his children
+79	1779	1779	PRON	PER	himself
+98	1791	1795	NOM	PER	attendant on simplicity and nature
+79	1797	1797	PRON	PER	He
+79	1808	1808	PRON	PER	his
+26	1831	1832	NOM	LOC	the world
+79	1834	1834	PRON	PER	His
+79	1868	1868	PRON	PER	his
+100	1877	1881	NOM	PER	a man of moral perceptions
+79	1883	1883	PRON	PER	his
+79	1888	1888	PRON	PER	his
+79	1903	1903	PRON	PER	him
+79	1905	1905	PRON	PER	his
+79	1911	1911	PRON	PER	He
+101	1946	1947	NOM	LOC	the waters
+23	1977	1977	PRON	PER	her
+79	1984	1984	PRON	PER	he
+79	1989	1989	PRON	PER	his

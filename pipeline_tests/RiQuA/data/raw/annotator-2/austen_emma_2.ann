@@ -1,0 +1,1005 @@
+T1	Quotation 6197 6468	"I suppose you have heard of the handsome letter Mr. Frank Churchill has written to Mrs. Weston? I understand it was a very handsome letter, indeed.  Mr. Woodhouse told me of it.  Mr. Woodhouse saw the letter, and he says he never saw such a handsome letter in his life."
+T2	Cue 6134 6146	some mention
+R1	Cueing Arg1:T2 Arg2:T1	
+T3	Entity 8324 8339	Mr. Woodhouse's
+T4	Quotation 8374 8429	"Ah, poor Miss Taylor! She would be very glad to stay."
+R2	Speaker Arg1:T3 Arg2:T4	
+T6	Quotation 19383 20037	"Mrs. Bates, let me propose your venturing on one of these eggs.  An egg boiled very soft is not unwholesome.  Serle understands boiling an egg better than any body.  I would not recommend an egg boiled by any body else; but you need not be afraid, they are very small, you see-- one of our small eggs will not hurt you.  Miss Bates, let Emma help you to a little bit of tart -- a very little bit.  Ours are all apple-tarts. You need not be afraid of unwholesome preserves here.  I do not advise the custard.  Mrs. Goddard, what say you to half a glass of wine? A small half-glass, put into a tumbler of water? I do not think it could disagree with you."
+T7	Entity 19286 19288	he
+T8	Entity 19320 19330	the ladies
+R3	Speaker Arg1:T7 Arg2:T6	
+R4	Addressee Arg1:T8 Arg2:T6	
+T9	Cue 19375 19381	to say
+R5	Cueing Arg1:T9 Arg2:T6	
+T10	Quotation 23632 24210	"two parlours, two very good parlours, indeed; one of them quite as large as Mrs. Goddard's drawing-room; and of her having an upper maid who had lived five-and-twenty years with her; and of their having eight cows, two of them Alderneys, and one a little Welch cow, a very pretty little Welch cow indeed; and of Mrs. Martin's saying as she was so fond of it, it should be called her cow; and of their having a very handsome summer-house in their garden, where some day next year they were all to drink tea: -- a very handsome summer-house, large enough to hold a dozen people."
+T11	Entity 23458 23461	her
+T12	Entity 23442 23446	Emma
+T13	Cue 23578 23631	speak with so much exultation of Mrs. Martin's having
+R6	Cueing Arg1:T13 Arg2:T10	
+R7	Speaker Arg1:T11 Arg2:T10	
+R8	Addressee Arg1:T12 Arg2:T10	
+T14	Entity 25081 25088	Harriet
+T15	Cue 25104 25112	to speak
+T16	Quotation 25113 25259	of the share he had had in their moonlight walks and merry evening games; and dwelt a good deal upon his being so very good-humoured and obliging.
+T17	Entity 24981 24984	she
+R9	Speaker Arg1:T14 Arg2:T16	
+R10	Cueing Arg1:T15 Arg2:T16	
+R11	Addressee Arg1:T17 Arg2:T16	
+T18	Entity 25850 25861	Mrs. Martin
+T19	Cue 25866 25870	told
+T20	Entity 25871 25874	her
+T21	Quotation 25923 26057	that it was impossible for any body to be a better son, and therefore she was sure, whenever he married, he would make a good husband.
+R12	Cueing Arg1:T19 Arg2:T21	
+R13	Speaker Arg1:T18 Arg2:T21	
+R14	Addressee Arg1:T20 Arg2:T21	
+T22	Quotation 26194 26483	"And when she had come away, Mrs. Martin was so very kind as to send Mrs. Goddard a beautiful goose-- the finest goose Mrs. Goddard had ever seen.  Mrs. Goddard had dressed it on a Sunday, and asked all the three teachers, Miss Nash, and Miss Prince, and Miss Richardson, to sup with her."
+T23	Entity 26156 26160	Emma
+T24	Entity 26094 26097	She
+R15	Addressee Arg1:T23 Arg2:T22	
+R16	Speaker Arg1:T24 Arg2:T22	
+T25	Quotation 26484 26591	"Mr. Martin, I suppose, is not a man of information beyond the line of his own business? He does not read?"
+R17	Addressee Arg1:T24 Arg2:T25	
+R18	Speaker Arg1:T23 Arg2:T25	
+T26	Quotation 26592 27220	"Oh yes!-- that is, no -- I do not know-- but I believe he has read a good deal-- but not what you would think any thing of.  He reads the Agricultural Reports, and some other books that lay in one of the window seats-- but he reads all them to himself.  But sometimes of an evening, before we went to cards, he would read something aloud out of the Elegant Extracts, very entertaining.  And I know he has read the Vicar of Wakefield.  He never read the Romance of the Forest, nor The Children of the Abbey.  He had never heard of such books before I mentioned them, but he is determined to get them now as soon as ever he can."
+R19	Addressee Arg1:T23 Arg2:T26	
+R20	Speaker Arg1:T24 Arg2:T26	
+T27	Quotation 27245 27286	"What sort of looking man is Mr. Martin?"
+R21	Speaker Arg1:T23 Arg2:T27	
+R22	Addressee Arg1:T24 Arg2:T27	
+T28	Quotation 27287 27603	"Oh! not handsome-- not at all handsome.  I thought him very plain at first, but I do not think him so plain now.  One does not, you know, after a time.  But did you never see him? He is in Highbury every now and then, and he is sure to ride through every week in his way to Kingston.  He has passed you very often."
+R23	Addressee Arg1:T23 Arg2:T28	
+R24	Speaker Arg1:T24 Arg2:T28	
+T29	Quotation 27604 28160	"That may be, and I may have seen him fifty times, but without having any idea of his name.  A young farmer, whether on horseback or on foot, is the very last sort of person to raise my curiosity.  The yeomanry are precisely the order of people with whom I feel I can have nothing to do.  A degree or two lower, and a creditable appearance might interest me; I might hope to be useful to their families in some way or other.  But a farmer can need none of my help, and is, therefore, in one sense, as much above my notice as in every other he is below it."
+R25	Speaker Arg1:T23 Arg2:T29	
+R26	Addressee Arg1:T24 Arg2:T29	
+T30	Quotation 28161 28289	"To be sure.  Oh yes! It is not likely you should ever have observed him; but he knows you very well indeed -- I mean by sight."
+R27	Addressee Arg1:T23 Arg2:T30	
+R28	Speaker Arg1:T24 Arg2:T30	
+T31	Quotation 28290 28447	"I have no doubt of his being a very respectable young man.  I know, indeed, that he is so, and, as such, wish him well.  What do you imagine his age to be?"
+R29	Speaker Arg1:T23 Arg2:T31	
+R30	Addressee Arg1:T24 Arg2:T31	
+T32	Quotation 28448 28593	"He was four-and-twentyDONEDET4388th of last June, and my birthday isDONEDET44023rd just a fortnight and a day's difference-- which is very odd."
+R31	Addressee Arg1:T23 Arg2:T32	
+R32	Speaker Arg1:T24 Arg2:T32	
+T33	Quotation 28594 28963	"Only four-and-twenty. That is too young to settle.  His mother is perfectly right not to be in a hurry.  They seem very comfortable as they are, and if she were to take any pains to marry him, she would probably repent it.  Six years hence, if he could meet with a good sort of young woman in the same rank as his own, with a little money, it might be very desirable."
+R33	Speaker Arg1:T23 Arg2:T33	
+R34	Addressee Arg1:T24 Arg2:T33	
+T34	Quotation 28964 29033	"Six years hence! Dear Miss Woodhouse, he would be thirty years old!"
+R35	Speaker Arg1:T24 Arg2:T34	
+R36	Addressee Arg1:T23 Arg2:T34	
+T35	Quotation 29034 29542	"Well, and that is as early as most men can afford to marry, who are not born to an independence.  Mr. Martin, I imagine, has his fortune entirely to make-- cannot be at all beforehand with the world.  Whatever money he might come into when his father died, whatever his share of the family property, it is, I dare say, all afloat, all employed in his stock, and so forth; and though, with diligence and good luck, he may be rich in time, it is next to impossible that he should have realised any thing yet."
+R37	Addressee Arg1:T24 Arg2:T35	
+R38	Speaker Arg1:T23 Arg2:T35	
+T36	Quotation 29543 29715	"To be sure, so it is.  But they live very comfortably.  They have no indoors man, else they do not want for any thing; and Mrs. Martin talks of taking a boy another year."
+R39	Speaker Arg1:T24 Arg2:T36	
+R40	Addressee Arg1:T23 Arg2:T36	
+T37	Quotation 29716 30320	"I wish you may not get into a scrape, Harriet, whenever he does marry; -- I mean, as to being acquainted with his wife-- for though his sisters, from a superior education, are not to be altogether objected to, it does not follow that he might marry any body at all fit for you to notice.  The misfortune of your birth ought to make you particularly careful as to your associates.  There can be no doubt of your being a gentleman's daughter, and you must support your claim to that station by every thing within your own power, or there will be plenty of people who would take pleasure in degrading you."
+R41	Speaker Arg1:T23 Arg2:T37	
+R42	Addressee Arg1:T24 Arg2:T37	
+T38	Quotation 30321 30477	"Yes, to be sure, I suppose there are.  But while I visit at Hartfield, and you are so kind to me, Miss Woodhouse, I am not afraid of what any body can do."
+R43	Speaker Arg1:T24 Arg2:T38	
+R44	Addressee Arg1:T23 Arg2:T38	
+T39	Quotation 30478 31043	"You understand the force of influence pretty well, Harriet; but I would have you so firmly established in good society, as to be independent even of Hartfield and Miss Woodhouse.  I want to see you permanently well connected, and to that end it will be advisable to have as few odd acquaintance as may be; and, therefore, I say that if you should still be in this country when Mr. Martin marries, I wish you may not be drawn in by your intimacy with the sisters, to be acquainted with the wife, who will probably be some mere farmer's daughter, without education."
+R45	Speaker Arg1:T23 Arg2:T39	
+R46	Addressee Arg1:T24 Arg2:T39	
+T40	Quotation 31044 31579	"To be sure.  Yes.  Not that I think Mr. Martin would ever marry any body but what had had some education-- and been very well brought up. However, I do not mean to set up my opinion against yours-- and I am sure I shall not wish for the acquaintance of his wife.  I shall always have a great regard for the Miss Martins, especially Elizabeth, and should be very sorry to give them up, for they are quite as well educated as me.  But if he marries a very ignorant, vulgar woman, certainly I had better not visit her, if I can help it."
+R47	Speaker Arg1:T24 Arg2:T40	
+R48	Addressee Arg1:T23 Arg2:T40	
+T41	Quotation 32912 33447	"Only think of our happening to meet him!-- How very odd! It was quite a chance, he said, that he had not gone round by Randalls.  He did not think we ever walked this road.  He thought we walked towards Randalls most days.  He has not been able to get the Romance of the Forest yet. He was so busy the last time he was at Kingston that he quite forgot it, but he goes again to-morrow.  So very odd we should happen to meet! Well, Miss Woodhouse, is he like what you expected? What do you think of him? Do you think him so very plain?"
+T42	Entity 32869 32883	Miss Woodhouse
+T43	Entity 32780 32787	Harriet
+R49	Addressee Arg1:T42 Arg2:T41	
+R50	Speaker Arg1:T43 Arg2:T41	
+T44	Entity 32993 32995	he
+T45	Cue 32996 33000	said
+T46	Quotation 33002 33297	that he had not gone round by Randalls.  He did not think we ever walked this road.  He thought we walked towards Randalls most days.  He has not been able to get the Romance of the Forest yet. He was so busy the last time he was at Kingston that he quite forgot it, but he goes again to-morrow.
+R51	Speaker Arg1:T44 Arg2:T46	
+R52	Cueing Arg1:T45 Arg2:T46	
+T47	Quotation 33448 33767	"He is very plain, undoubtedly-- remarkably plain:-- but that is nothing compared with his entire want of gentility.  I had no right to expect much, and I did not expect much; but I had no idea that he could be so very clownish, so totally without air.  I had imagined him, I confess, a degree or two nearer gentility."
+R53	Addressee Arg1:T43 Arg2:T47	
+R54	Speaker Arg1:T42 Arg2:T47	
+T48	Quotation 33768 33781	"To be sure,"
+T49	Cue 33782 33786	said
+T50	Entity 33787 33794	Harriet
+T51	Quotation 33818 33859	"he is not so genteel as real gentlemen."
+R55	Cueing Arg1:T49 Arg2:T48	
+R56	Cueing Arg1:T49 Arg2:T51	
+R57	Speaker Arg1:T50 Arg2:T48	
+R58	Speaker Arg1:T50 Arg2:T51	
+R59	Addressee Arg1:T42 Arg2:T48	
+R60	Addressee Arg1:T42 Arg2:T51	
+T52	Quotation 33860 34588	"I think, Harriet, since your acquaintance with us, you have been repeatedly in the company of some such very real gentlemen, that you must yourself be struck with the difference in Mr. Martin.  At Hartfield, you have had very good specimens of well educated, well bred men.  I should be surprized if, after seeing them, you could be in company with Mr. Martin again without perceiving him to be a very inferior creature-- and rather wondering at yourself for having ever thought him at all agreeable before.  Do not you begin to feel that now? Were not you struck? I am sure you must have been struck by his awkward look and abrupt manner, and the uncouthness of a voice which I heard to be wholly unmodulated as I stood here."
+R61	Addressee Arg1:T50 Arg2:T52	
+R62	Speaker Arg1:T42 Arg2:T52	
+T53	Quotation 34589 34774	"Certainly, he is not like Mr. Knightley.  He has not such a fine air and way of walking as Mr. Knightley.  I see the difference plain enough.  But Mr. Knightley is so very fine a man!"
+R63	Speaker Arg1:T50 Arg2:T53	
+R64	Addressee Arg1:T42 Arg2:T53	
+T54	Quotation 34775 35225	"Mr. Knightley's air is so remarkably good that it is not fair to compare Mr. Martin with him.  You might not see one in a hundred with gentleman so plainly written as in Mr. Knightley.  But he is not the only gentleman you have been lately used to.  What say you to Mr. Weston and Mr. Elton? Compare Mr. Martin with either of them. Compare their manner of carrying themselves; of walking; of speaking; of being silent.  You must see the difference."
+R65	Addressee Arg1:T50 Arg2:T54	
+R66	Speaker Arg1:T42 Arg2:T54	
+T55	Quotation 35226 35349	"Oh yes!-- there is a great difference.  But Mr. Weston is almost an old man.  Mr. Weston must be between forty and fifty."
+R67	Speaker Arg1:T50 Arg2:T55	
+R68	Addressee Arg1:T42 Arg2:T55	
+T56	Quotation 35350 35723	"Which makes his good manners the more valuable.  The older a person grows, Harriet, the more important it is that their manners should not be bad; the more glaring and disgusting any loudness, or coarseness, or awkwardness becomes.  What is passable in youth is detestable in later age.  Mr. Martin is now awkward and abrupt; what will he be at Mr. Weston's time of life?"
+R69	Speaker Arg1:T42 Arg2:T56	
+R70	Addressee Arg1:T50 Arg2:T56	
+T57	Quotation 35724 35753	"There is no saying, indeed,"
+T58	Cue 35754 35761	replied
+T59	Entity 35762 35769	Harriet
+R71	Cueing Arg1:T58 Arg2:T57	
+R72	Speaker Arg1:T59 Arg2:T57	
+R73	Addressee Arg1:T42 Arg2:T57	
+T60	Quotation 35787 35955	"But there may be pretty good guessing.  He will be a completely gross, vulgar farmer, totally inattentive to appearances, and thinking of nothing but profit and loss."
+R74	Addressee Arg1:T59 Arg2:T60	
+R75	Speaker Arg1:T42 Arg2:T60	
+T61	Quotation 35956 35997	"Will he, indeed? That will be very bad."
+R76	Speaker Arg1:T59 Arg2:T61	
+R77	Addressee Arg1:T42 Arg2:T61	
+T62	Quotation 35998 36423	"How much his business engrosses him already is very plain from the circumstance of his forgetting to inquire for the book you recommended. He was a great deal too full of the market to think of any thing else-- which is just as it should be, for a thriving man.  What has he to do with books? And I have no doubt that he will thrive, and be a very rich man in time-- and his being illiterate and coarse need not disturb us."
+R78	Addressee Arg1:T59 Arg2:T62	
+R79	Speaker Arg1:T42 Arg2:T62	
+T63	Quotation 36424 36463	"I wonder he did not remember the book"
+T64	Entity 36474 36483	Harriet's
+T65	Cue 36496 36502	spoken
+T66	Entity 36544 36548	Emma
+R80	Speaker Arg1:T64 Arg2:T63	
+R81	Cueing Arg1:T65 Arg2:T63	
+R82	Addressee Arg1:T66 Arg2:T63	
+T67	Quotation 36658 37773	"In one respect, perhaps, Mr. Elton's manners are superior to Mr. Knightley's or Mr. Weston's. They have more gentleness.  They might be more safely held up as a pattern.  There is an openness, a quickness, almost a bluntness in Mr. Weston, which every body likes in him, because there is so much good-humour with it-- but that would not do to be copied.  Neither would Mr. Knightley's downright, decided, commanding sort of manner, though it suits him very well; his figure, and look, and situation in life seem to allow it; but if any young man were to set about copying him, he would not be sufferable.  On the contrary, I think a young man might be very safely recommended to take Mr. Elton as a model.  Mr. Elton is good-humoured, cheerful, obliging, and gentle.  He seems to me to be grown particularly gentle of late.  I do not know whether he has any design of ingratiating himself with either of us, Harriet, by additional softness, but it strikes me that his manners are softer than they used to be.  If he means any thing, it must be to please you.  Did not I tell you what he said of you the other day?"
+T68	Entity 36634 36637	Her
+T69	Cue 36643 36652	beginning
+R83	Cueing Arg1:T69 Arg2:T67	
+R84	Speaker Arg1:T68 Arg2:T67	
+R85	Addressee Arg1:T64 Arg2:T67	
+T70	Entity 37774 37777	She
+T71	Cue 37783 37791	repeated
+T72	Quotation 37792 37881	some warm personal praise which she had drawn from Mr. Elton, and now did full justice to
+T73	Entity 37887 37894	Harriet
+R86	Cueing Arg1:T71 Arg2:T72	
+R87	Speaker Arg1:T70 Arg2:T72	
+R88	Addressee Arg1:T73 Arg2:T72	
+T74	Quotation 37928 37971	had always thought Mr. Elton very agreeable
+T75	Cue 37919 37923	said
+R89	Cueing Arg1:T75 Arg2:T74	
+R90	Speaker Arg1:T73 Arg2:T74	
+R91	Addressee Arg1:T70 Arg2:T74	
+T76	Quotation 39822 39876	"I do not know what your opinion may be, Mrs. Weston,"
+T77	Cue 39877 39881	said
+T78	Entity 39882 39895	Mr. Knightley
+T79	Quotation 39897 39981	"of this great intimacy between Emma and Harriet Smith, but I think it a bad thing."
+R92	Cueing Arg1:T77 Arg2:T76	
+R93	Cueing Arg1:T77 Arg2:T79	
+R94	Speaker Arg1:T78 Arg2:T76	
+R95	Speaker Arg1:T78 Arg2:T79	
+T80	Quotation 39982 40042	"A bad thing! Do you really think it a bad thing?-- why so?"
+T81	Quotation 40043 40101	"I think they will neither of them do the other any good."
+R96	Speaker Arg1:T78 Arg2:T81	
+T82	Quotation 40102 40463	"You surprize me! Emma must do Harriet good: and by supplying her with a new object of interest, Harriet may be said to do Emma good.  I have been seeing their intimacy with the greatest pleasure.  How very differently we feel!-- Not think they will do each other any good! This will certainly be the beginning of one of our quarrels about Emma, Mr. Knightley."
+T83	Quotation 40464 40598	"Perhaps you think I am come on purpose to quarrel with you, knowing Weston to be out, and that you must still fight your own battle."
+R97	Speaker Arg1:T78 Arg2:T83	
+T84	Quotation 40599 41445	"Mr. Weston would undoubtedly support me, if he were here, for he thinks exactly as I do on the subject.  We were speaking of it only yesterday, and agreeing how fortunate it was for Emma, that there should be such a girl in Highbury for her to associate with.  Mr. Knightley, I shall not allow you to be a fair judge in this case.  You are so much used to live alone, that you do not know the value of a companion; and, perhaps no man can be a good judge of the comfort a woman feels in the society of one of her own sex, after being used to it all her life.  I can imagine your objection to Harriet Smith.  She is not the superior young woman which Emma's friend ought to be.  But on the other hand, as Emma wants to see her better informed, it will be an inducement to her to read more herself.  They will read together. She means it, I know."
+T85	Quotation 41446 42347	"Emma has been meaning to read more ever since she was twelve years old.  I have seen a great many lists of her drawing-up at various times of books that she meant to read regularly through-- and very good lists they were-- very well chosen, and very neatly arranged-- sometimes alphabetically, and sometimes by some other rule.  The list she drew up when only fourteen -- I remember thinking it did her judgment so much credit, that I preserved it some time; and I dare say she may have made out a very good list now.  But I have done with expecting any course of steady reading from Emma.  She will never submit to any thing requiring industry and patience, and a subjection of the fancy to the understanding.  Where Miss Taylor failed to stimulate, I may safely affirm that Harriet Smith will do nothing.-- You never could persuade her to read half so much as you wished.-- You know you could not."
+R98	Speaker Arg1:T78 Arg2:T85	
+T86	Quotation 42348 42361	"I dare say,"
+T87	Cue 42362 42369	replied
+T88	Entity 42370 42381	Mrs. Weston
+T89	Quotation 42392 42508	"that I thought so then;-- but since we have parted, I can never remember Emma's omitting to do any thing I wished."
+R99	Cueing Arg1:T87 Arg2:T86	
+R100	Cueing Arg1:T87 Arg2:T89	
+R101	Speaker Arg1:T88 Arg2:T86	
+R102	Speaker Arg1:T88 Arg2:T89	
+R103	Addressee Arg1:T88 Arg2:T76	
+R104	Addressee Arg1:T88 Arg2:T79	
+R105	Speaker Arg1:T88 Arg2:T80	
+R106	Addressee Arg1:T88 Arg2:T81	
+R107	Speaker Arg1:T88 Arg2:T82	
+R108	Addressee Arg1:T88 Arg2:T83	
+R109	Speaker Arg1:T88 Arg2:T84	
+R110	Addressee Arg1:T88 Arg2:T85	
+R111	Addressee Arg1:T78 Arg2:T80	
+R112	Addressee Arg1:T78 Arg2:T82	
+R113	Addressee Arg1:T78 Arg2:T84	
+T90	Quotation 42509 42573	"There is hardly any desiring to refresh such a memory as that,"
+T91	Cue 42576 42580	said
+T92	Entity 42581 42594	Mr. Knightley
+R114	Cueing Arg1:T91 Arg2:T90	
+R115	Addressee Arg1:T92 Arg2:T86	
+R116	Addressee Arg1:T92 Arg2:T89	
+R117	Speaker Arg1:T92 Arg2:T90	
+R118	Addressee Arg1:T88 Arg2:T90	
+T93	Quotation 42645 42653	"But I,"
+T94	Entity 42654 42656	he
+T95	Cue 42662 42667	added
+T96	Quotation 42669 43217	"who have had no such charm thrown over my senses, must still see, hear, and remember.  Emma is spoiled by being the cleverest of her family.  At ten years old, she had the misfortune of being able to answer questions which puzzled her sister at seventeen.  She was always quick and assured: Isabella slow and diffident.  And ever since she was twelve, Emma has been mistress of the house and of you all.  In her mother she lost the only person able to cope with her.  She inherits her mother's talents, and must have been under subjection to her."
+R119	Speaker Arg1:T94 Arg2:T93	
+R120	Speaker Arg1:T94 Arg2:T96	
+R121	Cueing Arg1:T95 Arg2:T93	
+R122	Cueing Arg1:T95 Arg2:T96	
+R123	Addressee Arg1:T88 Arg2:T93	
+R124	Addressee Arg1:T88 Arg2:T96	
+T97	Quotation 43218 43498	"I should have been sorry, Mr. Knightley, to be dependent on your recommendation, had I quitted Mr. Woodhouse's family and wanted another situation; I do not think you would have spoken a good word for me to any body.  I am sure you always thought me unfit for the office I held."
+R125	Addressee Arg1:T94 Arg2:T97	
+R126	Speaker Arg1:T88 Arg2:T97	
+T98	Quotation 43499 43505	"Yes,"
+T99	Cue 43506 43510	said
+T100	Entity 43511 43513	he
+T101	Quotation 43525 44034	"You are better placed here; very fit for a wife, but not at all for a governess.  But you were preparing yourself to be an excellent wife all the time you were at Hartfield.  You might not give Emma such a complete education as your powers would seem to promise; but you were receiving a very good education from her, on the very material matrimonial point of submitting your own will, and doing as you were bid; and if Weston had asked me to recommend him a wife, I should certainly have named Miss Taylor."
+R127	Cueing Arg1:T99 Arg2:T98	
+R128	Cueing Arg1:T99 Arg2:T101	
+R129	Speaker Arg1:T100 Arg2:T98	
+R130	Speaker Arg1:T100 Arg2:T101	
+R131	Addressee Arg1:T88 Arg2:T98	
+R132	Addressee Arg1:T88 Arg2:T101	
+T102	Quotation 44035 44131	"Thank you.  There will be very little merit in making a good wife to such a man as Mr. Weston."
+R133	Addressee Arg1:T100 Arg2:T102	
+R134	Speaker Arg1:T88 Arg2:T102	
+T103	Quotation 44132 44384	"Why, to own the truth, I am afraid you are rather thrown away, and that with every disposition to bear, there will be nothing to be borne. We will not despair, however.  Weston may grow cross from the wantonness of comfort, or his son may plague him."
+R135	Speaker Arg1:T100 Arg2:T103	
+R136	Addressee Arg1:T88 Arg2:T103	
+T104	Quotation 44385 44487	"I hope not that.-- It is not likely.  No, Mr. Knightley, do not foretell vexation from that quarter."
+R137	Addressee Arg1:T100 Arg2:T104	
+R138	Speaker Arg1:T88 Arg2:T104	
+T105	Quotation 44488 45631	"Not I, indeed.  I only name possibilities.  I do not pretend to Emma's genius for foretelling and guessing.  I hope, with all my heart, the young man may be a Weston in merit, and a Churchill in fortune.-- But Harriet Smith -- I have not half done about Harriet Smith.  I think her the very worst sort of companion that Emma could possibly have.  She knows nothing herself, and looks upon Emma as knowing every thing.  She is a flatterer in all her ways; and so much the worse, because undesigned.  Her ignorance is hourly flattery.  How can Emma imagine she has any thing to learn herself, while Harriet is presenting such a delightful inferiority? And as for Harriet, I will venture to say that she cannot gain by the acquaintance.  Hartfield will only put her out of conceit with all the other places she belongs to.  She will grow just refined enough to be uncomfortable with those among whom birth and circumstances have placed her home.  I am much mistaken if Emma's doctrines give any strength of mind, or tend at all to make a girl adapt herself rationally to the varieties of her situation in life.-- They only give a little polish."
+R139	Speaker Arg1:T100 Arg2:T105	
+R140	Addressee Arg1:T88 Arg2:T105	
+T106	Quotation 45632 45804	"I either depend more upon Emma's good sense than you do, or am more anxious for her present comfort; for I cannot lament the acquaintance. How well she looked last night!"
+R141	Addressee Arg1:T100 Arg2:T106	
+R142	Speaker Arg1:T88 Arg2:T106	
+T107	Quotation 45805 45932	"Oh! you would rather talk of her person than her mind, would you? Very well; I shall not attempt to deny Emma's being pretty."
+R143	Speaker Arg1:T100 Arg2:T107	
+R144	Addressee Arg1:T88 Arg2:T107	
+T108	Quotation 45933 46053	"Pretty! say beautiful rather.  Can you imagine any thing nearer perfect beauty than Emma altogether-- face and figure?"
+R145	Addressee Arg1:T100 Arg2:T108	
+R146	Speaker Arg1:T88 Arg2:T108	
+T109	Quotation 46054 46209	"I do not know what I could imagine, but I confess that I have seldom seen a face or figure more pleasing to me than hers.  But I am a partial old friend."
+R147	Speaker Arg1:T100 Arg2:T109	
+R148	Addressee Arg1:T88 Arg2:T109	
+T110	Quotation 46210 46703	"Such an eye!-- the true hazle eye-- and so brilliant! regular features, open countenance, with a complexion! oh! what a bloom of full health, and such a pretty height and size; such a firm and upright figure! There is health, not merely in her bloom, but in her air, her head, her glance.  One hears sometimes of a child being 'the picture of health;' now, Emma always gives me the idea of being the complete picture of grown-up health.  She is loveliness itself.  Mr. Knightley, is not she?"
+R149	Addressee Arg1:T100 Arg2:T110	
+R150	Speaker Arg1:T88 Arg2:T110	
+T111	Quotation 46704 46749	"I have not a fault to find with her person,"
+T112	Entity 46750 46752	he
+T113	Cue 46753 46760	replied
+R151	Speaker Arg1:T112 Arg2:T111	
+R152	Cueing Arg1:T113 Arg2:T111	
+R153	Addressee Arg1:T88 Arg2:T111	
+T114	Quotation 46763 47111	"I think her all you describe.  I love to look at her; and I will add this praise, that I do not think her personally vain.  Considering how very handsome she is, she appears to be little occupied with it; her vanity lies another way.  Mrs. Weston, I am not to be talked out of my dislike of Harriet Smith, or my dread of its doing them both harm."
+R154	Speaker Arg1:T112 Arg2:T114	
+R155	Cueing Arg1:T113 Arg2:T114	
+R156	Addressee Arg1:T88 Arg2:T114	
+T115	Quotation 47112 47529	"And I, Mr. Knightley, am equally stout in my confidence of its not doing them any harm.  With all dear Emma's little faults, she is an excellent creature.  Where shall we see a better daughter, or a kinder sister, or a truer friend? No, no; she has qualities which may be trusted; she will never lead any one really wrong; she will make no lasting blunder; where Emma errs once, she is in the right a hundred times."
+R157	Addressee Arg1:T112 Arg2:T115	
+R158	Speaker Arg1:T88 Arg2:T115	
+T116	Quotation 47530 47898	"Very well; I will not plague you any more.  Emma shall be an angel, and I will keep my spleen to myself till Christmas brings John and Isabella.  John loves Emma with a reasonable and therefore not a blind affection, and Isabella always thinks as he does; except when he is not quite frightened enough about the children.  I am sure of having their opinions with me."
+R159	Speaker Arg1:T112 Arg2:T116	
+R160	Speaker Arg1:T88 Arg2:T116	
+T117	Quotation 47899 48698	"I know that you all love her really too well to be unjust or unkind; but excuse me, Mr. Knightley, if I take the liberty (I consider myself, you know, as having somewhat of the privilege of speech that Emma's mother might have had) the liberty of hinting that I do not think any possible good can arise from Harriet Smith's intimacy being made a matter of much discussion among you.  Pray excuse me; but supposing any little inconvenience may be apprehended from the intimacy, it cannot be expected that Emma, accountable to nobody but her father, who perfectly approves the acquaintance, should put an end to it, so long as it is a source of pleasure to herself.  It has been so many years my province to give advice, that you cannot be surprized, Mr. Knightley, at this little remains of office."
+R161	Addressee Arg1:T112 Arg2:T117	
+R162	Speaker Arg1:T88 Arg2:T117	
+T118	Quotation 48699 48712	"Not at all,"
+T119	Cue 48713 48718	cried
+T120	Entity 48719 48721	he
+T121	Quotation 48723 48877	"I am much obliged to you for it.  It is very good advice, and it shall have a better fate than your advice has often found; for it shall be attended to."
+R163	Cueing Arg1:T119 Arg2:T118	
+R164	Cueing Arg1:T119 Arg2:T121	
+R165	Speaker Arg1:T120 Arg2:T118	
+R166	Speaker Arg1:T120 Arg2:T121	
+R167	Addressee Arg1:T88 Arg2:T118	
+R168	Addressee Arg1:T88 Arg2:T121	
+T122	Quotation 48878 48962	"Mrs. John Knightley is easily alarmed, and might be made unhappy about her sister."
+R169	Addressee Arg1:T120 Arg2:T122	
+R170	Speaker Arg1:T88 Arg2:T122	
+T123	Quotation 48963 48978	"Be satisfied,"
+T124	Cue 48979 48983	said
+T125	Entity 48984 48986	he
+T126	Quotation 48988 49296	"I will not raise any outcry.  I will keep my ill-humour to myself.  I have a very sincere interest in Emma. Isabella does not seem more my sister; has never excited a greater interest; perhaps hardly so great.  There is an anxiety, a curiosity in what one feels for Emma.  I wonder what will become of her!"
+R171	Cueing Arg1:T124 Arg2:T123	
+R172	Cueing Arg1:T124 Arg2:T126	
+R173	Speaker Arg1:T125 Arg2:T123	
+R174	Speaker Arg1:T125 Arg2:T126	
+R175	Addressee Arg1:T88 Arg2:T123	
+R176	Addressee Arg1:T88 Arg2:T126	
+T127	Quotation 49297 49307	"So do I,"
+T128	Cue 49308 49312	said
+T129	Entity 49313 49324	Mrs. Weston
+T130	Quotation 49333 49345	"very much."
+R177	Cueing Arg1:T128 Arg2:T127	
+R178	Cueing Arg1:T128 Arg2:T130	
+R179	Speaker Arg1:T129 Arg2:T127	
+R180	Speaker Arg1:T129 Arg2:T130	
+R181	Addressee Arg1:T125 Arg2:T127	
+R182	Addressee Arg1:T125 Arg2:T130	
+T131	Quotation 49346 49755	"She always declares she will never marry, which, of course, means just nothing at all.  But I have no idea that she has yet ever seen a man she cared for.  It would not be a bad thing for her to be very much in love with a proper object.  I should like to see Emma in love, and in some doubt of a return; it would do her good.  But there is nobody hereabouts to attach her; and she goes so seldom from home."
+R183	Addressee Arg1:T129 Arg2:T131	
+R184	Speaker Arg1:T125 Arg2:T131	
+T132	Quotation 49756 49841	"There does, indeed, seem as little to tempt her to break her resolution at present,"
+T133	Cue 49842 49846	said
+T134	Entity 49847 49858	Mrs. Weston
+T135	Quotation 49860 50141	"as can well be; and while she is so happy at Hartfield, I cannot wish her to be forming any attachment which would be creating such difficulties on poor Mr. Woodhouse's account.  I do not recommend matrimony at present to Emma, though I mean no slight to the state, I assure you."
+R185	Cueing Arg1:T133 Arg2:T132	
+R186	Cueing Arg1:T133 Arg2:T135	
+R187	Speaker Arg1:T134 Arg2:T132	
+R188	Speaker Arg1:T134 Arg2:T135	
+R189	Addressee Arg1:T125 Arg2:T132	
+R190	Addressee Arg1:T125 Arg2:T135	
+T136	Entity 50404 50417	Mr. Knightley
+T137	Quotation 50442 50502	"What does Weston think of the weather; shall we have rain?"
+T138	Entity 50513 50516	her
+R191	Speaker Arg1:T136 Arg2:T137	
+R192	Addressee Arg1:T138 Arg2:T137	
+T139	Entity 51226 51228	He
+T140	Cue 51229 51235	talked
+T141	Quotation 51236 51354	of Harriet, and praised her so warmly, that she could not suppose any thing wanting which a little time would not add.
+R193	Speaker Arg1:T139 Arg2:T141	
+R194	Cueing Arg1:T140 Arg2:T141	
+T142	Entity 51186 51189	She
+R195	Addressee Arg1:T142 Arg2:T141	
+T143	Quotation 51526 51576	"You have given Miss Smith all that she required,"
+T144	Cue 51577 51581	said
+T145	Entity 51582 51584	he
+T146	Quotation 51586 51785	"you have made her graceful and easy.  She was a beautiful creature when she came to you, but, in my opinion, the attractions you have added are infinitely superior to what she received from nature."
+R196	Cueing Arg1:T144 Arg2:T143	
+R197	Cueing Arg1:T144 Arg2:T146	
+R198	Speaker Arg1:T145 Arg2:T143	
+R199	Speaker Arg1:T145 Arg2:T146	
+R200	Addressee Arg1:T142 Arg2:T143	
+R201	Addressee Arg1:T142 Arg2:T146	
+T147	Quotation 51786 52016	"I am glad you think I have been useful to her; but Harriet only wanted drawing out, and receiving a few, very few hints.  She had all the natural grace of sweetness of temper and artlessness in herself.  I have done very little."
+R202	Addressee Arg1:T145 Arg2:T147	
+R203	Speaker Arg1:T142 Arg2:T147	
+T148	Quotation 52017 52062	"If it were admissible to contradict a lady,"
+T149	Cue 52063 52067	said
+T150	Entity 52068 52089	the gallant Mr. ELTON
+R204	Cueing Arg1:T149 Arg2:T148	
+R205	Speaker Arg1:T150 Arg2:T148	
+R206	Addressee Arg1:T142 Arg2:T148	
+T151	Quotation 52092 52230	"I have perhaps given her a little more decision of character, have taught her to think on points which had not fallen in her way before."
+R207	Addressee Arg1:T150 Arg2:T151	
+R208	Speaker Arg1:T142 Arg2:T151	
+T152	Quotation 52231 52351	"Exactly so; that is what principally strikes me.  So much superadded decision of character! Skilful has been the hand!"
+R209	Speaker Arg1:T150 Arg2:T152	
+R210	Addressee Arg1:T142 Arg2:T152	
+T153	Quotation 52352 52445	"Great has been the pleasure, I am sure.  I never met with a disposition more truly amiable."
+R211	Addressee Arg1:T150 Arg2:T153	
+R212	Speaker Arg1:T142 Arg2:T153	
+T154	Quotation 52446 52470	"I have no doubt of it."
+T155	Cue 52482 52488	spoken
+R213	Cueing Arg1:T155 Arg2:T154	
+R214	Speaker Arg1:T150 Arg2:T154	
+R215	Addressee Arg1:T142 Arg2:T154	
+T156	Quotation 52684 52733	"Did you ever have your likeness taken, Harriet?"
+T157	Cue 52734 52738	said
+T158	Entity 52739 52742	she
+T159	Quotation 52744 52780	"did you ever sit for your picture?"
+R216	Cueing Arg1:T157 Arg2:T156	
+R217	Cueing Arg1:T157 Arg2:T159	
+R218	Speaker Arg1:T158 Arg2:T156	
+R219	Speaker Arg1:T158 Arg2:T159	
+T160	Entity 52781 52788	Harriet
+R220	Addressee Arg1:T160 Arg2:T156	
+R221	Addressee Arg1:T160 Arg2:T159	
+T161	Cue 52845 52848	say
+T162	Quotation 52883 52905	"Oh! dear, no, never."
+R222	Speaker Arg1:T160 Arg2:T162	
+R223	Cueing Arg1:T161 Arg2:T162	
+T163	Entity 52943 52947	Emma
+R224	Addressee Arg1:T163 Arg2:T162	
+T164	Cue 52948 52957	exclaimed
+T165	Quotation 52959 53462	"What an exquisite possession a good picture of her would be! I would give any money for it.  I almost long to attempt her likeness myself. You do not know it I dare say, but two or three years ago I had a great passion for taking likenesses, and attempted several of my friends, and was thought to have a tolerable eye in general.  But from one cause or another, I gave it up in disgust.  But really, I could almost venture, if Harriet would sit to me.  It would be such a delight to have her picture!"
+R225	Speaker Arg1:T163 Arg2:T165	
+R226	Cueing Arg1:T164 Arg2:T165	
+T166	Quotation 53463 53484	"Let me entreat you,"
+T167	Cue 53485 53490	cried
+T168	Entity 53491 53500	Mr. Elton
+R227	Addressee Arg1:T168 Arg2:T165	
+R228	Cueing Arg1:T167 Arg2:T166	
+R229	Speaker Arg1:T168 Arg2:T166	
+R230	Addressee Arg1:T163 Arg2:T166	
+T169	Quotation 53502 53851	"it would indeed be a delight! Let me entreat you, Miss Woodhouse, to exercise so charming a talent in favour of your friend.  I know what your drawings are.  How could you suppose me ignorant? Is not this room rich in specimens of your landscapes and flowers; and has not Mrs. Weston some inimitable figure-pieces in her drawing-room, at Randalls?"
+R231	Speaker Arg1:T168 Arg2:T169	
+R232	Cueing Arg1:T167 Arg2:T169	
+R233	Addressee Arg1:T163 Arg2:T169	
+T170	Quotation 54051 54330	"Well, if you give me such kind encouragement, Mr. Elton, I believe I shall try what I can do.  Harriet's features are very delicate, which makes a likeness difficult; and yet there is a peculiarity in the shape of the eye and the lines about the mouth which one ought to catch."
+T171	Entity 53877 53881	Emma
+R234	Speaker Arg1:T171 Arg2:T170	
+R235	Addressee Arg1:T168 Arg2:T170	
+T172	Quotation 54331 54546	"Exactly so-- The shape of the eye and the lines about the mouth -- I have not a doubt of your success.  Pray, pray attempt it.  As you will do it, it will indeed, to use your own words, be an exquisite possession."
+R236	Addressee Arg1:T171 Arg2:T172	
+R237	Speaker Arg1:T168 Arg2:T172	
+T173	Quotation 54547 54755	"But I am afraid, Mr. Elton, Harriet will not like to sit.  She thinks so little of her own beauty.  Did not you observe her manner of answering me? How completely it meant, 'why should my picture be drawn?'"
+R238	Speaker Arg1:T171 Arg2:T173	
+R239	Addressee Arg1:T168 Arg2:T173	
+T174	Quotation 54756 54875	"Oh! yes, I observed it, I assure you.  It was not lost on me.  But still I cannot imagine she would not be persuaded."
+R240	Addressee Arg1:T171 Arg2:T174	
+R241	Speaker Arg1:T168 Arg2:T174	
+T175	Quotation 56388 56424	"No great variety of faces for you,"
+T176	Cue 56425 56429	said
+T177	Entity 56430 56434	Emma
+R242	Cueing Arg1:T176 Arg2:T175	
+R243	Speaker Arg1:T177 Arg2:T175	
+T178	Entity 54876 54883	Harriet
+R244	Addressee Arg1:T178 Arg2:T175	
+T179	Quotation 56437 57906	"I had only my own family to study from.  There is my father-- another of my father-- but the idea of sitting for his picture made him so nervous, that I could only take him by stealth; neither of them very like therefore.  Mrs. Weston again, and again, and again, you see.  Dear Mrs. Weston! always my kindest friend on every occasion.  She would sit whenever I asked her.  There is my sister; and really quite her own little elegant figure!-- and the face not unlike.  I should have made a good likeness of her, if she would have sat longer, but she was in such a hurry to have me draw her four children that she would not be quiet.  Then, here come all my attempts at three of those four children;-- there they are, Henry and John and Bella, from one end of the sheet to the other, and any one of them might do for any one of the rest.  She was so eager to have them drawn that I could not refuse; but there is no making children of three or four years old stand still you know; nor can it be very easy to take any likeness of them, beyond the air and complexion, unless they are coarser featured than any of mama's children ever were. Here is my sketch of the fourth, who was a baby.  I took him as he was sleeping on the sofa, and it is as strong a likeness of his cockade as you would wish to see.  He had nestled down his head most conveniently. That's very like.  I am rather proud of little George.  The corner of the sofa is very good.  Then here is my last,"
+R245	Cueing Arg1:T176 Arg2:T179	
+R246	Speaker Arg1:T177 Arg2:T179	
+R247	Addressee Arg1:T178 Arg2:T179	
+T180	Quotation 57980 59037	"my last and my best-- my brother, Mr. John Knightley.-- This did not want much of being finished, when I put it away in a pet, and vowed I would never take another likeness.  I could not help being provoked; for after all my pains, and when I had really made a very good likeness of it-- (Mrs. Weston and I were quite agreed in thinking it very like)-- only too handsome-- too flattering-- but that was a fault on the right side-- after all this, came poor dear Isabella's cold approbation of-- "Yes, it was a little like-- but to be sure it did not do him justice." We had had a great deal of trouble in persuading him to sit at all.  It was made a great favour of; and altogether it was more than I could bear; and so I never would finish it, to have it apologised over as an unfavourable likeness, to every morning visitor in Brunswick Square;-- and, as I said, I did then forswear ever drawing any body again.  But for Harriet's sake, or rather for my own, and as there are no husbands and wives in the case at present, I will break my resolution now."
+R248	Speaker Arg1:T177 Arg2:T180	
+R249	Addressee Arg1:T178 Arg2:T180	
+T181	Entity 58443 58451	Isabella
+T182	Quotation 58476 58547	"Yes, it was a little like-- but to be sure it did not do him justice."
+R250	Speaker Arg1:T181 Arg2:T182	
+T183	Quotation 59122 59229	"No husbands and wives in the case at present indeed, as you observe.  Exactly so.  No husbands and wives,"
+T184	Cue 59111 59120	repeating
+T185	Entity 59038 59047	Mr. Elton
+T186	Entity 59272 59276	Emma
+R251	Speaker Arg1:T185 Arg2:T183	
+R252	Cueing Arg1:T184 Arg2:T183	
+R253	Addressee Arg1:T186 Arg2:T183	
+T187	Quotation 60188 60357	"If he would be so good as to read to them, it would be a kindness indeed! It would amuse away the difficulties of her part, and lessen the irksomeness of Miss Smith's."
+T188	Entity 60358 60367	Mr. Elton
+R254	Addressee Arg1:T188 Arg2:T187	
+R255	Speaker Arg1:T186 Arg2:T187	
+T189	Quotation 61687 61763	"By all means.  We shall be most happy to consider you as one of the party."
+T190	Entity 61546 61553	Harriet
+T191	Entity 61589 61598	Mr. Elton
+R256	Speaker Arg1:T190 Arg2:T189	
+R257	Addressee Arg1:T191 Arg2:T189	
+T192	Quotation 62057 62122	"Miss Woodhouse has given her friend the only beauty she wanted,"
+T193	Cue 62125 62133	observed
+T194	Entity 62134 62145	Mrs. Weston
+T195	Entity 62149 62152	him
+R258	Cueing Arg1:T193 Arg2:T192	
+R259	Speaker Arg1:T194 Arg2:T192	
+R260	Addressee Arg1:T195 Arg2:T192	
+T196	Quotation 62218 62367	"The expression of the eye is most correct, but Miss Smith has not those eyebrows and eyelashes.  It is the fault of her face that she has them not."
+R261	Speaker Arg1:T194 Arg2:T196	
+R262	Cueing Arg1:T193 Arg2:T196	
+R263	Addressee Arg1:T195 Arg2:T196	
+T197	Quotation 62368 62386	"Do you think so?"
+T198	Cue 62387 62394	replied
+T199	Entity 62395 62397	he
+R264	Cueing Arg1:T198 Arg2:T197	
+R265	Speaker Arg1:T199 Arg2:T197	
+R266	Addressee Arg1:T194 Arg2:T197	
+T200	Quotation 62400 62580	"I cannot agree with you.  It appears to me a most perfect resemblance in every feature.  I never saw such a likeness in my life.  We must allow for the effect of shade, you know."
+R267	Speaker Arg1:T199 Arg2:T200	
+R268	Cueing Arg1:T198 Arg2:T200	
+R269	Addressee Arg1:T194 Arg2:T200	
+T201	Quotation 62581 62616	"You have made her too tall, Emma,"
+T202	Cue 62617 62621	said
+R270	Cueing Arg1:T202 Arg2:T201	
+T203	Entity 62622 62635	Mr. Knightley
+R271	Speaker Arg1:T203 Arg2:T201	
+T204	Entity 62637 62641	Emma
+R272	Addressee Arg1:T204 Arg2:T201	
+T205	Entity 62687 62696	Mr. Elton
+T206	Quotation 62711 63054	"Oh no! certainly not too tall; not in the least too tall.  Consider, she is sitting down-- which naturally presents a different-- which in short gives exactly the idea-- and the proportions must be preserved, you know.  Proportions, fore-shortening.-- Oh no! it gives one exactly the idea of such a height as Miss Smith's. Exactly so indeed!"
+T207	Cue 62704 62709	added
+R273	Cueing Arg1:T207 Arg2:T206	
+R274	Speaker Arg1:T205 Arg2:T206	
+R275	Addressee Arg1:T203 Arg2:T206	
+T208	Quotation 63055 63075	"It is very pretty,"
+T209	Cue 63076 63080	said
+T210	Entity 63081 63094	Mr. Woodhouse
+R276	Cueing Arg1:T209 Arg2:T208	
+R277	Speaker Arg1:T210 Arg2:T208	
+R278	Addressee Arg1:T204 Arg2:T208	
+T211	Quotation 63097 63390	"So prettily done! Just as your drawings always are, my dear.  I do not know any body who draws so well as you do.  The only thing I do not thoroughly like is, that she seems to be sitting out of doors, with only a little shawl over her shoulders-- and it makes one think she must catch cold."
+R279	Cueing Arg1:T209 Arg2:T211	
+R280	Speaker Arg1:T210 Arg2:T211	
+R281	Addressee Arg1:T204 Arg2:T211	
+T212	Quotation 63391 63480	"But, my dear papa, it is supposed to be summer; a warm day in summer. Look at the tree."
+R282	Addressee Arg1:T210 Arg2:T212	
+R283	Speaker Arg1:T204 Arg2:T212	
+T213	Quotation 63481 63533	"But it is never safe to sit out of doors, my dear."
+R284	Speaker Arg1:T210 Arg2:T213	
+R285	Addressee Arg1:T204 Arg2:T213	
+T214	Quotation 63534 63564	"You, sir, may say any thing,"
+T215	Cue 63565 63570	cried
+T216	Entity 63571 63580	Mr. Elton
+T217	Quotation 63582 63940	"but I must confess that I regard it as a most happy thought, the placing of Miss Smith out of doors; and the tree is touched with such inimitable spirit! Any other situation would have been much less in character.  The naivete of Miss Smith's manners-- and altogether-- Oh, it is most admirable! I cannot keep my eyes from it.  I never saw such a likeness."
+R286	Cueing Arg1:T215 Arg2:T214	
+R287	Cueing Arg1:T215 Arg2:T217	
+R288	Speaker Arg1:T216 Arg2:T214	
+R289	Speaker Arg1:T216 Arg2:T217	
+R290	Addressee Arg1:T210 Arg2:T214	
+R291	Addressee Arg1:T210 Arg2:T217	
+T218	Quotation 65196 65222	"What a precious deposit!"
+T219	Cue 65223 65227	said
+T220	Entity 65228 65230	he
+T221	Entity 65045 65049	Emma
+R292	Cueing Arg1:T219 Arg2:T218	
+R293	Speaker Arg1:T220 Arg2:T218	
+R294	Addressee Arg1:T221 Arg2:T218	
+T222	Quotation 67054 67069	"Upon my word,"
+T223	Entity 67070 67073	she
+T224	Cue 67074 67079	cried
+T225	Quotation 67081 67193	"the young man is determined not to lose any thing for want of asking.  He will connect himself well if he can."
+R295	Speaker Arg1:T223 Arg2:T222	
+R296	Speaker Arg1:T223 Arg2:T225	
+R297	Cueing Arg1:T224 Arg2:T222	
+R298	Cueing Arg1:T224 Arg2:T225	
+T226	Quotation 67194 67221	"Will you read the letter?"
+T227	Cue 67222 67227	cried
+T228	Entity 67228 67235	Harriet
+R299	Cueing Arg1:T227 Arg2:T226	
+R300	Addressee Arg1:T228 Arg2:T222	
+R301	Addressee Arg1:T228 Arg2:T225	
+R302	Addressee Arg1:T223 Arg2:T226	
+R303	Speaker Arg1:T228 Arg2:T226	
+T229	Quotation 67238 67271	"Pray do.  I'd rather you would."
+R304	Speaker Arg1:T228 Arg2:T229	
+R305	Cueing Arg1:T227 Arg2:T229	
+R306	Addressee Arg1:T223 Arg2:T229	
+T230	Quotation 67817 67830	"Well, well,"
+T231	Entity 67760 67767	Harriet
+T232	Entity 67734 67737	She
+T233	Quotation 67862 67904	"Is it a good letter? or is it too short?"
+R307	Speaker Arg1:T231 Arg2:T230	
+R308	Addressee Arg1:T232 Arg2:T230	
+R309	Speaker Arg1:T231 Arg2:T233	
+R310	Addressee Arg1:T232 Arg2:T233	
+T234	Quotation 67905 67939	"Yes, indeed, a very good letter,"
+T235	Cue 67940 67947	replied
+T236	Entity 67948 67952	Emma
+T237	Quotation 67969 68718	"so good a letter, Harriet, that every thing considered, I think one of his sisters must have helped him.  I can hardly imagine the young man whom I saw talking with you the other day could express himself so well, if left quite to his own powers, and yet it is not the style of a woman; no, certainly, it is too strong and concise; not diffuse enough for a woman.  No doubt he is a sensible man, and I suppose may have a natural talent for-- thinks strongly and clearly-- and when he takes a pen in hand, his thoughts naturally find proper words.  It is so with some men.  Yes, I understand the sort of mind.  Vigorous, decided, with sentiments to a certain point, not coarse.  A better written letter, Harriet (returning it,) than I had expected."
+R311	Speaker Arg1:T236 Arg2:T234	
+R312	Cueing Arg1:T235 Arg2:T234	
+R313	Addressee Arg1:T231 Arg2:T234	
+R314	Speaker Arg1:T236 Arg2:T237	
+R315	Cueing Arg1:T235 Arg2:T237	
+R316	Addressee Arg1:T231 Arg2:T237	
+T238	Quotation 68719 68726	"Well,"
+T239	Cue 68727 68731	said
+T240	Entity 68750 68757	Harriet
+T241	Quotation 68761 68796	"well-- and-- and what shall I do?"
+R317	Cueing Arg1:T239 Arg2:T238	
+R318	Cueing Arg1:T239 Arg2:T241	
+R319	Speaker Arg1:T240 Arg2:T238	
+R320	Speaker Arg1:T240 Arg2:T241	
+R321	Addressee Arg1:T236 Arg2:T238	
+R322	Addressee Arg1:T236 Arg2:T241	
+T242	Quotation 68797 68874	"What shall you do! In what respect? Do you mean with regard to this letter?"
+R323	Addressee Arg1:T240 Arg2:T242	
+R324	Speaker Arg1:T236 Arg2:T242	
+T243	Quotation 68875 68881	"Yes."
+R325	Speaker Arg1:T240 Arg2:T243	
+R326	Addressee Arg1:T236 Arg2:T243	
+T244	Quotation 68882 68958	"But what are you in doubt of? You must answer it of course-- and speedily."
+R327	Addressee Arg1:T240 Arg2:T244	
+R328	Speaker Arg1:T236 Arg2:T244	
+T245	Quotation 68959 69022	"Yes. But what shall I say? Dear Miss Woodhouse, do advise me."
+R329	Speaker Arg1:T240 Arg2:T245	
+R330	Addressee Arg1:T236 Arg2:T245	
+T246	Quotation 69023 69519	"Oh no, no! the letter had much better be all your own.  You will express yourself very properly, I am sure.  There is no danger of your not being intelligible, which is the first thing.  Your meaning must be unequivocal; no doubts or demurs: and such expressions of gratitude and concern for the pain you are inflicting as propriety requires, will present themselves unbidden to your mind, I am persuaded.  You need not be prompted to write with the appearance of sorrow for his disappointment."
+R331	Addressee Arg1:T240 Arg2:T246	
+R332	Speaker Arg1:T236 Arg2:T246	
+T247	Quotation 69520 69559	"You think I ought to refuse him then,"
+T248	Cue 69560 69564	said
+T249	Entity 69565 69572	Harriet
+R333	Cueing Arg1:T248 Arg2:T247	
+R334	Speaker Arg1:T249 Arg2:T247	
+T250	Quotation 69588 69919	"Ought to refuse him! My dear Harriet, what do you mean? Are you in any doubt as to that? I thought-- but I beg your pardon, perhaps I have been under a mistake.  I certainly have been misunderstanding you, if you feel in doubt as to the purport of your answer.  I had imagined you were consulting me only as to the wording of it."
+R335	Addressee Arg1:T249 Arg2:T250	
+T251	Entity 69974 69978	Emma
+R336	Speaker Arg1:T251 Arg2:T250	
+T252	Cue 69979 69988	continued
+T253	Quotation 69990 70042	"You mean to return a favourable answer, I collect."
+R337	Speaker Arg1:T251 Arg2:T253	
+R338	Cueing Arg1:T252 Arg2:T253	
+R339	Addressee Arg1:T249 Arg2:T253	
+T254	Quotation 70043 70187	"No, I do not; that is, I do not mean-- What shall I do? What would you advise me to do? Pray, dear Miss Woodhouse, tell me what I ought to do."
+R340	Addressee Arg1:T251 Arg2:T254	
+R341	Speaker Arg1:T249 Arg2:T254	
+T255	Quotation 70188 70326	"I shall not give you any advice, Harriet.  I will have nothing to do with it.  This is a point which you must settle with your feelings."
+R342	Speaker Arg1:T251 Arg2:T255	
+R343	Addressee Arg1:T249 Arg2:T255	
+T256	Quotation 70327 70375	"I had no notion that he liked me so very much,"
+T257	Cue 70376 70380	said
+T258	Entity 70381 70388	Harriet
+R344	Cueing Arg1:T257 Arg2:T256	
+R345	Speaker Arg1:T258 Arg2:T256	
+T259	Entity 70436 70440	Emma
+R346	Addressee Arg1:T259 Arg2:T256	
+T260	Quotation 70585 71021	"I lay it down as a general rule, Harriet, that if a woman doubts as to whether she should accept a man or not, she certainly ought to refuse him.  If she can hesitate as to 'Yes,' she ought to say 'No' directly.  It is not a state to be safely entered into with doubtful feelings, with half a heart.  I thought it my duty as a friend, and older than yourself, to say thus much to you.  But do not imagine that I want to influence you."
+T261	Cue 70580 70583	say
+R347	Cueing Arg1:T261 Arg2:T260	
+R348	Speaker Arg1:T259 Arg2:T260	
+R349	Addressee Arg1:T258 Arg2:T260	
+T262	Quotation 71022 71347	"Oh! no, I am sure you are a great deal too kind to-- but if you would just advise me what I had best do-- No, no, I do not mean that-- As you say, one's mind ought to be quite made up-- One should not be hesitating-- It is a very serious thing.-- It will be safer to say 'No,' perhaps.-- Do you think I had better say 'No?'"
+R350	Addressee Arg1:T259 Arg2:T262	
+R351	Speaker Arg1:T258 Arg2:T262	
+T263	Quotation 71348 71368	"Not for the world,"
+T264	Cue 71369 71373	said
+T265	Entity 71374 71378	Emma
+T266	Quotation 71400 71865	"would I advise you either way.  You must be the best judge of your own happiness.  If you prefer Mr. Martin to every other person; if you think him the most agreeable man you have ever been in company with, why should you hesitate? You blush, Harriet.-- Does any body else occur to you at this moment under such a definition? Harriet, Harriet, do not deceive yourself; do not be run away with by gratitude and compassion.  At this moment whom are you thinking of?"
+R352	Cueing Arg1:T264 Arg2:T263	
+R353	Cueing Arg1:T264 Arg2:T266	
+R354	Speaker Arg1:T265 Arg2:T263	
+R355	Speaker Arg1:T265 Arg2:T266	
+R356	Addressee Arg1:T258 Arg2:T263	
+R357	Addressee Arg1:T258 Arg2:T266	
+T267	Quotation 72203 72413	"Miss Woodhouse, as you will not give me your opinion, I must do as well as I can by myself; and I have now quite determined, and really almost made up my mind-- to refuse Mr. Martin.  Do you think I am right?"
+T268	Entity 72188 72195	Harriet
+R358	Speaker Arg1:T268 Arg2:T267	
+T269	Cue 72196 72200	said
+R359	Cueing Arg1:T269 Arg2:T267	
+R360	Addressee Arg1:T265 Arg2:T267	
+T270	Quotation 72414 73058	"Perfectly, perfectly right, my dearest Harriet; you are doing just what you ought.  While you were at all in suspense I kept my feelings to myself, but now that you are so completely decided I have no hesitation in approving.  Dear Harriet, I give myself joy of this.  It would have grieved me to lose your acquaintance, which must have been the consequence of your marrying Mr. Martin.  While you were in the smallest degree wavering, I said nothing about it, because I would not influence; but it would have been the loss of a friend to me.  I could not have visited Mrs. Robert Martin, of Abbey-Mill Farm.  Now I am secure of you for ever."
+R361	Addressee Arg1:T268 Arg2:T270	
+R362	Speaker Arg1:T265 Arg2:T270	
+T271	Quotation 73140 73172	"You could not have visited me!"
+T272	Entity 73173 73176	she
+T273	Cue 73177 73182	cried
+R363	Speaker Arg1:T272 Arg2:T271	
+R364	Cueing Arg1:T273 Arg2:T271	
+R365	Addressee Arg1:T265 Arg2:T271	
+T274	Quotation 73201 73444	"No, to be sure you could not; but I never thought of that before.  That would have been too dreadful!-- What an escape!-- Dear Miss Woodhouse, I would not give up the pleasure and honour of being intimate with you for any thing in the world."
+R366	Speaker Arg1:T272 Arg2:T274	
+R367	Cueing Arg1:T273 Arg2:T274	
+R368	Addressee Arg1:T265 Arg2:T274	
+T275	Quotation 73445 73616	"Indeed, Harriet, it would have been a severe pang to lose you; but it must have been.  You would have thrown yourself out of all good society.  I must have given you up."
+R369	Addressee Arg1:T272 Arg2:T275	
+R370	Speaker Arg1:T265 Arg2:T275	
+T276	Quotation 73617 73723	"Dear me!-- How should I ever have borne it! It would have killed me never to come to Hartfield any more!"
+R371	Speaker Arg1:T272 Arg2:T276	
+R372	Addressee Arg1:T265 Arg2:T276	
+T277	Quotation 73724 73974	"Dear affectionate creature!-- You banished to Abbey-Mill Farm!-- You confined to the society of the illiterate and vulgar all your life!  I wonder how the young man could have the assurance to ask it.  He must have a pretty good opinion of himself."
+R373	Addressee Arg1:T272 Arg2:T277	
+R374	Speaker Arg1:T265 Arg2:T277	
+T278	Quotation 73975 74027	"I do not think he is conceited either, in general,"
+T279	Cue 74028 74032	said
+T280	Entity 74033 74040	Harriet
+T281	Quotation 74080 74750	"at least, he is very good natured, and I shall always feel much obliged to him, and have a great regard for-- but that is quite a different thing from-- and you know, though he may like me, it does not follow that I should-- and certainly I must confess that since my visiting here I have seen people-- and if one comes to compare them, person and manners, there is no comparison at all, one is so very handsome and agreeable.  However, I do really think Mr. Martin a very amiable young man, and have a great opinion of him; and his being so much attached to me-- and his writing such a letter-- but as to leaving you, it is what I would not do upon any consideration."
+R375	Cueing Arg1:T279 Arg2:T278	
+R376	Speaker Arg1:T280 Arg2:T278	
+R377	Addressee Arg1:T265 Arg2:T278	
+R378	Cueing Arg1:T279 Arg2:T281	
+R379	Speaker Arg1:T280 Arg2:T281	
+R380	Addressee Arg1:T265 Arg2:T281	
+T282	Quotation 74751 74954	"Thank you, thank you, my own sweet little friend.  We will not be parted.  A woman is not to marry a man merely because she is asked, or because he is attached to her, and can write a tolerable letter."
+R381	Addressee Arg1:T280 Arg2:T282	
+T283	Entity 75000 75004	Emma
+R382	Speaker Arg1:T283 Arg2:T282	
+T284	Quotation 74955 74999	"Oh no;-- and it is but a short letter too."
+R383	Addressee Arg1:T283 Arg2:T284	
+R384	Speaker Arg1:T280 Arg2:T284	
+T285	Quotation 75062 75246	"very true; and it would be a small consolation to her, for the clownish manner which might be offending her every hour of the day, to know that her husband could write a good letter."
+R385	Speaker Arg1:T283 Arg2:T285	
+T286	Entity 75027 75037	her friend
+R386	Addressee Arg1:T286 Arg2:T285	
+T287	Quotation 75247 75426	"Oh! yes, very.  Nobody cares for a letter; the thing is, to be always happy with pleasant companions.  I am quite determined to refuse him. But how shall I do? What shall I say?"
+R387	Addressee Arg1:T286 Arg2:T287	
+R388	Addressee Arg1:T283 Arg2:T287	
+T288	Quotation 76497 76544	"I shall never be invited to Abbey-Mill again,"
+T289	Cue 76549 76553	said
+T290	Entity 76425 76428	her
+R389	Speaker Arg1:T290 Arg2:T288	
+R390	Cueing Arg1:T289 Arg2:T288	
+T291	Entity 76340 76344	Emma
+R391	Addressee Arg1:T291 Arg2:T288	
+T292	Quotation 76582 76726	"Nor, if you were, could I ever bear to part with you, my Harriet.  You are a great deal too necessary at Hartfield to be spared to Abbey-Mill."
+R392	Speaker Arg1:T291 Arg2:T292	
+R393	Addressee Arg1:T290 Arg2:T292	
+T293	Quotation 76727 76814	"And I am sure I should never want to go there; for I am never happy but at Hartfield."
+R394	Addressee Arg1:T291 Arg2:T293	
+R395	Speaker Arg1:T290 Arg2:T293	
+T294	Quotation 76844 77041	"I think Mrs. Goddard would be very much surprized if she knew what had happened.  I am sure Miss Nash would-- for Miss Nash thinks her own sister very well married, and it is only a linen-draper."
+R396	Addressee Arg1:T291 Arg2:T294	
+R397	Speaker Arg1:T290 Arg2:T294	
+T295	Quotation 77042 77540	"One should be sorry to see greater pride or refinement in the teacher of a school, Harriet.  I dare say Miss Nash would envy you such an opportunity as this of being married.  Even this conquest would appear valuable in her eyes.  As to any thing superior for you, I suppose she is quite in the dark.  The attentions of a certain person can hardly be among the tittle-tattle of Highbury yet.  Hitherto I fancy you and I are the only people to whom his looks and manners have explained themselves."
+R398	Speaker Arg1:T291 Arg2:T295	
+R399	Addressee Arg1:T290 Arg2:T295	
+T296	Quotation 77578 77640	something about wondering that people should like her so much.
+T297	Entity 77541 77548	Harriet
+T298	Cue 77573 77577	said
+R400	Speaker Arg1:T297 Arg2:T296	
+R401	Cueing Arg1:T298 Arg2:T296	
+R402	Addressee Arg1:T291 Arg2:T296	
+T299	Quotation 77775 77802	"Now he has got my letter,"
+T300	Cue 77803 77807	said
+T301	Entity 77808 77811	she
+R403	Cueing Arg1:T300 Arg2:T299	
+R404	Speaker Arg1:T301 Arg2:T299	
+R405	Addressee Arg1:T291 Arg2:T299	
+T302	Quotation 77821 77970	"I wonder what they are all doing-- whether his sisters know-- if he is unhappy, they will be unhappy too.  I hope he will not mind it so very much."
+R406	Cueing Arg1:T300 Arg2:T302	
+R407	Speaker Arg1:T301 Arg2:T302	
+T303	Entity 78060 78064	Emma
+T304	Cue 78054 78059	cried
+R408	Addressee Arg1:T303 Arg2:T302	
+T305	Quotation 77971 78053	"Let us think of those among our absent friends who are more cheerfully employed,"
+R409	Cueing Arg1:T304 Arg2:T305	
+R410	Speaker Arg1:T303 Arg2:T305	
+R411	Addressee Arg1:T301 Arg2:T305	
+T306	Quotation 78067 78304	"At this moment, perhaps, Mr. Elton is shewing your picture to his mother and sisters, telling how much more beautiful is the original, and after being asked for it five or six times, allowing them to hear your name, your own dear name."
+R412	Cueing Arg1:T304 Arg2:T306	
+R413	Speaker Arg1:T303 Arg2:T306	
+R414	Addressee Arg1:T301 Arg2:T306	
+T307	Quotation 78305 78363	"My picture!-- But he has left my picture in Bond-street."
+R415	Addressee Arg1:T303 Arg2:T307	
+R416	Speaker Arg1:T301 Arg2:T307	
+T308	Quotation 78364 78875	"Has he so!-- Then I know nothing of Mr. Elton.  No, my dear little modest Harriet, depend upon it the picture will not be in Bond-street till just before he mounts his horse to-morrow.  It is his companion all this evening, his solace, his delight.  It opens his designs to his family, it introduces you among them, it diffuses through the party those pleasantest feelings of our nature, eager curiosity and warm prepossession.  How cheerful, how animated, how suspicious, how busy their imaginations all are!"
+R417	Speaker Arg1:T303 Arg2:T308	
+T309	Entity 78876 78883	Harriet
+R418	Addressee Arg1:T309 Arg2:T308	
+T310	Quotation 79945 80288	"Well, I believe, if you will excuse me, Mr. Knightley, if you will not consider me as doing a very rude thing, I shall take Emma's advice and go out for a quarter of an hour.  As the sun is out, I believe I had better take my three turns while I can.  I treat you without ceremony, Mr. Knightley.  We invalids think we are privileged people."
+T311	Entity 79763 79776	Mr. Knightley
+T312	Entity 79934 79943	the other
+R419	Speaker Arg1:T312 Arg2:T310	
+R420	Speaker Arg1:T311 Arg2:T310	
+T313	Quotation 80289 80333	"My dear sir, do not make a stranger of me."
+R421	Speaker Arg1:T311 Arg2:T313	
+R422	Addressee Arg1:T312 Arg2:T313	
+T314	Quotation 80334 80509	"I leave an excellent substitute in my daughter.  Emma will be happy to entertain you.  And therefore I think I will beg your excuse and take my three turns-- my winter walk."
+R423	Addressee Arg1:T311 Arg2:T314	
+R424	Speaker Arg1:T312 Arg2:T314	
+T315	Quotation 80510 80538	"You cannot do better, sir."
+R425	Speaker Arg1:T311 Arg2:T315	
+R426	Addressee Arg1:T312 Arg2:T315	
+T316	Quotation 80539 80738	"I would ask for the pleasure of your company, Mr. Knightley, but I am a very slow walker, and my pace would be tedious to you; and, besides, you have another long walk before you, to Donwell Abbey."
+R427	Addressee Arg1:T311 Arg2:T316	
+R428	Speaker Arg1:T312 Arg2:T316	
+T317	Quotation 80739 80903	"Thank you, sir, thank you; I am going this moment myself; and I think the sooner you go the better.  I will fetch your greatcoat and open the garden door for you."
+R429	Addressee Arg1:T312 Arg2:T317	
+R430	Speaker Arg1:T311 Arg2:T317	
+T318	Quotation 81158 81195	"I cannot rate her beauty as you do,"
+T319	Cue 81196 81200	said
+T320	Entity 81201 81203	he
+T321	Entity 81130 81134	Emma
+R431	Cueing Arg1:T319 Arg2:T318	
+R432	Speaker Arg1:T320 Arg2:T318	
+R433	Addressee Arg1:T321 Arg2:T318	
+T322	Quotation 81205 81401	"but she is a pretty little creature, and I am inclined to think very well of her disposition.  Her character depends upon those she is with; but in good hands she will turn out a valuable woman."
+R434	Speaker Arg1:T320 Arg2:T322	
+R435	Cueing Arg1:T319 Arg2:T322	
+R436	Addressee Arg1:T321 Arg2:T322	
+T323	Quotation 81402 81475	"I am glad you think so; and the good hands, I hope, may not be wanting."
+R437	Addressee Arg1:T320 Arg2:T323	
+R438	Speaker Arg1:T321 Arg2:T323	
+T324	Quotation 81476 81483	"Come,"
+T325	Cue 81484 81488	said
+T326	Entity 81489 81491	he
+T327	Quotation 81493 81652	"you are anxious for a compliment, so I will tell you that you have improved her.  You have cured her of her school-girl's giggle; she really does you credit."
+R439	Cueing Arg1:T325 Arg2:T324	
+R440	Cueing Arg1:T325 Arg2:T327	
+R441	Speaker Arg1:T326 Arg2:T324	
+R442	Speaker Arg1:T326 Arg2:T327	
+R443	Addressee Arg1:T321 Arg2:T324	
+R444	Addressee Arg1:T321 Arg2:T327	
+T328	Quotation 81653 81844	"Thank you.  I should be mortified indeed if I did not believe I had been of some use; but it is not every body who will bestow praise where they may.  You do not often overpower me with it."
+R445	Addressee Arg1:T326 Arg2:T328	
+R446	Speaker Arg1:T321 Arg2:T328	
+T329	Quotation 81845 81898	"You are expecting her again, you say, this morning?"
+R447	Speaker Arg1:T326 Arg2:T329	
+R448	Addressee Arg1:T321 Arg2:T329	
+T330	Quotation 81899 81974	"Almost every moment.  She has been gone longer already than she intended."
+R449	Addressee Arg1:T326 Arg2:T330	
+R450	Speaker Arg1:T321 Arg2:T330	
+T331	Quotation 81975 82036	"Something has happened to delay her; some visitors perhaps."
+R451	Speaker Arg1:T326 Arg2:T331	
+R452	Addressee Arg1:T321 Arg2:T331	
+T332	Quotation 82037 82077	"Highbury gossips!-- Tiresome wretches!"
+R453	Addressee Arg1:T326 Arg2:T332	
+R454	Speaker Arg1:T321 Arg2:T332	
+T333	Quotation 82078 82140	"Harriet may not consider every body tiresome that you would."
+R455	Speaker Arg1:T326 Arg2:T333	
+T334	Entity 82141 82145	Emma
+R456	Addressee Arg1:T334 Arg2:T333	
+T335	Entity 82217 82219	He
+T336	Quotation 82251 82416	"I do not pretend to fix on times or places, but I must tell you that I have good reason to believe your little friend will soon hear of something to her advantage."
+R457	Speaker Arg1:T335 Arg2:T336	
+R458	Addressee Arg1:T334 Arg2:T336	
+T337	Quotation 82417 82448	"Indeed! how so? of what sort?"
+R459	Addressee Arg1:T335 Arg2:T337	
+R460	Speaker Arg1:T334 Arg2:T337	
+T338	Quotation 82449 82485	"A very serious sort, I assure you;"
+R461	Speaker Arg1:T335 Arg2:T338	
+R462	Addressee Arg1:T334 Arg2:T338	
+T339	Quotation 82501 82603	"Very serious! I can think of but one thing-- Who is in love with her? Who makes you their confidant?"
+R463	Addressee Arg1:T335 Arg2:T339	
+R464	Speaker Arg1:T334 Arg2:T339	
+T340	Quotation 82770 82795	"I have reason to think,"
+T341	Entity 82796 82798	he
+T342	Cue 82799 82806	replied
+T343	Quotation 82808 83057	"that Harriet Smith will soon have an offer of marriage, and from a most unexceptionable quarter:-- Robert Martin is the man.  Her visit to Abbey-Mill, this summer, seems to have done his business.  He is desperately in love and means to marry her."
+R465	Speaker Arg1:T341 Arg2:T340	
+R466	Speaker Arg1:T341 Arg2:T343	
+R467	Cueing Arg1:T342 Arg2:T340	
+R468	Cueing Arg1:T342 Arg2:T343	
+T344	Entity 83086 83090	Emma
+R469	Addressee Arg1:T344 Arg2:T340	
+R470	Addressee Arg1:T344 Arg2:T343	
+T345	Quotation 83058 83080	"He is very obliging,"
+T346	Cue 83081 83085	said
+T347	Quotation 83092 83141	"but is he sure that Harriet means to marry him?"
+R471	Speaker Arg1:T344 Arg2:T345	
+R472	Speaker Arg1:T344 Arg2:T347	
+R473	Cueing Arg1:T346 Arg2:T345	
+R474	Cueing Arg1:T346 Arg2:T347	
+R475	Addressee Arg1:T341 Arg2:T345	
+R476	Addressee Arg1:T341 Arg2:T347	
+T348	Quotation 83142 84801	"Well, well, means to make her an offer then.  Will that do? He came to the Abbey two evenings ago, on purpose to consult me about it.  He knows I have a thorough regard for him and all his family, and, I believe, considers me as one of his best friends.  He came to ask me whether I thought it would be imprudent in him to settle so early; whether I thought her too young: in short, whether I approved his choice altogether; having some apprehension perhaps of her being considered (especially since your making so much of her) as in a line of society above him.  I was very much pleased with all that he said. I never hear better sense from any one than Robert Martin.  He always speaks to the purpose; open, straightforward, and very well judging. He told me every thing; his circumstances and plans, and what they all proposed doing in the event of his marriage.  He is an excellent young man, both as son and brother.  I had no hesitation in advising him to marry.  He proved to me that he could afford it; and that being the case, I was convinced he could not do better.  I praised the fair lady too, and altogether sent him away very happy.  If he had never esteemed my opinion before, he would have thought highly of me then; and, I dare say, left the house thinking me the best friend and counsellor man ever had.  This happened the night before last.  Now, as we may fairly suppose, he would not allow much time to pass before he spoke to the lady, and as he does not appear to have spoken yesterday, it is not unlikely that he should be at Mrs. Goddard's to-day; and she may be detained by a visitor, without thinking him at all a tiresome wretch."
+R477	Addressee Arg1:T344 Arg2:T348	
+R478	Speaker Arg1:T341 Arg2:T348	
+T349	Quotation 84802 84824	"Pray, Mr. Knightley,"
+T350	Cue 84825 84829	said
+T351	Entity 84830 84834	Emma
+T352	Quotation 84905 84963	"how do you know that Mr. Martin did not speak yesterday?"
+R479	Cueing Arg1:T350 Arg2:T349	
+R480	Cueing Arg1:T350 Arg2:T352	
+R481	Speaker Arg1:T351 Arg2:T349	
+R482	Speaker Arg1:T351 Arg2:T352	
+R483	Addressee Arg1:T341 Arg2:T349	
+R484	Addressee Arg1:T341 Arg2:T352	
+T353	Quotation 84964 84976	"Certainly,"
+T354	Cue 84977 84984	replied
+T355	Entity 84985 84987	he
+T356	Quotation 85000 85091	"I do not absolutely know it; but it may be inferred.  Was not she the whole day with you?"
+R485	Cueing Arg1:T354 Arg2:T353	
+R486	Cueing Arg1:T354 Arg2:T356	
+R487	Speaker Arg1:T355 Arg2:T353	
+R488	Speaker Arg1:T355 Arg2:T356	
+R489	Addressee Arg1:T351 Arg2:T353	
+R490	Addressee Arg1:T351 Arg2:T356	
+T357	Quotation 85092 85099	"Come,"
+T358	Cue 85100 85104	said
+T359	Entity 85105 85108	she
+T360	Quotation 85110 85237	"I will tell you something, in return for what you have told me.  He did speak yesterday-- that is, he wrote, and was refused."
+R491	Cueing Arg1:T358 Arg2:T357	
+R492	Cueing Arg1:T358 Arg2:T360	
+R493	Speaker Arg1:T359 Arg2:T357	
+R494	Speaker Arg1:T359 Arg2:T360	
+R495	Addressee Arg1:T355 Arg2:T357	
+R496	Addressee Arg1:T355 Arg2:T360	
+T361	Cue 85409 85413	said
+T362	Entity 85303 85316	Mr. Knightley
+T363	Quotation 85415 85507	"Then she is a greater simpleton than I ever believed her.  What is the foolish girl about?"
+T364	Quotation 85508 85525	"Oh! to be sure,"
+T365	Cue 85526 85531	cried
+T366	Entity 85532 85536	Emma
+R497	Speaker Arg1:T362 Arg2:T363	
+R498	Cueing Arg1:T361 Arg2:T363	
+R499	Addressee Arg1:T366 Arg2:T363	
+R500	Cueing Arg1:T365 Arg2:T364	
+R501	Speaker Arg1:T366 Arg2:T364	
+T367	Quotation 85538 85702	"it is always incomprehensible to a man that a woman should ever refuse an offer of marriage.  A man always imagines a woman to be ready for any body who asks her."
+R502	Speaker Arg1:T366 Arg2:T367	
+R503	Cueing Arg1:T365 Arg2:T367	
+R504	Addressee Arg1:T362 Arg2:T364	
+R505	Addressee Arg1:T362 Arg2:T367	
+T368	Quotation 85703 85874	"Nonsense! a man does not imagine any such thing.  But what is the meaning of this? Harriet Smith refuse Robert Martin? madness, if it is so; but I hope you are mistaken."
+R506	Speaker Arg1:T362 Arg2:T368	
+R507	Addressee Arg1:T366 Arg2:T368	
+T369	Quotation 85875 85922	"I saw her answer!-- nothing could be clearer."
+R508	Speaker Arg1:T366 Arg2:T369	
+R509	Addressee Arg1:T362 Arg2:T369	
+T370	Quotation 85923 86033	"You saw her answer!-- you wrote her answer too.  Emma, this is your doing.  You persuaded her to refuse him."
+R510	Addressee Arg1:T366 Arg2:T370	
+R511	Speaker Arg1:T362 Arg2:T370	
+T371	Quotation 86034 86400	"And if I did, (which, however, I am far from allowing) I should not feel that I had done wrong.  Mr. Martin is a very respectable young man, but I cannot admit him to be Harriet's equal; and am rather surprized indeed that he should have ventured to address her.  By your account, he does seem to have had some scruples.  It is a pity that they were ever got over."
+R512	Speaker Arg1:T366 Arg2:T371	
+R513	Addressee Arg1:T362 Arg2:T371	
+T372	Quotation 86401 86423	"Not Harriet's equal!"
+T373	Cue 86424 86433	exclaimed
+T374	Entity 86434 86447	Mr. Knightley
+R514	Cueing Arg1:T373 Arg2:T372	
+R515	Speaker Arg1:T374 Arg2:T372	
+R516	Addressee Arg1:T366 Arg2:T372	
+T375	Quotation 86526 88269	"No, he is not her equal indeed, for he is as much her superior in sense as in situation.  Emma, your infatuation about that girl blinds you.  What are Harriet Smith's claims, either of birth, nature or education, to any connexion higher than Robert Martin? She is the natural daughter of nobody knows whom, with probably no settled provision at all, and certainly no respectable relations.  She is known only as parlour-boarder at a common school.  She is not a sensible girl, nor a girl of any information.  She has been taught nothing useful, and is too young and too simple to have acquired any thing herself.  At her age she can have no experience, and with her little wit, is not very likely ever to have any that can avail her.  She is pretty, and she is good tempered, and that is all.  My only scruple in advising the match was on his account, as being beneath his deserts, and a bad connexion for him.  I felt that, as to fortune, in all probability he might do much better; and that as to a rational companion or useful helpmate, he could not do worse.  But I could not reason so to a man in love, and was willing to trust to there being no harm in her, to her having that sort of disposition, which, in good hands, like his, might be easily led aright and turn out very well.  The advantage of the match I felt to be all on her side; and had not the smallest doubt (nor have I now) that there would be a general cry-out upon her extreme good luck.  Even your satisfaction I made sure of.  It crossed my mind immediately that you would not regret your friend's leaving Highbury, for the sake of her being settled so well.  I remember saying to myself, 'Even Emma, with all her partiality for Harriet, will think this a good match.'"
+R517	Speaker Arg1:T374 Arg2:T375	
+R518	Cueing Arg1:T373 Arg2:T375	
+R519	Addressee Arg1:T366 Arg2:T375	
+T376	Quotation 88270 89047	"I cannot help wondering at your knowing so little of Emma as to say any such thing.  What! think a farmer, (and with all his sense and all his merit Mr. Martin is nothing more,) a good match for my intimate friend! Not regret her leaving Highbury for the sake of marrying a man whom I could never admit as an acquaintance of my own! I wonder you should think it possible for me to have such feelings.  I assure you mine are very different.  I must think your statement by no means fair. You are not just to Harriet's claims.  They would be estimated very differently by others as well as myself; Mr. Martin may be the richest of the two, but he is undoubtedly her inferior as to rank in society.-- The sphere in which she moves is much above his.-- It would be a degradation."
+R520	Addressee Arg1:T374 Arg2:T376	
+R521	Speaker Arg1:T366 Arg2:T376	
+T377	Quotation 89048 89156	"A degradation to illegitimacy and ignorance, to be married to a respectable, intelligent gentleman-farmer!"
+R522	Speaker Arg1:T374 Arg2:T377	
+R523	Addressee Arg1:T366 Arg2:T377	
+T378	Quotation 89157 89762	"As to the circumstances of her birth, though in a legal sense she may be called Nobody, it will not hold in common sense.  She is not to pay for the offence of others, by being held below the level of those with whom she is brought up.-- There can scarcely be a doubt that her father is a gentleman-- and a gentleman of fortune.-- Her allowance is very liberal; nothing has ever been grudged for her improvement or comfort.-- That she is a gentleman's daughter, is indubitable to me; that she associates with gentlemen's daughters, no one, I apprehend, will deny.-- She is superior to Mr. Robert Martin."
+R524	Addressee Arg1:T374 Arg2:T378	
+R525	Speaker Arg1:T366 Arg2:T378	
+T379	Quotation 89763 89794	"Whoever might be her parents,"
+T380	Cue 89795 89799	said
+T381	Entity 89800 89813	Mr. Knightley
+T382	Quotation 89815 90894	"whoever may have had the charge of her, it does not appear to have been any part of their plan to introduce her into what you would call good society. After receiving a very indifferent education she is left in Mrs. Goddard's hands to shift as she can;-- to move, in short, in Mrs. Goddard's line, to have Mrs. Goddard's acquaintance.  Her friends evidently thought this good enough for her; and it was good enough. She desired nothing better herself.  Till you chose to turn her into a friend, her mind had no distaste for her own set, nor any ambition beyond it.  She was as happy as possible with the Martins in the summer.  She had no sense of superiority then.  If she has it now, you have given it.  You have been no friend to Harriet Smith, Emma.  Robert Martin would never have proceeded so far, if he had not felt persuaded of her not being disinclined to him.  I know him well.  He has too much real feeling to address any woman on the haphazard of selfish passion. And as to conceit, he is the farthest from it of any man I know. Depend upon it he had encouragement."
+R526	Cueing Arg1:T380 Arg2:T379	
+R527	Speaker Arg1:T381 Arg2:T379	
+R528	Cueing Arg1:T380 Arg2:T382	
+R529	Speaker Arg1:T381 Arg2:T382	
+T383	Entity 90921 90925	Emma
+R530	Addressee Arg1:T383 Arg2:T379	
+R531	Addressee Arg1:T383 Arg2:T382	
+T384	Quotation 91035 92396	"You are a very warm friend to Mr. Martin; but, as I said before, are unjust to Harriet.  Harriet's claims to marry well are not so contemptible as you represent them.  She is not a clever girl, but she has better sense than you are aware of, and does not deserve to have her understanding spoken of so slightingly.  Waiving that point, however, and supposing her to be, as you describe her, only pretty and good-natured, let me tell you, that in the degree she possesses them, they are not trivial recommendations to the world in general, for she is, in fact, a beautiful girl, and must be thought so by ninety-nine people out of an hundred; and till it appears that men are much more philosophic on the subject of beauty than they are generally supposed; till they do fall in love with well-informed minds instead of handsome faces, a girl, with such loveliness as Harriet, has a certainty of being admired and sought after, of having the power of chusing from among many, consequently a claim to be nice.  Her good-nature, too, is not so very slight a claim, comprehending, as it does, real, thorough sweetness of temper and manner, a very humble opinion of herself, and a great readiness to be pleased with other people.  I am very much mistaken if your sex in general would not think such beauty, and such temper, the highest claims a woman could possess."
+R532	Speaker Arg1:T383 Arg2:T384	
+R533	Addressee Arg1:T381 Arg2:T384	
+T385	Quotation 92397 92555	"Upon my word, Emma, to hear you abusing the reason you have, is almost enough to make me think so too.  Better be without sense, than misapply it as you do."
+R534	Speaker Arg1:T381 Arg2:T385	
+R535	Addressee Arg1:T383 Arg2:T385	
+T386	Quotation 92556 92569	"To be sure!"
+T387	Cue 92570 92575	cried
+T388	Entity 92576 92579	she
+R536	Cueing Arg1:T387 Arg2:T386	
+R537	Speaker Arg1:T388 Arg2:T386	
+R538	Addressee Arg1:T381 Arg2:T386	
+T389	Quotation 92592 93073	"I know that is the feeling of you all.  I know that such a girl as Harriet is exactly what every man delights in-- what at once bewitches his senses and satisfies his judgment.  Oh! Harriet may pick and chuse.  Were you, yourself, ever to marry, she is the very woman for you.  And is she, at seventeen, just entering into life, just beginning to be known, to be wondered at because she does not accept the first offer she receives? No-- pray let her have time to look about her."
+R539	Speaker Arg1:T388 Arg2:T389	
+R540	Cueing Arg1:T387 Arg2:T389	
+R541	Addressee Arg1:T381 Arg2:T389	
+T390	Quotation 93074 93125	"I have always thought it a very foolish intimacy,"
+T391	Cue 93126 93130	said
+T392	Entity 93131 93144	Mr. Knightley
+T393	Quotation 93156 94454	"though I have kept my thoughts to myself; but I now perceive that it will be a very unfortunate one for Harriet.  You will puff her up with such ideas of her own beauty, and of what she has a claim to, that, in a little while, nobody within her reach will be good enough for her.  Vanity working on a weak head, produces every sort of mischief.  Nothing so easy as for a young lady to raise her expectations too high.  Miss Harriet Smith may not find offers of marriage flow in so fast, though she is a very pretty girl.  Men of sense, whatever you may chuse to say, do not want silly wives.  Men of family would not be very fond of connecting themselves with a girl of such obscurity-- and most prudent men would be afraid of the inconvenience and disgrace they might be involved in, when the mystery of her parentage came to be revealed.  Let her marry Robert Martin, and she is safe, respectable, and happy for ever; but if you encourage her to expect to marry greatly, and teach her to be satisfied with nothing less than a man of consequence and large fortune, she may be a parlour-boarder at Mrs. Goddard's all the rest of her life-- or, at least, (for Harriet Smith is a girl who will marry somebody or other,) till she grow desperate, and is glad to catch at the old writing-master's son."
+R542	Speaker Arg1:T392 Arg2:T393	
+R543	Cueing Arg1:T391 Arg2:T393	
+R544	Addressee Arg1:T388 Arg2:T393	
+T394	Quotation 94455 95571	"We think so very differently on this point, Mr. Knightley, that there can be no use in canvassing it.  We shall only be making each other more angry.  But as to my letting her marry Robert Martin, it is impossible; she has refused him, and so decidedly, I think, as must prevent any second application.  She must abide by the evil of having refused him, whatever it may be; and as to the refusal itself, I will not pretend to say that I might not influence her a little; but I assure you there was very little for me or for any body to do.  His appearance is so much against him, and his manner so bad, that if she ever were disposed to favour him, she is not now.  I can imagine, that before she had seen any body superior, she might tolerate him.  He was the brother of her friends, and he took pains to please her; and altogether, having seen nobody better (that must have been his great assistant) she might not, while she was at Abbey-Mill, find him disagreeable.  But the case is altered now.  She knows now what gentlemen are; and nothing but a gentleman in education and manner has any chance with Harriet."
+R545	Speaker Arg1:T388 Arg2:T394	
+R546	Addressee Arg1:T392 Arg2:T394	
+T395	Quotation 95572 95620	"Nonsense, errant nonsense, as ever was talked!"
+T396	Cue 95621 95626	cried
+T397	Entity 95627 95640	Mr. Knightley
+T398	Quotation 95644 95801	"Robert Martin's manners have sense, sincerity, and good-humour to recommend them; and his mind has more true gentility than Harriet Smith could understand."
+R547	Cueing Arg1:T396 Arg2:T395	
+R548	Cueing Arg1:T396 Arg2:T398	
+R549	Speaker Arg1:T397 Arg2:T395	
+R550	Speaker Arg1:T397 Arg2:T398	
+T399	Entity 95802 95806	Emma
+R551	Addressee Arg1:T399 Arg2:T395	
+R552	Addressee Arg1:T399 Arg2:T398	
+T400	Quotation 96508 96898	"Robert Martin has no great loss-- if he can but think so; and I hope it will not be long before he does.  Your views for Harriet are best known to yourself; but as you make no secret of your love of match-making, it is fair to suppose that views, and plans, and projects you have;-- and as a friend I shall just hint to you that if Elton is the man, I think it will be all labour in vain."
+T401	Entity 96462 96465	his
+R553	Speaker Arg1:T401 Arg2:T400	
+T402	Entity 96899 96903	Emma
+R554	Addressee Arg1:T402 Arg2:T400	
+T403	Entity 96929 96931	He
+T404	Cue 96932 96941	continued
+T405	Quotation 96943 97698	"Depend upon it, Elton will not do.  Elton is a very good sort of man, and a very respectable vicar of Highbury, but not at all likely to make an imprudent match.  He knows the value of a good income as well as any body.  Elton may talk sentimentally, but he will act rationally.  He is as well acquainted with his own claims, as you can be with Harriet's. He knows that he is a very handsome young man, and a great favourite wherever he goes; and from his general way of talking in unreserved moments, when there are only men present, I am convinced that he does not mean to throw himself away.  I have heard him speak with great animation of a large family of young ladies that his sisters are intimate with, who have all twenty thousand pounds apiece."
+R555	Cueing Arg1:T404 Arg2:T405	
+R556	Speaker Arg1:T403 Arg2:T405	
+R557	Addressee Arg1:T402 Arg2:T405	
+T406	Quotation 97699 97731	"I am very much obliged to you,"
+T407	Cue 97732 97736	said
+T408	Entity 97737 97741	Emma
+R558	Cueing Arg1:T407 Arg2:T406	
+R559	Speaker Arg1:T408 Arg2:T406	
+R560	Addressee Arg1:T403 Arg2:T406	
+T409	Quotation 97760 98047	"If I had set my heart on Mr. Elton's marrying Harriet, it would have been very kind to open my eyes; but at present I only want to keep Harriet to myself.  I have done with match-making indeed.  I could never hope to equal my own doings at Randalls.  I shall leave off while I am well."
+R561	Speaker Arg1:T408 Arg2:T409	
+R562	Cueing Arg1:T407 Arg2:T409	
+T410	Quotation 98048 98070	"Good morning to you,"
+T411	Cue 98073 98077	said
+T412	Entity 98078 98080	he
+R563	Cueing Arg1:T411 Arg2:T410	
+R564	Speaker Arg1:T412 Arg2:T410	
+R565	Addressee Arg1:T412 Arg2:T409	
+R566	Addressee Arg1:T408 Arg2:T410	
+T413	Entity 100938 100940	he
+T414	Cue 100945 100949	told
+T415	Entity 100950 100959	Miss Nash
+T416	Quotation 100961 101164	that as he was coming back yesterday from Clayton Park, he had met Mr. Elton, and found to his great surprize, that Mr. Elton was actually on his road to London, and not meaning to return till the morrow
+R567	Speaker Arg1:T413 Arg2:T416	
+R568	Cueing Arg1:T414 Arg2:T416	
+R569	Addressee Arg1:T415 Arg2:T416	
+T417	Entity 101252 101261	Mr. Perry
+T418	Cue 101302 101306	told
+T419	Entity 101307 101310	him
+T420	Quotation 101311 101373	how shabby it was in him, their best player, to absent himself
+R570	Speaker Arg1:T417 Arg2:T420	
+R571	Addressee Arg1:T419 Arg2:T420	
+R572	Cueing Arg1:T418 Arg2:T420	
+T421	Entity 101469 101478	Mr. Elton
+T422	Cue 101517 101521	said
+T423	Quotation 101555 101748	that he was going on business which he would not put off for any inducement in the world; and something about a very enviable commission, and being the bearer of something exceedingly precious.
+T424	Entity 101750 101759	Mr. Perry
+R573	Addressee Arg1:T424 Arg2:T423	
+R574	Cueing Arg1:T422 Arg2:T423	
+R575	Speaker Arg1:T421 Arg2:T423	
+T425	Quotation 102084 102341	"that she did not pretend to understand what his business might be, but she only knew that any woman whom Mr. Elton could prefer, she should think the luckiest woman in the world; for, beyond a doubt, Mr. Elton had not his equal for beauty or agreeableness.
+T426	Entity 102079 102082	her
+T427	Entity 101953 101962	Miss Nash
+R576	Speaker Arg1:T427 Arg2:T425	
+R577	Addressee Arg1:T426 Arg2:T425	
+T428	Cue 102040 102044	said
+R578	Cueing Arg1:T428 Arg2:T425	

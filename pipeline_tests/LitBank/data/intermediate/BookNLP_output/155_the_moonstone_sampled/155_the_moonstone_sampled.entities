@@ -1,0 +1,278 @@
+COREF	start_token	end_token	prop	cat	text
+1	4	4	PROP	GPE	SERINGAPATAM
+0	13	13	PRON	PER	I
+2	20	20	PROP	GPE	India
+0	23	23	PRON	PER	my
+23	23	26	NOM	PER	my relatives in England
+3	26	26	PROP	GPE	England
+0	28	28	PRON	PER	My
+0	38	38	PRON	PER	me
+0	47	47	PRON	PER	my
+24	47	48	NOM	PER	my cousin
+11	50	51	PROP	PER	John Herncastle
+0	56	56	PRON	PER	I
+0	69	69	PRON	PER	my
+25	69	70	NOM	PER	my family
+0	74	74	PRON	PER	I
+0	81	81	PRON	PER	I
+25	83	83	PRON	PER	them
+25	86	86	PRON	PER	their
+25	89	89	PRON	PER	they
+0	92	92	PRON	PER	my
+0	96	96	PRON	PER	I
+0	100	100	PRON	PER	my
+0	107	107	PRON	PER	I
+0	126	126	PRON	PER	my
+24	126	127	NOM	PER	my cousin
+0	129	129	PRON	PER	me
+27	140	140	PRON	PER	we
+1	148	148	PROP	GPE	Seringapatam
+12	151	152	PROP	PER	General Baird
+0	172	172	PRON	PER	I
+27	191	191	PRON	PER	our
+28	191	206	NOM	FAC	our camp of the treasure in jewels and gold stored up in the Palace of Seringapatam
+29	203	206	NOM	FAC	the Palace of Seringapatam
+1	206	206	PROP	GPE	Seringapatam
+30	226	230	NOM	LOC	the native annals of India
+2	230	230	PROP	GPE	India
+31	247	256	NOM	PER	the four - handed Indian god who typifies the Moon
+32	276	287	NOM	PER	the deity whom it adorned , and growing and lessening in lustre
+2	310	310	PROP	GPE	India
+4	318	319	PROP	LOC	THE MOONSTONE
+0	329	329	PRON	PER	I
+33	334	335	NOM	GPE	ancient Greece
+5	337	337	PROP	GPE	Rome
+2	346	346	PROP	GPE	India
+34	357	358	NOM	PER	a god
+35	403	403	NOM	PER	collectors
+27	405	405	PRON	PER	our
+36	429	431	NOM	PER	the Mohammedan conqueror
+37	433	435	NOM	PER	Mahmoud of Ghizni
+6	435	435	PROP	GPE	Ghizni
+2	438	438	PROP	GPE	India
+38	442	446	NOM	GPE	the holy city of Somnauth
+7	446	446	PROP	GPE	Somnauth
+38	451	451	PRON	FAC	its
+39	453	467	NOM	FAC	the famous temple , which had stood for centuries -- the shrine of Hindoo pilgrimage
+8	466	466	PROP	GPE	Hindoo
+40	473	475	NOM	LOC	the Eastern world
+41	478	484	NOM	PER	all the deities worshipped in the temple
+42	483	484	NOM	FAC	the temple
+13	497	497	PROP	PER	Mohammedans
+14	501	502	PROP	PER	three Brahmins
+43	525	532	NOM	GPE	the second of the sacred cities of India
+44	528	532	NOM	GPE	the sacred cities of India
+2	532	532	PROP	GPE	India
+45	534	537	NOM	GPE	the city of Benares
+9	537	537	PROP	GPE	Benares
+46	542	544	NOM	FAC	a new shrine
+47	547	561	NOM	FAC	a hall inlaid with precious stones , under a roof supported by pillars of gold
+48	579	580	NOM	FAC	the shrine
+15	584	586	PROP	PER	Vishnu the Preserver
+49	596	597	NOM	PER	The deity
+15	602	602	PRON	PER	his
+50	611	612	NOM	PER	the god
+14	615	616	PROP	PER	the Brahmins
+14	620	620	PRON	PER	their
+14	623	623	PRON	PER	their
+49	626	627	NOM	PER	The deity
+52	642	645	NOM	PER	three priests in turn
+53	655	658	NOM	PER	the generations of men
+54	658	658	NOM	PER	men
+14	661	662	PROP	PER	the Brahmins
+15	668	668	PRON	PER	his
+49	671	672	NOM	PER	The deity
+56	677	686	NOM	PER	the presumptuous mortal who laid hands on the sacred gem
+56	692	692	PRON	PER	his
+57	692	693	NOM	FAC	his house
+56	700	700	PRON	PER	him
+14	703	704	PROP	PER	the Brahmins
+58	734	739	NOM	PER	the successors of the three Brahmins
+59	737	739	NOM	PER	the three Brahmins
+58	741	741	PRON	PER	their
+16	766	766	PROP	PER	Aurungzebe
+60	768	771	NOM	PER	Emperor of the Moguls
+17	770	771	PROP	PER	the Moguls
+60	774	774	PRON	PER	his
+18	791	791	PROP	PER	Brahmah
+61	793	800	NOM	FAC	The shrine of the four - handed god
+62	796	800	NOM	PER	the four - handed god
+63	813	814	NOM	PER	the deities
+64	826	834	NOM	PER	an officer of rank in the army of Aurungzebe
+65	831	834	NOM	ORG	the army of Aurungzebe
+16	834	834	PROP	GPE	Aurungzebe
+58	839	839	PRON	PER	their
+66	846	849	NOM	PER	the three guardian priests
+67	857	858	NOM	PER	The generations
+68	860	861	NOM	PER	each other
+69	900	906	NOM	PER	the successors of the three guardian priests
+66	903	906	NOM	PER	the three guardian priests
+66	908	908	PRON	PER	their
+15	918	920	PROP	PER	Vishnu the Preserver
+66	924	924	PRON	PER	them
+66	925	925	PRON	PER	their
+19	952	952	PROP	PER	Tippoo
+1	956	956	PROP	GPE	Seringapatam
+1	986	986	PRON	PER	his
+71	993	998	NOM	FAC	the palace of the Sultan himself
+72	996	997	NOM	PER	the Sultan
+72	998	998	PRON	PER	himself
+66	1000	1003	NOM	PER	the three guardian priests
+66	1006	1006	PRON	PER	their
+74	1013	1043	NOM	PER	three officers of Tippoo ’s household , strangers to the rest , who had won their master ’s confidence by conforming , or appearing to conform , to the Mussulman faith
+19	1016	1016	PROP	PER	Tippoo
+75	1016	1018	NOM	FAC	Tippoo ’s household
+74	1028	1028	PRON	PER	their
+76	1028	1029	NOM	PER	their master
+20	1041	1042	PROP	PER	the Mussulman
+77	1047	1049	NOM	PER	those three men
+78	1053	1057	NOM	PER	the three priests in disguise
+79	1065	1065	PRON	PER	our
+80	1065	1066	NOM	FAC	our camp
+79	1084	1084	PRON	PER	us
+0	1086	1086	PRON	PER	my
+24	1086	1087	NOM	PER	my cousin
+24	1095	1095	PRON	PER	him
+1	1107	1107	PROP	PER	Seringapatam
+1	1109	1109	PRON	PER	he
+0	1114	1114	PRON	PER	me
+11	1135	1135	PROP	PER	Herncastle
+1	1143	1143	PRON	PER	him
+1	1145	1145	PRON	PER	He
+1	1149	1149	PRON	PER	his
+79	1154	1154	PRON	PER	we
+1	1160	1160	PRON	PER	his
+82	1164	1166	NOM	ORG	the English army
+1	1168	1168	PROP	PER	Seringapatam
+83	1170	1171	NOM	PER	The sally
+79	1184	1184	PRON	PER	we
+0	1195	1195	PRON	PER	me
+84	1198	1198	PRON	PER	you
+0	1207	1207	PRON	PER	My
+24	1207	1208	NOM	PER	My cousin
+0	1210	1210	PRON	PER	I
+0	1217	1217	PRON	PER	I
+24	1220	1220	PRON	PER	him
+79	1222	1222	PRON	PER	we
+86	1224	1225	NOM	LOC	the river
+79	1228	1228	PRON	PER	we
+79	1239	1239	PRON	PER	we
+87	1241	1242	NOM	LOC	the ditch
+79	1251	1251	PRON	PER	our
+88	1255	1256	NOM	GPE	the town
+89	1265	1266	NOM	GPE	the place
+79	1268	1268	PRON	PER	ours
+12	1272	1273	PROP	PER	General Baird
+12	1274	1274	PRON	PER	himself
+19	1281	1281	PROP	PER	Tippoo
+90	1286	1287	NOM	PER	the slain
+11	1290	1290	PROP	PER	Herncastle
+0	1292	1292	PRON	PER	I
+79	1295	1295	PRON	PER	We
+91	1305	1306	NOM	PER	the general
+79	1317	1317	PRON	PER	our
+92	1320	1323	NOM	PER	The camp - followers
+93	1333	1334	NOM	PER	the soldiers
+93	1336	1336	PRON	PER	their
+94	1345	1349	NOM	FAC	the treasury of the Palace
+95	1348	1349	NOM	FAC	the Palace
+93	1353	1353	PRON	PER	themselves
+96	1365	1366	NOM	FAC	the treasury
+0	1368	1368	PRON	PER	my
+24	1368	1369	NOM	PER	my cousin
+0	1371	1371	PRON	PER	I
+79	1381	1381	PRON	PER	our
+98	1381	1383	NOM	PER	our own soldiers
+11	1385	1385	PROP	PER	Herncastle
+0	1393	1393	PRON	PER	I
+79	1410	1410	PRON	PER	we
+24	1414	1414	PRON	PER	He
+0	1420	1420	PRON	PER	my
+24	1432	1432	PRON	PER	him
+0	1448	1448	PRON	PER	I
+99	1451	1452	NOM	PER	The men
+0	1455	1455	PRON	PER	I
+99	1463	1463	PRON	PER	themselves
+99	1479	1479	PRON	PER	them
+22	1485	1486	PROP	PER	the Diamond
+0	1535	1535	PRON	PER	I
+0	1544	1544	PRON	PER	I
+100	1554	1555	NOM	FAC	the courtyard
+0	1579	1579	PRON	PER	I
+101	1591	1592	NOM	PER	two Indians
+101	1595	1595	PRON	PER	their
+0	1599	1599	PRON	PER	I
+102	1602	1605	NOM	PER	officers of the palace
+95	1604	1605	NOM	FAC	the palace
+0	1618	1618	PRON	PER	me
+104	1620	1621	NOM	FAC	a room
+105	1631	1636	NOM	PER	A third Indian , mortally wounded
+106	1644	1650	NOM	PER	a man whose back was towards me
+0	1650	1650	PRON	PER	me
+107	1652	1653	NOM	PER	The man
+0	1659	1659	PRON	PER	I
+0	1664	1664	PRON	PER	I
+11	1666	1667	PROP	PER	John Herncastle
+107	1709	1709	PRON	PER	he
+0	1712	1712	PRON	PER	me
+108	1720	1722	NOM	PER	The dying Indian
+108	1725	1725	PRON	PER	his
+11	1733	1733	PROP	PER	Herncastle
+108	1741	1741	PRON	PER	his
+121	1751	1751	PRON	PER	you
+121	1753	1753	PRON	PER	yours
+108	1756	1756	PRON	PER	He
+0	1769	1769	PRON	PER	I
+109	1776	1786	NOM	PER	the men who had followed me across the courtyard crowded in
+0	1781	1781	PRON	PER	me
+100	1783	1784	NOM	FAC	the courtyard
+0	1788	1788	PRON	PER	My
+24	1788	1789	NOM	PER	My cousin
+109	1793	1793	PRON	PER	them
+112	1796	1797	NOM	PER	a madman
+122	1801	1802	NOM	FAC	the room
+24	1805	1805	PRON	PER	he
+0	1808	1808	PRON	PER	me
+123	1813	1814	NOM	PER	a guard
+99	1820	1821	NOM	PER	The men
+24	1825	1825	PRON	PER	he
+24	1827	1827	PRON	PER	himself
+99	1829	1829	PRON	PER	them
+24	1831	1831	PRON	PER	his
+24	1834	1834	PRON	PER	his
+0	1837	1837	PRON	PER	I
+114	1839	1844	NOM	PER	two sentinels of my own company
+0	1842	1842	PRON	PER	my
+115	1842	1844	NOM	ORG	my own company
+0	1848	1848	PRON	PER	I
+0	1864	1864	PRON	PER	I
+0	1869	1869	PRON	PER	my
+24	1869	1870	NOM	PER	my cousin
+117	1877	1881	NOM	PER	the plunder still going on
+12	1883	1884	PROP	PER	General Baird
+118	1893	1894	NOM	PER	any thief
+118	1901	1901	PRON	PER	he
+118	1903	1903	PRON	PER	he
+119	1910	1913	NOM	PER	The provost - marshal
+91	1921	1922	NOM	PER	the General
+11	1936	1936	PROP	PER	Herncastle
+0	1938	1938	PRON	PER	I
+12	1942	1942	PRON	PER	He
+12	1945	1945	PRON	PER	his
+0	1959	1959	PRON	PER	I
+0	1962	1962	PRON	PER	I
+12	1964	1964	PRON	PER	him
+0	1965	1965	PRON	PER	my
+0	1972	1972	PRON	PER	me
+0	1976	1976	PRON	PER	I
+124	1981	1985	NOM	PER	the Indian in the armoury
+124	1987	1987	PRON	PER	his
+124	1998	1998	PRON	PER	he
+124	2004	2004	PRON	PER	your
+125	2009	2010	NOM	PER	The Indian
+125	2012	2012	PRON	PER	his
+11	2016	2016	PRON	PER	I
+11	2026	2026	PROP	PER	Herncastle
+125	2030	2030	PRON	PER	his
+11	2034	2034	PRON	PER	I
+124	2039	2039	PRON	PER	you

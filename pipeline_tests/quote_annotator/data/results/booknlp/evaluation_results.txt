@@ -1,0 +1,20 @@
+=== booknlp: character-level dialogue match (threshold=0.9) — Dialogism corpus ===
+
+Dialogue is the positive class. A predicted quote is correct (TP) when its best character-level
+similarity to any gold quote in the same novel is >= threshold. FN = gold quotes nothing matched.
+
+=== Per-Novel Results ===
+Book                Pred  Gold   TP   FP   FN    Prec    Rec     F1
+-------------------------------------------------------------------
+emmelinetheorphan   1807  2338 1132  675 1166   0.626  0.493  0.552
+fitzgerald          1462  1405 1387   75   21   0.949  0.985  0.967
+litigators          3053  2990 2982   71    9   0.977  0.997  0.987
+prideandprejudice   1587  1575 1557   30   18   0.981  0.989  0.985
+roomwithaview       2148  2036 1257  891  784   0.585  0.616  0.600
+thespy              3319  3070 1576 1743 1501   0.475  0.512  0.493
+
+=== Corpus Totals (micro-averaged over all quotes) ===
+Predicted quotes: 13376   Gold quotes: 13414
+TP=9891  FP=3485  FN=3499
+Precision: 0.739   Recall: 0.739   F1: 0.739
+Unmatched gold quotes (missed dialogue): 3499

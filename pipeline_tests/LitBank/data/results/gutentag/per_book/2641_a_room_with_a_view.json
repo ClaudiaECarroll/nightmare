@@ -1,0 +1,204 @@
+{
+  "threshold": 0.9,
+  "TP": 29,
+  "FP": 9,
+  "FN": 23,
+  "n_pred": 38,
+  "n_gold": 52,
+  "matched_gold": 29,
+  "precision": 0.7631578947368421,
+  "recall": 0.5576923076923077,
+  "f1": 0.6444444444444444,
+  "predictions": [
+    {
+      "string": "nobusinessatall.Shepromisedussouthroomswithaviewclosetogether,insteadofwhichherearenorthrooms,lookingintoacourtyard,andalongwayapart.Oh,Lucy!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Charlotte,dontyoufeel,too,thatwemightbeinLondon?Icanhardlybelievethatallkindsofotherthingsarejustoutside.Isupposeitisonesbeingsotired.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thismeathassurelybeenusedforsoup,saidMissBartlett,layingdownherfork.",
+      "best_similarity": 0.6535,
+      "correct": false
+    },
+    {
+      "string": "IwantsotoseetheArno.TheroomstheSignorapromisedusinherletterwouldhavelookedovertheArno.TheSignorahadnobusinesstodoitatall.Oh,itisashame!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butitdoesseemhardthatyoushouldnthaveaview.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youmusthaveit,saidMissBartlett,partofwhosetravellingexpenseswerepaidbyLucysmother—apieceofgenerositytowhichshemademanyatactfulallusion.",
+      "best_similarity": 0.3241,
+      "correct": false
+    },
+    {
+      "string": "No,no.Youmusthaveit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iinsistonit.Yourmotherwouldneverforgiveme,Lucy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shewouldneverforgiveme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihaveaview,Ihaveaview.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aview?Oh,aview!Howdelightfulaviewis!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "hisnamesGeorge.Hehasaviewtoo.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah,saidMissBartlett,repressingLucy,whowasabouttospeak.",
+      "best_similarity": 0.3636,
+      "correct": false
+    },
+    {
+      "string": "isthatyoucanhaveourrooms,andwellhaveyours.Wellchange.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thankyouverymuchindeed;thatisoutofthequestion.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why?saidtheoldman,withbothfistsonthetable.",
+      "best_similarity": 0.3692,
+      "correct": false
+    },
+    {
+      "string": "Becauseitisquiteoutofthequestion,thankyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yousee,wedontliketotake—beganLucy.Hercousinagainrepressedher.",
+      "best_similarity": 0.5349,
+      "correct": false
+    },
+    {
+      "string": "George,persuadethem!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theresnothingelsetosay.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "quiteascene,andshehadanoddfeelingthatwhenevertheseill-bredtouristsspokethecontestwidenedanddeepenedtillitdealt,notwithroomsandviews,butwith—well,withsomethingquitedifferent,whoseexistenceshehadnotrealizedbefore.NowtheoldmanattackedMissBartlettalmostviolently:Whyshouldshenotchange?Whatpossibleobjectionhadshe?Theywouldclearoutinhalfanhour.",
+      "best_similarity": 0.2333,
+      "correct": false
+    },
+    {
+      "string": "Wearenot;wearegenteel.",
+      "best_similarity": 0.4706,
+      "correct": false
+    },
+    {
+      "string": "Eatyourdinner,dear,shesaidtoLucy,andbegantotoyagainwiththemeatthatshehadoncecensured.",
+      "best_similarity": 0.366,
+      "correct": false
+    },
+    {
+      "string": "Eatyourdinner,dear.Thispensionisafailure.To-morrowwewillmakeachange.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,oh!Why,itsMr.Beebe!Oh,howperfectlylovely!Oh,Charlotte,wemuststopnow,howeverbadtheroomsare.Oh!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howdoyoudo,Mr.Beebe?Iexpectthatyouhaveforgottenus:MissBartlettandMissHoneychurch,whowereatTunbridgeWellswhenyouhelpedtheVicarofSt.PetersthatverycoldEaster.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Justfancyhowsmalltheworldis.SummerStreet,too,makesitsospeciallyfunny.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andshehappenedtotellmeinthecourseofconversationthatyouhavejustacceptedtheliving—",
+      "best_similarity": 0.9814,
+      "correct": true
+    },
+    {
+      "string": "Yes,Iheardfrommothersolastweek.ShedidntknowthatIknewyouatTunbridgeWells;butIwrotebackatonce,andIsaid:Mr.Beebeis—",
+      "best_similarity": 0.9867,
+      "correct": true
+    },
+    {
+      "string": "ImoveintotheRectoryatSummerStreetnextJune.Iamluckytobeappointedtosuchacharmingneighbourhood.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,howgladIam!ThenameofourhouseisWindyCorner.Mr.Beebebowed.",
+      "best_similarity": 0.8654,
+      "correct": false
+    },
+    {
+      "string": "Thereismotherandmegenerally,andmybrother,thoughitsnotoftenwegethimtoch——Thechurchisratherfaroff,Imean.",
+      "best_similarity": 0.9709,
+      "correct": true
+    },
+    {
+      "string": "Lucy,dearest,letMr.Beebeeathisdinner.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iameatingit,thankyou,andenjoyingit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThefirstfineafternoondriveuptoFiesole,androundbySettignano,orsomethingofthatsort.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mr.Beebe,youarewrong.ThefirstfineafternoonyourladiesmustgotoPrato.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Weareinluck.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Prato!TheymustgotoPrato.Thatplaceistoosweetlysqualidforwords.Iloveit;Irevelinshakingoffthetrammelsofrespectability,asyouknow.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

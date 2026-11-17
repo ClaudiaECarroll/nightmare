@@ -1,0 +1,223 @@
+COREF	start_token	end_token	prop	cat	text
+11	44	45	NOM	PER	An author
+11	49	49	PRON	PER	himself
+12	53	61	NOM	PER	a gentleman who gives a private or eleemosynary treat
+13	69	71	NOM	PER	a public ordinary
+14	75	76	NOM	PER	all persons
+14	80	80	PRON	PER	their
+15	93	94	NOM	PER	the entertainer
+15	98	98	PRON	PER	he
+15	116	116	PRON	PER	his
+14	119	119	PRON	PER	they
+14	135	135	PRON	PER	them
+14	146	146	PRON	PER	them
+16	155	159	NOM	PER	the master of an ordinary
+17	158	159	NOM	PER	an ordinary
+18	166	166	PRON	PER	they
+18	172	172	PRON	PER	their
+18	190	190	PRON	PER	their
+18	208	208	PRON	PER	their
+18	221	221	PRON	PER	their
+19	221	222	NOM	PER	their customers
+20	233	239	NOM	PER	the honest and well - meaning host
+14	247	248	NOM	PER	all persons
+14	252	252	PRON	PER	their
+22	256	257	NOM	FAC	the house
+14	263	263	PRON	PER	themselves
+14	268	268	PRON	PER	they
+14	282	282	PRON	PER	them
+14	294	294	PRON	PER	their
+23	298	298	PRON	PER	we
+24	308	343	NOM	PER	any man who is capable of lending us either , we have condescended to take a hint from these honest victuallers , and shall prefix not only a general bill of fare to our whole entertainment
+23	315	315	PRON	PER	us
+23	318	318	PRON	PER	we
+25	326	328	NOM	PER	these honest victuallers
+23	341	341	PRON	PER	our
+26	349	350	NOM	PER	the reader
+23	375	375	PRON	PER	we
+0	390	390	PRON	PER	I
+0	393	393	PRON	PER	my
+27	393	395	NOM	PER	my sensible reader
+27	401	401	PRON	PER	his
+0	414	414	PRON	PER	I
+28	425	428	NOM	PER	the alderman of Bristol
+1	428	428	PROP	GPE	Bristol
+29	456	458	NOM	PER	the learned reader
+30	481	482	NOM	PER	a cook
+31	498	499	NOM	LOC	the world
+11	502	503	NOM	PER	an author
+30	575	575	PRON	PER	his
+30	578	578	PRON	PER	them
+33	613	613	NOM	PER	authors
+34	629	630	NOM	FAC	the shops
+35	647	648	NOM	PER	the author
+3	653	654	PROP	PER	Mr Pope
+30	690	690	PRON	PER	his
+36	697	698	NOM	PER	a duke
+30	711	711	PRON	PER	his
+37	720	724	NOM	FAC	the vilest stall in town
+38	724	724	NOM	GPE	town
+39	737	738	NOM	PER	the nobleman
+40	740	741	NOM	PER	the porter
+41	772	773	NOM	PER	the one
+35	813	814	NOM	PER	the author
+26	829	830	NOM	PER	the reader
+44	835	835	PRON	PER	we
+4	864	864	PROP	PER	Heliogabalus
+45	869	871	NOM	PER	This great man
+46	878	882	NOM	PER	all lovers of polite eating
+45	892	892	PRON	PER	his
+47	892	894	NOM	PER	his hungry guests
+47	901	901	PRON	PER	their
+44	922	922	PRON	PER	we
+44	934	934	PRON	PER	our
+48	934	935	NOM	PER	our reader
+49	950	951	NOM	GPE	the country
+50	973	973	NOM	FAC	courts
+51	975	975	NOM	GPE	cities
+44	982	982	PRON	PER	we
+44	986	986	PRON	PER	our
+48	986	987	NOM	PER	our reader
+53	999	1005	NOM	PER	the great person just above - mentioned
+54	1011	1012	NOM	PER	some persons
+44	1020	1020	PRON	PER	we
+44	1027	1027	PRON	PER	our
+54	1034	1034	PRON	PER	their
+44	1048	1048	PRON	PER	our
+54	1051	1051	PRON	PER	their
+5	1061	1062	PROP	PER	squire Allworthy
+5	1069	1071	PROP	PER	Miss Bridget Allworthy
+55	1073	1073	PRON	PER	his
+56	1073	1074	NOM	PER	his sister
+57	1080	1090	NOM	LOC	the western division of this kingdom which is commonly called Somersetshire
+58	1084	1085	NOM	GPE	this kingdom
+2	1090	1090	PROP	GPE	Somersetshire
+59	1101	1106	NOM	PER	a gentleman whose name was Allworthy
+5	1106	1106	PROP	PER	Allworthy
+60	1114	1120	NOM	PER	the favourite of both nature and fortune
+60	1135	1135	PRON	PER	him
+5	1154	1154	PRON	PER	she
+60	1157	1157	PRON	PER	him
+5	1168	1168	PRON	PER	her
+5	1177	1177	PRON	PER	she
+60	1203	1203	PRON	PER	he
+60	1214	1214	PRON	PER	he
+61	1216	1218	NOM	PER	an agreeable person
+60	1237	1237	PRON	PER	he
+62	1244	1251	NOM	FAC	one of the largest estates in the county
+63	1246	1251	NOM	FAC	the largest estates in the county
+64	1250	1251	NOM	GPE	the county
+65	1253	1254	NOM	PER	This gentleman
+65	1257	1257	PRON	PER	his
+66	1260	1265	NOM	PER	a very worthy and beautiful woman
+65	1269	1269	PRON	PER	he
+66	1276	1276	PRON	PER	her
+65	1277	1277	PRON	PER	he
+67	1279	1280	NOM	PER	three children
+68	1282	1288	NOM	PER	all of whom died in their infancy
+67	1287	1287	PRON	PER	their
+65	1290	1290	PRON	PER	He
+69	1298	1300	NOM	PER	this beloved wife
+69	1301	1301	PRON	PER	herself
+65	1324	1324	PRON	PER	he
+70	1327	1332	NOM	PER	a man of sense and constancy
+65	1339	1339	PRON	PER	he
+65	1351	1351	PRON	PER	he
+65	1354	1354	PRON	PER	he
+65	1357	1357	PRON	PER	himself
+65	1364	1364	PRON	PER	his
+71	1364	1365	NOM	PER	his wife
+65	1372	1372	PRON	PER	him
+65	1377	1377	PRON	PER	he
+71	1388	1388	PRON	PER	her
+65	1392	1392	PRON	PER	he
+71	1400	1400	PRON	PER	her
+72	1403	1426	NOM	GPE	a place where he should never part with her more -- sentiments for which his sense was arraigned by one part of his neighbours
+65	1406	1406	PRON	PER	he
+71	1411	1411	PRON	PER	her
+65	1417	1417	PRON	PER	his
+65	1425	1425	PRON	PER	his
+73	1425	1426	NOM	PER	his neighbours
+65	1428	1428	PRON	PER	his
+65	1435	1435	PRON	PER	his
+65	1441	1441	PRON	PER	He
+49	1452	1453	NOM	GPE	the country
+75	1456	1466	NOM	PER	one sister , for whom he had a very tender affection
+65	1461	1461	PRON	PER	he
+76	1468	1469	NOM	PER	This lady
+77	1488	1489	NOM	PER	the malicious
+78	1494	1495	NOM	PER	old maid
+76	1503	1503	PRON	PER	She
+79	1506	1551	NOM	PER	that species of women whom you commend rather for good qualities than beauty , and who are generally called , by their own sex , very good sort of women -- as good a sort of woman , madam , as you would wish to know
+80	1511	1511	PRON	PER	you
+81	1527	1527	PRON	PER	their
+82	1535	1535	NOM	PER	women
+83	1539	1542	NOM	PER	a sort of woman
+84	1544	1544	NOM	PER	madam
+85	1547	1547	PRON	PER	you
+76	1555	1555	PRON	PER	she
+76	1566	1566	PRON	PER	she
+6	1586	1586	PROP	PER	God
+76	1587	1587	PRON	PER	she
+7	1593	1594	PROP	PER	Miss Such
+76	1608	1608	PRON	PER	she
+5	1614	1616	PROP	PER	Miss Bridget Allworthy
+76	1624	1625	NOM	PER	this lady
+87	1635	1642	NOM	PER	a woman to be no better than snares
+5	1644	1644	PRON	PER	herself
+88	1650	1650	NOM	PER	others
+5	1657	1657	PRON	PER	she
+5	1659	1659	PRON	PER	her
+5	1663	1663	PRON	PER	her
+5	1673	1673	PRON	PER	she
+5	1685	1685	PRON	PER	her
+0	1691	1691	PRON	PER	I
+26	1701	1702	NOM	PER	the reader
+90	1705	1708	NOM	PER	this guard of prudence
+91	1711	1713	NOM	PER	the trained bands
+92	1739	1740	NOM	PER	the men
+92	1754	1754	PRON	PER	their
+93	1768	1773	NOM	PER	women for whom the other sex
+0	1788	1788	PRON	PER	I
+92	1794	1794	PRON	PER	they
+8	1800	1800	PROP	PER	Reader
+0	1802	1802	PRON	PER	I
+94	1807	1807	PRON	PER	we
+95	1815	1815	PRON	PER	thee
+0	1817	1817	PRON	PER	I
+0	1830	1830	PRON	PER	I
+0	1836	1836	PRON	PER	I
+0	1838	1838	PRON	PER	myself
+96	1843	1845	NOM	PER	any pitiful critic
+0	1850	1850	PRON	PER	I
+92	1858	1858	PRON	PER	their
+92	1874	1874	PRON	PER	them
+92	1878	1878	PRON	PER	they
+92	1884	1884	PRON	PER	they
+97	1887	1887	NOM	PER	judges
+0	1889	1889	PRON	PER	I
+92	1894	1894	PRON	PER	their
+9	1905	1906	PROP	PER	Mr Allworthy
+9	1908	1908	PRON	PER	his
+98	1910	1910	NOM	FAC	home
+10	1916	1918	PROP	PER	Mrs Deborah Wilkins
+99	1925	1925	NOM	PER	bastards
+0	1927	1927	PRON	PER	I
+0	1930	1930	PRON	PER	my
+100	1930	1931	NOM	PER	my reader
+9	1939	1940	PROP	PER	Mr Allworthy
+9	1947	1947	PRON	PER	he
+101	1954	1955	NOM	PER	no family
+9	1968	1968	PRON	PER	he
+102	1971	1973	NOM	PER	an honest man
+103	1976	1979	NOM	PER	no one a shilling
+9	1986	1986	PRON	PER	his
+104	1990	1992	NOM	FAC	a good house
+9	1995	1995	PRON	PER	his
+73	1995	1996	NOM	PER	his neighbours
+9	2002	2002	PRON	PER	his
+106	2009	2010	NOM	PER	the poor
+107	2014	2028	NOM	PER	those who had rather beg than work , by giving them the offals from it
+107	2024	2024	PRON	PER	them
+9	2031	2031	PRON	PER	he
+108	2037	2038	NOM	FAC	an hospital

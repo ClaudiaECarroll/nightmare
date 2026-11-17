@@ -1,0 +1,47 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+84	88	167	167	Holmes	6	“ Penang lawyer . ”
+103	117	167	167	Holmes	6	“ To James Mortimer , M.R.C.S. , from his friends of the C.C.H. , ”
+126	129	167	167	Holmes	6	“ 1884 . ”
+154	166	167	167	Holmes	6	“ Well , Watson , what do you make of it ? ”
+187	209	167	167	Holmes	6	“ How did you know what I was doing ? I believe you have eyes in the back of your head . ”
+210	233	235	235	he	6	“ I have , at least , a well - polished , silver - plated coffee - pot in front of me , ”
+237	293	235	235	he	6	“ But , tell me , Watson , what do you make of our visitor ’s stick ? Since we have been so unfortunate as to miss him and have no notion of his errand , this accidental souvenir becomes of importance . Let me hear you reconstruct the man by an examination of it . ”
+294	298	300	300	I	0	“ I think , ”
+314	342	300	300	I	0	“ that Dr. Mortimer is a successful , elderly medical man , well - esteemed since those who know him give him this mark of their appreciation . ”
+343	346	348	348	Holmes	6	“ Good ! ”
+350	353	348	348	Holmes	6	“ Excellent ! ”
+354	381	300	300	I	0	“ I think also that the probability is in favour of his being a country practitioner who does a great deal of his visiting on foot . ”
+382	386	348	348	Holmes	6	“ Why so ? ”
+387	439	300	300	I	0	“ Because this stick , though originally a very handsome one has been so knocked about that I can hardly imagine a town practitioner carrying it . The thick - iron ferrule is worn down , so it is evident that he has done a great amount of walking with it . ”
+440	444	446	446	Holmes	6	“ Perfectly sound ! ”
+448	497	300	300	I	0	“ And then again , there is the ‘ friends of the C.C.H. ’ I should guess that to be the Something Hunt , the local hunt to whose members he has possibly given some surgical assistance , and which has made him a small presentation in return . ”
+498	507	509	509	Holmes	6	“ Really , Watson , you excel yourself , ”
+520	600	509	509	Holmes	6	“ I am bound to say that in all the accounts which you have been so good as to give of my own small achievements you have habitually underrated your own abilities . It may be that you are not yourself luminous , but you are a conductor of light . Some people without possessing genius have a remarkable power of stimulating it . I confess , my dear fellow , that I am very much in your debt . ”
+726	732	734	734	he	6	“ Interesting , though elementary , ”
+746	767	734	734	he	6	“ There are certainly one or two indications upon the stick . It gives us the basis for several deductions . ”
+768	774	775	775	I	0	“ Has anything escaped me ? ”
+783	797	775	775	I	0	“ I trust that there is nothing of consequence which I have overlooked ? ”
+798	867	734	734	he	6	“ I am afraid , my dear Watson , that most of your conclusions were erroneous . When I said that you stimulated me I meant , to be frank , that in noting your fallacies I was occasionally guided towards the truth . Not that you are entirely wrong in this instance . The man is certainly a country practitioner . And he walks a good deal . ”
+868	874	775	775	I	0	“ Then I was right . ”
+875	880	734	734	he	6	“ To that extent . ”
+881	887	775	775	I	0	“ But that was all . ”
+888	955	734	734	he	6	“ No , no , my dear Watson , not all -- by no means all . I would suggest , for example , that a presentation to a doctor is more likely to come from a hospital than from a hunt , and that when the initials ‘ C.C. ’ are placed before that hospital the words ‘ Charing Cross ’ very naturally suggest themselves . ”
+956	962	775	775	I	0	“ You may be right . ”
+963	996	734	734	he	6	“ The probability lies in that direction . And if we take this as a working hypothesis we have a fresh basis from which to start our construction of this unknown visitor . ”
+997	1023	775	775	I	0	“ Well , then , supposing that ‘ C.C.H. ’ does stand for ‘ Charing Cross Hospital , ’ what further inferences may we draw ? ”
+1024	1038	734	734	he	6	“ Do none suggest themselves ? You know my methods . Apply them ! ”
+1039	1061	775	775	I	0	“ I can only think of the obvious conclusion that the man has practised in town before going to the country . ”
+1062	1183	734	734	he	6	“ I think that we might venture a little farther than this . Look at it in this light . On what occasion would it be most probable that such a presentation would be made ? When would his friends unite to give him a pledge of their good will ? Obviously at the moment when Dr. Mortimer withdrew from the service of the hospital in order to start a practice for himself . We know there has been a presentation . We believe there has been a change from a town hospital to a country practice . Is it , then , stretching our inference too far to say that the presentation was on the occasion of the change ? ”
+1184	1190	775	775	I	0	“ It certainly seems probable . ”
+1191	1352	734	734	he	6	“ Now , you will observe that he could not have been on the staff of the hospital , since only a man well - established in a London practice could hold such a position , and such a one would not drift into the country . What was he , then ? If he was in the hospital and yet not on the staff he could only have been a house - surgeon or a house - physician -- little more than a senior student . And he left five years ago -- the date is on the stick . So your grave , middle - aged family practitioner vanishes into thin air , my dear Watson , and there emerges a young fellow under thirty , amiable , unambitious , absent - minded , and the possessor of a favourite dog , which I should describe roughly as being larger than a terrier and smaller than a mastiff . ”
+1376	1391	1393	1393	I	0	“ As to the latter part , I have no means of checking you , ”
+1395	1418	1393	1393	I	0	“ but at least it is not difficult to find out a few particulars about the man ’s age and professional career . ”
+1456	1555	1450	1450	I	0	“ Mortimer , James , M.R.C.S. , 1882 , Grimpen , Dartmoor , Devon . House - surgeon , from 1882 to 1884 , at Charing Cross Hospital . Winner of the Jackson prize for Comparative Pathology , with essay entitled ‘ Is Disease a Reversion ? ’ Corresponding member of the Swedish Pathological Society . Author of ‘ Some Freaks of Atavism ’ ( Lancet 1882 ) . ‘ Do We Progress ? ’ ( Journal of Psychology , March , 1883 ) . Medical Officer for the parishes of Grimpen , Thorsley , and High Barrow . ”
+1556	1566	1568	1568	Holmes	6	“ No mention of that local hunt , Watson , ”
+1574	1675	1568	1568	Holmes	6	“ but a country doctor , as you very astutely observed . I think that I am fairly justified in my inferences . As to the adjectives , I said , if I remember right , amiable , unambitious , and absent - minded . It is my experience that it is only an amiable man in this world who receives testimonials , only an unambitious one who abandons a London career for the country , and only an absent - minded one who leaves his stick and not his visiting - card after waiting an hour in your room . ”
+1676	1681	1450	1450	I	0	“ And the dog ? ”
+1682	1770	1568	1568	Holmes	6	“ Has been in the habit of carrying this stick behind his master . Being a heavy stick the dog has held it tightly by the middle , and the marks of his teeth are very plainly visible . The dog ’s jaw , as shown in the space between these marks , is too broad in my opinion for a terrier and not broad enough for a mastiff . It may have been -- yes , by Jove , it is a curly - haired spaniel . ”
+1809	1824	1450	1450	I	0	“ My dear fellow , how can you possibly be so sure of that ? ”
+1825	1940	1800	1800	his	19	“ For the very simple reason that I see the dog himself on our very door - step , and there is the ring of its owner . Do n’t move , I beg you , Watson . He is a professional brother of yours , and your presence may be of assistance to me . Now is the dramatic moment of fate , Watson , when you hear a step upon the stair which is walking into your life , and you know not whether for good or ill . What does Dr. James Mortimer , the man of science , ask of Sherlock Holmes , the specialist in crime ? Come in ! ”
+2080	2087	2089	2089	he	23	“ I am so very glad , ”
+2091	2118	2089	2089	he	23	“ I was not sure whether I had left it here or in the Shipping Office . I would not lose that stick for the world . ”

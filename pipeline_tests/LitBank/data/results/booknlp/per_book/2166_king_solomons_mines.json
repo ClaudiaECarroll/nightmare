@@ -1,0 +1,29 @@
+{
+  "threshold": 0.9,
+  "TP": 1,
+  "FP": 2,
+  "FN": 0,
+  "n_pred": 3,
+  "n_gold": 1,
+  "matched_gold": 1,
+  "precision": 0.3333333333333333,
+  "recall": 1.0,
+  "f1": 0.5,
+  "predictions": [
+    {
+      "string": "IngoldsbyLegends.",
+      "best_similarity": 0.1818,
+      "correct": false
+    },
+    {
+      "string": "_sutjes,sutjes_,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "niggers,",
+      "best_similarity": 0.25,
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+COREF	start_token	end_token	prop	cat	text
+1	2	2	PROP	GPE	PARIS
+24	7	21	NOM	PER	A surging , seething , murmuring crowd of beings that are human only in name
+24	29	29	PRON	PER	they
+25	60	61	NOM	FAC	the place
+2	63	65	PROP	LOC	the West Barricade
+26	77	79	NOM	PER	a proud tyrant
+27	85	86	NOM	GPE	the nation
+26	90	90	PRON	PER	his
+3	114	114	PROP	GPE	France
+26	135	135	PRON	PER	her
+28	163	164	NOM	PER	the people
+29	184	185	NOM	PER	the crowd
+4	189	193	PROP	FAC	the Place de la Greve
+30	219	220	NOM	PER	those aristos
+31	222	223	NOM	PER	such fools
+30	225	225	PRON	PER	They
+32	227	227	NOM	PER	traitors
+33	229	232	NOM	PER	the people of course
+34	234	236	NOM	PER	all of them
+33	236	236	PRON	PER	them
+35	238	238	NOM	PER	men
+36	240	240	NOM	PER	women
+37	243	243	NOM	PER	children
+38	243	263	NOM	PER	children , who happened to be descendants of the great men who since the Crusades had made the glory of France
+39	251	263	NOM	PER	the great men who since the Crusades had made the glory of France
+11	256	257	PROP	PER	the Crusades
+3	263	263	PROP	GPE	France
+26	265	265	PRON	PER	her
+40	265	267	NOM	PER	her old NOBLESSE
+38	269	269	PRON	PER	Their
+41	269	270	NOM	PER	Their ancestors
+28	273	274	NOM	PER	the people
+28	278	278	PRON	PER	them
+38	284	284	PRON	PER	their
+28	291	292	NOM	PER	the people
+44	295	298	NOM	PER	the rulers of France
+3	298	298	PROP	GPE	France
+28	301	301	PRON	PER	their
+45	301	303	NOM	PER	their former masters
+28	307	307	PRON	PER	their
+28	311	311	PRON	PER	they
+46	342	347	NOM	PER	its many victims -- old men
+47	349	350	NOM	PER	young women
+48	352	353	NOM	PER	tiny children
+49	365	366	NOM	PER	a King
+50	369	372	NOM	PER	a beautiful young Queen
+51	384	390	NOM	PER	the people now the rulers of France
+44	387	390	NOM	PER	the rulers of France
+3	390	390	PROP	GPE	France
+53	392	393	NOM	PER	Every aristocrat
+54	395	396	NOM	PER	a traitor
+53	399	399	PRON	PER	his
+55	399	400	NOM	PER	his ancestors
+53	404	404	PRON	PER	him
+28	411	412	NOM	PER	the people
+57	432	464	NOM	PER	the descendants of those who had helped to make those courts brilliant had to hide for their lives -- to fly , if they wished to avoid the tardy vengeance of the people
+58	435	464	NOM	PER	those who had helped to make those courts brilliant had to hide for their lives -- to fly , if they wished to avoid the tardy vengeance of the people
+59	441	443	NOM	ORG	those courts brilliant
+59	448	448	PRON	PER	their
+59	455	455	PRON	PER	they
+28	463	464	NOM	PER	the people
+59	467	467	PRON	PER	they
+61	495	497	NOM	VEH	the market carts
+62	507	511	NOM	PER	some fool of an aristo
+5	518	522	PROP	ORG	the Committee of Public Safety
+59	532	532	PRON	PER	they
+63	546	550	NOM	PER	citizen soldiers of the Republic
+64	549	550	NOM	GPE	the Republic
+35	552	552	NOM	PER	Men
+36	554	554	NOM	PER	women
+36	558	558	NOM	PER	women
+68	563	566	NOM	PER	children disguised in beggars
+12	577	580	PROP	PER	CI - DEVANT counts
+139	582	582	NOM	PER	marquises
+140	585	592	NOM	PER	dukes , who wanted to fly from France
+3	592	592	PROP	GPE	France
+6	595	595	PROP	GPE	England
+141	597	601	NOM	GPE	some other equally accursed country
+142	618	619	NOM	ORG	an army
+143	624	638	NOM	PER	the wretched prisoners in the Temple , who had once called themselves sovereigns of France
+144	628	629	NOM	FAC	the Temple
+143	635	635	PRON	PER	themselves
+3	638	638	PROP	GPE	France
+59	641	641	PRON	PER	they
+13	650	651	PROP	PER	Sergeant Bibot
+7	654	656	PROP	FAC	the West Gate
+13	680	680	PROP	PER	Bibot
+13	684	684	PRON	PER	his
+13	696	696	PRON	PER	him
+13	740	742	PROP	PER	Oh ! Bibot
+2	758	759	PROP	FAC	West Barricade
+13	765	765	PRON	PER	him
+69	767	768	NOM	PER	an aristo
+28	781	782	NOM	PER	the people
+13	785	785	PROP	PER	Bibot
+13	788	788	PRON	PER	his
+13	797	797	PRON	PER	him
+13	809	809	PRON	PER	he
+1	815	815	PROP	GPE	Paris
+71	823	826	NOM	LOC	the coast of England
+6	826	826	PROP	GPE	England
+13	831	831	PROP	PER	Bibot
+72	842	844	NOM	LOC	the open country
+13	847	847	PRON	PER	he
+73	850	851	NOM	PER	two men
+13	853	853	PRON	PER	him
+13	856	856	PRON	PER	him
+13	861	861	PRON	PER	his
+74	876	877	NOM	PER	the fugitive
+75	882	883	NOM	PER	a woman
+75	894	894	PRON	PER	she
+75	896	896	PRON	PER	herself
+13	898	898	PROP	PER	Bibot
+75	912	912	PRON	PER	her
+14	924	926	PROP	PER	Madame la Guillotine
+13	940	940	PROP	PER	Bibot
+29	962	963	NOM	PER	the crowd
+13	994	994	PROP	PER	Bibot
+77	998	1002	NOM	FAC	an overturned and empty cask
+78	1008	1009	NOM	FAC	the barricade
+79	1011	1016	NOM	PER	a small detachment of citoyen soldiers
+13	1019	1019	PRON	PER	his
+80	1030	1032	NOM	PER	Those cursed aristos
+80	1038	1038	PRON	PER	their
+1	1044	1044	PROP	GPE	Paris
+35	1046	1046	NOM	PER	men
+36	1048	1048	NOM	PER	women
+83	1048	1058	NOM	PER	women and children , whose ancestors , even in remote ages
+37	1050	1050	NOM	PER	children
+85	1062	1064	NOM	PER	those traitorous Bourbons
+85	1069	1069	PRON	PER	themselves
+13	1079	1079	PROP	PER	Bibot
+86	1086	1088	NOM	PER	some fugitive royalists
+86	1091	1091	PRON	PER	them
+5	1097	1101	PROP	ORG	the Committee of Public Safety
+87	1106	1108	NOM	PER	that good patriot
+15	1110	1113	PROP	PER	Citoyen Foucquier - Tinville
+16	1115	1115	PROP	PER	Robespierre
+17	1117	1117	PROP	PER	Danton
+13	1121	1121	PROP	PER	Bibot
+13	1123	1123	PRON	PER	his
+13	1126	1126	PROP	PER	Bibot
+13	1133	1133	PRON	PER	he
+13	1135	1135	PRON	PER	his
+88	1152	1154	NOM	PER	all the sergeants
+89	1172	1172	NOM	PER	aristos
+3	1179	1179	PROP	GPE	France
+6	1183	1183	PROP	GPE	England
+88	1194	1194	PRON	PER	they
+28	1203	1204	NOM	PER	the people
+18	1215	1216	PROP	PER	Sergeant Grospierre
+91	1221	1222	NOM	FAC	the guillotine
+92	1225	1229	NOM	PER	a whole family of aristos
+9	1234	1236	PROP	FAC	the North Gate
+13	1238	1238	PRON	PER	his
+93	1251	1276	NOM	PER	a band of Englishmen , whose daring seemed to be unparalleled , and who , from sheer desire to meddle in what did not concern them
+93	1279	1279	PRON	PER	their
+94	1285	1291	NOM	PER	lawful victims destined for Madame la Guillotine
+14	1289	1291	PROP	PER	Madame la Guillotine
+95	1305	1309	NOM	PER	this band of meddlesome Englishmen
+96	1308	1309	NOM	PER	meddlesome Englishmen
+95	1315	1315	PRON	PER	they
+97	1323	1328	NOM	PER	a man whose pluck and audacity
+97	1339	1339	PRON	PER	he
+97	1344	1344	PRON	PER	he
+95	1350	1350	PRON	PER	they
+98	1365	1366	NOM	PER	No one
+99	1369	1371	NOM	PER	these mysterious Englishmen
+99	1375	1375	PRON	PER	their
+100	1375	1376	NOM	PER	their leader
+100	1378	1378	PRON	PER	he
+15	1390	1393	PROP	PER	Citoyen Foucquier - Tinville
+100	1412	1412	PRON	PER	he
+100	1420	1420	PRON	PER	his
+100	1430	1430	PRON	PER	him
+101	1432	1435	NOM	PER	someone in the crowd
+100	1438	1438	PRON	PER	he
+100	1441	1441	PRON	PER	his
+102	1447	1451	NOM	ORG	the Committee of Public Safety
+103	1461	1465	NOM	PER	the band of meddlesome Englishmen
+96	1464	1465	NOM	PER	meddlesome Englishmen
+105	1490	1490	PRON	PER	we
+6	1492	1492	PROP	GPE	England
+19	1494	1496	PROP	PER	the Scarlet Pimpernel
+102	1513	1517	NOM	ORG	the Committee of Public Safety
+107	1521	1523	NOM	PER	so many royalists
+108	1525	1525	NOM	PER	aristocrats
+109	1530	1531	NOM	LOC	the coast
+107	1536	1536	PRON	PER	their
+6	1539	1539	PROP	GPE	England
+110	1543	1547	NOM	PER	The guards at the gates
+111	1552	1553	NOM	PER	the sergeants
+112	1571	1575	NOM	PER	these daring and impudent Englishmen
+113	1587	1598	NOM	PER	the man who laid hands on the mysterious and elusive Scarlet Pimpernel
+114	1600	1600	NOM	PER	Everyone
+13	1603	1603	PROP	PER	Bibot
+115	1606	1607	NOM	PER	that man
+13	1610	1610	PROP	PER	Bibot
+116	1619	1619	NOM	PER	everybody
+117	1630	1630	NOM	PER	people
+113	1634	1634	PRON	PER	him
+7	1636	1638	PROP	FAC	the West Gate
+113	1646	1646	PRON	PER	he
+118	1650	1661	NOM	PER	any fugitive aristo who perhaps might be accompanied by that mysterious Englishman
+113	1667	1667	PRON	PER	he
+113	1670	1670	PRON	PER	his
+119	1670	1672	NOM	PER	his trusted corporal
+20	1675	1676	PROP	PER	Citoyen Grospierre
+120	1678	1679	NOM	PER	a fool
+0	1684	1684	PRON	PER	me
+9	1689	1690	PROP	FAC	North Gate
+21	1697	1698	PROP	PER	Citoyen Bibot
+21	1705	1705	PRON	PER	his
+21	1708	1708	PRON	PER	his
+121	1708	1709	NOM	PER	his comrade
+122	1723	1724	NOM	PER	the corporal
+20	1727	1727	PROP	PER	Grospierre
+21	1739	1739	PROP	PER	Bibot
+29	1744	1745	NOM	PER	the crowd
+21	1749	1749	PRON	PER	him
+21	1754	1754	PRON	PER	his
+124	1758	1758	PRON	PER	We
+22	1763	1765	PROP	PER	this meddlesome Englishman
+19	1769	1770	PROP	PER	Scarlet Pimpernel
+22	1772	1772	PRON	PER	He
+0	1777	1777	PRON	PER	MY
+23	1780	1780	PROP	PER	MORBLEU
+22	1783	1783	PRON	PER	he
+22	1787	1787	PRON	PER	himself
+20	1790	1790	PROP	PER	Grospierre
+120	1792	1793	NOM	PER	a fool
+61	1795	1797	NOM	FAC	The market carts
+127	1806	1809	NOM	PER	one laden with casks
+128	1814	1816	NOM	PER	an old man
+129	1819	1822	NOM	PER	a boy beside him
+128	1822	1822	PRON	PER	him
+20	1824	1824	PROP	PER	Grospierre
+20	1831	1831	PRON	PER	he
+20	1833	1833	PRON	PER	himself
+20	1837	1837	PRON	PER	he
+61	1845	1845	PRON	PER	them
+61	1852	1852	PRON	PER	they
+130	1858	1859	NOM	VEH	the cart
+131	1872	1884	NOM	PER	the group of ill - clad wretches , who crowded round Citoyen Bibot
+21	1883	1884	PROP	PER	Citoyen Bibot
+132	1894	1895	NOM	PER	the sergeant
+133	1900	1913	NOM	PER	a captain of the guard with a squad of some dozen soldiers with him
+134	1903	1904	NOM	PER	the guard
+135	1909	1913	NOM	PER	some dozen soldiers with him
+132	1913	1913	PRON	PER	him
+145	1917	1918	NOM	VEH	a cart
+132	1923	1923	PRON	PER	he
+20	1926	1926	PROP	PER	Grospierre
+20	1935	1935	PROP	PER	Grospierre
+146	1947	1947	PRON	PER	you
+61	1950	1950	PRON	PER	them
+136	1955	1956	NOM	PER	the captain
+146	1960	1960	PRON	PER	You
+91	1964	1965	NOM	FAC	the guillotine
+148	1972	1973	NOM	VEH	that cart
+12	1976	1982	PROP	PER	the CI - DEVANT Duc de Chalis
+20	1985	1985	PRON	PER	his
+149	1985	1986	NOM	PER	his family
+20	1994	1994	PROP	PER	Grospierre
+150	2002	2003	NOM	PER	the driver
+151	2005	2010	NOM	PER	none other than that cursed Englishman
+19	2012	2014	PROP	PER	the Scarlet Pimpernel
+20	2026	2027	PROP	PER	Citoyen Grospierre
+20	2031	2031	PRON	PER	his
+120	2039	2040	NOM	PER	a fool
+120	2045	2046	NOM	PER	a fool

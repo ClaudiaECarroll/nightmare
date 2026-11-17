@@ -1,0 +1,199 @@
+{
+  "threshold": 0.9,
+  "TP": 37,
+  "FP": 0,
+  "FN": 1,
+  "n_pred": 37,
+  "n_gold": 38,
+  "matched_gold": 37,
+  "precision": 1.0,
+  "recall": 0.9736842105263158,
+  "f1": 0.9866666666666666,
+  "predictions": [
+    {
+      "string": "ChristmaswontbeChristmaswithoutanypresents,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itssodreadfultobepoor!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idontthinkitsfairforsomegirlstohaveplentyofprettythings,andothergirlsnothingatall,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WevegotFatherandMother,andeachother,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WehaventgotFather,andshallnothavehimforalongtime.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ButIdontthinkthelittleweshouldspendwoulddoanygood.Weveeachgotadollar,andthearmywouldntbemuchhelpedbyourgivingthat.IagreenottoexpectanythingfromMotheroryou,butIdowanttobuyUndineandSintranformyself.Ivewanteditsolong,",
+      "best_similarity": 0.9953,
+      "correct": true
+    },
+    {
+      "string": "Iplannedtospendmineinnewmusic,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IshallgetaniceboxofFabersdrawingpencils;Ireallyneedthem,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Motherdidntsayanythingaboutourmoney,andshewontwishustogiveupeverything.Letseachbuywhatwewant,andhavealittlefun;Imsureweworkhardenoughtoearnit,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IknowIdo—teachingthosetiresomechildrennearlyallday,whenImlongingtoenjoymyselfathome,",
+      "best_similarity": 0.9822,
+      "correct": true
+    },
+    {
+      "string": "YoudonthavehalfsuchahardtimeasIdo,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howwouldyouliketobeshutupforhourswithanervous,fussyoldlady,whokeepsyoutrotting,isneversatisfied,andworriesyoutillyourereadytoflyoutthewindoworcry?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsnaughtytofret,butIdothinkwashingdishesandkeepingthingstidyistheworstworkintheworld.Itmakesmecross,andmyhandsgetsostiff,Icanntpracticewellatall.",
+      "best_similarity": 0.9966,
+      "correct": true
+    },
+    {
+      "string": "IdontbelieveanyofyousufferasIdo,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "foryoudonthavetogotoschoolwithimpertinentgirls,whoplagueyouifyoudontknowyourlessons,andlaughatyourdresses,andlabelyourfatherifheisntrich,andinsultyouwhenyournoseisntnice.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifyoumeanlibel,Idsayso,andnottalkaboutlabels,asifPapawasapicklebottle,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IknowwhatImean,andyouneedntbestatiricalaboutit.Itspropertousegoodwords,andimproveyourvocabilary,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontpeckatoneanother,children.DontyouwishwehadthemoneyPapalostwhenwewerelittle,Jo?Dearme!Howhappyandgoodwedbe,ifwehadnoworries!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YousaidtheotherdayyouthoughtwewereadealhappierthantheKingchildren,fortheywerefightingandfrettingallthetime,inspiteoftheirmoney.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SoIdid,Beth.Well,Ithinkweare.Forthoughwedohavetowork,wemakefunofourselves,andareaprettyjollyset,asJowouldsay.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Jodoesusesuchslangwords!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dont,Jo.Itssoboyish!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThatswhyIdoit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idetestrude,unladylikegirls!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihateaffected,niminy-piminychits!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Birdsintheirlittlenestsagree,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Really,girls,youarebothtobeblamed,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youareoldenoughtoleaveoffboyishtricks,andtobehavebetter,Josephine.Itdidntmattersomuchwhenyouwerealittlegirl,butnowyouaresotall,andturnupyourhair,youshouldrememberthatyouareayounglady.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imnot!Andifturningupmyhairmakesmeone,IllwearitintwotailstillImtwenty,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IhatetothinkIvegottogrowup,andbeMissMarch,andwearlonggowns,andlookasprimasaChinaAster!Itsbadenoughtobeagirl,anyway,whenIlikeboysgamesandworkandmanners!Icanntgetovermydisappointmentinnotbeingaboy.Anditsworsethanevernow,forImdyingtogoandfightwithPapa.AndIcanonlystayhomeandknit,likeapokyoldwoman!",
+      "best_similarity": 0.9983,
+      "correct": true
+    },
+    {
+      "string": "PoorJo!Itstoobad,butitcanntbehelped.Soyoumusttrytobecontentedwithmakingyournameboyish,andplayingbrothertousgirls,",
+      "best_similarity": 0.9956,
+      "correct": true
+    },
+    {
+      "string": "Asforyou,Amy,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youarealtogethertooparticularandprim.Yourairsarefunnynow,butyoullgrowupanaffectedlittlegoose,ifyoudonttakecare.Ilikeyournicemannersandrefinedwaysofspeaking,whenyoudonttrytobeelegant.ButyourabsurdwordsareasbadasJosslang.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IfJoisatomboyandAmyagoose,whatamI,please?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youreadear,andnothingelse,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theyarequitewornout.Marmeemusthaveanewpair.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IthoughtIdgethersomewithmydollar,",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

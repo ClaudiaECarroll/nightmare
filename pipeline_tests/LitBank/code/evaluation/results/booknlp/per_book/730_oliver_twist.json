@@ -1,0 +1,99 @@
+{
+  "threshold": 0.9,
+  "TP": 13,
+  "FP": 4,
+  "FN": 1,
+  "n_pred": 17,
+  "n_gold": 14,
+  "matched_gold": 13,
+  "precision": 0.7647058823529411,
+  "recall": 0.9285714285714286,
+  "f1": 0.8387096774193549,
+  "predictions": [
+    {
+      "string": "Letmeseethechild,anddie.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,youmustnottalkaboutdyingyet.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lorblessherdearheart,no!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lorblessherdearheart,whenshehaslivedaslongasIhave,sir,andhadthirteenchildrenofherown,andallonem",
+      "best_similarity": 0.5723,
+      "correct": false
+    },
+    {
+      "string": "Itsallover,Mrs.Thingummy!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ah,poordear,soitis!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Poordear!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youneedntmindsendinguptome,ifthechildcries,nurse,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsverylikelyit_will_betroublesome.Giveitalittlegruelifitis.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shewasagood-lookinggirl,too;wheredidshecomefrom?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shewasbroughtherelastnight,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "bytheoverseersorder.Shewasfoundlyinginthestreet.Shehadwalkedsomedistance,forhershoeswereworntopieces;butwhereshecamefrom,orwhereshewasgoingto,nobodyknows.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theoldstory,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "nowedding-ring,Isee.Ah!Good-night!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "SGROWTH,EDUCATION,ANDBOARD",
+      "best_similarity": 0.1053,
+      "correct": false
+    },
+    {
+      "string": "thehouse",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "farmed,",
+      "best_similarity": 0.3158,
+      "correct": false
+    }
+  ]
+}

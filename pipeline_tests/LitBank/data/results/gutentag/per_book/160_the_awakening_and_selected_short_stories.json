@@ -1,0 +1,69 @@
+{
+  "threshold": 0.9,
+  "TP": 0,
+  "FP": 11,
+  "FN": 8,
+  "n_pred": 11,
+  "n_gold": 8,
+  "matched_gold": 0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "predictions": [
+    {
+      "string": "Allezvous-en!Allezvous-en!Sapristi!Thatsallright!",
+      "best_similarity": 0.2703,
+      "correct": false
+    },
+    {
+      "string": "Whatfolly!tobatheatsuchanhourinsuchheat!exclaimedMr.Pontellier.Hehimselfhadtakenaplungeatdaylight.Thatwaswhythemorningseemedlongtohim.",
+      "best_similarity": 0.4598,
+      "correct": false
+    },
+    {
+      "string": "Youareburntbeyondrecognition,headded,lookingathiswifeasonelooksatavaluablepieceofpersonalpropertywhichhassufferedsomedamage.Sheheldupherhands,strong,shapelyhands,andsurveyedthemcritically,drawingupherfawnsleevesabovethewrists.Lookingatthemremindedherofherrings,whichshehadgiventoherhusbandbeforeleavingforthebeach.Shesilentlyreachedouttohim,andhe,understanding,tooktheringsfromhisvestpocketanddroppedthemintoheropenpalm.Sheslippedthemuponherfingers;thenclaspingherknees,shelookedacrossatRobertandbegantolaugh.Theringssparkleduponherfingers.Hesentbackanansweringsmile.",
+      "best_similarity": 0.1041,
+      "correct": false
+    },
+    {
+      "string": "Whatisit?askedPontellier,lookinglazilyandamusedfromonetotheother.Itwassomeutternonsense;someadventureoutthereinthewater,andtheybothtriedtorelateitatonce.Itdidnotseemhalfsoamusingwhentold.Theyrealizedthis,andsodidMr.Pontellier.Heyawnedandstretchedhimself.Thenhegotup,sayinghehadhalfamindtogoovertoKleinshotelandplayagameofbilliards.",
+      "best_similarity": 0.1617,
+      "correct": false
+    },
+    {
+      "string": "Comegoalong,Lebrun,heproposedtoRobert.ButRobertadmittedquitefranklythathepreferredtostaywherehewasandtalktoMrs.Pontellier.",
+      "best_similarity": 0.2695,
+      "correct": false
+    },
+    {
+      "string": "Well,sendhimabouthisbusinesswhenheboresyou,Edna,instructedherhusbandashepreparedtoleave.",
+      "best_similarity": 0.7059,
+      "correct": false
+    },
+    {
+      "string": "Here,taketheumbrella,sheexclaimed,holdingitouttohim.Heacceptedthesunshade,andliftingitoverhisheaddescendedthestepsandwalkedaway.",
+      "best_similarity": 0.2819,
+      "correct": false
+    },
+    {
+      "string": "thegame.Hedidnotsaythis,butsheunderstoodit,andlaughed,noddinggood-bytohim.",
+      "best_similarity": 0.2718,
+      "correct": false
+    },
+    {
+      "string": "ThePoetandthePeasant.",
+      "best_similarity": 0.4286,
+      "correct": false
+    },
+    {
+      "string": "QuartierFrancais,itenabledMadameLebruntomaintaintheeasyandcomfortableexistencewhichappearedtobeherbirthright.",
+      "best_similarity": 0.209,
+      "correct": false
+    },
+    {
+      "string": "IseeLeonceisntcomingback,shesaid,withaglanceinthedirectionwhenceherhusbandhaddisappeared.Robertsupposedhewasnot,astherewereagoodmanyNewOrleansclubmenoveratKleins.",
+      "best_similarity": 0.2674,
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "threshold": 0.9,
+  "TP": 30,
+  "FP": 8,
+  "FN": 1,
+  "n_pred": 38,
+  "n_gold": 31,
+  "matched_gold": 30,
+  "precision": 0.7894736842105263,
+  "recall": 0.967741935483871,
+  "f1": 0.8695652173913043,
+  "predictions": [
+    {
+      "string": "grandhotel",
+      "best_similarity": 0.5263,
+      "correct": false
+    },
+    {
+      "string": "stylish",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "TroisCouronnes",
+      "best_similarity": 0.4324,
+      "correct": false
+    },
+    {
+      "string": "TroisCouronnes,",
+      "best_similarity": 0.4242,
+      "correct": false
+    },
+    {
+      "string": "TroisCouronnes,",
+      "best_similarity": 0.4242,
+      "correct": false
+    },
+    {
+      "string": "studying.",
+      "best_similarity": 0.48,
+      "correct": false
+    },
+    {
+      "string": "Willyougivemealumpofsugar?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,youmaytakeone,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butIdontthinksugarisgoodforlittleboys.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,blazes;itshar-r-d!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Takecareyoudonthurtyourteeth,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihaventgotanyteethtohurt.Theyhaveallcomeout.Ihaveonlygotseventeeth.Mymothercountedthemlastnight,andonecameoutrightafterward.Shesaidshedslapmeifanymorecameout.Icanthelpit.ItsthisoldEurope.Itstheclimatethatmakesthemcomeout.InAmericatheydidntcomeout.Itsthesehotels.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifyoueatthreelumpsofsugar,yourmotherwillcertainlyslapyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shesgottogivemesomecandy,then,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icantgetanycandyhere--anyAmericancandy.Americancandysthebestcandy.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndareAmericanlittleboysthebestlittleboys?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idontknow.ImanAmericanboy,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iseeyouareoneofthebest!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AreyouanAmericanman?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "reply--Americanmenarethebest,",
+      "best_similarity": 0.8627,
+      "correct": false
+    },
+    {
+      "string": "Herecomesmysister!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ShesanAmericangirl.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Americangirlsarethebestgirls,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mysisteraintthebest!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shesalwaysblowingatme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iimaginethatisyourfault,nothers,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howprettytheyare!",
+      "best_similarity": 0.4571,
+      "correct": false
+    },
+    {
+      "string": "Randolph,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whatAREyoudoing?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ImgoinguptheAlps,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thisistheway!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thatsthewaytheycomedown,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HesanAmericanman!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Iguessyouhadbetterbequiet,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThislittleboyandIhavemadeacquaintance,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishouldliketoknowwhereyougotthatpole,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iboughtit,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YoudontmeantosayyouregoingtotakeittoItaly?",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

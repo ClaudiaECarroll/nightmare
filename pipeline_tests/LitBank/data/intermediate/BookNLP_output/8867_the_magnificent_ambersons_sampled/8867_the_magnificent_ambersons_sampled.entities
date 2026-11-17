@@ -1,0 +1,214 @@
+COREF	start_token	end_token	prop	cat	text
+6	2	3	PROP	PER	Major Amberson
+12	14	15	NOM	PER	other people
+7	24	25	PROP	PER	the Ambersons
+8	44	45	PROP	PER	Magnificent Lorenzo
+8	51	51	PRON	PER	he
+0	56	57	PROP	GPE	New York
+7	62	63	PROP	PER	the Ambersons
+7	67	67	PRON	PER	their
+7	72	72	PRON	PER	Their
+7	81	81	PRON	PER	their
+13	81	83	NOM	GPE	their Midland town
+14	83	83	NOM	GPE	town
+15	88	89	NOM	GPE	a city
+14	93	93	PRON	FAC	its
+16	99	103	NOM	PER	every prosperous family with children
+17	103	103	NOM	PER	children
+18	110	111	NOM	GPE	that town
+19	118	124	NOM	PER	the women who wore silk or velvet
+20	126	147	NOM	PER	all the other women who wore silk or velvet , and when there was a new purchase of sealskin , sick people
+21	146	147	NOM	PER	sick people
+9	158	158	PROP	PER	Trotters
+1	171	172	PROP	FAC	National Avenue
+2	174	175	PROP	FAC	Tennessee Street
+22	177	177	NOM	PER	everybody
+23	180	181	NOM	PER	the trotters
+24	183	184	NOM	PER	the drivers
+23	189	189	PRON	PER	them
+22	214	214	NOM	PER	everybody
+26	216	217	NOM	PER	everybody else
+27	216	224	NOM	VEH	everybody else 's family horse - and - carriage
+28	235	236	NOM	FAC	the street
+29	246	246	NOM	FAC	market
+30	255	255	NOM	FAC	home
+31	257	257	NOM	FAC	office
+32	259	259	NOM	FAC	store
+20	291	291	PRON	PER	their
+33	317	318	NOM	PER	Old men
+34	320	320	NOM	PER	governors
+126	340	364	NOM	PER	men of all ages to whom a hat meant only that rigid , tall silk thing known to impudence as a “ stove - pipe
+14	368	368	NOM	GPE	town
+36	370	370	NOM	GPE	country
+37	371	372	NOM	PER	these men
+37	386	386	PRON	PER	they
+38	402	402	NOM	PER	dressmakers
+39	404	404	NOM	PER	shoemakers
+40	406	406	NOM	PER	hatmakers
+41	409	409	NOM	PER	tailors
+42	457	458	NOM	FAC	Every house
+37	487	487	PRON	PER	them
+37	566	566	PRON	PER	their
+43	569	569	NOM	PER	women
+127	574	580	NOM	PER	dandy known as the “ dude ”
+33	584	584	PRON	PER	he
+33	634	634	PRON	PER	his
+33	658	658	PRON	PER	he
+33	666	666	PRON	PER	his
+33	688	688	PRON	PER	he
+33	690	690	PRON	PER	his
+33	695	695	PRON	PER	his
+33	699	699	PRON	PER	he
+33	703	703	PRON	PER	his
+33	716	716	PRON	PER	he
+33	730	730	PRON	PER	him
+44	750	751	NOM	PER	the wearers
+45	804	809	NOM	PER	a Senator of the United States
+3	807	809	PROP	GPE	the United States
+33	818	818	PRON	PER	his
+46	826	827	NOM	LOC	the land
+47	851	851	PRON	PER	we
+7	863	863	PROP	GPE	Ambersons
+48	867	874	NOM	FAC	most of the houses of the Midland town
+49	869	874	NOM	FAC	the houses of the Midland town
+50	872	874	NOM	GPE	the Midland town
+48	881	881	PRON	PER	They
+48	901	901	PRON	PER	They
+46	930	931	NOM	LOC	the land
+52	939	940	NOM	LOC	the creek
+53	942	961	NOM	FAC	The house of a “ prominent resident , ” facing Military Square , or National Avenue , or Tennessee Street
+54	945	953	NOM	PER	a “ prominent resident , ” facing Military Square
+5	952	953	PROP	FAC	Military Square
+1	956	957	PROP	FAC	National Avenue
+2	960	961	PROP	FAC	Tennessee Street
+53	981	981	PRON	FAC	it
+128	983	993	NOM	FAC	a “ front porch ” and a “ back porch ”
+129	996	1001	NOM	FAC	a “ side porch , ”
+130	1006	1010	NOM	FAC	a “ front hall ”
+131	1014	1018	NOM	FAC	a “ side hall ”
+132	1022	1025	NOM	FAC	a “ back hall
+133	1029	1033	NOM	FAC	the “ front hall ”
+55	1035	1036	NOM	FAC	three rooms
+134	1038	1048	NOM	FAC	the “ parlour , ” the “ sitting room , ”
+135	1050	1053	NOM	FAC	the “ library ”
+56	1056	1057	NOM	FAC	the library
+56	1062	1062	PRON	FAC	its
+57	1068	1069	NOM	PER	these people
+58	1075	1076	NOM	PER	the family
+56	1080	1081	NOM	FAC	the library
+136	1084	1089	NOM	FAC	the “ sitting room , ”
+60	1091	1091	NOM	PER	callers
+58	1094	1094	PRON	PER	they
+61	1101	1112	NOM	FAC	the “ parlour , ” a place of formidable polish and discomfort
+137	1132	1135	NOM	FAC	the “ parlour ”
+58	1146	1146	PRON	PER	they
+58	1148	1148	PRON	PER	they
+62	1156	1156	NOM	FAC	Upstairs
+63	1158	1159	NOM	FAC	the bedrooms
+64	1173	1186	NOM	FAC	a smaller room for one or two sons another for one or two daughters
+65	1177	1180	NOM	PER	one or two sons
+66	1183	1186	NOM	PER	one or two daughters
+67	1188	1247	NOM	FAC	each of these rooms containing a double bed , a “ washstand , ” a “ bureau , ” a wardrobe , a little table , a rocking - chair , and often a chair or two that had been slightly damaged downstairs , but not enough to justify either the expense of repair or decisive abandonment in the attic
+68	1230	1230	NOM	FAC	downstairs
+69	1246	1247	NOM	FAC	the attic
+138	1253	1259	NOM	FAC	a “ spare - room , ”
+70	1261	1261	NOM	PER	visitors
+71	1286	1287	NOM	FAC	a bathroom
+72	1290	1291	NOM	PER	the architects
+73	1293	1293	NOM	FAC	bathrooms
+74	1295	1297	NOM	FAC	the new houses
+75	1300	1302	NOM	FAC	the older houses
+76	1327	1329	NOM	FAC	its own bathroom
+77	1353	1354	NOM	FAC	the house
+62	1356	1356	NOM	FAC	upstairs
+79	1358	1361	NOM	FAC	a bleak little chamber
+139	1365	1366	NOM	PER	the girl
+140	1365	1368	NOM	FAC	the girl 's room
+80	1373	1374	NOM	FAC	the stable
+81	1377	1378	NOM	FAC	another bedroom
+82	1381	1382	NOM	FAC	the hayloft
+141	1387	1389	NOM	PER	the hired man
+142	1387	1391	NOM	FAC	the hired man 's room
+83	1396	1396	NOM	FAC	stable
+84	1407	1416	NOM	PER	people with that much money to invest in such comforts
+85	1420	1421	NOM	PER	the Rich
+84	1423	1423	PRON	PER	They
+139	1429	1430	NOM	PER	the girl
+140	1429	1432	NOM	FAC	the girl 's room
+86	1462	1462	PRON	PER	She
+46	1480	1481	NOM	LOC	the land
+86	1483	1483	PRON	PER	she
+88	1487	1490	NOM	PER	a person of colour
+89	1492	1500	NOM	PER	The man or youth who lived in the stable
+80	1499	1500	NOM	FAC	the stable
+89	1507	1507	PRON	PER	he
+91	1513	1515	NOM	PER	a steerage voyager
+89	1520	1520	PRON	PER	he
+92	1531	1535	NOM	FAC	the alleys behind the stables
+93	1534	1535	NOM	FAC	the stables
+92	1546	1546	PRON	PER	their
+92	1572	1572	PRON	PER	their
+94	1575	1576	NOM	FAC	the alley
+10	1578	1578	PROP	PER	Darkies
+10	1590	1590	PRON	PER	they
+95	1609	1611	NOM	PER	early rising children
+96	1615	1616	NOM	PER	older people
+97	1626	1628	NOM	PER	less investigative children
+97	1659	1659	PRON	PER	They
+98	1663	1671	NOM	PER	those darky hired - men of the Midland town
+50	1669	1671	NOM	GPE	the Midland town
+97	1677	1677	PRON	PER	they
+97	1692	1692	PRON	PER	their
+97	1701	1701	PRON	PER	their
+97	1704	1704	PRON	PER	they
+100	1726	1728	NOM	PER	the careless drivers
+93	1741	1742	NOM	FAC	The stables
+145	1767	1770	NOM	PER	the “ girl ”
+146	1772	1777	NOM	PER	the “ hired - man ”
+11	1787	1787	PROP	PER	Horse
+147	1794	1802	NOM	PER	the whole tribe of the “ hired - man
+148	1798	1802	NOM	PER	the “ hired - man
+97	1809	1809	PRON	PER	They
+102	1817	1817	PRON	PER	we
+97	1819	1819	PRON	PER	they
+97	1827	1827	PRON	PER	they
+103	1845	1857	NOM	FAC	the long , single track that went its troubled way among the cobblestones
+103	1852	1852	PRON	FAC	its
+104	1864	1865	NOM	VEH	the car
+105	1875	1875	NOM	PER	passengers
+104	1886	1887	NOM	VEH	the car
+107	1890	1891	NOM	PER	The patrons
+107	1901	1901	PRON	PER	their
+108	1908	1909	NOM	PER	no conductor
+109	1916	1917	NOM	PER	the driver
+109	1922	1922	PRON	PER	his
+109	1931	1931	PRON	PER	his
+110	1939	1940	NOM	PER	the passengers
+104	1953	1954	NOM	VEH	the car
+110	1965	1966	NOM	PER	the passengers
+110	1976	1976	PRON	PER	They
+104	1985	1986	NOM	VEH	the car
+114	1991	1992	NOM	PER	a lady
+104	2003	2004	NOM	VEH	the car
+114	2012	2012	PRON	PER	her
+114	2014	2014	PRON	PER	she
+114	2021	2021	PRON	PER	her
+68	2027	2027	NOM	FAC	downstairs
+145	2034	2037	NOM	PER	the “ girl ”
+77	2048	2049	NOM	FAC	the house
+118	2051	2053	NOM	PER	The previous passengers
+104	2064	2065	NOM	VEH	the car
+118	2067	2067	PRON	PER	they
+118	2076	2076	PRON	PER	themselves
+120	2084	2085	NOM	PER	the mule
+104	2087	2088	NOM	VEH	the car
+122	2108	2111	NOM	VEH	the trolley - car
+123	2127	2127	NOM	PER	nobody
+124	2131	2132	NOM	PER	its passengers
+124	2142	2142	PRON	PER	they
+124	2148	2148	PRON	PER	they
+124	2160	2160	PRON	PER	them
+124	2162	2162	PRON	PER	their
+124	2167	2167	PRON	PER	they
+124	2180	2180	PRON	PER	they
+114	2201	2202	NOM	PER	a lady

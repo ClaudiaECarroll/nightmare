@@ -1,0 +1,84 @@
+{
+  "threshold": 0.9,
+  "TP": 10,
+  "FP": 4,
+  "FN": 16,
+  "n_pred": 14,
+  "n_gold": 26,
+  "matched_gold": 10,
+  "precision": 0.7142857142857143,
+  "recall": 0.38461538461538464,
+  "f1": 0.5,
+  "predictions": [
+    {
+      "string": "areyouforawalk?orshallweorderthechaiseandproceedtoPortsmouth?Belcourpreferredtheformer;andtheysaunteredouttoviewthetown,andtomakeremarksontheinhabitants,astheyreturnedfromchurch.",
+      "best_similarity": 0.5105,
+      "correct": false
+    },
+    {
+      "string": "shehadonabluebonnet,andwithapairoflovelyeyesofthesamecolour,hascontrivedtomakemefeeldevilishoddabouttheheart.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "amusketballfromourfriends,theAmericans,mayinlessthantwomonthsmakeyoufeelworse.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butamdeterminedtomakethemostofthepresent,andwouldwillinglycompoundwithanykindFamiliarwhowouldinformmewhothegirlis,andhowImightbelikelytoobtainaninterview.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andshouldIevensucceedinseeingandconversingwithher,itcanbeproductiveofnogood:ImustofnecessityleaveEnglandinafewdays,andprobablymayneverreturn;whythenshouldIendeavourtoengagetheaffectionsofthislovelygirl,onlytoleaveherapreytoathousandinquietudes,ofwhichatpresentshehasnoidea?IwillreturntoPortsmouthandthinknomoreabouther.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwillthinkonhernomore,saidhe,andturnedwithanintentiontoleavetheplace;butasheturned,hesawthegatewhichledtothepleasuregroundsopen,andtwowomencomeout,whowalkedarm-in-armacrossthefield.",
+      "best_similarity": 0.2907,
+      "correct": false
+    },
+    {
+      "string": "Iwillatleastseewhotheseare,saidhe.Heovertookthem,andgivingthemthecomplimentsoftheevening,beggedleavetoseethemintothemorefrequentedpartsofthetown:buthowwashedelighted,when,waitingforananswer,hediscovered,undertheconcealmentofalargebonnet,thefaceofCharlotteTemple.",
+      "best_similarity": 0.2508,
+      "correct": false
+    },
+    {
+      "string": "IwillseekContent;and,ifIfindherinacottage,willembraceherwithasmuchcordialityasIshouldifseatedonathrone.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andIhaveagreatmindtogiveyouafinesubjecttoexercisethegoodnessofyourheartupon.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thantopointoutanywaybywhichIcanbeserviceabletomyfellowcreatures.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "wewillgoandvisitamanwhoisnotinsogoodalodgingashedeserves;and,wereitnotthathehasanangelwithhim,whocomfortsandsupportshim,hemustlongsincehavesunkunderhismisfortunes.Theyoungmansheartwastoofulltoproceed;andTemple,unwillingtoirritatehisfeelingsbymakingfurtherenquiries,followedhiminsilence,tiltheyarrivedattheFleetprison.",
+      "best_similarity": 0.6792,
+      "correct": false
+    },
+    {
+      "string": "toreceivevisitorsofdistinctionin;butwemustfitourfeelingstoourstation.WhileIamnotashamedtoownthecausewhichbroughtmehere,whyshouldIblushatmysituation?Ourmisfortunesarenotourfaults;andwereitnotforthatpoorgirl—",
+      "best_similarity": 0.9927,
+      "correct": true
+    },
+    {
+      "string": "theroseofyouthandhealthsoonfadeswhenwateredbythetearofaffliction.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "toldmeIcouldbeofservicetoyou:besokindthen,dearSir,astopointoutsomewayinwhichIcanrelievetheanxietyofyourheartandincreasethepleasuresofmyown.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

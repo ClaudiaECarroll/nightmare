@@ -1,0 +1,269 @@
+{
+  "threshold": 0.9,
+  "TP": 50,
+  "FP": 1,
+  "FN": 0,
+  "n_pred": 51,
+  "n_gold": 50,
+  "matched_gold": 50,
+  "precision": 0.9803921568627451,
+  "recall": 1.0,
+  "f1": 0.99009900990099,
+  "predictions": [
+    {
+      "string": "Iquiteagree--inregardtoGriffinsghost,orwhateveritwas--thatitsappearingfirsttothelittleboy,atsotenderanage,addsaparticulartouch.ButitsnotthefirstoccurrenceofitscharmingkindthatIknowtohaveinvolvedachild.Ifthechildgivestheeffectanotherturnofthescrew,whatdoyousaytoTWOchildren--?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wesay,ofcourse,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thattheygivetwoturns!Alsothatwewanttohearaboutthem.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nobodybutme,tillnow,haseverheard.Itsquitetoohorrible.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itsbeyondeverything.NothingatallthatIknowtouchesit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Forsheerterror?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Fordreadful--dreadfulness!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,howdelicious!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Forgeneraluncannyuglinessandhorrorandpain.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wellthen,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "justsitrightdownandbegin.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icantbegin.Ishallhavetosendtotown.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thestoryswritten.Itsinalockeddrawer--ithasnotbeenoutforyears.Icouldwritetomymanandenclosethekey;hecouldsenddownthepacketashefindsit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,thankGod,no!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andistherecordyours?Youtookthethingdown?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nothingbuttheimpression.ItookthatHERE",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iveneverlostit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thenyourmanuscript--?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isinold,fadedink,andinthemostbeautifulhand.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Awomans.Shehasbeendeadthesetwentyyears.Shesentmethepagesinquestionbeforeshedied.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shewasamostcharmingperson,butshewastenyearsolderthanI.Shewasmysistersgoverness,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ShewasthemostagreeablewomanIveeverknowninherposition;shewouldhavebeenworthyofanywhatever.Itwaslongago,andthisepisodewaslongbefore.IwasatTrinity,andIfoundherathomeonmycomingdownthesecondsummer.Iwasmuchtherethatyear--itwasabeautifulone;andwehad,inheroff-hours,somestrollsandtalksinthegarden--talksinwhichshestruckmeasawfullycleverandnice.Ohyes;dontgrin:Ilikedherextremelyandamgladtothisdaytothinkshelikedme,too.Ifshehadntshewouldnthavetoldme.Shehadnevertoldanyone.Itwasntsimplythatshesaidso,butthatIknewshehadnt.Iwassure;Icouldsee.Youlleasilyjudgewhywhenyouhear.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Becausethethinghadbeensuchascare?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youlleasilyjudge,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YOUwill.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isee.Shewasinlove.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YouAREacute.Yes,shewasinlove.Thatis,shehadbeen.Thatcameout--shecouldnttellherstorywithoutitscomingout.Isawit,andshesawIsawit;butneitherofusspokeofit.Irememberthetimeandtheplace--thecornerofthelawn,theshadeofthegreatbeechesandthelong,hotsummerafternoon.Itwasntasceneforashudder;butoh--!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YoullreceivethepacketThursdaymorning?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Probablynottillthesecondpost.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wellthen;afterdinner--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youllallmeetmehere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isntanybodygoing?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Everybodywillstay!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "_I_will",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "_I_will!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whowasitshewasinlovewith?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thestorywilltell,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Icantwaitforthestory!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThestoryWONTtell,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "notinanyliteral,vulgarway.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Moresthepity,then.ThatstheonlywayIeverunderstand.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WontYOUtell,Douglas?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes--tomorrow.NowImustgotobed.Goodnight.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,ifIdontknowwhoshewasinlovewith,IknowwhoHEwas.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shewastenyearsolder,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Raisondeplus--atthatage!Butitsrathernice,hislongreticence.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Fortyyears!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Withthisoutbreakatlast.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Theoutbreak,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "willmakeatremendousoccasionofThursdaynight;",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "candlestuck,",
+      "best_similarity": 0.3448,
+      "correct": false
+    }
+  ]
+}

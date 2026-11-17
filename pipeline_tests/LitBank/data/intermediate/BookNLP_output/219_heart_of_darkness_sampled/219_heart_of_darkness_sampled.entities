@@ -1,0 +1,220 @@
+COREF	start_token	end_token	prop	cat	text
+0	0	0	PRON	PER	I
+1	1	2	PROP	VEH	The Nellie
+17	4	6	NOM	VEH	a cruising yawl
+1	10	10	PRON	PER	her
+18	39	40	NOM	LOC	the river
+2	65	66	PROP	LOC	the Thames
+19	69	69	PRON	PER	us
+20	74	76	NOM	LOC	an interminable waterway
+21	81	82	NOM	LOC	the sea
+22	102	103	NOM	VEH	the barges
+23	138	141	NOM	LOC	sea in vanishing flatness
+3	148	148	PROP	GPE	Gravesend
+24	168	173	NOM	LOC	the greatest , town on earth
+25	173	173	NOM	LOC	earth
+26	175	178	NOM	PER	The Director of Companies
+19	180	180	PRON	PER	our
+27	180	181	NOM	PER	our captain
+19	183	183	PRON	PER	our
+28	183	184	NOM	PER	our host
+19	186	186	PRON	PER	We
+26	190	190	PRON	PER	his
+26	193	193	PRON	PER	he
+29	203	205	NOM	LOC	the whole river
+26	215	215	PRON	PER	He
+30	217	218	NOM	PER	a pilot
+31	222	223	NOM	PER	a seaman
+26	233	233	PRON	PER	his
+32	240	242	NOM	LOC	the luminous estuary
+26	246	246	PRON	PER	him
+19	254	254	PRON	PER	us
+0	259	259	PRON	PER	I
+21	268	269	NOM	LOC	the sea
+19	273	273	PRON	PER	our
+19	288	288	PRON	PER	us
+34	300	301	NOM	PER	The Lawyer
+35	306	307	NOM	PER	old fellows
+34	313	313	PRON	PER	his
+36	334	335	NOM	PER	The Accountant
+12	353	353	PROP	PER	Marlow
+26	368	368	PRON	PER	He
+26	388	388	PRON	PER	his
+37	402	403	NOM	PER	The director
+38	406	407	NOM	PER	the anchor
+37	413	413	PRON	PER	his
+19	420	420	PRON	PER	us
+19	422	422	PRON	PER	We
+39	435	436	NOM	VEH	the yacht
+19	443	443	PRON	PER	we
+19	452	452	PRON	PER	We
+40	501	503	NOM	LOC	the Essex marsh
+41	514	517	NOM	LOC	the wooded rises inland
+42	537	539	NOM	LOC	the upper reaches
+43	607	610	NOM	PER	a crowd of men
+44	610	610	NOM	PER	men
+45	617	618	NOM	LOC	the waters
+40	634	634	PRON	LOC	its
+46	634	636	NOM	LOC	its broad reach
+40	656	656	PRON	LOC	its
+47	656	657	NOM	LOC	its banks
+48	666	675	NOM	LOC	a waterway leading to the uttermost ends of the earth
+49	674	675	NOM	LOC	the earth
+19	677	677	PRON	PER	We
+50	680	682	NOM	LOC	the venerable stream
+51	714	749	NOM	PER	a man who has , as the phrase goes , “ followed the sea ” with reverence and affection , than to evoke the great spirit of the past upon the lower reaches of the Thames
+109	726	728	NOM	LOC	the sea ”
+52	744	749	NOM	LOC	the lower reaches of the Thames
+2	748	749	PROP	LOC	the Thames
+44	767	767	NOM	PER	men
+54	769	769	NOM	VEH	ships
+40	770	770	PRON	GPE	it
+55	777	777	NOM	FAC	home
+21	783	784	NOM	LOC	the sea
+57	791	797	NOM	PER	all the men of whom the nation
+58	796	797	NOM	GPE	the nation
+13	802	804	PROP	PER	Sir Francis Drake
+14	806	808	PROP	PER	Sir John Franklin
+59	810	815	NOM	PER	knights all , titled and untitled
+60	817	824	NOM	PER	the great knights - errant of the sea
+21	823	824	NOM	LOC	the sea
+60	852	852	PRON	PER	her
+62	863	866	NOM	PER	the Queen 's Highness
+63	877	884	NOM	VEH	the _ Erebus _ and _ Terror _
+64	899	900	NOM	VEH	the ships
+65	902	903	NOM	PER	the men
+64	905	905	PRON	PER	They
+4	909	909	PROP	GPE	Deptford
+5	912	912	PROP	GPE	Greenwich
+6	915	915	PROP	GPE	Erith
+66	917	918	NOM	PER	the adventurers
+67	920	921	NOM	PER	the settlers
+68	923	923	NOM	PER	kings
+69	923	925	NOM	VEH	kings ' ships
+70	927	933	NOM	VEH	the ships of men on ' Change
+44	930	930	NOM	PER	men
+72	935	935	NOM	PER	captains
+73	937	937	NOM	PER	admirals
+74	939	947	NOM	PER	the dark “ interlopers ” of the Eastern trade
+75	950	958	NOM	PER	the commissioned “ generals ” of East India fleets
+7	956	957	PROP	LOC	East India
+76	960	966	NOM	PER	Hunters for gold or pursuers of fame
+76	968	968	PRON	PER	they
+77	974	975	NOM	LOC	that stream
+78	991	992	NOM	LOC	the land
+79	994	1001	NOM	PER	bearers of a spark from the sacred fire
+80	1012	1013	NOM	LOC	that river
+81	1018	1020	NOM	LOC	an unknown earth
+44	1026	1026	NOM	PER	men
+83	1031	1031	NOM	PER	commonwealths
+84	1033	1036	NOM	PER	the germs of empires
+85	1046	1047	NOM	LOC	the stream
+86	1055	1056	NOM	LOC	the shore
+87	1058	1062	NOM	FAC	The Chapman light - house
+54	1081	1081	NOM	VEH	ships
+89	1084	1085	NOM	FAC	the fairway
+90	1105	1110	NOM	LOC	the place of the monstrous town
+91	1108	1110	NOM	GPE	the monstrous town
+12	1139	1139	PROP	PER	Marlow
+110	1147	1152	NOM	LOC	the dark places of the earth
+49	1151	1152	NOM	LOC	the earth
+12	1155	1155	PRON	PER	He
+112	1157	1167	NOM	PER	the only man of us who still “ followed the sea
+92	1161	1161	PRON	PER	us
+21	1166	1167	NOM	LOC	the sea
+12	1177	1177	PRON	PER	him
+12	1180	1180	PRON	PER	he
+12	1184	1184	PRON	PER	his
+93	1184	1185	NOM	PER	his class
+12	1187	1187	PRON	PER	He
+31	1189	1190	NOM	PER	a seaman
+12	1193	1193	PRON	PER	he
+95	1195	1196	NOM	PER	a wanderer
+96	1201	1202	NOM	PER	most seamen
+96	1216	1216	PRON	PER	Their
+96	1229	1229	PRON	PER	their
+97	1229	1230	NOM	FAC	their home
+96	1234	1234	PRON	PER	them
+98	1236	1237	NOM	VEH	the ship
+96	1242	1242	PRON	PER	their
+99	1242	1243	NOM	GPE	their country
+21	1245	1246	NOM	LOC	the sea
+101	1248	1249	NOM	VEH	One ship
+21	1257	1258	NOM	LOC	the sea
+96	1268	1268	PRON	PER	their
+103	1270	1272	NOM	LOC	the foreign shores
+31	1307	1308	NOM	PER	a seaman
+21	1312	1313	NOM	LOC	the sea
+12	1321	1321	PRON	PER	his
+15	1327	1327	PROP	PER	Destiny
+12	1334	1334	PRON	PER	his
+12	1352	1352	PRON	PER	him
+106	1356	1358	NOM	LOC	a whole continent
+12	1362	1362	PRON	PER	he
+107	1373	1373	NOM	PER	seamen
+12	1394	1394	PROP	PER	Marlow
+12	1400	1400	PRON	PER	his
+12	1411	1411	PRON	PER	him
+12	1463	1463	PRON	PER	His
+12	1476	1476	PROP	PER	Marlow
+108	1484	1485	NOM	PER	No one
+12	1495	1495	PRON	PER	he
+114	1508	1509	NOM	PER	the Romans
+115	1527	1528	NOM	LOC	this river
+116	1531	1531	PRON	PER	you
+16	1533	1533	PROP	PER	Knights
+117	1557	1557	PRON	PER	We
+118	1569	1571	NOM	LOC	the old earth
+119	1585	1598	NOM	PER	a commander of a fine -- what d'ye call ' em?--trireme in the Mediterranean
+120	1592	1592	PRON	PER	d'ye
+8	1597	1598	PROP	LOC	the Mediterranean
+9	1609	1610	PROP	LOC	the Gauls
+121	1623	1624	NOM	PER	the legionaries
+122	1630	1631	NOM	PER	handy men
+121	1632	1632	PRON	PER	they
+117	1655	1655	PRON	PER	we
+117	1659	1659	PRON	PER	we
+119	1663	1663	PRON	PER	him
+123	1666	1671	NOM	LOC	the very end of the world
+124	1670	1671	NOM	LOC	the world
+125	1673	1678	NOM	LOC	a sea the colour of lead
+126	1687	1696	NOM	VEH	a kind of ship about as rigid as a concertina
+115	1701	1702	NOM	LOC	this river
+128	1704	1704	NOM	FAC	stores
+129	1711	1711	PRON	PER	you
+130	1714	1716	NOM	LOC	Sand - banks
+131	1718	1720	NOM	LOC	marshes , forests
+132	1728	1730	NOM	PER	a civilized man
+133	1734	1735	NOM	LOC	Thames water
+134	1751	1753	NOM	FAC	a military camp
+135	1756	1757	NOM	LOC	a wilderness
+136	1792	1793	NOM	LOC	the bush
+134	1795	1795	PRON	PER	They
+119	1808	1808	PRON	PER	he
+119	1836	1836	PRON	PER	he
+119	1841	1841	PRON	PER	his
+134	1846	1846	PRON	PER	They
+44	1848	1848	NOM	PER	men
+119	1857	1857	PRON	PER	he
+119	1862	1862	PRON	PER	his
+138	1870	1871	NOM	VEH	the fleet
+10	1873	1873	PROP	GPE	Ravenna
+119	1879	1879	PRON	PER	he
+139	1881	1884	NOM	PER	good friends in Rome
+11	1884	1884	PROP	GPE	Rome
+140	1894	1900	NOM	PER	a decent young citizen in a toga
+141	1907	1907	PRON	PER	you
+142	1917	1918	NOM	PER	some prefect
+143	1921	1923	NOM	PER	tax - gatherer
+144	1926	1926	NOM	PER	trader
+140	1931	1931	PRON	PER	his
+145	1936	1937	NOM	LOC	a swamp
+146	1941	1942	NOM	LOC	the woods
+140	1960	1960	PRON	PER	him
+147	1967	1968	NOM	LOC	the wilderness
+148	1972	1973	NOM	LOC	the forest
+149	1976	1977	NOM	LOC	the jungles
+150	1983	1984	NOM	PER	wild men
+119	1995	1995	PRON	PER	He
+119	2024	2024	PRON	PER	him
+141	2032	2032	PRON	PER	you

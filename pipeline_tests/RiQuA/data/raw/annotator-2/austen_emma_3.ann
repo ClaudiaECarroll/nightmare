@@ -1,0 +1,2027 @@
+T1	Entity 3399 3401	he
+T2	Cue 3437 3444	recited
+T3	Quotation 3471 3609	My first doth affliction denote, Which my second is destin'd to feel And my whole is the best antidote That affliction to soften and heal.
+T4	Entity 3299 3303	They
+R1	Addressee Arg1:T4 Arg2:T3	
+R2	Speaker Arg1:T1 Arg2:T3	
+R3	Cueing Arg1:T2 Arg2:T3	
+T5	Quotation 3701 3757	"Why will not you write one yourself for us, Mr. Elton?"
+T6	Cue 3758 3762	said
+T7	Entity 3763 3766	she
+T8	Quotation 3768 3850	"that is the only security for its freshness; and nothing could be easier to you."
+R4	Cueing Arg1:T6 Arg2:T5	
+R5	Speaker Arg1:T7 Arg2:T5	
+R6	Cueing Arg1:T6 Arg2:T8	
+R7	Speaker Arg1:T7 Arg2:T8	
+R8	Addressee Arg1:T1 Arg2:T5	
+R9	Addressee Arg1:T1 Arg2:T8	
+T9	Quotation 4378 4426	"I do not offer it for Miss Smith's collection,"
+T10	Cue 4427 4431	said
+T11	Entity 4432 4434	he
+R10	Cueing Arg1:T10 Arg2:T9	
+R11	Speaker Arg1:T11 Arg2:T9	
+T12	Quotation 4437 4566	"Being my friend's, I have no right to expose it in any degree to the public eye, but perhaps you may not dislike looking at it."
+T13	Entity 4590 4594	Emma
+T14	Entity 4603 4610	Harriet
+R12	Cueing Arg1:T10 Arg2:T12	
+R13	Speaker Arg1:T11 Arg2:T12	
+R14	Addressee Arg1:T13 Arg2:T12	
+R15	Addressee Arg1:T14 Arg2:T12	
+T15	Quotation 4802 4812	"Take it,"
+T16	Cue 4813 4817	said
+T17	Entity 4818 4822	Emma
+T18	Entity 4863 4870	Harriet
+T19	Quotation 4873 4905	"it is for you.  Take your own."
+R16	Cueing Arg1:T16 Arg2:T15	
+R17	Cueing Arg1:T16 Arg2:T19	
+R18	Speaker Arg1:T17 Arg2:T15	
+R19	Speaker Arg1:T17 Arg2:T19	
+R20	Addressee Arg1:T18 Arg2:T15	
+R21	Addressee Arg1:T18 Arg2:T19	
+T20	Quotation 5763 6070	"Very well, Mr. Elton, very well indeed.  I have read worse charades.  Courtship -- a very good hint.  I give you credit for it.  This is feeling your way.  This is saying very plainly-- 'Pray, Miss Smith, give me leave to pay my addresses to you.  Approve my charade and my intentions in the same glance.'"
+T21	Cue 5660 5666	saying
+T22	Entity 5685 5692	Harriet
+R22	Addressee Arg1:T22 Arg2:T20	
+R23	Cueing Arg1:T21 Arg2:T20	
+T23	Entity 5670 5677	herself
+R24	Speaker Arg1:T23 Arg2:T20	
+T24	Quotation 6798 7140	"What can it be, Miss Woodhouse?-- what can it be? I have not an idea -- I cannot guess it in the least.  What can it possibly be? Do try to find it out, Miss Woodhouse.  Do help me.  I never saw any thing so hard. Is it kingdom? I wonder who the friend was-- and who could be the young lady.  Do you think it is a good one? Can it be woman?"
+T25	Entity 6767 6776	Harriet's
+T26	Entity 6622 6625	She
+R25	Speaker Arg1:T25 Arg2:T24	
+R26	Addressee Arg1:T26 Arg2:T24	
+T27	Quotation 7180 7200	"Can it be Neptune?"
+R27	Speaker Arg1:T25 Arg2:T27	
+R28	Addressee Arg1:T26 Arg2:T27	
+T28	Quotation 7244 7439	"Or a trident? or a mermaid? or a shark? Oh, no! shark is only one syllable.  It must be very clever, or he would not have brought it. Oh! Miss Woodhouse, do you think we shall ever find it out?"
+R29	Addressee Arg1:T26 Arg2:T28	
+R30	Speaker Arg1:T25 Arg2:T28	
+T29	Quotation 7440 7641	"Mermaids and sharks! Nonsense! My dear Harriet, what are you thinking of? Where would be the use of his bringing us a charade made by a friend upon a mermaid or a shark? Give me the paper and listen."
+R31	Addressee Arg1:T25 Arg2:T29	
+R32	Speaker Arg1:T26 Arg2:T29	
+T30	Quotation 8110 8352	"A very proper compliment!-- and then follows the application, which I think, my dear Harriet, you cannot find much difficulty in comprehending.  Read it in comfort to yourself.  There can be no doubt of its being written for you and to you."
+T31	Entity 8353 8360	Harriet
+R33	Addressee Arg1:T31 Arg2:T30	
+T32	Entity 8567 8571	Emma
+R34	Speaker Arg1:T32 Arg2:T30	
+T33	Quotation 8587 8657	"There is so pointed, and so particular a meaning in this compliment,"
+T34	Cue 8658 8662	said
+T35	Entity 8663 8666	she
+T36	Quotation 8668 9757	"that I cannot have a doubt as to Mr. Elton's intentions. You are his object-- and you will soon receive the completest proof of it.  I thought it must be so.  I thought I could not be so deceived; but now, it is clear; the state of his mind is as clear and decided, as my wishes on the subject have been ever since I knew you.  Yes, Harriet, just so long have I been wanting the very circumstance to happen what has happened.  I could never tell whether an attachment between you and Mr. Elton were most desirable or most natural.  Its probability and its eligibility have really so equalled each other! I am very happy.  I congratulate you, my dear Harriet, with all my heart. This is an attachment which a woman may well feel pride in creating. This is a connexion which offers nothing but good.  It will give you every thing that you want-- consideration, independence, a proper home-- it will fix you in the centre of all your real friends, close to Hartfield and to me, and confirm our intimacy for ever.  This, Harriet, is an alliance which can never raise a blush in either of us."
+R35	Cueing Arg1:T34 Arg2:T33	
+R36	Cueing Arg1:T34 Arg2:T36	
+R37	Speaker Arg1:T35 Arg2:T33	
+R38	Speaker Arg1:T35 Arg2:T36	
+T37	Entity 8582 8585	her
+R39	Addressee Arg1:T37 Arg2:T33	
+R40	Addressee Arg1:T37 Arg2:T36	
+T38	Quotation 9758 9780	"Dear Miss Woodhouse!"
+T39	Quotation 9787 9809	"Dear Miss Woodhouse,"
+T40	Entity 9823 9830	Harriet
+R41	Speaker Arg1:T40 Arg2:T38	
+T41	Entity 9976 9986	her friend
+R42	Speaker Arg1:T40 Arg2:T39	
+R43	Addressee Arg1:T41 Arg2:T38	
+R44	Addressee Arg1:T41 Arg2:T39	
+T42	Quotation 10110 10145	"Whatever you say is always right,"
+T43	Cue 10146 10151	cried
+T44	Entity 10152 10159	Harriet
+T45	Quotation 10161 10520	"and therefore I suppose, and believe, and hope it must be so; but otherwise I could not have imagined it.  It is so much beyond any thing I deserve.  Mr. Elton, who might marry any body! There cannot be two opinions about him.  He is so very superior.  Only think of those sweet verses-- 'To Miss --.' Dear me, how clever!-- Could it really be meant for me?"
+R45	Cueing Arg1:T43 Arg2:T42	
+R46	Cueing Arg1:T43 Arg2:T45	
+R47	Speaker Arg1:T44 Arg2:T42	
+R48	Speaker Arg1:T44 Arg2:T45	
+R49	Addressee Arg1:T41 Arg2:T42	
+R50	Addressee Arg1:T41 Arg2:T45	
+T46	Quotation 10521 10746	"I cannot make a question, or listen to a question about that.  It is a certainty.  Receive it on my judgment.  It is a sort of prologue to the play, a motto to the chapter; and will be soon followed by matter-of-fact prose."
+R51	Addressee Arg1:T44 Arg2:T46	
+R52	Speaker Arg1:T41 Arg2:T46	
+T47	Quotation 10747 10894	"It is a sort of thing which nobody could have expected.  I am sure, a month ago, I had no more idea myself!-- The strangest things do take place!"
+R53	Speaker Arg1:T44 Arg2:T47	
+R54	Addressee Arg1:T41 Arg2:T47	
+T48	Quotation 10895 11645	"When Miss Smiths and Mr. Eltons get acquainted-- they do indeed-- and really it is strange; it is out of the common course that what is so evidently, so palpably desirable-- what courts the pre-arrangement of other people, should so immediately shape itself into the proper form. You and Mr. Elton are by situation called together; you belong to one another by every circumstance of your respective homes.  Your marrying will be equal to the match at Randalls.  There does seem to be a something in the air of Hartfield which gives love exactly the right direction, and sends it into the very channel where it ought to flow.  The course of true love never did run smooth--  A Hartfield edition of Shakespeare would have a long note on that passage."
+R55	Addressee Arg1:T44 Arg2:T48	
+R56	Speaker Arg1:T41 Arg2:T48	
+T49	Quotation 11646 12609	"That Mr. Elton should really be in love with me,-- me, of all people, who did not know him, to speak to him, at Michaelmas! And he, the very handsomest man that ever was, and a man that every body looks up to, quite like Mr. Knightley! His company so sought after, that every body says he need not eat a single meal by himself if he does not chuse it; that he has more invitations than there are days in the week.  And so excellent in the Church! Miss Nash has put down all the texts he has ever preached from since he came to Highbury.  Dear me! When I look back to the first time I saw him! How little did I think!-- The two Abbots and I ran into the front room and peeped through the blind when we heard he was going by, and Miss Nash came and scolded us away, and staid to look through herself; however, she called me back presently, and let me look too, which was very good-natured. And how beautiful we thought he looked!  He was arm-in-arm with Mr. Cole."
+R57	Speaker Arg1:T44 Arg2:T49	
+R58	Addressee Arg1:T41 Arg2:T49	
+T50	Quotation 12610 13248	"This is an alliance which, whoever-- whatever your friends may be, must be agreeable to them, provided at least they have common sense; and we are not to be addressing our conduct to fools.  If they are anxious to see you happily married, here is a man whose amiable character gives every assurance of it;-- if they wish to have you settled in the same country and circle which they have chosen to place you in, here it will be accomplished; and if their only object is that you should, in the common phrase, be well married, here is the comfortable fortune, the respectable establishment, the rise in the world which must satisfy them."
+R59	Addressee Arg1:T44 Arg2:T50	
+R60	Speaker Arg1:T41 Arg2:T50	
+T51	Quotation 13249 13480	"Yes, very true.  How nicely you talk; I love to hear you.  You understand every thing.  You and Mr. Elton are one as clever as the other.  This charade!-- If I had studied a twelvemonth, I could never have made any thing like it."
+R61	Speaker Arg1:T44 Arg2:T51	
+R62	Addressee Arg1:T41 Arg2:T51	
+T52	Quotation 13481 13560	"I thought he meant to try his skill, by his manner of declining it yesterday."
+T53	Entity 13844 13851	Harriet
+T54	Entity 14241 14245	Emma
+R63	Addressee Arg1:T53 Arg2:T52	
+R64	Speaker Arg1:T54 Arg2:T52	
+T55	Quotation 13561 13629	"I do think it is, without exception, the best charade I ever read."
+R65	Speaker Arg1:T53 Arg2:T55	
+R66	Addressee Arg1:T54 Arg2:T55	
+T56	Quotation 13630 13680	"I never read one more to the purpose, certainly."
+R67	Addressee Arg1:T53 Arg2:T56	
+R68	Speaker Arg1:T54 Arg2:T56	
+T57	Quotation 13681 13736	"It is as long again as almost all we have had before."
+R69	Speaker Arg1:T53 Arg2:T57	
+R70	Addressee Arg1:T54 Arg2:T57	
+T58	Quotation 13737 13843	"I do not consider its length as particularly in its favour.  Such things in general cannot be too short."
+R71	Addressee Arg1:T53 Arg2:T58	
+R72	Speaker Arg1:T54 Arg2:T58	
+T59	Quotation 13949 13967	"It is one thing,"
+T60	Cue 13968 13972	said
+T61	Entity 13973 13976	she
+T62	Quotation 14013 14240	"to have very good sense in a common way, like every body else, and if there is any thing to say, to sit down and write a letter, and say just what you must, in a short way; and another, to write verses and charades like this."
+R73	Cueing Arg1:T60 Arg2:T59	
+R74	Cueing Arg1:T60 Arg2:T62	
+R75	Speaker Arg1:T61 Arg2:T59	
+R76	Speaker Arg1:T61 Arg2:T62	
+R77	Addressee Arg1:T54 Arg2:T59	
+R78	Addressee Arg1:T54 Arg2:T62	
+T63	Quotation 14318 14337	"Such sweet lines!"
+T64	Cue 14338 14347	continued
+T65	Entity 14348 14355	Harriet
+T66	Quotation 14358 14504	"these two last!-- But how shall I ever be able to return the paper, or say I have found it out?-- Oh! Miss Woodhouse, what can we do about that?"
+R79	Cueing Arg1:T64 Arg2:T63	
+R80	Cueing Arg1:T64 Arg2:T66	
+R81	Speaker Arg1:T65 Arg2:T63	
+R82	Speaker Arg1:T65 Arg2:T66	
+T67	Quotation 14505 14768	"Leave it to me.  You do nothing.  He will be here this evening, I dare say, and then I will give it him back, and some nonsense or other will pass between us, and you shall not be committed.-- Your soft eyes shall chuse their own time for beaming.  Trust to me."
+R83	Speaker Arg1:T54 Arg2:T67	
+R84	Addressee Arg1:T65 Arg2:T67	
+T68	Quotation 14769 14904	"Oh! Miss Woodhouse, what a pity that I must not write this beautiful charade into my book! I am sure I have not got one half so good."
+R85	Speaker Arg1:T65 Arg2:T68	
+R86	Addressee Arg1:T54 Arg2:T68	
+T69	Quotation 14905 15003	"Leave out the two last lines, and there is no reason why you should not write it into your book."
+R87	Speaker Arg1:T54 Arg2:T69	
+R88	Addressee Arg1:T65 Arg2:T69	
+T70	Quotation 15004 15033	"Oh! but those two lines are"
+R89	Addressee Arg1:T54 Arg2:T70	
+R90	Speaker Arg1:T65 Arg2:T70	
+T71	Quotation 15038 15636	"The best of all.  Granted;-- for private enjoyment; and for private enjoyment keep them.  They are not at all the less written you know, because you divide them.  The couplet does not cease to be, nor does its meaning change.  But take it away, and all appropriation ceases, and a very pretty gallant charade remains, fit for any collection. Depend upon it, he would not like to have his charade slighted, much better than his passion.  A poet in love must be encouraged in both capacities, or neither.  Give me the book, I will write it down, and then there can be no possible reflection on you."
+R91	Speaker Arg1:T54 Arg2:T71	
+R92	Addressee Arg1:T65 Arg2:T71	
+T72	Quotation 15856 15909	"I shall never let that book go out of my own hands,"
+T73	Cue 15910 15914	said
+T74	Entity 15915 15918	she
+R93	Cueing Arg1:T73 Arg2:T72	
+R94	Speaker Arg1:T74 Arg2:T72	
+T75	Quotation 15920 15932	"Very well,"
+T76	Cue 15933 15940	replied
+T77	Entity 15941 15945	Emma
+T78	Quotation 15947 16333	"a most natural feeling; and the longer it lasts, the better I shall be pleased.  But here is my father coming: you will not object to my reading the charade to him.  It will be giving him so much pleasure! He loves any thing of the sort, and especially any thing that pays woman a compliment.  He has the tenderest spirit of gallantry towards us all!-- You must let me read it to him."
+R95	Cueing Arg1:T76 Arg2:T75	
+R96	Cueing Arg1:T76 Arg2:T78	
+R97	Addressee Arg1:T77 Arg2:T72	
+R98	Speaker Arg1:T77 Arg2:T75	
+R99	Speaker Arg1:T77 Arg2:T78	
+R100	Addressee Arg1:T74 Arg2:T75	
+R101	Addressee Arg1:T74 Arg2:T78	
+T79	Quotation 16356 16940	"My dear Harriet, you must not refine too much upon this charade.-- You will betray your feelings improperly, if you are too conscious and too quick, and appear to affix more meaning, or even quite all the meaning which may be affixed to it.  Do not be overpowered by such a little tribute of admiration.  If he had been anxious for secrecy, he would not have left the paper while I was by; but he rather pushed it towards me than towards you.  Do not let us be too solemn on the business.  He has encouragement enough to proceed, without our sighing out our souls over this charade."
+T80	Entity 16334 16341	Harriet
+R102	Addressee Arg1:T80 Arg2:T79	
+R103	Speaker Arg1:T77 Arg2:T79	
+T81	Quotation 16941 17014	"Oh! no -- I hope I shall not be ridiculous about it.  Do as you please."
+R104	Speaker Arg1:T80 Arg2:T81	
+R105	Addressee Arg1:T77 Arg2:T81	
+T82	Quotation 17128 17203	"Well, my dears, how does your book go on?-- Have you got any thing fresh?"
+T83	Entity 17015 17028	Mr. Woodhouse
+R106	Speaker Arg1:T83 Arg2:T82	
+R107	Addressee Arg1:T80 Arg2:T82	
+R108	Addressee Arg1:T77 Arg2:T82	
+T84	Quotation 17204 17425	"Yes, papa; we have something to read you, something quite fresh.  A piece of paper was found on the table this morning-- (dropt, we suppose, by a fairy)-- containing a very pretty charade, and we have just copied it in."
+R109	Addressee Arg1:T83 Arg2:T84	
+R110	Speaker Arg1:T77 Arg2:T84	
+T85	Quotation 17699 17934	"Aye, that's very just, indeed, that's very properly said.  Very true. 'Woman, lovely woman.' It is such a pretty charade, my dear, that I can easily guess what fairy brought it.-- Nobody could have written so prettily, but you, Emma."
+R111	Speaker Arg1:T83 Arg2:T85	
+T86	Entity 17935 17939	Emma
+R112	Addressee Arg1:T86 Arg2:T85	
+T87	Quotation 18026 18613	"Ah! it is no difficulty to see who you take after! Your dear mother was so clever at all those things! If I had but her memory! But I can remember nothing;-- not even that particular riddle which you have heard me mention; I can only recollect the first stanza; and there are several.  Kitty, a fair but frozen maid, Kindled a flame I yet deplore, The hood-wink'd boy I called to aid, Though of his near approach afraid, So fatal to my suit before.  And that is all that I can recollect of it-- but it is very clever all the way through.  But I think, my dear, you said you had got it."
+R113	Addressee Arg1:T86 Arg2:T87	
+R114	Speaker Arg1:T83 Arg2:T87	
+T88	Quotation 18614 18734	"Yes, papa, it is written out in our second page.  We copied it from the Elegant Extracts.  It was Garrick's, you know."
+R115	Speaker Arg1:T86 Arg2:T88	
+R116	Addressee Arg1:T83 Arg2:T88	
+T89	Quotation 18735 19079	"Aye, very true. -- I wish I could recollect more of it.  Kitty, a fair but frozen maid.  The name makes me think of poor Isabella; for she was very near being christened Catherine after her grandmama.  I hope we shall have her here next week.  Have you thought, my dear, where you shall put her-- and what room there will be for the children?"
+R117	Addressee Arg1:T86 Arg2:T89	
+R118	Speaker Arg1:T83 Arg2:T89	
+T90	Quotation 19080 19260	"Oh! yes-- she will have her own room, of course; the room she always has;-- and there is the nursery for the children,-- just as usual, you know.  Why should there be any change?"
+R119	Speaker Arg1:T86 Arg2:T90	
+R120	Addressee Arg1:T83 Arg2:T90	
+T91	Quotation 19261 19569	"I do not know, my dear-- but it is so long since she was here!-- not since last Easter, and then only for a few days.-- Mr. John Knightley's being a lawyer is very inconvenient.-- Poor Isabella!-- she is sadly taken away from us all!-- and how sorry she will be when she comes, not to see Miss Taylor here!"
+R121	Addressee Arg1:T86 Arg2:T91	
+R122	Speaker Arg1:T83 Arg2:T91	
+T92	Quotation 19570 19614	"She will not be surprized, papa, at least."
+R123	Speaker Arg1:T86 Arg2:T92	
+T93	Entity 18016 18018	he
+R124	Addressee Arg1:T93 Arg2:T92	
+T94	Quotation 19615 19725	"I do not know, my dear.  I am sure I was very much surprized when I first heard she was going to be married."
+R125	Addressee Arg1:T86 Arg2:T94	
+R126	Speaker Arg1:T93 Arg2:T94	
+T95	Quotation 19726 19800	"We must ask Mr. and Mrs. Weston to dine with us, while Isabella is here."
+R127	Speaker Arg1:T86 Arg2:T95	
+R128	Addressee Arg1:T93 Arg2:T95	
+T96	Quotation 19801 19943	"Yes, my dear, if there is time.-- But-- (in a very depressed tone)-- she is coming for only one week.  There will not be time for any thing."
+R129	Addressee Arg1:T86 Arg2:T96	
+R130	Speaker Arg1:T93 Arg2:T96	
+T97	Quotation 19944 20383	"It is unfortunate that they cannot stay longer-- but it seems a case of necessity.  Mr. John Knightley must be in town again on the 28th, and we ought to be thankful, papa, that we are to have the whole of the time they can give to the country, that two or three days are not to be taken out for the Abbey.  Mr. Knightley promises to give up his claim this Christmas-- though you know it is longer since they were with him, than with us."
+R131	Speaker Arg1:T86 Arg2:T97	
+R132	Addressee Arg1:T93 Arg2:T97	
+T98	Quotation 20384 20480	"It would be very hard, indeed, my dear, if poor Isabella were to be anywhere but at Hartfield."
+R133	Addressee Arg1:T86 Arg2:T98	
+T99	Entity 20481 20494	Mr. Woodhouse
+R134	Speaker Arg1:T99 Arg2:T98	
+T100	Entity 20607 20609	He
+T101	Cue 20646 20650	said
+T102	Quotation 20652 20855	"But I do not see why poor Isabella should be obliged to go back so soon, though he does.  I think, Emma, I shall try and persuade her to stay longer with us.  She and the children might stay very well."
+R135	Speaker Arg1:T100 Arg2:T102	
+R136	Cueing Arg1:T101 Arg2:T102	
+R137	Addressee Arg1:T86 Arg2:T102	
+T103	Quotation 20856 21005	"Ah! papa-- that is what you never have been able to accomplish, and I do not think you ever will.  Isabella cannot bear to stay behind her husband."
+R138	Addressee Arg1:T100 Arg2:T103	
+T104	Entity 21121 21125	Emma
+R139	Speaker Arg1:T104 Arg2:T103	
+T105	Quotation 21280 21539	"Harriet must give us as much of her company as she can while my brother and sister are here.  I am sure she will be pleased with the children.  We are very proud of the children, are not we, papa? I wonder which she will think the handsomest, Henry or John?"
+R140	Speaker Arg1:T104 Arg2:T105	
+T106	Entity 21065 21078	Mr. Woodhouse
+R141	Addressee Arg1:T106 Arg2:T105	
+T107	Quotation 21540 21674	"Aye, I wonder which she will.  Poor little dears, how glad they will be to come.  They are very fond of being at Hartfield, Harriet."
+R142	Speaker Arg1:T106 Arg2:T107	
+R143	Addressee Arg1:T104 Arg2:T107	
+R144	Addressee Arg1:T80 Arg2:T107	
+T108	Quotation 21675 21739	"I dare say they are, sir.  I am sure I do not know who is not."
+R145	Speaker Arg1:T80 Arg2:T108	
+R146	Addressee Arg1:T106 Arg2:T108	
+T109	Quotation 21740 22396	"Henry is a fine boy, but John is very like his mama.  Henry is the eldest, he was named after me, not after his father.  John, the second, is named after his father.  Some people are surprized, I believe, that the eldest was not, but Isabella would have him called Henry, which I thought very pretty of her.  And he is a very clever boy, indeed.  They are all remarkably clever; and they have so many pretty ways.  They will come and stand by my chair, and say, 'Grandpapa, can you give me a bit of string?' and once Henry asked me for a knife, but I told him knives were only made for grandpapas.  I think their father is too rough with them very often."
+R147	Speaker Arg1:T106 Arg2:T109	
+R148	Addressee Arg1:T104 Arg2:T109	
+R149	Addressee Arg1:T80 Arg2:T109	
+T110	Entity 22156 22160	They
+T111	Entity 22184 22186	my
+T112	Quotation 22203 22248	'Grandpapa, can you give me a bit of string?'
+T113	Cue 22198 22201	say
+R150	Cueing Arg1:T113 Arg2:T112	
+R151	Addressee Arg1:T111 Arg2:T112	
+R152	Speaker Arg1:T110 Arg2:T112	
+T114	Quotation 22397 22423	"He appears rough to you,"
+T115	Cue 22424 22428	said
+T116	Entity 22429 22433	Emma
+T117	Quotation 22435 22789	"because you are so very gentle yourself; but if you could compare him with other papas, you would not think him rough.  He wishes his boys to be active and hardy; and if they misbehave, can give them a sharp word now and then; but he is an affectionate father-- certainly Mr. John Knightley is an affectionate father.  The children are all fond of him."
+R153	Cueing Arg1:T115 Arg2:T114	
+R154	Cueing Arg1:T115 Arg2:T117	
+R155	Speaker Arg1:T116 Arg2:T114	
+R156	Speaker Arg1:T116 Arg2:T117	
+R157	Addressee Arg1:T106 Arg2:T117	
+T118	Quotation 22790 22881	"And then their uncle comes in, and tosses them up to the ceiling in a very frightful way!"
+R158	Addressee Arg1:T116 Arg2:T118	
+R159	Speaker Arg1:T106 Arg2:T118	
+T119	Quotation 22882 23094	"But they like it, papa; there is nothing they like so much.  It is such enjoyment to them, that if their uncle did not lay down the rule of their taking turns, whichever began would never give way to the other."
+R160	Speaker Arg1:T116 Arg2:T119	
+R161	Addressee Arg1:T106 Arg2:T119	
+T120	Quotation 23095 23126	"Well, I cannot understand it."
+R162	Addressee Arg1:T116 Arg2:T120	
+R163	Speaker Arg1:T106 Arg2:T120	
+T121	Quotation 23127 23233	"That is the case with us all, papa.  One half of the world cannot understand the pleasures of the other."
+R164	Speaker Arg1:T116 Arg2:T121	
+R165	Addressee Arg1:T106 Arg2:T121	
+T122	Quotation 24287 24580	"Oh! here is the charade you were so obliging as to leave with us; thank you for the sight of it.  We admired it so much, that I have ventured to write it into Miss Smith's collection.  Your friend will not take it amiss I hope.  Of course I have not transcribed beyond the first eight lines."
+T123	Entity 24034 24038	Emma
+T124	Entity 24581 24590	Mr. Elton
+R166	Speaker Arg1:T123 Arg2:T122	
+R167	Addressee Arg1:T124 Arg2:T122	
+T125	Entity 24638 24640	He
+T126	Cue 24685 24689	said
+T127	Quotation 24706 24715	"honour,"
+T128	Entity 24729 24733	Emma
+R168	Cueing Arg1:T126 Arg2:T127	
+R169	Speaker Arg1:T125 Arg2:T127	
+R170	Addressee Arg1:T128 Arg2:T127	
+T129	Entity 24889 24893	Emma
+T130	Cue 24904 24908	said
+T131	Quotation 24910 25094	"You must make my apologies to your friend; but so good a charade must not be confined to one or two.  He may be sure of every woman's approbation while he writes with such gallantry."
+R171	Cueing Arg1:T130 Arg2:T131	
+R172	Speaker Arg1:T129 Arg2:T131	
+R173	Addressee Arg1:T125 Arg2:T131	
+T132	Quotation 25095 25128	"I have no hesitation in saying,"
+T133	Cue 25129 25136	replied
+T134	Entity 25137 25146	Mr. Elton
+T135	Quotation 25194 25482	"I have no hesitation in saying-- at least if my friend feels at all as I do -- I have not the smallest doubt that, could he see his little effusion honoured as I see it, (looking at the book again, and replacing it on the table), he would consider it as the proudest moment of his life."
+R174	Cueing Arg1:T133 Arg2:T132	
+R175	Cueing Arg1:T133 Arg2:T135	
+R176	Speaker Arg1:T134 Arg2:T132	
+R177	Speaker Arg1:T134 Arg2:T135	
+R178	Addressee Arg1:T129 Arg2:T132	
+R179	Addressee Arg1:T129 Arg2:T135	
+T136	Entity 26706 26710	Emma
+T137	Quotation 26726 26794	"There it is.  There go you and your riddle-book one of these days."
+T138	Entity 26797 26805	Harriet'
+R180	Speaker Arg1:T136 Arg2:T137	
+R181	Addressee Arg1:T138 Arg2:T137	
+T139	Quotation 26813 26924	"Oh, what a sweet house!-- How very beautiful!-- There are the yellow curtains that Miss Nash admires so much."
+R182	Speaker Arg1:T138 Arg2:T139	
+R183	Addressee Arg1:T136 Arg2:T139	
+T140	Quotation 26925 26960	"I do not often walk this way now,"
+T141	Cue 26961 26965	said
+T142	Entity 26966 26970	Emma
+T143	Quotation 26991 27151	"but then there will be an inducement, and I shall gradually get intimately acquainted with all the hedges, gates, pools and pollards of this part of Highbury."
+R184	Cueing Arg1:T141 Arg2:T140	
+R185	Cueing Arg1:T141 Arg2:T143	
+R186	Speaker Arg1:T142 Arg2:T140	
+R187	Speaker Arg1:T142 Arg2:T143	
+T144	Entity 27152 27159	Harriet
+R188	Addressee Arg1:T144 Arg2:T140	
+R189	Addressee Arg1:T144 Arg2:T143	
+T145	Quotation 27404 27434	"I wish we could contrive it,"
+T146	Cue 27435 27439	said
+T147	Entity 27440 27443	she
+T148	Quotation 27445 27595	"but I cannot think of any tolerable pretence for going in;-- no servant that I want to inquire about of his housekeeper-- no message from my father."
+R190	Cueing Arg1:T146 Arg2:T145	
+R191	Cueing Arg1:T146 Arg2:T148	
+R192	Speaker Arg1:T147 Arg2:T145	
+R193	Speaker Arg1:T147 Arg2:T148	
+R194	Addressee Arg1:T142 Arg2:T145	
+R195	Addressee Arg1:T142 Arg2:T148	
+T149	Quotation 27706 27819	"I do so wonder, Miss Woodhouse, that you should not be married, or going to be married! so charming as you are!"
+T150	Entity 27679 27686	Harriet
+R196	Speaker Arg1:T150 Arg2:T149	
+T151	Cue 27692 27697	began
+R197	Cueing Arg1:T151 Arg2:T149	
+T152	Entity 27822 27826	Emma
+R198	Addressee Arg1:T152 Arg2:T149	
+T153	Cue 27840 27847	replied
+T154	Quotation 27849 28097	"My being charming, Harriet, is not quite enough to induce me to marry; I must find other people charming-- one other person at least.  And I am not only, not going to be married, at present, but have very little intention of ever marrying at all."
+R199	Speaker Arg1:T152 Arg2:T154	
+R200	Cueing Arg1:T153 Arg2:T154	
+R201	Addressee Arg1:T150 Arg2:T154	
+T155	Quotation 28098 28142	"Ah!-- so you say; but I cannot believe it."
+R202	Addressee Arg1:T152 Arg2:T155	
+R203	Speaker Arg1:T150 Arg2:T155	
+T156	Quotation 28143 28454	"I must see somebody very superior to any one I have seen yet, to be tempted; Mr. Elton, you know, (recollecting herself,) is out of the question:  and I do not wish to see any such person.  I would rather not be tempted.  I cannot really change for the better.  If I were to marry, I must expect to repent it."
+R204	Speaker Arg1:T152 Arg2:T156	
+R205	Addressee Arg1:T150 Arg2:T156	
+T157	Quotation 28455 28505	"Dear me!-- it is so odd to hear a woman talk so!"
+R206	Addressee Arg1:T152 Arg2:T157	
+R207	Speaker Arg1:T150 Arg2:T157	
+T158	Quotation 28508 29134	"I have none of the usual inducements of women to marry.  Were I to fall in love, indeed, it would be a different thing!  but I never have been in love; it is not my way, or my nature; and I do not think I ever shall.  And, without love, I am sure I should be a fool to change such a situation as mine.  Fortune I do not want; employment I do not want; consequence I do not want: I believe few married women are half as much mistress of their husband's house as I am of Hartfield; and never, never could I expect to be so truly beloved and important; so always first and always right in any man's eyes as I am in my father's."
+R208	Speaker Arg1:T152 Arg2:T158	
+R209	Addressee Arg1:T150 Arg2:T158	
+T159	Quotation 29135 29190	"But then, to be an old maid at last, like Miss Bates!"
+R210	Addressee Arg1:T152 Arg2:T159	
+R211	Speaker Arg1:T150 Arg2:T159	
+T160	Quotation 29191 29576	"That is as formidable an image as you could present, Harriet; and if I thought I should ever be like Miss Bates! so silly-- so satisfied-- so smiling-- so prosing-- so undistinguishing and unfastidious-- and so apt to tell every thing relative to every body about me, I would marry to-morrow. But between us, I am convinced there never can be any likeness, except in being unmarried."
+R212	Speaker Arg1:T152 Arg2:T160	
+R213	Addressee Arg1:T150 Arg2:T160	
+T161	Quotation 29577 29638	"But still, you will be an old maid! and that's so dreadful!"
+R214	Addressee Arg1:T152 Arg2:T161	
+R215	Speaker Arg1:T150 Arg2:T161	
+T162	Quotation 29639 30753	"Never mind, Harriet, I shall not be a poor old maid; and it is poverty only which makes celibacy contemptible to a generous public!  A single woman, with a very narrow income, must be a ridiculous, disagreeable old maid! the proper sport of boys and girls, but a single woman, of good fortune, is always respectable, and may be as sensible and pleasant as any body else.  And the distinction is not quite so much against the candour and common sense of the world as appears at first; for a very narrow income has a tendency to contract the mind, and sour the temper.  Those who can barely live, and who live perforce in a very small, and generally very inferior, society, may well be illiberal and cross.  This does not apply, however, to Miss Bates; she is only too good natured and too silly to suit me; but, in general, she is very much to the taste of every body, though single and though poor. Poverty certainly has not contracted her mind:  I really believe, if she had only a shilling in the world, she would be very likely to give away sixpence of it; and nobody is afraid of her:  that is a great charm."
+R216	Speaker Arg1:T152 Arg2:T162	
+R217	Addressee Arg1:T150 Arg2:T162	
+T163	Quotation 30754 30836	"Dear me! but what shall you do? how shall you employ yourself when you grow old?"
+R218	Addressee Arg1:T152 Arg2:T163	
+R219	Speaker Arg1:T150 Arg2:T163	
+T164	Quotation 30837 31882	"If I know myself, Harriet, mine is an active, busy mind, with a great many independent resources; and I do not perceive why I should be more in want of employment at forty or fifty than one-and-twenty.  Woman's usual occupations of hand and mind will be as open to me then as they are now; or with no important variation.  If I draw less, I shall read more; if I give up music, I shall take to carpet-work.  And as for objects of interest, objects for the affections, which is in truth the great point of inferiority, the want of which is really the great evil to be avoided in not marrying, I shall be very well off, with all the children of a sister I love so much, to care about.  There will be enough of them, in all probability, to supply every sort of sensation that declining life can need.  There will be enough for every hope and every fear; and though my attachment to none can equal that of a parent, it suits my ideas of comfort better than what is warmer and blinder.  My nephews and nieces! -- I shall often have a niece with me."
+R220	Speaker Arg1:T152 Arg2:T164	
+R221	Addressee Arg1:T150 Arg2:T164	
+T165	Quotation 31883 31998	"Do you know Miss Bates's niece?  That is, I know you must have seen her a hundred times-- but are you acquainted?"
+R222	Speaker Arg1:T150 Arg2:T165	
+R223	Addressee Arg1:T152 Arg2:T165	
+T166	Quotation 31999 32650	"Oh! yes; we are always forced to be acquainted whenever she comes to Highbury.  By the bye, that is almost enough to put one out of conceit with a niece.  Heaven forbid! at least, that I should ever bore people half so much about all the Knightleys together, as she does about Jane Fairfax.  One is sick of the very name of Jane Fairfax. Every letter from her is read forty times over; her compliments to all friends go round and round again; and if she does but send her aunt the pattern of a stomacher, or knit a pair of garters for her grandmother, one hears of nothing else for a month.  I wish Jane Fairfax very well; but she tires me to death."
+R224	Speaker Arg1:T152 Arg2:T166	
+R225	Addressee Arg1:T150 Arg2:T166	
+T167	Quotation 33477 33731	"These are the sights, Harriet, to do one good.  How trifling they make every thing else appear! -- I feel now as if I could think of nothing but these poor creatures all the rest of the day; and yet, who can say how soon it may all vanish from my mind?"
+T168	Entity 33436 33439	her
+T169	Cue 33440 33443	say
+T170	Entity 33447 33454	Harriet
+R226	Speaker Arg1:T168 Arg2:T167	
+R227	Cueing Arg1:T169 Arg2:T167	
+R228	Addressee Arg1:T170 Arg2:T167	
+T171	Quotation 33732 33744	"Very true,"
+T172	Cue 33745 33749	said
+T173	Entity 33750 33757	Harriet
+R229	Cueing Arg1:T172 Arg2:T171	
+R230	Speaker Arg1:T173 Arg2:T171	
+R231	Addressee Arg1:T168 Arg2:T171	
+T174	Quotation 33760 33808	"Poor creatures! one can think of nothing else."
+R232	Cueing Arg1:T172 Arg2:T174	
+R233	Speaker Arg1:T173 Arg2:T174	
+R234	Addressee Arg1:T168 Arg2:T174	
+T175	Quotation 33809 33871	"And really, I do not think the impression will soon be over,"
+T176	Cue 33872 33876	said
+T177	Entity 33877 33881	Emma
+R235	Cueing Arg1:T176 Arg2:T175	
+R236	Speaker Arg1:T177 Arg2:T175	
+R237	Addressee Arg1:T173 Arg2:T175	
+T178	Quotation 34041 34066	"I do not think it will,"
+R238	Cueing Arg1:T176 Arg2:T178	
+R239	Speaker Arg1:T177 Arg2:T178	
+R240	Addressee Arg1:T173 Arg2:T178	
+T179	Quotation 34177 34192	"Oh! dear, no,"
+T180	Cue 34193 34197	said
+T181	Entity 34198 34211	her companion
+R241	Cueing Arg1:T180 Arg2:T179	
+R242	Speaker Arg1:T181 Arg2:T179	
+T182	Entity 34198 34201	her
+R243	Addressee Arg1:T182 Arg2:T179	
+T183	Quotation 34380 34738	"Ah!  Harriet, here comes a very sudden trial of our stability in good thoughts.  Well, (smiling,) I hope it may be allowed that if compassion has produced exertion and relief to the sufferers, it has done all that is truly important.  If we feel for the wretched, enough to do all we can for them, the rest is empty sympathy, only distressing to ourselves."
+T184	Entity 34290 34299	Mr. Elton
+R244	Speaker Arg1:T184 Arg2:T183	
+T185	Cue 34367 34370	say
+R245	Cueing Arg1:T185 Arg2:T183	
+T186	Entity 34739 34746	Harriet
+R246	Addressee Arg1:T186 Arg2:T183	
+T187	Cue 34758 34764	answer
+T188	Quotation 34766 34782	"Oh! dear, yes,"
+R247	Cueing Arg1:T187 Arg2:T188	
+R248	Speaker Arg1:T186 Arg2:T188	
+T189	Entity 34790 34803	the gentleman
+R249	Addressee Arg1:T189 Arg2:T188	
+T190	Entity 37197 37199	he
+T191	Quotation 37235 37430	an account of the yesterday's party at his friend Cole's, and that she was come in herself for the Stilton cheese, the north Wiltshire, the butter, the cellery, the beet-root, and all the dessert
+T192	Entity 37216 37234	his fair companion
+R250	Speaker Arg1:T190 Arg2:T191	
+R251	Addressee Arg1:T192 Arg2:T191	
+T193	Quotation 38157 38183	"Part of my lace is gone,"
+T194	Cue 38184 38188	said
+T195	Entity 38189 38192	she
+T196	Quotation 38194 38479	"and I do not know how I am to contrive.  I really am a most troublesome companion to you both, but I hope I am not often so ill-equipped. Mr. Elton, I must beg leave to stop at your house, and ask your housekeeper for a bit of ribband or string, or any thing just to keep my boot on."
+R252	Cueing Arg1:T194 Arg2:T193	
+R253	Cueing Arg1:T194 Arg2:T196	
+R254	Speaker Arg1:T195 Arg2:T193	
+R255	Speaker Arg1:T195 Arg2:T196	
+T197	Entity 38480 38489	Mr. Elton
+R256	Addressee Arg1:T197 Arg2:T193	
+R257	Addressee Arg1:T197 Arg2:T196	
+T198	Entity 37797 37804	Harriet
+R258	Addressee Arg1:T198 Arg2:T193	
+R259	Addressee Arg1:T198 Arg2:T196	
+T199	Quotation 45765 45779	"Ah, my dear,"
+T200	Cue 45780 45784	said
+T201	Entity 45785 45787	he
+T202	Quotation 45789 45836	"poor Miss Taylor-- It is a grievous business."
+R260	Cueing Arg1:T200 Arg2:T199	
+R261	Cueing Arg1:T200 Arg2:T202	
+R262	Speaker Arg1:T201 Arg2:T199	
+R263	Speaker Arg1:T201 Arg2:T202	
+T203	Quotation 45837 45851	"Oh yes, sir,"
+T204	Cue 45852 45857	cried
+T205	Entity 45858 45861	she
+R264	Addressee Arg1:T205 Arg2:T199	
+R265	Addressee Arg1:T205 Arg2:T202	
+R266	Cueing Arg1:T204 Arg2:T203	
+R267	Speaker Arg1:T205 Arg2:T203	
+R268	Addressee Arg1:T201 Arg2:T203	
+T206	Quotation 45883 46127	"how you must miss her! And dear Emma, too!-- What a dreadful loss to you both! -- I have been so grieved for you. -- I could not imagine how you could possibly do without her.-- It is a sad change indeed.-- But I hope she is pretty well, sir."
+R269	Speaker Arg1:T205 Arg2:T206	
+R270	Cueing Arg1:T204 Arg2:T206	
+R271	Addressee Arg1:T201 Arg2:T206	
+T207	Quotation 46128 46238	"Pretty well, my dear -- I hope-- pretty well. -- I do not know but that the place agrees with her tolerably."
+R272	Addressee Arg1:T205 Arg2:T207	
+R273	Speaker Arg1:T201 Arg2:T207	
+T208	Entity 46239 46257	Mr. John Knightley
+T209	Cue 46263 46268	asked
+T210	Entity 46269 46273	Emma
+T211	Quotation 46282 46334	whether there were any doubts of the air of Randalls
+R274	Cueing Arg1:T209 Arg2:T211	
+R275	Speaker Arg1:T208 Arg2:T211	
+R276	Addressee Arg1:T210 Arg2:T211	
+T212	Quotation 46336 46472	"Oh! no-- none in the least.  I never saw Mrs. Weston better in my life-- never looking so well.  Papa is only speaking his own regret."
+R277	Speaker Arg1:T210 Arg2:T212	
+R278	Addressee Arg1:T208 Arg2:T212	
+T213	Quotation 46473 46507	"Very much to the honour of both,"
+T214	Cue 46525 46530	reply
+R279	Cueing Arg1:T214 Arg2:T213	
+R280	Addressee Arg1:T210 Arg2:T213	
+R281	Speaker Arg1:T208 Arg2:T213	
+T215	Quotation 46532 46575	"And do you see her, sir, tolerably often?"
+T216	Cue 46576 46581	asked
+T217	Entity 46582 46590	Isabella
+R283	Cueing Arg1:T216 Arg2:T215	
+R284	Speaker Arg1:T217 Arg2:T215	
+T218	Entity 46631 46641	her father
+R282	Addressee Arg1:T218 Arg2:T215	
+T219	Quotation 46670 46716	"Not near so often, my dear, as I could wish."
+T220	Entity 46643 46656	Mr. Woodhouse
+R285	Speaker Arg1:T220 Arg2:T219	
+R286	Addressee Arg1:T217 Arg2:T219	
+T221	Quotation 46717 47428	"Oh! papa, we have missed seeing them but one entire day since they married.  Either in the morning or evening of every day, excepting one, have we seen either Mr. Weston or Mrs. Weston, and generally both, either at Randalls or here-- and as you may suppose, Isabella, most frequently here.  They are very, very kind in their visits.  Mr. Weston is really as kind as herself.  Papa, if you speak in that melancholy way, you will be giving Isabella a false idea of us all.  Every body must be aware that Miss Taylor must be missed, but every body ought also to be assured that Mr. and Mrs. Weston do really prevent our missing her by any means to the extent we ourselves anticipated-- which is the exact truth."
+R287	Addressee Arg1:T220 Arg2:T221	
+R288	Speaker Arg1:T210 Arg2:T221	
+T222	Quotation 47429 47452	"Just as it should be,"
+T223	Cue 47453 47457	said
+T224	Entity 47458 47476	Mr. John Knightley
+T225	Quotation 47478 47837	"and just as I hoped it was from your letters.  Her wish of shewing you attention could not be doubted, and his being a disengaged and social man makes it all easy.  I have been always telling you, my love, that I had no idea of the change being so very material to Hartfield as you apprehended; and now you have Emma's account, I hope you will be satisfied."
+R289	Cueing Arg1:T223 Arg2:T222	
+R290	Cueing Arg1:T223 Arg2:T225	
+R291	Speaker Arg1:T224 Arg2:T222	
+R292	Speaker Arg1:T224 Arg2:T225	
+R293	Addressee Arg1:T217 Arg2:T225	
+R294	Addressee Arg1:T210 Arg2:T222	
+T226	Quotation 47838 47856	"Why, to be sure,"
+T227	Cue 47857 47861	said
+T228	Entity 47862 47875	Mr. Woodhouse
+T229	Quotation 47878 48034	"yes, certainly -- I cannot deny that Mrs. Weston, poor Mrs. Weston, does come and see us pretty often-- but then-- she is always obliged to go away again."
+R295	Cueing Arg1:T227 Arg2:T226	
+R296	Cueing Arg1:T227 Arg2:T229	
+R297	Speaker Arg1:T228 Arg2:T226	
+R298	Speaker Arg1:T228 Arg2:T229	
+R299	Addressee Arg1:T224 Arg2:T226	
+R300	Addressee Arg1:T224 Arg2:T229	
+T230	Quotation 48035 48132	"It would be very hard upon Mr. Weston if she did not, papa.-- You quite forget poor Mr. Weston."
+R301	Addressee Arg1:T228 Arg2:T230	
+R302	Speaker Arg1:T210 Arg2:T230	
+T231	Quotation 48133 48151	"I think, indeed,"
+T232	Cue 48152 48156	said
+T233	Entity 48157 48171	John Knightley
+T234	Quotation 48184 48537	"that Mr. Weston has some little claim.  You and I, Emma, will venture to take the part of the poor husband.  I, being a husband, and you not being a wife, the claims of the man may very likely strike us with equal force.  As for Isabella, she has been married long enough to see the convenience of putting all the Mr. Westons aside as much as she can."
+R303	Cueing Arg1:T232 Arg2:T231	
+R304	Cueing Arg1:T232 Arg2:T234	
+R305	Speaker Arg1:T233 Arg2:T231	
+R306	Speaker Arg1:T233 Arg2:T234	
+R307	Addressee Arg1:T210 Arg2:T231	
+R308	Addressee Arg1:T210 Arg2:T234	
+T235	Quotation 48538 48552	"Me, my love,"
+T236	Cue 48553 48558	cried
+T237	Entity 48559 48567	his wife
+R309	Cueing Arg1:T236 Arg2:T235	
+T238	Quotation 48611 49547	"Are you talking about me? -- I am sure nobody ought to be, or can be, a greater advocate for matrimony than I am; and if it had not been for the misery of her leaving Hartfield, I should never have thought of Miss Taylor but as the most fortunate woman in the world; and as to slighting Mr. Weston, that excellent Mr. Weston, I think there is nothing he does not deserve.  I believe he is one of the very best-tempered men that ever existed.  Excepting yourself and your brother, I do not know his equal for temper.  I shall never forget his flying Henry's kite for him that very windy day last Easter-- and ever since his particular kindness last September twelvemonth in writing that note, at twelve o'clock at night, on purpose to assure me that there was no scarlet fever at Cobham, I have been convinced there could not be a more feeling heart nor a better man in existence.-- If any body can deserve him, it must be Miss Taylor."
+R310	Speaker Arg1:T237 Arg2:T235	
+R311	Cueing Arg1:T236 Arg2:T238	
+R312	Speaker Arg1:T237 Arg2:T238	
+T239	Entity 48559 48562	his
+R313	Addressee Arg1:T239 Arg2:T235	
+R314	Addressee Arg1:T237 Arg2:T238	
+T240	Quotation 49548 49573	"Where is the young man?"
+T241	Cue 49574 49578	said
+T242	Entity 49579 49593	John Knightley
+R315	Cueing Arg1:T241 Arg2:T240	
+R316	Speaker Arg1:T242 Arg2:T240	
+T243	Quotation 49596 49648	"Has he been here on this occasion-- or has he not?"
+R317	Cueing Arg1:T241 Arg2:T243	
+R318	Speaker Arg1:T242 Arg2:T243	
+T244	Quotation 49649 49676	"He has not been here yet,"
+T245	Cue 49677 49684	replied
+T246	Entity 49685 49689	Emma
+R319	Addressee Arg1:T246 Arg2:T240	
+R320	Addressee Arg1:T246 Arg2:T243	
+R321	Cueing Arg1:T245 Arg2:T244	
+R322	Speaker Arg1:T246 Arg2:T244	
+R323	Addressee Arg1:T242 Arg2:T244	
+T247	Quotation 49692 49831	"There was a strong expectation of his coming soon after the marriage, but it ended in nothing; and I have not heard him mentioned lately."
+R324	Cueing Arg1:T245 Arg2:T247	
+R325	Speaker Arg1:T246 Arg2:T247	
+R326	Addressee Arg1:T242 Arg2:T247	
+T248	Quotation 49832 49882	"But you should tell them of the letter, my dear,"
+T249	Cue 49883 49887	said
+T250	Entity 49888 49898	her father
+R327	Cueing Arg1:T249 Arg2:T248	
+R328	Speaker Arg1:T250 Arg2:T248	
+R329	Addressee Arg1:T246 Arg2:T248	
+T251	Quotation 49900 50171	"He wrote a letter to poor Mrs. Weston, to congratulate her, and a very proper, handsome letter it was.  She shewed it to me.  I thought it very well done of him indeed.  Whether it was his own idea you know, one cannot tell.  He is but young, and his uncle, perhaps -- "
+R330	Cueing Arg1:T249 Arg2:T251	
+R331	Speaker Arg1:T250 Arg2:T251	
+R332	Addressee Arg1:T242 Arg2:T251	
+T252	Quotation 50172 50239	"My dear papa, he is three-and-twenty. You forget how time passes."
+R333	Addressee Arg1:T250 Arg2:T252	
+R334	Speaker Arg1:T246 Arg2:T252	
+T253	Quotation 50240 50731	"Three-and-twenty!-- is he indeed?-- Well, I could not have thought it-- and he was but two years old when he lost his poor mother!  Well, time does fly indeed!-- and my memory is very bad.  However, it was an exceeding good, pretty letter, and gave Mr. and Mrs. Weston a great deal of pleasure.  I remember it was written from Weymouth, and dated Sept. 28th-- and began, 'My dear Madam,' but I forget how it went on; and it was signed 'F. C. Weston Churchill.'-- I remember that perfectly."
+R335	Speaker Arg1:T250 Arg2:T253	
+R336	Addressee Arg1:T246 Arg2:T253	
+R337	Addressee Arg1:T242 Arg2:T253	
+T254	Quotation 50732 50770	"How very pleasing and proper of him!"
+T255	Cue 50771 50776	cried
+T256	Entity 50794 50813	Mrs. John Knightley
+R338	Cueing Arg1:T255 Arg2:T254	
+R339	Speaker Arg1:T256 Arg2:T254	
+R340	Addressee Arg1:T250 Arg2:T254	
+T257	Quotation 50816 51211	"I have no doubt of his being a most amiable young man. But how sad it is that he should not live at home with his father! There is something so shocking in a child's being taken away from his parents and natural home!  I never could comprehend how Mr. Weston could part with him.  To give up one's child!  I really never could think well of any body who proposed such a thing to any body else."
+R341	Addressee Arg1:T256 Arg2:T257	
+R342	Speaker Arg1:T250 Arg2:T257	
+T258	Quotation 51212 51268	"Nobody ever did think well of the Churchills, I fancy,"
+T259	Cue 51269 51277	observed
+T260	Entity 51278 51296	Mr. John Knightley
+R343	Cueing Arg1:T259 Arg2:T258	
+R344	Speaker Arg1:T260 Arg2:T258	
+R345	Addressee Arg1:T250 Arg2:T258	
+T261	Quotation 51306 51812	"But you need not imagine Mr. Weston to have felt what you would feel in giving up Henry or John.  Mr. Weston is rather an easy, cheerful-tempered man, than a man of strong feelings; he takes things as he finds them, and makes enjoyment of them somehow or other, depending, I suspect, much more upon what is called society for his comforts, that is, upon the power of eating and drinking, and playing whist with his neighbours five times a week, than upon family affection, or any thing that home affords."
+T262	Entity 51813 51817	Emma
+R346	Speaker Arg1:T262 Arg2:T261	
+R347	Addressee Arg1:T260 Arg2:T261	
+T263	Entity 53658 53661	she
+T264	Cue 53677 53683	saying
+T265	Entity 53688 53690	he
+T266	Quotation 53714 53916	"What a comfort it is, that we think alike about our nephews and nieces.  As to men and women, our opinions are sometimes very different; but with regard to these children, I observe we never disagree."
+R348	Speaker Arg1:T263 Arg2:T266	
+R349	Cueing Arg1:T264 Arg2:T266	
+R350	Addressee Arg1:T265 Arg2:T266	
+T267	Quotation 53917 54142	"If you were as much guided by nature in your estimate of men and women, and as little under the power of fancy and whim in your dealings with them, as you are where these children are concerned, we might always think alike."
+R351	Addressee Arg1:T263 Arg2:T267	
+R352	Speaker Arg1:T265 Arg2:T267	
+T268	Quotation 54143 54221	"To be sure-- our discordancies must always arise from my being in the wrong."
+R353	Speaker Arg1:T263 Arg2:T268	
+R354	Addressee Arg1:T265 Arg2:T268	
+T269	Quotation 54222 54228	"Yes,"
+T270	Cue 54229 54233	said
+T271	Entity 54234 54236	he
+T272	Quotation 54248 54311	"and reason good.  I was sixteen years old when you were born."
+R355	Cueing Arg1:T270 Arg2:T269	
+R356	Cueing Arg1:T270 Arg2:T272	
+R357	Speaker Arg1:T271 Arg2:T269	
+R358	Speaker Arg1:T271 Arg2:T272	
+R359	Addressee Arg1:T263 Arg2:T269	
+R360	Addressee Arg1:T263 Arg2:T272	
+T273	Quotation 54312 54341	"A material difference then,"
+T274	Entity 54342 54345	she
+T275	Cue 54346 54353	replied
+T276	Quotation 54356 54529	"and no doubt you were much my superior in judgment at that period of our lives; but does not the lapse of one-and-twenty years bring our understandings a good deal nearer?"
+R361	Speaker Arg1:T274 Arg2:T273	
+R362	Speaker Arg1:T274 Arg2:T276	
+R363	Cueing Arg1:T275 Arg2:T273	
+R364	Cueing Arg1:T275 Arg2:T276	
+R365	Addressee Arg1:T271 Arg2:T273	
+R366	Addressee Arg1:T271 Arg2:T276	
+T277	Quotation 54530 54558	"Yes -- a good deal nearer."
+R367	Speaker Arg1:T271 Arg2:T277	
+R368	Addressee Arg1:T274 Arg2:T277	
+T278	Quotation 54559 54648	"But still, not near enough to give me a chance of being right, if we think differently."
+R369	Speaker Arg1:T274 Arg2:T278	
+R370	Addressee Arg1:T271 Arg2:T278	
+T279	Quotation 54649 54999	"I have still the advantage of you by sixteen years' experience, and by not being a pretty young woman and a spoiled child.  Come, my dear Emma, let us be friends, and say no more about it.  Tell your aunt, little Emma, that she ought to set you a better example than to be renewing old grievances, and that if she were not wrong before, she is now."
+R371	Addressee Arg1:T274 Arg2:T279	
+R372	Speaker Arg1:T271 Arg2:T279	
+T280	Quotation 55000 55014	"That's true,"
+T281	Entity 55015 55018	she
+T282	Cue 55019 55024	cried
+T283	Quotation 55027 55412	"very true.  Little Emma, grow up a better woman than your aunt.  Be infinitely cleverer and not half so conceited.  Now, Mr. Knightley, a word or two more, and I have done. As far as good intentions went, we were both right, and I must say that no effects on my side of the argument have yet proved wrong.  I only want to know that Mr. Martin is not very, very bitterly disappointed."
+R373	Speaker Arg1:T281 Arg2:T280	
+R374	Speaker Arg1:T281 Arg2:T283	
+R375	Cueing Arg1:T282 Arg2:T280	
+R376	Cueing Arg1:T282 Arg2:T283	
+T284	Quotation 55413 55439	"A man cannot be more so,"
+T285	Entity 55444 55447	his
+R377	Addressee Arg1:T285 Arg2:T280	
+R378	Addressee Arg1:T285 Arg2:T283	
+R379	Speaker Arg1:T285 Arg2:T284	
+R380	Addressee Arg1:T281 Arg2:T284	
+T286	Quotation 55468 55528	"Ah!-- Indeed I am very sorry.-- Come, shake hands with me."
+R381	Speaker Arg1:T281 Arg2:T286	
+R382	Addressee Arg1:T285 Arg2:T286	
+T287	Quotation 55627 55649	"How d'ye do, George?"
+T288	Quotation 55654 55674	"John, how are you?"
+T289	Entity 55587 55601	John Knightley
+R383	Speaker Arg1:T289 Arg2:T287	
+R384	Addressee Arg1:T289 Arg2:T288	
+R385	Addressee Arg1:T285 Arg2:T287	
+R386	Speaker Arg1:T285 Arg2:T288	
+T290	Quotation 57363 57387	"My poor dear Isabella,"
+T291	Cue 57388 57392	said
+T292	Entity 57393 57395	he
+R387	Cueing Arg1:T291 Arg2:T290	
+R388	Speaker Arg1:T292 Arg2:T290	
+T293	Entity 57411 57414	her
+R389	Addressee Arg1:T293 Arg2:T290	
+T294	Quotation 57511 57808	"How long it is, how terribly long since you were here! And how tired you must be after your journey!  You must go to bed early, my dear-- and I recommend a little gruel to you before you go.-- You and I will have a nice basin of gruel together.  My dear Emma, suppose we all have a little gruel."
+R390	Cueing Arg1:T291 Arg2:T294	
+R391	Speaker Arg1:T292 Arg2:T294	
+R392	Addressee Arg1:T293 Arg2:T294	
+T295	Entity 57809 57813	Emma
+R393	Addressee Arg1:T295 Arg2:T294	
+T296	Quotation 58160 58302	"It was an awkward business, my dear, your spending the autumn at South End instead of coming here.  I never had much opinion of the sea air."
+R394	Speaker Arg1:T292 Arg2:T296	
+R395	Addressee Arg1:T293 Arg2:T296	
+T297	Quotation 58303 58514	"Mr. Wingfield most strenuously recommended it, sir-- or we should not have gone.  He recommended it for all the children, but particularly for the weakness in little Bella's throat,-- both sea air and bathing."
+R396	Speaker Arg1:T292 Arg2:T297	
+R397	Addressee Arg1:T293 Arg2:T297	
+T298	Quotation 58515 58773	"Ah! my dear, but Perry had many doubts about the sea doing her any good; and as to myself, I have been long perfectly convinced, though perhaps I never told you so before, that the sea is very rarely of use to any body.  I am sure it almost killed me once."
+R398	Speaker Arg1:T292 Arg2:T298	
+R399	Addressee Arg1:T293 Arg2:T298	
+T299	Quotation 58774 58787	"Come, come,"
+T300	Cue 58788 58793	cried
+T301	Entity 58794 58798	Emma
+T302	Quotation 58838 59088	"I must beg you not to talk of the sea.  It makes me envious and miserable; -- I who have never seen it!  South End is prohibited, if you please.  My dear Isabella, I have not heard you make one inquiry about Mr. Perry yet; and he never forgets you."
+R400	Cueing Arg1:T300 Arg2:T299	
+R401	Cueing Arg1:T300 Arg2:T302	
+R402	Speaker Arg1:T301 Arg2:T299	
+R403	Speaker Arg1:T301 Arg2:T302	
+R404	Addressee Arg1:T292 Arg2:T299	
+R405	Addressee Arg1:T293 Arg2:T299	
+R406	Addressee Arg1:T292 Arg2:T302	
+R407	Addressee Arg1:T293 Arg2:T302	
+T303	Quotation 59089 59127	"Oh! good Mr. Perry-- how is he, sir?"
+R408	Addressee Arg1:T292 Arg2:T303	
+R409	Speaker Arg1:T293 Arg2:T303	
+T304	Quotation 59128 59465	"Why, pretty well; but not quite well.  Poor Perry is bilious, and he has not time to take care of himself-- he tells me he has not time to take care of himself-- which is very sad-- but he is always wanted all round the country.  I suppose there is not a man in such practice anywhere.  But then there is not so clever a man any where."
+R410	Speaker Arg1:T292 Arg2:T304	
+R411	Addressee Arg1:T293 Arg2:T304	
+T305	Quotation 59466 59651	"And Mrs. Perry and the children, how are they? do the children grow? I have a great regard for Mr. Perry.  I hope he will be calling soon. He will be so pleased to see my little ones."
+R412	Speaker Arg1:T293 Arg2:T305	
+R413	Addressee Arg1:T292 Arg2:T305	
+T306	Quotation 59652 59849	"I hope he will be here to-morrow, for I have a question or two to ask him about myself of some consequence.  And, my dear, whenever he comes, you had better let him look at little Bella's throat."
+R414	Speaker Arg1:T292 Arg2:T306	
+R415	Addressee Arg1:T293 Arg2:T306	
+T307	Quotation 59850 60133	"Oh! my dear sir, her throat is so much better that I have hardly any uneasiness about it.  Either bathing has been of the greatest service to her, or else it is to be attributed to an excellent embrocation of Mr. Wingfield's, which we have been applying at times ever since August."
+R416	Addressee Arg1:T292 Arg2:T307	
+R417	Speaker Arg1:T293 Arg2:T307	
+T308	Quotation 60134 60345	"It is not very likely, my dear, that bathing should have been of use to her-- and if I had known you were wanting an embrocation, I would have spoken to--  You seem to me to have forgotten Mrs. and Miss Bates,"
+T309	Cue 60346 60350	said
+T310	Entity 60351 60355	Emma
+T311	Quotation 60357 60399	"I have not heard one inquiry after them."
+R418	Cueing Arg1:T309 Arg2:T308	
+R419	Cueing Arg1:T309 Arg2:T311	
+R420	Speaker Arg1:T310 Arg2:T308	
+R421	Speaker Arg1:T310 Arg2:T311	
+R422	Addressee Arg1:T293 Arg2:T311	
+R423	Addressee Arg1:T293 Arg2:T308	
+T312	Quotation 60400 60743	"Oh! the good Bateses -- I am quite ashamed of myself-- but you mention them in most of your letters.  I hope they are quite well.  Good old Mrs. Bates -- I will call upon her to-morrow, and take my children.-- They are always so pleased to see my children.-- And that excellent Miss Bates!-- such thorough worthy people!-- How are they, sir?"
+R424	Addressee Arg1:T292 Arg2:T312	
+R425	Speaker Arg1:T293 Arg2:T312	
+T313	Quotation 60744 60843	"Why, pretty well, my dear, upon the whole.  But poor Mrs. Bates had a bad cold about a month ago."
+R426	Speaker Arg1:T292 Arg2:T313	
+R427	Addressee Arg1:T293 Arg2:T313	
+T314	Quotation 60844 61047	"How sorry I am!  But colds were never so prevalent as they have been this autumn.  Mr. Wingfield told me that he has never known them more general or heavy-- except when it has been quite an influenza."
+R428	Speaker Arg1:T293 Arg2:T314	
+R429	Addressee Arg1:T292 Arg2:T314	
+T315	Quotation 61048 61290	"That has been a good deal the case, my dear; but not to the degree you mention.  Perry says that colds have been very general, but not so heavy as he has very often known them in November.  Perry does not call it altogether a sickly season."
+T316	Quotation 61291 61584	"No, I do not know that Mr. Wingfield considers it very sickly except--  Ah! my poor dear child, the truth is, that in London it is always a sickly season.  Nobody is healthy in London, nobody can be.  It is a dreadful thing to have you forced to live there! so far off!-- and the air so bad!"
+R430	Speaker Arg1:T310 Arg2:T315	
+R431	Speaker Arg1:T292 Arg2:T316	
+R432	Addressee Arg1:T293 Arg2:T315	
+R433	Addressee Arg1:T293 Arg2:T316	
+T317	Quotation 61585 62130	"No, indeed-- we are not at all in a bad air.  Our part of London is very superior to most others!-- You must not confound us with London in general, my dear sir.  The neighbourhood of Brunswick Square is very different from almost all the rest.  We are so very airy!  I should be unwilling, I own, to live in any other part of the town;-- there is hardly any other that I could be satisfied to have my children in:  but we are so remarkably airy!-- Mr. Wingfield thinks the vicinity of Brunswick Square decidedly the most favourable as to air."
+R434	Speaker Arg1:T293 Arg2:T317	
+R435	Addressee Arg1:T292 Arg2:T317	
+T318	Quotation 62131 62390	"Ah! my dear, it is not like Hartfield.  You make the best of it-- but after you have been a week at Hartfield, you are all of you different creatures; you do not look like the same.  Now I cannot say, that I think you are any of you looking well at present."
+R436	Speaker Arg1:T292 Arg2:T318	
+R437	Addressee Arg1:T293 Arg2:T318	
+T319	Quotation 62391 62991	"I am sorry to hear you say so, sir; but I assure you, excepting those little nervous head-aches and palpitations which I am never entirely free from anywhere, I am quite well myself; and if the children were rather pale before they went to bed, it was only because they were a little more tired than usual, from their journey and the happiness of coming.  I hope you will think better of their looks to-morrow; for I assure you Mr. Wingfield told me, that he did not believe he had ever sent us off altogether, in such good case.  I trust, at least, that you do not think Mr. Knightley looking ill,"
+T320	Entity 63000 63003	her
+R438	Speaker Arg1:T320 Arg2:T319	
+R439	Addressee Arg1:T292 Arg2:T319	
+T321	Quotation 63056 63157	"Middling, my dear; I cannot compliment you.  I think Mr. John Knightley very far from looking well."
+R440	Addressee Arg1:T320 Arg2:T321	
+R441	Speaker Arg1:T292 Arg2:T321	
+T322	Quotation 63158 63207	"What is the matter, sir?-- Did you speak to me?"
+T323	Cue 63208 63213	cried
+T324	Entity 63214 63232	Mr. John Knightley
+R442	Cueing Arg1:T323 Arg2:T322	
+R443	Speaker Arg1:T324 Arg2:T322	
+R444	Addressee Arg1:T292 Arg2:T322	
+T325	Quotation 63256 63485	"I am sorry to find, my love, that my father does not think you looking well-- but I hope it is only from being a little fatigued.  I could have wished, however, as you know, that you had seen Mr. Wingfield before you left home."
+R445	Addressee Arg1:T324 Arg2:T325	
+R446	Speaker Arg1:T320 Arg2:T325	
+T326	Quotation 63486 63505	"My dear Isabella,"
+T327	Quotation 63531 63674	"pray do not concern yourself about my looks.  Be satisfied with doctoring and coddling yourself and the children, and let me look as I chuse."
+T328	Cue 63508 63517	exclaimed
+T329	Entity 63518 63520	he
+R447	Cueing Arg1:T328 Arg2:T326	
+R448	Cueing Arg1:T328 Arg2:T327	
+R449	Speaker Arg1:T329 Arg2:T326	
+R450	Speaker Arg1:T329 Arg2:T327	
+R451	Addressee Arg1:T320 Arg2:T326	
+R452	Addressee Arg1:T320 Arg2:T327	
+T330	Quotation 63675 63744	"I did not thoroughly understand what you were telling your brother,"
+T331	Cue 63745 63750	cried
+T332	Entity 63751 63755	Emma
+T333	Quotation 63757 63926	"about your friend Mr. Graham's intending to have a bailiff from Scotland, to look after his new estate.  What will it answer? Will not the old prejudice be too strong?"
+R453	Cueing Arg1:T331 Arg2:T330	
+R454	Cueing Arg1:T331 Arg2:T333	
+R455	Speaker Arg1:T332 Arg2:T330	
+R456	Speaker Arg1:T332 Arg2:T333	
+R457	Addressee Arg1:T329 Arg2:T330	
+R458	Addressee Arg1:T329 Arg2:T333	
+T334	Quotation 64252 64287	"That sweet, amiable Jane Fairfax!"
+T335	Cue 64288 64292	said
+T336	Entity 64293 64312	Mrs. John Knightley
+T337	Quotation 64316 64768	"It is so long since I have seen her, except now and then for a moment accidentally in town!  What happiness it must be to her good old grandmother and excellent aunt, when she comes to visit them!  I always regret excessively on dear Emma's account that she cannot be more at Highbury; but now their daughter is married, I suppose Colonel and Mrs. Campbell will not be able to part with her at all.  She would be such a delightful companion for Emma."
+R459	Cueing Arg1:T335 Arg2:T334	
+R460	Cueing Arg1:T335 Arg2:T337	
+R461	Speaker Arg1:T336 Arg2:T334	
+R462	Speaker Arg1:T336 Arg2:T337	
+T338	Entity 64769 64782	Mr. Woodhouse
+R463	Addressee Arg1:T338 Arg2:T334	
+R464	Addressee Arg1:T338 Arg2:T337	
+T339	Quotation 64812 64983	"Our little friend Harriet Smith, however, is just such another pretty kind of young person.  You will like Harriet.  Emma could not have a better companion than Harriet."
+R465	Speaker Arg1:T338 Arg2:T339	
+T340	Cue 64805 64810	added
+R466	Cueing Arg1:T340 Arg2:T339	
+R467	Addressee Arg1:T336 Arg2:T339	
+T341	Quotation 64984 65113	"I am most happy to hear it-- but only Jane Fairfax one knows to be so very accomplished and superior!-- and exactly Emma's age."
+R468	Addressee Arg1:T338 Arg2:T341	
+R469	Speaker Arg1:T336 Arg2:T341	
+T342	Quotation 65970 65975	"Ah!"
+T343	Cue 65976 65980	said
+T344	Entity 65981 65994	Mr. Woodhouse
+T345	Entity 66036 66039	her
+R470	Cueing Arg1:T343 Arg2:T342	
+R471	Speaker Arg1:T344 Arg2:T342	
+R472	Addressee Arg1:T345 Arg2:T342	
+T346	Entity 66408 66410	he
+T347	Cue 66411 66416	began
+T348	Quotation 66423 66515	"I shall always be very sorry that you went to the sea this autumn, instead of coming here."
+R473	Speaker Arg1:T346 Arg2:T348	
+R474	Cueing Arg1:T347 Arg2:T348	
+R475	Addressee Arg1:T345 Arg2:T348	
+T349	Quotation 66516 66610	"But why should you be sorry, sir? -- I assure you, it did the children a great deal of good."
+R476	Addressee Arg1:T346 Arg2:T349	
+R477	Speaker Arg1:T345 Arg2:T349	
+T350	Quotation 66611 66789	"And, moreover, if you must go to the sea, it had better not have been to South End.  South End is an unhealthy place.  Perry was surprized to hear you had fixed upon South End."
+R478	Speaker Arg1:T346 Arg2:T350	
+R479	Addressee Arg1:T345 Arg2:T350	
+T351	Quotation 66790 67202	"I know there is such an idea with many people, but indeed it is quite a mistake, sir.-- We all had our health perfectly well there, never found the least inconvenience from the mud; and Mr. Wingfield says it is entirely a mistake to suppose the place unhealthy; and I am sure he may be depended on, for he thoroughly understands the nature of the air, and his own brother and family have been there repeatedly."
+R480	Addressee Arg1:T346 Arg2:T351	
+R481	Speaker Arg1:T345 Arg2:T351	
+T352	Quotation 67203 67577	"You should have gone to Cromer, my dear, if you went anywhere.-- Perry was a week at Cromer once, and he holds it to be the best of all the sea-bathing places.  A fine open sea, he says, and very pure air.  And, by what I understand, you might have had lodgings there quite away from the sea -- a quarter of a mile off-- very comfortable.  You should have consulted Perry."
+R482	Speaker Arg1:T346 Arg2:T352	
+R483	Addressee Arg1:T345 Arg2:T352	
+T353	Quotation 67578 67721	"But, my dear sir, the difference of the journey;-- only consider how great it would have been.-- An hundred miles, perhaps, instead of forty."
+R484	Addressee Arg1:T346 Arg2:T353	
+R485	Speaker Arg1:T345 Arg2:T353	
+T354	Quotation 67722 68084	"Ah! my dear, as Perry says, where health is at stake, nothing else should be considered; and if one is to travel, there is not much to chuse between forty miles and an hundred.-- Better not move at all, better stay in London altogether than travel forty miles to get into a worse air.  This is just what Perry said.  It seemed to him a very ill-judged measure."
+R486	Speaker Arg1:T346 Arg2:T354	
+R487	Addressee Arg1:T345 Arg2:T354	
+T355	Quotation 68240 68252	"Mr. Perry,"
+T356	Cue 68253 68257	said
+T357	Entity 68258 68260	he
+T358	Quotation 68301 68611	"would do as well to keep his opinion till it is asked for.  Why does he make it any business of his, to wonder at what I do?-- at my taking my family to one part of the coast or another? -- I may be allowed, I hope, the use of my judgment as well as Mr. Perry.-- I want his directions no more than his drugs."
+R488	Cueing Arg1:T356 Arg2:T355	
+R489	Cueing Arg1:T356 Arg2:T358	
+R490	Speaker Arg1:T357 Arg2:T355	
+R491	Speaker Arg1:T357 Arg2:T358	
+T359	Entity 68109 68119	her father
+R492	Addressee Arg1:T359 Arg2:T355	
+R493	Addressee Arg1:T359 Arg2:T358	
+T360	Quotation 68692 68940	"If Mr. Perry can tell me how to convey a wife and five children a distance of an hundred and thirty miles with no greater expense or inconvenience than a distance of forty, I should be as willing to prefer Cromer to South End as he could himself."
+T361	Cue 68656 68661	added
+R494	Cueing Arg1:T361 Arg2:T360	
+T362	Entity 68612 68614	He
+R495	Speaker Arg1:T362 Arg2:T360	
+R496	Addressee Arg1:T359 Arg2:T360	
+T363	Quotation 68941 68954	"True, true,"
+T364	Cue 68955 68960	cried
+T365	Entity 68961 68974	Mr. Knightley
+T366	Quotation 69008 69601	"very true.  That's a consideration indeed.-- But John, as to what I was telling you of my idea of moving the path to Langham, of turning it more to the right that it may not cut through the home meadows, I cannot conceive any difficulty.  I should not attempt it, if it were to be the means of inconvenience to the Highbury people, but if you call to mind exactly the present line of the path. . . .  The only way of proving it, however, will be to turn to our maps.  I shall see you at the Abbey to-morrow morning I hope, and then we will look them over, and you shall give me your opinion."
+R497	Cueing Arg1:T364 Arg2:T363	
+R498	Cueing Arg1:T364 Arg2:T366	
+R499	Speaker Arg1:T365 Arg2:T363	
+R500	Speaker Arg1:T365 Arg2:T366	
+R501	Addressee Arg1:T362 Arg2:T363	
+R502	Addressee Arg1:T362 Arg2:T366	
+T367	Entity 73112 73116	Emma
+T368	Quotation 73177 73400	"a throat very much inflamed, with a great deal of heat about her, a quick, low pulse, &c.  and she was sorry to find from Mrs. Goddard that Harriet was liable to very bad sore-throats, and had often alarmed her with them."
+T369	Entity 73067 73071	They
+R503	Addressee Arg1:T369 Arg2:T368	
+R504	Speaker Arg1:T367 Arg2:T368	
+T370	Entity 73401 73410	Mr. Elton
+T371	Cue 73451 73460	exclaimed
+T372	Quotation 73462 73700	"A sore-throat! -- I hope not infectious.  I hope not of a putrid infectious sort.  Has Perry seen her?  Indeed you should take care of yourself as well as of your friend.  Let me entreat you to run no risks.  Why does not Perry see her?"
+R505	Cueing Arg1:T371 Arg2:T372	
+R506	Speaker Arg1:T370 Arg2:T372	
+R507	Addressee Arg1:T367 Arg2:T372	
+T373	Quotation 74049 74748	"It is so cold, so very cold-- and looks and feels so very much like snow, that if it were to any other place or with any other party, I should really try not to go out to-day-- and dissuade my father from venturing; but as he has made up his mind, and does not seem to feel the cold himself, I do not like to interfere, as I know it would be so great a disappointment to Mr. and Mrs. Weston.  But, upon my word, Mr. Elton, in your case, I should certainly excuse myself.  You appear to me a little hoarse already, and when you consider what demand of voice and what fatigues to-morrow will bring, I think it would be no more than common prudence to stay at home and take care of yourself to-night."
+T374	Entity 73701 73705	Emma
+T375	Entity 74749 74758	Mr. Elton
+R508	Speaker Arg1:T374 Arg2:T373	
+R509	Addressee Arg1:T375 Arg2:T373	
+T376	Quotation 75223 75256	"very cold, certainly very cold,"
+T377	Entity 75030 75034	Emma
+T378	Entity 75129 75132	him
+R510	Addressee Arg1:T377 Arg2:T376	
+R511	Speaker Arg1:T378 Arg2:T376	
+T379	Quotation 75411 75432	"You do quite right,"
+T380	Cue 75433 75437	said
+T381	Entity 75438 75441	she
+T382	Quotation 75445 75498	"we will make your apologies to Mr. and Mrs. Weston."
+R512	Cueing Arg1:T380 Arg2:T379	
+R513	Cueing Arg1:T380 Arg2:T382	
+R514	Speaker Arg1:T381 Arg2:T379	
+R515	Speaker Arg1:T381 Arg2:T382	
+R516	Addressee Arg1:T378 Arg2:T379	
+R517	Addressee Arg1:T378 Arg2:T382	
+T383	Entity 77268 77282	John Knightley
+T384	Cue 77283 77293	began with
+T385	Quotation 77296 77532	"I never in my life saw a man more intent on being agreeable than Mr. Elton.  It is downright labour to him where ladies are concerned.  With men he can be rational and unaffected, but when he has ladies to please, every feature works."
+R518	Speaker Arg1:T383 Arg2:T385	
+R519	Cueing Arg1:T384 Arg2:T385	
+T386	Quotation 77533 77571	"Mr. Elton's manners are not perfect,"
+T387	Cue 77572 77579	replied
+T388	Entity 77580 77584	Emma
+R520	Addressee Arg1:T388 Arg2:T385	
+R521	Cueing Arg1:T387 Arg2:T386	
+R522	Speaker Arg1:T388 Arg2:T386	
+R523	Addressee Arg1:T383 Arg2:T386	
+T389	Quotation 77586 77879	"but where there is a wish to please, one ought to overlook, and one does overlook a great deal.  Where a man does his best with only moderate powers, he will have the advantage over negligent superiority.  There is such perfect good-temper and good-will in Mr. Elton as one cannot but value."
+R524	Cueing Arg1:T387 Arg2:T389	
+R525	Speaker Arg1:T388 Arg2:T389	
+T390	Entity 77892 77910	Mr. John Knightley
+R526	Addressee Arg1:T390 Arg2:T389	
+T391	Quotation 77880 77886	"Yes,"
+T392	Cue 77887 77891	said
+T393	Quotation 77941 77998	"he seems to have a great deal of good-will towards you."
+R527	Cueing Arg1:T392 Arg2:T391	
+R528	Speaker Arg1:T390 Arg2:T391	
+R529	Addressee Arg1:T388 Arg2:T391	
+R530	Cueing Arg1:T392 Arg2:T393	
+R531	Speaker Arg1:T390 Arg2:T393	
+R532	Addressee Arg1:T388 Arg2:T393	
+T394	Quotation 77999 78004	"Me!"
+T395	Entity 78005 78008	she
+T396	Cue 78009 78016	replied
+T397	Quotation 78047 78095	"are you imagining me to be Mr. Elton's object?"
+R533	Speaker Arg1:T395 Arg2:T394	
+R534	Speaker Arg1:T395 Arg2:T397	
+R535	Cueing Arg1:T396 Arg2:T394	
+R536	Cueing Arg1:T396 Arg2:T397	
+R537	Addressee Arg1:T390 Arg2:T394	
+R538	Addressee Arg1:T390 Arg2:T397	
+T398	Quotation 78096 78234	"Such an imagination has crossed me, I own, Emma; and if it never occurred to you before, you may as well take it into consideration now."
+R539	Addressee Arg1:T395 Arg2:T398	
+R540	Speaker Arg1:T390 Arg2:T398	
+T399	Quotation 78235 78279	"Mr. Elton in love with me!-- What an idea!"
+R541	Speaker Arg1:T395 Arg2:T399	
+R542	Addressee Arg1:T390 Arg2:T399	
+T400	Quotation 78280 78560	"I do not say it is so; but you will do well to consider whether it is so or not, and to regulate your behaviour accordingly.  I think your manners to him encouraging.  I speak as a friend, Emma.  You had better look about you, and ascertain what you do, and what you mean to do."
+R543	Addressee Arg1:T395 Arg2:T400	
+R544	Speaker Arg1:T390 Arg2:T400	
+T401	Quotation 78561 78674	"I thank you; but I assure you you are quite mistaken.  Mr. Elton and I are very good friends, and nothing more;"
+T402	Entity 78679 78682	she
+T403	Entity 78927 78938	her brother
+R545	Speaker Arg1:T402 Arg2:T401	
+R546	Addressee Arg1:T403 Arg2:T401	
+T404	Quotation 80177 80185	"A man,"
+T405	Cue 80186 80190	said
+T406	Entity 80191 80193	he
+T407	Quotation 80195 81457	"must have a very good opinion of himself when he asks people to leave their own fireside, and encounter such a day as this, for the sake of coming to see him.  He must think himself a most agreeable fellow; I could not do such a thing.  It is the greatest absurdity-- Actually snowing at this moment!-- The folly of not allowing people to be comfortable at home-- and the folly of people's not staying comfortably at home when they can!  If we were obliged to go out such an evening as this, by any call of duty or business, what a hardship we should deem it;-- and here are we, probably with rather thinner clothing than usual, setting forward voluntarily, without excuse, in defiance of the voice of nature, which tells man, in every thing given to his view or his feelings, to stay at home himself, and keep all under shelter that he can;-- here are we setting forward to spend five dull hours in another man's house, with nothing to say or to hear that was not said and heard yesterday, and may not be said and heard again to-morrow. Going in dismal weather, to return probably in worse;-- four horses and four servants taken out for nothing but to convey five idle, shivering creatures into colder rooms and worse company than they might have had at home."
+R547	Cueing Arg1:T405 Arg2:T404	
+R548	Speaker Arg1:T406 Arg2:T404	
+R549	Cueing Arg1:T405 Arg2:T407	
+R550	Speaker Arg1:T406 Arg2:T407	
+T408	Entity 81458 81462	Emma
+R551	Addressee Arg1:T408 Arg2:T404	
+T409	Quotation 82414 82446	"My report from Mrs. Goddard's,"
+T410	Cue 82447 82451	said
+T411	Entity 82452 82455	she
+T412	Quotation 82467 82533	"was not so pleasant as I had hoped-- 'Not better' was my answer."
+R552	Cueing Arg1:T410 Arg2:T409	
+R553	Cueing Arg1:T410 Arg2:T412	
+R554	Speaker Arg1:T411 Arg2:T409	
+R555	Speaker Arg1:T411 Arg2:T412	
+T413	Entity 82073 82077	Emma
+R556	Addressee Arg1:T413 Arg2:T409	
+R557	Addressee Arg1:T413 Arg2:T412	
+T414	Quotation 82624 83021	"Oh! no -- I am grieved to find -- I was on the point of telling you that when I called at Mrs. Goddard's door, which I did the very last thing before I returned to dress, I was told that Miss Smith was not better, by no means better, rather worse.  Very much grieved and concerned-- I had flattered myself that she must be better after such a cordial as I knew had been given her in the morning."
+T415	Entity 82611 82613	he
+R558	Speaker Arg1:T415 Arg2:T414	
+T416	Cue 82614 82622	answered
+R559	Cueing Arg1:T416 Arg2:T414	
+T417	Entity 83022 83026	Emma
+R560	Addressee Arg1:T417 Arg2:T414	
+T418	Cue 83038 83046	answered
+T419	Quotation 83049 83247	"My visit was of use to the nervous part of her complaint, I hope; but not even I can charm away a sore throat; it is a most severe cold indeed.  Mr. Perry has been with her, as you probably heard."
+R561	Speaker Arg1:T417 Arg2:T419	
+R562	Cueing Arg1:T418 Arg2:T419	
+R563	Addressee Arg1:T415 Arg2:T419	
+T420	Quotation 83248 83294	"Yes -- I imagined-- that is -- I did not -- "
+R564	Addressee Arg1:T417 Arg2:T420	
+R565	Speaker Arg1:T415 Arg2:T420	
+T421	Quotation 83295 83500	"He has been used to her in these complaints, and I hope to-morrow morning will bring us both a more comfortable report.  But it is impossible not to feel uneasiness.  Such a sad loss to our party to-day!"
+R566	Speaker Arg1:T417 Arg2:T421	
+R567	Addressee Arg1:T415 Arg2:T421	
+T422	Quotation 83501 83569	"Dreadful!-- Exactly so, indeed.-- She will be missed every moment."
+R568	Addressee Arg1:T417 Arg2:T422	
+R569	Speaker Arg1:T415 Arg2:T422	
+T423	Quotation 83830 83857	"What an excellent device,"
+T424	Cue 83858 83862	said
+T425	Entity 83863 83865	he
+T426	Quotation 83867 84349	"the use of a sheepskin for carriages.  How very comfortable they make it;-- impossible to feel cold with such precautions.  The contrivances of modern days indeed have rendered a gentleman's carriage perfectly complete.  One is so fenced and guarded from the weather, that not a breath of air can find its way unpermitted.  Weather becomes absolutely of no consequence.  It is a very cold afternoon-- but in this carriage we know nothing of the matter.-- Ha! snows a little I see."
+R570	Cueing Arg1:T424 Arg2:T423	
+R571	Cueing Arg1:T424 Arg2:T426	
+R572	Speaker Arg1:T425 Arg2:T423	
+R573	Speaker Arg1:T425 Arg2:T426	
+T427	Quotation 84350 84356	"Yes,"
+T428	Cue 84357 84361	said
+T429	Entity 84362 84376	John Knightley
+T430	Quotation 84378 84424	"and I think we shall have a good deal of it."
+R574	Cueing Arg1:T428 Arg2:T427	
+R575	Cueing Arg1:T428 Arg2:T430	
+R576	Speaker Arg1:T429 Arg2:T427	
+R577	Speaker Arg1:T429 Arg2:T430	
+T431	Quotation 84425 84445	"Christmas weather,"
+T432	Cue 84446 84454	observed
+T433	Entity 84455 84464	Mr. Elton
+R578	Cueing Arg1:T432 Arg2:T431	
+R579	Speaker Arg1:T433 Arg2:T431	
+R580	Addressee Arg1:T429 Arg2:T431	
+T434	Quotation 84467 85084	"Quite seasonable; and extremely fortunate we may think ourselves that it did not begin yesterday, and prevent this day's party, which it might very possibly have done, for Mr. Woodhouse would hardly have ventured had there been much snow on the ground; but now it is of no consequence.  This is quite the season indeed for friendly meetings.  At Christmas every body invites their friends about them, and people think little of even the worst weather.  I was snowed up at a friend's house once for a week. Nothing could be pleasanter.  I went for only one night, and could not get away till that very day se'nnight."
+R581	Cueing Arg1:T432 Arg2:T434	
+R582	Speaker Arg1:T433 Arg2:T434	
+R583	Addressee Arg1:T429 Arg2:T434	
+T435	Entity 85085 85103	Mr. John Knightley
+T436	Cue 85157 85161	said
+T437	Quotation 85176 85227	"I cannot wish to be snowed up a week at Randalls."
+R584	Cueing Arg1:T436 Arg2:T437	
+R585	Speaker Arg1:T435 Arg2:T437	
+R586	Addressee Arg1:T433 Arg2:T437	
+T438	Quotation 85424 85457	"We are sure of excellent fires,"
+T439	Cue 85458 85467	continued
+T440	Quotation 85472 86184	"and every thing in the greatest comfort.  Charming people, Mr. and Mrs. Weston;-- Mrs. Weston indeed is much beyond praise, and he is exactly what one values, so hospitable, and so fond of society;-- it will be a small party, but where small parties are select, they are perhaps the most agreeable of any.  Mr. Weston's dining-room does not accommodate more than ten comfortably; and for my part, I would rather, under such circumstances, fall short by two than exceed by two.  I think you will agree with me, (turning with a soft air to Emma,) I think I shall certainly have your approbation, though Mr. Knightley perhaps, from being used to the large parties of London, may not quite enter into our feelings."
+T441	Entity 85468 85470	he
+R587	Cueing Arg1:T439 Arg2:T438	
+R588	Speaker Arg1:T441 Arg2:T438	
+R589	Cueing Arg1:T439 Arg2:T440	
+R590	Speaker Arg1:T441 Arg2:T440	
+R591	Addressee Arg1:T435 Arg2:T438	
+R592	Addressee Arg1:T435 Arg2:T440	
+T442	Quotation 86185 86268	"I know nothing of the large parties of London, sir -- I never dine with any body."
+R593	Addressee Arg1:T441 Arg2:T442	
+R594	Speaker Arg1:T435 Arg2:T442	
+T443	Quotation 86269 86487	"Indeed! (in a tone of wonder and pity,) I had no idea that the law had been so great a slavery.  Well, sir, the time must come when you will be paid for all this, when you will have little labour and great enjoyment."
+R595	Speaker Arg1:T441 Arg2:T443	
+T444	Quotation 86488 86509	"My first enjoyment,"
+T445	Cue 86510 86517	replied
+T446	Entity 86518 86532	John Knightley
+T447	Quotation 86573 86622	"will be to find myself safe at Hartfield again."
+R596	Cueing Arg1:T445 Arg2:T444	
+R597	Cueing Arg1:T445 Arg2:T447	
+R598	Speaker Arg1:T446 Arg2:T444	
+R599	Speaker Arg1:T446 Arg2:T447	
+R600	Addressee Arg1:T446 Arg2:T443	
+R601	Addressee Arg1:T441 Arg2:T444	
+R602	Addressee Arg1:T441 Arg2:T447	
+T448	Entity 89760 89770	the others
+T449	Entity 89904 89914	Mr. Weston
+T450	Quotation 89978 89987	"my son,"
+T451	Quotation 89992 90000	"Frank,"
+T452	Quotation 90005 90014	"my son,"
+R603	Speaker Arg1:T449 Arg2:T450	
+R604	Speaker Arg1:T449 Arg2:T451	
+R605	Speaker Arg1:T449 Arg2:T452	
+R606	Addressee Arg1:T448 Arg2:T450	
+R607	Addressee Arg1:T448 Arg2:T451	
+R608	Addressee Arg1:T448 Arg2:T452	
+T453	Quotation 91820 92190	"We want only two more to be just the right number.  I should like to see two more here,-- your pretty little friend, Miss Smith, and my son-- and then I should say we were quite complete.  I believe you did not hear me telling the others in the drawing-room that we are expecting Frank.  I had a letter from him this morning, and he will be with us within a fortnight."
+T454	Entity 91815 91818	her
+R609	Addressee Arg1:T454 Arg2:T453	
+T455	Cue 91808 91811	say
+R610	Cueing Arg1:T455 Arg2:T453	
+T456	Entity 91664 91674	Mr. Weston
+R611	Speaker Arg1:T456 Arg2:T453	
+T457	Entity 92191 92195	Emma
+T458	Cue 92196 92201	spoke
+T459	Quotation 92245 92351	fully assented to his proposition of Mr. Frank Churchill and Miss Smith making their party quite complete.
+R612	Cueing Arg1:T458 Arg2:T459	
+R613	Speaker Arg1:T457 Arg2:T459	
+T460	Quotation 92352 92388	"He has been wanting to come to us,"
+T461	Cue 92389 92398	continued
+T462	Entity 92399 92409	Mr. Weston
+T463	Quotation 92411 92715	"ever since September:  every letter has been full of it; but he cannot command his own time.  He has those to please who must be pleased, and who (between ourselves) are sometimes to be pleased only by a good many sacrifices. But now I have no doubt of seeing him here about the second week in January."
+R614	Cueing Arg1:T461 Arg2:T460	
+R615	Addressee Arg1:T462 Arg2:T459	
+R616	Speaker Arg1:T462 Arg2:T460	
+R617	Addressee Arg1:T457 Arg2:T460	
+R618	Cueing Arg1:T461 Arg2:T463	
+R619	Speaker Arg1:T462 Arg2:T463	
+R620	Addressee Arg1:T457 Arg2:T463	
+T464	Quotation 92716 92866	"What a very great pleasure it will be to you! and Mrs. Weston is so anxious to be acquainted with him, that she must be almost as happy as yourself."
+R621	Speaker Arg1:T457 Arg2:T464	
+R622	Addressee Arg1:T462 Arg2:T464	
+T465	Quotation 92867 94043	"Yes, she would be, but that she thinks there will be another put-off. She does not depend upon his coming so much as I do: but she does not know the parties so well as I do.  The case, you see, is-- (but this is quite between ourselves:  I did not mention a syllable of it in the other room.  There are secrets in all families, you know)-- The case is, that a party of friends are invited to pay a visit at Enscombe in January; and that Frank's coming depends upon their being put off.  If they are not put off, he cannot stir.  But I know they will, because it is a family that a certain lady, of some consequence, at Enscombe, has a particular dislike to: and though it is thought necessary to invite them once in two or three years, they always are put off when it comes to the point.  I have not the smallest doubt of the issue.  I am as confident of seeing Frank here before the middle of January, as I am of being here myself:  but your good friend there (nodding towards the upper end of the table) has so few vagaries herself, and has been so little used to them at Hartfield, that she cannot calculate on their effects, as I have been long in the practice of doing."
+R623	Speaker Arg1:T462 Arg2:T465	
+R624	Addressee Arg1:T457 Arg2:T465	
+T466	Quotation 94044 94106	"I am sorry there should be any thing like doubt in the case,"
+T467	Cue 94107 94114	replied
+T468	Entity 94115 94119	Emma
+T469	Quotation 94121 94241	"but am disposed to side with you, Mr. Weston.  If you think he will come, I shall think so too; for you know Enscombe."
+R625	Cueing Arg1:T467 Arg2:T466	
+R626	Cueing Arg1:T467 Arg2:T469	
+T470	Quotation 94242 94915	"Yes -- I have some right to that knowledge; though I have never been at the place in my life.-- She is an odd woman!-- But I never allow myself to speak ill of her, on Frank's account; for I do believe her to be very fond of him.  I used to think she was not capable of being fond of any body, except herself:  but she has always been kind to him (in her way-- allowing for little whims and caprices, and expecting every thing to be as she likes). And it is no small credit, in my opinion, to him, that he should excite such an affection; for, though I would not say it to any body else, she has no more heart than a stone to people in general; and the devil of a temper."
+R627	Addressee Arg1:T468 Arg2:T470	
+R628	Speaker Arg1:T462 Arg2:T470	
+T471	Entity 95132 95143	Mrs. Weston
+T472	Entity 94916 94920	Emma
+T473	Cue 95162 95167	added
+T474	Quotation 95280 95491	"for I cannot depend upon his coming.  I cannot be so sanguine as Mr. Weston.  I am very much afraid that it will all end in nothing.  Mr. Weston, I dare say, has been telling you exactly how the matter stands?"
+R629	Addressee Arg1:T472 Arg2:T474	
+R630	Speaker Arg1:T471 Arg2:T474	
+R631	Cueing Arg1:T473 Arg2:T474	
+T475	Quotation 95492 95628	"Yes-- it seems to depend upon nothing but the ill-humour of Mrs. Churchill, which I imagine to be the most certain thing in the world."
+R632	Speaker Arg1:T472 Arg2:T475	
+T476	Quotation 95629 95639	"My Emma!"
+T477	Cue 95640 95647	replied
+T478	Entity 95648 95659	Mrs. Weston
+R633	Addressee Arg1:T478 Arg2:T475	
+R634	Cueing Arg1:T477 Arg2:T476	
+R635	Speaker Arg1:T478 Arg2:T476	
+T479	Quotation 95670 95705	"what is the certainty of caprice?"
+R636	Cueing Arg1:T477 Arg2:T479	
+R637	Speaker Arg1:T478 Arg2:T479	
+R638	Addressee Arg1:T472 Arg2:T476	
+R639	Addressee Arg1:T472 Arg2:T479	
+T480	Quotation 95768 96189	"You must know, my dear Mrs. Knightley, that we are by no means so sure of seeing Mr. Frank Churchill, in my opinion, as his father thinks.  It depends entirely upon his aunt's spirits and pleasure; in short, upon her temper.  To you-- to my two daughters -- I may venture on the truth.  Mrs. Churchill rules at Enscombe, and is a very odd-tempered woman; and his coming now, depends upon her being willing to spare him."
+T481	Entity 95722 95730	Isabella
+R640	Addressee Arg1:T481 Arg2:T480	
+R641	Speaker Arg1:T478 Arg2:T480	
+T482	Quotation 96190 96244	"Oh, Mrs. Churchill; every body knows Mrs. Churchill,"
+T483	Cue 96245 96252	replied
+T484	Entity 96253 96261	Isabella
+T485	Quotation 96264 96621	"and I am sure I never think of that poor young man without the greatest compassion.  To be constantly living with an ill-tempered person, must be dreadful.  It is what we happily have never known any thing of; but it must be a life of misery.  What a blessing, that she never had any children!  Poor little creatures, how unhappy she would have made them!"
+R642	Cueing Arg1:T483 Arg2:T482	
+R643	Cueing Arg1:T483 Arg2:T485	
+R644	Speaker Arg1:T484 Arg2:T482	
+R645	Speaker Arg1:T484 Arg2:T485	
+R646	Addressee Arg1:T478 Arg2:T482	
+R647	Addressee Arg1:T478 Arg2:T485	
+T486	Entity 97379 97383	Emma
+T487	Cue 97408 97414	saying
+T488	Quotation 97416 97622	"And so you do not consider this visit from your son as by any means certain.  I am sorry for it.  The introduction must be unpleasant, whenever it takes place; and the sooner it could be over, the better."
+R648	Cueing Arg1:T487 Arg2:T488	
+R649	Speaker Arg1:T486 Arg2:T488	
+T489	Quotation 97623 98114	"Yes; and every delay makes one more apprehensive of other delays. Even if this family, the Braithwaites, are put off, I am still afraid that some excuse may be found for disappointing us.  I cannot bear to imagine any reluctance on his side; but I am sure there is a great wish on the Churchills' to keep him to themselves.  There is jealousy.  They are jealous even of his regard for his father.  In short, I can feel no dependence on his coming, and I wish Mr. Weston were less sanguine."
+T490	Entity 96706 96717	Mrs. Weston
+R650	Addressee Arg1:T490 Arg2:T488	
+R651	Addressee Arg1:T486 Arg2:T489	
+R652	Speaker Arg1:T490 Arg2:T489	
+T491	Quotation 98115 98134	"He ought to come,"
+T492	Cue 98135 98139	said
+T493	Entity 98140 98144	Emma
+R653	Cueing Arg1:T492 Arg2:T491	
+R654	Speaker Arg1:T493 Arg2:T491	
+T495	Cue 98653 98660	replied
+T496	Entity 98661 98672	Mrs. Weston
+R655	Addressee Arg1:T496 Arg2:T491	
+T494	Quotation 98147 98548	"If he could stay only a couple of days, he ought to come; and one can hardly conceive a young man's not having it in his power to do as much as that.  A young woman, if she fall into bad hands, may be teazed, and kept at a distance from those she wants to be with; but one cannot comprehend a young man's being under such restraint, as not to be able to spend a week with his father, if he likes it."
+R656	Cueing Arg1:T492 Arg2:T494	
+R657	Speaker Arg1:T493 Arg2:T494	
+R658	Addressee Arg1:T496 Arg2:T494	
+T497	Quotation 98549 98652	"One ought to be at Enscombe, and know the ways of the family, before one decides upon what he can do,"
+R659	Cueing Arg1:T495 Arg2:T497	
+R660	Speaker Arg1:T496 Arg2:T497	
+R661	Addressee Arg1:T493 Arg2:T497	
+T498	Quotation 98675 98922	"One ought to use the same caution, perhaps, in judging of the conduct of any one individual of any one family; but Enscombe, I believe, certainly must not be judged by general rules: she is so very unreasonable; and every thing gives way to her."
+T499	Quotation 98923 99292	"But she is so fond of the nephew:  he is so very great a favourite. Now, according to my idea of Mrs. Churchill, it would be most natural, that while she makes no sacrifice for the comfort of the husband, to whom she owes every thing, while she exercises incessant caprice towards him, she should frequently be governed by the nephew, to whom she owes nothing at all."
+R662	Cueing Arg1:T495 Arg2:T498	
+R663	Speaker Arg1:T496 Arg2:T498	
+R664	Addressee Arg1:T493 Arg2:T498	
+R665	Addressee Arg1:T496 Arg2:T499	
+R666	Speaker Arg1:T493 Arg2:T499	
+T500	Quotation 99293 99583	"My dearest Emma, do not pretend, with your sweet temper, to understand a bad one, or to lay down rules for it:  you must let it go its own way.  I have no doubt of his having, at times, considerable influence; but it may be perfectly impossible for him to know beforehand when it will be."
+R667	Speaker Arg1:T496 Arg2:T500	
+T501	Entity 99584 99588	Emma
+R668	Addressee Arg1:T501 Arg2:T500	
+T502	Cue 99615 99619	said
+T503	Quotation 99621 99665	"I shall not be satisfied, unless he comes."
+R669	Speaker Arg1:T501 Arg2:T503	
+R670	Cueing Arg1:T502 Arg2:T503	
+T504	Quotation 99666 99721	"He may have a great deal of influence on some points,"
+T505	Cue 99722 99731	continued
+T506	Entity 99732 99743	Mrs. Weston
+T507	Quotation 99745 99920	"and on others, very little:  and among those, on which she is beyond his reach, it is but too likely, may be this very circumstance of his coming away from them to visit us."
+R671	Addressee Arg1:T506 Arg2:T503	
+R672	Cueing Arg1:T505 Arg2:T504	
+R673	Cueing Arg1:T505 Arg2:T507	
+R674	Speaker Arg1:T506 Arg2:T504	
+R675	Speaker Arg1:T506 Arg2:T507	
+R676	Addressee Arg1:T501 Arg2:T504	
+R677	Addressee Arg1:T501 Arg2:T507	
+T508	Entity 101594 101596	He
+T509	Entity 101637 101640	her
+T510	Quotation 101641 101819	to refrain from visiting the sick-chamber again, for the present-- to entreat her to promise him not to venture into such hazard till he had seen Mr. Perry and learnt his opinion
+R678	Addressee Arg1:T509 Arg2:T510	
+R679	Speaker Arg1:T508 Arg2:T510	
+T511	Quotation 102273 102574	"Would not she give him her support?-- would not she add her persuasions to his, to induce Miss Woodhouse not to go to Mrs. Goddard's till it were certain that Miss Smith's disorder had no infection?  He could not be satisfied without a promise-- would not she give him her influence in procuring it?"
+T512	Entity 102221 102223	He
+T513	Entity 102234 102245	Mrs. Weston
+R680	Speaker Arg1:T512 Arg2:T511	
+R681	Addressee Arg1:T513 Arg2:T511	
+T514	Quotation 102575 102602	"So scrupulous for others,"
+T515	Entity 102603 102605	he
+T516	Cue 102606 102615	continued
+T517	Quotation 102617 102926	"and yet so careless for herself!  She wanted me to nurse my cold by staying at home to-day, and yet will not promise to avoid the danger of catching an ulcerated sore throat herself.  Is this fair, Mrs. Weston?-- Judge between us.  Have not I some right to complain?  I am sure of your kind support and aid."
+R682	Speaker Arg1:T515 Arg2:T514	
+R683	Speaker Arg1:T515 Arg2:T517	
+R684	Cueing Arg1:T516 Arg2:T514	
+R685	Cueing Arg1:T516 Arg2:T517	
+T518	Entity 102936 102947	Mrs. Weston
+R686	Addressee Arg1:T518 Arg2:T517	
+T519	Entity 103512 103530	Mr. John Knightley
+T520	Quotation 103771 103933	"This will prove a spirited beginning of your winter engagements, sir. Something new for your coachman and horses to be making their way through a storm of snow."
+T521	Entity 103596 103604	them all
+T522	Quotation 103610 103723	the information of the ground being covered with snow, and of its still snowing fast, with a strong drifting wind
+R687	Speaker Arg1:T519 Arg2:T522	
+R688	Addressee Arg1:T521 Arg2:T522	
+T523	Entity 103756 103769	Mr. Woodhouse
+R689	Addressee Arg1:T523 Arg2:T520	
+R690	Speaker Arg1:T519 Arg2:T520	
+T524	Quotation 104276 104319	"I admired your resolution very much, sir,"
+T525	Cue 104320 104324	said
+T526	Entity 104325 104327	he
+T527	Quotation 104329 104777	"in venturing out in such weather, for of course you saw there would be snow very soon. Every body must have seen the snow coming on.  I admired your spirit; and I dare say we shall get home very well.  Another hour or two's snow can hardly make the road impassable; and we are two carriages; if one is blown over in the bleak part of the common field there will be the other at hand.  I dare say we shall be all safe at Hartfield before midnight."
+R691	Cueing Arg1:T525 Arg2:T524	
+R692	Cueing Arg1:T525 Arg2:T527	
+T528	Entity 104778 104788	Mr. Weston
+R693	Speaker Arg1:T526 Arg2:T524	
+R694	Speaker Arg1:T526 Arg2:T527	
+R695	Addressee Arg1:T528 Arg2:T524	
+R696	Addressee Arg1:T528 Arg2:T527	
+T529	Quotation 105541 105598	"What is to be done, my dear Emma?-- what is to be done?"
+T530	Entity 105603 105616	Mr. Woodhouse
+T531	Cue 105660 105663	say
+R697	Cueing Arg1:T531 Arg2:T529	
+R698	Speaker Arg1:T530 Arg2:T529	
+T532	Entity 105682 105685	her
+R699	Addressee Arg1:T532 Arg2:T529	
+T533	Quotation 106359 106413	"You had better order the carriage directly, my love,"
+T534	Cue 106414 106418	said
+T535	Entity 106419 106422	she
+T536	Quotation 106424 106733	"I dare say we shall be able to get along, if we set off directly; and if we do come to any thing very bad, I can get out and walk.  I am not at all afraid.  I should not mind walking half the way.  I could change my shoes, you know, the moment I got home; and it is not the sort of thing that gives me cold."
+R700	Cueing Arg1:T534 Arg2:T533	
+R701	Cueing Arg1:T534 Arg2:T536	
+R702	Speaker Arg1:T535 Arg2:T533	
+R703	Speaker Arg1:T535 Arg2:T536	
+T537	Quotation 106734 106743	"Indeed!"
+T538	Cue 106744 106751	replied
+T539	Entity 106752 106754	he
+R704	Addressee Arg1:T539 Arg2:T536	
+R705	Cueing Arg1:T538 Arg2:T537	
+R706	Speaker Arg1:T539 Arg2:T537	
+R707	Addressee Arg1:T535 Arg2:T537	
+T540	Quotation 106757 106991	"Then, my dear Isabella, it is the most extraordinary sort of thing in the world, for in general every thing does give you cold.  Walk home!-- you are prettily shod for walking home, I dare say.  It will be bad enough for the horses."
+R708	Cueing Arg1:T538 Arg2:T540	
+R709	Speaker Arg1:T539 Arg2:T540	
+T541	Entity 106992 107000	Isabella
+R710	Addressee Arg1:T541 Arg2:T540	
+T542	Quotation 108550 108600	"Your father will not be easy; why do not you go?"
+T543	Entity 108482 108495	Mr. Knightley
+T544	Entity 108500 108504	Emma
+R711	Speaker Arg1:T543 Arg2:T542	
+R712	Addressee Arg1:T544 Arg2:T542	
+T545	Quotation 108601 108633	"I am ready, if the others are."
+R713	Addressee Arg1:T543 Arg2:T545	
+R714	Speaker Arg1:T544 Arg2:T545	
+T546	Quotation 108634 108658	"Shall I ring the bell?"
+R715	Speaker Arg1:T543 Arg2:T546	
+R716	Addressee Arg1:T544 Arg2:T546	
+T547	Quotation 108659 108669	"Yes, do."
+R717	Addressee Arg1:T543 Arg2:T547	
+R718	Speaker Arg1:T544 Arg2:T547	
+T548	Quotation 109273 109513	"He was afraid they should have a very bad drive.  He was afraid poor Isabella would not like it.  And there would be poor Emma in the carriage behind.  He did not know what they had best do.  They must keep as much together as they could;"
+T550	Quotation 111696 111895	"I am very much astonished, Mr. Elton.  This to me! you forget yourself-- you take me for my friend-- any message to Miss Smith I shall be happy to deliver; but no more of this to me, if you please."
+T551	Entity 111683 111686	she
+T552	Cue 111687 111694	replied
+T553	Entity 111658 111661	his
+R719	Cueing Arg1:T552 Arg2:T550	
+R720	Speaker Arg1:T551 Arg2:T550	
+R721	Addressee Arg1:T553 Arg2:T550	
+T554	Quotation 111896 111966	"Miss Smith!-- message to Miss Smith!-- What could she possibly mean!"
+T555	Entity 111973 111975	he
+T556	Entity 111985 111988	her
+R722	Speaker Arg1:T555 Arg2:T554	
+R723	Addressee Arg1:T556 Arg2:T554	
+T557	Quotation 112112 112374	"Mr. Elton, this is the most extraordinary conduct! and I can account for it only in one way; you are not yourself, or you could not speak either to me, or of Harriet, in such a manner.  Command yourself enough to say no more, and I will endeavour to forget it."
+T558	Entity 112068 112071	she
+T559	Cue 112087 112095	replying
+R724	Cueing Arg1:T559 Arg2:T557	
+R725	Speaker Arg1:T558 Arg2:T557	
+T560	Entity 112379 112388	Mr. Elton
+R726	Addressee Arg1:T560 Arg2:T557	
+T561	Cue 112948 112955	replied
+T562	Quotation 112957 113464	"It is impossible for me to doubt any longer.  You have made yourself too clear.  Mr. Elton, my astonishment is much beyond any thing I can express.  After such behaviour, as I have witnessed during the last month, to Miss Smith-- such attentions as I have been in the daily habit of observing-- to be addressing me in this manner-- this is an unsteadiness of character, indeed, which I had not supposed possible! Believe me, sir, I am far, very far, from gratified in being the object of such professions."
+T563	Entity 112854 112857	she
+R727	Cueing Arg1:T561 Arg2:T562	
+R728	Speaker Arg1:T563 Arg2:T562	
+T564	Quotation 113465 113479	"Good Heaven!"
+T565	Cue 113480 113485	cried
+T566	Entity 113486 113495	Mr. Elton
+R729	Addressee Arg1:T566 Arg2:T562	
+R730	Cueing Arg1:T565 Arg2:T564	
+R731	Speaker Arg1:T566 Arg2:T564	
+T567	Quotation 113497 114358	"what can be the meaning of this?-- Miss Smith! -- I never thought of Miss Smith in the whole course of my existence-- never paid her any attentions, but as your friend: never cared whether she were dead or alive, but as your friend.  If she has fancied otherwise, her own wishes have misled her, and I am very sorry-- extremely sorry-- But, Miss Smith, indeed!-- Oh!  Miss Woodhouse! who can think of Miss Smith, when Miss Woodhouse is near!  No, upon my honour, there is no unsteadiness of character.  I have thought only of you.  I protest against having paid the smallest attention to any one else.  Every thing that I have said or done, for many weeks past, has been with the sole view of marking my adoration of yourself.  You cannot really, seriously, doubt it.  No!-- (in an accent meant to be insinuating) -- I am sure you have seen and understood me."
+R732	Addressee Arg1:T563 Arg2:T564	
+R733	Cueing Arg1:T565 Arg2:T567	
+R734	Speaker Arg1:T566 Arg2:T567	
+T568	Entity 114394 114398	Emma
+R735	Addressee Arg1:T568 Arg2:T567	
+T569	Quotation 114699 114821	"Charming Miss Woodhouse! allow me to interpret this interesting silence.  It confesses that you have long understood me."
+T570	Quotation 114822 114832	"No, sir,"
+T571	Entity 114675 114677	he
+R736	Speaker Arg1:T571 Arg2:T569	
+T572	Cue 114833 114838	cried
+T573	Entity 114839 114843	Emma
+T574	Cue 114687 114696	exclaimed
+R737	Cueing Arg1:T574 Arg2:T569	
+R738	Addressee Arg1:T573 Arg2:T569	
+R739	Cueing Arg1:T572 Arg2:T570	
+R740	Speaker Arg1:T573 Arg2:T570	
+R741	Addressee Arg1:T571 Arg2:T570	
+T575	Quotation 114845 115577	"it confesses no such thing.  So far from having long understood you, I have been in a most complete error with respect to your views, till this moment.  As to myself, I am very sorry that you should have been giving way to any feelings-- Nothing could be farther from my wishes-- your attachment to my friend Harriet-- your pursuit of her, (pursuit, it appeared,) gave me great pleasure, and I have been very earnestly wishing you success: but had I supposed that she were not your attraction to Hartfield, I should certainly have thought you judged ill in making your visits so frequent.  Am I to believe that you have never sought to recommend yourself particularly to Miss Smith?-- that you have never thought seriously of her?"
+R742	Cueing Arg1:T572 Arg2:T575	
+R743	Speaker Arg1:T573 Arg2:T575	
+T576	Quotation 115578 115593	"Never, madam,"
+T577	Cue 115594 115599	cried
+T578	Entity 115600 115602	he
+R744	Addressee Arg1:T578 Arg2:T575	
+T579	Quotation 115628 116152	"never, I assure you. I think seriously of Miss Smith!-- Miss Smith is a very good sort of girl; and I should be happy to see her respectably settled.  I wish her extremely well:  and, no doubt, there are men who might not object to-- Every body has their level:  but as for myself, I am not, I think, quite so much at a loss.  I need not so totally despair of an equal alliance, as to be addressing myself to Miss Smith!-- No, madam, my visits to Hartfield have been for yourself only; and the encouragement I received -- "
+R745	Cueing Arg1:T577 Arg2:T576	
+R746	Speaker Arg1:T578 Arg2:T576	
+R747	Addressee Arg1:T573 Arg2:T576	
+R748	Cueing Arg1:T577 Arg2:T579	
+R749	Speaker Arg1:T578 Arg2:T579	
+R750	Addressee Arg1:T573 Arg2:T579	
+T580	Quotation 116153 116797	"Encouragement! -- I give you encouragement!-- Sir, you have been entirely mistaken in supposing it.  I have seen you only as the admirer of my friend.  In no other light could you have been more to me than a common acquaintance.  I am exceedingly sorry:  but it is well that the mistake ends where it does.  Had the same behaviour continued, Miss Smith might have been led into a misconception of your views; not being aware, probably, any more than myself, of the very great inequality which you are so sensible of.  But, as it is, the disappointment is single, and, I trust, will not be lasting.  I have no thoughts of matrimony at present."
+T581	Entity 116798 116800	He
+T582	Entity 116836 116839	her
+R751	Addressee Arg1:T581 Arg2:T580	
+R752	Speaker Arg1:T582 Arg2:T580	
+T583	Entity 117439 117443	Emma
+T584	Entity 117394 117396	he
+T585	Quotation 117471 117495	to wish him a good night
+R753	Speaker Arg1:T583 Arg2:T585	
+R754	Addressee Arg1:T584 Arg2:T585	
+T586	Quotation 124617 124631	"Here have I,"
+T587	Cue 124632 124636	said
+T588	Entity 124637 124640	she
+R755	Cueing Arg1:T587 Arg2:T586	
+R756	Speaker Arg1:T588 Arg2:T586	
+T589	Quotation 124642 125590	"actually talked poor Harriet into being very much attached to this man.  She might never have thought of him but for me; and certainly never would have thought of him with hope, if I had not assured her of his attachment, for she is as modest and humble as I used to think him.  Oh! that I had been satisfied with persuading her not to accept young Martin.  There I was quite right.  That was well done of me; but there I should have stopped, and left the rest to time and chance.  I was introducing her into good company, and giving her the opportunity of pleasing some one worth having; I ought not to have attempted more.  But now, poor girl, her peace is cut up for some time. I have been but half a friend to her; and if she were not to feel this disappointment so very much, I am sure I have not an idea of any body else who would be at all desirable for her;-- William Coxe-- Oh! no, I could not endure William Coxe -- a pert young lawyer."
+R757	Cueing Arg1:T587 Arg2:T589	
+R758	Speaker Arg1:T588 Arg2:T589	
+T590	Quotation 128502 128572	"Ah!  Mr. Knightley, why do not you stay at home like poor Mr. Elton?"
+T591	Cue 128431 128434	say
+T592	Entity 128438 128451	Mr. Knightley
+T593	Entity 128427 128430	him
+R759	Cueing Arg1:T591 Arg2:T590	
+R760	Speaker Arg1:T593 Arg2:T590	
+R761	Addressee Arg1:T592 Arg2:T590	
+T594	Entity 131437 131450	Mr. Woodhouse
+T595	Cue 131451 131457	talked
+T596	Quotation 131458 131473	over his alarms
+R762	Cueing Arg1:T595 Arg2:T596	
+R763	Speaker Arg1:T594 Arg2:T596	
+T597	Entity 131479 131483	Emma
+R764	Addressee Arg1:T597 Arg2:T596	
+T598	Quotation 131499 131520	to persuade them away
+R765	Speaker Arg1:T597 Arg2:T598	
+R766	Addressee Arg1:T594 Arg2:T598	
+T599	Entity 137967 137970	She
+T600	Cue 137989 137992	say
+T601	Quotation 137993 138263	a good deal more than she felt, of the advantage of such an addition to their confined society in Surry; the pleasure of looking at somebody new; the gala-day to Highbury entire, which the sight of him would have made; and ending with reflections on the Churchills again
+T602	Entity 138320 138333	Mr. Knightley
+R767	Cueing Arg1:T600 Arg2:T601	
+R768	Speaker Arg1:T599 Arg2:T601	
+R769	Addressee Arg1:T602 Arg2:T601	
+T603	Quotation 138507 138549	"The Churchills are very likely in fault,"
+T604	Cue 138550 138554	said
+T605	Entity 138555 138568	Mr. Knightley
+R770	Cueing Arg1:T604 Arg2:T603	
+R771	Speaker Arg1:T605 Arg2:T603	
+T606	Quotation 138578 138621	"but I dare say he might come if he would."
+R772	Cueing Arg1:T604 Arg2:T606	
+R773	Speaker Arg1:T605 Arg2:T606	
+T607	Entity 138498 138505	herself
+R774	Addressee Arg1:T607 Arg2:T603	
+R775	Addressee Arg1:T607 Arg2:T606	
+T608	Quotation 138622 138735	"I do not know why you should say so.  He wishes exceedingly to come; but his uncle and aunt will not spare him."
+R776	Addressee Arg1:T605 Arg2:T608	
+R777	Speaker Arg1:T607 Arg2:T608	
+T609	Quotation 138736 138874	"I cannot believe that he has not the power of coming, if he made a point of it.  It is too unlikely, for me to believe it without proof."
+R778	Speaker Arg1:T605 Arg2:T609	
+R779	Addressee Arg1:T607 Arg2:T609	
+T610	Quotation 138875 138981	"How odd you are!  What has Mr. Frank Churchill done, to make you suppose him such an unnatural creature?"
+R780	Speaker Arg1:T607 Arg2:T610	
+R781	Addressee Arg1:T605 Arg2:T610	
+T611	Quotation 138982 139646	"I am not supposing him at all an unnatural creature, in suspecting that he may have learnt to be above his connexions, and to care very little for any thing but his own pleasure, from living with those who have always set him the example of it.  It is a great deal more natural than one could wish, that a young man, brought up by those who are proud, luxurious, and selfish, should be proud, luxurious, and selfish too.  If Frank Churchill had wanted to see his father, he would have contrived it between September and January.  A man at his age-- what is he?-- three or four-and-twenty-- cannot be without the means of doing as much as that.  It is impossible."
+R782	Speaker Arg1:T605 Arg2:T611	
+R783	Addressee Arg1:T607 Arg2:T611	
+T612	Quotation 139647 139874	"That's easily said, and easily felt by you, who have always been your own master.  You are the worst judge in the world, Mr. Knightley, of the difficulties of dependence.  You do not know what it is to have tempers to manage."
+R784	Addressee Arg1:T605 Arg2:T612	
+R785	Speaker Arg1:T607 Arg2:T612	
+T613	Quotation 139875 140319	"It is not to be conceived that a man of three or four-and-twenty should not have liberty of mind or limb to that amount.  He cannot want money-- he cannot want leisure.  We know, on the contrary, that he has so much of both, that he is glad to get rid of them at the idlest haunts in the kingdom.  We hear of him for ever at some watering-place or other.  A little while ago, he was at Weymouth.  This proves that he can leave the Churchills."
+R786	Speaker Arg1:T605 Arg2:T613	
+R787	Addressee Arg1:T607 Arg2:T613	
+T614	Quotation 140320 140344	"Yes, sometimes he can."
+R788	Speaker Arg1:T607 Arg2:T614	
+R789	Addressee Arg1:T605 Arg2:T614	
+T615	Quotation 140345 140451	"And those times are whenever he thinks it worth his while; whenever there is any temptation of pleasure."
+R790	Speaker Arg1:T605 Arg2:T615	
+R791	Addressee Arg1:T607 Arg2:T615	
+T616	Quotation 140452 140886	"It is very unfair to judge of any body's conduct, without an intimate knowledge of their situation.  Nobody, who has not been in the interior of a family, can say what the difficulties of any individual of that family may be.  We ought to be acquainted with Enscombe, and with Mrs. Churchill's temper, before we pretend to decide upon what her nephew can do.  He may, at times, be able to do a great deal more than he can at others."
+R792	Speaker Arg1:T607 Arg2:T616	
+R793	Addressee Arg1:T605 Arg2:T616	
+T617	Quotation 140887 141694	"There is one thing, Emma, which a man can always do, if he chuses, and that is, his duty; not by manoeuvring and finessing, but by vigour and resolution.  It is Frank Churchill's duty to pay this attention to his father.  He knows it to be so, by his promises and messages; but if he wished to do it, it might be done.  A man who felt rightly would say at once, simply and resolutely, to Mrs. Churchill-- 'Every sacrifice of mere pleasure you will always find me ready to make to your convenience; but I must go and see my father immediately.  I know he would be hurt by my failing in such a mark of respect to him on the present occasion.  I shall, therefore, set off to-morrow.'-- If he would say so to her at once, in the tone of decision becoming a man, there would be no opposition made to his going."
+R794	Addressee Arg1:T607 Arg2:T617	
+R795	Speaker Arg1:T605 Arg2:T617	
+T618	Quotation 141695 141700	"No,"
+T619	Cue 141701 141705	said
+T620	Entity 141706 141710	Emma
+T621	Quotation 141722 142263	"but perhaps there might be some made to his coming back again.  Such language for a young man entirely dependent, to use!-- Nobody but you, Mr. Knightley, would imagine it possible.  But you have not an idea of what is requisite in situations directly opposite to your own.  Mr. Frank Churchill to be making such a speech as that to the uncle and aunt, who have brought him up, and are to provide for him!-- Standing up in the middle of the room, I suppose, and speaking as loud as he could!-- How can you imagine such conduct practicable?"
+R796	Cueing Arg1:T619 Arg2:T618	
+R797	Speaker Arg1:T620 Arg2:T618	
+R798	Cueing Arg1:T619 Arg2:T621	
+R799	Speaker Arg1:T620 Arg2:T621	
+R800	Addressee Arg1:T605 Arg2:T621	
+T622	Quotation 142264 143200	"Depend upon it, Emma, a sensible man would find no difficulty in it. He would feel himself in the right; and the declaration-- made, of course, as a man of sense would make it, in a proper manner-- would do him more good, raise him higher, fix his interest stronger with the people he depended on, than all that a line of shifts and expedients can ever do.  Respect would be added to affection.  They would feel that they could trust him; that the nephew who had done rightly by his father, would do rightly by them; for they know, as well as he does, as well as all the world must know, that he ought to pay this visit to his father; and while meanly exerting their power to delay it, are in their hearts not thinking the better of him for submitting to their whims. Respect for right conduct is felt by every body.  If he would act in this sort of manner, on principle, consistently, regularly, their little minds would bend to his."
+R801	Addressee Arg1:T620 Arg2:T622	
+R802	Speaker Arg1:T605 Arg2:T622	
+T623	Quotation 143201 144121	"I rather doubt that.  You are very fond of bending little minds; but where little minds belong to rich people in authority, I think they have a knack of swelling out, till they are quite as unmanageable as great ones.  I can imagine, that if you, as you are, Mr. Knightley, were to be transported and placed all at once in Mr. Frank Churchill's situation, you would be able to say and do just what you have been recommending for him; and it might have a very good effect.  The Churchills might not have a word to say in return; but then, you would have no habits of early obedience and long observance to break through. To him who has, it might not be so easy to burst forth at once into perfect independence, and set all their claims on his gratitude and regard at nought.  He may have as strong a sense of what would be right, as you can have, without being so equal, under particular circumstances, to act up to it."
+R803	Speaker Arg1:T620 Arg2:T623	
+R804	Addressee Arg1:T605 Arg2:T623	
+T624	Quotation 144122 144241	"Then it would not be so strong a sense.  If it failed to produce equal exertion, it could not be an equal conviction."
+R805	Addressee Arg1:T620 Arg2:T624	
+R806	Speaker Arg1:T605 Arg2:T624	
+T625	Quotation 144242 144460	"Oh, the difference of situation and habit!  I wish you would try to understand what an amiable young man may be likely to feel in directly opposing those, whom as child and boy he has been looking up to all his life."
+R807	Speaker Arg1:T620 Arg2:T625	
+R808	Addressee Arg1:T605 Arg2:T625	
+T626	Quotation 144461 145059	"Our amiable young man is a very weak young man, if this be the first occasion of his carrying through a resolution to do right against the will of others.  It ought to have been a habit with him by this time, of following his duty, instead of consulting expediency.  I can allow for the fears of the child, but not of the man.  As he became rational, he ought to have roused himself and shaken off all that was unworthy in their authority.  He ought to have opposed the first attempt on their side to make him slight his father.  Had he begun as he ought, there would have been no difficulty now."
+R809	Addressee Arg1:T620 Arg2:T626	
+R810	Speaker Arg1:T605 Arg2:T626	
+T627	Quotation 145060 145093	"We shall never agree about him,"
+T628	Cue 145094 145099	cried
+T629	Entity 145100 145104	Emma
+T630	Quotation 145106 145522	"but that is nothing extraordinary.  I have not the least idea of his being a weak young man:  I feel sure that he is not.  Mr. Weston would not be blind to folly, though in his own son; but he is very likely to have a more yielding, complying, mild disposition than would suit your notions of man's perfection.  I dare say he has; and though it may cut him off from some advantages, it will secure him many others."
+R811	Cueing Arg1:T628 Arg2:T627	
+R812	Cueing Arg1:T628 Arg2:T630	
+R813	Speaker Arg1:T629 Arg2:T627	
+R814	Speaker Arg1:T629 Arg2:T630	
+R815	Addressee Arg1:T605 Arg2:T627	
+R816	Addressee Arg1:T605 Arg2:T630	
+T631	Quotation 145523 145975	"Yes; all the advantages of sitting still when he ought to move, and of leading a life of mere idle pleasure, and fancying himself extremely expert in finding excuses for it.  He can sit down and write a fine flourishing letter, full of professions and falsehoods, and persuade himself that he has hit upon the very best method in the world of preserving peace at home and preventing his father's having any right to complain.  His letters disgust me."
+R817	Addressee Arg1:T629 Arg2:T631	
+R818	Speaker Arg1:T605 Arg2:T631	
+T632	Quotation 145976 146044	"Your feelings are singular.  They seem to satisfy every body else."
+R819	Speaker Arg1:T629 Arg2:T632	
+R820	Addressee Arg1:T605 Arg2:T632	
+T633	Quotation 146045 146867	"I suspect they do not satisfy Mrs. Weston.  They hardly can satisfy a woman of her good sense and quick feelings:  standing in a mother's place, but without a mother's affection to blind her.  It is on her account that attention to Randalls is doubly due, and she must doubly feel the omission.  Had she been a person of consequence herself, he would have come I dare say; and it would not have signified whether he did or no.  Can you think your friend behindhand in these sort of considerations?  Do you suppose she does not often say all this to herself?  No, Emma, your amiable young man can be amiable only in French, not in English.  He may be very 'aimable,' have very good manners, and be very agreeable; but he can have no English delicacy towards the feelings of other people: nothing really amiable about him."
+R821	Addressee Arg1:T629 Arg2:T633	
+R822	Speaker Arg1:T605 Arg2:T633	
+T634	Quotation 146868 146910	"You seem determined to think ill of him."
+R823	Speaker Arg1:T629 Arg2:T634	
+T635	Quotation 146911 146930	"Me!-- not at all,"
+T636	Cue 146931 146938	replied
+T637	Entity 146939 146952	Mr. Knightley
+T638	Quotation 146973 147200	"I do not want to think ill of him.  I should be as ready to acknowledge his merits as any other man; but I hear of none, except what are merely personal; that he is well-grown and good-looking, with smooth, plausible manners."
+R824	Cueing Arg1:T636 Arg2:T635	
+R825	Cueing Arg1:T636 Arg2:T638	
+R826	Speaker Arg1:T637 Arg2:T635	
+R827	Speaker Arg1:T637 Arg2:T638	
+R828	Addressee Arg1:T629 Arg2:T635	
+R829	Addressee Arg1:T637 Arg2:T634	
+R830	Addressee Arg1:T629 Arg2:T638	
+T639	Quotation 147201 147699	"Well, if he have nothing else to recommend him, he will be a treasure at Highbury.  We do not often look upon fine young men, well-bred and agreeable.  We must not be nice and ask for all the virtues into the bargain.  Cannot you imagine, Mr. Knightley, what a sensation his coming will produce?  There will be but one subject throughout the parishes of Donwell and Highbury; but one interest-- one object of curiosity; it will be all Mr. Frank Churchill; we shall think and speak of nobody else."
+R831	Addressee Arg1:T637 Arg2:T639	
+R832	Speaker Arg1:T629 Arg2:T639	
+T640	Quotation 147700 147900	"You will excuse my being so much over-powered. If I find him conversable, I shall be glad of his acquaintance; but if he is only a chattering coxcomb, he will not occupy much of my time or thoughts."
+R833	Speaker Arg1:T637 Arg2:T640	
+R834	Addressee Arg1:T629 Arg2:T640	
+T641	Quotation 147901 148341	"My idea of him is, that he can adapt his conversation to the taste of every body, and has the power as well as the wish of being universally agreeable.  To you, he will talk of farming; to me, of drawing or music; and so on to every body, having that general information on all subjects which will enable him to follow the lead, or take the lead, just as propriety may require, and to speak extremely well on each; that is my idea of him."
+R835	Addressee Arg1:T637 Arg2:T641	
+R836	Speaker Arg1:T629 Arg2:T641	
+T642	Quotation 148342 148353	"And mine,"
+T643	Cue 148354 148358	said
+T644	Entity 148359 148372	Mr. Knightley
+T645	Quotation 148381 148886	"is, that if he turn out any thing like it, he will be the most insufferable fellow breathing! What! at three-and-twenty to be the king of his company-- the great man-- the practised politician, who is to read every body's character, and make every body's talents conduce to the display of his own superiority; to be dispensing his flatteries around, that he may make all appear like fools compared with himself!  My dear Emma, your own good sense could not endure such a puppy when it came to the point."
+R837	Cueing Arg1:T643 Arg2:T642	
+R838	Cueing Arg1:T643 Arg2:T645	
+R839	Speaker Arg1:T644 Arg2:T642	
+R840	Speaker Arg1:T644 Arg2:T645	
+T646	Entity 148925 148929	Emma
+R841	Addressee Arg1:T646 Arg2:T645	
+T647	Quotation 148887 148918	"I will say no more about him,"
+T648	Cue 148919 148924	cried
+T649	Quotation 148931 149069	"you turn every thing to evil.  We are both prejudiced; you against, I for him; and we have no chance of agreeing till he is really here."
+R842	Cueing Arg1:T648 Arg2:T647	
+R843	Cueing Arg1:T648 Arg2:T649	
+R844	Speaker Arg1:T646 Arg2:T647	
+R845	Speaker Arg1:T646 Arg2:T649	
+R846	Addressee Arg1:T644 Arg2:T647	
+R847	Addressee Arg1:T644 Arg2:T649	
+T650	Quotation 149070 149105	"Prejudiced!  I am not prejudiced."
+R848	Speaker Arg1:T644 Arg2:T650	
+R849	Addressee Arg1:T646 Arg2:T650	
+T651	Quotation 149106 149244	"But I am very much, and without being at all ashamed of it.  My love for Mr. and Mrs. Weston gives me a decided prejudice in his favour."
+R850	Speaker Arg1:T646 Arg2:T651	
+R851	Addressee Arg1:T644 Arg2:T651	
+T652	Quotation 149245 149311	"He is a person I never think of from one month's end to another,"
+T653	Cue 149312 149316	said
+T654	Entity 149317 149330	Mr. Knightley
+R852	Cueing Arg1:T653 Arg2:T652	
+R853	Speaker Arg1:T654 Arg2:T652	
+T655	Entity 149370 149374	Emma
+R854	Addressee Arg1:T655 Arg2:T652	
+T656	Quotation 150328 150363	"Mr. Elton is so good to the poor!"
+T657	Entity 150015 150022	Harriet
+R855	Speaker Arg1:T657 Arg2:T656	
+T658	Entity 150364 150367	she
+R856	Addressee Arg1:T658 Arg2:T656	
+T659	Quotation 152111 152411	"Mrs. Cole had just been there, just called in for ten minutes, and had been so good as to sit an hour with them, and she had taken a piece of cake and been so kind as to say she liked it very much; and, therefore, she hoped Miss Woodhouse and Miss Smith would do them the favour to eat a piece too."
+T660	Entity 151843 151876	her more active, talking daughter
+T661	Entity 151904 151908	them
+R857	Speaker Arg1:T660 Arg2:T659	
+R858	Addressee Arg1:T661 Arg2:T659	
+T662	Quotation 153477 154310	"Oh! yes-- Mr. Elton, I understand-- certainly as to dancing-- Mrs. Cole was telling me that dancing at the rooms at Bath was-- Mrs. Cole was so kind as to sit some time with us, talking of Jane; for as soon as she came in, she began inquiring after her, Jane is so very great a favourite there.  Whenever she is with us, Mrs. Cole does not know how to shew her kindness enough; and I must say that Jane deserves it as much as any body can.  And so she began inquiring after her directly, saying, 'I know you cannot have heard from Jane lately, because it is not her time for writing;' and when I immediately said, 'But indeed we have, we had a letter this very morning,' I do not know that I ever saw any body more surprized.  'Have you, upon your honour?' said she; 'well, that is quite unexpected.  Do let me hear what she says.'"
+T663	Entity 154311 154315	Emma
+T664	Entity 153384 153387	she
+R859	Speaker Arg1:T664 Arg2:T662	
+R860	Addressee Arg1:T663 Arg2:T662	
+T665	Quotation 154383 154472	"Have you heard from Miss Fairfax so lately?  I am extremely happy.  I hope she is well?"
+R861	Speaker Arg1:T663 Arg2:T665	
+R862	Addressee Arg1:T664 Arg2:T665	
+T666	Quotation 154473 154503	"Thank you.  You are so kind!"
+T667	Cue 154504 154511	replied
+T668	Entity 154512 154537	the happily deceived aunt
+R863	Cueing Arg1:T667 Arg2:T666	
+R864	Speaker Arg1:T668 Arg2:T666	
+R865	Addressee Arg1:T663 Arg2:T666	
+T669	Entity 155398 155401	She
+T670	Cue 155408 155412	says
+T671	Quotation 155447 155529	'Well, Hetty, now I think you will be put to it to make out all that checker-work'
+T672	Entity 155561 155562	I
+T673	Entity 155568 155571	her
+T674	Quotation 155573 155660	I am sure she would contrive to make it out herself, if she had nobody to do it for her
+T675	Cue 155563 155567	tell
+R866	Cueing Arg1:T670 Arg2:T671	
+R867	Speaker Arg1:T669 Arg2:T671	
+R868	Addressee Arg1:T672 Arg2:T671	
+R869	Cueing Arg1:T675 Arg2:T674	
+R870	Speaker Arg1:T672 Arg2:T674	
+R871	Addressee Arg1:T673 Arg2:T674	
+T676	Entity 155958 155962	Jane
+T677	Entity 155916 155925	My mother
+T678	Cue 155969 155973	says
+T679	Quotation 155993 156158	'I am sure, grandmama, you must have had very strong eyes to see as you do-- and so much fine work as you have done too! -- I only wish my eyes may last me as well.'
+R872	Cueing Arg1:T678 Arg2:T679	
+R873	Speaker Arg1:T676 Arg2:T679	
+R874	Addressee Arg1:T677 Arg2:T679	
+T680	Quotation 154579 156159	"Oh! here it is.  I was sure it could not be far off; but I had put my huswife upon it, you see, without being aware, and so it was quite hid, but I had it in my hand so very lately that I was almost sure it must be on the table.  I was reading it to Mrs. Cole, and since she went away, I was reading it again to my mother, for it is such a pleasure to her -- a letter from Jane-- that she can never hear it often enough; so I knew it could not be far off, and here it is, only just under my huswife-- and since you are so kind as to wish to hear what she says;-- but, first of all, I really must, in justice to Jane, apologise for her writing so short a letter-- only two pages you see-- hardly two-- and in general she fills the whole paper and crosses half.  My mother often wonders that I can make it out so well.  She often says, when the letter is first opened, 'Well, Hetty, now I think you will be put to it to make out all that checker-work'-- don't you, ma'am?-- And then I tell her, I am sure she would contrive to make it out herself, if she had nobody to do it for her-- every word of it -- I am sure she would pore over it till she had made out every word. And, indeed, though my mother's eyes are not so good as they were, she can see amazingly well still, thank God!  with the help of spectacles. It is such a blessing!  My mother's are really very good indeed.  Jane often says, when she is here, 'I am sure, grandmama, you must have had very strong eyes to see as you do-- and so much fine work as you have done too! -- I only wish my eyes may last me as well.'"
+R875	Cueing Arg1:T667 Arg2:T680	
+R876	Speaker Arg1:T668 Arg2:T680	
+R877	Addressee Arg1:T663 Arg2:T680	
+T681	Entity 156234 156238	Emma
+T682	Cue 156239 156243	said
+T683	Quotation 156244 156315	something very civil about the excellence of Miss Fairfax's handwriting
+T684	Entity 156199 156209	Miss Bates
+R878	Cueing Arg1:T682 Arg2:T683	
+R879	Speaker Arg1:T681 Arg2:T683	
+R880	Addressee Arg1:T684 Arg2:T683	
+T685	Quotation 156317 156342	"You are extremely kind,"
+T686	Cue 156343 156350	replied
+T687	Entity 156351 156361	Miss Bates
+T688	Quotation 156381 156591	"you who are such a judge, and write so beautifully yourself.  I am sure there is nobody's praise that could give us so much pleasure as Miss Woodhouse's. My mother does not hear; she is a little deaf you know.
+R881	Cueing Arg1:T686 Arg2:T685	
+R882	Speaker Arg1:T687 Arg2:T685	
+R883	Addressee Arg1:T681 Arg2:T685	
+R884	Cueing Arg1:T686 Arg2:T688	
+R885	Speaker Arg1:T687 Arg2:T688	
+R886	Addressee Arg1:T681 Arg2:T688	
+T689	Quotation 156592 156599	Ma'am,"
+T690	Cue 156600 156610	addressing
+T691	Entity 156611 156614	her
+T692	Quotation 156616 156697	"do you hear what Miss Woodhouse is so obliging to say about Jane's handwriting?"
+R887	Cueing Arg1:T690 Arg2:T689	
+R888	Cueing Arg1:T690 Arg2:T692	
+R889	Addressee Arg1:T691 Arg2:T689	
+R890	Addressee Arg1:T691 Arg2:T692	
+R891	Speaker Arg1:T687 Arg2:T689	
+R892	Speaker Arg1:T687 Arg2:T692	
+T693	Quotation 157101 157748	"My mother's deafness is very trifling you see-- just nothing at all. By only raising my voice, and saying any thing two or three times over, she is sure to hear; but then she is used to my voice.  But it is very remarkable that she should always hear Jane better than she does me. Jane speaks so distinct!  However, she will not find her grandmama at all deafer than she was two years ago; which is saying a great deal at my mother's time of life-- and it really is full two years, you know, since she was here.  We never were so long without seeing her before, and as I was telling Mrs. Cole, we shall hardly know how to make enough of her now."
+T694	Entity 157044 157054	Miss Bates
+T695	Entity 157065 157068	her
+R893	Speaker Arg1:T694 Arg2:T693	
+R894	Addressee Arg1:T695 Arg2:T693	
+T696	Quotation 157749 157792	"Are you expecting Miss Fairfax here soon?"
+R895	Addressee Arg1:T694 Arg2:T696	
+R896	Speaker Arg1:T695 Arg2:T696	
+T697	Quotation 157793 157813	"Oh yes; next week."
+R897	Speaker Arg1:T694 Arg2:T697	
+R898	Addressee Arg1:T695 Arg2:T697	
+T698	Quotation 157814 157861	"Indeed!-- that must be a very great pleasure."
+R899	Addressee Arg1:T694 Arg2:T698	
+R900	Speaker Arg1:T695 Arg2:T698	
+T699	Quotation 157862 158509	"Thank you.  You are very kind.  Yes, next week.  Every body is so surprized; and every body says the same obliging things.  I am sure she will be as happy to see her friends at Highbury, as they can be to see her.  Yes, Friday or Saturday; she cannot say which, because Colonel Campbell will be wanting the carriage himself one of those days.  So very good of them to send her the whole way!  But they always do, you know.  Oh yes, Friday or Saturday next.  That is what she writes about. That is the reason of her writing out of rule, as we call it; for, in the common course, we should not have heard from her before next Tuesday or Wednesday."
+R901	Speaker Arg1:T694 Arg2:T699	
+R902	Addressee Arg1:T695 Arg2:T699	
+T700	Quotation 158510 158622	"Yes, so I imagined.  I was afraid there could be little chance of my hearing any thing of Miss Fairfax to-day."
+R903	Addressee Arg1:T694 Arg2:T700	
+R904	Speaker Arg1:T695 Arg2:T700	
+T701	Quotation 158623 160536	"So obliging of you!  No, we should not have heard, if it had not been for this particular circumstance, of her being to come here so soon. My mother is so delighted!-- for she is to be three months with us at least.  Three months, she says so, positively, as I am going to have the pleasure of reading to you.  The case is, you see, that the Campbells are going to Ireland.  Mrs. Dixon has persuaded her father and mother to come over and see her directly.  They had not intended to go over till the summer, but she is so impatient to see them again-- for till she married, last October, she was never away from them so much as a week, which must make it very strange to be in different kingdoms, I was going to say, but however different countries, and so she wrote a very urgent letter to her mother-- or her father, I declare I do not know which it was, but we shall see presently in Jane's letter-- wrote in Mr. Dixon's name as well as her own, to press their coming over directly, and they would give them the meeting in Dublin, and take them back to their country seat, Baly-craig, a beautiful place, I fancy. Jane has heard a great deal of its beauty; from Mr. Dixon, I mean-- I do not know that she ever heard about it from any body else; but it was very natural, you know, that he should like to speak of his own place while he was paying his addresses-- and as Jane used to be very often walking out with them-- for Colonel and Mrs. Campbell were very particular about their daughter's not walking out often with only Mr. Dixon, for which I do not at all blame them; of course she heard every thing he might be telling Miss Campbell about his own home in Ireland; and I think she wrote us word that he had shewn them some drawings of the place, views that he had taken himself.  He is a most amiable, charming young man, I believe.  Jane was quite longing to go to Ireland, from his account of things."
+R905	Speaker Arg1:T694 Arg2:T701	
+R906	Addressee Arg1:T695 Arg2:T701	
+T702	Quotation 160754 161020	"You must feel it very fortunate that Miss Fairfax should be allowed to come to you at such a time.  Considering the very particular friendship between her and Mrs. Dixon, you could hardly have expected her to be excused from accompanying Colonel and Mrs. Campbell."
+T703	Entity 160696 160699	she
+T704	Cue 160700 160704	said
+R907	Speaker Arg1:T703 Arg2:T702	
+R908	Cueing Arg1:T704 Arg2:T702	
+R909	Addressee Arg1:T694 Arg2:T702	
+T705	Quotation 161021 162075	"Very true, very true, indeed.  The very thing that we have always been rather afraid of; for we should not have liked to have her at such a distance from us, for months together-- not able to come if any thing was to happen.  But you see, every thing turns out for the best.  They want her (Mr. and Mrs. Dixon) excessively to come over with Colonel and Mrs. Campbell; quite depend upon it; nothing can be more kind or pressing than their joint invitation, Jane says, as you will hear presently; Mr. Dixon does not seem in the least backward in any attention.  He is a most charming young man.  Ever since the service he rendered Jane at Weymouth, when they were out in that party on the water, and she, by the sudden whirling round of something or other among the sails, would have been dashed into the sea at once, and actually was all but gone, if he had not, with the greatest presence of mind, caught hold of her habit-- (I can never think of it without trembling!)-- But ever since we had the history of that day, I have been so fond of Mr. Dixon!"
+R910	Addressee Arg1:T703 Arg2:T705	
+R911	Speaker Arg1:T694 Arg2:T705	
+T706	Quotation 162076 162218	"But, in spite of all her friends' urgency, and her own wish of seeing Ireland, Miss Fairfax prefers devoting the time to you and Mrs. Bates?"
+R912	Speaker Arg1:T703 Arg2:T706	
+R913	Addressee Arg1:T694 Arg2:T706	
+T707	Quotation 162219 162714	"Yes-- entirely her own doing, entirely her own choice; and Colonel and Mrs. Campbell think she does quite right, just what they should recommend; and indeed they particularly wish her to try her native air, as she has not been quite so well as usual lately." "I am concerned to hear of it.  I think they judge wisely.  But Mrs. Dixon must be very much disappointed.  Mrs. Dixon, I understand, has no remarkable degree of personal beauty; is not, by any means, to be compared with Miss Fairfax."
+R914	Speaker Arg1:T703 Arg2:T707	
+R915	Addressee Arg1:T694 Arg2:T707	
+T708	Quotation 162715 162904	"Oh! no.  You are very obliging to say such things-- but certainly not. There is no comparison between them.  Miss Campbell always was absolutely plain-- but extremely elegant and amiable."
+R916	Addressee Arg1:T703 Arg2:T708	
+R917	Speaker Arg1:T694 Arg2:T708	
+T709	Quotation 162905 162927	"Yes, that of course."
+T710	Quotation 162928 163598	"Jane caught a bad cold, poor thing! so long ago as the 7th of November, (as I am going to read to you,) and has never been well since.  A long time, is not it, for a cold to hang upon her?  She never mentioned it before, because she would not alarm us.  Just like her! so considerate!-- But however, she is so far from well, that her kind friends the Campbells think she had better come home, and try an air that always agrees with her; and they have no doubt that three or four months at Highbury will entirely cure her-- and it is certainly a great deal better that she should come here, than go to Ireland, if she is unwell. Nobody could nurse her, as we should do."
+R918	Speaker Arg1:T703 Arg2:T709	
+R919	Addressee Arg1:T694 Arg2:T709	
+R920	Speaker Arg1:T694 Arg2:T710	
+R921	Addressee Arg1:T703 Arg2:T710	
+T711	Quotation 163599 163662	"It appears to me the most desirable arrangement in the world."
+R922	Speaker Arg1:T703 Arg2:T711	
+R923	Addressee Arg1:T694 Arg2:T711	
+T712	Entity 164448 164449	I
+T713	Cue 164450 164459	burst out
+T714	Quotation 164484 164513	'Bless me! poor Jane is ill!'
+R924	Cueing Arg1:T713 Arg2:T714	
+R925	Speaker Arg1:T712 Arg2:T714	
+T715	Quotation 163663 165331	"And so she is to come to us next Friday or Saturday, and the Campbells leave town in their way to Holyhead the Monday following-- as you will find from Jane's letter.  So sudden!-- You may guess, dear Miss Woodhouse, what a flurry it has thrown me in!  If it was not for the drawback of her illness-- but I am afraid we must expect to see her grown thin, and looking very poorly.  I must tell you what an unlucky thing happened to me, as to that.  I always make a point of reading Jane's letters through to myself first, before I read them aloud to my mother, you know, for fear of there being any thing in them to distress her.  Jane desired me to do it, so I always do:  and so I began to-day with my usual caution; but no sooner did I come to the mention of her being unwell, than I burst out, quite frightened, with 'Bless me! poor Jane is ill!'-- which my mother, being on the watch, heard distinctly, and was sadly alarmed at.  However, when I read on, I found it was not near so bad as I had fancied at first; and I make so light of it now to her, that she does not think much about it.  But I cannot imagine how I could be so off my guard.  If Jane does not get well soon, we will call in Mr. Perry.  The expense shall not be thought of; and though he is so liberal, and so fond of Jane that I dare say he would not mean to charge any thing for attendance, we could not suffer it to be so, you know.  He has a wife and family to maintain, and is not to be giving away his time.  Well, now I have just given you a hint of what Jane writes about, we will turn to her letter, and I am sure she tells her own story a great deal better than I can tell it for her."
+R926	Speaker Arg1:T694 Arg2:T715	
+R927	Addressee Arg1:T703 Arg2:T715	
+T716	Quotation 165332 165370	"I am afraid we must be running away,"
+T717	Cue 165371 165375	said
+T718	Entity 165376 165380	Emma
+T719	Quotation 165427 165762	"My father will be expecting us.  I had no intention, I thought I had no power of staying more than five minutes, when I first entered the house.  I merely called, because I would not pass the door without inquiring after Mrs. Bates; but I have been so pleasantly detained!  Now, however, we must wish you and Mrs. Bates good morning."
+R928	Cueing Arg1:T717 Arg2:T716	
+R929	Speaker Arg1:T718 Arg2:T716	
+R930	Cueing Arg1:T717 Arg2:T719	
+R931	Speaker Arg1:T718 Arg2:T719	
+R932	Addressee Arg1:T694 Arg2:T719	
+R933	Addressee Arg1:T694 Arg2:T716	
+T720	Entity 177181 177184	she
+T721	Cue 177343 177349	saying
+T722	Entity 177353 177366	Mr. Knightley
+T723	Quotation 177368 177425	"She certainly is handsome; she is better than handsome!"
+R934	Cueing Arg1:T721 Arg2:T723	
+R935	Addressee Arg1:T722 Arg2:T723	
+R936	Speaker Arg1:T720 Arg2:T723	
+T724	Quotation 180486 180512	"A very pleasant evening,"
+T725	Entity 180513 180515	he
+T726	Cue 180516 180521	began
+T727	Quotation 180643 181120	"particularly pleasant.  You and Miss Fairfax gave us some very good music.  I do not know a more luxurious state, sir, than sitting at one's ease to be entertained a whole evening by two such young women; sometimes with music and sometimes with conversation.  I am sure Miss Fairfax must have found the evening pleasant, Emma.  You left nothing undone.  I was glad you made her play so much, for having no instrument at her grandmother's, it must have been a real indulgence."
+R937	Speaker Arg1:T725 Arg2:T724	
+R938	Speaker Arg1:T725 Arg2:T727	
+R939	Cueing Arg1:T726 Arg2:T724	
+R940	Cueing Arg1:T726 Arg2:T727	
+T728	Quotation 181121 181147	"I am happy you approved,"
+T729	Cue 181148 181152	said
+T730	Entity 181153 181157	Emma
+T731	Quotation 181168 181244	"but I hope I am not often deficient in what is due to guests at Hartfield."
+R941	Cueing Arg1:T729 Arg2:T728	
+R942	Cueing Arg1:T729 Arg2:T731	
+R943	Addressee Arg1:T730 Arg2:T724	
+R944	Addressee Arg1:T730 Arg2:T727	
+R945	Speaker Arg1:T730 Arg2:T728	
+R946	Speaker Arg1:T730 Arg2:T731	
+R947	Addressee Arg1:T725 Arg2:T728	
+R948	Addressee Arg1:T725 Arg2:T731	
+T732	Quotation 181245 181259	"No, my dear,"
+T733	Cue 181260 181264	said
+T734	Entity 181265 181275	her father
+T735	Quotation 181287 181505	"that I am sure you are not.  There is nobody half so attentive and civil as you are.  If any thing, you are too attentive.  The muffin last night-- if it had been handed round once, I think it would have been enough."
+R949	Cueing Arg1:T733 Arg2:T732	
+R950	Cueing Arg1:T733 Arg2:T735	
+R951	Speaker Arg1:T734 Arg2:T732	
+R952	Speaker Arg1:T734 Arg2:T735	
+R953	Addressee Arg1:T730 Arg2:T732	
+R954	Addressee Arg1:T730 Arg2:T735	
+T736	Quotation 181506 181511	"No,"
+T737	Cue 181512 181516	said
+T738	Entity 181517 181530	Mr. Knightley
+T739	Quotation 181557 181681	"you are not often deficient; not often deficient either in manner or comprehension.  I think you understand me, therefore."
+R955	Cueing Arg1:T737 Arg2:T736	
+R956	Cueing Arg1:T737 Arg2:T739	
+R957	Speaker Arg1:T738 Arg2:T736	
+R958	Speaker Arg1:T738 Arg2:T739	
+T740	Entity 181743 181746	she
+T741	Cue 181747 181751	said
+T742	Quotation 181758 181785	"Miss Fairfax is reserved."
+R959	Cueing Arg1:T741 Arg2:T742	
+R960	Speaker Arg1:T740 Arg2:T742	
+R961	Addressee Arg1:T738 Arg2:T742	
+T743	Quotation 181786 182000	"I always told you she was -- a little; but you will soon overcome all that part of her reserve which ought to be overcome, all that has its foundation in diffidence.  What arises from discretion must be honoured."
+R962	Speaker Arg1:T738 Arg2:T743	
+R963	Addressee Arg1:T740 Arg2:T743	
+T744	Quotation 182001 182045	"You think her diffident.  I do not see it."
+T745	Quotation 182046 182061	"My dear Emma,"
+R964	Speaker Arg1:T740 Arg2:T744	
+R965	Addressee Arg1:T738 Arg2:T744	
+T746	Cue 182062 182066	said
+T747	Entity 182067 182069	he
+T748	Entity 182111 182114	her
+T749	Quotation 182116 182192	"you are not going to tell me, I hope, that you had not a pleasant evening."
+R966	Cueing Arg1:T746 Arg2:T745	
+R967	Cueing Arg1:T746 Arg2:T749	
+R968	Speaker Arg1:T747 Arg2:T745	
+R969	Speaker Arg1:T747 Arg2:T749	
+R970	Addressee Arg1:T748 Arg2:T745	
+R971	Addressee Arg1:T748 Arg2:T749	
+T750	Quotation 182193 182317	"Oh! no; I was pleased with my own perseverance in asking questions; and amused to think how little information I obtained."
+R972	Addressee Arg1:T747 Arg2:T750	
+R973	Speaker Arg1:T748 Arg2:T750	
+T751	Quotation 182318 182338	"I am disappointed,"
+T752	Entity 182343 182346	his
+T753	Cue 182352 182358	answer
+R974	Speaker Arg1:T752 Arg2:T751	
+R975	Cueing Arg1:T753 Arg2:T751	
+R976	Addressee Arg1:T748 Arg2:T751	
+T754	Quotation 182360 182403	"I hope every body had a pleasant evening,"
+T755	Cue 182404 182408	said
+T756	Entity 182409 182422	Mr. Woodhouse
+R977	Cueing Arg1:T755 Arg2:T754	
+R978	Speaker Arg1:T756 Arg2:T754	
+R979	Addressee Arg1:T752 Arg2:T754	
+R980	Addressee Arg1:T748 Arg2:T754	
+T757	Quotation 182443 182965	"I had.  Once, I felt the fire rather too much; but then I moved back my chair a little, a very little, and it did not disturb me. Miss Bates was very chatty and good-humoured, as she always is, though she speaks rather too quick.  However, she is very agreeable, and Mrs. Bates too, in a different way.  I like old friends; and Miss Jane Fairfax is a very pretty sort of young lady, a very pretty and a very well-behaved young lady indeed.  She must have found the evening agreeable, Mr. Knightley, because she had Emma."
+R981	Speaker Arg1:T756 Arg2:T757	
+R982	Cueing Arg1:T755 Arg2:T757	
+R983	Addressee Arg1:T752 Arg2:T757	
+R984	Addressee Arg1:T748 Arg2:T757	
+T758	Quotation 182966 183018	"True, sir; and Emma, because she had Miss Fairfax."
+R985	Addressee Arg1:T756 Arg2:T758	
+R986	Speaker Arg1:T752 Arg2:T758	
+T759	Quotation 183151 183294	"She is a sort of elegant creature that one cannot keep one's eyes from.  I am always watching her to admire; and I do pity her from my heart."
+T760	Entity 183019 183023	Emma
+T761	Entity 183028 183031	his
+T762	Cue 183094 183098	said
+R987	Speaker Arg1:T760 Arg2:T759	
+R988	Addressee Arg1:T761 Arg2:T759	
+R989	Cueing Arg1:T762 Arg2:T759	
+T763	Entity 183407 183420	Mr. Woodhouse
+T764	Cue 183458 183462	said
+T765	Quotation 183465 184113	"It is a great pity that their circumstances should be so confined!  a great pity indeed! and I have often wished-- but it is so little one can venture to do-- small, trifling presents, of any thing uncommon-- Now we have killed a porker, and Emma thinks of sending them a loin or a leg; it is very small and delicate-- Hartfield pork is not like any other pork-- but still it is pork-- and, my dear Emma, unless one could be sure of their making it into steaks, nicely fried, as ours are fried, without the smallest grease, and not roast it, for no stomach can bear roast pork -- I think we had better send the leg-- do not you think so, my dear?"
+R990	Cueing Arg1:T764 Arg2:T765	
+R991	Speaker Arg1:T763 Arg2:T765	
+R992	Addressee Arg1:T760 Arg2:T765	
+T766	Quotation 184114 184316	"My dear papa, I sent the whole hind-quarter. I knew you would wish it. There will be the leg to be salted, you know, which is so very nice, and the loin to be dressed directly in any manner they like."
+R993	Speaker Arg1:T760 Arg2:T766	
+R994	Addressee Arg1:T763 Arg2:T766	
+T767	Quotation 184317 184663	"That's right, my dear, very right.  I had not thought of it before, but that is the best way.  They must not over-salt the leg; and then, if it is not over-salted, and if it is very thoroughly boiled, just as Serle boils ours, and eaten very moderately of, with a boiled turnip, and a little carrot or parsnip, I do not consider it unwholesome."
+R995	Speaker Arg1:T763 Arg2:T767	
+R996	Addressee Arg1:T760 Arg2:T767	
+T768	Quotation 184664 184671	"Emma,"
+T769	Cue 184672 184676	said
+T770	Entity 184677 184690	Mr. Knightley
+T771	Quotation 184702 184823	"I have a piece of news for you. You like news-- and I heard an article in my way hither that I think will interest you."
+R997	Cueing Arg1:T769 Arg2:T768	
+R998	Cueing Arg1:T769 Arg2:T771	
+R999	Speaker Arg1:T770 Arg2:T768	
+R1000	Speaker Arg1:T770 Arg2:T771	
+R1001	Addressee Arg1:T760 Arg2:T768	
+R1002	Addressee Arg1:T760 Arg2:T771	
+T772	Quotation 184824 184937	"News!  Oh! yes, I always like news.  What is it?-- why do you smile so?-- where did you hear it?-- at Randalls?"
+R1003	Addressee Arg1:T770 Arg2:T772	
+R1004	Speaker Arg1:T760 Arg2:T772	
+T773	Entity 184938 184940	He
+T774	Cue 184958 184961	say
+T775	Quotation 184963 185016	"No, not at Randalls; I have not been near Randalls,"
+R1005	Cueing Arg1:T774 Arg2:T775	
+R1006	Speaker Arg1:T773 Arg2:T775	
+R1007	Addressee Arg1:T760 Arg2:T775	
+T776	Quotation 185301 185522	"Oh! my dear sir, how are you this morning?  My dear Miss Woodhouse-- I come quite over-powered. Such a beautiful hind-quarter of pork!  You are too bountiful!  Have you heard the news?  Mr. Elton is going to be married."
+T777	Entity 185523 185527	Emma
+T778	Entity 185052 185062	Miss Bates
+R1008	Addressee Arg1:T777 Arg2:T776	
+R1009	Speaker Arg1:T778 Arg2:T776	
+R1010	Addressee Arg1:T773 Arg2:T776	
+T779	Quotation 185684 185739	"There is my news: -- I thought it would interest you,"
+T780	Cue 185740 185744	said
+T781	Entity 185745 185758	Mr. Knightley
+R1011	Cueing Arg1:T780 Arg2:T779	
+R1012	Speaker Arg1:T781 Arg2:T779	
+R1013	Addressee Arg1:T777 Arg2:T779	
+T782	Quotation 185846 185876	"But where could you hear it?"
+T783	Cue 185877 185882	cried
+T784	Entity 185883 185893	Miss Bates
+R1014	Cueing Arg1:T783 Arg2:T782	
+R1015	Speaker Arg1:T784 Arg2:T782	
+R1016	Addressee Arg1:T781 Arg2:T782	
+T785	Entity 186361 186365	Jane
+T786	Cue 186366 186370	said
+T787	Quotation 186372 186474	'Shall I go down instead? for I think you have a little cold, and Patty has been washing the kitchen.'
+R1017	Cueing Arg1:T786 Arg2:T787	
+R1018	Speaker Arg1:T785 Arg2:T787	
+T788	Entity 186325 186326	I
+T789	Cue 186327 186331	said
+T790	Quotation 186332 186355	I would go down and see
+R1019	Cueing Arg1:T789 Arg2:T790	
+R1020	Speaker Arg1:T788 Arg2:T790	
+T791	Entity 186251 186260	my mother
+R1021	Addressee Arg1:T791 Arg2:T790	
+R1022	Addressee Arg1:T788 Arg2:T787	
+T792	Quotation 186477 186491	'Oh! my dear,'
+T793	Cue 186492 186496	said
+T794	Entity 186497 186498	I
+R1023	Cueing Arg1:T793 Arg2:T792	
+R1024	Speaker Arg1:T794 Arg2:T792	
+R1025	Addressee Arg1:T785 Arg2:T792	
+T795	Quotation 185896 186758	"Where could you possibly hear it, Mr. Knightley?  For it is not five minutes since I received Mrs. Cole's note-- no, it cannot be more than five-- or at least ten-- for I had got my bonnet and spencer on, just ready to come out -- I was only gone down to speak to Patty again about the pork-- Jane was standing in the passage-- were not you, Jane?-- for my mother was so afraid that we had not any salting-pan large enough.  So I said I would go down and see, and Jane said, 'Shall I go down instead? for I think you have a little cold, and Patty has been washing the kitchen.'-- 'Oh! my dear,' said I-- well, and just then came the note.  A Miss Hawkins-- that's all I know.  A Miss Hawkins of Bath.  But, Mr. Knightley, how could you possibly have heard it? for the very moment Mr. Cole told Mrs. Cole of it, she sat down and wrote to me.  A Miss Hawkins -- "
+R1026	Cueing Arg1:T783 Arg2:T795	
+R1027	Speaker Arg1:T784 Arg2:T795	
+R1028	Addressee Arg1:T781 Arg2:T795	
+T796	Quotation 186759 186898	"I was with Mr. Cole on business an hour and a half ago.  He had just read Elton's letter as I was shewn in, and handed it to me directly."
+R1029	Addressee Arg1:T784 Arg2:T796	
+R1030	Speaker Arg1:T781 Arg2:T796	
+T797	Quotation 186899 187157	"Well! that is quite -- I suppose there never was a piece of news more generally interesting.  My dear sir, you really are too bountiful.  My mother desires her very best compliments and regards, and a thousand thanks, and says you really quite oppress her."
+R1031	Speaker Arg1:T784 Arg2:T797	
+R1032	Addressee Arg1:T781 Arg2:T797	
+T798	Quotation 187158 187191	"We consider our Hartfield pork,"
+T799	Cue 187192 187199	replied
+T800	Entity 187200 187213	Mr. Woodhouse
+T801	Quotation 187216 187333	"indeed it certainly is, so very superior to all other pork, that Emma and I cannot have a greater pleasure than -- "
+R1033	Cueing Arg1:T799 Arg2:T798	
+R1034	Cueing Arg1:T799 Arg2:T801	
+R1035	Speaker Arg1:T800 Arg2:T798	
+R1036	Speaker Arg1:T800 Arg2:T801	
+R1037	Addressee Arg1:T784 Arg2:T798	
+R1038	Addressee Arg1:T784 Arg2:T801	
+T802	Quotation 187334 187664	"Oh! my dear sir, as my mother says, our friends are only too good to us.  If ever there were people who, without having great wealth themselves, had every thing they could wish for, I am sure it is us. We may well say that 'our lot is cast in a goodly heritage.' Well, Mr. Knightley, and so you actually saw the letter; well -- "
+R1039	Addressee Arg1:T800 Arg2:T802	
+R1040	Speaker Arg1:T784 Arg2:T802	
+T803	Quotation 187665 187737	"It was short-- merely to announce-- but cheerful, exulting, of course."
+R1041	Addressee Arg1:T784 Arg2:T803	
+R1042	Speaker Arg1:T784 Arg2:T803	
+T804	Quotation 187772 188009	"He had been so fortunate as to -- I forget the precise words-- one has no business to remember them. The information was, as you state, that he was going to be married to a Miss Hawkins.  By his style, I should imagine it just settled."
+R1043	Speaker Arg1:T784 Arg2:T804	
+R1044	Addressee Arg1:T781 Arg2:T804	
+T805	Quotation 188010 188042	"Mr. Elton going to be married!"
+T806	Cue 188043 188047	said
+T807	Entity 188048 188052	Emma
+R1045	Cueing Arg1:T806 Arg2:T805	
+R1046	Speaker Arg1:T807 Arg2:T805	
+R1047	Addressee Arg1:T784 Arg2:T805	
+R1048	Addressee Arg1:T781 Arg2:T805	
+T808	Quotation 188082 188135	"He will have every body's wishes for his happiness."
+R1049	Speaker Arg1:T807 Arg2:T808	
+R1050	Cueing Arg1:T806 Arg2:T808	
+R1051	Addressee Arg1:T784 Arg2:T808	
+R1052	Addressee Arg1:T781 Arg2:T808	
+T809	Quotation 188136 188165	"He is very young to settle,"
+T810	Entity 188170 188183	Mr. Woodhouse
+R1053	Speaker Arg1:T810 Arg2:T809	
+R1054	Addressee Arg1:T807 Arg2:T809	
+T811	Quotation 188200 188322	"He had better not be in a hurry.  He seemed to me very well off as he was.  We were always glad to see him at Hartfield."
+R1055	Speaker Arg1:T810 Arg2:T811	
+R1056	Addressee Arg1:T807 Arg2:T811	
+T812	Quotation 188323 188368	"A new neighbour for us all, Miss Woodhouse!"
+T813	Cue 188369 188373	said
+T814	Entity 188374 188384	Miss Bates
+T815	Quotation 188396 188620	"my mother is so pleased!-- she says she cannot bear to have the poor old Vicarage without a mistress.  This is great news, indeed. Jane, you have never seen Mr. Elton!-- no wonder that you have such a curiosity to see him."
+R1057	Addressee Arg1:T814 Arg2:T811	
+R1058	Cueing Arg1:T813 Arg2:T812	
+R1059	Cueing Arg1:T813 Arg2:T815	
+R1060	Speaker Arg1:T814 Arg2:T812	
+R1061	Speaker Arg1:T814 Arg2:T815	
+R1062	Addressee Arg1:T810 Arg2:T812	
+T816	Quotation 188703 188739	"No -- I have never seen Mr. Elton,"
+T817	Entity 188740 188743	she
+T818	Cue 188744 188751	replied
+T819	Quotation 188778 188805	"is he-- is he a tall man?"
+R1063	Speaker Arg1:T817 Arg2:T816	
+R1064	Speaker Arg1:T817 Arg2:T819	
+R1065	Cueing Arg1:T818 Arg2:T816	
+R1066	Cueing Arg1:T818 Arg2:T819	
+R1067	Addressee Arg1:T814 Arg2:T816	
+R1068	Addressee Arg1:T814 Arg2:T819	
+T820	Quotation 188806 188839	"Who shall answer that question?"
+T821	Cue 188840 188845	cried
+T822	Entity 188846 188850	Emma
+R1069	Cueing Arg1:T821 Arg2:T820	
+R1070	Speaker Arg1:T822 Arg2:T820	
+R1071	Addressee Arg1:T817 Arg2:T820	
+T823	Quotation 188853 189115	"My father would say 'yes,' Mr. Knightley 'no;' and Miss Bates and I that he is just the happy medium.  When you have been here a little longer, Miss Fairfax, you will understand that Mr. Elton is the standard of perfection in Highbury, both in person and mind."
+R1072	Cueing Arg1:T821 Arg2:T823	
+R1073	Speaker Arg1:T822 Arg2:T823	
+R1074	Addressee Arg1:T817 Arg2:T823	
+T824	Quotation 189116 190102	"Very true, Miss Woodhouse, so she will.  He is the very best young man-- But, my dear Jane, if you remember, I told you yesterday he was precisely the height of Mr. Perry.  Miss Hawkins, -- I dare say, an excellent young woman.  His extreme attention to my mother-- wanting her to sit in the vicarage pew, that she might hear the better, for my mother is a little deaf, you know-- it is not much, but she does not hear quite quick.  Jane says that Colonel Campbell is a little deaf. He fancied bathing might be good for it-- the warm bath-- but she says it did him no lasting benefit.  Colonel Campbell, you know, is quite our angel.  And Mr. Dixon seems a very charming young man, quite worthy of him.  It is such a happiness when good people get together-- and they always do.  Now, here will be Mr. Elton and Miss Hawkins; and there are the Coles, such very good people; and the Perrys -- I suppose there never was a happier or a better couple than Mr. and Mrs. Perry.  I say, sir,"
+R1075	Addressee Arg1:T822 Arg2:T824	
+T825	Entity 190114 190127	Mr. Woodhouse
+R1076	Addressee Arg1:T825 Arg2:T824	
+R1077	Speaker Arg1:T814 Arg2:T824	
+T826	Quotation 190129 190358	"I think there are few places with such society as Highbury.  I always say, we are quite blessed in our neighbours.-- My dear sir, if there is one thing my mother loves better than another, it is pork -- a roast loin of pork -- "
+R1078	Addressee Arg1:T825 Arg2:T826	
+R1079	Speaker Arg1:T814 Arg2:T826	
+T827	Quotation 190359 190441	"As to who, or what Miss Hawkins is, or how long he has been acquainted with her,"
+T828	Cue 190442 190446	said
+T829	Entity 190447 190451	Emma
+T830	Quotation 190453 190576	"nothing I suppose can be known.  One feels that it cannot be a very long acquaintance.  He has been gone only four weeks."
+R1080	Cueing Arg1:T828 Arg2:T827	
+R1081	Cueing Arg1:T828 Arg2:T830	
+R1082	Speaker Arg1:T829 Arg2:T827	
+R1083	Speaker Arg1:T829 Arg2:T830	
+R1084	Addressee Arg1:T817 Arg2:T827	
+R1085	Addressee Arg1:T817 Arg2:T830	
+T831	Entity 190647 190651	Emma
+T832	Cue 190652 190656	said
+T833	Quotation 190658 190967	"You are silent, Miss Fairfax-- but I hope you mean to take an interest in this news.  You, who have been hearing and seeing so much of late on these subjects, who must have been so deep in the business on Miss Campbell's account-- we shall not excuse your being indifferent about Mr. Elton and Miss Hawkins."
+R1086	Cueing Arg1:T832 Arg2:T833	
+R1087	Speaker Arg1:T831 Arg2:T833	
+T834	Entity 191006 191010	Jane
+R1088	Addressee Arg1:T834 Arg2:T833	
+T835	Quotation 190968 190997	"When I have seen Mr. Elton,"
+T836	Cue 190998 191005	replied
+T837	Quotation 191012 191184	"I dare say I shall be interested-- but I believe it requires that with me.  And as it is some months since Miss Campbell married, the impression may be a little worn off."
+R1089	Cueing Arg1:T836 Arg2:T835	
+R1090	Cueing Arg1:T836 Arg2:T837	
+R1091	Speaker Arg1:T834 Arg2:T835	
+R1092	Speaker Arg1:T834 Arg2:T837	
+R1093	Addressee Arg1:T831 Arg2:T835	
+R1094	Addressee Arg1:T831 Arg2:T837	
+T838	Quotation 191185 191257	"Yes, he has been gone just four weeks, as you observe, Miss Woodhouse,"
+T839	Cue 191258 191262	said
+T840	Entity 191263 191273	Miss Bates
+T841	Quotation 191275 192110	"four weeks yesterday. -- A Miss Hawkins!-- Well, I had always rather fancied it would be some young lady hereabouts; not that I ever-- Mrs. Cole once whispered to me-- but I immediately said, 'No, Mr. Elton is a most worthy young man-- but'-- In short, I do not think I am particularly quick at those sort of discoveries.  I do not pretend to it.  What is before me, I see.  At the same time, nobody could wonder if Mr. Elton should have aspired-- Miss Woodhouse lets me chatter on, so good-humouredly. She knows I would not offend for the world.  How does Miss Smith do?  She seems quite recovered now.  Have you heard from Mrs. John Knightley lately?  Oh! those dear little children.  Jane, do you know I always fancy Mr. Dixon like Mr. John Knightley.  I mean in person-- tall, and with that sort of look-- and not very talkative."
+R1095	Cueing Arg1:T839 Arg2:T838	
+R1096	Cueing Arg1:T839 Arg2:T841	
+R1097	Speaker Arg1:T840 Arg2:T838	
+R1098	Speaker Arg1:T840 Arg2:T841	
+R1099	Addressee Arg1:T831 Arg2:T838	
+R1100	Addressee Arg1:T834 Arg2:T841	
+R1101	Addressee Arg1:T831 Arg2:T841	
+T842	Entity 191411 191420	Mrs. Cole
+T843	Entity 191448 191449	I
+T844	Cue 191462 191466	said
+T845	Quotation 191468 191516	'No, Mr. Elton is a most worthy young man-- but'
+R1102	Cueing Arg1:T844 Arg2:T845	
+R1103	Speaker Arg1:T843 Arg2:T845	
+R1104	Addressee Arg1:T842 Arg2:T845	
+T846	Quotation 192111 192168	"Quite wrong, my dear aunt; there is no likeness at all."
+R1106	Addressee Arg1:T840 Arg2:T846	
+R1105	Speaker Arg1:T834 Arg2:T846	
+T847	Quotation 192169 192344	"Very odd! but one never does form a just idea of any body beforehand. One takes up a notion, and runs away with it.  Mr. Dixon, you say, is not, strictly speaking, handsome?"
+R1107	Speaker Arg1:T840 Arg2:T847	
+R1108	Addressee Arg1:T834 Arg2:T847	
+T848	Quotation 192345 192423	"Handsome!  Oh! no-- far from it-- certainly plain.  I told you he was plain."
+R1109	Addressee Arg1:T840 Arg2:T848	
+R1110	Speaker Arg1:T834 Arg2:T848	
+T849	Quotation 192424 192521	"My dear, you said that Miss Campbell would not allow him to be plain, and that you yourself -- "
+R1111	Speaker Arg1:T840 Arg2:T849	
+R1112	Addressee Arg1:T834 Arg2:T849	
+T850	Quotation 192522 192703	"Oh! as for me, my judgment is worth nothing.  Where I have a regard, I always think a person well-looking. But I gave what I believed the general opinion, when I called him plain."
+R1113	Addressee Arg1:T840 Arg2:T850	
+R1114	Speaker Arg1:T834 Arg2:T850	
+T851	Quotation 192704 193575	"Well, my dear Jane, I believe we must be running away.  The weather does not look well, and grandmama will be uneasy.  You are too obliging, my dear Miss Woodhouse; but we really must take leave.  This has been a most agreeable piece of news indeed.  I shall just go round by Mrs. Cole's; but I shall not stop three minutes: and, Jane, you had better go home directly -- I would not have you out in a shower!-- We think she is the better for Highbury already.  Thank you, we do indeed. I shall not attempt calling on Mrs. Goddard, for I really do not think she cares for any thing but boiled pork: when we dress the leg it will be another thing.  Good morning to you, my dear sir.  Oh!  Mr. Knightley is coming too.  Well, that is so very! -- I am sure if Jane is tired, you will be so kind as to give her your arm.-- Mr. Elton, and Miss Hawkins!-- Good morning to you."
+R1115	Speaker Arg1:T840 Arg2:T851	
+R1116	Addressee Arg1:T834 Arg2:T851	
+T852	Quotation 194605 194658	"Oh! Miss Woodhouse, what do you think has happened!"
+T853	Entity 194491 194498	Harriet
+T854	Entity 194764 194768	Emma
+R1117	Speaker Arg1:T853 Arg2:T852	
+R1118	Addressee Arg1:T854 Arg2:T852	
+T855	Entity 196790 196793	she
+T856	Cue 196834 196839	asked
+T857	Entity 196840 196842	me
+T858	Quotation 196843 196852	how I did
+R1119	Speaker Arg1:T855 Arg2:T858	
+R1120	Cueing Arg1:T856 Arg2:T858	
+R1121	Addressee Arg1:T857 Arg2:T858	
+T859	Entity 197149 197150	I
+T860	Entity 197160 197163	she
+T861	Cue 197164 197168	said
+T862	Quotation 197169 197199	she was sorry we never met now
+R1122	Speaker Arg1:T859 Arg2:T862	
+R1123	Speaker Arg1:T860 Arg2:T862	
+R1124	Cueing Arg1:T861 Arg2:T862	
+T863	Entity 197654 197655	I
+T864	Cue 197674 197678	said
+T865	Quotation 197679 197709	it did not rain, and I must go
+R1125	Cueing Arg1:T864 Arg2:T865	
+R1126	Speaker Arg1:T863 Arg2:T865	
+T866	Entity 197533 197535	he
+R1127	Addressee Arg1:T866 Arg2:T865	
+T867	Entity 197779 197781	he
+T868	Entity 197793 197795	me
+T869	Cue 197805 197808	say
+T870	Quotation 197811 197958	f I was going to Hartfield, he thought I had much better go round by Mr. Cole's stables, for I should find the near way quite floated by this rain.
+R1128	Speaker Arg1:T867 Arg2:T870	
+R1129	Addressee Arg1:T868 Arg2:T870	
+R1130	Cueing Arg1:T869 Arg2:T870	
+T871	Entity 198019 198020	I
+T872	Cue 198021 198025	said
+T873	Quotation 198027 198057	I was very much obliged to him
+R1131	Cueing Arg1:T872 Arg2:T873	
+R1132	Speaker Arg1:T871 Arg2:T873	
+R1133	Addressee Arg1:T867 Arg2:T873	
+T874	Quotation 194905 198497	"She had set out from Mrs. Goddard's half an hour ago-- she had been afraid it would rain-- she had been afraid it would pour down every moment-- but she thought she might get to Hartfield first-- she had hurried on as fast as possible; but then, as she was passing by the house where a young woman was making up a gown for her, she thought she would just step in and see how it went on; and though she did not seem to stay half a moment there, soon after she came out it began to rain, and she did not know what to do; so she ran on directly, as fast as she could, and took shelter at Ford's."-- Ford's was the principal woollen-draper, linen-draper, and haberdasher's shop united; the shop first in size and fashion in the place.-- "And so, there she had set, without an idea of any thing in the world, full ten minutes, perhaps-- when, all of a sudden, who should come in-- to be sure it was so very odd!-- but they always dealt at Ford's-- who should come in, but Elizabeth Martin and her brother!-- Dear Miss Woodhouse! only think.  I thought I should have fainted.  I did not know what to do.  I was sitting near the door-- Elizabeth saw me directly; but he did not; he was busy with the umbrella.  I am sure she saw me, but she looked away directly, and took no notice; and they both went to quite the farther end of the shop; and I kept sitting near the door!-- Oh! dear; I was so miserable!  I am sure I must have been as white as my gown.  I could not go away you know, because of the rain; but I did so wish myself anywhere in the world but there.-- Oh! dear, Miss Woodhouse-- well, at last, I fancy, he looked round and saw me; for instead of going on with her buyings, they began whispering to one another.  I am sure they were talking of me; and I could not help thinking that he was persuading her to speak to me-- (do you think he was, Miss Woodhouse?)-- for presently she came forward-- came quite up to me, and asked me how I did, and seemed ready to shake hands, if I would.  She did not do any of it in the same way that she used; I could see she was altered; but, however, she seemed to try to be very friendly, and we shook hands, and stood talking some time; but I know no more what I said -- I was in such a tremble! -- I remember she said she was sorry we never met now; which I thought almost too kind!  Dear, Miss Woodhouse, I was absolutely miserable!  By that time, it was beginning to hold up, and I was determined that nothing should stop me from getting away-- and then-- only think!-- I found he was coming up towards me too-- slowly you know, and as if he did not quite know what to do; and so he came and spoke, and I answered-- and I stood for a minute, feeling dreadfully, you know, one can't tell how; and then I took courage, and said it did not rain, and I must go; and so off I set; and I had not got three yards from the door, when he came after me, only to say, if I was going to Hartfield, he thought I had much better go round by Mr. Cole's stables, for I should find the near way quite floated by this rain. Oh! dear, I thought it would have been the death of me!  So I said, I was very much obliged to him:  you know I could not do less; and then he went back to Elizabeth, and I came round by the stables -- I believe I did-- but I hardly knew where I was, or any thing about it.  Oh!  Miss Woodhouse, I would rather done any thing than have it happen:  and yet, you know, there was a sort of satisfaction in seeing him behave so pleasantly and so kindly.  And Elizabeth, too.  Oh!  Miss Woodhouse, do talk to me and make me comfortable again."
+T875	Entity 194842 194849	Harriet
+R1134	Speaker Arg1:T875 Arg2:T874	
+R1135	Addressee Arg1:T854 Arg2:T874	
+T876	Quotation 199535 199577	"It might be distressing, for the moment,"
+T877	Cue 199578 199582	said
+T878	Entity 199583 199586	she
+T879	Quotation 199588 199754	"but you seem to have behaved extremely well; and it is over-- and may never-- can never, as a first meeting, occur again, and therefore you need not think about it."
+R1136	Cueing Arg1:T877 Arg2:T876	
+R1137	Cueing Arg1:T877 Arg2:T879	
+R1138	Speaker Arg1:T878 Arg2:T876	
+R1139	Speaker Arg1:T878 Arg2:T879	
+T880	Entity 199755 199762	Harriet
+R1140	Addressee Arg1:T880 Arg2:T876	
+R1141	Addressee Arg1:T880 Arg2:T879	
+T881	Cue 199763 199767	said
+T882	Quotation 199769 199781	"very true,"
+T883	Quotation 199790 199817	"would not think about it;"
+R1142	Cueing Arg1:T881 Arg2:T883	
+R1143	Cueing Arg1:T881 Arg2:T882	
+R1144	Speaker Arg1:T880 Arg2:T882	
+R1145	Speaker Arg1:T880 Arg2:T883	

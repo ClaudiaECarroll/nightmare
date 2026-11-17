@@ -1,0 +1,34 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+54	64	66	66	Alice	3	‘ and what is the use of a book , ’
+67	73	66	66	Alice	3	‘ without pictures or conversations ? ’
+166	178	160	161	the Rabbit	3	‘ Oh dear ! Oh dear ! I shall be late ! ’
+486	489	480	480	she	3	‘ ORANGE MARMALADE ’
+530	533	535	535	Alice	3	‘ Well ! ’
+539	587	535	535	Alice	3	‘ after such a fall as this , I shall think nothing of tumbling down stairs ! How brave they ’ll all think me at home ! Why , I would n’t say anything about it , even if I fell off the top of the house ! ’
+611	624	625	625	she	3	‘ I wonder how many miles I ’ve fallen by this time ? ’
+629	656	625	625	she	3	‘ I must be getting somewhere near the centre of the earth . Let me see : that would be four thousand miles down , I think-- ’
+713	736	738	738	Alice	3	‘ --yes , that ’s about the right distance -- but then I wonder what Latitude or Longitude I ’ve got to ? ’
+766	801	762	762	she	3	‘ I wonder if I shall fall right THROUGH the earth ! How funny it ’ll seem to come out among the people that walk with their heads downward ! The Antipathies , I think-- ’
+827	857	762	762	she	3	‘ --but I shall have to ask them what the name of the country is , you know . Please , Ma’am , is this New Zealand or Australia ? ’
+872	887	865	865	she	3	’re falling through the air ! Do you think you could manage it ? ) ‘
+919	919	911	911	I	0	’
+940	954	934	934	Alice	3	‘ Dinah’ll miss me very much to - night , I should think ! ’
+962	999	934	934	Alice	3	‘ I hope they ’ll remember her saucer of milk at tea - time . Dinah my dear ! I wish you were down here with me ! There are no mice in the air , I ’m
+1029	1053	1026	1026	I	0	’ And here Alice began to get rather sleepy , and went on saying to herself , in a dreamy sort of way , ‘
+1064	1068	1026	1026	I	0	’ and sometimes , ‘
+1074	1130	1133	1133	Dinah	6	’ for , you see , as she could n’t answer either question , it did n’t much matter which way she put it . She felt that she was dozing off , and had just begun to dream that she was walking hand in hand with Dinah , and saying to her very earnestly , ‘
+1147	1172	1133	1133	Dinah	6	’ when suddenly , thump ! thump ! down she came upon a heap of sticks and dry leaves , and the fall was over .
+1255	1268	1269	1269	She	3	‘ Oh my ears and whiskers , how late it ’s getting ! ’
+1568	1578	1581	1581	Alice	3	‘ and even if my head would go through , ’
+1583	1621	1581	1581	Alice	3	‘ it would be of very little use without my shoulders . Oh , how I wish I could shut up like a telescope ! I think I could , if I only knew how to begin . ’
+1713	1721	1723	1723	Alice	3	‘ which certainly was not here before , ’
+1741	1744	1723	1723	Alice	3	‘ DRINK ME ’
+1760	1764	1766	1769	the wise little Alice	3	‘ Drink me , ’
+1780	1788	1789	1789	she	3	‘ No , I ’ll look first , ’
+1792	1804	1789	1789	she	3	‘ and see whether it ’s marked “ poison ” or not ’
+1898	1901	1884	1884	she	3	‘ poison , ’
+1922	1925	1973	1973	she	3	‘ poison , ’
+2000	2006	2008	2008	Alice	3	‘ What a curious feeling ! ’
+2010	2020	2008	2008	Alice	3	‘ I must be shutting up like a telescope . ’
+2090	2099	2101	2101	Alice	3	‘ for it might end , you know , ’
+2105	2125	2101	2101	Alice	3	‘ in my going out altogether , like a candle . I wonder what I should be like then ? ’

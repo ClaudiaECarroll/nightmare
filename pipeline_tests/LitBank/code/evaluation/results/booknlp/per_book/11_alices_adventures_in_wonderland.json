@@ -1,0 +1,174 @@
+{
+  "threshold": 0.9,
+  "TP": 14,
+  "FP": 18,
+  "FN": 5,
+  "n_pred": 32,
+  "n_gold": 19,
+  "matched_gold": 14,
+  "precision": 0.4375,
+  "recall": 0.7368421052631579,
+  "f1": 0.5490196078431372,
+  "predictions": [
+    {
+      "string": "andwhatistheuseofabook,",
+      "best_similarity": 0.4643,
+      "correct": false
+    },
+    {
+      "string": "withoutpicturesorconversations?",
+      "best_similarity": 0.4068,
+      "correct": false
+    },
+    {
+      "string": "Ohdear!Ohdear!Ishallbelate!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ORANGEMARMALADE",
+      "best_similarity": 0.069,
+      "correct": false
+    },
+    {
+      "string": "Well!",
+      "best_similarity": 0.32,
+      "correct": false
+    },
+    {
+      "string": "aftersuchafallasthis,Ishallthinknothingoftumblingdownstairs!Howbravetheyllallthinkmeathome!Why,Iwouldntsayanythingaboutit,evenifIfelloffthetopofthehouse!",
+      "best_similarity": 0.3707,
+      "correct": false
+    },
+    {
+      "string": "IwonderhowmanymilesIvefallenbythistime?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imustbegettingsomewherenearthecentreoftheearth.Letmesee:thatwouldbefourthousandmilesdown,Ithink--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "--yes,thatsabouttherightdistance--butthenIwonderwhatLatitudeorLongitudeIvegotto?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IwonderifIshallfallrightTHROUGHtheearth!Howfunnyitllseemtocomeoutamongthepeoplethatwalkwiththeirheadsdownward!TheAntipathies,Ithink--",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "--butIshallhavetoaskthemwhatthenameofthecountryis,youknow.Please,Maam,isthisNewZealandorAustralia?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "refallingthroughtheair!Doyouthinkyoucouldmanageit?)",
+      "best_similarity": 0.383,
+      "correct": false
+    },
+    {
+      "string": "Dinahllmissmeverymuchto-night,Ishouldthink!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihopetheyllrememberhersaucerofmilkattea-time.Dinahmydear!Iwishyouweredownherewithme!Therearenomiceintheair,Im",
+      "best_similarity": 0.7219,
+      "correct": false
+    },
+    {
+      "string": "AndhereAlicebegantogetrathersleepy,andwentonsayingtoherself,inadreamysortofway,",
+      "best_similarity": 0.3916,
+      "correct": false
+    },
+    {
+      "string": "andsometimes,",
+      "best_similarity": 0.4348,
+      "correct": false
+    },
+    {
+      "string": "for,yousee,asshecouldntanswereitherquestion,itdidntmuchmatterwhichwaysheputit.Shefeltthatshewasdozingoff,andhadjustbeguntodreamthatshewaswalkinghandinhandwithDinah,andsayingtoherveryearnestly,",
+      "best_similarity": 0.3636,
+      "correct": false
+    },
+    {
+      "string": "whensuddenly,thump!thump!downshecameuponaheapofsticksanddryleaves,andthefallwasover.",
+      "best_similarity": 0.3736,
+      "correct": false
+    },
+    {
+      "string": "Ohmyearsandwhiskers,howlateitsgetting!",
+      "best_similarity": 0.4615,
+      "correct": false
+    },
+    {
+      "string": "andevenifmyheadwouldgothrough,",
+      "best_similarity": 0.4127,
+      "correct": false
+    },
+    {
+      "string": "itwouldbeofverylittleusewithoutmyshoulders.Oh,howIwishIcouldshutuplikeatelescope!IthinkIcould,ifIonlyknewhowtobegin.",
+      "best_similarity": 0.3667,
+      "correct": false
+    },
+    {
+      "string": "whichcertainlywasnotherebefore,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DRINKME",
+      "best_similarity": 0.0952,
+      "correct": false
+    },
+    {
+      "string": "Drinkme,",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "No,Illlookfirst,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andseewhetheritsmarkedpoisonornot",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "poison,",
+      "best_similarity": 0.3478,
+      "correct": false
+    },
+    {
+      "string": "poison,",
+      "best_similarity": 0.3478,
+      "correct": false
+    },
+    {
+      "string": "Whatacuriousfeeling!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imustbeshuttinguplikeatelescope.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "foritmightend,youknow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "inmygoingoutaltogether,likeacandle.IwonderwhatIshouldbelikethen?",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

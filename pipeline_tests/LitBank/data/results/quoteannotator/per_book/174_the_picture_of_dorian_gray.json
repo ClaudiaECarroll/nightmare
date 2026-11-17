@@ -1,0 +1,174 @@
+{
+  "threshold": 0.9,
+  "TP": 32,
+  "FP": 0,
+  "FN": 0,
+  "n_pred": 32,
+  "n_gold": 32,
+  "matched_gold": 32,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "predictions": [
+    {
+      "string": "Itisyourbestwork,Basil,thebestthingyouhaveeverdone,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YoumustcertainlysenditnextyeartotheGrosvenor.TheAcademyistoolargeandtoovulgar.WheneverIhavegonethere,therehavebeeneithersomanypeoplethatIhavenotbeenabletoseethepictures,whichwasdreadful,orsomanypicturesthatIhavenotbeenabletoseethepeople,whichwasworse.TheGrosvenorisreallytheonlyplace.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IdontthinkIshallsenditanywhere,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,Iwontsenditanywhere.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Notsenditanywhere?Mydearfellow,why?Haveyouanyreason?Whatoddchapsyoupaintersare!Youdoanythingintheworldtogainareputation.Assoonasyouhaveone,youseemtowanttothrowitaway.Itissillyofyou,forthereisonlyonethingintheworldworsethanbeingtalkedabout,andthatisnotbeingtalkedabout.AportraitlikethiswouldsetyoufarabovealltheyoungmeninEngland,andmaketheoldmenquitejealous,ifoldmenareevercapableofanyemotion.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iknowyouwilllaughatme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butIreallycantexhibitit.Ihaveputtoomuchofmyselfintoit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,Iknewyouwould;butitisquitetrue,allthesame.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Toomuchofyourselfinit!Uponmyword,Basil,Ididntknowyouweresovain;andIreallycantseeanyresemblancebetweenyou,withyourruggedstrongfaceandyourcoal-blackhair,andthisyoungAdonis,wholooksasifhewasmadeoutofivoryandrose-leaves.Why,mydearBasil,heisaNarcissus,andyou--well,ofcourseyouhaveanintellectualexpressionandallthat.Butbeauty,realbeauty,endswhereanintellectualexpressionbegins.Intellectisinitselfamodeofexaggeration,anddestroystheharmonyofanyface.Themomentonesitsdowntothink,onebecomesallnose,orallforehead,orsomethinghorrid.Lookatthesuccessfulmeninanyofthelearnedprofessions.Howperfectlyhideoustheyare!Except,ofcourse,intheChurch.ButthenintheChurchtheydontthink.Abishopkeepsonsayingattheageofeightywhathewastoldtosaywhenhewasaboyofeighteen,andasanaturalconsequencehealwayslooksabsolutelydelightful.Yourmysteriousyoungfriend,whosenameyouhavenevertoldme,butwhosepicturereallyfascinatesme,neverthinks.Ifeelquitesureofthat.Heissomebrainlessbeautifulcreaturewhoshouldbealwayshereinwinterwhenwehavenoflowerstolookat,andalwayshereinsummerwhenwewantsomethingtochillourintelligence.Dontflatteryourself,Basil:youarenotintheleastlikehim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youdontunderstandme,Harry,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "OfcourseIamnotlikehim.Iknowthatperfectlywell.Indeed,Ishouldbesorrytolooklikehim.Youshrugyourshoulders?Iamtellingyouthetruth.Thereisafatalityaboutallphysicalandintellectualdistinction,thesortoffatalitythatseemstodogthroughhistorythefalteringstepsofkings.Itisbetternottobedifferentfromonesfellows.Theuglyandthestupidhavethebestofitinthisworld.Theycansitattheireaseandgapeattheplay.Iftheyknownothingofvictory,theyareatleastsparedtheknowledgeofdefeat.Theyliveasweallshouldlive--undisturbed,indifferent,andwithoutdisquiet.Theyneitherbringruinuponothers,noreverreceiveitfromalienhands.Yourrankandwealth,Harry;mybrains,suchastheyare--myart,whateveritmaybeworth;DorianGraysgoodlooks--weshallallsufferforwhatthegodshavegivenus,sufferterribly.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DorianGray?Isthathisname?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,thatishisname.Ididntintendtotellittoyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butwhynot?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,Icantexplain.WhenIlikepeopleimmensely,Inevertelltheirnamestoanyone.Itislikesurrenderingapartofthem.Ihavegrowntolovesecrecy.Itseemstobetheonethingthatcanmakemodernlifemysteriousormarvelloustous.Thecommonestthingisdelightfulifoneonlyhidesit.WhenIleavetownnowInevertellmypeoplewhereIamgoing.IfIdid,Iwouldloseallmypleasure.Itisasillyhabit,Idaresay,butsomehowitseemstobringagreatdealofromanceintooneslife.Isupposeyouthinkmeawfullyfoolishaboutit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Notatall,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "notatall,mydearBasil.YouseemtoforgetthatIammarried,andtheonecharmofmarriageisthatitmakesalifeofdeceptionabsolutelynecessaryforbothparties.Ineverknowwheremywifeis,andmywifeneverknowswhatIamdoing.Whenwemeet--wedomeetoccasionally,whenwedineouttogether,orgodowntotheDukes--wetelleachotherthemostabsurdstorieswiththemostseriousfaces.Mywifeisverygoodatit--muchbetter,infact,thanIam.Shenevergetsconfusedoverherdates,andIalwaysdo.Butwhenshedoesfindmeout,shemakesnorowatall.Isometimeswishshewould;butshemerelylaughsatme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihatethewayyoutalkaboutyourmarriedlife,Harry,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ibelievethatyouarereallyaverygoodhusband,butthatyouarethoroughlyashamedofyourownvirtues.Youareanextraordinaryfellow.Youneversayamoralthing,andyouneverdoawrongthing.Yourcynicismissimplyapose.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Beingnaturalissimplyapose,andthemostirritatingposeIknow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IamafraidImustbegoing,Basil,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andbeforeIgo,IinsistonyouransweringaquestionIputtoyousometimeago.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatisthat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youknowquitewell.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idonot,Harry.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Iwilltellyouwhatitis.IwantyoutoexplaintomewhyyouwontexhibitDorianGrayspicture.Iwanttherealreason.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itoldyoutherealreason.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,youdidnot.Yousaiditwasbecausetherewastoomuchofyourselfinit.Now,thatischildish.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Harry,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "everyportraitthatispaintedwithfeelingisaportraitoftheartist,notofthesitter.Thesitterismerelytheaccident,theoccasion.Itisnothewhoisrevealedbythepainter;itisratherthepainterwho,onthecolouredcanvas,revealshimself.ThereasonIwillnotexhibitthispictureisthatIamafraidthatIhaveshowninitthesecretofmyownsoul.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andwhatisthat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwilltellyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}
