@@ -23,6 +23,7 @@ PROJECTS = {
     "LitBank": "litbank",
     "RiQuA": "riqua",
     "quote_annotator": "quoteannotator",
+    "nightmare": "nightmare",
 }
 
 HEADER = ["Book", "Pred", "Gold", "TP", "FP", "FN", "Prec", "Rec", "F1"]
