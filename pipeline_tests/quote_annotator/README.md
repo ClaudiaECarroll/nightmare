@@ -44,8 +44,8 @@ format) — see `load_gold_strings_from_xml()` in `code/evaluation/core.py`.
 character-level matching.)
 
 **Historical note:** three additional pipelines — a regex extractor
-("Claudia"), an R script ("DearReader"), and a second regex/notebook
-pipeline ("Muqing") — were also built and evaluated against this corpus at
+, an R script ("DearReader"), and a second regex/notebook
+pipeline — were also built and evaluated against this corpus at
 an earlier stage of the project (F1 0.791 / 0.766 / 0.740 respectively).
 That code, its intermediate output, and its results live in an older,
 pre-reorg sibling directory and were deliberately not migrated into this
