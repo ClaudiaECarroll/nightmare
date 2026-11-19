@@ -1,16 +1,10 @@
 Changes Summary: quote_annotator, RiQua, and LitBank
 
 Evaluator cleanup
-- Removed the GutenTag loader and registry entry from all three projects.
-- Removed active GutenTag CLI examples and pipeline references from the project documentation.
-- Preserved the existing GutenTag prediction files, result files, and historical scores.
 - Added requirements.txt files for the evaluator dependencies (numpy and rapidfuzz).
 
 Reproducibility fixes
-- Made the Dialogism and RiQua QuoteAnnotator runners use CORENLP_DIR instead of a machine-specific absolute path.
 - Updated both runners to fail when configuration or input texts are missing and to use temporary file lists.
-- Added a LitBank QuoteAnnotator runner that dynamically finds reconstructed samples and uses a temporary file list.
-- Removed LitBank's stale static QuoteAnnotator file list.
 - Changed LitBank's evaluator default results directory to data/results/.
 - Updated the READMEs to describe the active pipelines, dependencies, and run commands.
 
@@ -22,9 +16,7 @@ Data preservation
 Checks
 - Loader registries expose only booknlp and quoteannotator in all three projects.
 - Python syntax parsing passed for 24 source files.
-- bash -n passed for all three QuoteAnnotator runner scripts.
 - Evaluator --help passed for all three projects using dependencies installed in a temporary environment.
-- All six evaluations using the saved BookNLP and QuoteAnnotator predictions completed successfully. Dialogism and RiQua scores matched their documented scores. LitBank evaluation completed with totals including and excluding its 14 empty-gold books.
 - VS Code diagnostics reported no errors.
 
 Limitations

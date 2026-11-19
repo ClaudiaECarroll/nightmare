@@ -1,0 +1,58 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+0	62	118	118	said--'I	-1	' I am sorry , Miss Mowbray , that the ill state of health of the Marchioness prevents my having the pleasure of your company here . However my daughter , Lady Westhaven , will of course be happy to have you remain with her till you have fixed on some plan of life , or till you are of age . '
+63	93	95	96	Lord Westhaven	13	' Not only till Miss Mowbray is of age , my Lord , but ever , both Lady Westhaven and myself should be gratified by having her with us , '
+130	130	124	125	Lady Westhaven	12	'
+235	240	247	247	I	0	' Almost two years ! '
+280	280	271	271	you	-1	'
+281	289	291	291	she	-1	' A good morning to your Lordship , '
+300	309	311	312	Lord Westhaven	13	' Will you dine with us , Delamere ? '
+314	331	332	332	He	-1	' Yes ; and will go home with you now , and dress in Grosvenor street . '
+347	357	359	359	he	-1	' I never was less disposed in my life , '
+361	394	359	359	he	-1	' to rejoin a party , than I am to go back to those grave personages up stairs : it is with the utmost difficulty I command my temper to meet those Crofts '
+411	411	401	401	My	0	'
+412	417	419	420	Lord Westhaven	13	' Pooh , pooh ! '
+422	447	419	420	Lord Westhaven	13	' you are always taking unreasonable aversions . Your blood is always boiling at some body or other . I tell you , the Crofts '
+493	493	494	494	Delamere	15	'
+519	612	494	494	Delamere	15	' till he at length talked himself into a violent passion ; and Lord Westhaven with difficulty brought him to be calm by the time they had set down Mr. Newton and stopped at his own door . At the same instant Lord Westhaven 's coach arrived there , a splendid chariot , most elegantly decorated , came up also . Delamere , struck with its brilliancy , examined the arms and saw his own : looking into it , he changed countenance , and said to Lord Westhaven--'Upon my word ! Crofts '
+622	622	619	620	de Bellozane	19	'
+623	625	619	620	de Bellozane	19	' Crofts '
+628	628	619	620	de Bellozane	19	'
+629	645	619	620	de Bellozane	19	' Aye . I mean the woman who was once Fanny Delamere , my sister . '
+646	664	619	620	de Bellozane	19	' Come , Delamere , forget these heartburnings , and remember that she is your sister still . '
+665	691	619	620	de Bellozane	19	' I should be glad to know ( if it were worth my while to enquire ) what business Bellozane has with _ her _ ? '
+735	743	724	724	his	-1	' your servant , Lady Frances Crofts ! '
+886	898	875	875	I	0	' This speech was accompanied by a significant smile directed to Bellozane .
+1091	1091	1088	1088	he	-1	'
+1092	1170	1172	1172	he	-1	' Mr. Crofts ? Oh ! I know very little of him . At this time of the year we never meet . _ He _ lives , you know , in Burlington street , and _ I _ live at Belleville ; and if he comes thither , as he sometimes does of a Friday or Saturday , he finds me too much engaged to know whether he is there or not . I believe , tho '
+1207	1207	1202	1202	he	-1	'
+1208	1216	1218	1219	the Chevalier	-1	' _ O ! assurement oui _ , '
+1223	1239	1218	1219	the Chevalier	-1	' _ Monsieur Croff a toujours beaucoup de vivacité_.--_C'est un homme fort amusant ce Monsieur Croff._'[43 ]
+1268	1280	1263	1264	Lady Frances	16	' Well ! but now I assure you , Augusta , I 'm
+1293	1294	1263	1264	Lady Frances	16	' '
+1350	1350	1343	1343	I	0	'
+1351	1359	1361	1362	Lady Westhaven	12	' That is being really very kind , '
+1364	1406	1361	1362	Lady Westhaven	12	' But since you are so tenderly disposed towards your own family , would it not be well if you were to enquire after my mother ? You know , I suppose , how very ill she is ; how much worse '
+1413	1413	1361	1362	Lady Westhaven	12	'
+1414	1422	1424	1425	Lady Frances	16	' Yes , I shall certainly call , '
+1434	1459	1424	1425	Lady Frances	16	' before I go home . But as to her illness , you are frightened at nothing : she has only her old complaints . '
+1460	1510	1361	1362	Lady Westhaven	12	' Her old complaints ! And are not they enough ? If _ I _ were in a situation to be useful to her ; or even as it is , if Lord Westhaven would permit me , I should certainly think it my duty constantly to attend her . '
+1511	1557	1558	1558	you	-1	' Probably you might . And it is equally probable that it would be of no use if you did . She has Brackley , and all her own people about her ; and no more _ could _ be done for her , even tho '
+1606	1606	1629	1630	Lord Westhaven	13	'
+1638	1681	1629	1630	Lord Westhaven	13	' Augusta , my love , your sister is too brilliant for you . You have not acquired that last polish of high life , which quite effaces all other feelings ; nor will you , perhaps , ever arrive at it . '
+1682	1690	1692	1693	Lady Westhaven	12	' God forbid that I ever should ! '
+1701	1705	1707	1708	Lady Frances	16	' Poor thing ! '
+1808	1854	1799	1799	you	-1	' She then rang the bell for her carriage ; which being soon ready , she gaily wished her sister good day , and the Chevalier handed her down stairs ; where , as she descended , she said , loud enough to be heard , '
+2222	2227	2229	2229	he	-1	' But my Lord , '
+2231	2270	2229	2229	he	-1	' if your Lordship will allow me to visit here as Miss Mowbray 's favoured lover , I will not only drop the acquaintance of Lady Frances , but will put myself entirely under your Lordship 's direction . '
+2330	2330	2322	2322	you	-1	'
+2454	2460	2462	2462	she	-1	' The air of London , '
+2464	2586	2462	2462	she	-1	' is not good for my child : I can not help fancying he droops already . And the noise of a house where there are unavoidably so many visitors , and such a multitude of servants , is too much for my spirits . As Lord Westhaven is desirous of my staying in London till my sister Clancarryl arrives , that we may meet all together after being so many years divided , I will not press my return to East Cliff ; but I wish he would allow me to go to some village near London , where I may occasionally enjoy solitude and silence ; for I have that upon my heart , Emmeline , that demands both . '
+2678	2688	2659	2659	she	-1	' _ To the Honourable George Fitz - Edward . _
+2689	2704	2659	2659	she	-1	' I have thus long forborne to answer your letter , because I have not '
+2735	2823	2659	2659	she	-1	' That you yet _ love _ me well enough to solicit my hand , is I own most soothing and consolatory : but where , Fitz - Edward , is the Lethean cup , without which you can not _ esteem _ me?--without which , I can not esteem myself ? No ! I am not worthy the honour of being your wife ! It is fit my fault be punished -- punished by the cruel obligation it lays me under of renouncing the man I love !
+2824	2924	2659	2659	she	-1	' Fitz - Edward , I will not dissemble ! I can not , if I would ! My affection for you is become a part of my existence , and can end but in the grave . Under the dread of your infidelity or your danger , my reason was too weak to support me : now that I have no longer any apprehensions of either , my reason is returned -- it is returned to shew me all my wretchedness , and to afford me that light by which I must plunge a dagger into my own bosom .
+2925	3005	2659	2659	she	-1	' Had I , however , no objections on my own account , there is one that on another appears insuperable . Were the marriage you solicit to take place , and to be followed by a family , could I bear that my William , the delight and support of my life , should be as an alien in his father 's house , and either appear as the son of Godolphin or learn to blush for his mother !
+3006	3037	2659	2659	she	-1	' We must part , Fitz - Edward ! Indeed we must ! Or if we are obliged to meet , do you at least forget that we ever met before .
+3038	3142	2659	2659	she	-1	' I know that the daughter of Lord Westhaven , in youth , beauty , and innocence , would not have been , however portionless , unworthy of you . But what would you receive in the widow of Trelawny ? A mind unsettled by guilt and sorrow ; spirits which have lost all relish for felicity ; a blemished , if not a ruined reputation , a faded person , and an exhausted heart -- exhausted of almost every sentiment but that so fatally predominant ; which now forces me to blot my paper with tears , as I write this last farewel !
+3143	3169	2659	2659	she	-1	' Farewel ! most beloved Fitz - Edward!--Ah ! try if it be possible to be happy ! Be assured I wish it ; even tho '
+3190	3190	3187	3188	ADELINA TRELAWNY	33	'

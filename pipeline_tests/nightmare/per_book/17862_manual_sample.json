@@ -1,0 +1,79 @@
+{
+  "threshold": 0.9,
+  "TP": 10,
+  "FP": 3,
+  "FN": 1,
+  "n_pred": 13,
+  "n_gold": 10,
+  "matched_gold": 9,
+  "precision": 0.7692307692307693,
+  "recall": 0.9090909090909091,
+  "f1": 0.8333333333333333,
+  "predictions": [
+    {
+      "string": "Pshaw!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "haveyounotdonewithdreaming?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "----Ah,Isaac,",
+      "best_similarity": 0.8182,
+      "correct": false
+    },
+    {
+      "string": "allthatisexhausted;youhaverungsomanychangesonyourhopesandyourdreams,thatyouhavenothingleftbuttomakethemreal—ifyoucan.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "shufflingoffthismortalcoil,",
+      "best_similarity": 0.36,
+      "correct": false
+    },
+    {
+      "string": "Whatisthisalltobeabout?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aboutlove,andtoil,andduty,andsorrow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howmanytimeshaveyoubeeninlove,Isaac?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pshaw!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isaac,youareasadfellow!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "else—badfellow.",
+      "best_similarity": 0.5263,
+      "correct": false
+    },
+    {
+      "string": "Ah,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thereis,afterall,butoneyouth-time;andifyouputdownitsmemoriesonce,youcanfindnosecondgrowth.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

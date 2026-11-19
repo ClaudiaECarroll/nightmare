@@ -1,0 +1,99 @@
+{
+  "threshold": 0.9,
+  "TP": 17,
+  "FP": 0,
+  "FN": 0,
+  "n_pred": 17,
+  "n_gold": 18,
+  "matched_gold": 18,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "predictions": [
+    {
+      "string": "Hereisourcaptain,andhewillnotallowyoutoperishontheopensea.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "BeforeIcomeonboardyourvessel,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "willyouhavethekindnesstoinformmewhitheryouarebound?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Toseekonewhofledfromme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Anddidthemanwhomyoupursuedtravelinthesamefashion?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThenIfancywehaveseenhim,forthedaybeforewepickedyouupwesawsomedogsdrawingasledge,withamaninit,acrosstheice.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihave,doubtless,excitedyourcuriosity,aswellasthatofthesegoodpeople;butyouaretooconsideratetomakeinquiries.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Certainly;itwouldindeedbeveryimpertinentandinhumaninmetotroubleyouwithanyinquisitivenessofmine.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Andyetyourescuedmefromastrangeandperiloussituation;youhavebenevolentlyrestoredmetolife.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Unhappyman!Doyousharemymadness?Haveyoudrunkalsooftheintoxicatingdraught?Hearme;letmerevealmytale,andyouwilldashthecupfromyourlips!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iagreewithyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "weareunfashionedcreatures,buthalfmadeup,ifonewiser,better,dearerthanourselves—suchafriendoughttobe—donotlendhisaidtoperfectionateourweakandfaultynatures.Ioncehadafriend,themostnobleofhumancreatures,andamentitled,therefore,tojudgerespectingfriendship.Youhavehope,andtheworldbeforeyou,andhavenocausefordespair.ButI—Ihavelosteverythingandcannotbeginlifeanew.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youmayeasilyperceive,CaptainWalton,thatIhavesufferedgreatandunparalleledmisfortunes.Ihaddeterminedatonetimethatthememoryoftheseevilsshoulddiewithme,butyouhavewonmetoaltermydetermination.Youseekforknowledgeandwisdom,asIoncedid;andIardentlyhopethatthegratificationofyourwishesmaynotbeaserpenttostingyou,asminehasbeen.Idonotknowthattherelationofmydisasterswillbeusefultoyou;yet,whenIreflectthatyouarepursuingthesamecourse,exposingyourselftothesamedangerswhichhaverenderedmewhatIam,Iimaginethatyoumaydeduceanaptmoralfrommytale,onethatmaydirectyouifyousucceedinyourundertakingandconsoleyouincaseoffailure.Preparetohearofoccurrenceswhichareusuallydeemedmarvellous.WereweamongthetamerscenesofnatureImightfeartoencounteryourunbelief,perhapsyourridicule;butmanythingswillappearpossibleinthesewildandmysteriousregionswhichwouldprovokethelaughterofthoseunacquaintedwiththeever-variedpowersofnature;norcanIdoubtbutthatmytaleconveysinitsseriesinternalevidenceofthetruthoftheeventsofwhichitiscomposed.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ithankyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "foryoursympathy,butitisuseless;myfateisnearlyfulfilled.Iwaitbutforoneevent,andthenIshallreposeinpeace.Iunderstandyourfeeling,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butyouaremistaken,myfriend,ifthusyouwillallowmetonameyou;nothingcanaltermydestiny;listentomyhistory,andyouwillperceivehowirrevocablyitisdetermined.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

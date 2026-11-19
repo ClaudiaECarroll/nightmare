@@ -1,0 +1,299 @@
+{
+  "threshold": 0.9,
+  "TP": 26,
+  "FP": 31,
+  "FN": 14,
+  "n_pred": 57,
+  "n_gold": 40,
+  "matched_gold": 26,
+  "precision": 0.45614035087719296,
+  "recall": 0.65,
+  "f1": 0.5360824742268041,
+  "predictions": [
+    {
+      "string": "Iamsorry,MissMowbray,thattheillstateofhealthoftheMarchionesspreventsmyhavingthepleasureofyourcompanyhere.Howevermydaughter,LadyWesthaven,willofcoursebehappytohaveyouremainwithhertillyouhavefixedonsomeplanoflife,ortillyouareofage.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "NotonlytillMissMowbrayisofage,myLord,butever,bothLadyWesthavenandmyselfshouldbegratifiedbyhavingherwithus,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Almosttwoyears!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "AgoodmorningtoyourLordship,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Willyoudinewithus,Delamere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes;andwillgohomewithyounow,anddressinGrosvenorstreet.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ineverwaslessdisposedinmylife,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "torejoinaparty,thanIamtogobacktothosegravepersonagesupstairs:itiswiththeutmostdifficultyIcommandmytempertomeetthoseCrofts",
+      "best_similarity": 0.8013,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Pooh,pooh!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youarealwaystakingunreasonableaversions.Yourbloodisalwaysboilingatsomebodyorother.Itellyou,theCrofts",
+      "best_similarity": 0.5391,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "tillheatlengthtalkedhimselfintoaviolentpassion;andLordWesthavenwithdifficultybroughthimtobecalmbythetimetheyhadsetdownMr.Newtonandstoppedathisowndoor.AtthesameinstantLordWesthavenscoacharrivedthere,asplendidchariot,mostelegantlydecorated,cameupalso.Delamere,struckwithitsbrilliancy,examinedthearmsandsawhisown:lookingintoit,hechangedcountenance,andsaidtoLordWesthaven--Uponmyword!Crofts",
+      "best_similarity": 0.3869,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Crofts",
+      "best_similarity": 0.7059,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Aye.ImeanthewomanwhowasonceFannyDelamere,mysister.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Come,Delamere,forgettheseheartburnings,andrememberthatsheisyoursisterstill.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishouldbegladtoknow(ifitwereworthmywhiletoenquire)whatbusinessBellozanehaswith_her_?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "yourservant,LadyFrancesCrofts!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThisspeechwasaccompaniedbyasignificantsmiledirectedtoBellozane.",
+      "best_similarity": 0.4103,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Mr.Crofts?Oh!Iknowverylittleofhim.Atthistimeoftheyearwenevermeet._He_lives,youknow,inBurlingtonstreet,and_I_liveatBelleville;andifhecomesthither,ashesometimesdoesofaFridayorSaturday,hefindsmetoomuchengagedtoknowwhetherheisthereornot.Ibelieve,tho",
+      "best_similarity": 0.814,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "_O!assurementoui_,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "_MonsieurCroffatoujoursbeaucoupdevivacité_.--_CestunhommefortamusantceMonsieurCroff._[43]",
+      "best_similarity": 0.977,
+      "correct": true
+    },
+    {
+      "string": "Well!butnowIassureyou,Augusta,Im",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Thatisbeingreallyverykind,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butsinceyouaresotenderlydisposedtowardsyourownfamily,woulditnotbewellifyouweretoenquireaftermymother?Youknow,Isuppose,howveryillsheis;howmuchworse",
+      "best_similarity": 0.9419,
+      "correct": true
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Yes,Ishallcertainlycall,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "beforeIgohome.Butastoherillness,youarefrightenedatnothing:shehasonlyheroldcomplaints.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Heroldcomplaints!Andarenottheyenough?If_I_wereinasituationtobeusefultoher;orevenasitis,ifLordWesthavenwouldpermitme,Ishouldcertainlythinkitmydutyconstantlytoattendher.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Probablyyoumight.Anditisequallyprobablethatitwouldbeofnouseifyoudid.ShehasBrackley,andallherownpeopleabouther;andnomore_could_bedoneforher,eventho",
+      "best_similarity": 0.6728,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Augusta,mylove,yoursisteristoobrilliantforyou.Youhavenotacquiredthatlastpolishofhighlife,whichquiteeffacesallotherfeelings;norwillyou,perhaps,everarriveatit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "GodforbidthatIevershould!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Poorthing!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shethenrangthebellforhercarriage;whichbeingsoonready,shegailywishedhersistergoodday,andtheChevalierhandedherdownstairs;where,asshedescended,shesaid,loudenoughtobeheard,",
+      "best_similarity": 0.4178,
+      "correct": false
+    },
+    {
+      "string": "ButmyLord,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ifyourLordshipwillallowmetovisithereasMissMowbraysfavouredlover,IwillnotonlydroptheacquaintanceofLadyFrances,butwillputmyselfentirelyunderyourLordshipsdirection.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "TheairofLondon,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "isnotgoodformychild:Icannothelpfancyinghedroopsalready.Andthenoiseofahousewherethereareunavoidablysomanyvisitors,andsuchamultitudeofservants,istoomuchformyspirits.AsLordWesthavenisdesirousofmystayinginLondontillmysisterClancarrylarrives,thatwemaymeetalltogetherafterbeingsomanyyearsdivided,IwillnotpressmyreturntoEastCliff;butIwishhewouldallowmetogotosomevillagenearLondon,whereImayoccasionallyenjoysolitudeandsilence;forIhavethatuponmyheart,Emmeline,thatdemandsboth.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "_TotheHonourableGeorgeFitz-Edward._",
+      "best_similarity": 0.3607,
+      "correct": false
+    },
+    {
+      "string": "Ihavethuslongforbornetoansweryourletter,becauseIhavenot",
+      "best_similarity": 0.3885,
+      "correct": false
+    },
+    {
+      "string": "Thatyouyet_love_mewellenoughtosolicitmyhand,isIownmostsoothingandconsolatory:butwhere,Fitz-Edward,istheLetheancup,withoutwhichyoucannot_esteem_me?--withoutwhich,Icannotesteemmyself?No!Iamnotworthythehonourofbeingyourwife!Itisfitmyfaultbepunished--punishedbythecruelobligationitlaysmeunderofrenouncingthemanIlove!",
+      "best_similarity": 0.3884,
+      "correct": false
+    },
+    {
+      "string": "Fitz-Edward,Iwillnotdissemble!Icannot,ifIwould!Myaffectionforyouisbecomeapartofmyexistence,andcanendbutinthegrave.Underthedreadofyourinfidelityoryourdanger,myreasonwastooweaktosupportme:nowthatIhavenolongeranyapprehensionsofeither,myreasonisreturned--itisreturnedtoshewmeallmywretchedness,andtoaffordmethatlightbywhichImustplungeadaggerintomyownbosom.",
+      "best_similarity": 0.3881,
+      "correct": false
+    },
+    {
+      "string": "HadI,however,noobjectionsonmyownaccount,thereisonethatonanotherappearsinsuperable.Werethemarriageyousolicittotakeplace,andtobefollowedbyafamily,couldIbearthatmyWilliam,thedelightandsupportofmylife,shouldbeasanalieninhisfathershouse,andeitherappearasthesonofGodolphinorlearntoblushforhismother!",
+      "best_similarity": 0.4104,
+      "correct": false
+    },
+    {
+      "string": "Wemustpart,Fitz-Edward!Indeedwemust!Orifweareobligedtomeet,doyouatleastforgetthatweevermetbefore.",
+      "best_similarity": 0.3612,
+      "correct": false
+    },
+    {
+      "string": "IknowthatthedaughterofLordWesthaven,inyouth,beauty,andinnocence,wouldnothavebeen,howeverportionless,unworthyofyou.ButwhatwouldyoureceiveinthewidowofTrelawny?Amindunsettledbyguiltandsorrow;spiritswhichhavelostallrelishforfelicity;ablemished,ifnotaruinedreputation,afadedperson,andanexhaustedheart--exhaustedofalmosteverysentimentbutthatsofatallypredominant;whichnowforcesmetoblotmypaperwithtears,asIwritethislastfarewel!",
+      "best_similarity": 0.3784,
+      "correct": false
+    },
+    {
+      "string": "Farewel!mostbelovedFitz-Edward!--Ah!tryifitbepossibletobehappy!BeassuredIwishit;eventho",
+      "best_similarity": 0.3509,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    }
+  ]
+}

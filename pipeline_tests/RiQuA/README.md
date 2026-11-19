@@ -27,7 +27,7 @@ data/raw/
         │
         │  each pipeline, run independently (see Pipelines below)
         ▼
-data/intermediate/{BookNLP,QuoteAnnotator}_output/
+data/intermediate/BookNLP_output/
         │
         │  code/evaluation/evaluate.py <pipeline> --data-path ...
         ▼
@@ -43,28 +43,25 @@ the evaluator's expected file naming — not a separate data source.)
 
 | Pipeline | Driver | Precision | Recall | F1 |
 |---|---|---|---|---|
-| BookNLP | `code/classification/BookNLP/run_riqua.py` — modern **Python** `booknlp` package (not the vendored Java jar LitBank uses) | 0.856 | 0.834 | 0.845 |
-| QuoteAnnotator | `code/classification/QuoteAnnotator/run_riqua.sh` — Stanford CoreNLP `quote` annotator | 0.919 | 0.911 | 0.915 |
+| BookNLP | `code/classification/BookNLP/run_riqua.py` — modern **Python** `booknlp` package | 0.856 | 0.834 | 0.845 |
 
 (5,963 gold quotes total across the 15 books; threshold 0.90, RapidFuzz character-level matching — see `code/evaluation/core.py`.)
 
-GutenTag was evaluated previously (precision 0.968, recall 0.771, F1 0.858),
-but its driver lives outside this project and is not registered by the current
-evaluator. Its existing prediction and result snapshots are retained.
+BookNLP setup (tested with Python 3.10): `pip install booknlp torch "setuptools<81"` and
+`pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl`.
+BookNLP downloads its "small" models into `~/booknlp_models` on first run.
 
 ## Running an evaluation
 
 ```bash
 cd code/evaluation
 python evaluate.py booknlp        --data-path ../../data/intermediate/BookNLP_output
-python evaluate.py quoteannotator --data-path ../../data/intermediate/QuoteAnnotator_output
 ```
 `--ann-dir` defaults to `data/raw/labels`, so it can be omitted. See
 `code/README.md` for the full CLI reference.
 
 Re-running a pipeline itself:
 - `python code/classification/BookNLP/run_riqua.py`
-- `bash code/classification/QuoteAnnotator/run_riqua.sh` (builds a temporary file list on each run)
 
 ## Adding a new pipeline
 

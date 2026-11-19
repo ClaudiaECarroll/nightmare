@@ -15,10 +15,6 @@ Usage
     python evaluate.py booknlp \\
         --data-path ../../data/intermediate/BookNLP_output
 
-    # Evaluate QuoteAnnotator output (a directory of per-book JSON files):
-    python evaluate.py quoteannotator \\
-        --data-path ../../data/intermediate/QuoteAnnotator_output
-
     # Use a different similarity threshold:
     python evaluate.py booknlp \\
         --data-path ../../data/intermediate/BookNLP_output \\

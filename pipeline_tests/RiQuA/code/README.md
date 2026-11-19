@@ -6,10 +6,9 @@ Evaluates dialogue extraction against RiQua gold annotations using character-lev
 
 ```text
 classification/BookNLP/run_riqua.py
-classification/QuoteAnnotator/run_riqua.sh
 evaluation/evaluate.py
 evaluation/core.py
-evaluation/loaders/{booknlp,quoteannotator}.py
+evaluation/loaders/booknlp.py
 ```
 
 Reports are written under `data/results/` by default.
@@ -26,10 +25,9 @@ From `code/evaluation/`, evaluate saved predictions:
 
 ```bash
 python evaluate.py booknlp --data-path ../../data/intermediate/BookNLP_output
-python evaluate.py quoteannotator --data-path ../../data/intermediate/QuoteAnnotator_output
 ```
 
-Gold annotations are read from `data/raw/labels/` by default. BookNLP requires the Python `booknlp` package and downloads its model on first run. To rerun QuoteAnnotator, set `CORENLP_DIR` to the directory containing Stanford CoreNLP jars, then run `bash code/classification/QuoteAnnotator/run_riqua.sh`.
+Gold annotations are read from `data/raw/labels/` by default. BookNLP requires the Python `booknlp` package and downloads its model on first run.
 
 ## Scoring
 

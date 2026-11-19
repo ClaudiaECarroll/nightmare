@@ -1,0 +1,309 @@
+{
+  "threshold": 0.9,
+  "TP": 36,
+  "FP": 23,
+  "FN": 10,
+  "n_pred": 59,
+  "n_gold": 46,
+  "matched_gold": 36,
+  "precision": 0.6101694915254238,
+  "recall": 0.782608695652174,
+  "f1": 0.6857142857142858,
+  "predictions": [
+    {
+      "string": "Latttheyoungozebirdaloun,zayI.Makkzuchadoaboutun,wi",
+      "best_similarity": 0.359,
+      "correct": false
+    },
+    {
+      "string": "aleavoredinner-time,andhernottozitwi",
+      "best_similarity": 0.3774,
+      "correct": false
+    },
+    {
+      "string": "edoo,theovee,zuchapasselofvoouls.Do",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Business,youngman,inbusinesstime.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ohfie,MistressFry!begoodenoughtomindyourownbusiness.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wi",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "heansweredverygraciously,thinkingperhapsthatIwaspreparedtospeakconcerningSally.",
+      "best_similarity": 0.4204,
+      "correct": false
+    },
+    {
+      "string": "Now,FarmerNicholasSnowe,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youmustpromisenottobevexedwithme,forwhatIamgoingtosaytoyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Vaxedwi",
+      "best_similarity": 0.3077,
+      "correct": false
+    },
+    {
+      "string": "aveaknowedtheetoolongforthat.Andthyveytherweremybestfriend,aforethee.Neverwrongedhisneighbours,neverspakanunkindword,neverhadnomanenessinhim.Tukavancytoaniceyoung",
+      "best_similarity": 0.5529,
+      "correct": false
+    },
+    {
+      "string": "her.Ah,welladay!Ah,Godknowethbest.Inevershallzeehislaikeagain.Andhewerethebestjudgeofadung-heapanywhereinthiscounty.",
+      "best_similarity": 0.4296,
+      "correct": false
+    },
+    {
+      "string": "Well,MasterSnowe,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "itisveryhandsomeofyoutosayso.AndnowIamgoingtobelikemyfather,Iamgoingtospeakmymind.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Raightthere,lad;raightenough,Ireckon.Ushashadenoughofpralimbinary.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThenwhatIwanttosayisthis--Iwonthaveanyonecourtingmymother.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Coortin",
+      "best_similarity": 0.4667,
+      "correct": false
+    },
+    {
+      "string": "criedFarmerSnowe,withasmuchamazementasifthethingwereimpossible;",
+      "best_similarity": 0.375,
+      "correct": false
+    },
+    {
+      "string": "ofit?",
+      "best_similarity": 0.2941,
+      "correct": false
+    },
+    {
+      "string": "Yes,courtingofmymother,sir.Andyouknowbestwhocomesdoingit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wull,wull!Whatwillboysbeuptonext?Zhuda",
+      "best_similarity": 0.3918,
+      "correct": false
+    },
+    {
+      "string": "ee,lad,noneedofthylight.Knowthewaitomyowndoor,atlaste;andhavearaighttogoothere.",
+      "best_similarity": 0.6723,
+      "correct": false
+    },
+    {
+      "string": "ServiceoftheKing!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "serviceofourlordtheKing!Comehither,thougreatyokel,atriskoffineandimprisonment.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "PloverBarrowsfarm!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "GodonlyknowshowtiredIbe.IsthereanywhereinthiscursedcountyacursedplacecalledPloverBarrowsfarm?Forlasttwentymileatleasttheytoldme",
+      "best_similarity": 0.6959,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youshallnothavethetrouble.ThisisPloversBarrowsfarm,andyouarekindlywelcome.Sheepskidneysisforsupper,andthealegotbrightfromthetapping.Butwhydoyouthinkillofus?Welikenottobecursedso.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nay,Ithinknoill,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "sheepskidneysisgood,uncommongood,iftheydothemwithoutburning.ButIbesogalledinthesaddletendays,andneveracomelymealofit.AndwhentheyhearKingsservicecried,theygivemetheworstofeverything.AllthewaydownfromLondon,Ihadarogueofafellowinfrontofme,eatingthefatofthelandbeforeme,andeveryonebowingdowntohim.Hecouldgothreemilestomyonethoughheneverchangedhishorse.Hemighthaverobbedmeatanyminute,ifIhadbeenworththetrouble.Aredmareherideth,strongintheloins,andpointedquitesmallinthehead.Ishalllivetoseehimhangedyet.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Annie,havedownthecutham,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andcutafewrashersofhungdeersmeat.Thereisagentlemancometosup,Annie.Andfetchthehopsoutofthetapwithaskewerthatitmayrunmoresparkling.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IwishImaygotoaplacenevermeantforme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ifeverIfellamongsuchgoodfolk.Youaretherightsort,andnoerrortherein.Allthisshallgoinyourfavourgreatly,whenImakedeposition.Atleast,Imean,ifitbeasgoodintheeatingasinthehearing.",
+      "best_similarity": 0.7197,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Tobesureitis,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whereshouldwegetanyother?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Right,right,youareright,myson.Ihaveheardthattheflavourismarvellous.Someofthemcameandscaredmeso,inthefogofthemorning,thatIhungeredforthemeversince.Ha,ha,Isawtheirhaunches.Buttheyoungladywillnotforget--artsureshewillnotforgetit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youmaytrusthertoforgetnothing,sir,thatmaytemptaguesttohiscomfort.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Infaith,then,Iwillleavemyhorseinyourhands,andbeoffforit.Halfthepleasureofthemouthisinthenosebeforehand.Butstay,almostIforgotmybusiness,inthehurrywhichthytonguehathspreadthroughmylatelydespairingbelly.HungryIam,andsoreofbody,frommyheelsrightupward,andsorestinfrontofmydoublet,yetmayInotrestnorbitebarley-bread,untilIhaveseenandtouchedJohnRidd.Godgrantthathebenotfaraway;Imusteatmysaddle,ifitbeso.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Havenofear,goodsir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youhaveseenandtouchedJohnRidd.Iamhe,andnotonelikelytogobeneathabushel.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itwouldtakealargebusheltoholdthee,JohnRidd.InthenameoftheKing,HisMajesty,CharlestheSecond,thesepresents!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Read,myson;read,thougreatfool,ifindeedthoucanstread,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thereisnothingtokillthee,boy,andmysupperwillbespoiling.Starenotatmeso,thoufool;thouartbigenoughtoeatme;read,read,read.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifyouplease,sir,whatisyourname?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "JeremySticklesismyname,lad,nothingmorethanapoorapparitoroftheworshipfulCourtofKingsBench.Andatthismomentastarvingone,andnosupperformeunlessthouwiltread.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Toourgoodsubject,JohnRidd,etc.--describing",
+      "best_similarity": 0.3836,
+      "correct": false
+    },
+    {
+      "string": "Andthentherewerefourseals,andthenasignatureIcouldnotmakeout,onlythatitbeganwithaJ,andendedwithsomeotherwriting,donealmostinacircle.Underneathwasaddedinadifferenthandwriting",
+      "best_similarity": 0.4186,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Ride,Ride,Ride!OnHisGraciousMajestysbusiness;spurandsparenot.",
+      "best_similarity": 0.3741,
+      "correct": false
+    },
+    {
+      "string": "Myson,benotafraid,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "wearenotgoingtoskinthee.Onlythoutellallthetruth,anditshallbe--butnevermind,Iwilltelltheeallaboutit,andhowtocomeoutharmless,ifIfindthyvictualsgood,andnodelayinservingthem.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wedoourbest,sir,withoutbargain,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "topleaseourvisitors.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itwasuselesstotellher;sheknewwhatitwas,andsoshouldalltheparishknow.TheKinghadheardwhathersonwas,howsober,andquiet,anddiligent,andthestrongestyoungmaninEngland;andbeinghimselfsuchareprobate--Godforgiveherforsayingso--hecouldneverresttillhegotpoorJohnny,andmadehimasdissoluteashimself.Andifhedidthat--heremotherwentoffintoafitofcrying;andAnniemindedherface,whileLizziesawthathergownwasincomelyorder.",
+      "best_similarity": 0.8559,
+      "correct": false
+    },
+    {
+      "string": "HisMajestyshallhavemyJohn;HisMajestyisverygood:butonlyforafortnight.Iwantnotitlesforhim.Johnnyisenoughforme;andMasterJohnfortheworkingmen.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

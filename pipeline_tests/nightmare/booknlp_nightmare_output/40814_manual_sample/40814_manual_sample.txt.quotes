@@ -1,0 +1,70 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+2	12	14	14	Harry	2	“ You will be happy here , dear Ruth , ”
+16	24	14	14	Harry	2	“ you will be your own mistress . ”
+231	238	228	228	Ruth	1	“ All the better for that . ”
+447	450	451	451	she	-1	“ silly ; ”
+470	473	451	451	she	-1	“ frivolous ; ”
+1135	1138	1140	1141	the doctor	-1	“ Well , ”
+1160	1201	1140	1141	the doctor	-1	“ I hope you ’ll be easy , Mis . Hall , now that we ’ve toted out here , bag and baggage , to please you , when I supposed I was settled for the rest of my life . ”
+1202	1225	1227	1229	the old lady	-1	“ Fathers ca n’t be expected to have as much natural affection , or to be as self - sacrificing as mothers , ”
+1231	1291	1227	1229	the old lady	-1	“ Of course , it was some trouble to move out here ; but , for Harry ’s sake , I was willing to do it . What does Ruth know about house - keeping , I ’d like to know ? A pretty muss she ’ll make of it , if I ’m not around to oversee things . ”
+1292	1297	1299	1300	the doctor	-1	“ It strikes me , ”
+1302	1354	1299	1300	the doctor	-1	“ that you wo n’t get any thanks for it — from one side of the house , at least . Ruth never says anything when you vex her , but there ’s a look in her eye which — well , Mis . Hall , it tells the whole story . ”
+1358	1364	1366	1368	the old lady	-1	“ I ’ve seen it , ”
+1380	1533	1366	1368	the old lady	-1	“ and it has provoked me a thousand times more than if she had thrown a brick - bat at my head . That girl is no fool , doctor . She knows very well what she is about : but diamond cut diamond , I say . Doctor , doctor , there are the hens in the garden . I want that garden kept nice . I suppose Ruth thinks that nobody can have flowers but herself . Wait till my china - asters and sweet peas come up . I ’m going over to - day to take a peep round her house ; I wonder what it looks like ? Stuck full of gimcracks , of all sorts , I ’ll warrant . Well , I sha n’t furnish my best parlor till I see what she has got . I ’ve laid by a little money , and — ”
+1534	1546	1548	1549	the doctor	-1	“ Better give it to the missionaries , Mis . Hall , ”
+1551	1568	1548	1549	the doctor	-1	“ I tell you Ruth do n’t care a pin what you have in your parlor . ”
+1569	1576	1578	1580	the old lady	-1	“ Do n’t you believe it , ”
+1582	1587	1589	1590	the doctor	-1	“ Well , anyhow , ”
+1592	1664	1589	1590	the doctor	-1	“ you ca n’t get the upper hand of her in that line ; i. e. , if she has a mind that you shall not . Harry is doing a very good business ; and you know very well , it is no use to try to blind your eyes to it , that if she wanted Queen Victoria ’s sceptre , he ’d manage to get it for her . ”
+1665	1676	1678	1680	the old lady	-1	“ That ’s more than I can say of you , ”
+1686	1775	1777	1779	the old lady	-1	“ for all that I used to mend your old saddle - bags , and once made , with my[54 ] own hands , a pair of leather small - clothes to ride horseback in . Forty years , doctor , I ’ve spent in your service . I do n’t look much as I did when you married me . I was said then to have ‘ woman ’s seven beauties , ’ including the ‘ dimple in the chin , ’ which I see still remains ; ”
+1790	1834	1777	1779	the old lady	-1	“ I might have had him that was Squire Smith , or Pete Packer , or Jim Jessup . There was n’t one of ’em who had not rather do the chores on our farm , than on any other in the village . ”
+1835	1840	1842	1843	the doctor	-1	“ Pooh , pooh , ”
+1845	1862	1842	1843	the doctor	-1	“ do n’t be an old fool ; that was because your father kept good cider . ”
+1898	1905	1891	1891	she	-1	“ that tells the whole story ! ”
+1912	1918	1920	1922	the old lady	-1	“ Asummer house , hey ! ”
+1948	1972	1933	1933	she	-1	“ a summer house ! that ’s the way the money goes , is it ? What have we here ? a book ; ”
+1989	2026	1933	1933	she	-1	“ poetry , I declare ! the most frivolous of all reading ; all pencil marked;—and here ’s something in Ruth ’s own hand - writing — that ’s poetry , too : worse and worse . ”
+2027	2074	2076	2078	the old lady	-1	“ Well , we ’ll see how the kitchen of this poetess looks . I will go into the house the back way , and take them by surprise ; that ’s the way to find people out . None of your company faces for me . ”
+2110	2152	2090	2090	she	-1	“ six milkpans!—wonder if they buy their milk , or keep a cow . If they buy it , it[56 ] must cost them something ; if they keep a cow , I ’ve no question the milk is half wasted . ”
+2268	2273	2275	2277	the old lady	-1	“ Is Ruth in ? ”
+2279	2284	2286	2286	Dinah	12	“ Who , Missis ? ”
+2288	2291	2286	2286	Dinah	12	“ Ruth . ”
+2292	2298	2300	2300	Dinah	12	“ Missis Hall lives here , ”
+2307	2310	2312	2314	the old lady	-1	“ Exactly , ”
+2316	2324	2312	2314	the old lady	-1	“ she is my son ’s wife . ”
+2325	2335	2337	2337	Dinah	12	“ Oh ! I beg your pardon , Missis , ”
+2342	2364	2365	2367	The old lady	-1	“ I never heard her name called Ruth afore : massa calls her ‘ bird , ’ and ‘ sunbeam . ’ ”
+2370	2376	2377	2377	she	-1	“ Is she at home ? ”
+2384	2387	2389	2389	Dinah	12	“ No , ”
+2391	2437	2389	2389	Dinah	12	“ Missis is gone rambling off in the woods with little Daisy . She ’s powerful fond of flowers , and things . She climbs fences like a squir’l![57 ] it makes this chil ’ laf ’ to see the ol’ farmers stare at her . ”
+2438	2450	2452	2454	the old lady	-1	“ You must have a great deal to do , here ; ”
+2458	2471	2452	2454	the old lady	-1	“ Ruth is n’t much of a hand at house - work . ”
+2472	2523	2389	2389	Dinah	12	“ Plenty to do , Missis , and willin ’ hands to do it . Dinah do n’t care how hard she works , if she do n’t work to the tune of a lash ; and Missis Hall goes singing about the house so that it makes time fly . ”
+2524	2536	2538	2541	the persevering old lady	-1	“ She do n’t ever help you any , does she ? ”
+2543	2603	2538	2541	the persevering old lady	-1	“ Lor ’ bless you ! yes , Missis . She comes right in and makes a pie for Massa Harry , or cooks a steak jess ’ as easy as she pulls off a flower ; and when Dinah ’s cooking anything new , she asks more questions how it ’s done than this chil ’ kin answer . ”
+2604	2651	2389	2389	Dinah	12	“ You have a great deal of company , I suppose ; that must make you extra trouble , I should think ; people riding out from the city to supper , when you are all through and cleared away : do n’t it tire you ? ”
+2652	2723	2538	2541	the persevering old lady	-1	“ No ; Missis Hall takes it easy . She laf ’s merry , and says to the company , ‘ you get tea enough in the city , so I sha n’t give you any ; we had tea long ago ; but here ’s some fresh milk , and some raspberries and cake ; and if you ca n’t eat that , you ought to go hungry . ’ ”
+2724	2734	2736	2738	the old lady	-1	“ She irons Harry ’s shirts , I suppose ? ”
+2743	2767	2773	2775	the old lady	-1	“ She ? s’pose dis chil ’ let her ? when she ’s so careful , too , of ol’ Dinah ’s bones ? ”
+2768	2771	2773	2775	the old lady	-1	“ Well , ”
+2782	2807	2773	2775	the old lady	-1	“ I ’ll walk over the house a bit , I guess ; I wo n’t trouble you to wait on me , Dinah ; ”
+2821	2829	2831	2833	old Mrs. Hall	10	“ This is the parlor , hey ? ”
+2843	2854	2836	2836	she	-1	“ A few dollars laid out here , I guess . ”
+3086	3099	3101	3103	the old lady	-1	“ Must take a deal of time to gather and fix ’em , ”
+3204	3218	3187	3187	Harry	2	“ Who but Ruth would ever have spied out that tiny little blossom ? ”
+3464	3468	3437	3440	A great many people	-1	“ best chamber . ”
+3727	3730	3746	3749	the dress - makers	-1	“ Venus , ”
+3783	3820	3822	3824	the old lady	-1	“ Oh , Harry ! is this the end of all my teachings ? Well , it is all Ruth ’s doings — all Ruth ’s doings . Harry is to be pitied , not blamed ; ”
+3843	3852	3854	3855	the doctor	-1	“ Hallo ! what are you doing there ? ”
+3874	3905	3854	3855	the doctor	-1	“ Ploughing this bit o ’ ground , sir . Mr. Hall told me to be sure and get it finished before he came home from the city this afthernoon . ”
+3906	3909	3911	3912	the doctor	-1	“ Nonsense ! ”
+3914	3945	3911	3912	the doctor	-1	“ I was born sometime before my son Harry ; put up your plough , and lay that bit of stone wall yonder ; that needs to be done first . ”
+3946	3964	3966	3966	Pat	18	“ I ’m thinking Masther Hall wo n’t be afther liking it if I do , sir , ”
+3968	3990	3966	3966	Pat	18	“ I had my orders for the day ’s work before masther went to the city , sir , this morning . ”
+3991	3996	3998	4000	the old man	-1	“ Pooh , pooh , ”
+4017	4035	3998	4000	the old man	-1	“ young folks think old folks are fools ; old folks know young folks to be so . ”
+4057	4066	4068	4069	the doctor	-1	“ What ’s that fellow doing over yonder ? ”
+4073	4080	4068	4069	the doctor	-1	“ Planting corn , yer honor . ”
+4081	4134	4068	4069	the doctor	-1	“ Corn ? ha ! ha ! city farming ! Good . Corn ? That ’s just the spot for potatoes . H - a - l - l - o there ! Do n’t plant any more corn in that spot , John ; it never’ll come to anything — never . ”

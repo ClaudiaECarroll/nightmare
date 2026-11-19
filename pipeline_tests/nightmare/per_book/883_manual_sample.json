@@ -1,0 +1,404 @@
+{
+  "threshold": 0.9,
+  "TP": 64,
+  "FP": 14,
+  "FN": 1,
+  "n_pred": 78,
+  "n_gold": 65,
+  "matched_gold": 64,
+  "precision": 0.8205128205128205,
+  "recall": 0.9846153846153847,
+  "f1": 0.8951048951048951,
+  "predictions": [
+    {
+      "string": "SometwelvedaysIlivedatthathotel,beforethenightwhenIsawthecorpseofRadfootatthePoliceStation.TheinexpressiblementalhorrorthatIlabouredunder,asoneoftheconsequencesofthepoison,makestheintervalseemgreatlylonger,butIknowitcannothavebeenlonger.Thatsufferinghasgraduallyweakenedandweakenedsince,andhasonlycomeuponmebystarts,andIhopeIamfreefromitnow;butevennow,Ihavesometimestothink,constrainmyself,andstopbeforespeaking,orIcouldnotsaythewordsIwanttosay.",
+      "best_similarity": 0.385,
+      "correct": false
+    },
+    {
+      "string": "AgainIrambleawayfromthinkingitouttotheend.ItisnotsofartotheendthatIneedbetemptedtobreakoff.Now,onstraight!",
+      "best_similarity": 0.395,
+      "correct": false
+    },
+    {
+      "string": "IexaminedthenewspaperseverydayfortidingsthatIwasmissing,butsawnone.Goingoutthatnighttowalk(forIkeptretiredwhileitwaslight),IfoundacrowdassembledroundaplacardpostedatWhitehall.Itdescribedmyself,JohnHarmon,asfounddeadandmutilatedintheriverundercircumstancesofstrongsuspicion,describedmydress,describedthepapersinmypockets,andstatedwhereIwaslyingforrecognition.InawildincautiouswayIhurriedthere,andthere—withthehorrorofthedeathIhadescaped,beforemyeyesinitsmostappallingshape,addedtotheinconceivablehorrortormentingmeatthattimewhenthepoisonousstuffwasstrongestonme—IperceivedthatRadfoothadbeenmurderedbysomeunknownhandsforthemoneyforwhichhewouldhavemurderedme,andthatprobablywehadbothbeenshotintotheriverfromthesamedarkplaceintothesamedarktide,whenthestreamrandeepandstrong.",
+      "best_similarity": 0.3396,
+      "correct": false
+    },
+    {
+      "string": "ThatnightIalmostgaveupmymystery,thoughIsuspectednoone,couldoffernoinformation,knewabsolutelynothingsavethatthemurderedmanwasnotI,butRadfoot.NextdaywhileIhesitated,andnextdaywhileIhesitated,itseemedasifthewholecountryweredeterminedtohavemedead.TheInquestdeclaredmedead,theGovernmentproclaimedmedead;Icouldnotlistenatmyfiresideforfiveminutestotheouternoises,butitwasborneintomyearsthatIwasdead.",
+      "best_similarity": 0.385,
+      "correct": false
+    },
+    {
+      "string": "SoJohnHarmondied,andJuliusHandforddisappeared,andJohnRokesmithwasborn.JohnRokesmithsintentto-nighthasbeentorepairawrongthathecouldneverhaveimaginedpossible,comingtohisearsthroughtheLightwoodtalkrelatedtohim,andwhichheisboundbyeveryconsiderationtoremedy.InthatintentJohnRokesmithwillpersevere,ashisdutyis.",
+      "best_similarity": 0.3993,
+      "correct": false
+    },
+    {
+      "string": "Now,isitallthoughtout?Alltothistime?Nothingomitted?No,nothing.Butbeyondthistime?Tothinkitoutthroughthefuture,isaharderthoughamuchshortertaskthantothinkitoutthroughthepast.JohnHarmonisdead.ShouldJohnHarmoncometolife?",
+      "best_similarity": 0.3814,
+      "correct": false
+    },
+    {
+      "string": "Ifyes,why?Ifno,why?",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "Takeyes,first.ToenlightenhumanJusticeconcerningtheoffenceofonefarbeyonditwhomayhavealivingmother.Toenlightenitwiththelightsofastonepassage,aflightofstairs,abrownwindow-curtain,andablackman.Tocomeintopossessionofmyfathersmoney,andwithitsordidlytobuyabeautifulcreaturewhomIlove—Icannothelpit;reasonhasnothingtodowithit;Iloveheragainstreason—butwhowouldassoonlovemeformyownsake,asshewouldlovethebeggaratthecorner.Whatauseforthemoney,andhowworthyofitsoldmisuses!",
+      "best_similarity": 0.3936,
+      "correct": false
+    },
+    {
+      "string": "Now,takeno.ThereasonswhyJohnHarmonshouldnotcometolife.Becausehehaspassivelyallowedthesedearoldfaithfulfriendstopassintopossessionoftheproperty.Becauseheseesthemhappywithit,makingagooduseofit,effacingtheoldrustandtarnishonthemoney.BecausetheyhavevirtuallyadoptedBella,andwillprovideforher.Becausethereisaffectionenoughinhernature,andwarmthenoughinherheart,todevelopintosomethingenduringlygood,underfavourableconditions.Becauseherfaultshavebeenintensifiedbyherplaceinmyfatherswill,andsheisalreadygrowingbetter.BecausehermarriagewithJohnHarmon,afterwhatIhaveheardfromherownlips,wouldbeashockingmockery,ofwhichbothsheandImustalwaysbeconscious,andwhichwoulddegradeherinhermind,andmeinmine,andeachofusintheothers.BecauseifJohnHarmoncomestolifeanddoesnotmarryher,thepropertyfallsintotheveryhandsthatholditnow.",
+      "best_similarity": 0.3596,
+      "correct": false
+    },
+    {
+      "string": "WhatwouldIhave?Dead,IhavefoundthetruefriendsofmylifetimestillastrueastenderandasfaithfulaswhenIwasalive,andmakingmymemoryanincentivetogoodactionsdoneinmyname.Dead,Ihavefoundthemwhentheymighthaveslightedmyname,andpassedgreedilyovermygravetoeaseandwealth,lingeringbytheway,likesingle-heartedchildren,torecalltheirloveformewhenIwasapoorfrightenedchild.Dead,IhaveheardfromthewomanwhowouldhavebeenmywifeifIhadlived,therevoltingtruththatIshouldhavepurchasedher,caringnothingforme,asaSultanbuysaslave.",
+      "best_similarity": 0.3698,
+      "correct": false
+    },
+    {
+      "string": "WhatwouldIhave?Ifthedeadcouldknow,ordoknow,howthelivingusethem,whoamongthehostsofdeadhasfoundamoredisinterestedfidelityonearththanI?Isnotthatenoughforme?IfIhadcomeback,thesenoblecreatureswouldhavewelcomedme,weptoverme,givenupeverythingtomewithjoy.Ididnotcomeback,andtheyhavepassedunspoiledintomyplace.Letthemrestinit,andletBellarestinhers.",
+      "best_similarity": 0.3977,
+      "correct": false
+    },
+    {
+      "string": "Whatcourseformethen?This.TolivethesamequietSecretarylife,carefullyavoidingchancesofrecognition,untiltheyshallhavebecomemoreaccustomedtotheiralteredstate,anduntilthegreatswarmofswindlersundermanynamesshallhavefoundnewerprey.Bythattime,themethodIamestablishingthroughalltheaffairs,andwithwhichIwilleverydaytakenewpainstomakethembothfamiliar,willbe,Imayhope,amachineinsuchworkingorderasthattheycankeepitgoing.IknowIneedbutaskoftheirgenerosity,tohave.Whentherighttimecomes,Iwillasknomorethanwillreplacemeinmyformerpathoflife,andJohnRokesmithshalltreaditascontentedlyashemay.ButJohnHarmonshallcomebacknomore.",
+      "best_similarity": 0.3779,
+      "correct": false
+    },
+    {
+      "string": "ThatImaynever,inthedaystocomeafaroff,haveanyweakmisgivingthatBellamight,inanycontingency,havetakenmeformyownsakeifIhadplainlyaskedher,IWILLplainlyaskher:provingbeyondallquestionwhatIalreadyknowtoowell.Andnowitisallthoughtout,fromthebeginningtotheend,andmymindiseasier.",
+      "best_similarity": 0.4114,
+      "correct": false
+    },
+    {
+      "string": "MakemycomplimentstoMissWilfer,andsayIamherenow.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dearme!Areyounotwell,MrRokesmith?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,quitewell.Iwassorrytohear,whenIcamein,thatYOUwerenot.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Amerenothing.Ihadaheadache—gonenow—andwasnotquitefitforahottheatre,soIstayedathome.Iaskedyouifyouwerenotwell,becauseyoulooksowhite.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DoI?Ihavehadabusyevening.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihopethetimehasbeenlongwithoutme?WhataHomeGoddessyoulook,mydarling!",
+      "best_similarity": 0.4029,
+      "correct": false
+    },
+    {
+      "string": "MrRokesmith,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IwantedtosaysomethingtoyouwhenIcouldhavetheopportunity,asanexplanationwhyIwasrudetoyoutheotherday.Youhavenorighttothinkillofme,sir.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YoudontknowhowwellIthinkofyou,MissWilfer.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Truly,youmusthaveaveryhighopinionofme,MrRokesmith,whenyoubelievethatinprosperityIneglectandforgetmyoldhome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DoIbelieveso?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YouDID,sir,atanyrate,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itookthelibertyofremindingyouofalittleomissionintowhichyouhadfallen—insensiblyandnaturallyfallen.Itwasnomorethanthat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AndIbegleavetoaskyou,MrRokesmith,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whyyoutookthatliberty?—Ihopethereisnooffenceinthephrase;itisyourown,remember.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "BecauseIamtruly,deeply,profoundlyinterestedinyou,MissWilfer.BecauseIwishtoseeyoualwaysatyourbest.BecauseI—shallIgoon?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youhavesaidmorethanenough.IbegthatyouwillNOTgoon.Ifyouhaveanygenerosity,anyhonour,youwillsaynomore.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwishtospeaktoyou,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "onceforall,andIdontknowhowtodoit.Ihavesathereallthisevening,wishingtospeaktoyou,anddeterminingtospeaktoyou,andfeelingthatImust.Ibegforamomentstime.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "YouknowhowIamsituatedhere,sir,andyouknowhowIamsituatedathome.Imustspeaktoyouformyself,sincethereisnooneaboutmewhomIcouldasktodoso.Itisnotgenerousinyou,itisnothonourableinyou,toconductyourselftowardsmeasyoudo.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isitungenerousordishonourabletobedevotedtoyou;fascinatedbyyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Preposterous!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inowfeelobligedtogoon,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thoughitwereonlyinself-explanationandself-defence.Ihope,MissWilfer,thatitisnotunpardonable—eveninme—tomakeanhonestdeclarationofanhonestdevotiontoyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Anhonestdeclaration!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Isitotherwise?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imustrequest,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatImaynotbequestioned.YoumustexcusemeifIdeclinetobecross-examined.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,MissWilfer,thisishardlycharitable.Iaskyounothingbutwhatyourownemphasissuggests.However,Iwaiveeventhatquestion.ButwhatIhavedeclared,Itakemystandby.Icannotrecalltheavowalofmyearnestanddeepattachmenttoyou,andIdonotrecallit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Irejectit,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IshouldbeblindanddeafifIwerenotpreparedforthereply.Forgivemyoffence,foritcarriesitspunishmentwithit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatpunishment?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ismypresentendurancenone?Butexcuseme;Ididnotmeantocross-examineyouagain.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youtakeadvantageofahastywordofmine,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "tomakemeseem—Idontknowwhat.IspokewithoutconsiderationwhenIusedit.Ifthatwasbad,Iamsorry;butyourepeatitafterconsideration,andthatseemstometobeatleastnobetter.Fortherest,Ibegitmaybeunderstood,MrRokesmith,thatthereisanendofthisbetweenus,nowandforever.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowandforever,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.Iappealtoyou,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "nottopursueme.Iappealtoyounottotakeadvantageofyourpositioninthishousetomakemypositioninitdistressinganddisagreeable.IappealtoyoutodiscontinueyourhabitofmakingyourmisplacedattentionsasplaintoMrsBoffinastome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "HaveIdoneso?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishouldthinkyouhave,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Inanycaseitisnotyourfaultifyouhavenot,MrRokesmith.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihopeyouarewronginthatimpression.Ishouldbeverysorrytohavejustifiedit.IthinkIhavenot.Forthefuturethereisnoapprehension.Itisallover.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iammuchrelievedtohearit,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihavefarotherviewsinlife,andwhyshouldyouwasteyourown?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mine!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mylife!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pardonme,MissWilfer,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youhaveusedsomehardwords,forwhichIdonotdoubtyouhaveajustificationinyourmind,thatIdonotunderstand.Ungenerousanddishonourable.Inwhat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwouldrathernotbeasked,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwouldrathernotask,butthequestionisimposeduponme.Kindlyexplain;orifnotkindly,justly.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,sir!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "isitgenerousandhonourabletousethepowerherewhichyourfavourwithMrandMrsBoffinandyourabilityinyourplacegiveyou,againstme?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Againstyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IsitgenerousandhonourabletoformaplanforgraduallybringingtheirinfluencetobearuponasuitwhichIhaveshownyouthatIdonotlike,andwhichItellyouthatIutterlyreject?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Woulditbegenerousandhonourabletostepintoyourplace—ifyoudidso,forIdontknowthatyoudid,andIhopeyoudidnot—anticipating,orknowingbeforehand,thatIshouldcomehere,anddesigningtotakemeatthisdisadvantage?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thismeanandcrueldisadvantage,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youarewhollymistaken,MissWilfer;wonderfullymistaken.Icannotsay,however,thatitisyourfault.IfIdeservebetterthingsofyou,youdonotknowit.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Atleast,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youknowthehistoryofmybeinghereatall.IhaveheardMrBoffinsaythatyouaremasterofeverylineandwordofthatwill,asyouaremasterofallhisaffairs.AndwasitnotenoughthatIshouldhavebeenwilledaway,likeahorse,oradog,orabird;butmustyoutoobegintodisposeofmeinyourmind,andspeculateinme,assoonasIhadceasedtobethetalkandthelaughofthetown?AmIforevertobemadethepropertyofstrangers?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Believeme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youarewonderfullymistaken.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ishouldbegladtoknowit,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Idoubtifyoueverwill.Good-night.OfcourseIshallbecarefultoconcealanytracesofthisinterviewfromMrandMrsBoffin,aslongasIremainhere.Trustme,whatyouhavecomplainedofisatanendforever.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "threshold": 0.9,
+  "TP": 32,
+  "FP": 3,
+  "FN": 0,
+  "n_pred": 35,
+  "n_gold": 32,
+  "matched_gold": 32,
+  "precision": 0.9142857142857143,
+  "recall": 1.0,
+  "f1": 0.955223880597015,
+  "predictions": [
+    {
+      "string": "THEPICKWICKPORTFOLIO",
+      "best_similarity": 0.0678,
+      "correct": false
+    },
+    {
+      "string": "HasyourHighnessseentheLadyViolatonight?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,isshenotlovely,thoughsosad!Herdressiswellchosen,too,forinaweekshewedsCountAntonio,whomshepassionatelyhates.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bymyfaith,Ienvyhim.Yonderhecomes,arrayedlikeabridegroom,excepttheblackmask.Whenthatisoffweshallseehowheregardsthefairmaidwhosehearthecannotwin,thoughhersternfatherbestowsherhand,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TiswhisperedthatshelovestheyoungEnglishartistwhohauntshersteps,andisspurnedbytheoldCount,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mylordsandladies,pardontherusebywhichIhavegatheredyouheretowitnessthemarriageofmydaughter.Father,wewaityourservices.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "GladlywouldIgiveitifIcould,butIonlyknowthatitwasthewhimofmytimidViola,andIyieldedtoit.Now,mychildren,lettheplayend.Unmaskandreceivemyblessing.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mylord,youscornfullybademeclaimyourdaughterwhenIcouldboastashighanameandvastafortuneastheCountAntonio.Icandomore,forevenyourambitioussoulcannotrefusetheEarlofDevereuxandDeVere,whenhegiveshisancientnameandboundlesswealthinreturnforthebelovedhandofthisfairlady,nowmywife.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Toyou,mygallantfriends,Icanonlywishthatyourwooingmayprosperasminehasdone,andthatyoumayallwinasfairabrideasIhavebythismaskedmarriage.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WOMANANDHERPOSITION",
+      "best_similarity": 0.129,
+      "correct": false
+    },
+    {
+      "string": "THEGREEKSLAVE,orConstantinetheAvenger,",
+      "best_similarity": 0.3492,
+      "correct": false
+    },
+    {
+      "string": "Mr.Presidentandgentlemen,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwishtoproposetheadmissionofanewmember—onewhohighlydeservesthehonor,wouldbedeeplygratefulforit,andwouldaddimmenselytothespiritoftheclub,theliteraryvalueofthepaper,andbenoendjollyandnice.IproposeMr.TheodoreLaurenceasanhonorarymemberoftheP.C.Comenow,dohavehim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wellputittoavote,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Allinfavorofthismotionpleasetomanifestitbysaying,Aye.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Contrary-mindedsay,No.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wedontwishanyboys,theyonlyjokeandbounceabout.Thisisaladiesclub,andwewishtobeprivateandproper.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imafraidhelllaughatourpaper,andmakefunofusafterward,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sir,Igiveyoumywordasagentleman,Lauriewontdoanythingofthesort.Helikestowrite,andhellgiveatonetoourcontributionsandkeepusfrombeingsentimental,dontyousee?Wecandosolittleforhim,andhedoessomuchforus,Ithinktheleastwecandoistoofferhimaplacehere,andmakehimwelcomeifhecomes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes;weoughttodoit,evenifweareafraid.Isayhemaycome,andhisgrandpa,too,ifhelikes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowthen,voteagain.EverybodyrememberitsourLaurie,andsay,Aye!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aye!Aye!Aye!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Good!Blessyou!Now,astheresnothingliketakingtimebythefetlock,asWinklecharacteristicallyobserves,allowmetopresentthenewmember.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yourogue!Youtraitor!Jo,howcouldyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thecoolnessofyoutworascalsisamazing,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mr.Presidentandladies—Ibegpardon,gentlemen—allowmetointroducemyselfasSamWeller,theveryhumbleservantoftheclub.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Good!Good!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Myfaithfulfriendandnoblepatron,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whohassoflatteringlypresentedme,isnottobeblamedforthebasestratagemoftonight.Iplannedit,andsheonlygaveinafterlotsofteasing.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Comenow,dontlayitallonyourself.YouknowIproposedthecupboard,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nevermindwhatshesays.Imthewretchthatdidit,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butonmyhonor,Ineverwilldosoagain,andhenceforthdevotemyselftotheinterestofthisimmortalclub.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hear!Hear!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Goon,goon!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Imerelywishtosay,thatasaslighttokenofmygratitudeforthehonordoneme,andasameansofpromotingfriendlyrelationsbetweenadjoiningnations,Ihavesetupapostofficeinthehedgeinthelowercornerofthegarden,afine,spaciousbuildingwithpadlocksonthedoorsandeveryconvenienceforthemails,alsothefemales,ifImaybeallowedtheexpression.Itstheoldmartinhouse,butIvestoppedupthedoorandmadetheroofopen,soitwillholdallsortsofthings,andsaveourvaluabletime.Letters,manuscripts,books,andbundlescanbepassedinthere,andaseachnationhasakey,itwillbeuncommonlynice,Ifancy.Allowmetopresenttheclubkey,andwithmanythanksforyourfavor,takemyseat.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

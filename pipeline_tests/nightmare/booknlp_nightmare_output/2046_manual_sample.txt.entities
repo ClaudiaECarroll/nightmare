@@ -1,0 +1,506 @@
+COREF	start_token	end_token	prop	cat	text
+20	0	0	PROP	PER	Pompey
+21	4	4	PROP	PER	Walker
+-1	19	19	NOM	PER	slaves
+-1	22	22	PRON	PER	he
+-1	34	34	PRON	PER	his
+-1	44	45	NOM	VEH	the steamer
+20	49	49	PROP	PER	Pompey
+-1	51	55	NOM	PER	five of the old slaves
+-1	53	55	NOM	PER	the old slaves
+-1	58	58	PRON	PER	them
+-1	60	61	NOM	FAC	a room
+-1	63	63	PRON	PER	themselves
+-1	68	68	PRON	PER	them
+-1	70	71	NOM	FAC	the market
+20	78	78	PROP	PER	Pompey
+-1	81	81	PRON	PER	himself
+-1	83	84	NOM	PER	the company
+-1	87	87	PRON	PER	I
+-1	89	90	NOM	PER	de gentman
+-1	95	95	PRON	PER	you
+-1	100	100	PRON	PER	you
+-1	103	103	NOM	PER	marser
+-1	108	110	NOM	FAC	de Orleans market
+-1	115	115	PRON	PER	you
+-1	119	119	PRON	PER	himself
+-1	121	132	NOM	PER	a man who , from appearance , was not less than forty
+-1	136	136	PRON	PER	I
+-1	145	145	PRON	PER	I
+-1	157	157	PRON	PER	I
+22	165	165	PROP	PER	Dat
+20	171	171	PROP	PER	Pompey
+-1	176	176	PRON	PER	you
+-1	186	186	NOM	PER	marser
+-1	188	188	PRON	PER	you
+-1	195	195	PRON	PER	I
+-1	197	197	PRON	PER	I
+-1	205	206	NOM	PER	the man
+-1	209	209	PRON	PER	I
+20	217	217	PROP	PER	Pompey
+-1	222	222	PRON	PER	you
+-1	225	226	NOM	FAC	de market
+-1	231	231	PRON	PER	you
+-1	234	234	PRON	PER	you
+-1	238	238	PRON	PER	you
+-1	240	240	PRON	PER	'em
+-1	245	245	NOM	PER	marser
+-1	248	248	PRON	PER	you
+-1	252	252	PRON	PER	you
+-1	260	260	PRON	PER	you
+-1	262	262	PRON	PER	'em
+-1	264	264	PRON	PER	you
+-1	270	270	PRON	PER	he
+-1	279	279	PRON	PER	I
+-1	281	281	PRON	PER	I
+-1	287	287	PRON	PER	dey
+-1	289	289	PRON	PER	me
+-1	293	294	NOM	PER	the chattel
+-1	298	298	PRON	PER	your
+20	303	303	PROP	PER	Pompey
+23	306	306	PROP	PER	Geemes
+-1	310	311	NOM	PER	the man
+24	316	317	PROP	PER	Uncle Jim
+-1	329	329	PRON	PER	you
+-1	337	337	PRON	PER	yours
+-1	341	341	PRON	PER	you
+0	344	344	PROP	GPE	Orleans
+-1	345	345	PRON	PER	you
+20	362	362	PROP	PER	Pompey
+-1	370	370	PRON	PER	he
+-1	373	373	PRON	PER	he
+-1	381	381	PRON	PER	you
+20	385	385	PROP	PER	Pompey
+-1	387	393	NOM	PER	a tall , strong - looking man
+-1	396	396	PRON	PER	I
+-1	409	410	NOM	PER	the man
+-1	415	415	PRON	PER	your
+-1	420	420	PRON	PER	My
+25	423	423	PROP	PER	Tobias
+-1	426	426	PRON	PER	dey
+-1	428	428	PRON	PER	me
+25	430	430	PROP	PER	Toby
+25	437	437	PROP	PER	Toby
+25	440	441	PROP	PER	Mr. Tobias
+-1	447	447	PRON	PER	you
+-1	450	450	PRON	PER	you
+-1	464	464	PRON	PER	you
+25	474	474	PROP	PER	Toby
+20	476	476	PROP	PER	Pompey
+-1	478	478	NOM	PER	each
+-1	483	483	PRON	PER	he
+-1	490	494	NOM	PER	persons who wished to purchase
+-1	500	500	PRON	PER	his
+-1	500	501	NOM	PER	his master
+-1	503	507	NOM	PER	the " old boys "
+-1	526	527	NOM	VEH	another steamer
+3	550	551	PROP	FAC	the Patriot
+-1	575	577	NOM	LOC	the Mississippi river
+-1	582	583	NOM	VEH	the boats
+2	586	586	PROP	GPE	Memphis
+-1	588	588	PRON	PER	they
+-1	626	627	NOM	PER	the passengers
+-1	632	633	NOM	VEH	one boat
+3	640	641	PROP	VEH	the Patriot
+-1	643	644	NOM	PER	the firemen
+-1	685	687	NOM	VEH	the other boat
+-1	694	696	NOM	VEH	The two boats
+-1	705	706	NOM	VEH	the boats
+-1	710	710	NOM	VEH	vessel
+-1	712	712	NOM	VEH	vessel
+-1	721	722	NOM	PER	both passengers
+-1	724	724	NOM	PER	crew
+-1	729	733	NOM	PER	the engineer of the Patriot
+-1	760	771	NOM	PER	A few of the boat hands who saw what had taken place
+-1	763	771	NOM	PER	the boat hands who saw what had taken place
+-1	777	778	NOM	VEH	the boat
+-1	780	782	NOM	FAC	more secure quarters
+3	784	785	PROP	PER	The Patriot
+-1	790	790	NOM	PER	passengers
+-1	805	806	NOM	VEH	the boat
+-1	842	843	NOM	VEH	the vessel
+-1	858	859	NOM	FAC	The saloons
+-1	861	861	NOM	FAC	cabins
+-1	867	868	NOM	FAC	a hospital
+-1	873	874	NOM	VEH	the boat
+4	879	880	PROP	VEH	the Columbia
+-1	882	884	NOM	VEH	the other boat
+-1	893	895	NOM	VEH	the disabled steamer
+-1	897	900	NOM	PER	The killed and scalded
+-1	909	909	NOM	LOC	shore
+3	912	913	PROP	VEH	the Patriot
+4	919	920	PROP	VEH	the Columbia
+-1	926	926	PRON	VEH	its
+-1	940	945	NOM	PER	the passengers being asleep the majority
+-1	949	950	NOM	FAC	the saloons
+5	961	961	PROP	GPE	Louisville
+6	963	964	PROP	GPE	St. Louis
+7	966	967	PROP	GPE	New Orleans
+-1	969	971	NOM	VEH	a Mississippi steamer
+-1	974	975	NOM	PER	many men
+-1	979	979	NOM	PER	ladies
+-1	988	988	PRON	PER	my
+-1	988	989	NOM	PER	my boy
+-1	991	991	NOM	PER	steward
+27	995	996	PROP	PER	Mr. Smith
+-1	999	999	PRON	PER	he
+-1	1001	1001	PRON	PER	his
+-1	1014	1029	NOM	PER	a fine looking , bright - eyed mulatto boy , apparently about fifteen years of age
+-1	1034	1034	PRON	PER	his
+-1	1034	1035	NOM	PER	his master
+-1	1043	1043	PRON	PER	I
+-1	1046	1046	PRON	PER	you
+27	1056	1056	PROP	PER	Smith
+-1	1059	1059	PRON	PER	his
+-1	1059	1060	NOM	PER	his servant
+28	1061	1061	PROP	PER	Jerry
+-1	1070	1070	PRON	PER	you
+-1	1073	1074	NOM	PER	that boy
+29	1078	1078	PROP	PER	Johnson
+-1	1081	1081	PRON	PER	he
+-1	1088	1088	PRON	PER	his
+-1	1092	1092	PRON	PER	He
+-1	1103	1106	NOM	FAC	the New Orleans market
+7	1104	1105	PROP	GPE	New Orleans
+27	1110	1110	PROP	PER	Smith
+-1	1114	1114	PRON	PER	you
+-1	1119	1120	NOM	PER	the boy
+-1	1123	1123	PRON	PER	you
+-1	1131	1131	PRON	PER	I
+-1	1133	1133	PRON	PER	you
+29	1139	1139	PROP	PER	Johnson
+-1	1146	1146	PRON	PER	his
+-1	1154	1154	PRON	PER	You
+-1	1157	1157	PRON	PER	me
+27	1161	1161	PROP	PER	Smith
+-1	1166	1166	PRON	PER	he
+28	1171	1171	PROP	PER	Jerry
+-1	1190	1190	PRON	PER	his
+-1	1203	1203	PRON	PER	You
+-1	1208	1208	PRON	PER	you
+-1	1211	1211	PRON	PER	me
+29	1215	1215	PROP	PER	Johnson
+-1	1218	1220	NOM	PER	the young slave
+-1	1233	1233	NOM	PER	sir
+-1	1237	1238	NOM	PER	the chattel
+-1	1245	1245	PRON	PER	your
+-1	1259	1259	PRON	PER	my
+-1	1263	1263	PRON	PER	my
+-1	1267	1267	PRON	PER	you
+-1	1274	1274	NOM	PER	sir
+28	1278	1278	PROP	PER	Jerry
+-1	1281	1281	PRON	PER	he
+-1	1286	1286	PRON	PER	his
+27	1289	1289	PROP	PER	Smith
+-1	1292	1292	PRON	PER	his
+29	1302	1302	PROP	PER	Johnson
+-1	1311	1311	PRON	PER	I
+-1	1317	1318	NOM	PER	that boy
+29	1320	1321	PROP	PER	Mr. Johnson
+-1	1323	1323	PRON	PER	My
+-1	1323	1324	NOM	PER	My father
+-1	1326	1326	PRON	PER	him
+-1	1328	1328	PRON	PER	me
+-1	1330	1330	PRON	PER	I
+-1	1336	1336	PRON	PER	I
+-1	1342	1342	PRON	PER	him
+-1	1349	1349	NOM	PER	sir
+-1	1351	1352	NOM	PER	the boy
+-1	1355	1355	PRON	PER	yours
+-1	1358	1358	PRON	PER	you
+-1	1360	1360	PRON	PER	me
+29	1368	1368	PROP	PER	Johnson
+-1	1375	1376	NOM	PER	the passengers
+-1	1380	1382	NOM	FAC	the breakfast saloons
+-1	1385	1389	NOM	PER	the guards of the vessel
+-1	1388	1389	NOM	VEH	the vessel
+-1	1392	1393	NOM	PER	the servants
+-1	1403	1403	PRON	PER	their
+-1	1403	1404	NOM	PER	their masters
+28	1407	1407	PROP	PER	Jerry
+-1	1410	1410	PRON	PER	his
+-1	1410	1412	NOM	PER	his new master
+-1	1410	1414	NOM	FAC	his new master 's stateroom
+-1	1416	1416	PRON	PER	his
+-1	1422	1422	PRON	PER	you
+-1	1428	1429	NOM	PER	a gentleman
+-1	1431	1434	NOM	PER	an old black man
+-1	1444	1444	PRON	PER	he
+-1	1451	1451	PRON	PER	I
+-1	1458	1458	PRON	PER	I
+30	1461	1462	PROP	PER	Governor Lucas
+-1	1465	1465	PRON	PER	I
+-1	1468	1468	PRON	PER	he
+-1	1476	1476	PRON	PER	I
+-1	1482	1482	PRON	PER	me
+-1	1492	1493	NOM	PER	a slave
+-1	1497	1497	PRON	PER	He
+-1	1503	1514	NOM	FAC	the property of the man with whom he has lived for years
+-1	1506	1514	NOM	PER	the man with whom he has lived for years
+-1	1510	1510	PRON	PER	he
+-1	1522	1532	NOM	PER	the slave of some one whom he has never seen before
+-1	1525	1532	NOM	PER	some one whom he has never seen before
+-1	1528	1528	PRON	PER	he
+-1	1541	1544	NOM	FAC	a steamboat 's cabin
+-1	1547	1552	NOM	PER	half - a - dozen men
+-1	1583	1585	NOM	LOC	the Mississippi river
+8	1594	1594	PROP	GPE	Natchez
+-1	1600	1600	NOM	PER	passengers
+21	1602	1602	PROP	PER	Walker
+-1	1608	1608	NOM	LOC	shore
+-1	1611	1615	NOM	PER	some of his old customers
+-1	1613	1613	PRON	PER	his
+-1	1613	1615	NOM	PER	his old customers
+-1	1621	1627	NOM	PER	a tall , thin - faced man
+-1	1641	1641	PRON	PER	him
+-1	1644	1645	NOM	PER	a clergyman
+-1	1648	1648	PRON	PER	I
+-1	1650	1654	NOM	PER	a good , trusty woman
+-1	1656	1656	NOM	FAC	house
+-1	1661	1662	NOM	PER	the stranger
+-1	1665	1665	PRON	PER	they
+-1	1667	1668	NOM	FAC	the cabin
+21	1670	1670	PROP	PER	Walker
+-1	1670	1672	NOM	PER	Walker 's slaves
+-1	1678	1678	PRON	PER	she
+-1	1687	1688	NOM	PER	the trader
+31	1694	1694	PROP	PER	Currer
+-1	1696	1696	PRON	PER	my
+-1	1696	1697	NOM	PER	my gal
+-1	1701	1711	NOM	PER	a gentleman who wishes to see if you will suit him
+-1	1708	1708	PRON	PER	you
+-1	1711	1711	PRON	PER	him
+32	1714	1714	PROP	PER	Althesa
+-1	1717	1717	PRON	PER	her
+-1	1717	1718	NOM	PER	her mother
+-1	1723	1724	NOM	PER	the latter
+-1	1727	1727	PRON	PER	her
+-1	1731	1731	PRON	PER	She
+-1	1733	1735	NOM	PER	a rare cook
+-1	1737	1739	NOM	PER	a good washer
+-1	1744	1744	PRON	PER	you
+-1	1749	1749	PRON	PER	I
+-1	1756	1756	PRON	PER	you
+-1	1758	1758	PRON	PER	me
+-1	1760	1760	PRON	PER	I
+-1	1762	1762	PRON	PER	you
+-1	1765	1765	PRON	PER	my
+-1	1765	1766	NOM	PER	my daughter
+-1	1771	1772	NOM	PER	the woman
+-1	1781	1781	PRON	PER	I
+-1	1786	1786	PRON	PER	my
+-1	1798	1801	NOM	PER	the man in black
+-1	1804	1804	PRON	PER	he
+-1	1806	1807	NOM	PER	the trader
+-1	1809	1810	NOM	FAC	the room
+21	1812	1812	PROP	PER	Walker
+-1	1814	1815	NOM	PER	the parson
+-1	1818	1819	NOM	FAC	the saloon
+-1	1840	1841	NOM	PER	the clergyman
+-1	1848	1849	NOM	PER	the woman
+-1	1854	1854	PRON	PER	him
+-1	1856	1856	PRON	PER	his
+-1	1856	1857	NOM	FAC	his house
+32	1863	1864	PROP	PER	poor Althesa
+-1	1868	1868	PRON	PER	herself
+-1	1878	1878	PRON	PER	her
+-1	1878	1879	NOM	PER	her mother
+-1	1884	1884	PRON	PER	her
+-1	1890	1895	NOM	PER	the ruthless trafficker in human flesh
+-1	1901	1902	NOM	VEH	the boat
+9	1904	1905	PROP	GPE	Baton Rouge
+-1	1907	1911	NOM	PER	an additional number of passengers
+-1	1911	1911	NOM	PER	passengers
+-1	1920	1920	PRON	PER	them
+-1	1922	1929	NOM	PER	several persons who had been attending the races
+-1	1944	1945	NOM	PER	the ladies
+-1	1947	1947	NOM	PER	gentlemen
+-1	1967	1969	NOM	FAC	the Social Hall
+-1	1976	1977	NOM	PER	the ladies
+-1	1981	1982	NOM	PER	the gentlemen
+-1	1984	1988	NOM	FAC	that part of the cabin
+-1	1987	1988	NOM	FAC	the cabin
+-1	1997	2007	NOM	PER	A man at one of the tables where they were gambling
+-1	2005	2005	PRON	PER	they
+-1	2017	2017	PRON	PER	his
+-1	2021	2024	NOM	PER	one of the party
+-1	2023	2024	NOM	PER	the party
+-1	2026	2026	PRON	PER	his
+-1	2062	2063	NOM	PER	the man
+-1	2094	2095	NOM	VEH	the boat
+7	2098	2099	PROP	GPE	New Orleans
+-1	2102	2103	NOM	PER	the passengers
+-1	2106	2107	NOM	FAC	the hotels
+-1	2109	2110	NOM	PER	the slaves
+-1	2112	2113	NOM	FAC	the market
+-1	2116	2116	PRON	PER	Our
+33	2121	2121	PROP	PER	Afric
+-1	2121	2123	NOM	LOC	Afric 's shores
+-1	2125	2125	PRON	PER	Her
+-1	2128	2128	PRON	PER	we
+-1	2132	2132	PRON	PER	We
+-1	2134	2137	NOM	PER	the grim slave trader
+-1	2138	2138	NOM	GPE	there
+-1	2140	2140	PRON	PER	We
+-1	2142	2142	PRON	PER	his
+-1	2142	2144	NOM	PER	his fettered victim
+-1	2151	2152	NOM	PER	the sufferer
+-1	2158	2158	PRON	PER	our
+10	2166	2167	PROP	LOC	The Ocean
+-1	2184	2184	PRON	PER	His
+-1	2199	2200	NOM	PER	The knave
+-1	2212	2212	PRON	PER	our
+-1	2226	2232	NOM	LOC	The wily Proteus - heart of man
+-1	2232	2232	NOM	PER	man
+-1	2245	2245	PRON	PER	his
+-1	2252	2252	PRON	PER	he
+-1	2259	2259	PRON	PER	our
+-1	2269	2297	NOM	PER	an eye that wakes in light , There is a hand of peerless might ; Which , soon or late , shall yet assail And rend dissimulation 's veil
+-1	2306	2306	PRON	PER	our
+-1	2319	2319	PRON	PER	WE
+8	2324	2324	PROP	GPE	Natchez
+-1	2327	2327	PRON	PER	we
+31	2329	2329	PROP	PER	Currer
+-1	2334	2336	NOM	PER	the Methodist parson
+8	2342	2342	PROP	GPE	Natchez
+-1	2353	2353	PRON	GPE	its
+-1	2353	2354	NOM	PER	its inhabitants
+-1	2361	2361	NOM	GPE	there
+-1	2369	2375	NOM	GPE	any other city in the Southern States
+-1	2373	2375	NOM	GPE	the Southern States
+-1	2382	2382	PRON	PER	we
+-1	2389	2390	NOM	LOC	the vicinity
+-1	2395	2395	PRON	PER	they
+-1	2397	2397	PRON	PER	their
+-1	2397	2410	NOM	PER	their Negroes who believe in the doctrine that " all men are created free
+-1	2406	2407	NOM	PER	all men
+-1	2420	2425	NOM	PER	the entire pack of Negro dogs
+11	2429	2429	PROP	GPE	Hay
+12	2431	2431	PROP	GPE	Allen
+-1	2435	2435	PRON	PER	he
+-1	2440	2441	NOM	PER	runaway Negroes
+-1	2443	2443	PRON	PER	His
+-1	2459	2460	NOM	PER	a runaway
+-1	2462	2462	PRON	PER	He
+13	2471	2471	PROP	GPE	Livingston
+-1	2474	2479	NOM	LOC	the lower Jones ' Bluff Road
+14	2476	2479	PROP	FAC	Jones ' Bluff Road
+15	2494	2495	PROP	GPE	Carroway Lake
+16	2498	2500	PROP	LOC	Hoe 's Bayou
+-1	2503	2504	NOM	GPE	Carroll parish
+-1	2509	2517	NOM	FAC	the road leading from Bayou Mason to Lake Providence
+17	2513	2514	PROP	FAC	Bayou Mason
+18	2516	2517	PROP	GPE	Lake Providence
+-1	2528	2529	NOM	PER	runaway Negroes
+-1	2544	2545	NOM	GPE	the parish
+-1	2550	2550	PRON	PER	me
+19	2552	2552	PROP	GPE	Providence
+-1	2558	2558	PRON	PER	My
+-1	2567	2568	NOM	FAC	the trails
+-1	2571	2572	NOM	PER	the Negro
+-1	2588	2589	NOM	PER	the Negro
+-1	2600	2601	NOM	PER	a Negro
+-1	2626	2627	NOM	PER	a Negro
+-1	2629	2629	PRON	PER	their
+-1	2629	2630	NOM	PER	their master
+-1	2636	2636	PRON	PER	him
+-1	2656	2657	NOM	PER	the Negro
+-1	2671	2671	PRON	PER	his
+8	2680	2680	PROP	GPE	Natchez
+31	2686	2686	PROP	PER	Currer
+-1	2695	2695	PRON	PER	her
+-1	2700	2701	NOM	PER	the people
+-1	2703	2704	NOM	PER	Two slaves
+-1	2718	2718	PRON	PER	their
+-1	2721	2722	NOM	PER	The slaves
+-1	2725	2726	NOM	LOC	the swamps
+-1	2737	2737	PRON	PER	their
+-1	2744	2744	PRON	PER	them
+-1	2746	2747	NOM	LOC	the water
+-1	2754	2755	NOM	LOC	the swamp
+-1	2760	2761	NOM	LOC	the highlands
+-1	2795	2807	NOM	PER	these two fugitives , who , it was afterwards discovered , were lost
+-1	2814	2814	PRON	PER	they
+-1	2821	2824	NOM	LOC	the mud and water
+-1	2840	2840	PRON	PER	they
+-1	2865	2867	NOM	PER	men and dogs
+-1	2870	2874	NOM	LOC	this bushy , dismal swamp
+-1	2895	2895	PRON	PER	their
+-1	2895	2897	NOM	FAC	their hereditary domain
+-1	2901	2902	NOM	FAC	the trail
+-1	2914	2914	PRON	PER	they
+-1	2921	2921	PRON	PER	them
+-1	2924	2925	NOM	LOC	the river
+34	2932	2933	PROP	PER	the Negroes
+-1	2936	2936	PRON	PER	their
+-1	2941	2944	NOM	LOC	the place of starting
+-1	2958	2959	NOM	FAC	the trail
+-1	2961	2962	NOM	PER	The Negroes
+-1	2976	2976	PRON	PER	their
+-1	2986	2986	PRON	PER	they
+-1	2993	2994	NOM	FAC	the road
+-1	3006	3006	NOM	PER	Negroes
+-1	3013	3014	NOM	PER	other people
+-1	3022	3022	PRON	PER	them
+-1	3044	3044	PRON	PER	them
+-1	3047	3048	NOM	FAC	the road
+-1	3066	3068	NOM	FAC	this common highway
+-1	3070	3081	NOM	FAC	the thoroughfare for the whole country around through mud and through mire
+-1	3073	3075	NOM	LOC	the whole country
+-1	3086	3086	NOM	PER	teams
+-1	3089	3091	NOM	PER	different solitary wayfarers
+-1	3105	3108	NOM	PER	a gang of Negroes
+-1	3110	3110	PRON	PER	their
+-1	3118	3119	NOM	FAC	the road
+-1	3121	3121	PRON	PER	they
+-1	3126	3128	NOM	PER	the two Negroes
+-1	3130	3130	PRON	PER	they
+-1	3137	3142	NOM	LOC	the very edge of the plain
+-1	3141	3142	NOM	LOC	the plain
+-1	3144	3147	NOM	PER	the slaves near them
+-1	3147	3147	PRON	PER	them
+-1	3155	3155	PRON	PER	they
+-1	3160	3163	NOM	PER	some hunter chasing deer
+-1	3168	3170	NOM	PER	the whimpering pack
+-1	3187	3187	PRON	PER	them
+-1	3194	3194	PRON	PER	their
+35	3202	3202	PROP	PER	Tabor
+-1	3204	3204	PRON	PER	his
+36	3244	3244	PROP	PER	Actaeon
+-1	3246	3246	PRON	PER	his
+-1	3249	3249	PRON	PER	They
+-1	3254	3255	NOM	FAC	the road
+-1	3263	3263	PRON	PER	them
+-1	3314	3315	NOM	PER	the hunters
+-1	3318	3319	NOM	PER	the Negroes
+-1	3322	3322	PRON	PER	their
+-1	3329	3329	PRON	PER	their
+-1	3333	3333	PRON	PER	they
+-1	3338	3338	PRON	PER	them
+-1	3348	3348	PRON	PER	their
+-1	3354	3354	PRON	PER	they
+-1	3365	3365	PRON	PER	They
+-1	3375	3375	PRON	PER	them
+-1	3377	3377	PRON	PER	they
+-1	3387	3389	NOM	PER	the last one
+-1	3401	3401	PRON	PER	him
+-1	3408	3408	PRON	PER	him
+-1	3413	3413	PRON	PER	he
+-1	3425	3426	NOM	PER	this man
+-1	3430	3434	NOM	PER	the one in the tree
+-1	3445	3445	PRON	PER	he
+-1	3456	3456	PRON	PER	him
+-1	3460	3460	PRON	PER	him
+-1	3463	3463	PRON	PER	his
+-1	3468	3469	NOM	LOC	the ground
+-1	3471	3472	NOM	PER	the fugitive
+-1	3493	3493	PRON	PER	he
+-1	3501	3501	PRON	PER	he
+-1	3507	3507	PRON	PER	he
+-1	3513	3513	PRON	PER	he
+-1	3520	3520	PRON	PER	their
+-1	3522	3522	NOM	FAC	home
+-1	3524	3525	NOM	PER	A mob
+-1	3546	3560	NOM	PER	the Negro who had had the impudence to raise his hand against a white man
+-1	3555	3555	PRON	PER	his
+-1	3558	3560	NOM	PER	a white man

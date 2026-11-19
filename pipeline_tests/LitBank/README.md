@@ -33,7 +33,7 @@ data/intermediate/reconstructed_samples/<id>_sampled.txt
         │
         │  each pipeline, run independently (see Pipelines below)
         ▼
-data/intermediate/{BookNLP,QuoteAnnotator}_output/
+data/intermediate/BookNLP_output/
         │   one pipeline's raw predictions, one file/folder per book
         │
         │  code/evaluation/evaluate.py <pipeline> --data-path ... --ann-dir data/raw/labels
@@ -67,18 +67,27 @@ gold dialogue string); `ATTRIB` lines are skipped. Not every book has
 
 | Pipeline | Status | Driver location | Notes |
 |---|---|---|---|
-| BookNLP | done | `code/classification/BookNLP/java/book-nlp/` (vendored 2014 Java BookNLP — see its own README for how to run it) | Needs a Stanford CoreNLP models jar dropped into its `lib/` folder; run manually via `./runjava`. |
-| QuoteAnnotator | done | `code/classification/QuoteAnnotator/run_litbank.sh` | Requires Java and Stanford CoreNLP; set `CORENLP_DIR` before running. |
-| Claudia / DearReader / Muqing | not built | — | Planned pipelines (regex script, R script, notebook) that were never implemented. No loader exists for them either. |
+| BookNLP | done | `code/classification/BookNLP/run_litbank.py` — Python `booknlp` package, "small" model | Runs on `data/intermediate/reconstructed_samples/`; run `replicate_samples.py` first. |
 
-GutenTag was evaluated previously (precision 0.968, recall 0.771, F1 0.858),
-but its driver is outside this project and is not registered by the evaluator.
-Its existing prediction and result snapshots are retained.
-
-Whichever pipeline you run, its output has to land in
+BookNLP's per-book output folders (`<id>_sampled/<id>_sampled.quotes`) are expected in
+`data/intermediate/BookNLP_output/`. Any pipeline's output has to land in
 `data/intermediate/<Pipeline>_output/` in the naming convention its loader
 expects (see `code/evaluation/loaders/<pipeline>.py` docstrings for the
 exact filename patterns each one reads).
+
+BookNLP setup (tested with Python 3.10): `pip install booknlp torch "setuptools<81"` and
+`pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl`.
+BookNLP downloads its "small" models into `~/booknlp_models` on first run.
+
+## Results
+
+| Pipeline | Books | Precision | Recall | F1 |
+|---|---|---|---|---|
+| BookNLP | all 100 | 0.830 | 0.927 | 0.876 |
+| BookNLP | excluding the 14 empty-gold books | 0.857 | 0.927 | 0.891 |
+
+(1,765 gold quotes; threshold 0.90, RapidFuzz character-level matching — see `code/evaluation/core.py`.)
+A per-book table is in `../booknlp_results/booknlp_litbank.xlsx`.
 
 ## Running an evaluation
 
@@ -87,17 +96,9 @@ cd code/evaluation
 python evaluate.py booknlp \
     --data-path ../../data/intermediate/BookNLP_output \
     --ann-dir   ../../data/raw/labels
-
-python evaluate.py quoteannotator \
-    --data-path ../../data/intermediate/QuoteAnnotator_output \
-    --ann-dir   ../../data/raw/labels
-
 ```
 
-`--ann-dir` defaults to `data/raw/labels` already, so it can be omitted. To
-rerun QuoteAnnotator, first run `replicate_samples.py`, then use the script in
-`code/classification/QuoteAnnotator/` with `CORENLP_DIR` set.
-See `code/README.md` for the full CLI reference (thresholds, run labels,
+`--ann-dir` defaults to `data/raw/labels` already, so it can be omitted. See `code/README.md` for the full CLI reference (thresholds, run labels,
 adding a new pipeline's loader) and how the fuzzy-matching score itself
 works.
 

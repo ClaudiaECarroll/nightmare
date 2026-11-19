@@ -214,7 +214,7 @@ def run_evaluation(predictions, ann_dir, results_dir, threshold=0.90,
     threshold : float
         Similarity at or above which a predicted string counts as matching.
     pipeline_name : str
-        Label used in the report header (e.g. "booknlp", "quoteannotator").
+        Label used in the report header (e.g. "booknlp").
     """
     per_book_dir = os.path.join(results_dir, "per_book")
     os.makedirs(per_book_dir, exist_ok=True)

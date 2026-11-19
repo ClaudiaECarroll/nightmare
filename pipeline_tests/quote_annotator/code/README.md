@@ -7,11 +7,9 @@ Evaluates dialogue extraction against Dialogism gold XML annotations using chara
 ```text
 pre-processing/extract_plain_text.py
 classification/BookNLP/run_dialogism.py
-classification/QuoteAnnotator/run_dialogism.sh
-classification/QuoteAnnotator/README.md
 evaluation/evaluate.py
 evaluation/core.py
-evaluation/loaders/{booknlp,quoteannotator}.py
+evaluation/loaders/booknlp.py
 ```
 
 Reports are written under `data/results/` by default.
@@ -28,12 +26,11 @@ From `code/evaluation/`, evaluate saved predictions:
 
 ```bash
 python evaluate.py booknlp --data-path ../../data/intermediate/BookNLP_output
-python evaluate.py quoteannotator --data-path ../../data/intermediate/QuoteAnnotator_output
 ```
 
 Gold annotations are read directly from XML through `--gold-dir`; the default is `data/raw/quote_extraction_annotated`.
 
-To regenerate plain text, run `python code/pre-processing/extract_plain_text.py` from the repository root. BookNLP requires the Python `booknlp` package and downloads its model on first run. QuoteAnnotator requires Java 8+ and Stanford CoreNLP; set `CORENLP_DIR` to the directory containing its jars before running `bash code/classification/QuoteAnnotator/run_dialogism.sh`.
+To regenerate plain text, run `python code/pre-processing/extract_plain_text.py` from the repository root. BookNLP requires the Python `booknlp` package and downloads its model on first run.
 
 ## Scoring
 

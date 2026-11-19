@@ -1,0 +1,264 @@
+{
+  "threshold": 0.9,
+  "TP": 43,
+  "FP": 7,
+  "FN": 1,
+  "n_pred": 50,
+  "n_gold": 43,
+  "matched_gold": 42,
+  "precision": 0.86,
+  "recall": 0.9772727272727273,
+  "f1": 0.9148936170212766,
+  "predictions": [
+    {
+      "string": "Well,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iisdegentmandatistogetyouready,sodatyouwillbringmarseragoodpriceindeOrleansmarket.Howoldisyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IfIlivetoseenextcorn-plantingtimeIwilleitherbeforty-fiveorfifty-five,Idontknowwhich.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Datmaybe,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Butnowyouisonlythirtyyearsold;datiswhatmarsersaysyouistobe.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IknowIismoredendat,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iknowsnothingaboutdat,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butwhenyougetindemarket,ananybodyaxeyouhowoldyouis,anyoutellemforty-five,marserwilltieyouupangibyoudewhiplikesmoke.Butifyoutellemdatyouisonlythirty,denhewont.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wellden,IguessIwillonlybethirtywhendeyaxeme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatyourname?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Geemes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,UncleJim,isit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Denyoumusthaveoffdemdarewhiskersofyours,anwhenyougettoOrleansyoumustgreasedatfaceanmakeitlookshiney.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Howoldisyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwastwenty-ninelastpotato-diggingtime,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatsyourname?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MynameisTobias,butdeycallmeToby.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,Toby,orMr.Tobias,ifdatwillsuityoubetter,youisnowtwenty-threeyearsold,annomore.Dusyouheardat?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "oldboys",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Gocallmyboy,steward,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwillseeyou,andfivehundreddollarsbetter,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatpricedoyousetonthatboy?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hewillbringathousanddollars,anyday,intheNewOrleansmarket,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thenyoubetthewholeoftheboy,doyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Icallyou,then,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhavebeatme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwillnotforgetthatyoubelongtome,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowgobacktoyourbed,andbeupintimeto-morrowmorningtobrushmyclothesandcleanmyboots,doyouhear?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iclaimtherightofredeemingthatboy,Mr.Johnson.MyfathergavehimtomewhenIcameofage,andIpromisednottopartwithhim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Mostcertainly,sir,theboyshallbeyours,wheneveryouhandmeoveracoolthousand,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whodoyoubelongto?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhenIwenttosleeplastnight,IbelongedtoGovernorLucas;butIunderstanddatheisbingamblingallnight,soIdontknowwhoownsmedismorning.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwantagood,trustywomanforhouseservice,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Heresheis,andnomistake,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Standup,Currer,mygal;heresagentlemanwhowishestoseeifyouwillsuithim.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Sheisararecook,agoodwasher,andwillsuityoutoaT,Iamsure.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ifyoubuyme,Ihopeyouwillbuymydaughtertoo,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ionlywantoneformyownuse,andwouldnotneedanother,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "OureyesareyetonAfricsshores,Herthousandwrongswestilldeplore;Weseethegrimslavetraderthere;Wehearhisfetteredvictimsprayer;Andhastentothesufferersaid,Forgetfulofourownslavetrade.",
+      "best_similarity": 0.3604,
+      "correct": false
+    },
+    {
+      "string": "WhatearthlyeyepresumestoscanThewilyProteus-heartofman?—WhatpotenthandwilleerunrollThemantledtreacheryofhissoul!—OwhereishewhohathsurveyedThehorrorsofourownslavetrade?",
+      "best_similarity": 0.358,
+      "correct": false
+    },
+    {
+      "string": "CHAPTERIIITHENEGROCHASEWEshallnowreturntoNatchez,whereweleftCurrerinthehandsoftheMethodistparson.Formanyyears,Natchezhasenjoyedanotorietyfortheinhumanityandbarbarityofitsinhabitants,andthecrueldeedsperpetratedthere,whichhavenotbeenequalledinanyothercityintheSouthernStates.Thefollowingadvertisements,whichwetakefromanewspaperpublishedinthevicinity,willshowhowtheycatchtheirNegroeswhobelieveinthedoctrinethat",
+      "best_similarity": 0.3044,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Nov.6,1845.",
+      "best_similarity": 0.3333,
+      "correct": false
+    },
+    {
+      "string": "NOTICE.—Thesubscriber,LyingonCarrowayLake,onHoesBayou,inCarrollparish,sixteenmilesontheroadleadingfromBayouMasontoLakeProvidence,isreadywithapackofdogstohuntrunawayNegroesatanytime.Thesedogsarewelltrained,andareknownthroughouttheparish.LettersaddressedtomeatProvidencewillsecureimmediateattention.Mytermsarefivedollarsperdayforhuntingthetrails,whethertheNegroiscaughtornot.Whereatwelvehourstrailisshown,andtheNegronottaken,nochargeismade.FortakingaNegro,twenty-fivedollars,andnochargemadeforhunting.",
+      "best_similarity": 0.2922,
+      "correct": false
+    },
+    {
+      "string": "ThesedogswillattackaNegroattheirmastersbiddingandclingtohimasthebull-dogwillclingtoabeast.Manyarethespeculations,astowhethertheNegrowillbesecuredaliveordead,whenthesedogsoncegetonhistrack.AslavehunttookplacenearNatchez,afewdaysafterCurrersarrival,whichwascalculatedtogivehernofavourableopinionofthepeople.Twoslaveshadrunoffowingtoseverepunishment.Thedogswereputupontheirtrail.Theslaveswentintotheswamps,withthehopethatthedogswhenputontheirscentwouldbeunabletofollowthemthroughthewater.Thedogssoontooktotheswamp,whichliesbetweenthehighlands,whichwasnowcoveredwithwater,waistdeep:herethesefaithfulanimals,swimmingnearlyallthetime,followedthezigzagcourse,thetortuoustwistingsandwindingsofthesetwofugitives,who,itwasafterwardsdiscovered,werelost;sometimesscentingthetreewhereintheyhadfoundatemporaryrefugefromthemudandwater;atotherplaceswherethedeepmudhadpulledoffashoe,andtheyhadnottakentimetoputitonagain.Fortwohoursandahalf,forfourorfivemiles,didmenanddogswadethroughthisbushy,dismalswamp,surroundedwithgrim-visagedalligators,whoseemedtolookonwithjealouseyeatthisencroachmentoftheirhereditarydomain;nowlosingthetrail—thenslowlyanddubiouslytakingitoffagain,untiltheytriumphantlythreadeditout,bringingthembacktotheriver,whereitwasfoundthattheNegroeshadcrossedtheirowntrail,neartheplaceofstarting.Inthemeantimeaheavyshowerhadtakenplace,puttingoutthetrail.TheNegroeswerenowatleastfourmilesahead.",
+      "best_similarity": 0.1654,
+      "correct": false
+    }
+  ]
+}

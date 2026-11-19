@@ -1,0 +1,274 @@
+{
+  "threshold": 0.9,
+  "TP": 41,
+  "FP": 11,
+  "FN": 6,
+  "n_pred": 52,
+  "n_gold": 47,
+  "matched_gold": 41,
+  "precision": 0.7884615384615384,
+  "recall": 0.8723404255319149,
+  "f1": 0.8282828282828283,
+  "predictions": [
+    {
+      "string": "Standbackfromthatdoor,Harry,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thepoorsoulmustbesufferinggreatly,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leddy,please,miss,isdisdeLinktumhorsepittul?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,aunty,thisistheLincolnHospital,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thankee!ThankeeJesus!Thankee!Heahatlas!Deoleshipdunfounerharbur.GoterplacetercrossoberJordun.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Chile,doesyerknowanytingboutJesus?Oh!hepromismedis,anheskephisword.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Comewithme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leddy,kenyoufinapairubspecksfittenfuroneobmyage?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwilltry,aunty,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Leddy,pleasesingdatchuneergin,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lawsamussy!EfitaintLenie!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "AuntCatherine!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lenie,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DearAuntCatherine,dotellmeallaboutyourselfsincethedayIleftyoutowaiton—on—Harry.IsearchedR——from[Pg137]oneendtotheother,timeandagain,lookingforyou.AndhereyouareinChicago!Tellmehowyouhavefared?",
+      "best_similarity": 0.6643,
+      "correct": false
+    },
+    {
+      "string": "Chile,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "seeinyou,Lenie,hezdriverwayallmytrubbuls.Pearsterme,IdungotyoungerginanamdownSoufatdeolehome.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WenIretcheddecityarterleavindeolehomestid,Igunterhuntfurwuck.Igoterplacetercookfurerwhitefambly.Deleddydathiedmewuzuntrich.Shewusjesagoodliver.Herhusbansbiznessfelloffanshehadterhirejesoneomantercook,anwash,anine,anscrubdefloors,ankeephouse.Iwuzdefustertryit,butIkuddenholeout,chile.Ijeskudden.Ersprightlygaltuckmyplace.DenIhederhardtime,Lenie.YerAuntCatharinehedterbegfrumdoorterdoor.Isleponbarfloorsinshacklyhouses,datwuzemptykasefolkswouldntrentum.Iwenttodedumpsanscratchedindetrashpilesfurcharcoalsandscrapsterburnterkeepmewarm.IbeggedmoneyernuftercumterChurcargo,anheahIis.DeytolemedatLinktumwuzfrumdisStateanIwuzinhopesubdoinbettahupheah.But,Lenie,pearstermedatdepodarkyaintgotmuchubershowenywhurs.IhezfoundithardNorfanSouf.[Pg",
+      "best_similarity": 0.9979,
+      "correct": true
+    },
+    {
+      "string": "Well,henceforth,Ishalltakechargeofyou,andwalkthroughlifebyyourside,mydearAuntCatherine,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Aintthedoctahtoleyeryit?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Toldmewhat,mydear?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Why,chile,Iaintheahfurlong.DedoctahssezIkaintgitwell.Degospiltraindunblowed.Itisrollinintodedepot.CaptingJesusisdecunducter.Ihezmyticketready.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DeGospiltrainamcomin,Iheahitjesathan,Iheahdecarwheelsmovin,ErrumblinthroughdelanGitonbod,littlechillun,Gitonbod,littlechillun,Gitonbod,littlechillun,Daresroomfurmanymo.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,Lenie,Illsoonbeonbod,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "DeYankeeswasmightyanxioustosetuspoordarkeysfree,butitaintdonemenogood.Fackubdemattah,Lenie,freedummebbegoodfuryouyoungunswhowuzuntuseterdeoletimes.FuryoursakesIisgladitscome.ButIsehedahardtime.Enyhow,itismosobernow.MarseMauryisded,anMissusisded,anaupstartisondeoleplace,anhezbeendriftinbout[Pg139]frumpillarterpos.",
+      "best_similarity": 0.9603,
+      "correct": true
+    },
+    {
+      "string": "Doyerseedistinbox?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lenie,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "asyervalueyerownsoul,dowiddistinboxlackImgwinetertellyer.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wenyerwuzergal,Lenie,didyerebberheahdatourfustjutyonjedgmentdaywouldbetogitupfrumwhareberwewuzburritandhuntfurdediffruntpiecesubourfingernailsdatwehedcutoffallthroughlife?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,AuntCatherine,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Wal,disboxhezgotallmyfingernailsdatIcutoffsinceIwuzergal.BurydisboxatdefootubMauryandMissus,Lenie.WenjedgmentdaycomesIwanttergitupwiddem.Efmynailsisburritbydem,Illhavetergodarewhardeyis.See?Yerknowwhitefolksginillyaintgotheart-feltligunlikeculludfolks.ButMarseandMissusshuahgotshuahnufligun.Iwantstergitupwidumanstanbyuminjedgment,terspeakupfurum,efenybodywantstergoerginumjeskasedeyiswhite.See?Efdeydoanblonginhebun,dennobodydoan.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "But,AuntCatherine,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "whenyoudopassaway,whichIhopewillnotbesoon,letmeburyyourwholebodywhereyoutellmetoputthistinbox.LemuelDaltonsurelywouldnotrefusetoallowthefulfillmentofthesolemnpromisemadetoyoubyUncleMauriceandhiswife.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Chile,Ihedterselldisolebodyterdedoctahtergitmonyterlibonwhileheah.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh,AuntCatherine!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ha,ha,ha!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thataintsobad,Lenie,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IsolemysoulterJesuslongergo,anwenhetakesit,desedoctahskindowhutdeychoosewidmyporeolebody.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bettahbelaughinfurjoy,chile,furerfewmorerisinsansettinsubdesunanIllbeinglory.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WarthellMovement.",
+      "best_similarity": 0.3529,
+      "correct": false
+    },
+    {
+      "string": "SuresignthatIdidrighttoattackthatscoundrelWarthell,ifithasmadethisoldDemocraticpapermad.Ha,ha,ha!MorlenethoughtIwasdoingwrong.Iwasntthough,anybodycansee,[Pg143]forwhatwouldthisoldDemocraticpaperbekickingaboutifwhatIdidwasntagainstit?",
+      "best_similarity": 0.7927,
+      "correct": false
+    },
+    {
+      "string": "WellhearadifferenttunewhentheNorthernRepublicanpapersbegintodiscussourattempttogetridoftheseNegrotraitorswhoareplottingtoundoallthattheNorthhasdoneforus.ItakemymedicinefromtheNorth;lettheSouthgowhereitplease.See?AnyNegrothatwillstandupfortheSouthagainsttheNorthisaninfernal,ungrateful,goodfornothingrascal,andoughttobekilled.TellhimIsaidso.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nowweshallhearthethingtalkedaboutright.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ACrimeAgainstFreedom.",
+      "best_similarity": 0.375,
+      "correct": false
+    },
+    {
+      "string": "ACrimeAgainstFreedom.",
+      "best_similarity": 0.375,
+      "correct": false
+    },
+    {
+      "string": "Yes,yes;onlyitoughttobeAnUnpardonableCrime,forthatiswhatitwas.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "TheUnitedStatesofAmericaisagovernmentruledbythedulyascertainedwillofamajorityofitscitizens.Eachqualifiedcitizenhastherightofcastingonevoteinsupportofwhateversideofanissuethatpleaseshim.Eachcitizenhasthefurtherrighttousealllegitimatemeansinhispowertoinduceothercitizenstocasttheirvotesashecastshis.",
+      "best_similarity": 0.3925,
+      "correct": false
+    },
+    {
+      "string": "Therightofadvocacyis,ifpossible,moresacredthantherighttovote,forthevotesoffellowcitizensgowellnighthewholelengthinshapingamansenvironments.Sincethevotesofothersarethemajorityinfluenceindeterminingamansenvironments,itismanifestlyunjusttodenyhimtheopportunityofinfluencingthesevotes.Hewhostrikesatfreedomofspeechstrikesatthecorner-stoneofourrepublic,and,toourview,commitsthegreatestcrimethatacitizencancommitagainstagovernment.",
+      "best_similarity": 0.3765,
+      "correct": false
+    },
+    {
+      "string": "ItiswellknownthatweareinfullaccordwiththeRepublicanpartyspolicywithreferencetothe[Pg145]PhilippineIslands.Whilewearefirmlyoftheopinionthatthepartyisright,weneverthelessstrenuouslyinsistthatthosewhoholdcontraryviewsbeaccordedtherighttoadvocatethoseviews.",
+      "best_similarity": 0.3946,
+      "correct": false
+    },
+    {
+      "string": "DorlanWarthell,aNegrointheSouth,hasseenfittopubliclydisapproveofaportionofthepartyspolicy,whereuponaNegroRepublicanzealothassoughttotakehislife.TheRepublicanpartyrepudiatessuchvilemethodsandthemanwhoresortstothem.",
+      "best_similarity": 0.3834,
+      "correct": false
+    },
+    {
+      "string": "Mr.Warthellhasasmuchrighttoexpresshisviews,whatevertheymaybe,asthePresidentofthenation.ThefactthatheisamemberofaracethatobtaineditsfreedomthroughtheinstrumentalityoftheRepublicanpartydoesnotalterthematterintheleast.TheRepublicanpartyhasnopoliticalslavesanddesiresnone.Itseekstocommenditselftotheheartsandconsciencesofmen,andspurnseverysemblanceofcoercion.",
+      "best_similarity": 0.4086,
+      "correct": false
+    },
+    {
+      "string": "ThemiscreantwhosoughttokillMr.Warthell,becausethatindividualdaredtobeaman,isunworthyoflife.Ifthearmsofjusticearetooshorttoreachhim,itishardlytobehopedthathewillhavethegoodsensetobringhisownunprofitableexistencetoaclose.",
+      "best_similarity": 0.6132,
+      "correct": false
+    },
+    {
+      "string": "Icansurprisethemyet.TheysayItishardlytobehopedthathewillhavethegoodsensetobringhisownunprofitableexistencetoaclose.Aha!weshallsee!",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

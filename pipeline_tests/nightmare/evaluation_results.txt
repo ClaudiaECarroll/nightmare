@@ -1,0 +1,34 @@
+=== booknlp: character-level dialogue match (threshold=0.9) ===
+
+Dialogue is the positive class. A predicted quote is correct (TP) when its best
+character-level similarity to any gold quote in the same novel is >= threshold.
+FN = gold quotes with no prediction match at threshold.
+
+=== Per-Novel Results ===
+Book                  Pred  Gold   TP   FP   FN    Prec    Rec     F1
+---------------------------------------------------------------------
+11_manual_sample        99    92   81   18    9   0.818  0.900  0.857
+17862_manual_sample     13    10   10    3    1   0.769  0.909  0.833
+2046_manual_sample      50    43   43    7    1   0.860  0.977  0.915
+38830_manual_sample     52    47   41   11    6   0.788  0.872  0.828
+40814_manual_sample     69    64   61    8    5   0.884  0.924  0.904
+41646_manual_sample     57    40   26   31   14   0.456  0.650  0.536
+514_manual_sample       35    32   32    3    0   0.914  1.000  0.955
+54683_manual_sample     53    33   26   27    7   0.491  0.788  0.605
+6124_manual_sample       0    66    0    0   66   0.000  0.000  0.000
+840_manual_sample       59    46   36   23   10   0.610  0.783  0.686
+84_manual_sample        17    18   17    0    0   1.000  1.000  1.000
+883_manual_sample       78    65   64   14    1   0.821  0.985  0.895
+
+=== Corpus Totals (micro-averaged over all quotes) ===
+Predicted quotes: 582   Gold quotes: 556
+TP=437  FP=145  FN=120
+Precision: 0.751   Recall: 0.785   F1: 0.767
+Unmatched gold quotes (missed dialogue): 120
+
+=== Excluding 0 books with empty gold lists ===
+(These books have no gold quote strings in the nightmare dictionary,
+so predictions there can only add false positives.)
+Books excluded: none
+TP=437  FP=145  FN=120
+Precision: 0.751   Recall: 0.785   F1: 0.767

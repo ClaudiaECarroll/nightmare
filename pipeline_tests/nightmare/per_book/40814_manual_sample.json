@@ -1,0 +1,359 @@
+{
+  "threshold": 0.9,
+  "TP": 61,
+  "FP": 8,
+  "FN": 5,
+  "n_pred": 69,
+  "n_gold": 64,
+  "matched_gold": 59,
+  "precision": 0.8840579710144928,
+  "recall": 0.9242424242424242,
+  "f1": 0.9037037037037037,
+  "predictions": [
+    {
+      "string": "Youwillbehappyhere,dearRuth,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youwillbeyourownmistress.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Allthebetterforthat.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "silly;",
+      "best_similarity": 0.3636,
+      "correct": false
+    },
+    {
+      "string": "frivolous;",
+      "best_similarity": 0.3,
+      "correct": false
+    },
+    {
+      "string": "Well,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihopeyoullbeeasy,Mis.Hall,nowthatwevetotedouthere,bagandbaggage,topleaseyou,whenIsupposedIwassettledfortherestofmylife.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Fatherscantbeexpectedtohaveasmuchnaturalaffection,ortobeasself-sacrificingasmothers,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ofcourse,itwassometroubletomoveouthere;but,forHarryssake,Iwaswillingtodoit.WhatdoesRuthknowabouthouse-keeping,Idliketoknow?Aprettymussshellmakeofit,ifImnotaroundtooverseethings.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itstrikesme,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thatyouwontgetanythanksforit—fromonesideofthehouse,atleast.Ruthneversaysanythingwhenyouvexher,buttheresalookinhereyewhich—well,Mis.Hall,ittellsthewholestory.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iveseenit,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "andithasprovokedmeathousandtimesmorethanifshehadthrownabrick-batatmyhead.Thatgirlisnofool,doctor.Sheknowsverywellwhatsheisabout:butdiamondcutdiamond,Isay.Doctor,doctor,therearethehensinthegarden.Iwantthatgardenkeptnice.IsupposeRuththinksthatnobodycanhaveflowersbutherself.Waittillmychina-astersandsweetpeascomeup.Imgoingoverto-daytotakeapeeproundherhouse;Iwonderwhatitlookslike?Stuckfullofgimcracks,ofallsorts,Illwarrant.Well,IshantfurnishmybestparlortillIseewhatshehasgot.Ivelaidbyalittlemoney,and—",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Bettergiveittothemissionaries,Mis.Hall,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ItellyouRuthdontcareapinwhatyouhaveinyourparlor.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Dontyoubelieveit,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,anyhow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youcantgettheupperhandofherinthatline;i.e.,ifshehasamindthatyoushallnot.Harryisdoingaverygoodbusiness;andyouknowverywell,itisnousetotrytoblindyoureyestoit,thatifshewantedQueenVictoriassceptre,hedmanagetogetitforher.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThatsmorethanIcansayofyou,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "forallthatIusedtomendyouroldsaddle-bags,andoncemade,withmy[54]ownhands,apairofleathersmall-clothestoridehorsebackin.Fortyyears,doctor,Ivespentinyourservice.IdontlookmuchasIdidwhenyoumarriedme.Iwassaidthentohavewomanssevenbeauties,includingthedimpleinthechin,whichIseestillremains;",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ImighthavehadhimthatwasSquireSmith,orPetePacker,orJimJessup.Therewasntoneofemwhohadnotratherdothechoresonourfarm,thanonanyotherinthevillage.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pooh,pooh,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "dontbeanoldfool;thatwasbecauseyourfatherkeptgoodcider.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "thattellsthewholestory!",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "Asummerhouse,hey!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "asummerhouse!thatsthewaythemoneygoes,isit?Whathavewehere?abook;",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "poetry,Ideclare!themostfrivolousofallreading;allpencilmarked;—andheressomethinginRuthsownhand-writing—thatspoetry,too:worseandworse.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,wellseehowthekitchenofthispoetesslooks.Iwillgointothehousethebackway,andtakethembysurprise;thatsthewaytofindpeopleout.Noneofyourcompanyfacesforme.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "sixmilkpans!—wonderiftheybuytheirmilk,orkeepacow.Iftheybuyit,it[56]mustcostthemsomething;iftheykeepacow,Ivenoquestionthemilkishalfwasted.",
+      "best_similarity": 0.6763,
+      "correct": false
+    },
+    {
+      "string": "IsRuthin?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Who,Missis?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ruth.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MissisHallliveshere,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Exactly,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "sheismysonswife.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Oh!Ibegyourpardon,Missis,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IneverheardhernamecalledRuthafore:massacallsherbird,andsunbeam.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Issheathome?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "MissisisgoneramblingoffinthewoodswithlittleDaisy.Shespowerfulfondofflowers,andthings.Sheclimbsfenceslikeasquirl![57]itmakesthischillaftoseetheolfarmersstareather.",
+      "best_similarity": 0.8175,
+      "correct": false
+    },
+    {
+      "string": "Youmusthaveagreatdealtodo,here;",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ruthisntmuchofahandathouse-work.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Plentytodo,Missis,andwillinhandstodoit.Dinahdontcarehowhardsheworks,ifshedontworktothetuneofalash;andMissisHallgoessingingaboutthehousesothatitmakestimefly.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Shedonteverhelpyouany,doesshe?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Lorblessyou!yes,Missis.ShecomesrightinandmakesapieforMassaHarry,orcooksasteakjessaseasyasshepullsoffaflower;andwhenDinahscookinganythingnew,sheasksmorequestionshowitsdonethanthischilkinanswer.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youhaveagreatdealofcompany,Isuppose;thatmustmakeyouextratrouble,Ishouldthink;peopleridingoutfromthecitytosupper,whenyouareallthroughandclearedaway:dontittireyou?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "No;MissisHalltakesiteasy.Shelafsmerry,andsaystothecompany,yougetteaenoughinthecity,soIshantgiveyouany;wehadtealongago;butheressomefreshmilk,andsomeraspberriesandcake;andifyoucanteatthat,yououghttogohungry.",
+      "best_similarity": 0.7361,
+      "correct": false
+    },
+    {
+      "string": "SheironsHarrysshirts,Isuppose?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "She?sposedischillether?whenshessocareful,too,ofolDinahsbones?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Well,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Illwalkoverthehouseabit,Iguess;Iwonttroubleyoutowaitonme,Dinah;",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Thisistheparlor,hey?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Afewdollarslaidouthere,Iguess.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Musttakeadealoftimetogatherandfixem,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "WhobutRuthwouldeverhavespiedoutthattinylittleblossom?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "bestchamber.",
+      "best_similarity": 0.4167,
+      "correct": false
+    },
+    {
+      "string": "Venus,",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "Oh,Harry!isthistheendofallmyteachings?Well,itisallRuthsdoings—allRuthsdoings.Harryistobepitied,notblamed;",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Hallo!whatareyoudoingthere?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ploughingthisbitoground,sir.Mr.Halltoldmetobesureandgetitfinishedbeforehecamehomefromthecitythisafthernoon.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Nonsense!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "IwasbornsometimebeforemysonHarry;putupyourplough,andlaythatbitofstonewallyonder;thatneedstobedonefirst.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ImthinkingMastherHallwontbeaftherlikingitifIdo,sir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Ihadmyordersforthedaysworkbeforemastherwenttothecity,sir,thismorning.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Pooh,pooh,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "youngfolksthinkoldfolksarefools;oldfolksknowyoungfolkstobeso.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whatsthatfellowdoingoveryonder?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Plantingcorn,yerhonor.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Corn?ha!ha!cityfarming!Good.Corn?Thatsjustthespotforpotatoes.H-a-l-l-othere!Dontplantanymorecorninthatspot,John;itneverllcometoanything—never.",
+      "best_similarity": 1.0,
+      "correct": true
+    }
+  ]
+}

@@ -22,11 +22,9 @@ To add a new pipeline:
 """
 
 from . import booknlp
-from . import quoteannotator
 
 # Maps the CLI pipeline name to its module.
 # Each module must have: load_predictions(data_path, ann_dir) -> dict[str, list[str]]
 REGISTRY = {
     "booknlp": booknlp,
-    "quoteannotator": quoteannotator,
 }

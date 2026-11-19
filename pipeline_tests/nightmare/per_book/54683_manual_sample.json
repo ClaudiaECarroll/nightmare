@@ -1,0 +1,279 @@
+{
+  "threshold": 0.9,
+  "TP": 26,
+  "FP": 27,
+  "FN": 7,
+  "n_pred": 53,
+  "n_gold": 33,
+  "matched_gold": 26,
+  "precision": 0.49056603773584906,
+  "recall": 0.7878787878787878,
+  "f1": 0.6046511627906975,
+  "predictions": [
+    {
+      "string": "Lasainterecueihnentlapaisibleinnocence",
+      "best_similarity": 0.3947,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Thishappyspecimenofyourtalent,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "willbeverygratefultothePrince.Inhim,whohasnoothersleft,itisaveryinnocentpride,towishtoperpetuatethefadinghonoursofhisfamily--forassuchthegoodPrinceconsidersthese_ruins_.But,myyoungfriend,thereisanotherandasurerpathtothePrincesheart,towhichIshouldbemosthappytoleadyou.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Youwill,Ihope,pardonthelibertyIamgoingtotake;butasIboastthemeritofhavingfirstmadeyourmeritknowntoyourworthyhost,Iholdmyselfinsomedegree(smilingandpressingmyhand)accountableforyourconfirmingthepartialityIhaveawakenedinyourfavour.",
+      "best_similarity": 0.3919,
+      "correct": false
+    },
+    {
+      "string": "ThedaughterofthePrince,andmypupil,ofwhomyoucanhaveyetformednoopinion,isacreatureofsuchrareendowments,thatitshouldseemNature,asifforeseeingherisolateddestiny,hadopposedherownliberalitytothecharinessoffortune;andlavishedonhersuchintuitivetalents,thatshealmostsetsthenecessityofeducationatdefiance.Toallthatismostexcellentinthecircleofhumanintellect,orhumanscience,herversatilegeniusisconstantlydirected;anditismyrealopinion,thatnothingmoreisrequisitetoperfectherinanyliberalorelegantpursuit,butthatmethodorsystemwhicheventhestrangestnativetalent,unassisted,canseldomattain(withoutalongseriesofpracticalexperience)andwhichisunhappilydeniedher;whileherdoatingfatherincessantlymournsthatpoverty,whichwithholdsfromhimthepowerofcultivatingthoseshiningabilitiesthatwouldequallyenrichthesolitudeoftheirpossessor,orrenderheranornamenttothatsocietyshemayyetbedestinedtograce.Yettheoccasionalvisitsofastrollingdancing-master,andafewmusicallessonsreceivedinherearlychildhoodfromthefamilybard,arealltheadvantagesthesenativetalentshavereceived.",
+      "best_similarity": 0.6393,
+      "correct": false
+    },
+    {
+      "string": "Butwhothateverbeheldhermotionsinthedance,orlistenedtotheexquisitesensibilityofhersong,butwouldexclaim--hereisacreatureforwhomArtcandonothing--Naturehasdoneall!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Totheseelegantacquirements,sheunitesadecidedtalentfordrawing,arisingfrompowersnaturallyimitative,andatasteearlyimbibed(fromthecontemplationofhernativescenes)forallthatismostsublimeandbeautifulinnature.Butthis,ofallhertalents,hasbeentheleastassisted,andyetisthemostprizedbyherfather,who,Ibelieve,lamentshisinabilitytodetainyouhereasherpreceptor;orrather,tomakeitworthyourwhiletoforegoyourprofessionalpursuits,forsuchaperiodaswouldbenecessarytoinvestherwithsuchrudimentsintheart,aswouldformabasisforherfutureimprovement.Inaword,canyou,consistentlywithyourpresentplans,makethecastleofInismoreyourheadquartersfortwoorthreemonths,fromwhenceyoucantakefrequentexcursionsamidsttheneighbouringscenery,whichwillaffordtoyourpencilsubjectsrichandvariousasalmostanyotherpartofthecountry?",
+      "best_similarity": 0.5223,
+      "correct": false
+    },
+    {
+      "string": "Addthen,mydearSir,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "toalltheobligationsyouhaveforcedonme,bypresentingmyrespectfulcomplimentstothePrince,withtheofferofmylittleservices,andanearnestrequestthathewillcondescendtoacceptofthem;andifyouthinkitwilladdtothedelicacyoftheoffer,lethimsupposethatitvoluntarilycomesfromtheheartdeeplyimpressedwithasenseofhiskindness.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "ThatispreciselywhatIwasgoingtopropose,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iwouldevenwishhimtothinkyouconceivetheobligationallonyourownside;fortheprideoffallengreatnessisofallothersthemostsensitive.",
+      "best_similarity": 0.4135,
+      "correct": false
+    },
+    {
+      "string": "AndGodknowssoIdo,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "doyouthinkyourpupilhasadecidedtalentfortheart?",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Itmaybepartiality,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "butIthinkshehasadecidedtalentforeveryelegantacquirement.IfIrecollectright,somebodyhasdefined_genius_tobethevariouspowersofastrongminddirectedtoonepoint:makingitthe_result_ofcombinedforce,notthevitalsource,whenceallintellectualpowersflow;inwhichlight,thegeniusofGlorvinahaseverappearedtomeasabeamfromheaven,anemanationofdivineintelligence,whosenutritivewarmthcherishesintoexistencethatrichnessandvarietyoftalentwhichwantsonlyalittlecaretorearittoperfection.",
+      "best_similarity": 0.4238,
+      "correct": false
+    },
+    {
+      "string": "WhenIfirstofferedtobecomethepreceptortothischarmingchild,herfather,Ibelieve,neverformedanideathatmytuitionwouldhaveextendedbeyondalittlereadingandwriting;butIsoonfoundthatmyinterestingpupilpossessedageniusthatboreallbeforeit--thatalmostanticipatedinstructionbyforceofitstuitivepowers,andprizedeachtaskassignedit,onlyinproportiontothedifficultybywhichitwastobeaccomplished.",
+      "best_similarity": 0.3956,
+      "correct": false
+    },
+    {
+      "string": "Heryoungambitiousmindevenemulatedrivalrywithmine,andthatstudyinwhichshebeheldmeengagedseldomfailedtobecometheobjectofherdesiresandherassiduity.Availingmyself,therefore,ofthisinnatespiritofemulation--thisboundlessthirstofknowledge,Ilefthermindfreeintheelectionofitsstudies,whileIonlythrewwithinitspowerofacquisition,thatwhichcouldtendtorenderherarational,andconsequentlyabenevolentbeing;forIhavealwaysconceivedaninformed,intelligent,andenlightenedmind,tobethebestsecurityforagoodheart;althoughthemanywhomistaketalentforintellect,andunfortunatelytoooftenfindtheformerunitedtovice,andledtosupposethattheheartlosesingoodnesswhatthemindacquiresinstrength,asif(asacertainparadoxicalwriterhasasserted)therewassomethinginthenaturalmechanismofthehumanframenecessarytoconstituteafinegeniusthatisnotaltogetherfavourabletotheheart.",
+      "best_similarity": 0.6513,
+      "correct": false
+    },
+    {
+      "string": "Butherecomestheunconsciousthemeofourconversation.",
+      "best_similarity": 0.5135,
+      "correct": false
+    },
+    {
+      "string": "AsHebeswift,asVenusfair,",
+      "best_similarity": 0.381,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "O!Ihavebroughtyousomethingyouwillbegladtosee--hereisthespringsfirstviolet,whichtheunusualchillinessoftheseasonhassufferedtostealintoexistence:thismorningasIgatheredherbsatthefootofthemountain,IinhaleditsodourereIdiscovereditspurplehead,assolitaryandunassociateditwasdroopingbeneaththeheavyfoliageofaneighbouringplant.",
+      "best_similarity": 0.8614,
+      "correct": false
+    },
+    {
+      "string": "Itisbutjustyoushouldhavethefirstvioletasmyfatherhasalreadyhadthefirstsnowdrop.Receive,then,myoffering,",
+      "best_similarity": 0.3916,
+      "correct": false
+    },
+    {
+      "string": "Poichedaltrohonorate",
+      "best_similarity": 0.4,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "Youroffering,mydear,isindeedthe",
+      "best_similarity": 0.4082,
+      "correct": false
+    },
+    {
+      "string": "headded,presentingittome.",
+      "best_similarity": 0.4444,
+      "correct": false
+    },
+    {
+      "string": "_LaGuirlandedeJulie_",
+      "best_similarity": 0.35,
+      "correct": false
+    },
+    {
+      "string": "Maissisurvotrefrontjepeuxbrillerunjour,",
+      "best_similarity": 0.3768,
+      "correct": false
+    },
+    {
+      "string": "Oh!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iperceiveyoutoowillexpectatributaryflowerforthesecharminglines;andthesummersfirstrose--she",
+      "best_similarity": 0.9714,
+      "correct": true
+    },
+    {
+      "string": "shouldbethine,butthatthoumaystbefarfromhencewhenthesummersfirstroseappears.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "The_rose_,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "theroseistheflowerofLove.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iremember,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "beingseverelycensuredbyarigidoldpriest,atmycollegeinSt.Omers,whofoundmereadingtheIdyliumofAusonius,inwhichhesobeautifullycelebratestherose,whenthegoodfatherbelievedmedeepinSt.Augustin.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Therose,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "hasalwaysbeenthepoetsdarlingtheme.TheimpassionedlyreofSapphohasbreatheduponitsleaves.Anacreonhaswooeditinthehappiesteffusionsofhisgenius;andpoesyseemstohaveexhaustedherpowersincelebratingthecharmsofthemostbeautifulandtransientofflowers.",
+      "best_similarity": 0.6962,
+      "correct": false
+    },
+    {
+      "string": "Amongitsmodernpanegyrists,fewhavebeenmorehappilysuccessfulthanMonsieurdeBarnard,inthatcharminglittleodebeginning:",
+      "best_similarity": 0.4072,
+      "correct": false
+    },
+    {
+      "string": "Tendrefruitsdespleursdaurore,",
+      "best_similarity": 0.4074,
+      "correct": false
+    },
+    {
+      "string": "",
+      "best_similarity": 0.0,
+      "correct": false
+    },
+    {
+      "string": "O!Ibeseechyougoon,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Beautiful,beautiful!",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "O!thereisacertaindelicacyofgeniusineleganttriflesofthisdescription,whichIthinktheFrenchpossessalmostexclusively:itisalanguageformedalmostbyitsveryconstruction_aeterniserlabagatelle_,andtoclothethefairyeffusionsoffancyinthemostappropriatedrapery.",
+      "best_similarity": 0.5297,
+      "correct": false
+    },
+    {
+      "string": "Ithankyouforthisbeautifulode;therosewasalwaysmyidolflower;inallitsdifferentstagesofexistence,itspeaksalanguagemyheartunderstands;fromitsyoungbudsfirstcrimsonglow,tothelastsicklyblushofitsfadedblossom.Itistheflowerofsentimentinallitssweettransitions;itbreathesamoral,andseemstopreserveanundecayingsoulinthatfragrantessencewhichstillsurvivesthebloomandsymmetryofthefragileformwhicheverybeamtooardent,everygaletoochill,injuresanddestroys.",
+      "best_similarity": 0.7803,
+      "correct": false
+    },
+    {
+      "string": "Andisthere,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "noparallelinthemoralworldforthislovelyoffspringofthenatural?----",
+      "best_similarity": 0.9677,
+      "correct": true
+    },
+    {
+      "string": "Ivow,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Iamhalftemptedtoflingawaymyviolet,sincethis_idol_flowerhasbeendecreedtoMr.Mortimer;andtorevengemyself,Iwillshowhimyourodeontherose.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Whata_Hebe!_",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "Yes,",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "sheatleastillustratesthepossibilityofawomanunitinginhercharactertheextremesofintelligenceandsimplicity:yousee,withallherinformationandtalent,sheisamerechild.",
+      "best_similarity": 1.0,
+      "correct": true
+    },
+    {
+      "string": "bringswithitnosatiety.",
+      "best_similarity": 0.4,
+      "correct": false
+    }
+  ]
+}

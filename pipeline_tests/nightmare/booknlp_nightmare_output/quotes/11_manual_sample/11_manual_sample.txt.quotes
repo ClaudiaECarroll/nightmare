@@ -1,0 +1,100 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+0	5	7	7	Alice	9	“ Curiouser and curiouser ! ”
+29	49	7	7	Alice	9	“ now I ’m opening out like the largest telescope that ever was ! Good - bye , feet ! ”
+77	140	142	142	Alice	9	“ Oh , my poor little feet , I wonder who will put on your shoes and stockings for you now , dears ? I ’m sure I sha n’t be able ! I shall be a great deal too far off to trouble myself about you : you must manage the best way you can;—but I must be kind to them , ”
+144	174	142	142	Alice	9	“ or perhaps they wo n’t walk the way I want to go ! Let me see : I ’ll give them a new pair of boots every Christmas . ”
+188	196	197	197	she	-1	“ They must go by the carrier , ”
+200	223	197	197	she	-1	“ and how funny it ’ll seem , sending presents to one ’s own feet ! And how odd the directions will look !
+254	254	250	250	I	0	”
+343	352	354	354	Alice	9	“ You ought to be ashamed of yourself , ”
+356	363	365	365	she	-1	“ a great girl like you , ”
+372	389	354	354	Alice	9	“ to go on crying in this way ! Stop this moment , I tell you ! ”
+494	517	478	478	he	-1	“ Oh ! the Duchess , the Duchess ! Oh ! wo n’t she be savage if I ’ve kept her waiting ! ”
+552	559	542	542	she	-1	“ If you please , sir — ”
+616	703	604	604	she	-1	“ Dear , dear ! How queer everything is to - day ! And yesterday things went on just as usual . I wonder if I ’ve been changed in the night ? Let me think : was I the same when I got up this morning ? I almost think I can remember feeling a little different . But if I ’m not the same , the next question is , Who in the world am I ? Ah , that ’s the great puzzle ! ”
+736	745	746	746	she	-1	“ I ’m sure I ’m not Ada , ”
+749	934	936	936	she	-1	“ for her hair goes in such long ringlets , and mine does n’t go in ringlets at all ; and I ’m sure I ca n’t be Mabel , for I know all sorts of things , and she , oh ! she knows such a very little ! Besides , she ’s she , and I ’m I , and — oh dear , how puzzling it all is ! I ’ll try if I know all the things I used to know . Let me see : four times five is twelve , and four times six is thirteen , and four times seven is — oh dear ! I shall never get to twenty at that rate ! However , the Multiplication Table does n’t signify : let ’s try Geography . London is the capital of Paris , and Paris is the capital of Rome , and Rome — no , that ’s all wrong , I ’m certain ! I must have been changed for Mabel ! I ’ll try and say ‘ How doth the little — ’ ”
+979	1001	957	957	her	-1	“ How doth the little crocodile Improve his shining tail , And pour the waters of the Nile On every golden scale !
+1002	1026	1051	1051	she	-1	“ How cheerfully he seems to grin , How neatly spread his claws , And welcome little fishes in With gently smiling jaws ! ”
+1027	1038	1041	1041	Alice	9	“ I ’m sure those are not the right words , ”
+1055	1189	1191	1191	Alice	9	“ I must be Mabel after all , and I shall have to go and live in that poky little house , and have next to no toys to play with , and oh ! ever so many lessons to learn ! No , I ’ve made up my mind about it ; if I ’m Mabel , I ’ll stay down here ! It ’ll be no use their putting their heads down and saying ‘ Come up again , dear ! ’ I shall only look up and say ‘ Who am I then ? Tell me that first , and then , if I like being that person , I ’ll come up : if not , I ’ll stay down here till I ’m somebody else’—but , oh dear ! ”
+1200	1222	1191	1191	Alice	9	“ I do wish they would put their heads down ! I am so very tired of being all alone here ! ”
+1258	1266	1267	1267	she	-1	“ How can I have done that ? ”
+1270	1278	1267	1267	she	-1	“ I must be growing small again . ”
+1350	1357	1359	1359	Alice	9	“ That was a narrow escape ! ”
+1380	1387	1389	1389	she	-1	“ and now for the garden ! ”
+1425	1433	1435	1437	the poor child	-1	“ and things are worse than ever , ”
+1439	1464	1435	1437	the poor child	-1	“ for I never was so small as this before , never ! And I declare it ’s too bad , that it is ! ”
+1504	1516	1517	1517	she	-1	“ and in that case I can go back by railway , ”
+1612	1622	1624	1624	Alice	9	“ I wish I had n’t cried so much ! ”
+1638	1678	1624	1624	Alice	9	“ I shall be punished for it now , I suppose , by being drowned in my own tears ! That will be a queer thing , to be sure ! However , everything is queer to - day . ”
+1745	1755	1757	1757	Alice	9	“ Would it be of any use , now , ”
+1759	1800	1757	1757	Alice	9	“ to speak to this mouse ? Everything is so out - of - the - way down here , that I should think very likely it can talk : at any rate , there ’s no harm in trying . ”
+1805	1831	1802	1802	she	-1	“ O Mouse , do you know the way out of this pool ? I am very tired of swimming about here , O Mouse ! ”
+1868	1886	1802	1802	she	-1	“ A mouse — of a mouse — to a mouse — a mouse — O mouse ! ”
+1914	1922	1924	1924	Alice	9	“ Perhaps it does n’t understand English , ”
+1926	1942	1924	1924	Alice	9	“ I daresay it ’s a French mouse , come over with William the Conqueror . ”
+1972	1978	1968	1968	she	-1	“ Où est ma chatte ? ”
+2011	2019	2021	2021	Alice	9	“ Oh , I beg your pardon ! ”
+2035	2045	2026	2026	she	-1	“ I quite forgot you did n’t like cats . ”
+2046	2051	2053	2054	the Mouse	14	“ Not like cats ! ”
+2063	2073	2053	2054	the Mouse	14	“ Would you like cats if you were me ? ”
+2074	2080	2082	2082	Alice	9	“ Well , perhaps not , ”
+2088	2132	2082	2082	Alice	9	“ do n’t be angry about it . And yet I wish I could show you our cat Dinah : I think you ’d take a fancy to cats if you could only see her . She is such a dear quiet thing , ”
+2150	2198	2200	2200	Alice	9	“ and she sits purring so nicely by the fire , licking her paws and washing her face — and she is such a nice soft thing to nurse — and she ’s such a capital one for catching mice — oh , I beg your pardon ! ”
+2223	2238	2214	2214	she	-1	“ We wo n’t talk about her any more if you ’d rather not . ”
+2239	2243	2256	2256	his	-1	“ We indeed ! ”
+2259	2292	2256	2256	his	-1	“ As if I would talk on such a subject ! Our family always hated cats : nasty , low , vulgar things ! Do n’t let me hear the name again ! ”
+2293	2299	2301	2301	Alice	9	“ I wo n’t indeed ! ”
+2314	2327	2301	2301	Alice	9	“ Are you — are you fond — of — of dogs ? ”
+2340	2449	2451	2451	Alice	9	“ There is such a nice little dog near our house I should like to show you ! A little bright - eyed terrier , you know , with oh , such long curly brown hair ! And it ’ll fetch things when you throw them , and it ’ll sit up and beg for its dinner , and all sorts of things — I ca n’t remember half of them — and it belongs to a farmer , you know , and he says it ’s so useful , it ’s worth a hundred pounds ! He says it kills all the rats and — oh dear ! ”
+2457	2467	2451	2451	Alice	9	“ I ’m afraid I ’ve offended it again ! ”
+2502	2529	2496	2496	she	-1	“ Mouse dear ! Do come back again , and we wo n’t talk about cats or dogs either , if you do n’t like them ! ”
+2568	2598	2644	2644	Alice	9	“ Let us get to the shore , and then I ’ll tell you my history , and you ’ll understand why it is I hate cats and dogs . ”
+2781	2793	2760	2760	she	-1	“ I am older than you , and must know better ; ”
+2846	2867	2868	2868	They	-1	“ Sit down , all of you , and listen to me ! I ’ll soon make you dry enough ! ”
+2915	2918	2920	2921	the Mouse	14	“ Ahem ! ”
+2927	2998	2920	2921	the Mouse	14	“ are you all ready ? This is the driest thing I know . Silence all round , if you please ! ‘ William the Conqueror , whose cause was favoured by the pope , was soon submitted to by the English , who wanted leaders , and had been of late much accustomed to usurpation and conquest . Edwin and Morcar , the earls of Mercia and Northumbria — ’ ”
+2999	3002	3004	3005	the Lory	17	“ Ugh ! ”
+3011	3017	3019	3020	the Mouse	14	“ I beg your pardon ! ”
+3028	3033	3019	3020	the Mouse	14	“ Did you speak ? ”
+3034	3038	3040	3041	the Lory	17	“ Not I ! ”
+3044	3050	3052	3053	the Mouse	14	“ I thought you did , ”
+3055	3091	3052	3053	the Mouse	14	“ — I proceed . ‘ Edwin and Morcar , the earls of Mercia and Northumbria , declared for him : and even Stigand , the patriotic archbishop of Canterbury , found it advisable — ’ ”
+3092	3096	3098	3099	the Duck	22	“ Found what ? ”
+3101	3105	3106	3107	the Mouse	14	“ Found it , ”
+3112	3123	3106	3107	the Mouse	14	“ of course you know what ‘ it ’ means . ”
+3124	3141	3143	3144	the Duck	22	“ I know what ‘ it ’ means well enough , when I find a thing , ”
+3146	3166	3143	3144	the Duck	22	“ it ’s generally a frog or a worm . The question is , what did the archbishop find ? ”
+3180	3226	3167	3168	The Mouse	14	“ ‘ — found it advisable to go with Edgar Atheling to meet William and offer him the crown . William ’s conduct at first was moderate . But the insolence of his Normans — ’ How are you getting on now , my dear ? ”
+3237	3243	3245	3245	Alice	9	“ As wet as ever , ”
+3251	3262	3245	3245	Alice	9	“ it does n’t seem to dry me at all . ”
+3263	3268	3270	3271	the Dodo	24	“ In that case , ”
+3279	3296	3270	3271	the Dodo	24	“ I move that the meeting adjourn , for the immediate adoption of more energetic remedies — ”
+3297	3301	3303	3304	the Eaglet	25	“ Speak English ! ”
+3306	3333	3303	3304	the Eaglet	25	“ I do n’t know the meaning of half those long words , and , what ’s more , I do n’t believe you do either ! ”
+3354	3362	3364	3365	the Dodo	24	“ What I was going to say , ”
+3371	3389	3364	3365	the Dodo	24	“ was , that the best thing to get us dry would be a Caucus - race . ”
+3390	3398	3400	3400	Alice	9	“ What is a Caucus - race ? ”
+3435	3438	3440	3441	the Dodo	24	“ Why , ”
+3443	3455	3440	3441	the Dodo	24	“ the best way to explain it is to do it . ”
+3500	3508	3440	3441	the Dodo	24	“ the exact shape does n’t matter , ”
+3531	3541	3440	3441	the Dodo	24	“ One , two , three , and away , ”
+3595	3601	3590	3591	the Dodo	24	“ The race is over ! ”
+3614	3620	3603	3603	they	-1	“ But who has won ? ”
+3679	3690	3675	3676	the Dodo	24	“ Everybody has won , and all must have prizes . ”
+3691	3700	3718	3719	the Dodo	24	“ But who is to give the prizes ? ”
+3708	3716	3718	3719	the Dodo	24	“ Why , she , of course , ”
+3745	3750	3729	3731	the whole party	-1	“ Prizes ! Prizes ! ”
+3808	3820	3822	3823	the Mouse	14	“ But she must have a prize herself , you know , ”
+3825	3829	3830	3831	the Dodo	-1	“ Of course , ”
+3836	3846	3847	3847	he	-1	“ What else have you got in your pocket ? ”
+3855	3860	3862	3862	Alice	9	“ Only a thimble , ”
+3865	3871	3873	3874	the Dodo	24	“ Hand it over here , ”
+3894	3904	3886	3887	the Dodo	-1	“ We beg your acceptance of this elegant thimble ; ”
+4038	4050	4052	4052	Alice	9	“ You promised to tell me your history , you know , ”
+4054	4066	4067	4067	she	-1	“ and why it is you hate — C and D , ”
+4082	4092	4094	4095	the Mouse	14	“ Mine is a long and a sad tale ! ”
+4104	4113	4115	4115	Alice	9	“ It is a long tail , certainly , ”
+4127	4136	4115	4115	Alice	9	“ but why do you call it sad ? ”
+4163	4273	4138	4138	she	-1	“ Fury said to a mouse , That he met in the house , ‘ Let us both go to law : I will prosecute you.—Come , I ’ll take no denial ; We must have a trial : For really this morning I ’ve nothing to do . ’ Said the mouse to the cur , ‘ Such a trial , dear sir , With no jury or judge , would be wasting our breath . ’ ‘ I ’ll be judge , I ’ll be jury , ’ Said cunning old Fury : ‘ I ’ll try the whole cause , and condemn you to death . ’ ”

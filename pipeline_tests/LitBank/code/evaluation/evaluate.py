@@ -13,11 +13,6 @@ Usage
         --data-path /path/to/booknlp_output_python \\
         --ann-dir   /path/to/data/quotations
 
-    # Evaluate QuoteAnnotator output (a directory of per-book JSON files):
-    python evaluate.py quoteannotator \\
-        --data-path /path/to/data/intermediate/QuoteAnnotator_output \\
-        --ann-dir   /path/to/data/quotations
-
     # Tag a run to avoid overwriting previous results:
     python evaluate.py booknlp \\
         --data-path /path/to/booknlp_output_python \\
